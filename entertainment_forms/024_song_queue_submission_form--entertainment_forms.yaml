@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Song Queue Submission Form
+    pages:
+    - id: 1
+      name: song_request
+      label: Song Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: song_dedication
+      label: Song Dedication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: play_time
+      label: Play Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: preferred_play_time
+      label: Preferred Play Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: song_genre
+      label: Song Genre
+      hint: null
+      type: select_one
+      options:
+      - Hip Hop
+      - Electronic
+      - Indie
+      - Classical
+      - Rock
+      required: true
+    - id: 6
+      name: artist
+      label: Artist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: song_title
+      label: Song Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: true

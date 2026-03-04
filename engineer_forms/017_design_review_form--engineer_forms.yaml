@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Design Review Form
+    pages:
+    - id: 1
+      name: design_review_form
+      label: Page 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rating_scale
+      label: Rating Scale
+      hint: 1-10
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: designer_name
+      label: Designer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: design_team
+      label: Design Team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reviewer_title
+      label: Reviewer Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: design_review_date
+      label: Design Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: review_rating
+      label: Review Rating
+      hint: 'Scale: 1-10'
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: false
+    - id: 12
+      name: overall_impact
+      label: Overall Impact
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: project_status
+      label: Project Status
+      hint: In Progress, Completed, Deferred
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: reviewer_email
+      label: Reviewer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: reviewer_phone
+      label: Reviewer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reviewer_notes
+      label: Reviewer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: reviewer_rating
+      label: Reviewer Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 19
+      name: final_status
+      label: Final Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 20
+      name: reviewer_signature
+      label: Reviewer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: designer_signature
+      label: Designer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: designer_comments
+      label: Designer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: designer_notes
+      label: Designer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: reviewer_status
+      label: Reviewer Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

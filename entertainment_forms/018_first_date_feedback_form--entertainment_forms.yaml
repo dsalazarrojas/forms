@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: First Date Feedback Form
+    pages:
+    - id: 1
+      name: first_date
+      label: First date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: matchmaker
+      label: Matchmaker
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: first_impression
+      label: First impression
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Very positive''}'
+      - '{''value'': ''Positive''}'
+      - '{''value'': ''Neutral''}'
+      - '{''value'': ''Negative''}'
+      - '{''value'': ''Very negative''}'
+      required: false
+    - id: 4
+      name: communication
+      label: Communication
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Poor''}'
+      required: false
+    - id: 5
+      name: physical_attractiveness
+      label: Physical attractiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: date_location
+      label: Date location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: overall_experience
+      label: Overall experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: would_date_again
+      label: Would date again
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      - '{''value'': ''Undecided''}'
+      required: false

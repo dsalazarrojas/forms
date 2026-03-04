@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Visual Arts Evaluation Form
+    pages:
+    - id: 1
+      name: student_info
+      label: Student Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: artwork_info
+      label: Artwork Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: evaluation
+      label: Evaluation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: grade
+      label: Grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: student_feedback
+      label: Student Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: teacher_feedback
+      label: Teacher Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: evaluation_scale
+      label: Evaluation Scale
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: evaluation_scale_label
+      label: Evaluation Scale Label
+      hint: null
+      type: text
+      options: []
+      required: false

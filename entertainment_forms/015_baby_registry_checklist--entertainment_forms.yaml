@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Baby Registry Checklist
+    pages:
+      - id: 1
+        name: parent_name
+        label: Parent name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: due_date
+        label: Due date
+        hint: Expected delivery date
+        type: date
+        options: []
+        required: false
+      - id: 3
+        name: nursery_items_needed
+        label: Nursery items needed
+        hint: Check items to add to registry
+        type: select_multiple
+        options: [Crib, Mattress, Bedding, Changing table, Rocker]
+        required: false
+      - id: 4
+        name: feeding_items
+        label: Feeding items
+        hint: Bottles breast pump high chair
+        type: select_multiple
+        options: [Bottles, Breast pump, High chair, Nursing pillow]
+        required: false
+      - id: 5
+        name: clothing_sizes
+        label: Preferred clothing sizes
+        hint: Newborn 0-3 3-6 6-12 months
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: travel_gear
+        label: Travel gear needed
+        hint: Car seat stroller carrier
+        type: select_multiple
+        options: [Car seat, Stroller, Carrier, Travel crib]
+        required: false
+      - id: 7
+        name: gift_preferences
+        label: Gift preferences
+        hint: Any notes for gift givers
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: shipping_address
+        label: Shipping address
+        hint: Where gifts should be sent
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: registry_link
+        label: Registry link
+        hint: Optional link to online registry
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: completion_status
+        label: Checklist completion status
+        hint: Update as items are added
+        type: note
+        options: []
+        required: false

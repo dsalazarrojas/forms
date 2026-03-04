@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: wildlife_care_training_evaluation_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Wildlife Care Training Evaluation Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating_scale
+      label: How would you rate the training?
+      hint: null
+      type: select_one
+      options:
+      - 1 - Excellent
+      - 2 - Good
+      - 3 - Fair
+      - 4 - Poor
+      required: false
+    - id: 3
+      name: comments
+      label: Comments
+      hint: Please provide any additional comments or suggestions.
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_id
+      label: Participant ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: training_date
+      label: Date of Training
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: training_facilitator
+      label: Facilitator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: training_facilitator_email
+      label: Facilitator Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: evaluation_date
+      label: Date of Evaluation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Metrics Clarity Survey
+    pages:
+    - id: 1
+      name: page_1
+      label: performance_metrics_clarity_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_2
+      label: metrics_target_alignment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: page_3
+      label: employee_understanding
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: page_4
+      label: performance_metrics_understanding
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 5
+      name: page_5
+      label: target_achievement
+      hint: null
+      type: select_multiple
+      options:
+      - Met
+      - Partially Met
+      - Not Met
+      - No target set
+      required: true
+    - id: 6
+      name: page_6
+      label: metrics_alignment_improvement_plan
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Neutral
+      - Disagree
+      required: true
+    - id: 7
+      name: page_7
+      label: metrics_alignment_improvement_plan_action
+      hint: null
+      type: select_one
+      options:
+      - Action Plan
+      - No action plan
+      required: true
+    - id: 8
+      name: page_8
+      label: metrics_alignment_improvement_plan_progress
+      hint: null
+      type: select_one
+      options:
+      - In progress
+      - Not in progress
+      required: true
+    - id: 9
+      name: page_9
+      label: metrics_alignment_improvement_plan_effectiveness
+      hint: null
+      type: select_one
+      options:
+      - Effectiveness
+      - Neutral
+      - Not effective
+      required: true
+    - id: 10
+      name: page_10
+      label: comments
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true

@@ -1,0 +1,274 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Present Form
+    pages:
+      - id: 1
+        name: recipient_name
+        label: Recipient Full Name
+        hint: Who is this gift for
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: recipient_email
+        label: Email Address
+        hint: Optional email for recipient
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: relationship
+        label: Your Relationship
+        hint: How are you related to recipient
+        type: select_one
+        options:
+          - Spouse or Partner
+          - Parent
+          - Child
+          - Sibling
+          - Friend
+          - Co-worker
+          - Other Family
+          - Other
+        required: true
+      - id: 4
+        name: recipient_age_group
+        label: Recipient Age Group
+        hint: Select age range
+        type: select_one
+        options:
+          - Under 5
+          - 5-12 years
+          - 13-17 years
+          - 18-24 years
+          - 25-34 years
+          - 35-44 years
+          - 45-54 years
+          - 55-64 years
+          - 65 or older
+        required: true
+      - id: 5
+        name: section_recipient_info
+        label: -- Recipient Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: gift_category_interest
+        label: Gift Category Interest
+        hint: What categories interest them
+        type: select_multiple
+        options:
+          - Electronics and Gadgets
+          - Clothing and Accessories
+          - Home and Kitchen
+          - Books and Media
+          - Sports and Outdoors
+          - Beauty and Personal Care
+          - Food and Gourmet
+          - Toys and Games
+          - Jewelry
+          - Experiences
+          - Gift Cards
+        required: true
+      - id: 7
+        name: favorite_colors
+        label: Favorite Colors
+        hint: What colors do they like
+        type: select_multiple
+        options:
+          - Black
+          - White
+          - Blue
+          - Red
+          - Green
+          - Purple
+          - Pink
+          - Gray
+          - Brown
+          - No preference
+        required: false
+      - id: 8
+        name: size_information
+        label: Size Information
+        hint: For clothing or wearable items
+        type: select_one
+        options:
+          - Not applicable
+          - Extra Small
+          - Small
+          - Medium
+          - Large
+          - Extra Large
+          - XXL or Larger
+        required: false
+      - id: 9
+        name: section_preferences
+        label: -- Preferences --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: hobby_interests
+        label: Hobby Interests
+        hint: What are their hobbies
+        type: select_multiple
+        options:
+          - Reading
+          - Gaming
+          - Cooking
+          - Gardening
+          - Fitness and Exercise
+          - Music
+          - Art and Crafts
+          - Photography
+          - Travel
+          - Sports
+          - Technology
+          - Movies and TV
+        required: true
+      - id: 11
+        name: favorite_brands
+        label: Favorite Brands
+        hint: Any brands they love
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: wishlist_items
+        label: Wishlist Items
+        hint: Specific items they mentioned
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: section_hobbies
+        label: -- Hobbies and Interests --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: gift_budget
+        label: Gift Budget
+        hint: What is your budget range
+        type: select_one
+        options:
+          - Under 25
+          - 25 to 50
+          - 50 to 100
+          - 100 to 200
+          - 200 to 500
+          - Over 500
+        required: true
+      - id: 15
+        name: gift_type_preference
+        label: Gift Type Preference
+        hint: What type of gift do they prefer
+        type: select_one
+        options:
+          - Physical products
+          - Gift cards
+          - Experiences
+          - Subscriptions
+          - Homemade items
+          - Charitable donations
+          - No preference
+        required: true
+      - id: 16
+        name: practical_vs_fun
+        label: Practical vs Fun
+        hint: What do they prefer
+        type: select_one
+        options:
+          - Practical useful gifts
+          - Fun novelty gifts
+          - Mix of both
+          - No preference
+        required: true
+      - id: 17
+        name: section_gift_style
+        label: -- Gift Style --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: dietary_restrictions
+        label: Dietary Restrictions
+        hint: If giving food gifts
+        type: select_multiple
+        options:
+          - None
+          - Vegetarian
+          - Vegan
+          - Gluten-Free
+          - Dairy-Free
+          - Nut Allergy
+          - Halal
+          - Kosher
+          - Low Sugar
+        required: false
+      - id: 19
+        name: allergies
+        label: Allergies
+        hint: Any known allergies
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: things_to_avoid
+        label: Things to Avoid
+        hint: What should not be gifted
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: section_restrictions
+        label: -- Restrictions --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: past_gifts_received
+        label: Past Gifts Received
+        hint: What have they liked before
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: past_gifts_disliked
+        label: Past Gifts Disliked
+        hint: What did not go over well
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: gift_message_idea
+        label: Gift Message Idea
+        hint: What message would be meaningful
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: additional_notes
+        label: Additional Notes
+        hint: Any other helpful information
+        type: text
+        options: []
+        required: false

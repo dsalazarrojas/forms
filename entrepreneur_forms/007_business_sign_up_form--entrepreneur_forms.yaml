@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Sign Up Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: Your company or business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_type
+      label: Type of Business
+      hint: What is your business model?
+      type: select_one
+      options:
+      - Sole Proprietorship
+      - Partnership
+      - LLC
+      - Corporation
+      - Startup
+      - Nonprofit
+      - Other
+      required: true
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Your business or personal email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: password
+      label: Create a Password
+      hint: At least 8 characters with letters and numbers
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: confirm_password
+      label: Confirm Password
+      hint: Re-enter your password
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: industry
+      label: Industry
+      hint: What industry are you in?
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Retail
+      - Manufacturing
+      - Services
+      - Education
+      - Real Estate
+      - Hospitality
+      - Other
+      required: true
+    - id: 10
+      name: business_address
+      label: Business Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: postal_code
+      label: Postal Code
+      hint: ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: website
+      label: Business Website (optional)
+      hint: Your website URL if you have one
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: employees_count
+      label: Number of Employees
+      hint: How many people work at your business?
+      type: select_one
+      options:
+      - Just me
+      - 2-5 employees
+      - 6-10 employees
+      - 11-50 employees
+      - 51-100 employees
+      - 100+ employees
+      required: true
+    - id: 17
+      name: annual_revenue
+      label: Annual Revenue (optional)
+      hint: null
+      type: select_one
+      options:
+      - Less than $10000
+      - $10000 - $50000
+      - $50000 - $100000
+      - $100000 - $500000
+      - $500000 - $1 million
+      - Over $1 million
+      required: false
+    - id: 18
+      name: how_heard
+      label: How did you hear about us?
+      hint: What was your primary source?
+      type: select_one
+      options:
+      - Social media
+      - Search engine
+      - Referral from friend
+      - Advertisement
+      - Industry event
+      - Email marketing
+      - Other
+      required: true
+    - id: 19
+      name: terms_agreement
+      label: I agree to the Terms and Conditions
+      hint: You must accept to continue
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 20
+      name: newsletter_signup
+      label: Subscribe to our newsletter
+      hint: Receive updates and offers
+      type: select_one
+      options:
+      - Yes, subscribe me
+      - No, do not subscribe
+      required: false

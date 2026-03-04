@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lash Volume Refill Session Consent Form
+    pages:
+    - id: 1
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 4
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: false
+    - id: 6
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: lash_treatment
+      label: Lash Treatment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: consent_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: lash_technician
+      label: Lash Technician
+      hint: null
+      type: select_one
+      options:
+      - Technician 1
+      - Technician 2
+      - Technician 3
+      required: true
+    - id: 11
+      name: lash_technician_signature
+      label: Lash Technician Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 13
+      name: client_date
+      label: Client Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - Jimmy
+      - John
+      required: true
+    - id: 15
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: assigned_by
+      label: Assigned By
+      hint: null
+      type: select_one
+      options:
+      - Jimmy
+      - John
+      required: true
+    - id: 17
+      name: assigned_time
+      label: Assigned Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      required: true
+    - id: 19
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - Jimmy
+      - John
+      required: false
+    - id: 21
+      name: updated_date
+      label: Updated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - Jimmy
+      - John
+      required: true
+    - id: 24
+      name: notes
+      label: Notes
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 25
+      name: updated
+      label: Updated
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

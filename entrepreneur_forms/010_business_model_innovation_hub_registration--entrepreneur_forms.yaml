@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Model Innovation Hub Registration
+    pages:
+    - id: 1
+      name: participant_name
+      label: Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: Primary email contact
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_location
+      label: Location/City
+      hint: Where are you based?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_name
+      label: Business/Project Name
+      hint: Name of your business or startup
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_stage
+      label: Business Stage
+      hint: What stage is your business in?
+      type: select_one
+      options:
+      - Idea Stage
+      - MVP/Prototype
+      - Early Traction
+      - Growth Stage
+      - Established
+      required: true
+    - id: 7
+      name: industry_focus
+      label: Industry Focus
+      hint: What industry are you in?
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Cleantech
+      - EdTech
+      - Agritech
+      - Other
+      required: true
+    - id: 8
+      name: problem_statement
+      label: Problem Statement
+      hint: What problem are you solving?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: target_market
+      label: Target Market
+      hint: Who is your target customer?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: team_size
+      label: Current Team Size
+      hint: How many team members do you have?
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: funding_status
+      label: Current Funding Status
+      hint: Have you secured funding?
+      type: select_one
+      options:
+      - Bootstrapped
+      - Seeking Seed Funding
+      - Seed Funded
+      - Series A
+      - Series B+
+      - Self-funded
+      required: true
+    - id: 12
+      name: program_goals
+      label: Goals for Innovation Hub Program
+      hint: What do you hope to achieve?
+      type: select_multiple
+      options:
+      - Develop Business Model
+      - Find Co-founders
+      - Secure Funding
+      - Market Validation
+      - Product Development
+      - Scaling Strategy
+      - Networking
+      required: true
+    - id: 13
+      name: previous_experience
+      label: Entrepreneurial Experience
+      hint: Have you started a business before?
+      type: select_one
+      options:
+      - First-time Entrepreneur
+      - Serial Entrepreneur
+      - Corporate Transition
+      - Academic Spinoff
+      required: false
+    - id: 14
+      name: key_skill_areas
+      label: Key Skill Areas
+      hint: Your main areas of expertise
+      type: select_multiple
+      options:
+      - Product Development
+      - Sales and Marketing
+      - Technology/Engineering
+      - Finance and Operations
+      - Strategic Planning
+      - Industry Domain
+      required: false
+    - id: 15
+      name: mentorship_interests
+      label: Mentorship Interests
+      hint: Areas where you need guidance
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: network_interests
+      label: Networking Interests
+      hint: Types of connections you seek
+      type: select_multiple
+      options:
+      - Investors
+      - Potential Customers
+      - Technical Partners
+      - Service Providers
+      - Other Entrepreneurs
+      - Advisors/Mentors
+      required: false
+    - id: 17
+      name: preferred_cohort_size
+      label: Preferred Cohort Size
+      hint: Group size preference for learning
+      type: select_one
+      options:
+      - Small (5-10)
+      - Medium (10-20)
+      - Large (20+)
+      - No Preference
+      required: false
+    - id: 18
+      name: commitment_level
+      label: Commitment Level
+      hint: How much time can you dedicate?
+      type: select_one
+      options:
+      - Part-time
+      - Full-time
+      - Flexible
+      required: true
+    - id: 19
+      name: consent_communication
+      label: I agree to program communications
+      hint: May we contact you about updates?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: additional_interests
+      label: Additional Information
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false

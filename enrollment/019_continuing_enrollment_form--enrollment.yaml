@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Continuing Enrollment Form
+    pages:
+    - id: 1
+      name: student_full_name
+      label: Student Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id_number
+      label: Student ID Number
+      hint: University ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: University email preferred
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: major
+      label: Major
+      hint: Primary field of study
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: minor
+      label: Minor
+      hint: Secondary field of study
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: academic_year
+      label: Academic Year
+      hint: Current year level
+      type: select_one
+      options:
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      - Graduate
+      required: true
+    - id: 8
+      name: semester_enrolling
+      label: Semester Enrolling
+      hint: Which semester?
+      type: select_one
+      options:
+      - Spring 2026
+      - Summer 2026
+      - Fall 2026
+      required: true
+    - id: 9
+      name: enrollment_status
+      label: Enrollment Status
+      hint: Full-time or part-time
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      required: true
+    - id: 10
+      name: credit_hours
+      label: Credit Hours
+      hint: Number of credits
+      type: select_one
+      options:
+      - 1-5 credits
+      - 6-9 credits
+      - 10-12 credits
+      - 13-15 credits
+      - 16+ credits
+      required: true
+    - id: 11
+      name: course_selection_1
+      label: Course Selection 1
+      hint: First choice course
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: course_selection_2
+      label: Course Selection 2
+      hint: Second choice course
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: course_selection_3
+      label: Course Selection 3
+      hint: Third choice course
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: course_selection_4
+      label: Course Selection 4
+      hint: Fourth choice course
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: course_selection_5
+      label: Course Selection 5
+      hint: Fifth choice course
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: gpa_current
+      label: Current GPA
+      hint: Grade point average
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: academic_standing
+      label: Academic Standing
+      hint: Current standing
+      type: select_one
+      options:
+      - Good standing
+      - Dean's list
+      - Honor roll
+      - Probation
+      - Other
+      required: true
+    - id: 18
+      name: financial_aid_status
+      label: Financial Aid Status
+      hint: Are you receiving aid?
+      type: select_one
+      options:
+      - Receiving aid
+      - Applying for aid
+      - Not receiving aid
+      required: true
+    - id: 19
+      name: tuition_payment_plan
+      label: Tuition Payment Plan
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Pay in full
+      - Monthly installments
+      - Financial aid
+      - Scholarship
+      - Loan
+      required: true
+    - id: 20
+      name: advisor_name
+      label: Advisor Name
+      hint: Academic advisor
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: special_circumstances
+      label: Special Circumstances
+      hint: Any特殊情况 affecting enrollment
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: terms_agreement
+      label: Terms Agreement
+      hint: I agree to enrollment terms
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true

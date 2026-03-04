@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: cybersecurity_awareness_training_feedback_evaluation_form
+    pages:
+    - id: 1
+      name: form_title
+      label: Cybersecurity Awareness Training Feedback Evaluation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Evaluation Forms'', ''value'': ''Evaluation Forms''}'
+      - '{''id'': 2, ''label'': ''Feedback Forms'', ''value'': ''Feedback Forms''}'
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: user_rating
+      label: User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: form_submission_id
+      label: Form Submission ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''chatjimmy'', ''value'': ''chatjimmy''}'
+      - Other
+      required: false
+    - id: 15
+      name: form_version
+      label: Form Version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: form_created_at
+      label: Form Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: form_updated_at
+      label: Form Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: form_completed_at
+      label: Form Completed At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: form_submission_count
+      label: Form Submission Count
+      hint: null
+      type: number
+      options: []
+      required: false

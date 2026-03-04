@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Science Fair Judging Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_title
+      label: Project Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_category
+      label: Project Category
+      hint: null
+      type: select_one
+      options:
+      - category_a
+      - category_b
+      - category_c
+      required: false
+    - id: 4
+      name: judge_initials
+      label: Judge Initials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: score
+      label: Score (0-5)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: date_judged
+      label: Date Judged
+      hint: null
+      type: date
+      options: []
+      required: false

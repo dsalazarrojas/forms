@@ -1,0 +1,239 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2021 Employee Benefit Enrollment
+    pages:
+    - id: 1
+      name: section_employee_info
+      label: '--- Employee Information ---'
+      hint: Please verify your personal information is current
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID Number
+      hint: Enter your 6-digit employee ID from your badge
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: full_name
+      label: Full Legal Name
+      hint: As it appears on your Social Security card
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Work Email Address
+      hint: Confirmation and plan documents will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Primary Contact Phone
+      hint: Mobile number preferred for urgent benefits notifications
+      type: phone
+      options: []
+      required: true
+    - id: 7
+      name: mailing_address
+      label: Current Mailing Address
+      hint: Street, City, State, ZIP (for insurance cards)
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_health_insurance
+      label: '--- Health Insurance Selection ---'
+      hint: Changes take effect January 1, 2021. Compare details in benefits guide.
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: medical_plan
+      label: Medical Plan Selection
+      hint: PPO offers flexibility; HDHP eligible for HSA; HMO requires referrals
+      type: select_one
+      options:
+      - PPO Premium (Higher cost, lower deductible)
+      - PPO Standard (Mid-range coverage)
+      - HDHP with HSA (Lower premiums, high deductible)
+      - HMO Network (Primary care coordinator required)
+      - Decline Medical Coverage
+      required: true
+    - id: 10
+      name: coverage_tier
+      label: Coverage Level
+      hint: Who will be covered under your medical plan?
+      type: select_one
+      options:
+      - Employee Only
+      - Employee + Spouse/Partner
+      - Employee + Child(ren)
+      - Employee + Family
+      required: true
+    - id: 11
+      name: dental_coverage
+      label: Dental Coverage
+      hint: null
+      type: select_one
+      options:
+      - Basic Preventive (Cleanings only)
+      - Standard Coverage (Fillings, basic procedures)
+      - Premium Plus (Orthodontia included)
+      - Decline Dental Coverage
+      required: true
+    - id: 12
+      name: vision_coverage
+      label: Vision Coverage
+      hint: Includes annual eye exam and frame/lens allowances
+      type: select_one
+      options:
+      - Basic Vision ($150 frame allowance)
+      - Enhanced Vision ($250 allowance, contact lens coverage)
+      - Decline Vision Coverage
+      required: true
+    - id: 13
+      name: section_life_disability
+      label: '--- Life & Disability Insurance ---'
+      hint: Protect your income and family's financial security
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: life_insurance
+      label: Supplemental Life Insurance
+      hint: Company provides 1x salary at no cost. Choose additional coverage.
+      type: select_one
+      options:
+      - 1x Salary (Company paid basic)
+      - 2x Annual Salary (Employee paid supplemental)
+      - 3x Annual Salary (Maximum coverage)
+      - Decline Supplemental Life
+      required: true
+    - id: 15
+      name: short_term_disability
+      label: Short-Term Disability
+      hint: Replaces portion of income if unable to work (0-26 weeks)
+      type: select_one
+      options:
+      - 60% of salary (Standard)
+      - 70% of salary (Enhanced)
+      - Decline Coverage
+      required: true
+    - id: 16
+      name: voluntary_benefits
+      label: Voluntary Benefits (select all that apply)
+      hint: Premiums deducted pre-tax from paycheck
+      type: select_multiple
+      options:
+      - Accident Insurance
+      - Critical Illness Coverage
+      - Hospital Indemnity
+      - Legal Services Plan
+      - Identity Theft Protection
+      required: false
+    - id: 17
+      name: section_retirement
+      label: '--- Retirement Savings (401k) ---'
+      hint: Elections for 2021 plan year. Company match is 50% up to 6% of salary.
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: contribution_percentage
+      label: Contribution Percentage
+      hint: Enter percentage of salary to contribute (0.0 to 100.0, e.g., 5.5)
+      type: decimal
+      options: []
+      required: true
+    - id: 19
+      name: contribution_type
+      label: Contribution Tax Treatment
+      hint: Traditional reduces taxable income now; Roth grows tax-free
+      type: select_one
+      options:
+      - Traditional Pre-Tax
+      - Roth After-Tax
+      - Split 50/50 Between Both
+      required: true
+    - id: 20
+      name: section_beneficiary
+      label: '--- Beneficiary & Final Details ---'
+      hint: Required for life insurance and 401k accounts
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: primary_beneficiary_name
+      label: Primary Beneficiary Full Name
+      hint: Person who receives benefits if you pass away
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: beneficiary_relationship
+      label: Relationship to Beneficiary
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: tobacco_status
+      label: Tobacco Use Status
+      hint: Affects health insurance premium rates
+      type: select_one
+      options:
+      - Non-Tobacco User (No use in past 6 months)
+      - Tobacco User
+      required: true
+    - id: 24
+      name: commuter_benefits
+      label: Commuter Benefits Election
+      hint: Pre-tax deduction up to $270/month for parking or transit
+      type: select_one
+      options:
+      - Monthly Parking Pass
+      - Public Transit Pass
+      - Both Parking and Transit
+      - No Commuter Benefits
+      required: false
+    - id: 25
+      name: special_circumstances
+      label: Special Enrollment Qualifying Events
+      hint: Marriage, divorce, birth, adoption, loss of other coverage, etc.
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: acknowledgment_signature
+      label: Electronic Signature
+      hint: Type your full legal name to confirm these selections are accurate
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cooking Event Registration Form
+    pages:
+    - id: 1
+      name: event_title
+      label: event title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: attendee name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_date
+      label: event date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: event_time
+      label: event time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: enrolled_events
+      label: enrolled events
+      hint: null
+      type: select_multiple
+      options:
+      - Event 1
+      - Event 2
+      - Event 3
+      required: false
+    - id: 8
+      name: enrolled_event_date
+      label: enrolled event date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: enrolled_event_time
+      label: enrolled event time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: enrolled_event_location
+      label: enrolled event location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Bank transfer
+      - PayPal
+      required: false
+    - id: 12
+      name: payment_amount
+      label: payment amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: form_description
+      label: Form Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: form_category
+      label: Form Category
+      hint: null
+      type: text
+      options: []
+      required: false

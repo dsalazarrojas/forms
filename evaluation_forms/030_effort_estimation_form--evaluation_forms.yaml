@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Effort Estimation Form
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: select_one
+      options:
+      - Project Lead
+      - Team Lead
+      - Team Member
+      required: false
+    - id: 6
+      name: team_member
+      label: Team Member
+      hint: null
+      type: select_multiple
+      options:
+      - Member 1
+      - Member 2
+      - Member 3
+      required: false
+    - id: 7
+      name: estimated_man_hours
+      label: Estimated Man Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: estimated_man_hours_per_week
+      label: Estimated Man Hours Per Week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: estimated_man_days
+      label: Estimated Man Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: estimated_duration
+      label: Estimated Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: budget_allocated
+      label: Budget Allocated
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: resource_type
+      label: Resource Type
+      hint: null
+      type: select_one
+      options:
+      - Hardware
+      - Software
+      - Personnel
+      required: false
+    - id: 13
+      name: resources_allocated
+      label: Resources Allocated
+      hint: null
+      type: select_multiple
+      options:
+      - Resource 1
+      - Resource 2
+      - Resource 3
+      required: false
+    - id: 14
+      name: manpower_allocated
+      label: Manpower Allocated
+      hint: null
+      type: select_multiple
+      options:
+      - Skill 1
+      - Skill 2
+      - Skill 3
+      required: false
+    - id: 15
+      name: risk_type
+      label: Risk Type
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 16
+      name: risk_impact
+      label: Risk Impact
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 17
+      name: risk_probability
+      label: Risk Probability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

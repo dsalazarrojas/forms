@@ -1,0 +1,357 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cleaning Equipment Inventory Checklist
+    pages:
+      - id: 1
+        name: location_name
+        label: Location Name
+        hint: Name of the location or facility
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: location_address
+        label: Location Address
+        hint: Full address of the location
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: inventory_date
+        label: Inventory Date
+        hint: Date of this inventory check
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: inventory_conducted_by
+        label: Inventory Conducted By
+        hint: Name of person conducting inventory
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: section_header_vacuum_cleaners
+        label: -- Vacuum Cleaners --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: upright_vacuums_count
+        label: Upright Vacuum Cleaners - Quantity
+        hint: Number of upright vacuums
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: upright_vacuums_condition
+        label: Upright Vacuum Cleaners - Condition
+        hint: Overall condition
+        type: select_one
+        options:
+          - Excellent - All working perfectly
+          - Good - Minor wear, all functional
+          - Fair - Some need repair
+          - Poor - Most need replacement
+        required: true
+      - id: 8
+        name: canister_vacuums_count
+        label: Canister Vacuum Cleaners - Quantity
+        hint: Number of canister vacuums
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: canister_vacuums_condition
+        label: Canister Vacuum Cleaners - Condition
+        hint: Overall condition
+        type: select_one
+        options:
+          - Excellent - All working perfectly
+          - Good - Minor wear, all functional
+          - Fair - Some need repair
+          - Poor - Most need replacement
+        required: true
+      - id: 10
+        name: backpack_vacuums_count
+        label: Backpack Vacuum Cleaners - Quantity
+        hint: Number of backpack vacuums
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: backpack_vacuums_condition
+        label: Backpack Vacuum Cleaners - Condition
+        hint: Overall condition
+        type: select_one
+        options:
+          - Excellent - All working perfectly
+          - Good - Minor wear, all functional
+          - Fair - Some need repair
+          - Poor - Most need replacement
+        required: true
+      - id: 12
+        name: wet_dry_vacuums_count
+        label: Wet or Dry Vacuum Cleaners - Quantity
+        hint: Number of wet or dry vacuums
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: wet_dry_vacuums_condition
+        label: Wet or Dry Vacuum Cleaners - Condition
+        hint: Overall condition
+        type: select_one
+        options:
+          - Excellent - All working perfectly
+          - Good - Minor wear, all functional
+          - Fair - Some need repair
+          - Poor - Most need replacement
+        required: true
+      - id: 14
+        name: section_header_floor_care
+        label: -- Floor Care Equipment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: floor_buffer_count
+        label: Floor Buffers or Polishers - Quantity
+        hint: Number of floor buffers
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: floor_buffer_condition
+        label: Floor Buffers or Polishers - Condition
+        hint: Overall condition
+        type: select_one
+        options:
+          - Excellent - All working perfectly
+          - Good - Minor wear, all functional
+          - Fair - Some need repair
+          - Poor - Most need replacement
+        required: true
+      - id: 17
+        name: carpet_cleaner_count
+        label: Carpet Cleaners or Extractors - Quantity
+        hint: Number of carpet cleaners
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: carpet_cleaner_condition
+        label: Carpet Cleaners or Extractors - Condition
+        hint: Overall condition
+        type: select_one
+        options:
+          - Excellent - All working perfectly
+          - Good - Minor wear, all functional
+          - Fair - Some need repair
+          - Poor - Most need replacement
+        required: true
+      - id: 19
+        name: floor_scrubber_count
+        label: Floor Scrubbers - Quantity
+        hint: Number of floor scrubbers
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: floor_scrubber_condition
+        label: Floor Scrubbers - Condition
+        hint: Overall condition
+        type: select_one
+        options:
+          - Excellent - All working perfectly
+          - Good - Minor wear, all functional
+          - Fair - Some need repair
+          - Poor - Most need replacement
+        required: true
+      - id: 21
+        name: steam_cleaners_count
+        label: Steam Cleaners - Quantity
+        hint: Number of steam cleaners
+        type: text
+        options: []
+        required: true
+      - id: 22
+        name: steam_cleaners_condition
+        label: Steam Cleaners - Condition
+        hint: Overall condition
+        type: select_one
+        options:
+          - Excellent - All working perfectly
+          - Good - Minor wear, all functional
+          - Fair - Some need repair
+          - Poor - Most need replacement
+        required: true
+      - id: 23
+        name: section_header_tools_supplies
+        label: -- Cleaning Tools and Supplies --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 24
+        name: mop_buckets_count
+        label: Mop and Bucket Sets - Quantity
+        hint: Number of mop and bucket sets
+        type: text
+        options: []
+        required: true
+      - id: 25
+        name: mop_buckets_condition
+        label: Mop and Bucket Sets - Condition
+        hint: Overall condition
+        type: select_one
+        options:
+          - Excellent - All in great shape
+          - Good - Minor wear
+          - Fair - Some need replacement
+          - Poor - Most need replacement
+        required: true
+      - id: 26
+        name: brooms_count
+        label: Brooms - Quantity
+        hint: Number of brooms
+        type: text
+        options: []
+        required: true
+      - id: 27
+        name: dustpans_count
+        label: Dustpans - Quantity
+        hint: Number of dustpans
+        type: text
+        options: []
+        required: true
+      - id: 28
+        name: scrub_brushes_count
+        label: Scrub Brushes - Quantity
+        hint: Number of scrub brushes
+        type: text
+        options: []
+        required: true
+      - id: 29
+        name: squeegees_count
+        label: Squeegees - Quantity
+        hint: Number of squeegees
+        type: text
+        options: []
+        required: true
+      - id: 30
+        name: extension_poles_count
+        label: Extension Poles - Quantity
+        hint: Number of extension poles
+        type: text
+        options: []
+        required: true
+      - id: 31
+        name: section_header_safety_equipment
+        label: -- Safety Equipment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 32
+        name: safety_goggles_count
+        label: Safety Goggles - Quantity
+        hint: Number of pairs
+        type: text
+        options: []
+        required: true
+      - id: 33
+        name: safety_gloves_count
+        label: Cleaning Gloves - Quantity
+        hint: Number of pairs
+        type: text
+        options: []
+        required: true
+      - id: 34
+        name: face_masks_count
+        label: Face Masks - Quantity
+        hint: Number of masks
+        type: text
+        options: []
+        required: true
+      - id: 35
+        name: first_aid_kits_count
+        label: First Aid Kits - Quantity
+        hint: Number of first aid kits
+        type: text
+        options: []
+        required: true
+      - id: 36
+        name: wet_floor_signs_count
+        label: Wet Floor Signs - Quantity
+        hint: Number of caution signs
+        type: text
+        options: []
+        required: true
+      - id: 37
+        name: section_header_issues
+        label: -- Equipment Issues and Notes --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 38
+        name: equipment_needing_repair
+        label: Equipment Needing Repair
+        hint: List items that need repair
+        type: text
+        options: []
+        required: false
+      - id: 39
+        name: equipment_needing_replacement
+        label: Equipment Needing Replacement
+        hint: List items that need replacement
+        type: text
+        options: []
+        required: false
+      - id: 40
+        name: missing_equipment
+        label: Missing Equipment
+        hint: List any missing items
+        type: text
+        options: []
+        required: false
+      - id: 41
+        name: new_equipment_needed
+        label: New Equipment Recommended
+        hint: List any new equipment that should be purchased
+        type: text
+        options: []
+        required: false
+      - id: 42
+        name: additional_notes
+        label: Additional Notes
+        hint: Any other observations or comments
+        type: text
+        options: []
+        required: false
+      - id: 43
+        name: supervisor_review
+        label: Supervisor Review Status
+        hint: Status of supervisor review
+        type: select_one
+        options:
+          - Reviewed and Approved
+          - Reviewed with Comments
+          - Pending Review
+          - Action Required
+        required: true

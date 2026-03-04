@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Zoo Visitor Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: zoo_visit_date
+      label: Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: zoo_visit_time
+      label: Visit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: animal_seen
+      label: Animal Seen
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: animal_type
+      label: Type of Animal
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: zoo_comment
+      label: Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: zoo_satisfaction
+      label: Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 10
+      name: zoo_would_visit_again
+      label: Would Visit Again
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: zoo_satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 12
+      name: zoo_recommendation
+      label: Recommend
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

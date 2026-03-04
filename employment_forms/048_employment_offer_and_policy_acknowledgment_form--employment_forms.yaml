@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employment Offer And Policy Acknowledgment Form
+    pages:
+    - id: 1
+      name: new_employment_offer
+      label: New Employment Offer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employment_terms
+      label: Employment Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: acknowledgment_date
+      label: Acknowledgment Date
+      hint: Date of acknowledgment
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: acknowledgment_time
+      label: Acknowledgment Time
+      hint: Time of acknowledgment
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: employee_signature
+      label: Employee Signature
+      hint: Employee signature
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager_signature
+      label: Manager Signature
+      hint: Manager signature
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: job_title
+      label: Job Title
+      hint: null
+      type: select_one
+      options:
+      - Intern
+      - Full-time Employee
+      - Part-time Employee
+      - Contractor
+      - Freelancer
+      - Temporary Employee
+      required: false

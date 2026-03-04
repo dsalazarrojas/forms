@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: NGO Program Evaluation Data Consent Form
+    pages:
+    - id: 1
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: consent
+      label: Consent
+      hint: Please indicate your consent for data collection.
+      type: select_one
+      options:
+      - Yes, please use my data
+      - 'No'
+      required: true
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: program_start_date
+      label: Program Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: program_end_date
+      label: Program End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: evaluation_start_date
+      label: Evaluation Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: evaluation_end_date
+      label: Evaluation End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: consent_details
+      label: Consent Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: staff_member_signature
+      label: Staff Member Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: staff_member_name
+      label: Staff Member Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: staff_title
+      label: Staff Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: staff_contact_info
+      label: Staff Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: staff_email
+      label: Staff Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: staff_organization
+      label: Staff Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: staff_phone
+      label: Staff Phone
+      hint: null
+      type: text
+      options: []
+      required: false

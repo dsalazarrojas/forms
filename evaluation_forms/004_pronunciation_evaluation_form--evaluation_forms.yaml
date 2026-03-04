@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pronunciation Evaluation Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_audio
+      label: Student Audio
+      hint: Please upload an audio file
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: evaluator_name
+      label: Evaluator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: score
+      label: Score
+      hint: Score 1-5
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_audio_comment
+      label: Student Audio Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: audio_feedback
+      label: Audio Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: evaluator_audio_comment
+      label: Evaluator Audio Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: evaluation_comment
+      label: Evaluation Comment
+      hint: Please provide feedback on pronunciation
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: score_comment
+      label: Score Comment
+      hint: null
+      type: text
+      options: []
+      required: false

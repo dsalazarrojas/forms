@@ -1,0 +1,243 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cluster Analysis Assessment
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: Name or title of your clustering project
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: analyst_name
+      label: Analyst Name
+      hint: Full name of the person conducting analysis
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization
+      hint: Company or institution name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Contact email for follow-up questions
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: project_date
+      label: Project Date
+      hint: Date of this assessment
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: analysis_purpose
+      label: Purpose of Cluster Analysis
+      hint: What is the main goal of this analysis
+      type: select_one
+      options:
+      - Customer Segmentation
+      - Market Research
+      - Data Exploration
+      - Pattern Recognition
+      - Anomaly Detection
+      - Classification Support
+      - Other
+      required: true
+    - id: 7
+      name: dataset_description
+      label: Dataset Description
+      hint: Brief description of the data being analyzed
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: data_source
+      label: Data Source
+      hint: Where does the data come from
+      type: select_one
+      options:
+      - Internal Database
+      - Public Dataset
+      - Survey Collection
+      - Third-Party Provider
+      - Web Scraping
+      - API Integration
+      - Other
+      required: true
+    - id: 9
+      name: sample_size
+      label: Approximate Sample Size
+      hint: Number of records in your dataset
+      type: select_one
+      options:
+      - Less than 100
+      - 100-500
+      - 501-1000
+      - 1001-5000
+      - 5001-10000
+      - Over 10000
+      required: true
+    - id: 10
+      name: number_of_variables
+      label: Number of Variables
+      hint: How many features or columns in your data
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: variable_types
+      label: Variable Types Present
+      hint: Select all types present in your dataset
+      type: select_multiple
+      options:
+      - Numerical Continuous
+      - Numerical Discrete
+      - Categorical Nominal
+      - Categorical Ordinal
+      - Binary
+      - Date-Time
+      - Text
+      required: true
+    - id: 12
+      name: preprocessing_done
+      label: Data Preprocessing Completed
+      hint: Have you cleaned and prepared the data
+      type: select_one
+      options:
+      - Yes Fully
+      - Partially
+      - No Not Yet
+      required: true
+    - id: 13
+      name: preprocessing_steps
+      label: Preprocessing Steps Applied
+      hint: Select all steps you have taken
+      type: select_multiple
+      options:
+      - Missing Value Handling
+      - Outlier Treatment
+      - Data Normalization
+      - Data Standardization
+      - Feature Encoding
+      - Feature Selection
+      - Dimensionality Reduction
+      required: false
+    - id: 14
+      name: clustering_algorithm
+      label: Clustering Algorithm
+      hint: Which algorithm will you use or have used
+      type: select_one
+      options:
+      - K-Means
+      - Hierarchical Clustering
+      - DBSCAN
+      - Gaussian Mixture Models
+      - Spectral Clustering
+      - Mean Shift
+      - Not Decided Yet
+      required: true
+    - id: 15
+      name: expected_clusters
+      label: Expected Number of Clusters
+      hint: Do you have a target number of clusters
+      type: select_one
+      options:
+      - 2-3 clusters
+      - 4-6 clusters
+      - 7-10 clusters
+      - More than 10
+      - Unknown
+      required: false
+    - id: 16
+      name: validation_method
+      label: Cluster Validation Method
+      hint: How will you evaluate cluster quality
+      type: select_one
+      options:
+      - Silhouette Score
+      - Elbow Method
+      - Davies-Bouldin Index
+      - Calinski-Harabasz Score
+      - Manual Inspection
+      - Not Sure
+      required: false
+    - id: 17
+      name: software_tools
+      label: Software Tools Used
+      hint: Select tools you are using for analysis
+      type: select_multiple
+      options:
+      - Python
+      - R
+      - SPSS
+      - SAS
+      - Excel
+      - Tableau
+      - Power BI
+      - Other
+      required: true
+    - id: 18
+      name: challenges_faced
+      label: Challenges Faced
+      hint: What difficulties have you encountered
+      type: select_multiple
+      options:
+      - Data Quality Issues
+      - Choosing K Value
+      - Interpreting Results
+      - Computational Resources
+      - Time Constraints
+      - Lack of Domain Knowledge
+      - None So Far
+      required: false
+    - id: 19
+      name: stakeholder_presentation
+      label: Will Results Be Presented to Stakeholders
+      hint: Is this analysis for business decision makers
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 20
+      name: deliverables
+      label: Expected Deliverables
+      hint: What outputs do you need from this analysis
+      type: select_multiple
+      options:
+      - Cluster Assignments
+      - Cluster Profiles
+      - Visualization Charts
+      - Statistical Report
+      - Actionable Recommendations
+      - Interactive Dashboard
+      required: true
+    - id: 21
+      name: timeline
+      label: Project Timeline
+      hint: When do you need results
+      type: select_one
+      options:
+      - Within 1 Week
+      - 1-2 Weeks
+      - 2-4 Weeks
+      - 1-2 Months
+      - Flexible
+      required: true
+    - id: 22
+      name: additional_requirements
+      label: Additional Requirements
+      hint: Any other specific needs or constraints
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: device_status_report_form
+    pages:
+    - id: 1
+      name: device_status_report_form_1
+      label: Device Condition
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: device_status_report_form_2
+      label: Maintenance Needs
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 3
+      name: device_status_report_form_3
+      label: Maintenance Scheduling
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: device_status_report_form_4
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: device_status_report_form_5
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: device_status_report_form_6
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - IT
+      - Operations
+      - Maintenance
+      required: false

@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Class Enrollment Form
+    pages:
+    - id: 1
+      name: student_info_header
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: false
+    - id: 6
+      name: student_id
+      label: Student ID Number
+      hint: If transferring or continuing
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_info_header
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: class_info_header
+      label: -- Class Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: class_name
+      label: Class Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: class_level
+      label: Class Level or Grade
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Other
+      required: true
+    - id: 17
+      name: course_duration
+      label: Course Duration
+      hint: null
+      type: select_one
+      options:
+      - Full semester
+      - Half semester
+      - 4 weeks
+      - 8 weeks
+      - 12 weeks
+      - Other
+      required: true
+    - id: 18
+      name: start_date
+      label: Preferred Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: schedule_preference
+      label: Schedule Preference
+      hint: null
+      type: select_one
+      options:
+      - Morning sessions
+      - Afternoon sessions
+      - Evening sessions
+      - Flexible
+      - Online
+      - Hybrid
+      required: true
+    - id: 20
+      name: enrollment_type
+      label: Enrollment Type
+      hint: null
+      type: select_one
+      options:
+      - New student
+      - Returning student
+      - Transfer student
+      - Audit
+      required: true
+    - id: 21
+      name: learning_header
+      label: -- Learning Preferences and Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: learning_goals
+      label: Learning Goals for this Class
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: previous_experience
+      label: Previous Experience with this Subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: special_accommodations
+      label: Any Special Accommodations Needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: consent_agreement
+      label: I agree to the enrollment terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true

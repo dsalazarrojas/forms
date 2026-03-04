@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: illuminati_join_application_form
+    pages:
+    - id: 1
+      name: discord_username
+      label: Discord username
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: discord_tag
+      label: Discord tag
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: streamer_experience
+      label: Streamer experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - Moderator
+      - Gamer
+      - Streamer
+      - Community Moderator
+      required: false
+    - id: 6
+      name: discord_mod_experience
+      label: Discord mod experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: community_mod_experience
+      label: Community mod experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: join_reason
+      label: Join reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_info
+      label: Additional info
+      hint: null
+      type: text
+      options: []
+      required: false

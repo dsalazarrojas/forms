@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cost Efficiency Progress Survey
+    pages:
+    - id: 1
+      name: survey_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: cost_center
+      label: Cost Center
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: cost_category
+      label: Cost Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: cost_actual
+      label: Cost Actual
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: cost_budgeted
+      label: Budgeted Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: cost_variance
+      label: Cost Variance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: survey_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: survey_comment
+      label: Survey Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: survey_status
+      label: Survey Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

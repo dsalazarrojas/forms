@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Candidate International Training Service Enrollment Form
+    pages:
+    - id: 1
+      name: applicant_info_section
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_full_name
+      label: Full Name
+      hint: Your legal name as per your passport
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_nationality
+      label: Nationality
+      hint: Country of your primary citizenship
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: applicant_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: applicant_passport_number
+      label: Passport Number
+      hint: For international enrollment and visa processing
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: current_country_residence
+      label: Current Country of Residence
+      hint: Where are you currently living
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: applicant_email
+      label: Email Address
+      hint: Primary email for all enrollment communication
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: applicant_phone
+      label: Phone Number
+      hint: Include your country code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: course_selection_section
+      label: -- Course Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: preferred_training_program
+      label: Preferred Training Program
+      hint: Choose the course you are applying for
+      type: select_one
+      options:
+      - International Business
+      - Data Science
+      - Language Studies
+      - Professional Leadership
+      - Project Management
+      - Other
+      required: true
+    - id: 11
+      name: enrollment_term_choice
+      label: Enrollment Term
+      hint: When would you like to start
+      type: select_one
+      options:
+      - Fall 2026
+      - Winter 2027
+      - Spring 2027
+      - Summer 2027
+      required: true
+    - id: 12
+      name: level_of_study_pref
+      label: Level of Study
+      hint: What is the academic level of the course
+      type: select_one
+      options:
+      - Undergraduate
+      - Graduate
+      - Certification
+      - Diploma
+      required: true
+    - id: 13
+      name: background_motivation_section
+      label: -- Background and Motivation --
+      hint: help us understand your profile
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: highest_education_summary
+      label: Highest Level of Education
+      hint: Most recent degree or qualification
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: work_experience_brief
+      label: Relevant Work Experience
+      hint: Briefly describe your professional background
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: motivation_reason_text
+      label: Reason for choosing this program
+      hint: What are your goals for this training
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: english_proficiency_level
+      label: English Proficiency
+      hint: Rate your command of the English language
+      type: select_one
+      options:
+      - Native
+      - Advanced
+      - Intermediate
+      - Basic
+      required: true
+    - id: 18
+      name: logistics_support_section
+      label: -- Logistics and Support --
+      hint: Travel and stay arrangements
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: visa_assistance_req
+      label: Visa Assistance Required
+      hint: Do you need help with your student visa application
+      type: select_one
+      options:
+      - true
+      - false
+      - Already have one
+      required: true
+    - id: 20
+      name: accommodation_assistance_req
+      label: Accommodation Assistance
+      hint: Would you like us to help you find housing
+      type: select_one
+      options:
+      - Yes, please help
+      - No, I will arrange it
+      required: true
+    - id: 21
+      name: dietary_medical_needs
+      label: Any dietary requirements or medical needs
+      hint: Tell us about allergies or health conditions we should know
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: application_confirmation_section
+      label: -- Confirmation --
+      hint: Final step to submit
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: data_accuracy_certify
+      label: I certify all details are accurate
+      hint: My signature confirms all information provided is true
+      type: select_one
+      options:
+      - I certify
+      - I do not certify
+      required: true
+    - id: 24
+      name: application_submission_date
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: true

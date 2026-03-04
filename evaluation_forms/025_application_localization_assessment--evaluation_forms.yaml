@@ -1,0 +1,240 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Application Localization Assessment
+    pages:
+    - id: 1
+      name: assessment_details
+      label: -- Assessment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: assessor_name
+      label: Assessor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: assessor_role
+      label: Assessor Role
+      hint: null
+      type: select_one
+      options:
+      - QA Tester
+      - Localization Manager
+      - Product Manager
+      - Developer
+      - Native Speaker
+      - Other
+      required: true
+    - id: 5
+      name: application_details
+      label: -- Application Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: application_name
+      label: Application Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: application_version
+      label: Application Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assessment_type
+      label: Assessment Type
+      hint: null
+      type: select_one
+      options:
+      - Website
+      - Mobile app
+      - Desktop application
+      - Web service API
+      - Software documentation
+      required: true
+    - id: 9
+      name: language_tested
+      label: Language Being Assessed
+      hint: null
+      type: select_one
+      options:
+      - Spanish
+      - French
+      - German
+      - Chinese
+      - Japanese
+      - Arabic
+      - Portuguese
+      - Other
+      required: true
+    - id: 10
+      name: region_locale
+      label: Region or Locale
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: translation_quality
+      label: -- Translation Quality --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: translation_accuracy
+      label: Overall translation accuracy
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Poor
+      - Unacceptable
+      required: true
+    - id: 13
+      name: terminology_consistency
+      label: Terminology consistency throughout app
+      hint: null
+      type: select_one
+      options:
+      - Consistent
+      - Mostly consistent
+      - Somewhat consistent
+      - Inconsistent
+      - Highly inconsistent
+      required: true
+    - id: 14
+      name: contextual_appropriateness
+      label: Are translations contextually appropriate?
+      hint: null
+      type: select_one
+      options:
+      - Highly appropriate
+      - Appropriate
+      - Somewhat appropriate
+      - Not appropriate
+      - Inappropriate
+      required: false
+    - id: 15
+      name: cultural_adaptation
+      label: -- Cultural Adaptation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: cultural_sensitivity
+      label: Cultural sensitivity and appropriateness
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Poor
+      - Offensive
+      required: true
+    - id: 17
+      name: date_format_correctness
+      label: Date and time formats correct for locale?
+      hint: null
+      type: select_one
+      options:
+      - Correct
+      - Mostly correct
+      - Some issues
+      - Incorrect
+      - Not applicable
+      required: false
+    - id: 18
+      name: currency_format
+      label: Currency format correct for region?
+      hint: null
+      type: select_one
+      options:
+      - Correct
+      - Mostly correct
+      - Some issues
+      - Incorrect
+      - Not applicable
+      required: false
+    - id: 19
+      name: layout_functionality
+      label: -- Layout and Functionality --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: text_overflow_issues
+      label: Any text overflow or display issues?
+      hint: null
+      type: select_one
+      options:
+      - No issues
+      - Minor issues
+      - Moderate issues
+      - Significant issues
+      required: true
+    - id: 21
+      name: rtl_language_support
+      label: Proper RTL language support - if applicable
+      hint: null
+      type: select_one
+      options:
+      - Works correctly
+      - Works with minor issues
+      - Works with major issues
+      - Not implemented
+      - Not applicable
+      required: false
+    - id: 22
+      name: reported_issues
+      label: Reported Issues
+      hint: Describe any localization issues found
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: overall_rating
+      label: Overall Localization Quality Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Poor
+      - Unacceptable
+      required: true

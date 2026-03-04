@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inertial Measurement Unit Predictive Maintenance Inspection Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: imu_serial_number
+      label: Imu Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: imu_model_number
+      label: Imu Model Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: inspect_date
+      label: Inspect Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: equipment_status
+      label: Equipment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: maintenance_status
+      label: Maintenance Status
+      hint: null
+      type: select_multiple
+      options:
+      - Completed
+      - In Progress
+      - Pending
+      - Scheduled
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: imu_location
+      label: Imu Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: maintenance_cost
+      label: Maintenance Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: equipment_category
+      label: Equipment Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: equipment_sub_category
+      label: Equipment Sub Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: serial_number_location
+      label: Serial Number Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: notes_location
+      label: Notes Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: maintenance_due_date
+      label: Maintenance Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: equipment_age
+      label: Equipment Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: total_cycles
+      label: Total Cycles
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: last_maintenance
+      label: Last Maintenance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: maintenance_interval
+      label: Maintenance Interval
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: last_maintenance_cost
+      label: Last Maintenance Cost
+      hint: null
+      type: number
+      options: []
+      required: false

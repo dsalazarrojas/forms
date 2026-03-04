@@ -1,0 +1,238 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Audit Efficiency Review Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Optional - leave blank for anonymous
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: respondent_email
+        label: Email Address
+        hint: Optional - for follow-up
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: department
+        label: Department
+        hint: Your department
+        type: select_one
+        options:
+          - Internal Audit
+          - External Audit
+          - Finance
+          - Accounting
+          - Compliance
+          - Risk Management
+          - Operations
+          - Other
+        required: true
+      - id: 4
+        name: role_level
+        label: Role Level
+        hint: Your organizational level
+        type: select_one
+        options:
+          - Staff
+          - Senior
+          - Manager
+          - Director
+          - Executive
+        required: true
+      - id: 5
+        name: survey_date
+        label: Survey Date
+        hint: Date of this survey
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: audit_reviewed
+        label: Audit Reviewed
+        hint: Which audit is being evaluated?
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: audit_duration
+        label: Audit Duration
+        hint: How long did the audit take?
+        type: select_one
+        options:
+          - Less than 1 week
+          - 1-2 weeks
+          - 2-4 weeks
+          - 1-2 months
+          - Over 2 months
+        required: true
+      - id: 8
+        name: timeline_adherence
+        label: Timeline Adherence
+        hint: Was the audit completed on schedule?
+        type: select_one
+        options:
+          - Completed early
+          - Completed on time
+          - Slightly delayed
+          - Moderately delayed
+          - Significantly delayed
+        required: true
+      - id: 9
+        name: resource_utilization
+        label: Resource Utilization
+        hint: How well were resources utilized?
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 10
+        name: staff_efficiency
+        label: Staff Efficiency
+        hint: Rate the efficiency of audit staff
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 11
+        name: technology_effectiveness
+        label: Technology Effectiveness
+        hint: How effective were audit tools and technology?
+        type: select_one
+        options:
+          - Very effective
+          - Effective
+          - Neutral
+          - Ineffective
+          - Very ineffective
+        required: true
+      - id: 12
+        name: process_streamlining
+        label: Process Streamlining
+        hint: How well were processes streamlined?
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 13
+        name: communication_efficiency
+        label: Communication Efficiency
+        hint: Rate the efficiency of communications
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 14
+        name: documentation_efficiency
+        label: Documentation Efficiency
+        hint: How efficient was the documentation process?
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 15
+        name: bottlenecks_encountered
+        label: Bottlenecks Encountered
+        hint: What bottlenecks were encountered?
+        type: select_multiple
+        options:
+          - Data access delays
+          - Staff availability
+          - System issues
+          - Approval delays
+          - Resource constraints
+          - Scope changes
+          - None
+        required: true
+      - id: 16
+        name: cost_efficiency
+        label: Cost Efficiency
+        hint: Rate the cost efficiency of the audit
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 17
+        name: value_delivered
+        label: Value Delivered
+        hint: Did the audit deliver value?
+        type: select_one
+        options:
+          - Exceeded expectations
+          - Met expectations
+          - Neutral
+          - Below expectations
+          - Significantly below expectations
+        required: true
+      - id: 18
+        name: areas_for_improvement
+        label: Areas for Improvement
+        hint: What areas need improvement?
+        type: select_multiple
+        options:
+          - Planning
+          - Resource allocation
+          - Technology usage
+          - Communication
+          - Documentation
+          - Timeline management
+          - Cost control
+        required: true
+      - id: 19
+        name: efficiency_recommendations
+        label: Efficiency Recommendations
+        hint: Any recommendations for improving efficiency
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: overall_efficiency_rating
+        label: Overall Efficiency Rating
+        hint: Rate overall audit efficiency
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true

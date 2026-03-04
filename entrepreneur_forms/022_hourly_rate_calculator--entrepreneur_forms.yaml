@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: hourly_rate_calculator
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Educators
+      - Freelancers
+      - Contractors
+      - Consultants
+      - Nonprofit Orgs
+      - Small Business Owners
+      - Other
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: Enter a short description of your services
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: hourly_rate
+      label: Hourly Rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: rate_interval
+      label: Rate Interval
+      hint: null
+      type: select_one
+      options:
+      - Month
+      - Quarterly
+      - Semi-annual
+      required: false
+    - id: 6
+      name: weekly_hours
+      label: Weekly Hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: weekly_rate
+      label: Weekly Rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: weekly_rate_currency
+      label: Weekly Rate Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      required: false
+    - id: 9
+      name: weekly_rate_rounding
+      label: Weekly Rate Rounding
+      hint: null
+      type: select_one
+      options:
+      - Up
+      - Down
+      - Nearest
+      required: true
+    - id: 10
+      name: hourly_rate_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: category_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: category_non_profit_org
+      label: Non-profit Org
+      hint: null
+      type: text
+      options: []
+      required: false

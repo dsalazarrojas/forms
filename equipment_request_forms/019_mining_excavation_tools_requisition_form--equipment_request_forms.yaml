@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mining Excavation Tools Requisition Form
+    pages:
+    - id: 1
+      name: excavation_tools_requisition
+      label: Excavation Tools Requisition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tool_type
+      label: Tool Type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Boring Machine''}'
+      - '{''name'': ''Cutter''}'
+      - '{''name'': ''Drill''}'
+      required: false
+    - id: 4
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: site_location
+      label: Site Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: tool_description
+      label: Tool Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''High''}'
+      - '{''name'': ''Low''}'
+      - '{''name'': ''Medium''}'
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: submitted_by_tool
+      label: Submitted By Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: tool_status
+      label: Tool Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Available''}'
+      - '{''name'': ''In Use''}'
+      - '{''name'': ''Out of Order''}'
+      - '{''name'': ''Maintenance''}'
+      required: false
+    - id: 20
+      name: submitted_by_user
+      label: Submitted By User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: tool_location
+      label: Tool Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: tool_request_id
+      label: Tool Request Id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: tool_category
+      label: Tool Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: created_on
+      label: Created On
+      hint: null
+      type: date
+      options: []
+      required: false

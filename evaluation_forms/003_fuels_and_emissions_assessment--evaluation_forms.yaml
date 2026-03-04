@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fuel And Emissions Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: This Is An Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fuel_type
+      label: Which Type Of Fuel Is Used
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: fuel_consumption_rate
+      label: How Much Fuel Is Consumed Per Day
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: emissions
+      label: What Are The Emissions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: fuel_source
+      label: Where The Fuel Is Sourced
+      hint: null
+      type: select_multiple
+      options:
+      - natural_gas
+      - gasoline
+      - diesel
+      required: false
+    - id: 6
+      name: emissions_reduction
+      label: What Is The Emissions Reduction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: carbon_footprint
+      label: What Is The Carbon Footprint
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: energy_efficiency
+      label: How Energy Efficient Is The Operation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: transportation_mode
+      label: Which Mode Of Transportation Is Used
+      hint: null
+      type: select_one
+      options:
+      - air
+      - land
+      - sea
+      required: false
+    - id: 10
+      name: fuel_price
+      label: What Is The Fuel Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: emissions_standards
+      label: Are There Any Emissions Standards
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: certification
+      label: Is There Any Certification
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: reporting_frequency
+      label: How Frequently Is The Fuel Use Reported
+      hint: null
+      type: select_one
+      options:
+      - daily
+      - weekly
+      - monthly
+      - quarterly
+      required: false
+    - id: 14
+      name: reporting_methods
+      label: What Is The Reporting Method
+      hint: null
+      type: select_multiple
+      options:
+      - email
+      - paper
+      - excel
+      required: false
+    - id: 15
+      name: data_owner
+      label: Who Is The Data Owner
+      hint: null
+      type: select_multiple
+      options:
+      - company
+      - employee
+      - manager
+      required: false

@@ -1,0 +1,262 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assistant Football Coach Evaluation Form
+    pages:
+    - id: 1
+      name: evaluation_date
+      label: Evaluation Date
+      hint: Date of evaluation
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: evaluator_name
+      label: Evaluator Name
+      hint: Assistant coach name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: evaluator_position
+      label: Evaluator Position
+      hint: Your role
+      type: select_one
+      options:
+      - Assistant Coach
+      - Offensive Coordinator
+      - Defensive Coordinator
+      - Special Teams Coach
+      - Position Coach
+      required: true
+    - id: 4
+      name: head_coach_name
+      label: Head Coach Name
+      hint: Being evaluated
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: team_name
+      label: Team Name
+      hint: Which team
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: season
+      label: Season
+      hint: Which season
+      type: select_one
+      options:
+      - Pre-Season
+      - Regular Season
+      - Post-Season
+      - Off-Season
+      required: true
+    - id: 7
+      name: years_working_together
+      label: Years Working Together
+      hint: How long
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: leadership_rating
+      label: Leadership Rating
+      hint: How well leads
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 9
+      name: communication_rating
+      label: Communication Rating
+      hint: How well communicates
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 10
+      name: strategic_knowledge_rating
+      label: Strategic Knowledge Rating
+      hint: Football IQ
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 11
+      name: player_development_rating
+      label: Player Development Rating
+      hint: Developing athletes
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 12
+      name: game_management_rating
+      label: Game Management Rating
+      hint: In-game decisions
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 13
+      name: staff_collaboration_rating
+      label: Staff Collaboration Rating
+      hint: Works with coaches
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 14
+      name: practice_planning_rating
+      label: Practice Planning Rating
+      hint: Organizes practices
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 15
+      name: discipline_consistency_rating
+      label: Discipline Consistency Rating
+      hint: Fair and consistent
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 16
+      name: parent_community_relations_rating
+      label: Parent and Community Relations Rating
+      hint: External relationships
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 17
+      name: head_coach_strengths
+      label: Head Coach Strengths
+      hint: What they do well
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: head_coach_weaknesses
+      label: Areas for Improvement
+      hint: What to work on
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: decision_making_assessment
+      label: Decision Making Assessment
+      hint: How they decide
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: team_culture_impact
+      label: Impact on Team Culture
+      hint: Effect on team
+      type: select_one
+      options:
+      - Very Positive
+      - Positive
+      - Neutral
+      - Negative
+      - Very Negative
+      required: true
+    - id: 21
+      name: player_respect_level
+      label: Level of Player Respect
+      hint: Do players respect
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Moderate
+      - Low
+      - Very Low
+      required: true
+    - id: 22
+      name: recommendation
+      label: Overall Recommendation
+      hint: Continue or not
+      type: select_one
+      options:
+      - Highly Recommend Continuation
+      - Recommend Continuation
+      - Recommend with Conditions
+      - Do Not Recommend
+      required: true
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Other observations
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: would_work_again
+      label: Would You Work With This Coach Again
+      hint: Future collaboration
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Uncertain
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 25
+      name: evaluator_signature
+      label: Evaluator Signature
+      hint: Type name to sign
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: confidentiality_acknowledged
+      label: I Understand This Evaluation Is Confidential
+      hint: Keep private
+      type: select_one
+      options:
+      - Yes I Understand
+      - 'No'
+      required: true

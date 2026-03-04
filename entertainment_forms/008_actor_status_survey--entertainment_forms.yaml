@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Actor Status Survey
+    pages:
+    - id: 1
+      name: intro_note
+      label: -- Talent Status and Availability Survey --
+      hint: Please update your current professional status for our casting database
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: actor_name
+      label: Actor Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: agency_affiliation
+      label: Current Agency Representation
+      hint: List 'Independent' if not represented
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: union_membership
+      label: Union Status
+      hint: null
+      type: select_multiple
+      options:
+      - SAG-AFTRA
+      - AEA (Equity)
+      - ACTRA
+      - Non-Union
+      - Financial Core
+      required: true
+    - id: 5
+      name: current_employment_status
+      label: Current Work Status
+      hint: null
+      type: select_one
+      options:
+      - Actively Seeking Work
+      - Currently Booked (Short-term)
+      - On Long-term Production
+      - On Hiatus / Sabbatical
+      required: true
+    - id: 6
+      name: availability_next_quarter
+      label: Availability for the Next 3 Months
+      hint: null
+      type: select_one
+      options:
+      - Full Availability
+      - Partial Availability (Some conflicts)
+      - No Availability
+      required: true
+    - id: 7
+      name: primary_market
+      label: Primary Geographic Market
+      hint: e.g. New York, Los Angeles, London, Atlanta
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: travel_readiness
+      label: Willingness to Travel for Work
+      hint: null
+      type: select_one
+      options:
+      - Willing to travel internationally
+      - Willing to travel domestically only
+      - Local work only
+      required: true
+    - id: 9
+      name: valid_passport
+      label: Do you hold a valid international passport?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: recent_credits
+      label: Recent Significant Credits (Last 6 Months)
+      hint: Include project title and role
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: specific_skills_update
+      label: New Skills or Certifications Acquired
+      hint: e.g. Stunt training, new language, professional license
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: health_safety_status
+      label: Health and Safety Certifications
+      hint: e.g. COVID Compliance, First Aid
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: submission_date
+      label: Date of Update
+      hint: null
+      type: date
+      options: []
+      required: true

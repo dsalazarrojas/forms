@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Theater Performance Registration Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant full name
+      hint: Actor or crew member name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: role_applied_for
+      label: Role applied for
+      hint: Lead, Supporting, Crew, Musician, Other
+      type: select_one
+      options:
+      - Lead role
+      - Supporting role
+      - Ensemble
+      - Crew
+      - Musician
+      - Other
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: For casting notices and schedules
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: availability
+      label: Availability for rehearsals
+      hint: Days and times available
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: prior_experience
+      label: Prior theater experience
+      hint: Briefly list relevant credits
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: For cast safety
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: special_requirements
+      label: Special requirements
+      hint: Accessibility or accommodation needs
+      type: text
+      options: []
+      required: false

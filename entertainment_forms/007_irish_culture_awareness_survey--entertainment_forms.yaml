@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: irish_culture_awareness_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: irish_culture_awareness_questions
+      label: irish culture awareness questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: irish_traditions
+      label: irish traditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: cultural_events
+      label: cultural events
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: irish_language
+      label: irish language
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: cultural_leadership
+      label: cultural leadership
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: irish_culture_awareness_goals
+      label: irish culture awareness goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: irish_culture_awareness_impact
+      label: irish culture awareness impact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: irish_culture_awareness_barriers
+      label: irish culture awareness barriers
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: irish_culture_awareness_recommendations
+      label: irish culture awareness recommendations
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

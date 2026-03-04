@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Film Academy Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: birth_date
+      label: birth_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: audition_plan
+      label: have_audition_plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: plan_to_become
+      label: plan_to_become
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - I am interested in the opportunity
+      - I have a plan in place
+      - I do not have plan
+      required: false
+    - id: 9
+      name: submit2
+      label: submit2
+      hint: null
+      type: select_one
+      options:
+      - Yes, today
+      - Later, but soon
+      - No, not interested
+      required: false

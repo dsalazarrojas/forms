@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Film Production Company Referral Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client
+      label: Client
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: film_details
+      label: Film Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: film_production_company
+      label: Film Production Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: film_type
+      label: Film Type
+      hint: null
+      type: select_one
+      options:
+      - Film Production
+      - Film Distribution
+      - Film Sales
+      - Film Marketing
+      - Film Finance
+      - Film Production Company
+      required: false
+    - id: 10
+      name: team_member
+      label: Team Member
+      hint: null
+      type: select_multiple
+      options:
+      - Team Member 1
+      - Team Member 2
+      - Team Member 3
+      - Team Member 4
+      required: false

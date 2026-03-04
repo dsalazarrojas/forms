@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Model Call Survey
+    pages:
+    - id: 1
+      name: survey_form
+      label: Survey Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: availability_time
+      label: Availability Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: talent_type
+      label: Talent Type
+      hint: null
+      type: select_multiple
+      options:
+      - Model
+      - Actor
+      - Singer
+      - Dancer
+      - Other
+      required: false
+    - id: 8
+      name: talent_experience
+      label: Talent Experience
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 9
+      name: talent_description
+      label: Talent Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

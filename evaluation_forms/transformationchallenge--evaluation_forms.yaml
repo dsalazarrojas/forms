@@ -1,0 +1,235 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: '#transformationchallenge Evaluation'
+    pages:
+    - id: 1
+      name: section_header_participant_info
+      label: '--- Participant Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: We'll send your results here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Optional, for urgent updates
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: Optional, helps with age‑specific guidance
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: gender
+      label: Gender
+      hint: Optional, for demographic analysis
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non‑binary
+      - Prefer not to say
+      required: false
+    - id: 7
+      name: participant_goal
+      label: Primary goal for
+      hint: Select the main outcome you seek
+      type: select_one
+      options:
+      - Lose Weight
+      - Gain Weight
+      - Tone Up
+      - Live Healthier Lifestyle
+      - More Energy
+      - Skin Care
+      required: true
+    - id: 8
+      name: start_date
+      label: Challenge start date
+      hint: The date you began the program
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: expected_completion_date
+      label: Expected completion date
+      hint: Optional, if you have a target finish date
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: current_weight
+      label: Current weight (kg)
+      hint: Enter your most recent weight
+      type: decimal
+      options: []
+      required: false
+    - id: 11
+      name: target_weight
+      label: Target weight (kg)
+      hint: Your goal weight for the challenge
+      type: decimal
+      options: []
+      required: false
+    - id: 12
+      name: current_body_fat
+      label: Current body fat (%)
+      hint: Optional, if you have a recent measurement
+      type: decimal
+      options: []
+      required: false
+    - id: 13
+      name: target_body_fat
+      label: Target body fat (%)
+      hint: Desired body fat percentage
+      type: decimal
+      options: []
+      required: false
+    - id: 14
+      name: satisfaction
+      label: How satisfied are you with
+      hint: Select the option that best describes your experience
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 15
+      name: overall_rating
+      label: Overall rating (1‑10)
+      hint: 1 = worst, 10 = best
+      type: integer
+      options: []
+      required: true
+    - id: 16
+      name: motivation_level
+      label: Current motivation level
+      hint: How motivated are you to continue the program?
+      type: select_one
+      options:
+      - Very high
+      - High
+      - Moderate
+      - Low
+      - Very low
+      required: true
+    - id: 17
+      name: workout_frequency
+      label: Sessions per week
+      hint: Number of workouts you plan to do each week
+      type: integer
+      options: []
+      required: false
+    - id: 18
+      name: diet_type
+      label: Preferred diet type
+      hint: Choose the diet that best fits your lifestyle
+      type: select_one
+      options:
+      - Vegetarian
+      - Vegan
+      - Paleo
+      - Keto
+      - Mediterranean
+      - No preference
+      required: false
+    - id: 19
+      name: dietary_restrictions
+      label: Dietary restrictions (select all)
+      hint: Leave blank if none
+      type: select_multiple
+      options:
+      - Gluten‑free
+      - Dairy‑free
+      - Nut‑free
+      - Shellfish‑free
+      - Soy‑free
+      - Other
+      required: false
+    - id: 20
+      name: experience_aspects
+      label: Which aspects applied to your experience with
+      hint: Leave blank if none
+      type: select_multiple
+      options:
+      - Easy to use
+      - Fast
+      - Reliable
+      - Missing feature
+      - Confusing
+      - Well designed
+      required: false
+    - id: 21
+      name: open_feedback
+      label: What would you improve or change about
+      hint: Provide any suggestions or ideas
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Anything else you’d like to share
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: consent_to_share_data
+      label: Consent to share data with program staff
+      hint: This allows us to personalize your experience
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: section_header_completion
+      label: '--- Completion Confirmation ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: completion_date
+      label: Date of completion
+      hint: The date you finish the challenge
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Voice Dubbing Revision Request Form
+    pages:
+    - id: 1
+      name: form_title
+      label: voice_dubbing_revision_request_form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_details
+      label: project_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: files
+      label: select_files
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Select a file'', ''value'': ''''}'
+      - '{''label'': ''File 1'', ''value'': ''file_1''}'
+      - '{''label'': ''File 2'', ''value'': ''file_2''}'
+      required: false
+    - id: 4
+      name: priority
+      label: select_priority
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Low'', ''value'': 1}'
+      - '{''label'': ''Medium'', ''value'': 2}'
+      - '{''label'': ''High'', ''value'': 3}'
+      required: true
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

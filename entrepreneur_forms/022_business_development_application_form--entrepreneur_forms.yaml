@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Development Application Form
+    pages:
+    - id: 1
+      name: applicant_information
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Business email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Your organization
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: position_title
+      label: Position Title
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company_information
+      label: -- Company Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: company_age
+      label: Years in Business
+      hint: How long established?
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: employee_count
+      label: Number of Employees
+      hint: Current employee count
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: annual_revenue
+      label: Annual Revenue
+      hint: Approximate revenue
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: industry_type
+      label: Industry Type
+      hint: Your industry
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: development_goals
+      label: -- Development Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: primary_goal
+      label: Primary Development Goal
+      hint: What do you want to achieve?
+      type: select_one
+      options:
+      - Expand Market Share
+      - Build Strategic Partnerships
+      - Enter New Markets
+      - Increase Revenue
+      - Develop New Products
+      - Improve Operations
+      - Other
+      required: true
+    - id: 14
+      name: target_markets
+      label: Target Markets
+      hint: Where do you want to expand?
+      type: select_multiple
+      options:
+      - Domestic Market
+      - Regional Market
+      - International Market
+      - New Customer Segments
+      - Emerging Markets
+      required: true
+    - id: 15
+      name: partnership_interests
+      label: Partnership Interests
+      hint: What type of partnerships?
+      type: select_multiple
+      options:
+      - Technology Partners
+      - Distribution Partners
+      - Strategic Alliances
+      - Joint Ventures
+      - Channel Partners
+      - Supplier Relationships
+      required: false
+    - id: 16
+      name: expansion_timeline
+      label: Expansion Timeline
+      hint: When do you want to expand?
+      type: select_one
+      options:
+      - Immediate (0-3 months)
+      - Short-term (3-6 months)
+      - Medium-term (6-12 months)
+      - Long-term (12+ months)
+      required: true
+    - id: 17
+      name: resources_capability
+      label: -- Resources and Capability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: budget_available
+      label: Budget Available for Development
+      hint: Investment capacity
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: key_strengths
+      label: Key Strengths
+      hint: What makes you competitive?
+      type: select_multiple
+      options:
+      - Strong Product
+      - Brand Recognition
+      - Technical Expertise
+      - Customer Relationships
+      - Financial Resources
+      - Team Talent
+      required: true
+    - id: 20
+      name: challenges
+      label: Current Challenges
+      hint: What are obstacles?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_information
+      label: Additional Information
+      hint: Any other relevant details
+      type: text
+      options: []
+      required: false

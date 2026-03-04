@@ -1,0 +1,260 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beer Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Full Name
+      hint: Optional - you may remain anonymous
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: respondent_email
+      label: Email Address
+      hint: For follow-up if needed
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: age
+      label: Age
+      hint: Must be 21 or older
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: age_verification
+      label: Age Verification
+      hint: I confirm I am 21 years or older
+      type: select_one
+      options:
+      - Yes I am 21 or older
+      - No I am under 21
+      required: true
+    - id: 5
+      name: beer_consumption_frequency
+      label: Beer Consumption Frequency
+      hint: How often do you drink beer
+      type: select_one
+      options:
+      - Daily
+      - Several times a week
+      - Once a week
+      - 2-3 times a month
+      - Once a month
+      - Rarely
+      - Never
+      required: true
+    - id: 6
+      name: preferred_beer_types
+      label: Preferred Beer Types
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - IPA
+      - Pale Ale
+      - Stout
+      - Porter
+      - Lager
+      - Pilsner
+      - Wheat Beer
+      - Amber Ale
+      - Sour Beer
+      - Belgian Styles
+      - Seasonal
+      - Craft Beer
+      - Domestic Beer
+      - Import Beer
+      required: true
+    - id: 7
+      name: favorite_brewery
+      label: Favorite Brewery
+      hint: Name your favorite brewery
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: typical_purchase_location
+      label: Typical Purchase Location
+      hint: Where do you usually buy beer
+      type: select_multiple
+      options:
+      - Grocery Store
+      - Liquor Store
+      - Brewery Taproom
+      - Bar or Pub
+      - Restaurant
+      - Online
+      - Beer Club Subscription
+      - Convenience Store
+      required: true
+    - id: 9
+      name: price_range
+      label: Typical Price Range
+      hint: How much do you typically spend on a 6-pack
+      type: select_one
+      options:
+      - Under $8
+      - $8-$12
+      - $13-$18
+      - $19-$25
+      - Over $25
+      required: true
+    - id: 10
+      name: craft_vs_domestic
+      label: Craft vs Domestic Preference
+      hint: Which do you prefer
+      type: select_one
+      options:
+      - Mostly Craft Beer
+      - Mostly Domestic Beer
+      - Equal Mix
+      - Only Craft Beer
+      - Only Domestic Beer
+      required: true
+    - id: 11
+      name: brewery_visits
+      label: Brewery Visit Frequency
+      hint: How often do you visit breweries
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - Few times a year
+      - Rarely
+      - Never
+      required: true
+    - id: 12
+      name: beer_events_attendance
+      label: Beer Event Attendance
+      hint: Do you attend beer festivals or tastings
+      type: select_one
+      options:
+      - Regularly
+      - Occasionally
+      - Rarely
+      - Never
+      - Interested but have not attended
+      required: true
+    - id: 13
+      name: packaging_preference
+      label: Packaging Preference
+      hint: What do you prefer
+      type: select_one
+      options:
+      - Cans
+      - Bottles
+      - Draft or Tap
+      - No Preference
+      - Kegs for Home
+      required: true
+    - id: 14
+      name: flavor_preferences
+      label: Flavor Preferences
+      hint: Select flavors you enjoy
+      type: select_multiple
+      options:
+      - Hoppy and Bitter
+      - Malty and Sweet
+      - Fruity
+      - Citrusy
+      - Spicy
+      - Roasted or Coffee
+      - Chocolate
+      - Sour or Tart
+      - Earthy
+      - Floral
+      required: true
+    - id: 15
+      name: brand_loyalty
+      label: Brand Loyalty
+      hint: How loyal are you to specific brands
+      type: select_one
+      options:
+      - Very Loyal
+      - Somewhat Loyal
+      - Like to Try New Brands
+      - Always Trying Something New
+      - No Preference
+      required: true
+    - id: 16
+      name: social_media_follow
+      label: Social Media Following
+      hint: Do you follow breweries on social media
+      type: select_one
+      options:
+      - Yes multiple breweries
+      - Yes a few breweries
+      - No but interested
+      - No not interested
+      required: true
+    - id: 17
+      name: beer_knowledge
+      label: Beer Knowledge Level
+      hint: How would you rate your beer knowledge
+      type: select_one
+      options:
+      - Expert
+      - Very Knowledgeable
+      - Average
+      - Beginner
+      - Just Starting to Learn
+      required: true
+    - id: 18
+      name: homebrewing
+      label: Homebrewing
+      hint: Do you brew beer at home
+      type: select_one
+      options:
+      - Yes regularly
+      - Yes occasionally
+      - Have tried it
+      - No but interested
+      - No not interested
+      required: true
+    - id: 19
+      name: health_consciousness
+      label: Health Consciousness
+      hint: Do you consider health factors when choosing beer
+      type: select_one
+      options:
+      - Yes always check calories and carbs
+      - Sometimes consider it
+      - Rarely consider it
+      - Never consider it
+      required: true
+    - id: 20
+      name: sustainability_importance
+      label: Sustainability Importance
+      hint: How important is sustainability to you
+      type: select_one
+      options:
+      - Very Important
+      - Somewhat Important
+      - Neutral
+      - Not Very Important
+      - Not Important at All
+      required: true
+    - id: 21
+      name: favorite_beer_memory
+      label: Favorite Beer Memory
+      hint: Share a memorable beer experience
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: beer_recommendations
+      label: Beer Recommendations
+      hint: What beers would you recommend
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback about beer preferences
+      type: text
+      options: []
+      required: false

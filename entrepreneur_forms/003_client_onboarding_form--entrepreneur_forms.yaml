@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Onboarding Form
+    pages:
+    - id: 1
+      name: form_intro
+      label: Welcome to Our Content Generation Services
+      hint: Please complete this form to get started with your social media content
+        creation
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business or Brand Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_owner_name
+      label: Business Owner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_website
+      label: Business Website URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: industry
+      label: Industry or Niche
+      hint: What industry is your business in
+      type: select_one
+      options:
+      - Technology
+      - Health and Wellness
+      - Fashion and Beauty
+      - Food and Beverage
+      - Real Estate
+      - Finance
+      - Education
+      - Entertainment
+      - Retail
+      - Other
+      required: true
+    - id: 8
+      name: target_audience
+      label: Target Audience Description
+      hint: Describe your ideal customer or follower
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: social_platforms
+      label: Which Social Media Platforms Do You Need Content For
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Instagram
+      - Facebook
+      - Twitter or X
+      - LinkedIn
+      - TikTok
+      - YouTube
+      - Pinterest
+      - Other
+      required: true
+    - id: 10
+      name: current_followers
+      label: Current Total Follower Count
+      hint: Approximate number across all platforms
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: content_goals
+      label: Primary Content Goals
+      hint: What do you want to achieve with social media
+      type: select_multiple
+      options:
+      - Brand Awareness
+      - Lead Generation
+      - Sales Conversions
+      - Community Building
+      - Thought Leadership
+      - Product Launches
+      - Customer Engagement
+      - Other
+      required: true
+    - id: 12
+      name: brand_voice
+      label: Brand Voice and Tone
+      hint: Describe how your brand should sound
+      type: select_one
+      options:
+      - Professional and Formal
+      - Friendly and Conversational
+      - Humorous and Witty
+      - Inspirational and Motivational
+      - Educational and Informative
+      - Bold and Edgy
+      - Other
+      required: true
+    - id: 13
+      name: content_frequency
+      label: Desired Content Posting Frequency
+      hint: How often do you want to post
+      type: select_one
+      options:
+      - Daily
+      - 3-5 times per week
+      - 2-3 times per week
+      - Once a week
+      - 2-4 times per month
+      required: true
+    - id: 14
+      name: content_types
+      label: Preferred Content Types
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Static Images
+      - Carousels
+      - Short-form Video
+      - Long-form Video
+      - Stories
+      - Reels or TikTok
+      - Text Posts
+      - Live Streams
+      required: true
+    - id: 15
+      name: brand_colors
+      label: Brand Colors
+      hint: List your brand colors or hex codes
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: brand_guidelines_url
+      label: Brand Guidelines Document URL
+      hint: If available
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: competitor_accounts
+      label: Competitor Social Media Accounts
+      hint: List 2-3 competitors for reference
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: content_approval_process
+      label: Who Will Approve Content Before Posting
+      hint: Name and role
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: budget_range
+      label: Monthly Content Budget Range
+      hint: null
+      type: select_one
+      options:
+      - Under $500
+      - $500-$1000
+      - $1000-$2500
+      - $2500-$5000
+      - $5000-$10000
+      - Over $10000
+      required: true
+    - id: 20
+      name: start_date
+      label: Desired Start Date
+      hint: When do you want content creation to begin
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: additional_requests
+      label: Additional Requests or Comments
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false

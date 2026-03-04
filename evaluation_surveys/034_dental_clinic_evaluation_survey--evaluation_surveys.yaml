@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: dental_clinic_evaluation_survey
+    pages:
+    - id: 1
+      name: services_provided
+      label: Services Provided
+      hint: null
+      type: select_multiple
+      options:
+      - Dental Cleaning
+      - Fillings
+      - Dental Implants
+      - Root Canals
+      - Crown
+      - Denture
+      required: false
+    - id: 2
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: clinic_location
+      label: Clinic Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: staff_friendly
+      label: Staff Friendly
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: staff_professionalism
+      label: Staff Professionalism
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 6
+      name: clinic_cleanliness
+      label: Clinic Cleanliness
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: communication
+      label: Communication
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: wait_time
+      label: Wait Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

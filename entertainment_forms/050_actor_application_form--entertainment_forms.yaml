@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Actor Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Name
+      hint: Full legal name of the actor applying
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: stage_name
+      label: Stage Name (if applicable)
+      hint: Professional name used in performances
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: Email address for casting notifications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number for casting calls and notifications
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Date of birth for age verification
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: height
+      label: Height
+      hint: Height in feet and inches
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: weight
+      label: Weight
+      hint: Weight in pounds
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: physical_characteristics
+      label: Distinguishing Physical Characteristics
+      hint: Any notable physical features
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: acting_experience
+      label: Years of Acting Experience
+      hint: How many years of professional acting experience
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: previous_roles
+      label: Previous Roles or Credits
+      hint: List previous acting roles or productions
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: special_skills
+      label: Special Skills
+      hint: Any special skills relevant to acting
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: union_membership
+      label: Union Membership
+      hint: Are you a member of any performers unions
+      type: select_one
+      options:
+      - SAG-AFTRA
+      - Equity
+      - Non-union
+      - Other
+      required: true
+    - id: 13
+      name: availability
+      label: Availability for Auditions and Filming
+      hint: When are you available for auditions and filming
+      type: text
+      options: []
+      required: true

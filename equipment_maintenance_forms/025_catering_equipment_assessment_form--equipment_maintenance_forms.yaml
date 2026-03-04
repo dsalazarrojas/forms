@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Equipment Assessment Form
+    pages:
+    - id: 1
+      name: assessor_name
+      label: Assessor Name
+      hint: Name of person conducting assessment
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of assessment
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: location
+      label: Location
+      hint: Where is the equipment located
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: equipment_category
+      label: Equipment Category
+      hint: Type of equipment
+      type: select_one
+      options:
+      - Cooking Equipment
+      - Refrigeration
+      - Food Preparation
+      - Serving Equipment
+      - Dishwashing
+      - Storage
+      - Other
+      required: true
+    - id: 5
+      name: equipment_name
+      label: Equipment Name
+      hint: Specific equipment name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: equipment_id
+      label: Equipment ID or Serial Number
+      hint: Identification number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manufacturer
+      label: Manufacturer
+      hint: Brand or manufacturer
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: model_number
+      label: Model Number
+      hint: Model number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: purchase_date
+      label: Purchase Date
+      hint: When was it purchased
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: age_years
+      label: Age in Years
+      hint: How old is the equipment
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: overall_condition
+      label: Overall Condition
+      hint: Rate the overall condition
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: true
+    - id: 12
+      name: cleanliness_rating
+      label: Cleanliness Rating
+      hint: Rate the cleanliness
+      type: select_one
+      options:
+      - Very Clean
+      - Clean
+      - Acceptable
+      - Needs Cleaning
+      - Very Dirty
+      required: true
+    - id: 13
+      name: functionality_status
+      label: Functionality Status
+      hint: Is it working properly
+      type: select_one
+      options:
+      - Fully Functional
+      - Minor Issues
+      - Major Issues
+      - Not Functional
+      required: true
+    - id: 14
+      name: safety_check_passed
+      label: Safety Check Passed
+      hint: Does it meet safety standards
+      type: select_one
+      options:
+      - true
+      - false
+      - Needs Review
+      required: true
+    - id: 15
+      name: safety_concerns
+      label: Safety Concerns
+      hint: List any safety issues
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: maintenance_needed
+      label: Maintenance Needed
+      hint: What maintenance is required
+      type: select_multiple
+      options:
+      - Cleaning
+      - Calibration
+      - Parts Replacement
+      - Professional Service
+      - No Maintenance Needed
+      required: true
+    - id: 17
+      name: repair_urgency
+      label: Repair Urgency
+      hint: How urgent are repairs
+      type: select_one
+      options:
+      - Not Urgent
+      - Low Priority
+      - Medium Priority
+      - High Priority
+      - Critical - Immediate Action
+      required: false
+    - id: 18
+      name: estimated_repair_cost
+      label: Estimated Repair Cost
+      hint: If known
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: replacement_recommended
+      label: Replacement Recommended
+      hint: Should this be replaced
+      type: select_one
+      options:
+      - Yes - Immediately
+      - Yes - Within 6 Months
+      - Yes - Within 1 Year
+      - No - Still Serviceable
+      required: false
+    - id: 20
+      name: last_service_date
+      label: Last Service Date
+      hint: When was it last serviced
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: next_service_due
+      label: Next Service Due
+      hint: When is next service due
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: warranty_status
+      label: Warranty Status
+      hint: Is it under warranty
+      type: select_one
+      options:
+      - Yes - Active
+      - Expired
+      - Unknown
+      required: false
+    - id: 23
+      name: assessor_notes
+      label: Assessor Notes
+      hint: Additional observations
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_required
+      label: Follow-up Required
+      hint: Is follow-up needed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: follow_up_date
+      label: Follow-up Date
+      hint: When to follow up
+      type: date
+      options: []
+      required: false

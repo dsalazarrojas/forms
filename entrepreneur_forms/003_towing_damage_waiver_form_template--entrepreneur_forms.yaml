@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Towing Damage Waiver Form Template
+    pages:
+    - id: 1
+      name: vehicle_info
+      label: vehicle_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: towing_service
+      label: Towing Service
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: driver_info
+      label: Driver Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: driver_signature
+      label: Driver Signature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: towing_operator
+      label: Towing Operator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: waiver
+      label: Waiver
+      hint: This is a waiver for towing company's liability.
+      type: text
+      options: []
+      required: false

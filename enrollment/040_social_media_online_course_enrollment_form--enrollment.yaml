@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: social_media_online_course_enrollment_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: social_media_platforms
+      label: Platforms
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Twitter
+      - Instagram
+      - YouTube
+      required: false
+    - id: 7
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: enrollment_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: assigned_tool_id
+      label: Assigned Tool ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: true

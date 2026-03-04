@@ -1,0 +1,246 @@
+inputSchema:
+  type: object
+  properties:
+    title: Concert Attendance Form
+    pages:
+    - id: 1
+      name: attendance_id
+      label: Attendance ID
+      hint: Unique attendance identifier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: submission_date
+      label: Submission Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: attendee_name
+      label: Attendee Name
+      hint: Full name of attendee
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: concert_name
+      label: Concert Name
+      hint: Name of concert event
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: concert_date
+      label: Concert Date
+      hint: Date of concert
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: concert_venue
+      label: Concert Venue
+      hint: Venue name and location
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: ticket_type
+      label: Ticket Type
+      hint: Select your ticket type
+      type: select_one
+      options:
+      - General Admission
+      - VIP
+      - Front Row
+      - Balcony
+      - Box Seat
+      - Standing Room
+      - Backstage Pass
+      required: true
+    - id: 11
+      name: ticket_number
+      label: Ticket Number
+      hint: Your ticket number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: number_in_party
+      label: Number in Party
+      hint: How many people in your group
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: how_purchased
+      label: How Did You Purchase
+      hint: Select purchase method
+      type: select_one
+      options:
+      - Online Website
+      - Box Office
+      - Phone
+      - Third Party Seller
+      - Gift
+      - Complimentary
+      required: true
+    - id: 14
+      name: arrival_time
+      label: Arrival Time
+      hint: What time did you arrive
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: parking_method
+      label: Parking Method
+      hint: How did you park
+      type: select_one
+      options:
+      - Venue Parking Lot
+      - Nearby Garage
+      - Street Parking
+      - Public Transportation
+      - Rideshare
+      - Walked
+      - Other
+      required: false
+    - id: 16
+      name: merchandise_purchase
+      label: Merchandise Purchase
+      hint: Did you buy merchandise
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 17
+      name: food_beverage_purchase
+      label: Food and Beverage Purchase
+      hint: Did you buy food or drinks
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 18
+      name: overall_experience
+      label: Overall Experience
+      hint: Rate your overall experience
+      type: select_one
+      options:
+      - 5 - Excellent
+      - 4 - Good
+      - 3 - Average
+      - 2 - Poor
+      - 1 - Very Poor
+      required: true
+    - id: 19
+      name: sound_quality
+      label: Sound Quality
+      hint: Rate the sound quality
+      type: select_one
+      options:
+      - 5 - Excellent
+      - 4 - Good
+      - 3 - Average
+      - 2 - Poor
+      - 1 - Very Poor
+      required: true
+    - id: 20
+      name: venue_cleanliness
+      label: Venue Cleanliness
+      hint: Rate the cleanliness
+      type: select_one
+      options:
+      - 5 - Excellent
+      - 4 - Good
+      - 3 - Average
+      - 2 - Poor
+      - 1 - Very Poor
+      required: true
+    - id: 21
+      name: staff_friendliness
+      label: Staff Friendliness
+      hint: Rate the staff friendliness
+      type: select_one
+      options:
+      - 5 - Excellent
+      - 4 - Good
+      - 3 - Average
+      - 2 - Poor
+      - 1 - Very Poor
+      required: true
+    - id: 22
+      name: security_satisfaction
+      label: Security Satisfaction
+      hint: Rate the security services
+      type: select_one
+      options:
+      - 5 - Excellent
+      - 4 - Good
+      - 3 - Average
+      - 2 - Poor
+      - 1 - Very Poor
+      required: true
+    - id: 23
+      name: favorite_performance
+      label: Favorite Performance
+      hint: What was your favorite part
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: would_attend_again
+      label: Would Attend Again
+      hint: Would you attend another concert here
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Neutral
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 25
+      name: would_recommend
+      label: Would Recommend
+      hint: Would you recommend to others
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Neutral
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 26
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,272 @@
+inputSchema:
+  type: object
+  properties:
+    title: Care Coordination Program Effectiveness Evaluation Form
+    pages:
+    - id: 1
+      name: evaluator_name
+      label: Evaluator Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: evaluator_role
+      label: Evaluator Role
+      hint: null
+      type: select_one
+      options:
+      - Program Administrator
+      - Quality Assurance Specialist
+      - Healthcare Provider
+      - External Evaluator
+      - Stakeholder
+      - Other
+      required: true
+    - id: 3
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: program_name
+      label: Care Coordination Program Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: evaluation_period_start
+      label: Evaluation Period Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: evaluation_period_end
+      label: Evaluation Period End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: program_duration
+      label: How Long Has the Program Been Operating
+      hint: null
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6 months to 1 year
+      - 1-2 years
+      - 2-5 years
+      - More than 5 years
+      required: true
+    - id: 9
+      name: target_population
+      label: Target Population Served
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Elderly patients
+      - Chronically ill patients
+      - Pediatric patients
+      - Mental health patients
+      - Post-acute care patients
+      - High-risk pregnancies
+      - Disabled individuals
+      - Low-income populations
+      - General population
+      required: true
+    - id: 10
+      name: average_monthly_enrollment
+      label: Average Monthly Enrollment
+      hint: Approximate number of patients
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: program_goals_met
+      label: To What Extent Are Program Goals Being Met
+      hint: null
+      type: select_one
+      options:
+      - Exceeds expectations
+      - Fully met
+      - Mostly met
+      - Partially met
+      - Not met
+      required: true
+    - id: 12
+      name: patient_satisfaction_rate
+      label: Estimated Patient Satisfaction Rate
+      hint: Percentage
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: provider_satisfaction_rate
+      label: Estimated Provider Satisfaction Rate
+      hint: Percentage
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: readmission_rate_impact
+      label: Impact on Hospital Readmission Rates
+      hint: null
+      type: select_one
+      options:
+      - Significant decrease
+      - Moderate decrease
+      - Slight decrease
+      - No change
+      - Slight increase
+      - Unknown
+      required: true
+    - id: 15
+      name: cost_effectiveness
+      label: Program Cost Effectiveness
+      hint: null
+      type: select_one
+      options:
+      - Highly cost effective
+      - Cost effective
+      - Neutral
+      - Not cost effective
+      - Unable to determine
+      required: true
+    - id: 16
+      name: care_quality_indicators
+      label: Care Quality Indicators
+      hint: Select all that show improvement
+      type: select_multiple
+      options:
+      - Reduced emergency department visits
+      - Improved medication adherence
+      - Better chronic disease management
+      - Increased preventive care
+      - Improved patient outcomes
+      - Reduced care fragmentation
+      - Better care transitions
+      - No measurable improvement
+      required: true
+    - id: 17
+      name: technology_utilization
+      label: Technology Utilization in Program
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Electronic health records
+      - Care coordination platform
+      - Telehealth services
+      - Remote patient monitoring
+      - Patient portal
+      - Mobile health apps
+      - Data analytics tools
+      - Limited technology use
+      required: true
+    - id: 18
+      name: staff_adequacy
+      label: Staffing Adequacy
+      hint: null
+      type: select_one
+      options:
+      - More than adequate
+      - Adequate
+      - Somewhat adequate
+      - Inadequate
+      - Severely understaffed
+      required: true
+    - id: 19
+      name: interdisciplinary_collaboration
+      label: Level of Interdisciplinary Collaboration
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 20
+      name: barriers_to_effectiveness
+      label: Barriers to Program Effectiveness
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Limited funding
+      - Staff turnover
+      - Technology limitations
+      - Communication challenges
+      - Patient engagement issues
+      - Regulatory constraints
+      - Resource limitations
+      - Lack of provider buy-in
+      - Data sharing barriers
+      - None significant
+      required: true
+    - id: 21
+      name: success_stories
+      label: Notable Success Stories or Outcomes
+      hint: Brief description
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: recommendations
+      label: Key Recommendations for Improvement
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Increase staffing
+      - Enhance technology infrastructure
+      - Improve training programs
+      - Expand services
+      - Better data tracking
+      - Strengthen partnerships
+      - Increase patient engagement strategies
+      - Secure additional funding
+      - Revise protocols
+      - No changes needed
+      required: true
+    - id: 23
+      name: program_continuation
+      label: Do You Recommend Program Continuation
+      hint: null
+      type: select_one
+      options:
+      - Yes - with expansion
+      - Yes - as is
+      - Yes - with modifications
+      - Uncertain
+      - No - discontinue
+      required: true
+    - id: 24
+      name: overall_effectiveness_rating
+      label: Overall Program Effectiveness Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Optional
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Walkathon Registration Form
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: events
+      label: Event
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Walk 1'', ''value'': ''Walk 1''}'
+      - '{''label'': ''Run 1'', ''value'': ''Run 1''}'
+      - '{''label'': ''Run 2'', ''value'': ''Run 2''}'
+      required: false
+    - id: 3
+      name: contribution
+      label: Contribution
+      hint: How would you like to contribute?
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: schedule
+      label: Schedule
+      hint: Please provide your schedule
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: fees
+      label: Fees
+      hint: null
+      type: number
+      options: []
+      required: false

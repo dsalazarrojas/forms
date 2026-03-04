@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Evaluation Survey Form
+    pages:
+    - id: 1
+      name: general_information
+      label: general-information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: course_questions
+      label: course-questions
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 3
+      name: course_comments
+      label: course-comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: instructor_questions
+      label: instructor-questions
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 5
+      name: instructor_comments
+      label: instructor-comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: school_questions
+      label: school-questions
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 7
+      name: school_comments
+      label: school-comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: additional-comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: student_experience
+      label: student-experience
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Front Desk Receptionist Evaluation Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: receptionist_perception
+      label: Receptionist Perception
+      hint: How would you rate the receptionist's overall attitude and demeanor?
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: communication_skills
+      label: Communication Skills
+      hint: How effective is the receptionist in communicating with visitors?
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Fair''}'
+      - '{''id'': 4, ''label'': ''Poor''}'
+      required: false
+    - id: 4
+      name: time_management
+      label: Time Management
+      hint: How effectively does the receptionist manage their time?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: problem_solving
+      label: Problem Solving
+      hint: How effectively does the receptionist handle problems and issues?
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: technical_skills
+      label: Technical Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: teamwork
+      label: Teamwork
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_service
+      label: Customer Service
+      hint: How effectively does the receptionist provide customer service?
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: overall_performance
+      label: Overall Performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: Is there anything else you'd like to comment on?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: Is there anything else you'd like to comment on?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Fair''}'
+      - '{''id'': 4, ''label'': ''Poor''}'
+      required: false
+    - id: 13
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: evaluated_by
+      label: Evaluated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: evaluated_at
+      label: Evaluated At
+      hint: null
+      type: time
+      options: []
+      required: false

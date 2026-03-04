@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Benefit Form
+    pages:
+    - id: 1
+      name: institution
+      label: Educational Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student
+      label: Student
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: program
+      label: Academic Program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: benefit_type
+      label: Benefit Type
+      hint: null
+      type: select_multiple
+      options:
+      - Financial Aid
+      - Grant
+      - Scholarship
+      - Other
+      required: false
+    - id: 5
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: period
+      label: Period
+      hint: null
+      type: select_one
+      options:
+      - Academic Year
+      - Semester
+      - Other
+      required: false
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

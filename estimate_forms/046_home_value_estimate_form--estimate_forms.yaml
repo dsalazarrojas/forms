@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: home_value_estimate_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: estimated_value
+      label: Estimated Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: date_viewed_property
+      label: Date Viewed Property
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: real_estate_agent
+      label: Real Estate Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

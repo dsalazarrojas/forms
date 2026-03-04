@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Toy Production Molds Requisition Form
+    pages:
+    - id: 1
+      name: toy_production_molds_request
+      label: toy_production_molds_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: production_date
+      label: production_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: production_shift
+      label: production_shift
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: production_site
+      label: production_site
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: production_type
+      label: production_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: production_status
+      label: production_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false

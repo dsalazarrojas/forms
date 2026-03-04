@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fortune Teller Feedback Form
+    pages:
+    - id: 1
+      name: tarot_reading_service
+      label: Tarot Reading Service
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reader
+      label: Reader
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reading_length
+      label: Reading Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: reading_type
+      label: Reading Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''10 minutes''}'
+      - '{''value'': ''30 minutes''}'
+      - '{''value'': ''60 minutes''}'
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: rating
+      label: Rating
+      hint: null
+      type: select_multiple
+      options:
+      - 1-2
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

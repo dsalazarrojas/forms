@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: DJ Request Form
+    pages:
+    - id: 1
+      name: song_title
+      label: song_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: artist
+      label: artist
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: song_requesting
+      label: song_requesting
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: event_type
+      label: event_type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_name
+      label: event_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': None, ''label'': ''Entertainment''}'
+      - Other
+      required: true
+    - id: 12
+      name: description
+      label: description
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

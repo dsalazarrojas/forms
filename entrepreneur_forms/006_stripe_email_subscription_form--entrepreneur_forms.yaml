@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stripe Email Subscription Form
+    pages:
+    - id: 1
+      name: user_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: user_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: user_business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: business_type
+      label: What type of business are you?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 5
+      name: user_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: user_business_phone
+      label: Business Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: user_email_type
+      label: Email Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 8
+      name: user_agreed
+      label: Agree
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: user_terms_of_service
+      label: Terms of Service
+      hint: null
+      type: note
+      options: []
+      required: false

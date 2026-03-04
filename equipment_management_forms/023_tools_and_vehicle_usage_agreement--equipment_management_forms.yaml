@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tools And Vehicle Usage Agreement
+    pages:
+    - id: 1
+      name: tools_and_vehicle_usage_agreement_page_1
+      label: tools_and_vehicle_usage_agreement_page_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tools_and_vehicle_usage_agreement_page_1_section
+      label: tools_and_vehicle_usage_agreement_section
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: tools_and_vehicle_usage_agreement_who_used_the_equipment
+      label: who_used_the_equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: tools_and_vehicle_usage_agreement_who_approved_the_equipment
+      label: who_approved_the_equipment
+      hint: null
+      type: select_one
+      options:
+      - Approved User
+      - Supervisor
+      - Manager
+      - Administrator
+      - Other
+      required: false
+    - id: 5
+      name: tools_and_vehicle_usage_agreement_expected_return_date
+      label: expected_return_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: tools_and_vehicle_usage_agreement_actual_return_date
+      label: actual_return_date
+      hint: null
+      type: date
+      options: []
+      required: false

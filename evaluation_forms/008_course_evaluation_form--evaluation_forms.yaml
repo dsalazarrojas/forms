@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Course Evaluation Form
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: student_id
+      label: student_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: course_id
+      label: course_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: evaluation_date
+      label: evaluation_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: course_quality
+      label: course_quality
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: true
+    - id: 7
+      name: instructor_effectiveness
+      label: instructor_effectiveness
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: course_materials
+      label: course_materials
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: instructor_clarity
+      label: instructor_clarity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: instructor_response_time
+      label: instructor_response_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: course_content
+      label: course_content
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: course_organization
+      label: course_organization
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: course_support
+      label: course_support
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: course_inclusivity
+      label: course_inclusivity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: course_relevance
+      label: course_relevance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: course_title
+      label: course_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: course_number
+      label: course_number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: instructor_title
+      label: instructor_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: instructor_first_name
+      label: instructor_first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: instructor_last_name
+      label: instructor_last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: instructor_email
+      label: instructor_email
+      hint: null
+      type: email
+      options: []
+      required: true

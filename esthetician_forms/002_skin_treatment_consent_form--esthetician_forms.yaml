@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skin Treatment Consent Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: signed_consent
+      label: Signed Consent
+      hint: null
+      type: select_multiple
+      options:
+      - I have read and understand this form and give my consent
+      - I have not read this form and do not give my consent
+      required: false
+    - id: 5
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: provider_signature
+      label: Provider Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_signed
+      label: Time Signed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: client_address
+      label: Client Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: provider_address
+      label: Provider Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: client_agreed_to_terms
+      label: Agreed To Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

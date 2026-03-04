@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Strategic Advisory Outcome Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: welcome_to_the_survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction_page
+      label: client_satisfaction
+      hint: How satisfied are you with our advisory service?
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: outcomes_page
+      label: outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - Outcome 1
+      - Outcome 2
+      - Outcome 3
+      required: false
+    - id: 4
+      name: impact_page
+      label: impact
+      hint: How did our advisory service impact your business?
+      type: select_one
+      options:
+      - Outcome 1
+      - Outcome 2
+      - Outcome 3
+      required: false
+    - id: 5
+      name: future_needs_page
+      label: future_needs
+      hint: What are your future needs and expectations?
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: additional_comments_page
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: next_steps_page
+      label: next_steps
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: rating_page
+      label: overall_rating
+      hint: Rate your overall satisfaction
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: contact_info_page
+      label: contact_info
+      hint: null
+      type: select_multiple
+      options:
+      - Contact Info 1
+      - Contact Info 2
+      - Contact Info 3
+      required: false
+    - id: 10
+      name: submit_page
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

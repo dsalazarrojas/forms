@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Support Evaluation Form
+    pages:
+    - id: 1
+      name: interaction
+      label: What was the nature of your interaction with our data support team?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction
+      label: How would you rate your overall satisfaction with your interaction?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: improvement_area
+      label: What areas for improvement would you suggest we address?
+      hint: null
+      type: select_multiple
+      options:
+      - Data Support Knowledge
+      - Communication Style
+      - Response Time
+      - Support Offered
+      required: true
+    - id: 4
+      name: suggestion
+      label: Do you have any other suggestions or ideas?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: true
+    - id: 5
+      name: follow_up
+      label: Would you be willing to have a follow-up conversation to discuss your
+        interaction in more detail?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: feedback
+      label: Do you have any other feedback about our data support team?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false

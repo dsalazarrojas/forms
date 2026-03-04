@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: post_presentation_survey
+    pages:
+    - id: 1
+      name: presentation_date
+      label: Presentation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: presentation_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: speaker_name
+      label: Speaker Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: speaker_title
+      label: Speaker Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: session_id
+      label: Session ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: evaluation_form
+      label: Evaluation Form
+      hint: null
+      type: select_one
+      options:
+      - Evaluation Form 1
+      - Evaluation Form 2
+      - Evaluation Form 3
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Heat Pump Inspection Checklist
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_model
+      label: Equipment Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: serial_number
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: installation_date
+      label: Installation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: last_inspection
+      label: Last Inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: pump_type
+      label: Pump Type
+      hint: null
+      type: select_one
+      options:
+      - Centrifugal
+      - Positive_Displacement
+      - Screw
+      - Rotary
+      required: false
+    - id: 7
+      name: operating_condition
+      label: Operating Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Normal
+      - Warning
+      - Critical
+      required: false
+    - id: 8
+      name: operating_hours
+      label: Operating Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

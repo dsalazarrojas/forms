@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Entertainment Platform Feedback
+    pages:
+    - id: 1
+      name: user_satisfaction
+      label: User Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: watched_videos
+      label: Videos Watched
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: watched_videos_list
+      label: Watched Videos List
+      hint: List video titles or IDs of videos watched
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: watched_videos_count
+      label: Videos Watched Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: watched_videos_average_time
+      label: Average Video Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: user_satisfaction_suggestions
+      label: User Satisfaction Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: user_satisfaction_score
+      label: Satisfaction Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: user_satisfaction_comment
+      label: User Satisfaction Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: watched_videos_rating
+      label: Videos Watched Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 10
+      name: watched_videos_average_rating
+      label: Average Video Rating
+      hint: null
+      type: number
+      options: []
+      required: false

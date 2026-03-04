@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restaurant Employee Evaluation Form
+    pages:
+    - id: 1
+      name: form_section_1
+      label: form_section_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: supervisor_id
+      label: supervisor_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: date_completed
+      label: date_completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: rating_average
+      label: rating_average
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: rating_overall
+      label: overall_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: feedback_comments
+      label: feedback_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_date
+      label: evaluation_date
+      hint: null
+      type: date
+      options: []
+      required: false

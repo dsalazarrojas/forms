@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Probation Period Review Form
+    pages:
+    - id: 1
+      name: review_form
+      label: Review Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: case_info
+      label: Case Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: review_period
+      label: Review Period
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: case_status
+      label: Case Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: case_details
+      label: Case Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reviewer_title
+      label: Reviewer Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reviewer_email
+      label: Reviewer Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: reviewer_phone
+      label: Reviewer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reviewer_notes
+      label: Reviewer Notes
+      hint: null
+      type: note
+      options: []
+      required: false

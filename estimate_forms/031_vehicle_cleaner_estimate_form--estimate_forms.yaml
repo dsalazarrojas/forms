@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Cleaner Estimate Form
+    pages:
+    - id: 1
+      name: vehicle_cleaner_estimate_form
+      label: Estimate Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''1'', ''label'': ''Car''}'
+      - '{''id'': ''2'', ''label'': ''Truck''}'
+      - '{''id'': ''3'', ''label'': ''SUV''}'
+      - '{''id'': ''4'', ''label'': ''Van''}'
+      required: false
+    - id: 3
+      name: services_offered
+      label: Services
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''1'', ''label'': ''Basic Wash''}'
+      - '{''id'': ''2'', ''label'': ''Advanced Wash''}'
+      - '{''id'': ''3'', ''label'': ''Full Detail''}'
+      - '{''id'': ''4'', ''label'': ''Interior Clean''}'
+      - '{''id'': ''5'', ''label'': ''Exterior Clean''}'
+      required: false
+    - id: 4
+      name: labor_hours
+      label: Labor Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: labor_rate
+      label: Labor Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''1'', ''label'': ''Cash''}'
+      - '{''id'': ''2'', ''label'': ''Card''}'
+      - '{''id'': ''3'', ''label'': ''Bank Transfer''}'
+      required: false
+    - id: 8
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_terms_details
+      label: Payment Terms Details
+      hint: null
+      type: text
+      options: []
+      required: false

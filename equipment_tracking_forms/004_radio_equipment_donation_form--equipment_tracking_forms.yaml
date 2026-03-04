@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Radio Equipment Donation Form
+    pages:
+    - id: 1
+      name: radio_equipment_donation_form
+      label: Radio Equipment Donation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donor_information
+      label: Donor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: equipment_details
+      label: Equipment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: pickup_delivery
+      label: Pickup/Delivery
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''pickup'', ''label'': ''Pickup''}'
+      - '{''id'': 2, ''name'': ''delivery'', ''label'': ''Delivery''}'
+      required: false
+    - id: 5
+      name: pickup_date
+      label: Pickup Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: equipment_item
+      label: Equipment Item
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''radio_equipment1'', ''label'': ''Radio Equipment
+        1''}'
+      - '{''id'': 2, ''name'': ''radio_equipment2'', ''label'': ''Radio Equipment
+        2''}'
+      - '{''id'': 3, ''name'': ''radio_equipment3'', ''label'': ''Radio Equipment
+        3''}'
+      required: false
+    - id: 7
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: donor_phone
+      label: Donor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: donor_email
+      label: Donor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: donor_address
+      label: Donor Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: pickup_time
+      label: Pickup Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: radio_equipment_donation_id
+      label: Radio Equipment Donation ID
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: music_video_location_permit_request_form
+    pages:
+    - id: 1
+      name: shoot_details
+      label: shoot_details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: shoot_location
+      label: shoot_location
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: shoot_date
+      label: shoot_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: shoot_time
+      label: shoot_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: shoot_duration
+      label: shoot_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: crew_details
+      label: crew_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: shoot_requirements
+      label: shoot_requirements
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: shoot_equipment
+      label: shoot_equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: parking_details
+      label: parking_details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: location_details
+      label: location_details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: shoot_notes
+      label: shoot_notes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

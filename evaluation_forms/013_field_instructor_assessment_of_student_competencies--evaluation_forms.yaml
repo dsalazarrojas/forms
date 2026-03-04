@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Field Instructor Assessment Of Student Competencies
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: grade
+      label: Grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: instructor_title
+      label: Instructor Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rating
+      label: Rating
+      hint: On a scale of 1-5
+      type: select_one
+      options:
+      - Excellent
+      - Satisfactory
+      - Needs Improvement
+      - Unsatisfactory
+      - Not Applicable
+      required: false
+    - id: 6
+      name: overall_competence
+      label: Overall Competence
+      hint: null
+      type: select_multiple
+      options:
+      - Communication
+      - Critical Thinking
+      - Empathy
+      - Problem Solving
+      - Leadership
+      - Self-Awareness
+      - Interpersonal Skills
+      - Time Management
+      - Cultural Competence
+      - Self-Reflection
+      - Advocacy
+      - Case Management
+      - Intervention Planning
+      - Assessment
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

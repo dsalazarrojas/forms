@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tilling Specialist Feedback
+    pages:
+    - id: 1
+      name: tilling_specialist_feedback
+      label: How would you rate the tilling specialist's attitude?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 2
+      name: tilling_process
+      label: How would you rate the tilling process?
+      hint: null
+      type: select_one
+      options:
+      - On time
+      - Ahead of schedule
+      - Behind schedule
+      - Late
+      required: false
+    - id: 3
+      name: communication
+      label: How would you rate the communication between you and the tilling specialist?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: tilling_specialist_availability
+      label: How would you rate the tilling specialist's availability?
+      hint: null
+      type: select_one
+      options:
+      - Always available
+      - Mostly available
+      - Seldom available
+      required: false
+    - id: 5
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 6
+      name: tilling_specialist_name
+      label: Tilling specialist's name (if known)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: tilling_specialist_company
+      label: Tilling specialist's company (if known)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: tilling_specialist_phone
+      label: Tilling specialist's phone (if known)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: tilling_specialist_email
+      label: Tilling specialist's email (if known)
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: tilling_specialist_address
+      label: Tilling specialist's address (if known)
+      hint: null
+      type: text
+      options: []
+      required: false

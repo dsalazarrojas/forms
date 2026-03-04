@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: team_evaluation_form
+    pages:
+    - id: 1
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: player_id
+      label: Player ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: position
+      label: Position
+      hint: null
+      type: select_multiple
+      options:
+      - Goalkeeper
+      - Defense
+      - Midfielder
+      - Forward
+      - Goalkeeper
+      required: false
+    - id: 4
+      name: player_rating
+      label: Player Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: grade
+      label: Grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

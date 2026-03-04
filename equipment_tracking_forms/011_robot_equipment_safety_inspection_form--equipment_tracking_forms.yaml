@@ -1,0 +1,78 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Robot Equipment Safety Inspection Form
+    pages:
+    - id: 1
+      name: user
+      label: user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_type
+      label: equipment_type
+      hint: null
+      type: select_one
+      options:
+      - Robot Arm
+      - Robotic System
+      - Other
+      required: false
+    - id: 3
+      name: equipment_model
+      label: equipment_model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: last_inspection
+      label: last_inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: next_inspection
+      label: next_inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: hazardous_conditions
+      label: hazardous_conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: inspection_comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_multiple
+      options:
+      - Jim
+      - John
+      - Jane
+      required: false

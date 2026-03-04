@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: valentines_day_pre_order_form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: pre_order
+      label: Pre Order
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Pink
+      - Blue
+      required: false
+    - id: 7
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false

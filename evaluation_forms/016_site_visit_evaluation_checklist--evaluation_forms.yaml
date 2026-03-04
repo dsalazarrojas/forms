@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Site Visit Evaluation Checklist
+    pages:
+    - id: 1
+      name: site_visit_effectiveness
+      label: Site Visit Effectiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: logistics
+      label: Logistics
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: stakeholder_engagement
+      label: Stakeholder Engagement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: overall_outcomes
+      label: Overall Outcomes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback_comments
+      label: Feedback Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: logistics_score
+      label: Logistics Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: engagement_score
+      label: Engagement Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: outcomes_score
+      label: Outcomes Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

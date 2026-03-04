@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: industrial_equipment_health_log_report
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_name
+      label: equipment_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: equipment_description
+      label: equipment_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: equipment_status
+      label: equipment_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: last_inspection_date
+      label: last_inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: next_inspection_due_date
+      label: next_inspection_due_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: issue_description
+      label: issue_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: priority
+      label: priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: issue_reported
+      label: issue_reported
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

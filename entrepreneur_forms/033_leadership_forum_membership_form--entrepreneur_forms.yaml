@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Leadership Forum Membership Form
+    pages:
+    - id: 1
+      name: form_details
+      label: form_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: professional_history
+      label: professional_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: member_details
+      label: member_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: submit_button
+      label: submit_button
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_type
+      label: date_type
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_type
+      label: time_type
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: form_type
+      label: form_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''text'', ''value'': ''text''}'
+      - '{''label'': ''integer'', ''value'': ''integer''}'
+      - '{''label'': ''decimal'', ''value'': ''decimal''}'
+      required: false
+    - id: 9
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: form_version
+      label: form_version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: form_status
+      label: form_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''draft'', ''value'': ''draft''}'
+      - '{''label'': ''published'', ''value'': ''published''}'
+      - '{''label'': ''archived'', ''value'': ''archived''}'
+      required: false
+    - id: 12
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Entrepreneur Forms'', ''value'': ''Entrepreneur Forms''}'
+      - '{''label'': ''Business Forms'', ''value'': ''Business Forms''}'
+      - '{''label'': ''Organization Forms'', ''value'': ''Organization Forms''}'
+      required: false

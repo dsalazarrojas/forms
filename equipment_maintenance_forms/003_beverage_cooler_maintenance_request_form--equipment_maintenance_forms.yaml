@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beverage Cooler Maintenance Request Form
+    pages:
+    - id: 1
+      name: section_header_reporter
+      label: -- Reporter Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reporter_name
+      label: Your Name
+      hint: Full name of the person reporting the issue
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reporter_email
+      label: Email Address
+      hint: Contact email for follow-up communication
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: reporter_phone
+      label: Phone Number
+      hint: Contact phone number for urgent issues
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: report_date
+      label: Date of Report
+      hint: When did you notice the issue?
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_header_equipment
+      label: -- Equipment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: cooler_location
+      label: Cooler Location
+      hint: Where is the cooler located in your facility?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: cooler_model
+      label: Cooler Model Number
+      hint: Model or serial number if available
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: cooler_age
+      label: Equipment Age
+      hint: Approximately how old is this cooler?
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - Over 10 years
+      required: false
+    - id: 10
+      name: section_header_issue
+      label: -- Issue Description --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: issue_type
+      label: Type of Issue
+      hint: What is the main problem?
+      type: select_one
+      options:
+      - Temperature not cooling
+      - Leaking water
+      - Strange noise
+      - Door malfunction
+      - Display not working
+      - Compressor issue
+      - Other
+      required: true
+    - id: 12
+      name: issue_description
+      label: Detailed Description
+      hint: Please describe the problem in detail
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: impact_level
+      label: Impact on Operations
+      hint: How does this affect your business?
+      type: select_one
+      options:
+      - Critical - completely non-functional
+      - High - significantly impacting operations
+      - Medium - partially affecting service
+      - Low - minor issue
+      required: true
+    - id: 14
+      name: first_occurrence
+      label: When Did This Issue First Occur
+      hint: Approximate date or time
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_header_urgency
+      label: -- Service Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: priority_level
+      label: Priority Level
+      hint: How urgent is this repair?
+      type: select_one
+      options:
+      - Emergency - same day service needed
+      - Urgent - within 24 hours
+      - High - within 3 days
+      - Standard - within 1 week
+      - Low - no specific timeline
+      required: true
+    - id: 17
+      name: preferred_service_time
+      label: Preferred Service Time
+      hint: When would service be most convenient?
+      type: select_one
+      options:
+      - Morning (8am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-8pm)
+      - Anytime
+      - Weekend
+      required: false
+    - id: 18
+      name: contact_available
+      label: Will Contact Person Be Available
+      hint: Will someone be available to receive technician?
+      type: select_one
+      options:
+      - Yes, always
+      - Yes, during business hours
+      - No, access required through management
+      - Uncertain
+      required: true
+    - id: 19
+      name: previous_service
+      label: Has This Equipment Had Previous Service
+      hint: null
+      type: select_one
+      options:
+      - Yes, recently
+      - Yes, long ago
+      - No, never
+      - Unknown
+      required: false
+    - id: 20
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information for the service technician?
+      type: text
+      options: []
+      required: false

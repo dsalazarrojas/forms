@@ -1,0 +1,112 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Anime Character Interaction Survey
+    pages:
+    - id: 1
+      name: header
+      label: -- Participant Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_age_group
+      label: Age group
+      hint: Select your age group
+      type: select_one
+      options:
+      - Under 18
+      - 18 to 24
+      - 25 to 34
+      - 35 to 44
+      - 45 and above
+      required: false
+    - id: 3
+      name: favorite_genre
+      label: Favorite anime genre
+      hint: Choose the genre you enjoy most
+      type: select_one
+      options:
+      - Shonen
+      - Shojo
+      - Seinen
+      - Isekai
+      - Slice of life
+      - Other
+      required: true
+    - id: 4
+      name: favorite_character
+      label: Favorite character
+      hint: Provide the character name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: interaction_frequency
+      label: Interaction frequency with characters
+      hint: How often do you discuss or roleplay characters
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: true
+    - id: 6
+      name: preferred_interaction_type
+      label: Preferred interaction type
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fan art
+      - Roleplay
+      - Discussion forums
+      - Cosplay
+      - Fan fiction
+      required: false
+    - id: 7
+      name: fandom_community
+      label: Are you part of any fandom community
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: false
+    - id: 8
+      name: favorite_medium
+      label: Favorite medium to engage with characters
+      hint: Choose one
+      type: select_one
+      options:
+      - Anime
+      - Manga
+      - Games
+      - Novels
+      required: true
+    - id: 9
+      name: comments
+      label: Additional comments
+      hint: Any other thoughts about character interaction
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit_date
+      label: Submission date
+      hint: Auto entry or choose today
+      type: date
+      options: []
+      required: false

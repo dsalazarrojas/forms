@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Best Friend Application Form
+    pages:
+    - id: 1
+      name: personal_stuff_header
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Your Name
+      hint: What should I call you
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_age
+      label: Your Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: favorite_hobby
+      label: Favorite Hobby
+      hint: What do you do for fun
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: favorite_movie_genre
+      label: Favorite Movie Genre
+      hint: null
+      type: select_one
+      options:
+      - Comedy
+      - Horror
+      - Action and Adventure
+      - Drama
+      - Sci-Fi and Fantasy
+      - Documentary
+      - Other
+      required: true
+    - id: 6
+      name: friendship_compatibility_header
+      label: -- Friendship Compatibility --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: biorhythm_preference
+      label: Are you a morning person or a night owl
+      hint: null
+      type: select_one
+      options:
+      - Morning Person
+      - Night Owl
+      - Both - I never sleep
+      - Neither - I am always tired
+      required: true
+    - id: 8
+      name: social_preference
+      label: Do you prefer staying in or going out
+      hint: null
+      type: select_one
+      options:
+      - Staying In - Netflix and snacks
+      - Going Out - Exploring and adventures
+      - A healthy mix of both
+      required: true
+    - id: 9
+      name: ideal_weekend_activity
+      label: What is your ideal weekend activity
+      hint: Describe your perfect Saturday
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: favorite_snack_input
+      label: Favorite Snack
+      hint: This is very important
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: big_questions_header
+      label: -- The Big Questions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: zombie_apocalypse_role
+      label: In a zombie apocalypse, what would your role be
+      hint: null
+      type: select_one
+      options:
+      - The Leader
+      - The Fighter
+      - The Healer
+      - The First to Go
+      - The One with the Snacks
+      required: true
+    - id: 13
+      name: secret_keeping_ability
+      label: Can you keep a secret
+      hint: null
+      type: select_one
+      options:
+      - Yes - My lips are sealed
+      - Usually - Unless it is really juicy
+      - Sometimes - I try my best
+      - No - I am a chronic oversharer
+      required: true
+    - id: 14
+      name: bad_day_handling
+      label: How do you handle a bad day
+      hint: Do you need space or a distraction
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: fun_facts_header
+      label: -- Fun Facts --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: essential_item
+      label: One thing you cannot live without
+      hint: Besides air and water
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: spirit_animal_input
+      label: Your Spirit Animal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: red_flags_disclosure
+      label: Any red flags I should know about
+      hint: Be honest!
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: agreement_header
+      label: -- Final Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: loyalty_promise
+      label: Do you promise to be a loyal best friend
+      hint: null
+      type: select_one
+      options:
+      - Yes - I pinky swear!
+      - Other
+      required: true
+    - id: 21
+      name: application_date_stamp
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: true

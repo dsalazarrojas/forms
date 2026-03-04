@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Control Review Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Financial Control Review Survey Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: control_effectiveness
+      label: Control Effectiveness
+      hint: How do you rate the effectiveness of controls in your area of responsibility?
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: financial_risks
+      label: Financial Risks
+      hint: Which financial risks do you identify?
+      type: select_multiple
+      options:
+      - Risk 1
+      - Risk 2
+      - Risk 3
+      required: false
+    - id: 4
+      name: improvement_ideas
+      label: Improvement Ideas
+      hint: What are your improvement ideas to strengthen the financial control environment?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: risk_priority
+      label: Risk Priority
+      hint: null
+      type: number
+      options: []
+      required: false

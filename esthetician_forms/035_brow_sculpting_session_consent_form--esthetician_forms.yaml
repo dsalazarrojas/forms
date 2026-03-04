@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brow Sculpting Session Consent Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client name
+      hint: Full client name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: procedure_date
+      label: Procedure date
+      hint: Date of appointment
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: health_conditions
+      label: Health conditions
+      hint: Note any conditions that may affect procedure
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: consent_confirmation
+      label: Consent confirmation
+      hint: Confirm consent for brow sculpting session
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 5
+      name: allergy_info
+      label: Allergy information
+      hint: Relevant allergies or sensitivities
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact
+      label: Emergency contact
+      hint: Name and phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: photo_release
+      label: Photo release
+      hint: Permission to use before and after photos
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 8
+      name: technician_notes
+      label: Technician notes
+      hint: For technician observations and record keeping
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beard Cleanse Mask Application Consent Form
+    pages:
+    - id: 1
+      name: client_header
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: medical_header
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: skin_type
+      label: Skin Type
+      hint: null
+      type: select_one
+      options:
+      - Sensitive
+      - Normal
+      - Oily
+      - Dry
+      - Combination
+      required: true
+    - id: 9
+      name: skin_conditions
+      label: Current Skin Conditions
+      hint: Acne, eczema, psoriasis, etc.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: allergies
+      label: Known Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: sensitive_to_fragrances
+      label: Sensitive to Fragrances
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: recent_treatments
+      label: Recent Facial Treatments or Surgery
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medications
+      label: Current Medications Affecting Skin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: treatment_header
+      label: -- Treatment Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: treatment_description
+      label: Treatment - Beard Cleanse Mask Application
+      hint: Professional deep cleansing mask for beard and facial hair
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: understood_procedure
+      label: I understand the treatment procedure
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: consent_to_treatment
+      label: I consent to this treatment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: acknowledge_risks
+      label: I acknowledge potential risks and side effects
+      hint: Temporary redness, tingling, or dryness may occur
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: product_ingredients
+      label: I have been informed about product ingredients
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: aftercare_instructions
+      label: I will follow aftercare instructions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: signature
+      label: Client Signature Consent
+      hint: By typing here, you consent to treatment
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: true

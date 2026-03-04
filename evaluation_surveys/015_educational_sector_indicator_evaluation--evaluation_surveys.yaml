@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Sector Indicator Evaluation
+    pages:
+    - id: 1
+      name: sector_id
+      label: Sector Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: institution_id
+      label: Institution Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: indicator_id
+      label: Indicator Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: sector_name
+      label: Sector Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: institution_name
+      label: Institution Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: indicator_name
+      label: Indicator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: indicator_type
+      label: Indicator Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: indicator_value
+      label: Indicator Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: institution_phone
+      label: Institution Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: institution_email
+      label: Institution Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: sector_url
+      label: Sector Url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: institution_url
+      label: Institution Url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: time
+      options: []
+      required: true

@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bank Details Enrolment Form
+    pages:
+    - id: 1
+      name: enrolment_header
+      label: -- New Customer Enrollment --
+      hint: Please fill out all fields for account setup
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Full Legal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: ssn_ein
+      label: Social Security Number or Tax ID
+      hint: Required for account identification and IRS reporting
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_info_header
+      label: -- Contact and Residency Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: residential_address
+      label: Residential Street Address
+      hint: P.O. Boxes are not permitted for primary residence
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: mobile_phone
+      label: Mobile Phone Number
+      hint: Used for multi-factor authentication
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: account_selection_header
+      label: -- Account Selection --
+      hint: Choose the products you wish to enroll in today
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: accounts_to_open
+      label: Desired Account Types
+      hint: null
+      type: select_multiple
+      options:
+      - Basic Checking
+      - Interest-Bearing Checking
+      - High-Yield Savings
+      - Money Market Account
+      - 12-Month CD
+      required: true
+    - id: 11
+      name: initial_deposit_amount
+      label: Estimated Initial Deposit
+      hint: Total amount to fund your new accounts
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: funding_source
+      label: Source of Initial Funding
+      hint: null
+      type: select_one
+      options:
+      - Transfer from External Bank
+      - Check Deposit
+      - Cash Deposit (In-Branch)
+      - Wire Transfer
+      required: true
+    - id: 13
+      name: online_access_header
+      label: -- Digital Banking Setup --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: username_request
+      label: Preferred Online Banking Username
+      hint: Minimum 8 characters, alphanumeric
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: security_question_1
+      label: Security Question - Mother's Maiden Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: security_question_2
+      label: Security Question - First School Attended
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: legal_compliance_header
+      label: -- Legal Compliance and Certifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: backup_withholding_cert
+      label: Backup Withholding Certification
+      hint: I certify that I am not subject to backup withholding
+      type: select_one
+      options:
+      - I Certify
+      - I am subject to backup withholding
+      required: true
+    - id: 19
+      name: e_sign_consent
+      label: E-Sign Consent and Disclosure
+      hint: I agree to receive disclosures electronically
+      type: select_one
+      options:
+      - I Consent
+      - Other
+      required: true
+    - id: 20
+      name: submission_date
+      label: Enrollment Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automated Test Creation And Evaluation Form
+    pages:
+    - id: 1
+      name: section_header_test
+      label: -- Test Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: test_title
+      label: Test Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: test_type
+      label: Type of Test
+      hint: null
+      type: select_one
+      options:
+      - Unit Test
+      - Integration Test
+      - End-to-End Test
+      - Performance Test
+      - Security Test
+      - Usability Test
+      - Other
+      required: true
+    - id: 4
+      name: test_description
+      label: Test Description
+      hint: What is this test evaluating?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_header_creator
+      label: -- Test Creator --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: creator_name
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: creator_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: creation_date
+      label: Test Creation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: section_header_scope
+      label: -- Test Scope and Objectives --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: test_objectives
+      label: Primary Test Objectives
+      hint: What should this test accomplish?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: system_component
+      label: System Component Being Tested
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: success_criteria
+      label: Success Criteria
+      hint: What defines a successful test?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_header_execution
+      label: -- Test Execution --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: execution_date
+      label: Test Execution Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: executed_by
+      label: Executed By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: environment
+      label: Test Environment
+      hint: null
+      type: select_one
+      options:
+      - Development
+      - Testing
+      - Staging
+      - Production
+      required: true
+    - id: 17
+      name: execution_time
+      label: Execution Time (minutes)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: section_header_results
+      label: -- Test Results --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: test_status
+      label: Test Status
+      hint: null
+      type: select_one
+      options:
+      - Passed
+      - Failed
+      - Partial Pass
+      - Blocked
+      - Not Run
+      required: true
+    - id: 20
+      name: issues_found
+      label: Issues or Defects Found
+      hint: Describe any issues discovered
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: severity_level
+      label: Severity Level of Issues
+      hint: null
+      type: select_one
+      options:
+      - Critical
+      - High
+      - Medium
+      - Low
+      - None
+      required: true
+    - id: 22
+      name: section_header_evaluation
+      label: -- Evaluation and Recommendations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: test_coverage
+      label: Test Coverage Percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: recommendations
+      label: Recommendations for Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Needs Revision
+      - Rejected
+      - Pending Review
+      required: true

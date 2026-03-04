@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cotillion Application Form
+    pages:
+    - id: 1
+      name: application_form
+      label: application_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: parent_info
+      label: parent_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_phone
+      label: emergency_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_email
+      label: emergency_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: payment_info
+      label: payment_info
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Full payment upfront'', ''value'': ''full_payment_upfront''}'
+      - '{''label'': ''Payment plan'', ''value'': ''payment_plan''}'
+      - '{''label'': ''Other payment method'', ''value'': ''other_payment_method''}'
+      required: false
+    - id: 8
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Full payment upfront'', ''value'': ''full_payment_upfront''}'
+      - '{''label'': ''Payment plan'', ''value'': ''payment_plan''}'
+      - '{''label'': ''Other payment method'', ''value'': ''other_payment_method''}'
+      required: false

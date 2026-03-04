@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Script Reading Broadcast Consent Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: broadcast_type
+      label: Broadcast Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Live''}'
+      - '{''id'': 2, ''label'': ''Pre-Recorded''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 5
+      name: broadcast_date
+      label: Broadcast Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: broadcast_time
+      label: Broadcast Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true

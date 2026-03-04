@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artist Feature Segment Request Form
+    pages:
+    - id: 1
+      name: artist_name
+      label: Artist or Band Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: primary_contact
+      label: Primary Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: segment_type
+      label: Requested Feature Segment Type
+      hint: null
+      type: select_one
+      options:
+      - Interview
+      - Performance
+      - Documentary-Style
+      - Tutorial or Masterclass
+      - Behind-the-Scenes
+      - Live Session
+      required: true
+    - id: 6
+      name: segment_duration
+      label: Preferred Segment Duration - Minutes
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: content_description
+      label: Content Description
+      hint: What should the segment showcase
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: music_genre
+      label: Music Genre or Art Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: artist_bio
+      label: Brief Artist Biography
+      hint: 50-150 words
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: recent_releases
+      label: Recent Releases or Projects
+      hint: Albums, singles, exhibitions
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: social_media
+      label: Social Media Handles and Links
+      hint: For cross-promotion
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: filming_location
+      label: Preferred Filming Location
+      hint: Studio, live venue, artist studio
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: filming_availability
+      label: Filming Availability Window
+      hint: Date range for filming
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: team_size
+      label: Expected Team Size for Filming
+      hint: Number of people
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: special_requirements
+      label: Special Equipment or Production Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: rights_clearance
+      label: Music Rights Clearance Status
+      hint: null
+      type: select_one
+      options:
+      - Cleared
+      - In Process
+      - Not Applicable
+      required: true
+    - id: 17
+      name: archive_rights
+      label: Rights to Archive Segment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - To Be Determined
+      required: false
+    - id: 18
+      name: additional_notes
+      label: Additional Notes or Requests
+      hint: null
+      type: text
+      options: []
+      required: false

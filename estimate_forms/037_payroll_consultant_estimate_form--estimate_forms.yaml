@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payroll Consultant Estimate Form
+    pages:
+    - id: 1
+      name: consultant_info
+      label: Consultant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: services_offered
+      label: Services Offered
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: service_details
+      label: Service Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: labor_costs
+      label: Labor Costs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: tax_rates
+      label: Tax Rates
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: other_costs
+      label: Other Costs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: total_estimate
+      label: Total Estimate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Net 10% of Estimate'', ''value'': ''net''}'
+      - '{''label'': ''Net 20% of Estimate'', ''value'': ''net20''}'
+      - '{''label'': ''Gross'', ''value'': ''gross''}'
+      - '{''label'': ''Other (Specify)'', ''value'': ''other''}'
+      required: true
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Check'', ''value'': ''check''}'
+      - '{''label'': ''Electronic Funds Transfer (EFT)'', ''value'': ''eft''}'
+      - '{''label'': ''Other (Specify)'', ''value'': ''other''}'
+      required: true
+    - id: 11
+      name: payment_terms_notes
+      label: Payment Terms Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: billing_info
+      label: Billing Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: consultant_signature
+      label: Consultant Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: text
+      options: []
+      required: false

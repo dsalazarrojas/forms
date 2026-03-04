@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Software Testing Device Order Request Form
+    pages:
+    - id: 1
+      name: requested_device_id
+      label: Requested Device Id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: device_name
+      label: Device Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: order_reason
+      label: Order Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: shipping_date
+      label: Shipping Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: shipping_method_option_label
+      label: Select Shipping Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: testing_environment
+      label: Testing Environment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: testing_setup
+      label: Testing Setup
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: testing_duration
+      label: Testing Duration
+      hint: null
+      type: text
+      options: []
+      required: false

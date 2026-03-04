@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volleyball Player Evaluation Form
+    pages:
+    - id: 1
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: position
+      label: Playing Position
+      hint: null
+      type: select_one
+      options:
+      - Setter
+      - Libero
+      - Right-Side
+      - Middle-Blocker
+      - Left-Side
+      - Opposite
+      - Setter
+      - Libero
+      - Right-Side
+      - Middle-Blocker
+      - Left-Side
+      - Opposite
+      required: false
+    - id: 3
+      name: overall_performance
+      label: Overall Performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: skills
+      label: Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Movement
+      - Ball-Handling
+      - Blocking
+      - Serving
+      - Passing
+      - Setting
+      - Spiking
+      - Digging
+      - Blocking
+      required: true
+    - id: 5
+      name: effort
+      label: Effort
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: communication
+      label: Communication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: sportsmanship
+      label: Sportsmanship
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: player_comments
+      label: Player Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false

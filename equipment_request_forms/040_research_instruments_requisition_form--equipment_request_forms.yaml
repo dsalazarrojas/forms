@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Research Instruments Requisition Form
+    pages:
+    - id: 1
+      name: research_instruments_requisition_form
+      label: Research Instruments Requisition Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Equipment Request Forms
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: Briefly describe the purpose of the equipment to be purchased or used
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: research_instrument_request_form
+      label: Research Instrument Request Form
+      hint: null
+      type: select_multiple
+      options:
+      - Research Instruments Requisition Form
+      - Equipment Request Forms
+      - Other
+      required: false
+    - id: 5
+      name: research_instrument_request_form_2
+      label: Research Instrument Request Form 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: research_instrument_request_form_2
+      label: Research Instrument Request Form 2
+      hint: null
+      type: select_multiple
+      options:
+      - Research Instruments Requisition Form
+      - Equipment Request Forms
+      - Other
+      required: false
+    - id: 7
+      name: purchase_request_date
+      label: purchase request date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: purchase_request_time
+      label: purchase request time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Model Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: health_info
+      label: Health Info
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''healthy'', ''label'': ''Healthy''}'
+      - '{''id'': 2, ''name'': ''sick'', ''label'': ''Sick''}'
+      - '{''id'': 3, ''name'': ''dead'', ''label'': ''Dead''}'
+      required: false
+    - id: 9
+      name: measurements
+      label: Measurements
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''30-34'', ''label'': ''30-34''}'
+      - '{''id'': 2, ''name'': ''35-39'', ''label'': ''35-39''}'
+      - '{''id'': 3, ''name'': ''40-44'', ''label'': ''40-44''}'
+      - '{''id'': 4, ''name'': ''45-49'', ''label'': ''45-49''}'
+      - '{''id'': 5, ''name'': ''50-54'', ''label'': ''50-54''}'
+      - '{''id'': 6, ''name'': ''55-59'', ''label'': ''55-59''}'
+      - '{''id'': 7, ''name'': ''60-64'', ''label'': ''60-64''}'
+      - '{''id'': 8, ''name'': ''65-69'', ''label'': ''65-69''}'
+      - '{''id'': 9, ''name'': ''70-74'', ''label'': ''70-74''}'
+      - '{''id'': 10, ''name'': ''75-79'', ''label'': ''75-79''}'
+      - '{''id'': 11, ''name'': ''80-84'', ''label'': ''80-84''}'
+      - '{''id'': 12, ''name'': ''85-89'', ''label'': ''85-89''}'
+      - '{''id'': 13, ''name'': ''90-94'', ''label'': ''90-94''}'
+      - '{''id'': 14, ''name'': ''95-99'', ''label'': ''95-99''}'
+      - '{''id'': 15, ''name'': ''100+'', ''label'': ''100+''}'
+      required: false
+    - id: 10
+      name: date
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time of Registration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: agency_contact
+      label: Agency Contact
+      hint: null
+      type: text
+      options: []
+      required: false

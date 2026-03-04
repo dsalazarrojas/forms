@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: end_of_season_review_form
+    pages:
+    - id: 1
+      name: seasonal_performance
+      label: Seasonal Performance
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: performance_measures
+      label: Performance Measures
+      hint: null
+      type: select_one
+      options:
+      - Performance Measures 1
+      - Performance Measures 2
+      - Performance Measures 3
+      required: false
+    - id: 5
+      name: campaign_goals
+      label: campaign_goals
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false

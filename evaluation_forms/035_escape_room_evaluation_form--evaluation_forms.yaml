@@ -1,0 +1,114 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: escape_room_evaluation_form
+    pages:
+    - id: 1
+      name: escape_room_name
+      label: Room Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: escape_room_theme
+      label: Room Theme
+      hint: null
+      type: select_one
+      options:
+      - Fantasy
+      - Horror
+      - Mystery
+      - Western
+      - Sci-Fi
+      - Other (please specify)
+      required: true
+    - id: 3
+      name: escape_room_difficulty
+      label: Room Difficulty
+      hint: How challenging was the game?
+      type: select_one
+      options:
+      - Easy
+      - Moderate
+      - Challenging
+      - Difficult
+      required: true
+    - id: 4
+      name: escape_room_clues
+      label: Clue Difficulty
+      hint: "How clear were the puzzles\u0E1B\u0E23\u0E30\u0E01"
+      type: select_one
+      options:
+      - Very clear
+      - Somewhat clear
+      - Not clear at all
+      - Not clear at all
+      required: true
+    - id: 5
+      name: escape_room_puzzles
+      label: Puzzles
+      hint: How engaging were the puzzles?
+      type: select_one
+      options:
+      - Very engaging
+      - Somewhat engaging
+      - Not engaging at all
+      - Not engaging at all
+      required: true
+    - id: 6
+      name: escape_room_puzzles_type
+      label: Puzzle Types
+      hint: What types of puzzles did you encounter?
+      type: select_multiple
+      options:
+      - Word puzzles
+      - Visual puzzles
+      - Physical puzzles
+      - Other (please specify)
+      required: true
+    - id: 7
+      name: escape_room_immersive_environment
+      label: Immersive Environment
+      hint: How immersive was the environment?
+      type: select_one
+      options:
+      - "Very\u0E1B\u0E23\u0E30\u0E01"
+      - Somewhat
+      - Not at all
+      - Not at all
+      required: true
+    - id: 8
+      name: escape_room_value
+      label: Overall Experience Value
+      hint: Would you play this game again?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: escape_prophets
+      label: Escape Prophets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: escape_room_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

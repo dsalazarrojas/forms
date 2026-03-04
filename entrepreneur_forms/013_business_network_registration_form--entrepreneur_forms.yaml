@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Network Registration Form
+    pages:
+    - id: 1
+      name: member_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: member_email
+      label: Email Address
+      hint: Primary email for network communications
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: member_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: business_name
+      label: Business Name
+      hint: Your company or business name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_type
+      label: Business Type
+      hint: What type of business do you operate?
+      type: select_one
+      options:
+      - Sole Proprietorship
+      - Partnership
+      - LLC
+      - Corporation
+      - Freelancer
+      - Consultant
+      - Other
+      required: true
+    - id: 6
+      name: industry_sector
+      label: Industry Sector
+      hint: Primary industry focus
+      type: select_one
+      options:
+      - Technology
+      - Services
+      - Consulting
+      - Finance
+      - Healthcare
+      - Manufacturing
+      - Retail
+      - Other
+      required: true
+    - id: 7
+      name: business_description
+      label: Business Description
+      hint: Briefly describe your business
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: years_in_business
+      label: Years in Business
+      hint: How long has your business operated?
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: number_of_employees
+      label: Number of Employees
+      hint: Current team size
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: service_areas
+      label: Geographic Service Areas
+      hint: Where do you operate?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: business_website
+      label: Business Website
+      hint: URL of your business website
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: networking_interests
+      label: Networking Interests
+      hint: What are you looking for in the network?
+      type: select_multiple
+      options:
+      - Business Partnerships
+      - Client Referrals
+      - Vendor Connections
+      - Industry Insights
+      - Collaboration Opportunities
+      - Professional Development
+      - Support and Mentoring
+      required: true
+    - id: 13
+      name: offering_to_network
+      label: What Can You Offer the Network?
+      hint: Services, skills, or expertise you can share
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: business_specialties
+      label: Business Specialties
+      hint: Your unique expertise or services
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: preferred_contact_frequency
+      label: Preferred Contact Frequency
+      hint: How often should we reach out?
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Quarterly
+      - As Needed
+      required: false
+    - id: 16
+      name: social_media_profiles
+      label: Social Media Profiles
+      hint: Links to your professional profiles
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: referral_sources
+      label: How Did You Hear About Us?
+      hint: Referral source for joining network
+      type: select_one
+      options:
+      - Existing Member
+      - Web Search
+      - Social Media
+      - Event
+      - Advertisement
+      - Other
+      required: false
+    - id: 18
+      name: network_agreement
+      label: I agree to network terms and conditions
+      hint: Accept to proceed
+      type: select_one
+      options:
+      - Yes, I Agree
+      - false
+      required: true

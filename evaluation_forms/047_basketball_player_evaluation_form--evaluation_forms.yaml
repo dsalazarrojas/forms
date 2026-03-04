@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: Basketball Player Evaluation Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Evaluation Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: evaluation_date
+      label: Evaluation date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: evaluator_name
+      label: Evaluator name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: evaluator_role
+      label: Evaluator role
+      hint: null
+      type: select_one
+      options:
+      - Coach
+      - Assistant Coach
+      - Athletic Director
+      - Scout
+      - Other
+      required: true
+    - id: 5
+      name: section_header_2
+      label: -- Player Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: player_name
+      label: Player name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: player_number
+      label: Player number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: position
+      label: Position
+      hint: null
+      type: select_one
+      options:
+      - Point Guard
+      - Shooting Guard
+      - Small Forward
+      - Power Forward
+      - Center
+      - Utility
+      required: true
+    - id: 9
+      name: team_name
+      label: Team name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_header_3
+      label: -- Offensive Skills --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: ball_handling
+      label: Ball handling skills
+      hint: Scale 1-10
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: shooting_accuracy
+      label: Shooting accuracy
+      hint: Scale 1-10
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: court_vision
+      label: Court vision and passing
+      hint: Scale 1-10
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: footwork
+      label: Footwork and footspeed
+      hint: Scale 1-10
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: section_header_4
+      label: -- Defensive Skills --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: man_defense
+      label: Man-to-man defense
+      hint: Scale 1-10
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: rebounding
+      label: Rebounding ability
+      hint: Scale 1-10
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: lateral_quickness
+      label: Lateral quickness
+      hint: Scale 1-10
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: section_header_5
+      label: -- Physical Attributes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: strength
+      label: Strength and conditioning
+      hint: Scale 1-10
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: athleticism
+      label: Overall athleticism
+      hint: Scale 1-10
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: section_header_6
+      label: -- Mental and Intangibles --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: basketball_iq
+      label: Basketball IQ and decision making
+      hint: Scale 1-10
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: coachability
+      label: Coachability and attitude
+      hint: Scale 1-10
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: leadership
+      label: Leadership qualities
+      hint: Scale 1-10
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: section_header_7
+      label: -- Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: strengths
+      label: Player's main strengths
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: areas_improvement
+      label: Areas for improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: overall_rating
+      label: Overall rating
+      hint: Scale 1-10
+      type: number
+      options: []
+      required: true
+    - id: 30
+      name: evaluation_notes
+      label: Additional evaluation notes
+      hint: null
+      type: text
+      options: []
+      required: false

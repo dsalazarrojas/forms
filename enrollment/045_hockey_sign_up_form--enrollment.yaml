@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hockey Sign Up Form
+    pages:
+    - id: 1
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: day_of_birth
+      label: Day of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: position
+      label: Position
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

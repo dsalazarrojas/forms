@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Engineering Request Form
+    pages:
+    - id: 1
+      name: request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: Project Description
+      hint: A brief description of the project
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 7
+      name: request_category
+      label: Request Category
+      hint: null
+      type: select_one
+      options:
+      - Engineering
+      - Architecture
+      - Construction
+      required: false
+    - id: 8
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 9
+      name: assignee
+      label: Assignee
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - James
+      required: false
+    - id: 10
+      name: request_status
+      label: Request Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: false
+    - id: 11
+      name: comment
+      label: Comment
+      hint: Add any necessary comments
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - James
+      required: false
+    - id: 14
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter_location
+      label: Submitter Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: assignee_email
+      label: Assignee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: assignee_phone
+      label: Assignee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: assignee_location
+      label: Assignee Location
+      hint: null
+      type: text
+      options: []
+      required: false

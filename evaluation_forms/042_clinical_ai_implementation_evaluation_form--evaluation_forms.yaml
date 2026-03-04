@@ -1,0 +1,248 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Clinical AI Implementation Evaluation Form
+    pages:
+    - id: 1
+      name: facility_section
+      label: -- Facility Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: facility_type
+      label: Facility Type
+      hint: null
+      type: select_one
+      options:
+      - Hospital
+      - Clinic
+      - Diagnostic center
+      - Research facility
+      - Long-term care
+      - Other
+      required: true
+    - id: 4
+      name: contact_name
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: ai_system_section
+      label: -- AI System Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: ai_system_name
+      label: AI System Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: implementation_timeframe
+      label: Implementation timeframe
+      hint: When was it implemented?
+      type: select_one
+      options:
+      - Less than 1 month
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - More than 1 year
+      required: true
+    - id: 9
+      name: ai_applications
+      label: Clinical applications of AI
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Diagnosis support
+      - Treatment planning
+      - Patient monitoring
+      - Administrative tasks
+      - Research analysis
+      - Image analysis
+      - Predictive analytics
+      - Other
+      required: true
+    - id: 10
+      name: usability_section
+      label: -- Usability Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: ease_of_use
+      label: The system is easy to use
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 12
+      name: learning_curve
+      label: Learning curve was acceptable
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 13
+      name: integration
+      label: Integration with existing systems
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 14
+      name: performance_section
+      label: -- Performance Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: accuracy
+      label: Accuracy of AI recommendations
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 16
+      name: speed
+      label: Speed of processing
+      hint: null
+      type: select_one
+      options:
+      - Too slow
+      - Slow
+      - Adequate
+      - Fast
+      - Very fast
+      required: true
+    - id: 17
+      name: reliability
+      label: System reliability
+      hint: Uptime and stability
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 18
+      name: impact_section
+      label: -- Clinical Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: clinical_outcomes
+      label: Impact on clinical outcomes
+      hint: null
+      type: select_one
+      options:
+      - Negative
+      - No change
+      - Modest positive
+      - Significant positive
+      - Transformational
+      required: true
+    - id: 20
+      name: efficiency
+      label: Impact on workflow efficiency
+      hint: null
+      type: select_one
+      options:
+      - Decreased efficiency
+      - No change
+      - Modest improvement
+      - Significant improvement
+      - Major improvement
+      required: true
+    - id: 21
+      name: staff_satisfaction
+      label: Staff satisfaction with system
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 22
+      name: challenges_section
+      label: -- Challenges and Concerns --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: main_challenges
+      label: Main challenges experienced
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: recommendations
+      label: Recommendations for improvement
+      hint: null
+      type: text
+      options: []
+      required: false

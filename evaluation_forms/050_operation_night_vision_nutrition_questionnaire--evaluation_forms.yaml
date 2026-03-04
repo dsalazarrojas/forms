@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Operation Night Vision Nutrition Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: What is your purpose of visiting this health center?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: weight
+      label: weight
+      hint: in kilograms
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 6
+      name: height_unit
+      label: height-unit
+      hint: null
+      type: select_multiple
+      options:
+      - feet
+      - inches
+      required: false
+    - id: 7
+      name: occupation
+      label: occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: diet
+      label: diet
+      hint: What is your current diet?
+      type: select_multiple
+      options:
+      - vegetarian
+      - non-vegetarian
+      - vegan
+      - omnivore
+      required: false
+    - id: 9
+      name: allergies
+      label: allergies
+      hint: null
+      type: select_multiple
+      options:
+      - gluten
+      - dairy
+      - nuts
+      required: false
+    - id: 10
+      name: medical_conditions
+      label: medical conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: medications
+      label: medications
+      hint: Please list any prescription and non-prescription medications you are
+        taking
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: eating_habits
+      label: eating habits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: smoking
+      label: smoking
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: exercise
+      label: exercise
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: blood_pressure
+      label: blood_pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: blood_glucose
+      label: blood_glucose
+      hint: null
+      type: number
+      options: []
+      required: false

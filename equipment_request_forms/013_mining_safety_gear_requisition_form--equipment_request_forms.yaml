@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mining Safety Gear Requisition Form
+    pages:
+    - id: 1
+      name: employee_request
+      label: employee_request
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: item_number
+      label: item_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: item_description
+      label: item_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: item_category
+      label: item_category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: requested_by
+      label: requested_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: supervisor_review
+      label: supervisor_review
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: submit_date
+      label: submit_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: submit_time
+      label: submit_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: equipment_location
+      label: equipment_location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

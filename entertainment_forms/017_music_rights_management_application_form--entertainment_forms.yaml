@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music Rights Management Application Form
+    pages:
+    - id: 1
+      name: artist_info
+      label: Artist Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: music_work
+      label: Music Work
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: ownership_status
+      label: Ownership Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: rights_organization
+      label: Rights Organization
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: application_fee
+      label: Application Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: contract_terms
+      label: Contract Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: music_rights
+      label: Music Rights
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: artist_submission
+      label: Artist Submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submission_notes
+      label: Submission Notes
+      hint: null
+      type: text
+      options: []
+      required: false

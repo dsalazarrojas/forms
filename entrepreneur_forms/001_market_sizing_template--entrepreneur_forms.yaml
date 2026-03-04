@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Market Sizing Template
+    pages:
+    - id: 1
+      name: market_sizing_template
+      label: Market Sizing Template
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: market_size
+      label: market_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: growth_rate
+      label: growth_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: revenue_potential
+      label: revenue_potential
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''low'', ''value'': ''Low''}'
+      - '{''id'': 2, ''name'': ''medium'', ''value'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''high'', ''value'': ''High''}'
+      required: false
+    - id: 6
+      name: market
+      label: market
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''market_1'', ''value'': ''Market 1''}'
+      - '{''id'': 2, ''name'': ''market_2'', ''value'': ''Market 2''}'
+      - '{''id'': 3, ''name'': ''market_3'', ''value'': ''Market 3''}'
+      - '{''id'': 4, ''name'': ''market_4'', ''value'': ''Market 4''}'
+      - '{''id'': 5, ''name'': ''market_5'', ''value'': ''Market 5''}'
+      - '{''id'': 6, ''name'': ''market_6'', ''value'': ''Market 6''}'
+      required: false
+    - id: 7
+      name: competition
+      label: competition
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: market_entry_date
+      label: market_entry_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: market_exit_date
+      label: market_exit_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: market_exit_strategy
+      label: market_exit_strategy
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''exit_1'', ''value'': ''Exit 1''}'
+      - '{''id'': 2, ''name'': ''exit_2'', ''value'': ''Exit 2''}'
+      - '{''id'': 3, ''name'': ''exit_3'', ''value'': ''Exit 3''}'
+      - '{''id'': 4, ''name'': ''exit_4'', ''value'': ''Exit 4''}'
+      - '{''id'': 5, ''name'': ''exit_5'', ''value'': ''Exit 5''}'
+      required: false
+    - id: 11
+      name: entry_barrier
+      label: entry_barrier
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''barrier_1'', ''value'': ''Barrier 1''}'
+      - '{''id'': 2, ''name'': ''barrier_2'', ''value'': ''Barrier 2''}'
+      - '{''id'': 3, ''name'': ''barrier_3'', ''value'': ''Barrier 3''}'
+      required: false
+    - id: 12
+      name: growth_rate
+      label: growth_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: total_potential
+      label: total_potential
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: market_segment
+      label: market_segment
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''segment_1'', ''value'': ''Segment 1''}'
+      - '{''id'': 2, ''name'': ''segment_2'', ''value'': ''Segment 2''}'
+      required: false
+    - id: 15
+      name: geographic_location
+      label: geographic_location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''location_1'', ''value'': ''Location 1''}'
+      - '{''id'': 2, ''name'': ''location_2'', ''value'': ''Location 2''}'
+      required: false
+    - id: 16
+      name: customer_segment
+      label: customer_segment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: total_revenue
+      label: total_revenue
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: market_segment
+      label: market_segment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_segment
+      label: customer_segment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: geographic_location
+      label: geographic_location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: total_revenue
+      label: total_revenue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: market
+      label: market
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: geographic_location
+      label: geographic_location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: customer_segment
+      label: customer_segment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: total_revenue
+      label: total_revenue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: geographic_location
+      label: geographic_location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

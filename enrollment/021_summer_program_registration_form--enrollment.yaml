@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: summer_program_registration_form
+    pages:
+    - id: 1
+      name: student_info
+      label: Student Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_choice
+      label: Program Choice
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: student_details
+      label: Student Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: parent_info
+      label: Parent Info
+      hint: null
+      type: text
+      options: []
+      required: false

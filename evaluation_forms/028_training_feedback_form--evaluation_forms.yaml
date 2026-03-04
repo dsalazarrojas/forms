@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Training Feedback Form
+    pages:
+    - id: 1
+      name: form_questions
+      label: Form Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating_scale
+      label: Rating Scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: evaluation_scale
+      label: Evaluation Scale
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: trainee_name
+      label: Trainee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: training_session
+      label: Training Session
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - Assigned Tool 1
+      - Assigned Tool 2
+      - Assigned Tool 3
+      required: true
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: true

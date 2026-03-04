@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: TV Series Release Viewer Feedback Form
+    pages:
+    - id: 1
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: release_episode_number
+      label: Release Episode Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: episode_name
+      label: Episode Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: genre
+      label: Genre
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Action''}'
+      - '{''label'': ''Comedy''}'
+      - '{''label'': ''Drama''}'
+      - '{''label'': ''Horror''}'
+      - '{''label'': ''Romance''}'
+      - '{''label'': ''Thriller''}'
+      required: false
+    - id: 5
+      name: season_number
+      label: Season Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: episode_description
+      label: Episode Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: overall_rating
+      label: Overall Rating
+      hint: Rate from 1 to 10
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: feedback
+      label: Feedback
+      hint: Write a short review
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Action''}'
+      - '{''label'': ''Comedy''}'
+      - '{''label'': ''Drama''}'
+      - '{''label'': ''Horror''}'
+      - '{''label'': ''Romance''}'
+      - '{''label'': ''Sci-Fi''}'
+      - '{''label'': ''Thriller''}'
+      required: false
+    - id: 12
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''chatjimmy''}'
+      - '{''label'': ''jenny''}'
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: Additional comments
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''John''}'
+      - '{''label'': ''Jane''}'
+      required: false
+    - id: 15
+      name: submission_type
+      label: Submission Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Feedback''}'
+      - '{''label'': ''Review''}'
+      required: false
+    - id: 16
+      name: submission_type
+      label: Submission Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Feedback''}'
+      - '{''label'': ''Review''}'
+      required: true
+    - id: 17
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: submitter_location
+      label: Submitter Location
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Manager Self Evaluation
+    pages:
+    - id: 1
+      name: sales_manager_self_evaluation
+      label: Sales Manager Self Evaluation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: self_evaluation_form_name
+      label: Self Evaluation Form Name
+      hint: Form name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: evaluation_form_rating
+      label: Evaluation Form Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: sales_manager_performance
+      label: Sales Manager Performance
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: sales_manager_goals
+      label: Sales Manager Goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: sales_manager_leadership
+      label: Sales Manager Leadership
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: sales_manager_leadership_style
+      label: Sales Manager Leadership Style
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Strong Leadership'', ''value'': ''Strong Leadership''}'
+      - '{''label'': ''Fair Leadership'', ''value'': ''Fair Leadership''}'
+      - '{''label'': ''Good Leadership'', ''value'': ''Good Leadership''}'
+      required: true
+    - id: 8
+      name: sales_manager_leadership_skills
+      label: Sales Manager Leadership Skills
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Coaching'', ''value'': ''Coaching''}'
+      - '{''label'': ''Strategic Thinking'', ''value'': ''Strategic Thinking''}'
+      - '{''label'': ''Communication'', ''value'': ''Communication''}'
+      - '{''label'': ''Problem Solving'', ''value'': ''Problem Solving''}'
+      - '{''label'': ''Team Building'', ''value'': ''Team Building''}'
+      required: true
+    - id: 9
+      name: sales_manager_leadership_skills_other
+      label: Other Leadership Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: sales_manager_leadership_skills_other_other
+      label: Other Leadership Skills Other
+      hint: null
+      type: text
+      options: []
+      required: false

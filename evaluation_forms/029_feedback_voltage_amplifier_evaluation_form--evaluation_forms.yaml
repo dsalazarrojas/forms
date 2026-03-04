@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Feedback Voltage Amplifier Evaluation Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: test_date
+      label: Test Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: voltage_level
+      label: Voltage Level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: evaluation_result
+      label: Evaluation Result
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Failed
+      - Not Evaluated
+      required: true
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: user_phone
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_user_email
+      label: Assigned User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: assigned_user_phone
+      label: Assigned User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: evaluation_location
+      label: Evaluation Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: evaluation_device
+      label: Evaluation Device
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: evaluation_type
+      label: Evaluation Type
+      hint: null
+      type: select_one
+      options:
+      - Lab
+      - Field
+      required: false
+    - id: 15
+      name: evaluation_type_other
+      label: Evaluation Type Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: voltage_level_other
+      label: Voltage Level Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: evaluation_notes
+      label: Evaluation Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: test_notes
+      label: Test Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: test_environment
+      label: Test Environment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: test_environment_other
+      label: Test Environment Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: comments_other
+      label: Comments Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: test_result_notes
+      label: Test Result Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: test_result_comments
+      label: Test Result Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: test_result_other_comments
+      label: Test Result Comments Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: test_result_evaluate
+      label: Test Result Evaluate
+      hint: null
+      type: text
+      options: []
+      required: false

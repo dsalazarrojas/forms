@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workstation Ergonomic Assessment Form
+    pages:
+    - id: 1
+      name: workspace_description
+      label: Workspace Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: workstation_id
+      label: Workstation ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: workstation_type
+      label: Workstation Type
+      hint: null
+      type: select_one
+      options:
+      - chair
+      - desk
+      - keyboard
+      - mouse
+      - monitor
+      - headset
+      - other
+      required: false
+    - id: 7
+      name: workstation_location
+      label: Workstation Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: workstation_description
+      label: Additional Workstation Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: workspace_dimensions
+      label: Workspace Dimensions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: monitor_position
+      label: Monitor Position
+      hint: null
+      type: select_one
+      options:
+      - left
+      - right
+      - straight
+      - above
+      - below
+      - behind
+      - in front of
+      - 'True'
+      - above and in front of
+      required: false
+    - id: 11
+      name: keyboard_position
+      label: Keyboard Position
+      hint: null
+      type: select_one
+      options:
+      - left
+      - right
+      - straight
+      - above
+      - below
+      - behind
+      - in front of
+      - 'True'
+      - above and in front of
+      required: false
+    - id: 12
+      name: mouse_position
+      label: Mouse Position
+      hint: null
+      type: select_one
+      options:
+      - left
+      - right
+      - straight
+      - above
+      - below
+      - behind
+      - in front of
+      - 'True'
+      - above and in front of
+      required: false
+    - id: 13
+      name: ergonomic_checklist
+      label: Ergonomic Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: workstation_ergonomic_score
+      label: Workstation Ergonomic Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: ergonomic_rating
+      label: Ergonomic Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: workstation_ergonomic_score_scale
+      label: Workstation Ergonomic Score Scale
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: ergonomic_score_category
+      label: Ergonomic Score Category
+      hint: null
+      type: select_one
+      options:
+      - high
+      - medium
+      - low
+      required: false

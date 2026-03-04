@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: supplier_diversity_registration_form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_description
+      label: Business Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: diversity_group
+      label: Underrepresented Group
+      hint: null
+      type: select_one
+      options:
+      - Black or African American
+      - Hispanic or Latino
+      - Native American or Alaska Native
+      - Asian
+      - Pacific Islander
+      - Women
+      - People with Disabilities
+      - LGBTQ
+      - Military Veterans
+      - Low Income or Low Income Status
+      - Other
+      required: false
+    - id: 8
+      name: supplier_type
+      label: Supplier Type
+      hint: null
+      type: select_multiple
+      options:
+      - Service Provider
+      - Manufacturer
+      - Distributor
+      - Agent
+      - Other
+      required: false
+    - id: 9
+      name: supplier_industry
+      label: Supplier Industry
+      hint: null
+      type: select_multiple
+      options:
+      - Construction
+      - Information Technology
+      - Financial Services
+      - Health Care
+      - Other
+      required: false
+    - id: 10
+      name: business_size
+      label: Business Size
+      hint: null
+      type: select_multiple
+      options:
+      - Small Business (1-50 employees)
+      - Medium Business (51-200 employees)
+      - Large Business (201-500 employees)
+      - Very Large Business (501+ employees)
+      required: false

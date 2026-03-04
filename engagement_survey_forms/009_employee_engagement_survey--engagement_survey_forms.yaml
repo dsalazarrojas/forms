@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Engagement Survey
+    pages:
+    - id: 1
+      name: employee_survey_title
+      label: Employee Engagement Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: how_often_work
+      label: How often do you work
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      required: false
+    - id: 3
+      name: work_satisfaction
+      label: work_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Highly Satisfied''}'
+      - '{''option2'': ''Moderately Satisfied''}'
+      - '{''option3'': ''Not Satisfied''}'
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Yoga Instructor Estimate Form
+    pages:
+    - id: 1
+      name: form_info
+      label: Form Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: instructor
+      label: Instructor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_count
+      label: Student Count
+      hint: Enter the number of students in your class
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: session_length
+      label: Session Length
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 30, ''label'': ''30 minutes''}'
+      - '{''value'': 45, ''label'': ''45 minutes''}'
+      - '{''value'': 60, ''label'': ''60 minutes''}'
+      - '{''value'': 90, ''label'': ''90 minutes''}'
+      required: false
+    - id: 5
+      name: pricing
+      label: Pricing
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''private'', ''label'': ''Private Session''}'
+      - '{''value'': ''package'', ''label'': ''Package (multiple sessions)''}'
+      - '{''value'': ''group'', ''label'': ''Group Class''}'
+      required: false
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''studio'', ''label'': ''Studio''}'
+      - '{''value'': ''home'', ''label'': ''Home''}'
+      - '{''value'': ''online'', ''label'': ''Online''}'
+      required: false
+    - id: 7
+      name: services
+      label: Services
+      hint: Select additional services (check all that apply)
+      type: select_multiple
+      options:
+      - '{''value'': ''meditation'', ''label'': ''Meditation''}'
+      - '{''value'': ''yoga'', ''label'': ''Yoga''}'
+      - '{''value'': ''breathwork'', ''label'': ''Breathwork''}'
+      required: false
+    - id: 8
+      name: estimated_price
+      label: Estimated Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: package_length
+      label: Package Length
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 4, ''label'': ''4 sessions''}'
+      - '{''value'': 8, ''label'': ''8 sessions''}'
+      - '{''value'': 12, ''label'': ''12 sessions''}'
+      required: false
+    - id: 10
+      name: package_price
+      label: Package Price
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 120, ''label'': ''$120''}'
+      - '{''value'': 180, ''label'': ''$180''}'
+      - '{''value'': 240, ''label'': ''$240''}'
+      required: false
+    - id: 11
+      name: group_count
+      label: Group Count
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''1-2'', ''label'': ''1-2 students''}'
+      - '{''value'': ''3-4'', ''label'': ''3-4 students''}'
+      - '{''value'': ''5-10'', ''label'': ''5-10 students''}'
+      - '{''value'': ''11+'', ''label'': ''More than 10 students''}'
+      required: false
+    - id: 12
+      name: estimated_price_group
+      label: Estimated Price Group
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: form_submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

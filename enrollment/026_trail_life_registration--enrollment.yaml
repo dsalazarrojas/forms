@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: trail_life_registration
+    pages:
+    - id: 1
+      name: interested_family
+      label: Interested Family
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: youth_details
+      label: Youth Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: family_details
+      label: Family Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: family_size
+      label: Family Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: family_income
+      label: Family Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: family_employment_status
+      label: Family Employment Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: family_employment_type
+      label: Family Employment Type
+      hint: null
+      type: select_multiple
+      options:
+      - Part-time
+      - Full-time
+      - Self-employment
+      required: false
+    - id: 8
+      name: family_employment_education
+      label: Family Employment Education
+      hint: null
+      type: select_one
+      options:
+      - Less than High School
+      - High School Diploma
+      - Some College
+      - College Degree
+      - Postgraduate Degree
+      required: false
+    - id: 9
+      name: trail_life_registration_date
+      label: Trail Life Registration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: trail_life_registration_time
+      label: Trail Life Registration Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false

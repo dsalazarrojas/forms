@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: free_custom_color_match
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: color_match
+      label: color match
+      hint: null
+      type: select_multiple
+      options:
+      - Blue
+      - Red
+      - Green
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_birth
+      label: time_of_birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: enrollment_agreement
+      label: Enrollment Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: enrollment_status
+      label: Enrollment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Pending
+      - Cancelled
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: free_form_field_1
+      label: free_form_field_1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

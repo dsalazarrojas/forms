@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Heart Rate
+    pages:
+    - id: 1
+      name: form_start
+      label: form_start
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medications
+      label: medications
+      hint: null
+      type: select_multiple
+      options:
+      - med1
+      - med2
+      - med3
+      required: false
+    - id: 5
+      name: allergies
+      label: allergies
+      hint: null
+      type: select_one
+      options:
+      - all1
+      - all2
+      - all3
+      required: false
+    - id: 6
+      name: heart_rate
+      label: heart_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: date_of_visit
+      label: date_of_visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_visit
+      label: time_of_visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: doctor
+      label: doctor_name
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: patient_number
+      label: patient_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: medical_staff
+      label: doctor_name
+      hint: null
+      type: select_one
+      options:
+      - staff1
+      - staff2
+      - staff3
+      required: false

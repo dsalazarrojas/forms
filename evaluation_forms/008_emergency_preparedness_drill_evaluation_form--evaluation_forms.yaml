@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Preparability Drill Evaluation Form
+    pages:
+    - id: 1
+      name: emergency_preparability_drill
+      label: Emergency Drill
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_position
+      label: Participant Position
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: participant_organization
+      label: Participant Organization
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: observer_name
+      label: Observer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: observer_position
+      label: Observer Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: drill_date
+      label: Drill Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: drill_start_time
+      label: Drill Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: drill_end_time
+      label: Drill End Time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Seminar Evaluation Form
+    pages:
+    - id: 1
+      name: seminar_rating
+      label: What did you rate the seminar overall
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: presentation_content
+      label: How would you rate the presentation
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: materials_used
+      label: Were the materials provided sufficient
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: instructor_support
+      label: How would you rate the support provided by the instructor
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: overall_value
+      label: What was the overall value of the seminar
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback_comments
+      label: Do you have any comments or feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recommended_seminars
+      label: Would you recommend this seminar
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: email
+      label: Your Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Your Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: false

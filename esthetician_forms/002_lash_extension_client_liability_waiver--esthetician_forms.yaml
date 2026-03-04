@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: lash_extension_client_liability_waiver
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_procedure_danger_signs
+      label: Medical Procedure Danger Signs
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: medical_procedure_description
+      label: Medical Procedure Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: medical_procedure_dosage
+      label: Medical Procedure Dosage
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false

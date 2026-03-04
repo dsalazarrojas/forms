@@ -1,0 +1,106 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Conference Evaluation Form
+    pages:
+      - id: 1
+        name: attendee_name
+        label: Attendee name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: session_title
+        label: Session title
+        hint: Title of session being evaluated
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: overall_experience
+        label: Overall conference experience
+        hint: Rate the overall event
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 4
+        name: content_quality
+        label: Content quality rating
+        hint: Quality and relevance of sessions
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 5
+        name: logistics_quality
+        label: Logistics and organization rating
+        hint: Venue, signage, and timeliness
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 6
+        name: networking_opportunities
+        label: Networking opportunities rating
+        hint: Value of networking at event
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: false
+      - id: 7
+        name: favorite_session
+        label: Favorite session or speaker
+        hint: Name the session or speaker
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: improvement_suggestions
+        label: Suggestions for improvement
+        hint: Ideas to improve future events
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: likelihood_to_recommend
+        label: Likelihood to recommend
+        hint: Would you recommend this event
+        type: select_one
+        options:
+          - Very likely
+          - Likely
+          - Unlikely
+          - Very unlikely
+        required: true
+      - id: 10
+        name: additional_comments
+        label: Additional comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

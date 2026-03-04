@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: fan_interview_release_consent_form
+    pages:
+    - id: 1
+      name: fan_interview_release_consent_form
+      label: fan_interview_release_consent_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_consent
+      label: participant_consent
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 3
+      name: parent_guardian_consent
+      label: parent_guardian_consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_signature
+      label: participant_signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: release_date
+      label: release_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: recording_date
+      label: recording_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: published_on
+      label: published_on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: participant_age
+      label: participant_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: parent_guardian_signature
+      label: parent_guardian_signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: media_contact
+      label: media_contact
+      hint: null
+      type: text
+      options: []
+      required: false

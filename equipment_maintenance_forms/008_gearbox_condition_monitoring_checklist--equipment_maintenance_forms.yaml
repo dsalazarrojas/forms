@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: gearbox_condition_monitoring_checklist
+    pages:
+    - id: 1
+      name: gearboxesurvey
+      label: Gearbox Survey
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: gearboxhealth
+      label: gearboxhealth
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: inspectiondate
+      label: inspectiondate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: gearboxlocation
+      label: gearboxlocation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: conditiondescription
+      label: conditiondescription
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: gearboxoillevel
+      label: gearboxoillevel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: inspectionby
+      label: inspectionby
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: gearboxcomments
+      label: gearboxcomments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: gearboxactions
+      label: gearboxactions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: gearboxstatus
+      label: gearboxstatus
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,239 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chamber Of Commerce Enrollment Form
+    pages:
+    - id: 1
+      name: enrollment_date
+      label: Enrollment Date
+      hint: Date of enrollment
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Legal name of business
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_type
+      label: Business Type
+      hint: Type of business entity
+      type: select_one
+      options:
+      - Sole proprietorship
+      - Partnership
+      - LLC
+      - Corporation
+      - S-Corporation
+      - Nonprofit
+      - Other
+      required: true
+    - id: 4
+      name: industry
+      label: Industry
+      hint: Primary industry category
+      type: select_one
+      options:
+      - Retail
+      - Restaurant food service
+      - Professional services
+      - Healthcare
+      - Construction
+      - Technology
+      - Manufacturing
+      - Real estate
+      - Finance insurance
+      - Education
+      - Hospitality tourism
+      - Nonprofit
+      - Other
+      required: true
+    - id: 5
+      name: business_address
+      label: Business Address
+      hint: Full business address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: mailing_address
+      label: Mailing Address
+      hint: If different from business address
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: business_phone
+      label: Business Phone
+      hint: Primary business phone
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: business_website
+      label: Business Website
+      hint: URL of business website
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: business_email
+      label: Business Email
+      hint: Primary business email
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: year_established
+      label: Year Established
+      hint: Year business was founded
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: number_of_employees
+      label: Number of Employees
+      hint: Total number of employees
+      type: select_one
+      options:
+      - 1 (self-employed)
+      - 2-5 employees
+      - 6-10 employees
+      - 11-25 employees
+      - 26-50 employees
+      - 51-100 employees
+      - More than 100 employees
+      required: true
+    - id: 12
+      name: annual_revenue
+      label: Annual Revenue Range
+      hint: Approximate annual revenue
+      type: select_one
+      options:
+      - Under $50,000
+      - $50,000-$100,000
+      - $100,000-$500,000
+      - $500,000-$1 million
+      - $1 million-$5 million
+      - Over $5 million
+      required: false
+    - id: 13
+      name: primary_contact_name
+      label: Primary Contact Name
+      hint: Full name of primary contact
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: primary_contact_title
+      label: Primary Contact Title
+      hint: Job title of primary contact
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: primary_contact_email
+      label: Primary Contact Email
+      hint: Email of primary contact
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: primary_contact_phone
+      label: Primary Contact Phone
+      hint: Phone of primary contact
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: membership_level
+      label: Membership Level
+      hint: Select desired membership level
+      type: select_one
+      options:
+      - Bronze membership
+      - Silver membership
+      - Gold membership
+      - Platinum membership
+      - Corporate membership
+      - Nonprofit membership
+      required: true
+    - id: 18
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: Source of referral
+      type: select_one
+      options:
+      - Current member referral
+      - Chamber website
+      - Social media
+      - Chamber event
+      - Online search
+      - Advertisement
+      - Other
+      required: true
+    - id: 19
+      name: referred_by
+      label: Referred By
+      hint: Name of referring member if applicable
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: networking_interest
+      label: Networking Interest
+      hint: Are you interested in networking events
+      type: select_one
+      options:
+      - Very interested
+      - Somewhat interested
+      - Not interested
+      required: true
+    - id: 21
+      name: committee_interest
+      label: Committee Interest
+      hint: Would you like to join a committee
+      type: select_one
+      options:
+      - Yes - Interested
+      - No - Not interested
+      - Maybe - Tell me more
+      required: true
+    - id: 22
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay membership dues
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Check
+      - Invoice
+      - Automatic renewal
+      required: true
+    - id: 23
+      name: terms_agreement
+      label: Terms and Conditions
+      hint: I agree to the chamber terms and conditions
+      type: select_one
+      options:
+      - Yes - I agree
+      - No - I do not agree
+      required: true
+    - id: 24
+      name: authorized_signature
+      label: Authorized Signature
+      hint: Type authorized signatory name
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true

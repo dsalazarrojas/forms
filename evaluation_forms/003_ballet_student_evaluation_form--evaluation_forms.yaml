@@ -1,0 +1,110 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Ballet Student Evaluation Form
+    pages:
+      - id: 1
+        name: section_header_personal
+        label: -- Personal information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: student_name
+        label: Student full name
+        hint: First and last name of the student being evaluated
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: evaluator_name
+        label: Instructor or evaluator name
+        hint: Name of the teacher completing this evaluation
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: class_level
+        label: Class level
+        hint: Choose the student class level
+        type: select_one
+        options:
+          - Beginner
+          - Intermediate
+          - Advanced
+          - Pre professional
+        required: true
+      - id: 5
+        name: attendance_record
+        label: Attendance record
+        hint: Enter percentage or notes about attendance
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: technical_skills_rating
+        label: Technical skills rating
+        hint: Rate technical ability on a 1 to 5 scale
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 7
+        name: artistry_rating
+        label: Artistry and musicality rating
+        hint: Rate performance quality on a 1 to 5 scale
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 8
+        name: technique_comments
+        label: Technique comments
+        hint: Provide observations and recommended exercises
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: goals_and_recommendations
+        label: Goals and recommendations
+        hint: Suggested goals for the next evaluation period
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: overall_attendance
+        label: Overall attendance impact
+        hint: Note if attendance is impacting progress
+        type: select_one
+        options:
+          - No impact
+          - Minor impact
+          - Significant impact
+        required: false
+      - id: 11
+        name: evaluation_date
+        label: Evaluation date
+        hint: Date the evaluation was completed
+        type: date
+        options: []
+        required: true

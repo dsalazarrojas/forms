@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: fitness_performance_training_evaluation_form
+    pages:
+    - id: 1
+      name: form_start
+      label: Start
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: physical_performance
+      label: Physical Performance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': []}'
+      - Other
+      required: false
+    - id: 3
+      name: cardiovascular_performance
+      label: Cardiovascular Performance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': []}'
+      - Other
+      required: false
+    - id: 4
+      name: muscular_performance
+      label: Muscular Performance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': []}'
+      - Other
+      required: false
+    - id: 5
+      name: muscular_endurance
+      label: Muscular Endurance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': []}'
+      - Other
+      required: false
+    - id: 6
+      name: physical_ability
+      label: Physical Ability
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': []}'
+      - Other
+      required: false
+    - id: 7
+      name: overall_feeling
+      label: Overall Feeling
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Good''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 8
+      name: exercise_frequency
+      label: Exercise Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Several times a week''}'
+      - '{''label'': ''Rarely''}'
+      - '{''label'': ''Never''}'
+      required: false
+    - id: 9
+      name: exercise_duration
+      label: Exercise Duration
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Less than 1 hour''}'
+      - '{''label'': ''1-2 hours''}'
+      - '{''label'': ''2-4 hours''}'
+      - '{''label'': ''More than 4 hours''}'
+      required: false
+    - id: 10
+      name: training_frequency
+      label: Training Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Several times a week''}'
+      - '{''label'': ''Once a week''}'
+      - '{''label'': ''Never''}'
+      required: false
+    - id: 11
+      name: training_duration
+      label: Training Duration
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Less than 1 hour''}'
+      - '{''label'': ''1-2 hours''}'
+      - '{''label'': ''2-4 hours''}'
+      - '{''label'': ''More than 4 hours''}'
+      required: false
+    - id: 12
+      name: form_end
+      label: End of form
+      hint: null
+      type: note
+      options: []
+      required: false

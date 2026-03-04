@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: e_learning_program_evaluation_questionnaire
+    pages:
+    - id: 1
+      name: participant_feedback
+      label: participant_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: course_learning_objectives
+      label: course_learning_objective
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: instructor_support
+      label: instructor_support
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: course_satisfaction
+      label: course_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 5
+      name: course_organization
+      label: course_organization
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: course_content
+      label: course_content
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_spent
+      label: time_spent
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: course_value
+      label: course_value
+      hint: null
+      type: note
+      options: []
+      required: false

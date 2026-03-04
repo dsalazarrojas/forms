@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dance Event Participation Interest Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: availability
+      label: Availability
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Available''}'
+      - '{''id'': 2, ''name'': ''Unavailable''}'
+      required: true
+    - id: 3
+      name: dance_preferences
+      label: Dance Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Hip Hop''}'
+      - '{''id'': 2, ''name'': ''Contemporary''}'
+      - '{''id'': 3, ''name'': ''Ballroom''}'
+      - '{''id'': 4, ''name'': ''Other''}'
+      required: false
+    - id: 4
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: additional_contact_info
+      label: Additional Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: interest
+      label: Interest
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: dance_experience
+      label: Dance Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: dance_level
+      label: Dance Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false

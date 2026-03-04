@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: equipment_checkout_form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: equipment_description
+      label: Equipment Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - Tool 1
+      - Tool 2
+      - Tool 3
+      required: true
+    - id: 8
+      name: assigned_tool_2
+      label: Another Tool
+      hint: null
+      type: select_one
+      options:
+      - Tool 4
+      - Tool 5
+      - Tool 6
+      required: true
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: user_phone
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: false

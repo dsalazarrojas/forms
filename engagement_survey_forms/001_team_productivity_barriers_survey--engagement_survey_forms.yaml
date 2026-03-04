@@ -1,0 +1,254 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Productivity Barriers Survey
+    pages:
+    - id: 1
+      name: survey_intro
+      label: Team Productivity Barriers Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: team_performance
+      label: Team Performance
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 3
+      name: team_size
+      label: Team Size
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Small''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Large''}'
+      required: false
+    - id: 4
+      name: collaboration_level
+      label: Collaboration Level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very High''}'
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 5
+      name: communication_level
+      label: Communication Level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very High''}'
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 6
+      name: work_environment
+      label: Work Environment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: work_environment_description
+      label: Work Environment Description
+      hint: Briefly describe your work environment
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: work_schedules
+      label: Work Schedules
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Flexible''}'
+      - '{''label'': ''Inflexible''}'
+      - '{''label'': ''Unpredictable''}'
+      required: false
+    - id: 9
+      name: team_conflict
+      label: Conflicts
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Rarely''}'
+      - '{''label'': ''Sometimes''}'
+      - '{''label'': ''Often''}'
+      required: false
+    - id: 10
+      name: manager_support
+      label: Manager Support
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very High''}'
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 11
+      name: resources_availability
+      label: Resources Availability
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very High''}'
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 12
+      name: feedback_mechanism
+      label: Feedback Mechanism
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Regular''}'
+      - '{''label'': ''Ad Hoc''}'
+      - '{''label'': ''None''}'
+      required: false
+    - id: 13
+      name: productivity_barriers
+      label: Productivity Barriers
+      hint: List some of the key barriers you are facing.
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: manager_satisfaction
+      label: Manager Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very High''}'
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 15
+      name: employee_satisfaction
+      label: Employee Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very High''}'
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 16
+      name: action_items
+      label: Action Items
+      hint: Briefly describe the action items you plan to implement based on your
+        observations.
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: action_items_implementation
+      label: Action Items Implementation
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very High''}'
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 18
+      name: implementation_plan
+      label: Implementation Plan
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very High''}'
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 19
+      name: progress_monitors
+      label: Progress Monitors
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very High''}'
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 20
+      name: evaluation
+      label: Evaluation
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very High''}'
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 21
+      name: evaluation_frequency
+      label: Evaluation Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very High''}'
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 22
+      name: communication_channels
+      label: Communication Channels
+      hint: List the communication channels you used to gather information.
+      type: select_multiple
+      options:
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''In-person''}'
+      - '{''label'': ''Video conference''}'
+      required: false
+    - id: 23
+      name: communication_frequency
+      label: Communication Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very High''}'
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 24
+      name: collaboration_tools
+      label: Collaboration Tools
+      hint: List the collaboration tools you used.
+      type: select_multiple
+      options:
+      - '{''label'': ''Microsoft Teams''}'
+      - '{''label'': ''Slack''}'
+      - '{''label'': ''Trello''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 25
+      name: other_collaboration_tools
+      label: Other Collaboration Tools
+      hint: List any other collaboration tools you used.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Material Handling Equipment Maintenance Log
+    pages:
+    - id: 1
+      name: equipment_id
+      label: equipment_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: equipment_status
+      label: equipment_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Running''}'
+      - '{''id'': 2, ''text'': ''Non-operational''}'
+      - '{''id'': 3, ''text'': ''Offline''}'
+      required: true
+    - id: 4
+      name: maintenance_type
+      label: maintenance_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Scheduled''}'
+      - '{''id'': 2, ''text'': ''Unscheduled''}'
+      - '{''id'': 3, ''text'': ''Emergency''}'
+      required: true
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

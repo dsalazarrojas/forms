@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Ownership Mindset Training Evaluation
+    pages:
+    - id: 1
+      name: content_quality
+      label: Content Quality
+      hint: How would you rate the content quality of the training.
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: trainer_effectiveness
+      label: Trainer Effectiveness
+      hint: How would you rate the trainer's effectiveness in delivering the training.
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: confidence_in_owning
+      label: Confidence in Applying Ownership Concepts
+      hint: How confident are you in applying the ownership concepts learned in the
+        training?
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: content_comprehension
+      label: Content Comprehension
+      hint: How well do you understand the key concepts of the training?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: training_duration
+      label: Training Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: training_facilities
+      label: Training Facilities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: trainer_facilities
+      label: Trainer Facilities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: trainer_attitude
+      label: Trainer Attitude
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: feedback
+      label: Any Additional Feedback
+      hint: Is there anything else you want to share about your experience with this
+        training?
+      type: text
+      options: []
+      required: false

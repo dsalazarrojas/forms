@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artificial Intelligence Consultant Quote Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: Your organization or business
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: industry
+      label: Industry
+      hint: What industry are you in?
+      type: select_one
+      options:
+      - Technology
+      - Finance
+      - Healthcare
+      - Retail
+      - Manufacturing
+      - Education
+      - Energy
+      - Other
+      required: true
+    - id: 5
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - Startup (1-10)
+      - Small (11-50)
+      - Medium (51-250)
+      - Large (251-1000)
+      - Enterprise (1000+)
+      required: false
+    - id: 6
+      name: client_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: client_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_header_2
+      label: -- Project Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: project_title
+      label: Project Title
+      hint: Name or description of your AI project
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: project_description
+      label: Project Description
+      hint: Detailed overview of what you need help with
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: business_problem
+      label: What Business Problem Are You Solving?
+      hint: The challenge or opportunity driving this project
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_header_3
+      label: -- AI Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: ai_applications
+      label: Type of AI Solutions Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Machine Learning Models
+      - Natural Language Processing
+      - Computer Vision
+      - Predictive Analytics
+      - Recommendation Systems
+      - Data Analysis
+      - Process Automation
+      - Other
+      required: true
+    - id: 14
+      name: data_availability
+      label: Do you have relevant data available?
+      hint: Is your data ready for implementation?
+      type: select_one
+      options:
+      - Yes, well-organized
+      - Yes, needs cleaning
+      - Partial data available
+      - No data yet
+      required: true
+    - id: 15
+      name: current_systems
+      label: Current Systems or Infrastructure
+      hint: What existing systems are in place?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_header_4
+      label: -- Timeline and Budget --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: project_timeline
+      label: Desired Project Timeline
+      hint: How quickly do you need this completed?
+      type: select_one
+      options:
+      - ASAP (1-2 months)
+      - Short term (3-6 months)
+      - Medium term (6-12 months)
+      - Long term (12+ months)
+      - Flexible
+      required: true
+    - id: 18
+      name: budget_range
+      label: Budget Range
+      hint: Approximate budget for this project
+      type: select_one
+      options:
+      - Under GBP 5000
+      - GBP 5000 - 15000
+      - GBP 15000 - 50000
+      - GBP 50000 - 100000
+      - GBP 100000+
+      required: false
+    - id: 19
+      name: section_header_5
+      label: -- Technical Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: technical_expertise
+      label: Your Technical Expertise Level
+      hint: How technical is your organization?
+      type: select_one
+      options:
+      - No technical team
+      - Basic technical knowledge
+      - Moderate technical capability
+      - Strong technical team
+      required: false
+    - id: 21
+      name: preferred_technologies
+      label: Preferred Technologies or Frameworks
+      hint: Any specific tools you want to use?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_header_6
+      label: -- Outcomes and Support --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: expected_outcomes
+      label: What Do You Expect to Achieve?
+      hint: Goals or success metrics for this project
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: support_needed
+      label: What Support Do You Need From the Consultant?
+      hint: Training, documentation, ongoing support, etc.
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_notes
+      label: Additional Notes or Questions
+      hint: Anything else the consultant should know?
+      type: text
+      options: []
+      required: false

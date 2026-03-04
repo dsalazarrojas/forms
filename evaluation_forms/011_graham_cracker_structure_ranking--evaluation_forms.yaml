@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: graham_cracker_structure_ranking
+    pages:
+    - id: 1
+      name: challenge_name
+      label: challenge name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: challenge_image
+      label: challenge image
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''1'', ''label'': ''option1''}'
+      - '{''value'': ''2'', ''label'': ''option2''}'
+      - '{''value'': ''3'', ''label'': ''option3''}'
+      required: false
+    - id: 3
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: collect_photos
+      label: collect photos
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''1'', ''label'': ''option1''}'
+      - '{''value'': ''2'', ''label'': ''option2''}'
+      - '{''value'': ''3'', ''label'': ''option3''}'
+      required: false

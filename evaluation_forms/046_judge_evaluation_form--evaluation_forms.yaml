@@ -1,0 +1,175 @@
+inputSchema:
+  type: object
+  properties:
+    title: Judge Evaluation Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: judge_performance
+      label: Judge Performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: evaluation
+      label: Evaluation
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: judge_name
+      label: Judge Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: evaluation_time
+      label: Evaluation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_judge
+      label: Assigned Judge
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: assigned_event
+      label: Assigned Event
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: form_completion_status
+      label: Form Completion Status
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      required: false
+    - id: 16
+      name: judge_rating
+      label: Judge Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: form_submitted
+      label: Form Submitted
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: evaluation_score
+      label: Evaluation Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: evaluation_status
+      label: Evaluation Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      required: false
+    - id: 21
+      name: evaluation_notes
+      label: Evaluation Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

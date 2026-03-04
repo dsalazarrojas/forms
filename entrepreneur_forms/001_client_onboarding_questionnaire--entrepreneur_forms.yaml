@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Onboarding Questionnaire
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: Your company or business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Primary Contact Person
+      hint: Name of the main point of contact
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: industry_type
+      label: Industry Type
+      hint: Select the industry that best describes your business
+      type: select_one
+      options:
+      - Technology
+      - Finance
+      - Healthcare
+      - Retail
+      - Manufacturing
+      - Other
+      required: true
+    - id: 6
+      name: company_size
+      label: Company Size
+      hint: Approximate number of employees
+      type: select_one
+      options:
+      - 1-10 employees
+      - 11-50 employees
+      - 51-200 employees
+      - 201-500 employees
+      - 500+ employees
+      required: true
+    - id: 7
+      name: business_goals
+      label: What are your primary business goals for this engagement?
+      hint: Briefly describe what you hope to achieve
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: current_challenges
+      label: What are your current business challenges?
+      hint: Describe any pain points or obstacles you face
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: budget_range
+      label: Budget Range for This Engagement
+      hint: null
+      type: select_one
+      options:
+      - Under $5,000
+      - $5,000 - $15,000
+      - $15,000 - $50,000
+      - $50,000 - $100,000
+      - $100,000+
+      required: true
+    - id: 10
+      name: timeline
+      label: Project Timeline
+      hint: When do you need to complete this project?
+      type: select_one
+      options:
+      - Immediate (1-2 weeks)
+      - Short-term (1-3 months)
+      - Medium-term (3-6 months)
+      - Long-term (6+ months)
+      - Not specified
+      required: false
+    - id: 11
+      name: decision_makers
+      label: Who are the key decision makers?
+      hint: List the names and titles of people involved in approving this engagement
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: previous_experience
+      label: Have you worked with consultants or advisors before?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: false
+    - id: 13
+      name: preferred_communication
+      label: Preferred Communication Method
+      hint: How would you like us to stay in touch?
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Video calls
+      - In-person meetings
+      required: false
+    - id: 14
+      name: additional_notes
+      label: Any additional information we should know?
+      hint: Tell us anything else relevant to your engagement
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stage Performance Slot Extension Request Form
+    pages:
+    - id: 1
+      name: performance_slot_id
+      label: Performance Slot ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: performer_id
+      label: Performer ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: stage_name
+      label: Stage Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Festivals
+      - Venues
+      - Schools
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: performance_request
+      label: Performance Request
+      hint: null
+      type: select_multiple
+      options:
+      - Stage Time
+      - Backstage Area
+      - Technical Requirements
+      required: false

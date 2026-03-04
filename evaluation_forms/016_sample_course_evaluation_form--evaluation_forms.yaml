@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sample Course Evaluation Form
+    pages:
+    - id: 1
+      name: course_name
+      label: course_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: course_instructor
+      label: course_instructor
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Teacher''}'
+      - '{''id'': 2, ''label'': ''TA''}'
+      - '{''id'': 3, ''label'': ''Professor''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: course_instructor_title
+      label: Instructor Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: course_rating
+      label: Course Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_time
+      label: Evaluation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

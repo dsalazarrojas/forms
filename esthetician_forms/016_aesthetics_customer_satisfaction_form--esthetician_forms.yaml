@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aesthetics Customer Satisfaction Form
+    pages:
+    - id: 1
+      name: customer_information_section
+      label: Customer Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: Email for follow-up communication (optional)
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: visit_date
+      label: Date of Visit
+      hint: When did you visit our establishment?
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: service_received_section
+      label: Service Received
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: service_type
+      label: Type of Service Received
+      hint: What type of aesthetic service did you receive?
+      type: select_one
+      options:
+      - Facial Treatment
+      - Chemical Peel
+      - Microdermabrasion
+      - Laser Treatment
+      - Waxing
+      - Eyelash Extensions
+      - Eyebrow Tinting
+      - Body Wrap
+      - Massage Therapy
+      - Other
+      required: true
+    - id: 7
+      name: service_provider_name
+      label: Service Provider Name
+      hint: Name of the esthetician who provided the service
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: overall_satisfaction_section
+      label: Overall Satisfaction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: overall_satisfaction_rating
+      label: Overall Satisfaction Rating
+      hint: How satisfied are you with the service received?
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: service_quality_rating
+      label: Service Quality Rating
+      hint: How would you rate the quality of the service?
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: cleanliness_hygiene_rating
+      label: Cleanliness and Hygiene Rating
+      hint: How would you rate the cleanliness and hygiene of the facility?
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: staff_professionalism_rating
+      label: Staff Professionalism Rating
+      hint: How would you rate the professionalism of the staff?
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: wait_time_satisfaction
+      label: Wait Time Satisfaction
+      hint: Were you satisfied with the wait time for your appointment?
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: specific_aspects_section
+      label: Specific Aspects of Service
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: skin_improvement_observed
+      label: Skin Improvement Observed
+      hint: Did you notice any improvement in your skin condition after the treatment?
+      type: select_one
+      options:
+      - Significant Improvement
+      - Some Improvement
+      - No Change
+      - Worse
+      required: true
+    - id: 16
+      name: comfort_level_during_service
+      label: Comfort Level During Service
+      hint: How comfortable were you during the service?
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: pain_discomfort_level
+      label: Pain or Discomfort Level
+      hint: How much pain or discomfort did you experience during the service?
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: consultation_quality
+      label: Consultation Quality
+      hint: How would you rate the quality of the consultation before the service?
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: product_quality_rating
+      label: Product Quality Rating
+      hint: How would you rate the quality of products used during the service?
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: recommendation_likelihood_section
+      label: Recommendation and Future Visits
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: likelihood_to_return
+      label: Likelihood to Return
+      hint: How likely are you to return for future services?
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: likelihood_to_recommend
+      label: Likelihood to Recommend
+      hint: How likely are you to recommend our services to friends or family?
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: future_appointments_interest
+      label: Interest in Future Appointments
+      hint: Are you interested in scheduling future appointments?
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 24
+      name: preferred_services_future
+      label: Preferred Services for Future Visits
+      hint: What services would you be interested in receiving in the future?
+      type: select_multiple
+      options:
+      - Facial Treatments
+      - Anti-aging Procedures
+      - Body Treatments
+      - Hair Removal
+      - Makeup Services
+      - Skincare Consultations
+      - Specialized Treatments
+      - Seasonal Services
+      required: false
+    - id: 25
+      name: feedback_suggestions_section
+      label: Feedback and Suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: positive_aspects
+      label: Positive Aspects
+      hint: What did you like most about your experience?
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: What aspects of our service could be improved?
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback or comments about your experience
+      type: text
+      options: []
+      required: false

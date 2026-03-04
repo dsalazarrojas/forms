@@ -1,0 +1,252 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Full Name
+      hint: Your legal full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: mailing_address
+      label: Mailing Address
+      hint: Your full address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: For identification purposes
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: position_applied_for
+      label: Position Applied For
+      hint: Which coaching position
+      type: select_one
+      options:
+      - Head Coach
+      - Assistant Coach
+      - Volunteer Coach
+      - Youth Coach
+      - Skills Coach
+      - Fitness Coach
+      required: true
+    - id: 7
+      name: sport_or_activity
+      label: Sport or Activity
+      hint: What sport will you coach
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: age_group_preference
+      label: Age Group Preference
+      hint: Which age group do you prefer
+      type: select_one
+      options:
+      - Ages 4-7
+      - Ages 8-12
+      - Ages 13-15
+      - Ages 16-18
+      - Adult
+      - No Preference
+      required: true
+    - id: 9
+      name: coaching_experience
+      label: Coaching Experience Level
+      hint: How much coaching experience do you have
+      type: select_one
+      options:
+      - No Experience
+      - 1-2 Years
+      - 3-5 Years
+      - 5-10 Years
+      - Over 10 Years
+      required: true
+    - id: 10
+      name: previous_teams
+      label: Previous Teams or Organizations
+      hint: Where have you coached before
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: playing_experience
+      label: Playing Experience
+      hint: Describe your playing background
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: certifications_held
+      label: Coaching Certifications Held
+      hint: List any certifications
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: cpr_first_aid_certified
+      label: CPR and First Aid Certified
+      hint: Do you have current certification
+      type: select_one
+      options:
+      - Yes Current
+      - Yes But Expired
+      - false
+      required: true
+    - id: 14
+      name: education_level
+      label: Highest Education Level
+      hint: Your highest completed education
+      type: select_one
+      options:
+      - High School
+      - Some College
+      - Associate Degree
+      - Bachelor Degree
+      - Master Degree
+      - Doctorate
+      required: true
+    - id: 15
+      name: availability
+      label: Availability
+      hint: When are you available to coach
+      type: select_multiple
+      options:
+      - Weekday Afternoons
+      - Weekday Evenings
+      - Saturday Mornings
+      - Saturday Afternoons
+      - Sunday Mornings
+      - Sunday Afternoons
+      required: true
+    - id: 16
+      name: season_preference
+      label: Season Preference
+      hint: Which seasons can you coach
+      type: select_multiple
+      options:
+      - Spring
+      - Summer
+      - Fall
+      - Winter
+      - Year Round
+      required: true
+    - id: 17
+      name: background_check_consent
+      label: Consent to Background Check
+      hint: You agree to a background check
+      type: select_one
+      options:
+      - Yes I Consent
+      - false
+      required: true
+    - id: 18
+      name: background_check_history
+      label: Any Criminal History
+      hint: Do you have any criminal convictions
+      type: select_one
+      options:
+      - false
+      - Yes Please Explain
+      required: true
+    - id: 19
+      name: background_check_details
+      label: Please Explain
+      hint: Provide details if applicable
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: coaching_philosophy
+      label: Your Coaching Philosophy
+      hint: Describe your approach to coaching
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: why_do_you_want_to_coach
+      label: Why Do You Want to Coach
+      hint: Your motivation for coaching
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: strengths_as_coach
+      label: Your Strengths as a Coach
+      hint: What makes you a good coach
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: references_count
+      label: Number of References Provided
+      hint: How many references can you provide
+      type: select_one
+      options:
+      - 1-2
+      - 3-4
+      - 5 or More
+      required: true
+    - id: 24
+      name: reference_1_name
+      label: Reference 1 Name
+      hint: First reference full name
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: reference_1_phone
+      label: Reference 1 Phone
+      hint: First reference phone
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: reference_1_relationship
+      label: Reference 1 Relationship
+      hint: How do you know this person
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: start_date_availability
+      label: When Can You Start
+      hint: Your available start date
+      type: date
+      options: []
+      required: true
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: application_date
+      label: Application Date
+      hint: Today date
+      type: date
+      options: []
+      required: true

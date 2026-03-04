@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: paypal_business_payment_form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: business_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: business_email
+      label: business_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: business_phone
+      label: business_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: price
+      label: price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: currency
+      label: currency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''USD''}'
+      - '{''id'': 2, ''label'': ''EUR''}'
+      - '{''id'': 3, ''label'': ''JPY''}'
+      required: false
+    - id: 8
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: form_button_label
+      label: form_button_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_submit_button_label
+      label: form_submit_button_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_cancel_button_label
+      label: form_cancel_button_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_description
+      label: form_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: form_button
+      label: form_button
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: form_cancel_button
+      label: form_cancel_button
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: form_submit_button
+      label: form_submit_button
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: form_success_message
+      label: form_success_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: form_failure_message
+      label: form_failure_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: form_error_message
+      label: form_error_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: button_text
+      label: button_text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: button_color
+      label: button_color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: custom
+      label: custom
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: email_to
+      label: email_to
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: form_submit_url
+      label: form_submit_url
+      hint: null
+      type: text
+      options: []
+      required: false

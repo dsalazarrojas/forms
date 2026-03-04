@@ -1,0 +1,106 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Structural Requirements Survey
+    pages:
+    - id: 1
+      name: structural_requirements_survey
+      label: Structural Requirements Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Engineering
+      - Construction
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: Briefly describe the project.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: required_structural_elements
+      label: Required Structural Elements
+      hint: Specify the structural elements required.
+      type: select_one
+      options:
+      - Beams
+      - Foundations
+      - Slabs
+      - Footings
+      - Abutments
+      - Other
+      required: false
+    - id: 5
+      name: structural_system
+      label: Structural System
+      hint: Choose a structural system.
+      type: select_one
+      options:
+      - Truss system
+      - Frame system
+      - Shell system
+      - Other
+      required: false
+    - id: 6
+      name: structural_system_detail
+      label: Structural System Detail
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: structural_condition
+      label: Structural Condition
+      hint: Describe the structural condition of the site.
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: structural_elements_materials
+      label: Structural Elements Materials
+      hint: Specify the materials used for structural elements.
+      type: select_multiple
+      options:
+      - Steel
+      - Concrete
+      - Wood
+      - Other
+      required: false
+    - id: 9
+      name: structural_details_comment
+      label: Structural Details Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: site_geographical_location
+      label: Site Geographical Location
+      hint: Specify the site location.
+      type: text
+      options: []
+      required: false

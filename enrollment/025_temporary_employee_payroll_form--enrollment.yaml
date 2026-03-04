@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: Temporary Employee Payroll Form
+    pages:
+    - id: 1
+      name: new_hire
+      label: New Hire
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tax_id
+      label: Tax Id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''AL''}'
+      - '{''value'': ''AK''}'
+      - '{''value'': ''AZ''}'
+      - '{''value'': ''AR''}'
+      - '{''value'': ''CA''}'
+      - '{''value'': ''CO''}'
+      - '{''value'': ''CT''}'
+      - '{''value'': ''DE''}'
+      - '{''value'': ''FL''}'
+      - '{''value'': ''GA''}'
+      - '{''value'': ''ID''}'
+      - '{''value'': ''IL''}'
+      - '{''value'': ''IN''}'
+      - '{''value'': ''IA''}'
+      - '{''value'': ''KY''}'
+      - '{''value'': ''LA''}'
+      - '{''value'': ''MA''}'
+      - '{''value'': ''MD''}'
+      - '{''value'': ''ME''}'
+      - '{''value'': ''MI''}'
+      - '{''value'': ''MO''}'
+      - '{''value'': ''MS''}'
+      - '{''value'': ''MT''}'
+      - '{''value'': ''NC''}'
+      - '{''value'': ''NE''}'
+      - '{''value'': ''NV''}'
+      - '{''value'': ''NY''}'
+      - '{''value'': ''OH''}'
+      - '{''value'': ''OK''}'
+      - '{''value'': ''OR''}'
+      - '{''value'': ''PA''}'
+      - '{''value'': ''SC''}'
+      - '{''value'': ''SD''}'
+      - '{''value'': ''TN''}'
+      - '{''value'': ''TX''}'
+      - '{''value'': ''UT''}'
+      - '{''value'': ''VA''}'
+      - '{''value'': ''VT''}'
+      - '{''value'': ''WA''}'
+      - '{''value'': ''WV''}'
+      - '{''value'': ''WI''}'
+      - '{''value'': ''WY''}'
+      required: false
+    - id: 8
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: start_date
+      label: Start Date
+      hint: yyyy-mm-dd
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: end_date
+      label: End Date
+      hint: yyyy-mm-dd
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: hourly_wage
+      label: Hourly Wage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: tax_rate
+      label: Tax Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: tax_id_type
+      label: Tax Id Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''EIN''}'
+      - '{''value'': ''SSN''}'
+      - '{''value'': ''ITIN''}'
+      required: false
+    - id: 14
+      name: ssn
+      label: SSN
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: itin
+      label: ITIN
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: ein
+      label: EIN
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: bank_account
+      label: Bank Account
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: routing_number
+      label: Routing Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: direct_deposit
+      label: Direct Deposit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: email_address
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_address
+      label: Emergency Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

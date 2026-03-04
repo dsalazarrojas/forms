@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nursing Leadership Roundtable Evaluation Form
+    pages:
+    - id: 1
+      name: event_attendance
+      label: Event Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: event_rating
+      label: Event Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: leadership_team
+      label: Leadership Team
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: session_leaders
+      label: Session Leaders
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_recommendation
+      label: Event Recommendation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: date_of_evaluation
+      label: Date of Evaluation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_of_evaluation
+      label: Time of Evaluation
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

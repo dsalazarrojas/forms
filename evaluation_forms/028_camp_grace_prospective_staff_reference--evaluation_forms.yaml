@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Grace Prospective Staff Reference
+    pages:
+    - id: 1
+      name: candidate_reference_header
+      label: -- Staff Character Reference --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: candidate_name_ref
+      label: Name of Applicant
+      hint: The person you are providing a reference for
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reference_name_full
+      label: Your Full Name (Reference)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reference_occupation
+      label: Your Occupation - Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reference_relationship
+      label: Relationship to Applicant
+      hint: e.g., Former supervisor, teacher, pastor
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: length_of_acquaintance
+      label: How long have you known the applicant?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: character_evaluation_header
+      label: -- Evaluation of Character and Skills --
+      hint: Rate the applicant on the following scales
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: rating_integrity_honesty
+      label: Integrity and Honesty
+      hint: null
+      type: select_one
+      options:
+      - Exceptional
+      - High
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 9
+      name: rating_work_ethic
+      label: Work Ethic and Reliability
+      hint: null
+      type: select_one
+      options:
+      - Exceptional
+      - High
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 10
+      name: rating_teamwork
+      label: Ability to Work in a Team
+      hint: null
+      type: select_one
+      options:
+      - Exceptional
+      - High
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 11
+      name: rating_emotional_stability
+      label: Emotional Stability and Maturity
+      hint: null
+      type: select_one
+      options:
+      - Exceptional
+      - High
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 12
+      name: working_with_children_suitability
+      label: Suitability for Working with Children
+      hint: Do you have any reservations about this applicant working with minors?
+      type: select_one
+      options:
+      - Highly Recommended
+      - Recommended
+      - Recommended with reservations
+      - Not Recommended
+      required: true
+    - id: 13
+      name: reservation_details_ref
+      label: Details of Reservations (If any)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: primary_strengths_applicant
+      label: Primary Strengths of the Applicant
+      hint: What makes them a good fit for Camp Grace?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: areas_of_growth_applicant
+      label: Potential Areas for Growth
+      hint: Challenges the applicant might face
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: would_hire_rehire
+      label: Would you hire or rehire this person?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - N/A
+      required: true
+    - id: 17
+      name: reference_contact_followup
+      label: May we contact you for further information?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: reference_phone_num
+      label: Your Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: reference_signature_digital
+      label: Electronic Signature (Full Name)
+      hint: I certify that this reference is true and accurate
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: reference_date_submitted
+      label: Date of Reference
+      hint: null
+      type: date
+      options: []
+      required: true

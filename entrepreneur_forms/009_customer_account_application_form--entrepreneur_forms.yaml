@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Account Application Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: account_type
+      label: Account Type
+      hint: null
+      type: select_one
+      options:
+      - account-type-business
+      - account-type-personal
+      - account-type-organization
+      required: false
+    - id: 7
+      name: account_number
+      label: Account Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,188 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 360 Degree Review Form
+    pages:
+    - id: 1
+      name: section_header_reviewee
+      label: '--- Reviewee Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reviewee_full_name
+      label: Reviewee full name
+      hint: Enter the reviewee's first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reviewee_job_title
+      label: Reviewee job title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reviewee_department
+      label: Department or team
+      hint: e.g., Product, Engineering, Finance
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: hire_date
+      label: Date of hire
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: years_at_organization
+      label: Years with organization
+      hint: Round to whole years
+      type: integer
+      options: []
+      required: false
+    - id: 7
+      name: section_header_reviewer
+      label: '--- Reviewer Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: reviewer_relationship
+      label: Your relationship to the reviewee
+      hint: Choose the role that best describes your relationship
+      type: select_one
+      options:
+      - Manager
+      - Peer/Colleague
+      - Direct report
+      - Self-review
+      - Other
+      required: true
+    - id: 9
+      name: reviewer_name
+      label: Reviewer name
+      hint: Leave blank to remain anonymous
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reviewer_email
+      label: Reviewer email
+      hint: Optional — used only for follow-up if provided
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: overall_performance
+      label: Overall performance assessment
+      hint: Select the option that best fits overall performance
+      type: select_one
+      options:
+      - Outstanding
+      - Exceeds expectations
+      - Meets expectations
+      - Needs improvement
+      - Unsatisfactory
+      required: true
+    - id: 12
+      name: communication_rating
+      label: Communication rating (1-10)
+      hint: 1 = very poor, 10 = excellent
+      type: integer
+      options: []
+      required: true
+    - id: 13
+      name: teamwork_rating
+      label: Teamwork and collaboration rating (1-10)
+      hint: 1 = very poor, 10 = excellent
+      type: integer
+      options: []
+      required: true
+    - id: 14
+      name: leadership_rating
+      label: Leadership/initiative rating (1-10)
+      hint: 1 = very poor, 10 = excellent; leave blank if not applicable
+      type: integer
+      options: []
+      required: false
+    - id: 15
+      name: strengths
+      label: Key strengths observed (select all that apply)
+      hint: Choose up to 5 items that best describe strengths
+      type: select_multiple
+      options:
+      - Collaboration
+      - Problem solving
+      - Initiative
+      - Reliability
+      - Technical expertise
+      - Communication
+      - Leadership
+      required: false
+    - id: 16
+      name: development_areas
+      label: Areas for development (select all that apply)
+      hint: Select observed areas where growth would help
+      type: select_multiple
+      options:
+      - Time management
+      - Delegation
+      - Strategic thinking
+      - Technical skills
+      - Communication clarity
+      - Conflict resolution
+      required: false
+    - id: 17
+      name: support_for_growth
+      label: Does this person receive adequate support for growth?
+      hint: Consider mentoring, training, and stretch assignments
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 18
+      name: notable_accomplishments
+      label: Notable accomplishments in the review period
+      hint: List 2–3 recent achievements or contributions
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: improvement_suggestions
+      label: Suggestions for improvement or development
+      hint: Be specific and constructive where possible
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional comments or context
+      hint: Any other observations to support this review
+      type: text
+      options: []
+      required: false

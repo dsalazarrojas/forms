@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Junior Associate Evaluation Form
+    pages:
+    - id: 1
+      name: junior_associate_name
+      label: junior associate name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: manager_name
+      label: manager name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: evaluation_date
+      label: evaluation date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: evaluation_period
+      label: evaluation period
+      hint: Select the evaluation period for the junior associate
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''First 90 days''}'
+      - '{''id'': 2, ''name'': ''Next 90 days''}'
+      - '{''id'': 3, ''name'': ''Beyond 6 months''}'
+      required: false
+    - id: 5
+      name: performance_area_1
+      label: prophets
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: performance_area_2
+      label: performance area 1
+      hint: Select the performance area you would like to focus on
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Communication''}'
+      - '{''id'': 2, ''name'': ''Teamwork''}'
+      - '{''id'': 3, ''name'': ''Leadership''}'
+      - '{''id'': 4, ''name'': ''Adaptability''}'
+      - '{''id'': 5, ''name'': ''Initiative''}'
+      required: false
+    - id: 7
+      name: performance_area_3
+      label: performance area 2
+      hint: Select the performance area you would like to focus on
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Communication''}'
+      - '{''id'': 2, ''name'': ''Teamwork''}'
+      - '{''id'': 3, ''name'': ''Leadership''}'
+      - '{''id'': 4, ''name'': ''Adaptability''}'
+      - '{''id'': 5, ''name'': ''Initiative''}'
+      required: false
+    - id: 8
+      name: evaluation_comments
+      label: evaluation comments
+      hint: Please enter any additional comments here.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: score_1
+      label: score 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: score_2
+      label: '2'
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: score_3
+      label: '3'
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: performance_rating
+      label: performance rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: overall_score
+      label: overall score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: feedback_from_junior
+      label: feedback from junior
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: feedback_from_manager
+      label: feedback from manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: feedback_from_other
+      label: feedback from other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: action_plan
+      label: action plan
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: next_steps
+      label: next steps
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: evaluation_status
+      label: evaluation status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Completed''}'
+      - '{''id'': 2, ''name'': ''Not Completed''}'
+      required: false
+    - id: 20
+      name: completed_status
+      label: completed status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 21
+      name: evaluation_comments
+      label: evaluation comments
+      hint: Please enter any additional comments here.
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: evaluation_comments_other
+      label: evaluation comments other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: manager_signature
+      label: manager signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: junior_signature
+      label: junior signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: evaluation_comments_other
+      label: evaluation comments other
+      hint: null
+      type: text
+      options: []
+      required: false

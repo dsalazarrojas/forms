@@ -1,0 +1,144 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Ar Strp Onsite Observation Form
+    pages:
+    - id: 1
+      name: evaluation_info
+      label: Evaluation Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: evaluator_name
+      label: Evaluator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: evaluator_agency
+      label: Agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: property_info
+      label: Property Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: county
+      label: County
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: watershed
+      label: Watershed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: septic_evaluation
+      label: Septic System Evaluation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: system_condition
+      label: Current System Condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      - Failed
+      required: true
+    - id: 11
+      name: tank_integrity
+      label: Tank Structural Integrity
+      hint: null
+      type: select_one
+      options:
+      - Intact
+      - Minor Damage
+      - Major Damage
+      required: true
+    - id: 12
+      name: drain_field
+      label: Drain Field Condition
+      hint: null
+      type: select_one
+      options:
+      - Functional
+      - Partially Functional
+      - Non-Functional
+      required: true
+    - id: 13
+      name: contamination_evidence
+      label: Evidence of Ground Contamination
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Minor
+      - Significant
+      required: true
+    - id: 14
+      name: remediation_eligible
+      label: Property Eligible for STRP Remediation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Conditional
+      required: true
+    - id: 15
+      name: observations_notes
+      label: Detailed Observations and Findings
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: recommended_actions
+      label: Recommended Actions or Improvements
+      hint: null
+      type: text
+      options: []
+      required: false

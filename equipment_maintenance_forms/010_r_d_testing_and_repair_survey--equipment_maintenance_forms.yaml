@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: R&D Testing And Repair Survey
+    pages:
+    - id: 1
+      name: equipment_condition
+      label: Equipment Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: location_used
+      label: Location Used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: testing_date
+      label: Testing Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: repair_date
+      label: Repair Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: test_result
+      label: Test Result
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Bad''}'
+      - '{''id'': 3, ''label'': ''Not Applicable''}'
+      required: false
+    - id: 6
+      name: test_result_notes
+      label: Test Result Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: repair_result
+      label: Repair Result
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Bad''}'
+      - '{''id'': 3, ''label'': ''Not Applicable''}'
+      required: false
+    - id: 8
+      name: repair_result_notes
+      label: Repair Result Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: root_cause
+      label: Root Cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: corrective_action
+      label: Corrective Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: equipment_model
+      label: Equipment Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: test_equipment
+      label: Test Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: repair_equipment
+      label: Repair Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: serial_number
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: vendor
+      label: Vendor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: model_number
+      label: Model Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: software_version
+      label: Software Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: hardware_version
+      label: Hardware Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: test_duration
+      label: Test Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: repair_duration
+      label: Repair Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: labor_cost
+      label: Labor Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: material_cost
+      label: Material Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: test_notes
+      label: Test Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: repair_notes
+      label: Repair Notes
+      hint: null
+      type: text
+      options: []
+      required: false

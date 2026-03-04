@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hybrid Battery Maintenance Cost Estimate Request
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: 'null'
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: battery_type
+      label: Battery Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: estimate_date
+      label: Estimated Repair Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: technician_name
+      label: Technician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: shop_number
+      label: Shop Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: shop_note
+      label: Shop Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: shop_phone
+      label: Shop Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: shop_email
+      label: Shop Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_vin
+      label: Vehicle VIN
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: issue_priority
+      label: Issue Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 19
+      name: issue_status
+      label: Issue Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - In Progress
+      - Closed
+      required: true
+    - id: 20
+      name: repair_status
+      label: Repair Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - In Progress
+      - Completed
+      required: true
+    - id: 21
+      name: cost_estimate
+      label: Cost Estimate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: labor_cost
+      label: Labor Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: labor_hours
+      label: Labor Hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

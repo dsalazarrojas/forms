@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Announcer Application Form
+    pages:
+    - id: 1
+      name: event_announcer_details
+      label: Event Announcer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: demo_files
+      label: Demo Files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: preferences
+      label: Preferences
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: work_type
+      label: Work Type
+      hint: null
+      type: select_one
+      options:
+      - Event Planners
+      - Production Managers
+      - Other
+      required: false
+    - id: 6
+      name: experience
+      label: Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: work_rate
+      label: Work Rate
+      hint: null
+      type: select_one
+      options:
+      - Hourly
+      - Flat Rate
+      - Negotiable
+      - Package Deal
+      - Other
+      required: false
+    - id: 11
+      name: work_location
+      label: Work Location
+      hint: null
+      type: select_multiple
+      options:
+      - Home Office
+      - Studio
+      - Remote
+      - On Location
+      - Other
+      required: false
+    - id: 12
+      name: contract_length
+      label: Contract Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: contract_length_unit
+      label: Contract Length Unit
+      hint: null
+      type: select_one
+      options:
+      - Weeks
+      - Months
+      - Years
+      required: false
+    - id: 14
+      name: contract_notes
+      label: Contract Notes
+      hint: null
+      type: text
+      options: []
+      required: false

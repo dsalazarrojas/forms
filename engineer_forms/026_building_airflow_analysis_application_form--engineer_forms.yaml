@@ -1,0 +1,237 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Airflow Analysis Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company
+      label: Company Name
+      hint: Engineering firm or organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: application_date
+      label: Application Date
+      hint: Date of application
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: building_name
+      label: Building Name
+      hint: Name of building
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: building_address
+      label: Building Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: building_type
+      label: Building Type
+      hint: Classification
+      type: select_one
+      options:
+      - Office Building
+      - Residential
+      - Hospital
+      - School
+      - Retail
+      - Industrial
+      - Mixed Use
+      - Other
+      required: true
+    - id: 10
+      name: total_square_footage
+      label: Total Square Footage
+      hint: Building size
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: number_of_floors
+      label: Number of Floors
+      hint: Total floors
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: year_constructed
+      label: Year Constructed
+      hint: Year built
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: hvac_system_type
+      label: HVAC System Type
+      hint: Current system type
+      type: select_one
+      options:
+      - Central Air System
+      - VAV System
+      - Constant Volume
+      - Split System
+      - Packaged Unit
+      - Chilled Water
+      - Unknown
+      required: true
+    - id: 14
+      name: hvac_age
+      label: HVAC System Age
+      hint: Approximate age
+      type: select_one
+      options:
+      - Less than 5 years
+      - 5-10 years
+      - 11-15 years
+      - 16-20 years
+      - Over 20 years
+      required: true
+    - id: 15
+      name: airflow_issues
+      label: Airflow Issues Reported
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Uneven Temperature Distribution
+      - Poor Ventilation
+      - Excessive Drafts
+      - Stale Air
+      - High Humidity
+      - Low Air Pressure
+      - High Air Pressure
+      - Noise Issues
+      - Energy Inefficiency
+      - None Reported
+      required: true
+    - id: 16
+      name: affected_areas
+      label: Affected Areas
+      hint: Which areas have issues
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: analysis_objectives
+      label: Analysis Objectives
+      hint: What do you want to achieve
+      type: select_multiple
+      options:
+      - Improve Air Quality
+      - Balance Temperature
+      - Reduce Energy Costs
+      - Meet Code Requirements
+      - Address Complaints
+      - System Optimization
+      - Commissioning Verification
+      - Troubleshooting
+      required: true
+    - id: 18
+      name: occupancy_type
+      label: Occupancy Type
+      hint: Building use
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: typical_occupancy
+      label: Typical Occupancy
+      hint: Number of occupants
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: operating_hours
+      label: Operating Hours
+      hint: Building hours of operation
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: special_requirements
+      label: Special Requirements
+      hint: Clean rooms, labs, etc.
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: preferred_analysis_date
+      label: Preferred Analysis Date
+      hint: When to perform analysis
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: access_availability
+      label: Access Availability
+      hint: When is building accessible
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: documentation_provided
+      label: Documentation Provided
+      hint: Available documents
+      type: select_multiple
+      options:
+      - Floor Plans
+      - HVAC Drawings
+      - System Manuals
+      - Previous Reports
+      - Energy Bills
+      - Maintenance Records
+      - None Available
+      required: true
+    - id: 25
+      name: budget_range
+      label: Budget Range
+      hint: Estimated budget
+      type: select_one
+      options:
+      - Under $5,000
+      - $5,000 - $10,000
+      - $10,000 - $25,000
+      - $25,000 - $50,000
+      - Over $50,000
+      required: false
+    - id: 26
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

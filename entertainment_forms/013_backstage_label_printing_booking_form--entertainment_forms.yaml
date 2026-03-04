@@ -1,0 +1,216 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Backstage Label Printing Booking Form
+    pages:
+      - id: 1
+        name: section_booking
+        label: -- Backstage Label Printing Booking --
+        hint: Submit your printing request details
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: event_name
+        label: Event Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: event_date
+        Label: Event Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: event_location
+        label: Event Location
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: section_contact
+        label: -- Contact Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: contact_name
+        label: Contact Person Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: contact_email
+        Label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 8
+        name: contact_phone
+        label: Phone Number
+        hint: null
+        type: phone
+        options: []
+        required: true
+      - id: 9
+        name: company_name
+        Label: Company/Organization Name
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: section_label_details
+        label: -- Label Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: label_type
+        label: Label Type
+        hint: null
+        type: select_one
+        options:
+          - Name Tags
+          - ID Badges
+          - Equipment Labels
+          - Department Tags
+          - Crew Passes
+          - Artist Credentials
+          - Other
+        required: true
+      - id: 12
+        name: quantity
+        Label: Number of Labels to Print
+        hint: null
+        type: integer
+        options: []
+        required: true
+      - id: 13
+        name: label_size
+        label: Label Size
+        hint: null
+        type: select_one
+        options:
+          - Small (2x3 inches)
+          - Medium (3x4 inches)
+          - Large (4x6 inches)
+          - Custom
+        required: true
+      - id: 14
+        name: custom_size
+        Label: Custom Size (if selected)
+        hint: Specify dimensions
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: material_type
+        label: Material Type
+        hint: null
+        type: select_one
+        options:
+          - Paper
+          - Plastic
+          - Laminated
+          - Waterproof
+          - Thermal
+        required: false
+      - id: 16
+        name: section_content
+        label: -- Label Content --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: label_content
+        label: Label Content Template
+        hint: Name, title, ID number, instructions, etc.
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: color_preferences
+        Label: Color Preferences
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: branding_elements
+        Label: Include Branding Elements
+        hint: Logo, colors, specific design
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: false
+      - id: 20
+        name: design_provided
+        Label: Will You Provide Custom Design File?
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - Need Professional Design
+        required: true
+      - id: 21
+        name: file_format
+        Label: File Format (if provided)
+        hint: PDF, PNG, AI, etc.
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: section_timing
+        label: -- Timing and Delivery --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: rush_delivery
+        Label: Need Rush Delivery?
+        hint: null
+        type: select_one
+        options:
+          - "No"
+          - "Yes - 24 hours"
+          - "Yes - 48 hours"
+          - "Yes - Same Day"
+        required: true
+      - id: 24
+        name: delivery_location
+        Label: Delivery Location/Address
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 25
+        name: special_instructions
+        Label: Special Instructions or Notes
+        hint: null
+        type: text
+        options: []
+        required: false

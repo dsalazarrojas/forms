@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: CHW RHSP Referral Form
+    pages:
+    - id: 1
+      name: referrer_name
+      label: Referrer name
+      hint: Full name of the community health worker referring the client
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: referrer_phone
+      label: Referrer phone number
+      hint: Include country code if outside local area
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_name
+      label: Client name
+      hint: Full legal name as on ID
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_dob
+      label: Client date of birth
+      hint: Use format YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: client_contact
+      label: Client contact phone
+      hint: Best number to reach the client
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_referral
+      label: Reason for referral
+      hint: Brief summary of needs or services requested
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: urgency_level
+      label: Urgency level
+      hint: Indicate how soon service is required
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 8
+      name: preferred_contact_method
+      label: Preferred contact method
+      hint: How should the agency contact the client
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text message
+      required: false
+    - id: 9
+      name: additional_notes
+      label: Additional notes
+      hint: Any other relevant background or barriers
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: referral_date
+      label: Referral date
+      hint: Date the referral was submitted
+      type: date
+      options: []
+      required: true

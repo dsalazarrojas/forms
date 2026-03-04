@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pie Judging Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: competitor_name
+      label: Competitor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pie_title
+      label: Pie Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: pie_description
+      label: Pie Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: category_id
+      label: Category ID
+      hint: null
+      type: select_one
+      options:
+      - category1
+      - category2
+      - category3
+      required: false
+    - id: 6
+      name: rating
+      label: Rating
+      hint: null
+      type: select_multiple
+      options:
+      - rating1
+      - rating2
+      - rating3
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: competitor_score
+      label: Competitor Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: judge_score
+      label: Judge Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false

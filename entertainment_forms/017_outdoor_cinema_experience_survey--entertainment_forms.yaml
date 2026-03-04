@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Outdoor Cinema Experience Survey
+    pages:
+    - id: 1
+      name: movie_title
+      label: Movie Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: Location
+      hint: Where did you watch the movie?
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: movie_length
+      label: Movie Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: movie_start_time
+      label: Movie Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: showtime
+      label: Showtime
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: ticket_price
+      label: Ticket Price
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: seats
+      label: Number of Seats
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: food_and_drinks
+      label: Food and Drinks
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 9
+      name: sound_quality
+      label: Sound Quality
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: movie_quality
+      label: Movie Quality
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 11
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

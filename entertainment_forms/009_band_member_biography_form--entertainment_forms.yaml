@@ -1,0 +1,240 @@
+inputSchema:
+  type: object
+  properties:
+    title: Band Member Biography Form
+    pages:
+    - id: 1
+      name: member_full_name
+      label: Full Name
+      hint: Stage name or legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: stage_name
+      label: Stage Name
+      hint: Professional performing name if different
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: member_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: member_phone
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: hometown
+      label: Hometown
+      hint: City and state where you grew up
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: current_location
+      label: Current Location
+      hint: City and state of residence
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: primary_instrument
+      label: Primary Instrument or Role
+      hint: What you play or do in the band
+      type: select_one
+      options:
+      - Lead Vocals
+      - Guitar
+      - Bass Guitar
+      - Drums
+      - Keyboards
+      - Saxophone
+      - Trumpet
+      - Violin
+      - DJ/Producer
+      - Other
+      required: true
+    - id: 9
+      name: secondary_instruments
+      label: Secondary Instruments
+      hint: Other instruments you can play
+      type: select_multiple
+      options:
+      - Vocals
+      - Guitar
+      - Bass
+      - Drums
+      - Keyboards
+      - Harmonica
+      - Percussion
+      - Strings
+      - Brass
+      - Woodwinds
+      - None
+      required: false
+    - id: 10
+      name: years_of_experience
+      label: Years of Musical Experience
+      hint: How long have you been performing
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: musical_genres
+      label: Musical Genres
+      hint: Styles you perform
+      type: select_multiple
+      options:
+      - Rock
+      - Pop
+      - Jazz
+      - Blues
+      - Country
+      - R&B/Soul
+      - Hip Hop
+      - Electronic
+      - Classical
+      - Folk
+      - Metal
+      - Indie
+      - Funk
+      - Reggae
+      required: true
+    - id: 12
+      name: band_role
+      label: Role in the Band
+      hint: Your position and responsibilities
+      type: select_one
+      options:
+      - Founding Member
+      - Lead Performer
+      - Session Musician
+      - Touring Member
+      - Songwriter
+      - Musical Director
+      required: true
+    - id: 13
+      name: biography_text
+      label: Biography
+      hint: Write a short bio about yourself
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: notable_performances
+      label: Notable Performances
+      hint: Venues or events you have played
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: awards_recognition
+      label: Awards and Recognition
+      hint: Any honors or achievements
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: previous_bands
+      label: Previous Bands or Projects
+      hint: Other groups you have been part of
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: influences
+      label: Musical Influences
+      hint: Artists who inspire your style
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: social_media_links
+      label: Social Media Links
+      hint: Instagram, Twitter, Facebook URLs
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: website_url
+      label: Personal Website
+      hint: Your website or portfolio URL
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: streaming_profiles
+      label: Streaming Profiles
+      hint: Spotify, Apple Music, SoundCloud links
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: photo_upload
+      label: Headshot Photo
+      hint: Professional photo for press kit
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: availability
+      label: Availability Status
+      hint: Are you available for bookings
+      type: select_one
+      options:
+      - Available for Touring
+      - Available for Local Gigs
+      - Limited Availability
+      - Currently Unavailable
+      - Open to Collaborations
+      required: true
+    - id: 23
+      name: gear_equipment
+      label: Equipment and Gear
+      hint: Instruments and equipment you use
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: technical_requirements
+      label: Technical Requirements
+      hint: Stage or sound requirements
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Person to contact in case of emergency
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact number
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: additional_info
+      label: Additional Information
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false

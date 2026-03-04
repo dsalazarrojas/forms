@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Sports Clinic Enrollment Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: parent_phone
+      label: Parent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_grade
+      label: Student Grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: program_selection
+      label: Program Selection
+      hint: Select a program
+      type: select_one
+      options:
+      - Baseball
+      - Basketball
+      - Football
+      - Golf
+      - Soccer
+      - Track
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: Select a payment method
+      type: select_one
+      options:
+      - Credit Card
+      - E-Check
+      - Cash
+      - Check
+      required: false
+    - id: 7
+      name: payment_method_other
+      label: Other (Please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Parent
+      - Guardian
+      - Guardian - 1
+      - Other
+      required: false
+    - id: 11
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Please provide any medical conditions
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: student_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: student_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: student_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: student_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: program_cost
+      label: Program Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: payment_status
+      label: Payment Status
+      hint: Please select a payment status
+      type: select_multiple
+      options:
+      - Paid
+      - Partially Paid
+      - Not Paid
+      required: false
+    - id: 20
+      name: program_status
+      label: Program Status
+      hint: Select a program status
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Removed
+      required: false
+    - id: 21
+      name: student_attendance
+      label: Student Attendance
+      hint: Please select a student attendance status
+      type: select_multiple
+      options:
+      - Regular
+      - Irregular
+      - No Show
+      required: false
+    - id: 22
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: payment_method_details
+      label: Payment Method Details
+      hint: Please provide any payment method details
+      type: text
+      options: []
+      required: false

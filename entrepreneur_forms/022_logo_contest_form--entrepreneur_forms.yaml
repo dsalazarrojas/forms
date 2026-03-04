@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Logo Contest Form
+    pages:
+    - id: 1
+      name: upload_logo
+      label: Upload Logo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: logo_type
+      label: Logo Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''logo_type_option_1'', ''label'': ''Iconic''}'
+      - '{''id'': ''logo_type_option_2'', ''label'': ''Logotype''}'
+      - '{''id'': ''logo_type_option_3'', ''label'': ''Badge''}'
+      required: false
+    - id: 3
+      name: contest_date
+      label: Contest Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: upload_result
+      label: Upload Result
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''upload_result_option_1'', ''label'': ''Success''}'
+      - '{''id'': ''upload_result_option_2'', ''label'': ''Error''}'
+      - '{''id'': ''upload_result_option_3'', ''label'': ''Warning''}'
+      required: false
+    - id: 5
+      name: logo_url
+      label: Logo URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: logo_size
+      label: Logo Size
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''logo_size_option_1'', ''label'': ''Small''}'
+      - '{''id'': ''logo_size_option_2'', ''label'': ''Medium''}'
+      - '{''id'': ''logo_size_option_3'', ''label'': ''Large''}'
+      required: false
+    - id: 7
+      name: logo_color
+      label: Logo Color
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''logo_color_option_1'', ''label'': ''Black''}'
+      - '{''id'': ''logo_color_option_2'', ''label'': ''White''}'
+      - '{''id'': ''logo_color_option_3'', ''label'': ''Grey''}'
+      required: false
+    - id: 8
+      name: logo_width
+      label: Logo Width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: logo_height
+      label: Logo Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: logo_file_size
+      label: Logo File Size
+      hint: null
+      type: number
+      options: []
+      required: false

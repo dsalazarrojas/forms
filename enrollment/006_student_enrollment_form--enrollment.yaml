@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Enrollment Form
+    pages:
+    - id: 1
+      name: new_student_form
+      label: New Student
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: fee
+      label: Fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: fee_payment_method
+      label: Fee Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - PayPal
+      - Bank Transfer
+      - Credit Card
+      - Cash
+      - Cheque
+      required: true
+    - id: 7
+      name: fee_payment_method_other
+      label: Other Fee Payment Method
+      hint: null
+      type: text
+      options: []
+      required: false

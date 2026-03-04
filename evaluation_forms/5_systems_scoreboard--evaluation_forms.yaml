@@ -1,0 +1,123 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 5K Run Registration Template
+    pages:
+    - id: 1
+      name: section_header_registration
+      label: "--- Registration Details ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: registrant_name
+      label: Registrant full name
+      hint: As it should appear on race materials
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: Confirmation will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact phone
+      hint: Mobile preferred for race day updates
+      type: phone
+      options: []
+      required: true
+    - id: 5
+      name: age
+      label: Age on race day
+      hint: Enter whole number
+      type: integer
+      options: []
+      required: true
+    - id: 6
+      name: shirt_size
+      label: Shirt size selection
+      hint: Select the size you want
+      type: select_one
+      options:
+        - XS
+        - S
+        - M
+        - L
+        - XL
+        - XXL
+      required: true
+    - id: 7
+      name: team_name
+      label: Team name (if registering as part of a team)
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: bib_pickup_date
+      label: Preferred bib pickup date
+      hint: Choose from available pickup days
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment method
+      hint: Select the method used to pay registration
+      type: select_one
+      options:
+        - Credit card
+        - Bank transfer
+        - Cash at pickup
+        - Sponsorship
+      required: true
+    - id: 10
+      name: emergency_contact
+      label: Emergency contact and phone
+      hint: "Format: Name — Phone"
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: photo_release_consent
+      label: I consent to photos/videos taken during the event
+      hint: These may be used for promotional materials
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: false
+    - id: 12
+      name: medical_info_short
+      label: Important medical information
+      hint: Any conditions/medications organizers should know
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_requests
+      label: Additional requests or comments
+      hint: e.g., accessibility, dietary needs for post-race
+      type: text
+      options: []
+      required: false

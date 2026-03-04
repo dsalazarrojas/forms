@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Mental Wellness Session Evaluation Form
+    pages:
+    - id: 1
+      name: session_details
+      label: Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_type
+      label: Session Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: session_length
+      label: Session Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: session_objectives
+      label: Session Objectives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: session_outcomes
+      label: Session Outcomes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: mental_health_concerns
+      label: Mental Health Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: mental_health_goals
+      label: Mental Health Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: post_session_follow_up
+      label: Post-Session Follow-Up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

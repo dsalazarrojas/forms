@@ -1,0 +1,83 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Manager Feedback Request
+    pages:
+    - id: 1
+      name: feedback_request
+      label: Feedback Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: feedback_for_manager
+      label: Feedback For Manager
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''1'', ''label'': ''Manager''}'
+      - '{''name'': ''2'', ''label'': ''Team Members''}'
+      - '{''name'': ''3'', ''label'': ''Department''}'
+      required: true
+    - id: 4
+      name: manager_strengths
+      label: Manager Strengths
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''1'', ''label'': ''Communication''}'
+      - '{''name'': ''2'', ''label'': ''Leadership''}'
+      - '{''name'': ''3'', ''label'': ''Problem Solving''}'
+      - '{''name'': ''4'', ''label'': ''Adaptability''}'
+      - '{''name'': ''5'', ''label'': ''Other''}'
+      required: true
+    - id: 5
+      name: areas_for_improvement
+      label: Areas For Improvement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: manager_feedback
+      label: Manager Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''1'', ''label'': ''Positive''}'
+      - '{''name'': ''2'', ''label'': ''Negative''}'
+      - '{''name'': ''3'', ''label'': ''Neutral''}'
+      required: true
+    - id: 7
+      name: anonymous_feedback
+      label: Anonymous Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false

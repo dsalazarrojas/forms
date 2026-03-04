@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Magazine Subscription With Paysafe Payment Gateway
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - Discover
+      - American Express
+      - Paysafe
+      required: false
+    - id: 6
+      name: payment_method_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: order_id
+      label: Order ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: subscription_term
+      label: Subscription Term
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false
+    - id: 9
+      name: billing_cycle
+      label: Billing Cycle
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 10
+      name: billing_frequency
+      label: Billing Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 11
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: subscription_status
+      label: Subscription Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Canceled
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: form_submission_date
+      label: Form Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: total_amount
+      label: Total Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: select_multiple
+      options:
+      - Billing
+      - Shipping
+      - Residential
+      required: false
+    - id: 20
+      name: billing_postal_code
+      label: Billing Postal Code
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: order_number
+      label: Order Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: subscription_start_date
+      label: Subscription Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: subscription_end_date
+      label: Subscription End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: subscription_cycle
+      label: Subscription Cycle
+      hint: null
+      type: select_one
+      options:
+      - Month
+      - Quarter
+      - Year
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

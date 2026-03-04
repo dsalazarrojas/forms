@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: producer_evaluation_form
+    pages:
+    - id: 1
+      name: producer_name
+      label: producer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: crop_name
+      label: crop_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: crop_quality
+      label: crop_quality
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''High''}'
+      - '{''id'': 2, ''text'': ''Medium''}'
+      - '{''id'': 3, ''text'': ''Low''}'
+      required: false
+    - id: 4
+      name: evaluation_date
+      label: evaluation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: evaluation_time
+      label: evaluation_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: evaluation_score
+      label: evaluation_score
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Good''}'
+      - '{''id'': 2, ''text'': ''Medium''}'
+      - '{''id'': 3, ''text'': ''Low''}'
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: producer_comment
+      label: producer_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: evaluation_comment
+      label: evaluation_comment
+      hint: null
+      type: text
+      options: []
+      required: false

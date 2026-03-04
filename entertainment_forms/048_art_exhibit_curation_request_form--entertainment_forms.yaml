@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Exhibit Curation Request Form
+    pages:
+    - id: 1
+      name: section_curator_info
+      label: -- Curator or Proposer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: curator_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: curator_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: curator_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: curator_title
+      label: Title or Role
+      hint: Independent curator, artist, director, etc.
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_exhibit_concept
+      label: -- Exhibit Concept --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: exhibit_title
+      label: Proposed Exhibit Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: exhibit_theme
+      label: Exhibit Theme or Concept
+      hint: What is the main idea
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: exhibit_description
+      label: Detailed Exhibition Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: curator_vision
+      label: Curator Vision and Goals
+      hint: What do you hope to achieve
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_logistics
+      label: -- Logistics and Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: exhibit_duration
+      label: Proposed Exhibition Duration
+      hint: Start and end dates
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: estimated_pieces
+      label: Estimated Number of Artworks
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: art_forms
+      label: Types of Art Forms Included
+      hint: null
+      type: select_multiple
+      options:
+      - Painting
+      - Sculpture
+      - Photography
+      - Installation
+      - Video or digital
+      - Performance
+      - Mixed media
+      - Other
+      required: true
+    - id: 15
+      name: space_requirements
+      label: Space Requirements
+      hint: Wall space, floor space, climate control, etc.
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: section_artists
+      label: -- Featured Artists --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: featured_artists
+      label: Featured Artists
+      hint: Names or list of participating artists
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: artist_commitment
+      label: Do artists have confirmed commitment
+      hint: null
+      type: select_one
+      options:
+      - Yes - all confirmed
+      - Yes - mostly confirmed
+      - Pending confirmation
+      - No - still recruiting
+      required: true
+    - id: 19
+      name: section_special_elements
+      label: -- Special Elements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: opening_reception
+      label: Will there be an opening reception
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - To be determined
+      required: true
+    - id: 21
+      name: special_programming
+      label: Special Programming or Events
+      hint: Artist talks, workshops, performances, etc.
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: interactive_elements
+      label: Interactive or Immersive Elements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_promotion
+      label: -- Marketing and Promotion --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: marketing_plan
+      label: Marketing and Promotion Plan
+      hint: How will you promote the exhibit
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: budget_estimate
+      label: Estimated Budget for Exhibition
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: additional_info
+      label: Additional Information or Attachments
+      hint: null
+      type: text
+      options: []
+      required: false

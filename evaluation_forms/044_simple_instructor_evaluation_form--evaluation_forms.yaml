@@ -1,0 +1,253 @@
+inputSchema:
+  type: object
+  properties:
+    title: Simple Instructor Evaluation Form
+    pages:
+    - id: 1
+      name: instructor_rating
+      label: Overall Instructor Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: feedback_on_instructor_preparedness
+      label: Feedback On Instructor Preparedness
+      hint: How prepared did the instructor feel for class?
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback_on_course_materials
+      label: Feedback On Course Materials
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Needs Improvement
+      required: true
+    - id: 4
+      name: feedback_on_presentation
+      label: Feedback On Presentation
+      hint: How clear was the instructor's presentation?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Needs Improvement
+      required: true
+    - id: 5
+      name: feedback_on_instructor_attendance
+      label: Feedback On Instructor Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - Always Attends
+      - Almost Always Attends
+      - Occasionally Attends
+      - Rarely Attends
+      required: true
+    - id: 6
+      name: feedback_on_instructor_response_to_questions
+      label: Feedback On Instructor Response To Questions
+      hint: How well did the instructor respond to questions?
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Needs Improvement
+      required: true
+    - id: 7
+      name: feedback_on_instructor_helpfulness
+      label: Feedback On Instructor Helpfulness
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Needs Improvement
+      required: true
+    - id: 8
+      name: feedback_on_instructor_support
+      label: Feedback On Instructor Support
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Needs Improvement
+      required: true
+    - id: 9
+      name: feedback_on_instructor_clarity
+      label: Feedback On Instructor Clarity
+      hint: How clear were the instructor's expectations?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Needs Improvement
+      required: true
+    - id: 10
+      name: feedback_on_instructor_effectiveness
+      label: Feedback On Instructor Effectiveness
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Needs Improvement
+      required: true
+    - id: 11
+      name: feedback_on_instructor_fairness
+      label: Feedback On Instructor Fairness
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Needs Improvement
+      required: true
+    - id: 12
+      name: feedback_on_instructor_respect
+      label: Feedback On Instructor Respect
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Needs Improvement
+      required: true
+    - id: 13
+      name: feedback_on_instructor_openness
+      label: Feedback On Instructor Openness
+      hint: How open was the instructor to questions and feedback?
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Needs Improvement
+      required: true
+    - id: 14
+      name: feedback_on_instructor_organization
+      label: Feedback On Instructor Organization
+      hint: How well organized was the instructor's class?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Needs Improvement
+      required: true
+    - id: 15
+      name: feedback_on_instructor_time_management
+      label: Feedback On Instructor Time Management
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Needs Improvement
+      required: true
+    - id: 16
+      name: feedback_on_instructor_availability
+      label: Feedback On Instructor Availability
+      hint: null
+      type: select_multiple
+      options:
+      - Always Available
+      - Almost Always Available
+      - Occasionally Available
+      - Rarely Available
+      required: true
+    - id: 17
+      name: feedback_on_instructor_communication
+      label: Feedback On Instructor Communication
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Needs Improvement
+      required: true
+    - id: 18
+      name: feedback_on_instructor_helpfulness_in_class
+      label: Feedback On Instructor Helpfulness In Class
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Needs Improvement
+      required: true
+    - id: 19
+      name: feedback_on_instructor_clarity_of_expectations
+      label: Feedback On Instructor Clarity Of Expectations
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Needs Improvement
+      required: true
+    - id: 20
+      name: feedback_on_instructor_clarity_of_grading
+      label: Feedback On Instructor Clarity Of Grading
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Needs Improvement
+      required: true
+    - id: 21
+      name: feedback_on_instructor_effectiveness_of_grading
+      label: Feedback On Instructor Effectiveness Of Grading
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Needs Improvement
+      required: true
+    - id: 22
+      name: feedback_on_instructor_fairness_of_grading
+      label: Feedback On Instructor Fairness Of Grading
+      hint: null
+      type: select_multiple
+      options:
+      - Always Fair
+      - Almost Always Fair
+      - Occasionally Fair
+      - Rarely Fair
+      required: true
+    - id: 23
+      name: feedback_on_instructor_clarity_of_instructor_evaluation
+      label: Feedback On Instructor Clarity Of Instructor Evaluation
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Needs Improvement
+      required: true
+    - id: 24
+      name: feedback_on_instructor_effectiveness_of_instructor_evaluation
+      label: Feedback On Instructor Effectiveness Of Instructor Evaluation
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Needs Improvement
+      required: true
+    - id: 25
+      name: feedback_on_instructor_fairness_of_instructor_evaluation
+      label: Feedback On Instructor Fairness Of Instructor Evaluation
+      hint: null
+      type: select_multiple
+      options:
+      - Always Fair
+      - Almost Always Fair
+      - Occasionally Fair
+      - Rarely Fair
+      required: true

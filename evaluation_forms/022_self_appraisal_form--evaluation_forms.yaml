@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Self Appraisal Form
+    pages:
+    - id: 1
+      name: student_id
+      label: Student Id
+      hint: 'null'
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: student_name
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_email
+      label: student_email
+      hint: 'null'
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: appraiser_id
+      label: appraiser
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: evaluation_date
+      label: evaluation_date
+      hint: 'null'
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: appraiser_feedback
+      label: appraiser_feedback
+      hint: 'null'
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: student_feedback
+      label: student_feedback
+      hint: 'null'
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: overall_performance
+      label: overall_performance
+      hint: 'null'
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Unsatisfactory'', ''value'': ''Unsatisfactory''}'
+      - '{''id'': 2, ''label'': ''Satisfactory'', ''value'': ''Satisfactory''}'
+      - '{''id'': 3, ''label'': ''Excellent'', ''value'': ''Excellent''}'
+      required: false
+    - id: 9
+      name: strengths
+      label: strengths
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: areas_of_improvement
+      label: areas_of_improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: recommendations
+      label: recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: action_plans
+      label: action_plans
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: evaluation_form_submitted_on
+      label: evaluation_form_submitted_on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: appraiser_comment
+      label: appraiser_comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: student_comment
+      label: student_comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: final_rating
+      label: final_rating
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Not Satisfactory'', ''value'': ''Not Satisfactory''}'
+      - '{''id'': 2, ''label'': ''Satisfactory'', ''value'': ''Satisfactory''}'
+      - '{''id'': 3, ''label'': ''Excellent'', ''value'': ''Excellent''}'
+      required: false
+    - id: 17
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: student_signature
+      label: student_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: appraiser_signature
+      label: appraiser_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: date_submitted
+      label: date_submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: appraiser_name
+      label: appraiser_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: semester
+      label: semester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: evaluation_form_version
+      label: evaluation_form_version
+      hint: null
+      type: text
+      options: []
+      required: false

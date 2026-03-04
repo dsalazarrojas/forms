@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Freedom Perception Survey
+    pages:
+    - id: 1
+      name: survey_intro
+      label: Academic Freedom Perception Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_role
+      label: Your Role at the Institution
+      hint: Select your primary role
+      type: select_one
+      options:
+      - Faculty Member
+      - Graduate Student
+      - Undergraduate Student
+      - Administrative Staff
+      - Postdoctoral Researcher
+      - Visiting Scholar
+      - Other
+      required: true
+    - id: 3
+      name: years_at_institution
+      label: Years at This Institution
+      hint: How long have you been affiliated with this institution?
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: department_college
+      label: Department/College
+      hint: Your academic department or college affiliation
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: freedom_to_teach_rating
+      label: Freedom to Teach Rating
+      hint: How much freedom do you feel you have in choosing course content? (1-5
+        scale)
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: freedom_to_research_rating
+      label: Freedom to Research Rating
+      hint: How much freedom do you feel you have in selecting research topics? (1-5
+        scale)
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: freedom_to_publish_rating
+      label: Freedom to Publish Rating
+      hint: How much freedom do you feel you have in publishing research findings?
+        (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: freedom_to_speak_rating
+      label: Freedom to Speak Rating
+      hint: How much freedom do you feel you have to express ideas publicly? (1-5
+        scale)
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: perceived_restrictions
+      label: Perceived Restrictions
+      hint: What factors most restrict your academic freedom? (Select all that apply)
+      type: select_multiple
+      options:
+      - Administrative policies
+      - Political pressure
+      - Donor influence
+      - Tenure concerns
+      - Department politics
+      - Student complaints
+      - Media attention
+      - None
+      required: false
+    - id: 10
+      name: institutional_support_rating
+      label: Institutional Support Rating
+      hint: How well does your institution protect academic freedom? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: freedom_to_disagree_rating
+      label: Freedom to Disagree Rating
+      hint: How comfortable are you expressing dissenting opinions? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: curriculum_control_concerns
+      label: Curriculum Control Concerns
+      hint: Do you feel external forces unduly influence curriculum decisions?
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 13
+      name: research_topic_restrictions
+      label: Research Topic Restrictions
+      hint: Have you avoided certain research topics due to potential controversy?
+      type: select_one
+      options:
+      - Yes, frequently
+      - Yes, occasionally
+      - Rarely
+      - Never
+      required: true
+    - id: 14
+      name: academic_environment_rating
+      label: Academic Environment Rating
+      hint: How would you rate the overall academic climate for free inquiry? (1-5
+        scale)
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: freedom_impact_on_performance
+      label: Impact on Performance
+      hint: How does perceived academic freedom affect your work performance?
+      type: select_one
+      options:
+      - Significantly positive
+      - Moderately positive
+      - No impact
+      - Moderately negative
+      - Significantly negative
+      required: true
+    - id: 16
+      name: suggestions_for_improvement
+      label: Suggestions for Improvement
+      hint: What could be done to enhance academic freedom at your institution?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other thoughts about academic freedom at your institution?
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: NetpulseOne Enrollment Form (web Only)_International
+    pages:
+    - id: 1
+      name: enrollment_page_1
+      label: Enrollment Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: enrollment_form_1
+      label: Name
+      hint: Enter name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: enrollment_form_2
+      label: Email
+      hint: Enter email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: enrollment_form_3
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: enrollment_form_4
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: enrollment_form_5
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: enrollment_form_6
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: enrollment_form_7
+      label: Enrollment Status
+      hint: Select one
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: true

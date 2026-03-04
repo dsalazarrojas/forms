@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Venue Layout Change Request Form
+    pages:
+    - id: 1
+      name: page_1
+      label: Performance Venue
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''venue'', ''label'': ''Theatre'', ''value'': ''Theatre''}'
+      - '{''id'': 2, ''name'': ''other'', ''label'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: minimalist_request_description
+      label: Request Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: change_request
+      label: Change Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: reason
+      label: Change Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: layout_details
+      label: Layout Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: expected_completion_date
+      label: Expected Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: actual_completion_date
+      label: Actual Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: reference
+      label: Reference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false

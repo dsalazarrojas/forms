@@ -1,0 +1,93 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Engineering Meeting Agenda
+    pages:
+    - id: 1
+      name: agenda_title
+      label: Meeting Agenda
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participants
+      label: Participants List
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''John Doe''}'
+      - '{''id'': 2, ''value'': ''Jane Doe''}'
+      required: false
+    - id: 3
+      name: agenda_topics
+      label: Agenda Topics
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Discuss New Project''}'
+      - '{''id'': 2, ''value'': ''Project Deadline''}'
+      - '{''id'': 3, ''value'': ''Team Goals''}'
+      required: false
+    - id: 4
+      name: action_items
+      label: Action Items
+      hint: List action items that need to be addressed.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: meeting_notes
+      label: Meeting Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: meeting_time
+      label: Meeting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: location
+      label: Meeting Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Online Meeting''}'
+      - '{''id'': 2, ''value'': ''Office Meeting''}'
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false

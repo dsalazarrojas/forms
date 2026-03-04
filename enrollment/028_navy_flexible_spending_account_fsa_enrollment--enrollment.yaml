@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: navy_flexible_spending_account_fsa_enrollment
+    pages:
+    - id: 1
+      name: personal_info
+      label: Personal Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: account_type
+      label: Account Type
+      hint: null
+      type: select_multiple
+      options:
+      - Flexible
+      - Health
+      - Dependent Care
+      - Medical
+      - Transit
+      required: false
+    - id: 9
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false

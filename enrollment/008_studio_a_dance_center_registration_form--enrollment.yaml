@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Studio A Dance Center Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: birthdate
+      label: Birthdate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: class_times
+      label: Class Times
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: student_level
+      label: Student Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 8
+      name: registered_by
+      label: Registered By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: registered_on
+      label: Registered On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: class_level
+      label: Class Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 11
+      name: classes
+      label: Classes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lash Length Expectation Survey
+    pages:
+    - id: 1
+      name: lash_length_expectation_survey
+      label: Lash Length
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: lash_style_expectation_survey
+      label: Lash Style
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: lash_service_expectation
+      label: Lash Service
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: lash_service_expectation_other
+      label: Other Lash Service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: lash_artist_expectation_survey
+      label: Lash Artist
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: lash_length_expectation_survey_comments
+      label: Lash Length Expectation Survey Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: lash_style_expectation_survey_comments
+      label: Lash Style Expectation Survey Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: lash_service_expectation_survey_comments
+      label: Lash Service Expectation Survey Comments
+      hint: null
+      type: note
+      options: []
+      required: false

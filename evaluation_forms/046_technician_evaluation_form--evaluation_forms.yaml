@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Technician Evaluation Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Technician Evaluation Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: How would you rate the technician's workmanship?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: technician_name
+      label: Technician's Name
+      hint: Please enter the technician's name as shown on their ID badge
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: technician_id_number
+      label: Technician's ID number
+      hint: Please enter the technician's ID number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rating_date
+      label: Date of visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: rating_technician_skill
+      label: What was the technician's level of skill in performing the job?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: rating_technician_effort
+      label: How much effort did the technician put into performing the job?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: rating_communication_technician
+      label: How would you rate the technician's communication skills?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false

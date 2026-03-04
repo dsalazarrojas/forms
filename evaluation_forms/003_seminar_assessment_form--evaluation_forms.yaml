@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Seminar Assessment Form
+    pages:
+    - id: 1
+      name: seminar_assessment_form
+      label: seminar_assessment_form
+      hint: Provide feedback on this seminar
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: overall_content
+      label: overall_content
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: seminar_content
+      label: seminar_content
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: materials_used
+      label: materials_used
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: presenter_comments
+      label: presenter_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: future_gathering
+      label: future_gathering
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: future_gathering_comments
+      label: future_gathering_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: seminar_assessment_form_comments
+      label: seminar_assessment_form_comments
+      hint: null
+      type: text
+      options: []
+      required: false

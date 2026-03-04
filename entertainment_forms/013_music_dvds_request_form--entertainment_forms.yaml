@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music DVDs Request Form
+    pages:
+    - id: 1
+      name: has_music_store
+      label: Has Music Store
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: music_format
+      label: Music Format
+      hint: null
+      type: select_one
+      options:
+      - VHS
+      - DVD
+      - CD
+      - MP3
+      required: false
+    - id: 3
+      name: favorite_music_genres
+      label: Favorite Music Genres
+      hint: Separate with commas, like "Rock, Pop, Classical, etc."
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: favorite_music_artists
+      label: Favorite Music Artists
+      hint: Separate with commas, like "The Beatles, The Rolling Stones, etc."
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: music_dvd_count
+      label: Number of Music DVDs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: music_dvd_price
+      label: Price per Music DVD
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: music_dvd_price_currency
+      label: Price Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      required: true
+    - id: 8
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: address
+      label: Address
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: music_dvd_shipping_method
+      label: Music DVD Shipping Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: music_dvd_delivery_address
+      label: Music DVD Delivery Address
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: music_dvd_special_shipping_instructions
+      label: Special Shipping Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: music_dvd_shipping_notes
+      label: Music DVD Shipping Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - USPS
+      - UPS
+      - FedEx
+      required: true
+    - id: 19
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: shipping_notes
+      label: Shipping Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: music_dvd_shipping_cost
+      label: Music DVD Shipping Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: music_dvd_tax
+      label: Music DVD Tax
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: music_dvd_total_cost
+      label: Music DVD Total Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: music_dvd_total_amount
+      label: Music DVD Total Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: music_dvd_status
+      label: Music DVD Status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - shipped
+      - received
+      required: true

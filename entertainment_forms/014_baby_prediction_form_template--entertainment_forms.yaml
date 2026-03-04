@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baby Prediction Form Template
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guess_gender
+      label: Guess for gender
+      hint: Choose your prediction
+      type: select_one
+      options:
+      - Boy
+      - Girl
+      - Twins
+      - No preference
+      required: false
+    - id: 3
+      name: guess_birth_date
+      label: Guess birth date
+      hint: Predicted due date
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: guess_weight
+      label: Guess birth weight in pounds
+      hint: Estimated weight
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: guess_length
+      label: Guess birth length in inches
+      hint: Optional
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: name_guess
+      label: Name guess
+      hint: Your suggested baby name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: prize_interest
+      label: Interest in prize
+      hint: Select if you want to enter prize draw
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 8
+      name: contact_info_for_prize
+      label: Contact info for prize winner
+      hint: Only required if entering prize draw
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Additional comments
+      hint: Anything else
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: Date of entry
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blended Learning Evaluation Group Registration Form
+    pages:
+    - id: 1
+      name: registration_header
+      label: Blended Learning Evaluation Group Registration
+      hint: Register your group for the blended learning evaluation program
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: group_leader_name
+      label: Group Leader Name
+      hint: Full name of group coordinator
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization
+      label: Organization or Institution
+      hint: Name of your school or organization
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: Which department or division
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: group_name
+      label: Group Name
+      hint: Name for your evaluation group
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: number_of_participants
+      label: Number of Participants
+      hint: How many people in your group
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: participant_level
+      label: Participant Level
+      hint: Education or experience level
+      type: select_one
+      options:
+      - Undergraduate Students
+      - Graduate Students
+      - Faculty
+      - K-12 Educators
+      - Corporate Trainees
+      - Mixed Group
+      required: true
+    - id: 10
+      name: evaluation_focus
+      label: Evaluation Focus Area
+      hint: What aspect are you evaluating
+      type: select_multiple
+      options:
+      - Student Engagement
+      - Learning Outcomes
+      - Technology Effectiveness
+      - Instructor Satisfaction
+      - Course Design
+      - Assessment Methods
+      required: true
+    - id: 11
+      name: program_start_date
+      label: Program Start Date
+      hint: When do you want to begin
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: program_duration
+      label: Program Duration
+      hint: How long will evaluation run
+      type: select_one
+      options:
+      - 4 weeks
+      - 8 weeks
+      - 12 weeks
+      - 16 weeks
+      - Full Semester
+      required: true
+    - id: 13
+      name: learning_modality
+      label: Learning Modality
+      hint: What blend of learning
+      type: select_one
+      options:
+      - 50 percent Online 50 percent In Person
+      - 70 percent Online 30 percent In Person
+      - 30 percent Online 70 percent In Person
+      - Fully Online with Synchronous Sessions
+      - HyFlex Model
+      required: true
+    - id: 14
+      name: technology_access
+      label: Technology Access
+      hint: Do all participants have device access
+      type: select_one
+      options:
+      - Yes All Have Devices
+      - Most Have Devices
+      - Limited Access
+      - Need Support
+      required: true
+    - id: 15
+      name: data_sharing_consent
+      label: Data Sharing Consent
+      hint: Agree to share evaluation data
+      type: select_one
+      options:
+      - Yes Consent Given
+      - false
+      required: true
+    - id: 16
+      name: irb_approval
+      label: IRB Approval Status
+      hint: Do you have institutional review board approval
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Not Required
+      - Will Apply
+      required: true
+    - id: 17
+      name: special_requirements
+      label: Special Requirements
+      hint: Any accessibility or technical needs
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: previous_experience
+      label: Previous Blended Learning Experience
+      hint: Has your group used blended learning before
+      type: select_one
+      options:
+      - Extensive Experience
+      - Some Experience
+      - Limited Experience
+      - No Experience
+      required: true
+    - id: 19
+      name: evaluation_goals
+      label: Evaluation Goals
+      hint: What do you hope to learn
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

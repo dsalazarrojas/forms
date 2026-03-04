@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Green Attire Fashion Survey
+    pages:
+    - id: 1
+      name: first_page
+      label: Green Attire Fashion Survey
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: clothing_preference
+      label: What type of clothing do you prefer?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: sustainable_practices
+      label: How do you currently implement sustainable fashion practices?
+      hint: null
+      type: select_multiple
+      options:
+      - Eco-friendly materials
+      - Second-hand clothing
+      - Local sourcing
+      required: true
+    - id: 4
+      name: eco_friendly_options
+      label: What sustainable fashion options do you currently use?
+      hint: null
+      type: select_multiple
+      options:
+      - Eco-friendly clothing
+      - Recycled materials
+      - Repurposed materials
+      required: true
+    - id: 5
+      name: local_sourcing
+      label: Do you prefer to source locally?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: environmental_concerns
+      label: How concerned are you about the environment?
+      hint: null
+      type: select_one
+      options:
+      - Somewhat concerned
+      - Very concerned
+      - Not concerned
+      required: true
+    - id: 7
+      name: consumer_preferences
+      label: What drives your preferences for sustainable fashion?
+      hint: null
+      type: select_multiple
+      options:
+      - Price
+      - Sustainability
+      - Style
+      required: true
+    - id: 8
+      name: fashion_industry_impact
+      label: How do you think the fashion industry impacts the environment?
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: true
+    - id: 9
+      name: notes
+      label: Any additional comments?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: next_steps
+      label: What are your next steps in promoting sustainable fashion?
+      hint: null
+      type: select_one
+      options:
+      - Educate friends and family
+      - Support sustainable fashion brands
+      - Make lifestyle changes
+      required: true
+    - id: 11
+      name: additional_comments
+      label: Do you have any additional comments or suggestions?
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Jewelry Expertise Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: knowledge
+      label: What is your knowledge of jewelry?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: expertise
+      label: What level of expertise do you have in jewelry?
+      hint: null
+      type: select_one
+      options:
+      - novice
+      - intermediate
+      - advanced
+      - expert
+      required: false
+    - id: 4
+      name: experience
+      label: Do you have experience in this field?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: jewelry_type
+      label: What type of jewelry do you have experience with?
+      hint: null
+      type: select_multiple
+      options:
+      - gold
+      - silver
+      - pearl
+      - diamond
+      - platinum
+      - other
+      required: false
+    - id: 6
+      name: work_experience
+      label: How many years do you have of work experience?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: education
+      label: What level of education do you have?
+      hint: null
+      type: select_one
+      options:
+      - highschool
+      - bachelor
+      - master
+      - doctorate
+      - other
+      required: false
+    - id: 8
+      name: certification
+      label: Are you certified in this field?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: training
+      label: Have you received any training?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: certification_type
+      label: What type of certification do you have?
+      hint: null
+      type: select_multiple
+      options:
+      - jewelry_appraiser
+      - gemologist
+      - other
+      required: false
+    - id: 11
+      name: certification_level
+      label: What level of certification do you have?
+      hint: null
+      type: select_one
+      options:
+      - basic
+      - intermediate
+      - advanced
+      - expert
+      required: false

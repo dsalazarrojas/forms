@@ -1,0 +1,306 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aesthetics Supplementary Assessment
+    pages:
+    - id: 1
+      name: client_basic_information_section
+      label: Client Basic Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_full_name
+      label: Full Name
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_dob
+      label: Date of Birth
+      hint: Your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: client_gender
+      label: Gender
+      hint: Your gender identity
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 5
+      name: client_phone
+      label: Phone Number
+      hint: Your primary phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: client_email
+      label: Email Address
+      hint: Your email for appointment confirmations
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: medical_history_section
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: current_health_conditions
+      label: Current Health Conditions
+      hint: Do you have any ongoing health conditions?
+      type: select_multiple
+      options:
+      - Diabetes
+      - Heart Disease
+      - Hypertension
+      - Autoimmune Disorders
+      - Skin Conditions
+      - Cancer
+      - Blood Clotting Disorders
+      - Pregnancy
+      - None of the Above
+      - Prefer not to disclose
+      required: true
+    - id: 9
+      name: current_medications
+      label: Current Medications
+      hint: List any medications you are currently taking
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medication_details
+      label: Medication Details
+      hint: For each medication, please include dosage and frequency
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: previous_aesthetic_treatments
+      label: Previous Aesthetic Treatments
+      hint: Have you had any previous aesthetic treatments?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: previous_treatments_details
+      label: Details of Previous Treatments
+      hint: If yes, please list the treatments and approximate dates
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: allergy_information_section
+      label: Allergy Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: medication_allergies
+      label: Medication Allergies
+      hint: Are you allergic to any medications?
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 15
+      name: medication_allergies_details
+      label: Details of Medication Allergies
+      hint: If yes, please specify which medications and reactions experienced
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: cosmetic_product_allergies
+      label: Cosmetic Product Allergies
+      hint: Are you allergic to any cosmetic products or ingredients?
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 17
+      name: cosmetic_allergies_details
+      label: Details of Cosmetic Product Allergies
+      hint: If yes, please specify which products or ingredients and reactions experienced
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: skin_sensitivity_section
+      label: Skin Sensitivity
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: skin_sensitivity_level
+      label: Skin Sensitivity Level
+      hint: How would you describe your skin sensitivity?
+      type: select_one
+      options:
+      - Very Sensitive
+      - Sensitive
+      - Normal
+      - Resistant
+      required: true
+    - id: 20
+      name: previous_skin_reactions
+      label: Previous Skin Reactions
+      hint: Have you had any adverse skin reactions to treatments or products?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: skin_reaction_details
+      label: Details of Skin Reactions
+      hint: If yes, please describe the reactions and what caused them
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: sun_exposure_habits
+      label: Sun Exposure Habits
+      hint: What are your typical sun exposure habits?
+      type: select_one
+      options:
+      - Minimal sun exposure
+      - Moderate sun exposure
+      - Extensive sun exposure
+      - Regular tanning bed use
+      required: true
+    - id: 23
+      name: treatment_goals_section
+      label: Treatment Goals
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: primary_treatment_goal
+      label: Primary Treatment Goal
+      hint: What is your primary goal for aesthetic treatment?
+      type: select_one
+      options:
+      - Reduce signs of aging
+      - Improve skin texture
+      - Address acne/scars
+      - Enhance facial features
+      - Body contouring
+      - Hair removal
+      - Other
+      required: true
+    - id: 25
+      name: specific_concerns
+      label: Specific Concerns
+      hint: What specific skin or aesthetic concerns do you have?
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: desired_outcomes
+      label: Desired Outcomes
+      hint: What outcomes are you hoping to achieve?
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: expectations_realisticness
+      label: Expectations Realisticness
+      hint: Do you have realistic expectations about treatment outcomes?
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 28
+      name: lifestyle_factors_section
+      label: Lifestyle Factors
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: smoking_status
+      label: Smoking Status
+      hint: Do you smoke tobacco products?
+      type: select_one
+      options:
+      - Never smoked
+      - Former smoker
+      - Current smoker
+      - Occasional smoker
+      required: true
+    - id: 30
+      name: alcohol_consumption
+      label: Alcohol Consumption
+      hint: How often do you consume alcohol?
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Socially
+      - Regularly
+      required: true
+    - id: 31
+      name: skincare_routine
+      label: Current Skincare Routine
+      hint: Describe your current daily skincare routine
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: consent_section
+      label: Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: information_accuracy_confirmation
+      label: Information Accuracy Confirmation
+      hint: I confirm that the information provided is accurate and complete to the
+        best of my knowledge
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 34
+      name: treatment_consent
+      label: Treatment Consent
+      hint: I consent to the aesthetic treatments recommended by the practitioner
+        based on this assessment
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 35
+      name: signature
+      label: Signature
+      hint: Electronic signature to confirm consent
+      type: text
+      options: []
+      required: true

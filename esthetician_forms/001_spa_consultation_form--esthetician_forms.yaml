@@ -1,0 +1,102 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Spa Consultation Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In Person
+      required: false
+    - id: 3
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: select_one
+      options:
+      - 10:00 am
+      - 11:00 am
+      - 12:00 pm
+      - 13:00 pm
+      - 14:00 pm
+      - 15:00 pm
+      required: false
+    - id: 5
+      name: treatment_preferences
+      label: Treatment Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: treatment_type
+      label: Treatment Type
+      hint: null
+      type: select_multiple
+      options:
+      - Facial
+      - Massage
+      - Pedicure
+      required: false
+    - id: 7
+      name: spa_services
+      label: Spa Services
+      hint: null
+      type: select_multiple
+      options:
+      - Facials
+      - Massages
+      - Pedicures
+      - Manicures
+      required: false
+    - id: 8
+      name: appointment_details
+      label: Appointment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: spa_preferences
+      label: Spa Preferences
+      hint: null
+      type: text
+      options: []
+      required: false

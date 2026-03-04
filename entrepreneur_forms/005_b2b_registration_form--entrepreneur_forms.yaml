@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: B2B Registration Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: Legal name of your business
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_type
+      label: Business Type
+      hint: Select your business structure
+      type: select_one
+      options:
+      - Sole Proprietorship
+      - Partnership
+      - Limited Liability Company
+      - Corporation
+      - Non-profit
+      - Other
+      required: true
+    - id: 3
+      name: industry
+      label: Industry
+      hint: Primary industry sector
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Manufacturing
+      - Retail
+      - Services
+      - Education
+      - Other
+      required: true
+    - id: 4
+      name: business_address
+      label: Business Address
+      hint: Full physical address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_city
+      label: City
+      hint: City location
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_state
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: business_zip
+      label: ZIP or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: business_country
+      label: Country
+      hint: Country of operation
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: business_website
+      label: Business Website
+      hint: Your company website URL
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_name
+      label: Primary Contact Name
+      hint: Full name of main contact
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_title
+      label: Contact Title
+      hint: Job title or position
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contact_email
+      label: Contact Email
+      hint: Primary business email
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: contact_phone
+      label: Contact Phone
+      hint: Direct phone number
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: employee_count
+      label: Number of Employees
+      hint: Approximate employee count
+      type: select_one
+      options:
+      - 1 to 5
+      - 6 to 20
+      - 21 to 50
+      - 51 to 200
+      - 201 to 500
+      - 500 plus
+      required: true
+    - id: 15
+      name: annual_revenue
+      label: Annual Revenue Range
+      hint: Select your revenue bracket
+      type: select_one
+      options:
+      - Under 100K
+      - 100K to 500K
+      - 500K to 1M
+      - 1M to 5M
+      - 5M to 10M
+      - Over 10M
+      required: true
+    - id: 16
+      name: registration_purpose
+      label: Purpose of Registration
+      hint: Why are you registering with us
+      type: select_multiple
+      options:
+      - Access to services
+      - Partnership opportunities
+      - Vendor registration
+      - Platform access
+      - Resource library
+      - Networking
+      - Other
+      required: true
+    - id: 17
+      name: how_heard_about_us
+      label: How Did You Hear About Us
+      hint: Source of referral
+      type: select_one
+      options:
+      - Search engine
+      - Social media
+      - Referral from colleague
+      - Industry event
+      - Advertisement
+      - Other
+      required: false
+    - id: 18
+      name: additional_services
+      label: Additional Services Interested In
+      hint: Select any additional services
+      type: select_multiple
+      options:
+      - Consulting
+      - Training
+      - Support services
+      - Premium features
+      - Custom solutions
+      - None at this time
+      required: false
+    - id: 19
+      name: terms_accepted
+      label: Terms and Conditions
+      hint: I agree to the terms of service
+      type: select_one
+      options:
+      - Yes, I accept
+      - No, I do not accept
+      required: true
+    - id: 20
+      name: registration_date
+      label: Registration Date
+      hint: Date of this registration
+      type: date
+      options: []
+      required: true

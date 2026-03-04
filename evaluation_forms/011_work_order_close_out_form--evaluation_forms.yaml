@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Work Order Close Out Form
+    pages:
+    - id: 1
+      name: work_order_close_out
+      label: Work Order Close Out
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: hours_worked
+      label: Hours Worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: materials_used
+      label: Materials Used
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: job_number
+      label: Job Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_comments
+      label: Job Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: hours_approved
+      label: Hours Approved
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: labor_cost
+      label: Labor Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: material_cost
+      label: Material Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: total_cost_approve
+      label: Total Cost Approve
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: labor_cost_approve
+      label: Labor Cost Approve
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: material_cost_approve
+      label: Material Cost Approve
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: close_out_status
+      label: Close Out Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

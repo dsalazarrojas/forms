@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fermentation Tank Inspection Form
+    pages:
+    - id: 1
+      name: tank_id
+      label: tank id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: tank_status
+      label: tank status
+      hint: null
+      type: select_one
+      options:
+      - Inspected
+      - Not Inspected
+      required: false
+    - id: 3
+      name: tank_capacity
+      label: tank capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: assigned_to
+      label: assigned to
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      required: false
+    - id: 6
+      name: tank_temperature
+      label: tank temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: tank_level
+      label: tank level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: tank_pressure
+      label: tank pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: inspection_date
+      label: inspection date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: inspection_time
+      label: inspection time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: tank_condition
+      label: tank condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 12
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: tank_size
+      label: tank size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: tank_material
+      label: tank material
+      hint: null
+      type: select_one
+      options:
+      - Stainless Steel
+      - Carbon Steel
+      - Glass
+      required: false
+    - id: 15
+      name: tank_position
+      label: tank position
+      hint: null
+      type: select_one
+      options:
+      - Above
+      - Below
+      required: false
+    - id: 16
+      name: tank_type
+      label: tank type
+      hint: null
+      type: select_one
+      options:
+      - Fermenter
+      - Storage
+      required: false

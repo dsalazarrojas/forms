@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bike Booking Form
+    pages:
+    - id: 1
+      name: section_personal_information
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Provide an email for booking confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact phone
+      hint: Mobile or landline preferred
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: bike_type
+      label: Bike type
+      hint: Select preferred bike model
+      type: select_one
+      options:
+      - Road
+      - Mountain
+      - Hybrid
+      - Electric
+      required: true
+    - id: 6
+      name: booking_date
+      label: Booking date
+      hint: Choose the date for pickup
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: pickup_time
+      label: Pickup time
+      hint: Expected pickup time
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: rental_duration_hours
+      label: Rental duration hours
+      hint: Number of hours for the booking
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: pickup_location
+      label: Pickup location
+      hint: Address or venue for pickup
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: additional_requests
+      label: Additional requests or notes
+      hint: Any special requests or accessibility needs
+      type: text
+      options: []
+      required: false

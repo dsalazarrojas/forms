@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_number
+      label: contact_number
+      hint: 123-123-1234
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: date_of_visit
+      label: date_of_visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time_of_visit
+      label: time_of_visit
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: consent
+      label: consent
+      hint: By signing below, I acknowledge that I am aware of the risks associated
+        with availing of tanning services during this Covid-19 pandemic.
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: customer_signature
+      label: customer_signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: date_of_consent
+      label: date_of_consent
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time_of_consent
+      label: time_of_consent
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: tanning_services
+      label: tanning_services
+      hint: null
+      type: select_multiple
+      options:
+      - Tanning
+      - Spray Tan
+      - Waxing
+      required: true
+    - id: 12
+      name: health_declaration
+      label: health_declaration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: allergy_declaration
+      label: allergy_declaration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: medical_device
+      label: medical_device
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: doctor_name
+      label: doctor_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: doctor_number
+      label: doctor_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: doctor_date
+      label: doctor_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: doctor_note
+      label: doctor_note
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: tanning_special_instructions
+      label: tanning_special_instructions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: tanning_waiver
+      label: tanning_waiver
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: other_medical_condition
+      label: other_medical_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: other_tanning_services
+      label: other_tanning_services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: other_health_declaration
+      label: other_health_declaration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: other_health_declaration2
+      label: other_health_declaration2
+      hint: null
+      type: text
+      options: []
+      required: false

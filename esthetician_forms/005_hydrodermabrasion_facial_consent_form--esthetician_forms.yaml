@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hydrodermabrasion Facial Consent Form
+    pages:
+    - id: 1
+      name: client_history
+      label: Client History
+      hint: Please enter a brief description of the client's skin and medical history.
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: treatment_acknowledgment
+      label: Treatment Acknowledgment
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 3
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: client_signature
+      label: Client Signature
+      hint: Please sign below.
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: esthetician_signature
+      label: Esthetician Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: hydrodermabrasion_services
+      label: Hydrodermabrasion Services
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Microdermabrasion''}'
+      - '{''label'': ''DermaSweep''}'
+      - '{''label'': ''Dermaplaning''}'
+      - '{''label'': ''Microdermabrasion Plus''}'
+      required: false
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Please provide emergency contact information.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: esthetician_name
+      label: Esthetician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false

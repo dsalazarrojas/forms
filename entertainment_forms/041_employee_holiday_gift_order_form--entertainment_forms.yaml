@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Holiday Gift Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: gift
+      label: Gift Choice
+      hint: null
+      type: select_multiple
+      options:
+      - A
+      - B
+      - C
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''chatjimmy'', ''label'': ''chatjimmy''}'
+      - Other
+      required: true
+    - id: 10
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Entertainment Forms'', ''label'': ''Entertainment Forms''}'
+      - '{''value'': ''Human Resources Forms'', ''label'': ''Human Resources Forms''}'
+      required: true
+    - id: 11
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned_form_id
+      label: Assigned Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: category2
+      label: Category 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Entertainment'', ''label'': ''Entertainment''}'
+      - '{''value'': ''Human Resources'', ''label'': ''Human Resources''}'
+      required: true
+    - id: 14
+      name: assigned_form_ids
+      label: Assigned Form IDs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: note2
+      label: Note 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: date2
+      label: Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: category3
+      label: Category 3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: time2
+      label: Time 2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: assigned_tool2
+      label: Assigned Tool 2
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''chatjimmy'', ''label'': ''chatjimmy''}'
+      - Other
+      required: true
+    - id: 21
+      name: category4
+      label: Category 4
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Entertainment'', ''label'': ''Entertainment''}'
+      - '{''value'': ''Human Resources'', ''label'': ''Human Resources''}'
+      required: true
+    - id: 22
+      name: description2
+      label: Description 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: assigned_form_id2
+      label: Assigned Form ID 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: output_file2
+      label: Output File 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_form_ids2
+      label: Assigned Form IDs 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

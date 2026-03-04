@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shooting Waiver Form
+    pages:
+    - id: 1
+      name: shooting_waiver_form
+      label: shooting_waiver_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_age
+      label: participant_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: participant_gender
+      label: participant_gender
+      hint: null
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Other
+      required: false
+    - id: 5
+      name: participant_contact_number
+      label: participant_contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: participant_address
+      label: participant_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shooting_date
+      label: shooting_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: shooting_start_time
+      label: shooting_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: shooting_end_time
+      label: shooting_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: participant_dress_code
+      label: participant_dress_code
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: waiver_signed
+      label: waiver_signed
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: parent_name
+      label: parent_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: parent_email
+      label: parent_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: parent_phone
+      label: parent_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: insurance_details
+      label: insurance_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_certification
+      label: medical_certification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: shooting_location
+      label: shooting_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: shooting_type
+      label: shooting_type
+      hint: null
+      type: select_one
+      options:
+      - Pistol
+      - Rifle
+      - Bow
+      - Other
+      required: false
+    - id: 20
+      name: shooting_range
+      label: shooting_range
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: participant_authorized
+      label: participant_authorized
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: shooting_equipment
+      label: shooting_equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Helmet
+      - Safety_Glasses
+      - Earplugs
+      - Other
+      required: false
+    - id: 23
+      name: first_aids
+      label: first_aids
+      hint: null
+      type: select_multiple
+      options:
+      - First_Aid_Kit
+      - Fire_Extinquisher
+      - Other
+      required: false
+    - id: 24
+      name: safety_inspection
+      label: safety_inspection
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: shooting_supervision
+      label: shooting_supervision
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false

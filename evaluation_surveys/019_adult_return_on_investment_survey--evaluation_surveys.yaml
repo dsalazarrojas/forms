@@ -1,0 +1,84 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Adult Return On Investment Survey
+    pages:
+    - id: 1
+      name: program_identification
+      label: -- Program Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Respondent name
+      hint: Optional for anonymous responses
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: program_name
+      label: Program or course name
+      hint: Which program are you evaluating
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: benefits_realized
+      label: Benefits realized from participation
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Improved skills
+      - Increased income
+      - Career advancement
+      - Networking
+      - Personal growth
+      required: false
+    - id: 5
+      name: cost_vs_benefit_rating
+      label: Cost versus benefit rating
+      hint: Rate overall value
+      type: select_one
+      options:
+      - Very poor
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: true
+    - id: 6
+      name: measurable_outcomes
+      label: Measurable outcomes achieved
+      hint: Describe any metrics or KPIs improved
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recommend_to_others
+      label: Would you recommend this program
+      hint: Yes indicates high ROI perceived
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 8
+      name: additional_comments
+      label: Additional comments
+      hint: Suggestions for improving ROI
+      type: text
+      options: []
+      required: false

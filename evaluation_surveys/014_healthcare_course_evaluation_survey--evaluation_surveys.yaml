@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Course Evaluation Survey
+    pages:
+    - id: 1
+      name: course_name
+      label: course_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: course_format
+      label: course_format
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''in_person''}'
+      - '{''id'': 2, ''name'': ''online''}'
+      - '{''id'': 3, ''name'': ''hybrid''}'
+      required: false
+    - id: 3
+      name: course_duration
+      label: course_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: instructor_name
+      label: instructor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: course_rating
+      label: course_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false

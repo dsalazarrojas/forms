@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Embroidery Quote Request Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: quote_type
+      label: Quote Type
+      hint: null
+      type: select_multiple
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      required: false
+    - id: 6
+      name: material_type
+      label: Material Type
+      hint: null
+      type: select_one
+      options:
+      - Material 1
+      - Material 2
+      - Material 3
+      required: false
+    - id: 7
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: design_description
+      label: Design Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: custom_request
+      label: Custom Request
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: legal_case_outcome_evaluation_form
+    pages:
+    - id: 1
+      name: case_id
+      label: Case ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: case_type
+      label: Case Type
+      hint: null
+      type: select_one
+      options:
+      - Case Management
+      - Litigation
+      - Mediation
+      - Arbitration
+      required: true
+    - id: 3
+      name: outcome
+      label: Outcome
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      - Unsatisfactory
+      required: true
+    - id: 4
+      name: case_value
+      label: Case Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: client_attitude
+      label: Client Attitude
+      hint: null
+      type: select_one
+      options:
+      - Very Positive
+      - Positive
+      - Negative
+      - Unsatisfactory
+      required: true
+    - id: 6
+      name: lawyer_attitude
+      label: Lawyer Attitude
+      hint: null
+      type: select_one
+      options:
+      - Very Positive
+      - Positive
+      - Negative
+      - Unsatisfactory
+      required: true
+    - id: 7
+      name: court_procedure
+      label: Court Procedure
+      hint: null
+      type: select_one
+      options:
+      - Very Efficient
+      - Efficient
+      - Inefficient
+      - Not Applicable
+      required: true
+    - id: 8
+      name: court_fees
+      label: Court Fees
+      hint: null
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Low
+      - Not Applicable
+      required: true
+    - id: 9
+      name: lawyer_fees
+      label: Lawyer Fees
+      hint: null
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Low
+      - Not Applicable
+      required: true
+    - id: 10
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

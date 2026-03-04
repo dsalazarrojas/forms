@@ -1,0 +1,132 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Donor Data Protection Awareness Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: donor_consent
+      label: Donor Consent
+      hint: Check that you have the Donor's consent
+      type: select_one
+      options:
+      - Consent Given
+      - No Consent Given
+      required: false
+    - id: 3
+      name: privacy_practices
+      label: privacy_practices
+      hint: null
+      type: select_multiple
+      options:
+      - Data Collection
+      - Data Use
+      - Data Sharing
+      required: false
+    - id: 4
+      name: data_collection
+      label: Data Collection
+      hint: null
+      type: select_multiple
+      options:
+      - Direct
+      - Indirect
+      - Not Applicable
+      required: false
+    - id: 5
+      name: data_use
+      label: Data Use
+      hint: null
+      type: select_multiple
+      options:
+      - Direct
+      - Indirect
+      - Not Applicable
+      required: false
+    - id: 6
+      name: data_sharing
+      label: Data Sharing
+      hint: null
+      type: select_multiple
+      options:
+      - Public
+      - Private
+      - Not Applicable
+      required: false
+    - id: 7
+      name: data_security
+      label: Data Security
+      hint: null
+      type: select_multiple
+      options:
+      - Secure
+      - Insecure
+      - Not Applicable
+      required: false
+    - id: 8
+      name: data_retention
+      label: Data Retention
+      hint: null
+      type: select_multiple
+      options:
+      - Long-term
+      - Short-term
+      - Not Applicable
+      required: false
+    - id: 9
+      name: data_deletion
+      label: Data Deletion
+      hint: null
+      type: select_multiple
+      options:
+      - Delete
+      - Not Delete
+      - Not Applicable
+      required: false
+    - id: 10
+      name: data_access
+      label: Data Access
+      hint: null
+      type: select_multiple
+      options:
+      - Access
+      - No Access
+      - Not Applicable
+      required: false
+    - id: 11
+      name: form_completion
+      label: Form Completion
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Not Applicable
+      required: false
+    - id: 12
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: select_multiple
+      options:
+      - Public
+      - Private
+      - Not Applicable
+      required: false

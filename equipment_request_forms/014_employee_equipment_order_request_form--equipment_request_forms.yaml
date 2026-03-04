@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Equipment Order Request Form
+    pages:
+    - id: 1
+      name: new_hire_equipment_request
+      label: New Hire Equipment Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: new_equipment_type
+      label: New Equipment Type
+      hint: null
+      type: select_multiple
+      options:
+      - Desk
+      - Laptop
+      - Chair
+      - Paper
+      - Other
+      required: false
+    - id: 3
+      name: quantity_of_equipment
+      label: Quantity of Equipment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: equipment_requested
+      label: Equipment Requested
+      hint: null
+      type: select_multiple
+      options:
+      - Desk
+      - Laptop
+      - Chair
+      - Paper
+      - Other
+      required: false
+    - id: 5
+      name: reason_for_request
+      label: Reason for Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Finance
+      - Marketing
+      - Sales
+      - Other
+      required: false
+    - id: 8
+      name: project_title
+      label: Project Title
+      hint: null
+      type: text
+      options: []
+      required: false

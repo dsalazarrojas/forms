@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tone Evaluation Form
+    pages:
+    - id: 1
+      name: writing_style
+      label: Writing Style
+      hint: null
+      type: select_multiple
+      options:
+      - Friendly
+      - Objective
+      - Informal
+      - Formal
+      required: false
+    - id: 2
+      name: communication_style
+      label: Communication Style
+      hint: null
+      type: select_multiple
+      options:
+      - Clear and concise
+      - Unclear and confusing
+      - Too short
+      - Too long
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: Provide specific examples of what the writer could improve on
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: tone
+      label: Tone
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: false
+    - id: 5
+      name: suggestions
+      label: Suggestions for improvement
+      hint: Be specific and provide concrete suggestions
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: communication_skills
+      label: Communication Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Strong
+      - Weak
+      required: false
+    - id: 7
+      name: clarity
+      label: Clarity
+      hint: null
+      type: select_multiple
+      options:
+      - Clear
+      - Not clear
+      required: false
+    - id: 8
+      name: completeness
+      label: Completeness
+      hint: null
+      type: select_multiple
+      options:
+      - Complete
+      - Not complete
+      required: false
+    - id: 9
+      name: feedback_to_writer
+      label: Feedback to the Writer
+      hint: Provide feedback on how to improve their writing and communication style
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: overall_tone
+      label: Overall Tone
+      hint: Describe the overall tone of the piece of writing
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: tone_evaluation
+      label: Tone Evaluation
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Needs improvement
+      required: false
+    - id: 12
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time_spent_reading
+      label: Time Spent Reading
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: email_to_writer
+      label: Email to Writer
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone_to_writer
+      label: Phone to Writer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: evaluation_form_completed_by
+      label: Evaluation Form Completed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: date_evaluation_completed
+      label: Date Evaluation Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: time_evaluation_completed
+      label: Time Evaluation Completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: form_completed_by
+      label: Form Completed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: evaluation_completed
+      label: Evaluation Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false

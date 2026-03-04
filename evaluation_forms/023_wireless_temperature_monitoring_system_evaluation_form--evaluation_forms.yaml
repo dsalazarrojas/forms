@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wireless Temperature Monitoring System Evaluation Form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: usability_rating
+      label: Usability Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: issue_reported
+      label: Issue Reported
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: issue_details
+      label: Issue Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: environment
+      label: Environment
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Environment A''}'
+      - '{''value'': ''Environment B''}'
+      - '{''value'': ''Environment C''}'
+      required: false
+    - id: 7
+      name: environment_details
+      label: Environment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: attachment_name
+      label: Attachment Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: attachment_description
+      label: Attachment Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: attachment_file
+      label: Attachment File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: attachment_thumbnail
+      label: Attachment Thumbnail
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: issue_resolution
+      label: Issue Resolution
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: resolution_details
+      label: Resolution Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_actions
+      label: Follow-up Actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 22
+      name: follow_up_comments
+      label: Follow-up Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_actions_justification
+      label: Follow-up Actions Justification
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: follow_up_resolution
+      label: Follow-up Resolution
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

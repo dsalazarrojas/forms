@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Unemployment Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: ssn
+      label: Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: reason_for_applying
+      label: Reason For Applying
+      hint: Please enter a reason for applying for unemployment benefits.
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: work_start_date
+      label: Work Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: work_end_date
+      label: Work End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: hours_worked
+      label: Hours Worked
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: gross_income
+      label: Gross Income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: select_reason_for_separation
+      label: Select Reason For Separation
+      hint: null
+      type: select_multiple
+      options:
+      - Fired
+      - Laid off
+      - Voluntarily left
+      - Other
+      - Reason for Separation
+      required: false
+    - id: 16
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: upload_document
+      label: Upload Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: select_document_type
+      label: Select Document Type
+      hint: null
+      type: select_one
+      options:
+      - Employment Contract
+      - W2
+      - Payroll Stub
+      required: false
+    - id: 19
+      name: document_url
+      label: Document URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: upload_proof_of_identity
+      label: Upload Proof of Identity
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: upload_proof_of_employment
+      label: Upload Proof of Employment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: upload_payroll
+      label: Upload Payroll
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: upload_employment_contract
+      label: Upload Employment Contract
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: confirm_document
+      label: Confirm Document
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Other
+      required: false
+    - id: 25
+      name: confirm_proof_of_identity
+      label: Confirm Proof of Identity
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Other
+      required: false

@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Feedback Form
+    pages:
+    - id: 1
+      name: event_title
+      label: event_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: rating_5_star_scale
+      label: rating_5_star_scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_description
+      label: event_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_presentation
+      label: event_presentation
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Poor''}'
+      required: true
+    - id: 7
+      name: event_venue
+      label: event_venue
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 8
+      name: event_presentation_quality
+      label: event_presentation_quality
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Poor''}'
+      required: true
+    - id: 9
+      name: event_services
+      label: event_services
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Poor''}'
+      required: true
+    - id: 10
+      name: event_fulfillment
+      label: event_fulfillment
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Poor''}'
+      required: true
+    - id: 11
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Poor''}'
+      required: true
+    - id: 12
+      name: event_attendance
+      label: event_attendance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 13
+      name: event_suggestion
+      label: event_suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: comment
+      label: comment
+      hint: null
+      type: text
+      options: []
+      required: false

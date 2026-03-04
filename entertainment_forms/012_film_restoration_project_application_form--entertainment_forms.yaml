@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Film Restoration Project Application Form
+    pages:
+    - id: 1
+      name: film_restoration_project_title
+      label: film restoration project title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Conservation
+      - Preservation
+      - Restoration
+      required: false
+    - id: 3
+      name: film_description
+      label: film description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_budget
+      label: project budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: project_location
+      label: project location
+      hint: null
+      type: select_multiple
+      options:
+      - London
+      - Paris
+      - Berlin
+      required: false
+    - id: 6
+      name: project_start_date
+      label: project start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: project_end_date
+      label: project end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: contact_name
+      label: contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_information
+      label: additional information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submission_terms
+      label: submission terms
+      hint: null
+      type: select_one
+      options:
+      - I have read and understood the project submission terms
+      - I have not read the project submission terms
+      required: false

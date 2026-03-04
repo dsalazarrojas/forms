@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Eyelash Extension Consultation Form
+    pages:
+    - id: 1
+      name: customer_information
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: lash_designs
+      label: Lash Designs
+      hint: What type of lash extension are you interested in?
+      type: select_one
+      options:
+      - Natural
+      - Glam
+      - Hybrid
+      - Full
+      required: false
+    - id: 4
+      name: desired_length
+      label: Desired Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: eye_type
+      label: Eye Type
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: schedule_date
+      label: Schedule Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - jennysystem
+      - other
+      required: false
+    - id: 13
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false

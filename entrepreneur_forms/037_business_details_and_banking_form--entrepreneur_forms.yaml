@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Details And Banking Form
+    pages:
+    - id: 1
+      name: business_information
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: dba_name
+      label: Doing Business As (DBA)
+      hint: If different from legal name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: business_type
+      label: Business Type
+      hint: Structure of business
+      type: select_one
+      options:
+      - Sole Proprietor
+      - Partnership
+      - Corporation
+      - LLC
+      - S-Corp
+      - Non-Profit
+      - Other
+      required: true
+    - id: 5
+      name: federal_tax_id
+      label: Federal Tax ID (EIN)
+      hint: Employer Identification Number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_established
+      label: Date Business Established
+      hint: When did business start
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: business_address
+      label: Business Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: business_city
+      label: City
+      hint: City location
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: business_state
+      label: State/Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: business_zip
+      label: ZIP/Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: industry
+      label: Industry
+      hint: Primary business sector
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: business_description
+      label: Business Description
+      hint: Description of business operations
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: owner_information
+      label: -- Owner Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: owner_name
+      label: Owner Name
+      hint: Full name of owner
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: owner_title
+      label: Owner Title
+      hint: Position of owner
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: owner_ssn
+      label: Owner Social Security Number
+      hint: SSN for documentation
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: owner_phone
+      label: Owner Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: owner_email
+      label: Owner Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: banking_details
+      label: -- Banking Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: bank_name
+      label: Bank Name
+      hint: Name of primary bank
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: account_type
+      label: Account Type
+      hint: Business account type
+      type: select_one
+      options:
+      - Checking
+      - Savings
+      - Money Market
+      - Line of Credit
+      - Other
+      required: true
+    - id: 22
+      name: account_number
+      label: Account Number
+      hint: Business account number
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: routing_number
+      label: Routing Number
+      hint: Bank routing number
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: account_status
+      label: Account Status
+      hint: Current account status
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Closed
+      - Pending
+      required: true
+    - id: 25
+      name: average_monthly_balance
+      label: Average Monthly Balance
+      hint: Typical account balance
+      type: number
+      options: []
+      required: false

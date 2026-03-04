@@ -1,0 +1,195 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Barista Evaluation Form
+    pages:
+      - id: 1
+        name: evaluation_meta_header
+        label: -- Performance Review Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: barista_name
+        label: Barista Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: manager_name
+        label: Reviewer Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: review_date
+        label: Review Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: technical_skills_header
+        label: -- Technical Proficiency (Espresso and Milk) --
+        hint: Rate from 1 (Needs Improvement) to 5 (Exceptional)
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: espresso_extraction
+        label: Espresso Dial-in and Extraction
+        hint: Ability to adjust grind and pull consistent shots
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 7
+        name: milk_steaming
+        label: Milk Steaming and Texture
+        hint: Micro-foam consistency and temperature control
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 8
+        name: latte_art
+        label: Latte Art and Presentation
+        hint: Aesthetics and cleanliness of drink presentation
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 9
+        name: drink_knowledge
+        label: Menu and Recipe Knowledge
+        hint: Understanding of specialty drink ratios and ingredients
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 10
+        name: workflow_efficiency_header
+        label: -- Workflow and Operations --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: speed_of_service
+        label: Speed of Service
+        hint: Ability to manage high volume while maintaining quality
+        type: select_one
+        options:
+          - Poor
+          - Fair
+          - Good
+          - Excellent
+        required: true
+      - id: 12
+        name: bar_cleanliness
+        label: Bar Sanitation and Organization
+        hint: Keeping the station clean during and between rushes
+        type: select_one
+        options:
+          - Poor
+          - Fair
+          - Good
+          - Excellent
+        required: true
+      - id: 13
+        name: customer_service_header
+        label: -- Customer Service and Soft Skills --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: client_interaction
+        label: Customer Interaction and Friendliness
+        hint: Greeting, eye contact, and rapport building
+        type: select_one
+        options:
+          - Poor
+          - Fair
+          - Good
+          - Excellent
+        required: true
+      - id: 15
+        name: team_collaboration
+        label: Teamwork and Communication
+        hint: Supporting fellow baristas and floor staff
+        type: select_one
+        options:
+          - Poor
+          - Fair
+          - Good
+          - Excellent
+        required: true
+      - id: 16
+        name: strengths_summary
+        label: Key Strengths
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: development_areas
+        label: Areas for Improvement
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: overall_rating
+        label: Overall Performance Rating
+        hint: null
+        type: select_one
+        options:
+          - Unsatisfactory
+          - Meeting Expectations
+          - Exceeding Expectations
+        required: true
+      - id: 19
+        name: manager_signature
+        label: Manager Signature (Type Name)
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: barista_comments
+        label: Barista Self-Reflection or Comments
+        hint: null
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,73 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Consulting Engagement Effectiveness Survey
+    pages:
+      - id: 1
+        name: section_engagement_overview
+        label: -- Engagement Overview --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: client_name
+        label: Client name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: project_scope
+        label: Project scope
+        hint: Brief description of engagement
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: achieved_objectives
+        label: Achieved objectives
+        hint: To what extent objectives were met
+        type: select_one
+        options:
+          - All objectives met
+          - Most objectives met
+          - Some objectives met
+          - Objectives not met
+        required: true
+      - id: 5
+        name: stakeholder_satisfaction
+        label: Stakeholder satisfaction
+        hint: Overall satisfaction from stakeholders
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+        required: true
+      - id: 6
+        name: measurable_outcomes
+        label: Measurable outcomes
+        hint: Key metrics improved as a result of engagement
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: lessons_learned
+        label: Lessons learned
+        hint: Important lessons or observations
+        type: text
+        options: []
+        required: false

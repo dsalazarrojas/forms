@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_positive_reply_form
+    pages:
+    - id: 1
+      name: client_feedback
+      label: Client Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: How would you rate your experience?
+      hint: null
+      type: select_one
+      options:
+      - 1 - Very Satisfied
+      - 2 - Somewhat Satisfied
+      - 3 - Neutral
+      - 4 - Somewhat Dissatisfied
+      - 5 - Very Dissatisfied
+      required: false
+    - id: 3
+      name: feedback
+      label: What did we do well?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: improvement_points
+      label: What could we improve on?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_details
+      label: How can we contact you?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: real_estate_agent_name
+      label: Real Estate Agent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_time
+      label: Date and Time
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,80 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: mining_equipment_inspection_form
+    pages:
+    - id: 1
+      name: page_1
+      label: Mining Equipment Inspection
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: equipment_type
+      label: Equipment Type
+      hint: What type of equipment is being inspected?
+      type: select_one
+      options:
+      - Mining Equipment
+      - Heavy Equipment
+      - Other Equipment
+      - Equipment Type
+      required: false
+    - id: 4
+      name: equipment_status
+      label: Equipment Status
+      hint: Is the equipment operational?
+      type: select_one
+      options:
+      - Operational
+      - Non-Operational
+      - Offline
+      - Maintenance
+      required: true
+    - id: 5
+      name: inspection_date
+      label: Inspection Date
+      hint: Date of inspection
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: inspector_name
+      label: Inspector's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: Additional comments about equipment condition
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: page_2
+      label: page_2
+      hint: null
+      type: note
+      options: []
+      required: false

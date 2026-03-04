@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skin Care Consultation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: skin_type
+      label: skin type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Normal'', ''label'': ''Normal''}'
+      - '{''id'': 2, ''name'': ''Sensitive'', ''label'': ''Sensitive''}'
+      - '{''id'': 3, ''name'': ''Oily'', ''label'': ''Oily''}'
+      - '{''id'': 4, ''name'': ''Dry'', ''label'': ''Dry''}'
+      - '{''id'': 5, ''name'': ''Acne'', ''label'': ''Acne''}'
+      required: false
+    - id: 6
+      name: skin_condition
+      label: skin condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_conditions
+      label: medical conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: allergies
+      label: allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medications
+      label: medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_notes
+      label: medical notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: skin_history
+      label: skin history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: health_insurance
+      label: health insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: insurance_provider
+      label: insurance provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: appointment_date
+      label: appointment date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: appointment_time
+      label: appointment time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: next_appointment
+      label: next appointment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: appointment_status
+      label: appointment status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Scheduled'', ''label'': ''Scheduled''}'
+      - '{''id'': 2, ''name'': ''Completed'', ''label'': ''Completed''}'
+      - '{''id'': 3, ''name'': ''Canceled'', ''label'': ''Canceled''}'
+      - '{''id'': 4, ''name'': ''Rescheduled'', ''label'': ''Rescheduled''}'
+      - '{''id'': 5, ''name'': ''No appointment'', ''label'': ''No appointment''}'
+      required: false

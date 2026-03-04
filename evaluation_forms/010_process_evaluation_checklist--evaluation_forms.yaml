@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Process Evaluation Checklist
+    pages:
+    - id: 1
+      name: process_evaluation_form
+      label: Process Evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: process_evaluation_checklist
+      label: Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: evaluation_scope
+      label: Evaluation Scope
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: evaluated_processes
+      label: Evaluated Processes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: evaluation_form
+      label: Evaluation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: evaluation_method
+      label: Evaluation Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: frequency_of_evaluation
+      label: Frequency of Evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_frequency
+      label: Evaluation Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Biannually
+      - Yearly
+      required: false
+    - id: 9
+      name: evaluation_cycle
+      label: Evaluation Cycle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: evaluation_cycle_length
+      label: Evaluation Cycle Length
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: review_and_revision_cycle
+      label: Review and Revision Cycle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: review_frequency
+      label: Review Frequency
+      hint: null
+      type: select_one
+      options:
+      - After each evaluation cycle
+      - At the end of each quarter
+      - At the end of each year
+      required: false
+    - id: 13
+      name: review_process
+      label: Review Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: review_process_frequency
+      label: Review Process Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: evaluation_scope_frequency
+      label: Evaluation Scope Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Biannually
+      - Yearly
+      required: false
+    - id: 16
+      name: evaluated_processes_frequencies
+      label: Evaluated Processes Frequencies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: process_improvement_actions
+      label: Process Improvement Actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: evaluation_status
+      label: Evaluation Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 19
+      name: next_evaluation_due_date
+      label: Next Evaluation Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: next_evaluation_due_time
+      label: Next Evaluation Due Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: evaluated_processes_status
+      label: Evaluated Processes Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 23
+      name: evaluation_cycle_status
+      label: Evaluation Cycle Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 24
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 25
+      name: final_evaluation_status
+      label: Final Evaluation Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

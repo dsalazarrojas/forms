@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Impact Survey For Businesses
+    pages:
+    - id: 1
+      name: section_business_details
+      label: -- Business Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: owner_name
+      label: Owner or Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: owner_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: owner_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: industry
+      label: Industry or Business Sector
+      hint: null
+      type: select_one
+      options:
+      - Retail
+      - Food Service
+      - Hospitality
+      - Healthcare
+      - Manufacturing
+      - Technology
+      - Professional Services
+      - Education
+      - Other
+      required: true
+    - id: 7
+      name: business_size
+      label: Business Size
+      hint: null
+      type: select_one
+      options:
+      - Solo entrepreneur
+      - 2-10 employees
+      - 11-50 employees
+      - 51-100 employees
+      - Over 100 employees
+      required: true
+    - id: 8
+      name: section_pandemic_impact
+      label: -- Pandemic Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: revenue_change
+      label: How has COVID-19 impacted your revenue?
+      hint: null
+      type: select_one
+      options:
+      - Increased significantly
+      - Increased slightly
+      - No change
+      - Decreased slightly
+      - Decreased significantly
+      required: true
+    - id: 10
+      name: revenue_percentage
+      label: Approximate percentage change
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: business_closure
+      label: Has your business been forced to close?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - Temporarily
+      - Permanently
+      required: true
+    - id: 12
+      name: closure_duration
+      label: Duration of closure (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employee_impact
+      label: Impact on employees
+      hint: null
+      type: select_multiple
+      options:
+      - Layoffs
+      - Furloughs
+      - Reduced hours
+      - Salary cuts
+      - Remote work transition
+      - No staff changes
+      required: true
+    - id: 14
+      name: section_operational_changes
+      label: -- Operational Changes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: operational_modifications
+      label: What operational changes have you made?
+      hint: null
+      type: select_multiple
+      options:
+      - Online sales or services
+      - Delivery options
+      - Curbside pickup
+      - Capacity reductions
+      - Safety protocols
+      - No changes
+      - Other
+      required: true
+    - id: 16
+      name: technology_investment
+      label: Have you invested in technology or digital tools?
+      hint: null
+      type: select_one
+      options:
+      - Yes, significantly
+      - Yes, somewhat
+      - false
+      required: false
+    - id: 17
+      name: section_recovery_outlook
+      label: -- Recovery and Future Outlook --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: recovery_confidence
+      label: How confident are you in recovery?
+      hint: null
+      type: select_one
+      options:
+      - Very confident
+      - Somewhat confident
+      - Neutral
+      - Somewhat uncertain
+      - Very uncertain
+      required: true
+    - id: 19
+      name: government_support
+      label: Have you received government assistance?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Applied but not approved
+      - Still applying
+      required: false
+    - id: 20
+      name: additional_support_needed
+      label: What additional support would help most?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: survey_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: true

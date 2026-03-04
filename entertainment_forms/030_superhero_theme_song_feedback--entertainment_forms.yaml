@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Superhero Theme Song Feedback
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: theme_songs
+      label: Theme Song Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: favorite_artist
+      label: Favorite Artist
+      hint: null
+      type: select_one
+      options:
+      - Apple
+      - Bob
+      - Cat
+      - Elvis
+      - Elvis Costello
+      - Foo
+      - John
+      - Jon
+      - Madonna
+      - Michael
+      - Michael Bland
+      - Mickey
+      - Pink
+      - Ray
+      - Stevie
+      - The Beatles
+      - Tina
+      - U2
+      - Weird
+      - Ziggy
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - Submit
+      - Another option
+      - Yet another option
+      required: false

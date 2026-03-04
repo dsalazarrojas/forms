@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Waxing Consultation Form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: wax_type
+      label: wax_type
+      hint: null
+      type: select_one
+      options:
+      - Brazilian
+      - Bikini
+      - Eyebrow
+      - Lip
+      - Eyelashes
+      required: true
+    - id: 6
+      name: areas_to_wax
+      label: areas_to_wax
+      hint: null
+      type: select_multiple
+      options:
+      - Face
+      - Bikini
+      - Underarms
+      - Eyebrows
+      - Lips
+      - Feet
+      - Toes
+      required: true
+    - id: 7
+      name: wax_contraindications
+      label: wax_contraindications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: allergies
+      label: allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 10
+      name: appointment_time
+      label: appointment_time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: appointment_date
+      label: appointment_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: true

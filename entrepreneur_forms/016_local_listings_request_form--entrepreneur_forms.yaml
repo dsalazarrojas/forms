@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: local_listings_request_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: business_type
+      label: Business Type
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Retailer''}'
+      - '{''option2'': ''Restaurant''}'
+      - '{''option3'': ''Service''}'
+      required: true
+    - id: 8
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''option1''}'
+      - '{''option2'': ''option2''}'
+      - '{''option3'': ''option4''}'
+      required: true
+    - id: 9
+      name: sub_category
+      label: Sub Category
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''option1''}'
+      - '{''option2'': ''option2''}'
+      - '{''option3'': ''option4''}'
+      required: true
+    - id: 10
+      name: url
+      label: URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: image
+      label: Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false

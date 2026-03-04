@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hockey Tryout Evaluation Form
+    pages:
+    - id: 1
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tryout_date
+      label: Tryout Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: player_number
+      label: Player Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: position_evaluated
+      label: Position Evaluated
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: skills
+      label: Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assessor
+      hint: null
+      type: text
+      options: []
+      required: false

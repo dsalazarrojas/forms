@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Event Registration
+    pages:
+    - id: 1
+      name: event_planner_name
+      label: Event Planners Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: venue_name
+      label: Venue Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: performance_details
+      label: Performance Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: required_skills
+      label: Required Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Singer
+      - Dancer
+      - Performer
+      required: false
+    - id: 5
+      name: preferred_date
+      label: Preferred Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: available_date
+      label: Available Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: requirements
+      label: Requirements
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

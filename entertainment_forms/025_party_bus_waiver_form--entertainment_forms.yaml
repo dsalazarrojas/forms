@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Party Bus Waiver Form
+    pages:
+    - id: 1
+      name: party_bus_waiver_form
+      label: Party Bus Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: bus_type
+      label: Bus Model
+      hint: Please select the type of party bus you are renting
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: bus_capacity
+      label: Bus Capacity
+      hint: Please select the capacity of the party bus you are renting
+      type: select_one
+      options:
+      - '20'
+      - '30'
+      - '40'
+      - '50'
+      required: false
+    - id: 4
+      name: bus_equipment
+      label: Bus Equipment
+      hint: Please select the equipment you want to have on your party bus
+      type: select_multiple
+      options:
+      - Stereo
+      - DVD Player
+      - Dance Floor
+      - Restroom
+      required: false
+    - id: 5
+      name: party_bus_waiver_form_agreement
+      label: Party Bus Waiver Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: signature
+      label: Signature
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: signature_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: party_bus_waiver_form_agreement_signature
+      label: Party Bus Waiver Form Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: bus_license
+      label: Bus License
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: bus_operating_hours
+      label: Bus Operating Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: party_bus_waiver_form_review
+      label: Party Bus Waiver Form Review
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact
+      label: Emergency Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_employer
+      label: Employer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emergency_contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: emergency_contact_employer_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact_employer_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: emergency_contact_employer_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false

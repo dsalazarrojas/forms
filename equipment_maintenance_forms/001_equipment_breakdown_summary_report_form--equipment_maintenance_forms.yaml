@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Equipment Breakdown Summary Report Form
+    pages:
+    - id: 1
+      name: summary_page
+      label: summary
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: equipment_page
+      label: equipment
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''1'', ''label'': ''Option 1'', ''value'': ''Option 1''}'
+      - '{''id'': ''2'', ''label'': ''Option 2'', ''value'': ''Option 2''}'
+      required: false
+    - id: 3
+      name: failure_reason_page
+      label: failure_reason
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''1'', ''label'': ''Option 1'', ''value'': ''Option 1''}'
+      - '{''id'': ''2'', ''label'': ''Option 2'', ''value'': ''Option 2''}'
+      - '{''id'': ''3'', ''label'': ''Option 3'', ''value'': ''Option 3''}'
+      required: true
+    - id: 4
+      name: incident_date_page
+      label: incident_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: incident_time_page
+      label: incident_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: repair_details_page
+      label: repair_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: repair_cost_page
+      label: repair_cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: store_incident_history_page
+      label: store_incident_history
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''1'', ''label'': ''Option 1'', ''value'': ''Option 1''}'
+      - '{''id'': ''2'', ''label'': ''Option 2'', ''value'': ''Option 2''}'
+      required: true
+    - id: 9
+      name: notes_page
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

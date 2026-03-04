@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Headphone Rental Agreement
+    pages:
+    - id: 1
+      name: rental_details
+      label: Rental Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: equipment_details
+      label: Equipment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rental_agreement
+      label: Rental Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: user_signature
+      label: User Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - Headphones
+      - Earbuds
+      - Speakers
+      - Microphone
+      required: false
+    - id: 11
+      name: equipment_quantity
+      label: Equipment Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: equipment_condition
+      label: Equipment Condition
+      hint: null
+      type: select_multiple
+      options:
+      - New
+      - Like New
+      - Gently Used
+      - Fair
+      - Poor
+      required: false
+    - id: 13
+      name: user_responsibility
+      label: User Responsibility
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Partially
+      required: false
+    - id: 14
+      name: rental_duration
+      label: Rental Duration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: rental_price
+      label: Rental Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: rental_terms
+      label: Rental Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: return_condition
+      label: Return Condition
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Like New
+      - Used
+      - Damaged
+      - Lost
+      required: false
+    - id: 20
+      name: user_notes
+      label: User Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: late_fee
+      label: Late Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Credit Card
+      - Bank Transfer
+      - PayPal
+      required: false

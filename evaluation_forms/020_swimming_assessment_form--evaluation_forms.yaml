@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Swimming Assessment Form
+    pages:
+    - id: 1
+      name: swimmer_information
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: swimmer_information_2
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: swimmer_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: swimmer_gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: swimmer_contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: swimmer_emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: swimmer_medical_info
+      label: Medical Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: swimmer_assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: swimmer_time_in_pools
+      label: Time in Pools
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: swimmer_water_depth
+      label: Water Depth
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: swimmer_water_temperature
+      label: Water Temperature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: swimmer_water_type
+      label: Water Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: swimmer_swim_frequency
+      label: Swim Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: swimmer_swim_style
+      label: Swim Style
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: swimmer_swim_strokes
+      label: Swim Strokes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

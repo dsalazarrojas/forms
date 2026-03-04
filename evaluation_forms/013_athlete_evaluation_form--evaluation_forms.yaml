@@ -1,0 +1,237 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Evaluation Form
+    pages:
+      - id: 1
+        name: general_info_header
+        label: -- Evaluation Overview --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: athlete_name
+        label: Athlete Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: team_name
+        label: Team or Division
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: evaluator_name
+        label: Evaluator Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: evaluation_period
+        label: Evaluation Period
+        hint: e.g. Pre-season, Mid-season, Final Review
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: physical_attributes_header
+        label: -- Physical Attributes --
+        hint: Scale of 1 to 5 - 1 is Poor, 5 is Exceptional
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: speed_agility
+        label: Speed and Agility
+        hint: null
+        type: select_one
+        options:
+          - 1 - Below Average
+          - 2 - Average
+          - 3 - Good
+          - 4 - Very Good
+          - 5 - Exceptional
+        required: true
+      - id: 8
+        name: strength_power
+        label: Strength and Power
+        hint: null
+        type: select_one
+        options:
+          - 1 - Below Average
+          - 2 - Average
+          - 3 - Good
+          - 4 - Very Good
+          - 5 - Exceptional
+        required: true
+      - id: 9
+        name: stamina_endurance
+        label: Stamina and Endurance
+        hint: null
+        type: select_one
+        options:
+          - 1 - Below Average
+          - 2 - Average
+          - 3 - Good
+          - 4 - Very Good
+          - 5 - Exceptional
+        required: true
+      - id: 10
+        name: flexibility_rating
+        label: Flexibility and Mobility
+        hint: null
+        type: select_one
+        options:
+          - 1 - Below Average
+          - 2 - Average
+          - 3 - Good
+          - 4 - Very Good
+          - 5 - Exceptional
+        required: true
+      - id: 11
+        name: skill_technique_header
+        label: -- Skill and Technique --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: technical_execution
+        label: Technical Execution of Skills
+        hint: Sport-specific mechanics
+        type: select_one
+        options:
+          - 1 - Needs Improvement
+          - 2 - Satisfactory
+          - 3 - Proficient
+          - 4 - Advanced
+          - 5 - Mastery
+        required: true
+      - id: 13
+        name: tactical_awareness
+        label: Tactical Awareness
+        hint: Understanding of game strategy
+        type: select_one
+        options:
+          - 1 - Needs Improvement
+          - 2 - Satisfactory
+          - 3 - Proficient
+          - 4 - Advanced
+          - 5 - Mastery
+        required: true
+      - id: 14
+        name: decision_making
+        label: Decision Making Under Pressure
+        hint: null
+        type: select_one
+        options:
+          - 1 - Needs Improvement
+          - 2 - Satisfactory
+          - 3 - Proficient
+          - 4 - Advanced
+          - 5 - Mastery
+        required: true
+      - id: 15
+        name: attitude_header
+        label: -- Attitude and Work Ethic --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: discipline_focus
+        label: Discipline and Focus
+        hint: null
+        type: select_one
+        options:
+          - 1 - Inconsistent
+          - 2 - Developing
+          - 3 - Reliable
+          - 4 - Highly Focused
+          - 5 - Role Model
+        required: true
+      - id: 17
+        name: teamwork_communication
+        label: Teamwork and Communication
+        hint: null
+        type: select_one
+        options:
+          - 1 - Inconsistent
+          - 2 - Developing
+          - 3 - Reliable
+          - 4 - Highly Focused
+          - 5 - Role Model
+        required: true
+      - id: 18
+        name: coachability_rating
+        label: Response to Coaching and Feedback
+        hint: null
+        type: select_one
+        options:
+          - 1 - Inconsistent
+          - 2 - Developing
+          - 3 - Reliable
+          - 4 - Highly Focused
+          - 5 - Role Model
+        required: true
+      - id: 19
+        name: punctuality_rating
+        label: Punctuality and Attendance
+        hint: null
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Fair
+          - 3 - Good
+          - 4 - Very Good
+          - 5 - Excellent
+        required: true
+      - id: 20
+        name: overall_rating
+        label: Overall Performance Rating
+        hint: Final assessment of this period
+        type: select_one
+        options:
+          - 1 - Below Expectations
+          - 2 - Meets Expectations
+          - 3 - Exceeds Expectations
+          - 4 - Outstanding
+          - 5 - Elite Performance
+        required: true
+      - id: 21
+        name: key_strengths
+        label: Key Strengths
+        hint: What makes this athlete stand out?
+        type: text
+        options: []
+        required: true
+      - id: 22
+        name: development_areas
+        label: Recommended Areas for Development
+        hint: specific goals for improvement
+        type: text
+        options: []
+        required: true
+      - id: 23
+        name: evaluation_date
+        label: Date of Evaluation
+        hint: null
+        type: date
+        options: []
+        required: true

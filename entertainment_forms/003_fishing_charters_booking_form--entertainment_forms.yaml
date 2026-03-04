@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: fishing_charters_booking_form
+    pages:
+    - id: 1
+      name: booking_details
+      label: Booking details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: charter_details
+      label: Charter details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guest_details
+      label: Guest details
+      hint: null
+      type: select_one
+      options:
+      - '{''Guest type'': ''Individual''}'
+      - '{''Guest type'': ''Group''}'
+      required: true
+    - id: 4
+      name: contact_details
+      label: Contact details
+      hint: null
+      type: text
+      options: []
+      required: true

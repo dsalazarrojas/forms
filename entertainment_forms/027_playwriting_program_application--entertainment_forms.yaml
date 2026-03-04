@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Playwriting Program Application
+    pages:
+    - id: 1
+      name: playwright_details
+      label: playwright_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: writing_samples
+      label: writing_samples
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: workshop_labs
+      label: workshop_labs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: motivation
+      label: motivation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization_type
+      label: organization_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: theater_type
+      label: theater_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: school_type
+      label: school_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: arts_organ
+      label: arts_organization
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: workshop_labs_details
+      label: workshop_labs_details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

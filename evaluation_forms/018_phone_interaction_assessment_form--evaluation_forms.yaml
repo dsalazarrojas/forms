@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: phone_interaction_assessment_form
+    pages:
+    - id: 1
+      name: customer_service_representative
+      label: customer_service_representative
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: was_the_csr_helpful
+      label: was_the_csr_helpful
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''yes'', ''value'': ''yes''}'
+      - '{''label'': ''no'', ''value'': ''no''}'
+      required: true
+    - id: 5
+      name: resolution
+      label: resolution
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''resolved'', ''value'': ''resolved''}'
+      - '{''label'': ''unresolved'', ''value'': ''unresolved''}'
+      required: true
+    - id: 6
+      name: follow_up_needed
+      label: follow_up_needed
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''yes'', ''value'': ''yes''}'
+      - '{''label'': ''no'', ''value'': ''no''}'
+      required: true
+    - id: 7
+      name: follow_up_reason
+      label: follow_up_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_time
+      label: follow_up_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: csr_name
+      label: csr_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: csr_email
+      label: csr_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: csr_phone
+      label: csr_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: call_date
+      label: call_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: call_time
+      label: call_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: duration
+      label: duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: quality
+      label: quality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: attachment
+      label: attachment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

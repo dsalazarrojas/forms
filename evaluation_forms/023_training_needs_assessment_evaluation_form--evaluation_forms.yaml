@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: training_needs_assessment_evaluation_form
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: training_needs
+      label: training_needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: training_level
+      label: training_level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 4
+      name: evaluation_date
+      label: evaluation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: evaluation_time
+      label: evaluation_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: evaluation_notes
+      label: evaluation_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: training_needs_justification
+      label: training_needs_justification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: evaluation_form_submitted
+      label: evaluation_form_submitted
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: evaluation_status
+      label: evaluation_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: submission_id
+      label: submission_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submission_status
+      label: submission_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: halloween_quiz
+    pages:
+    - id: 1
+      name: halloween_1
+      label: What is your favorite Halloween movie
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: halloween_2
+      label: What is your favorite Halloween character
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Pumpkin King''}'
+      - '{''id'': 2, ''label'': ''Ghostbusters''}'
+      - '{''id'': 3, ''label'': ''Freddy Krueger''}'
+      required: false
+    - id: 3
+      name: halloween_3
+      label: Which type of candy do you prefer
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': "Reese''s Pieces"}'
+      - '{''id'': 2, ''label'': "M&M''s"}'
+      - '{''id'': 3, ''label'': ''Snickers''}'
+      required: false
+    - id: 4
+      name: halloween_4
+      label: What is your age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: halloween_5
+      label: How much would you like to spend
+      hint: null
+      type: number
+      options: []
+      required: false

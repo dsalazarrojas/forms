@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Performance Questionnaire
+    pages:
+    - id: 1
+      name: performance_questionnaire_intro
+      label: Academic Performance Questionnaire
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: Full name of the student being evaluated
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID
+      hint: Official student identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: course_name
+      label: Course Name
+      hint: Name of the course being evaluated
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: instructor_name
+      label: Instructor Name
+      hint: Name of the course instructor
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: academic_term
+      label: Academic Term
+      hint: Semester, quarter, or term of the course
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: overall_performance_rating
+      label: Overall Performance Rating
+      hint: Rate the student's overall academic performance (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: attendance_regular_rating
+      label: Attendance Regularity Rating
+      hint: Rate the student's attendance and punctuality (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: assignment_completion_rating
+      label: Assignment Completion Rating
+      hint: Rate the student's completion of assignments (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: quality_of_work_rating
+      label: Quality of Work Rating
+      hint: Rate the quality of the student's work (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: participation_engagement_rating
+      label: Participation and Engagement Rating
+      hint: Rate the student's classroom participation and engagement (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: critical_thinking_rating
+      label: Critical Thinking Rating
+      hint: Rate the student's critical thinking abilities (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: collaboration_skills_rating
+      label: Collaboration Skills Rating
+      hint: Rate the student's ability to work with others (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: improvement_over_time_rating
+      label: Improvement Over Time Rating
+      hint: Rate the student's improvement throughout the course (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: strengths_identified
+      label: Key Strengths Identified
+      hint: What are the student's primary academic strengths?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: What areas should the student focus on improving?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: recommendations_for_future
+      label: Recommendations for Future
+      hint: What recommendations do you have for the student's continued academic
+        success?
+      type: text
+      options: []
+      required: false

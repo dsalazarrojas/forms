@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baby Shower Checklist Template
+    pages:
+    - id: 1
+      name: organizer_name
+      label: Organizer name
+      hint: Event planner or host
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_event
+      label: Date of event
+      hint: Event date
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: venue
+      label: Venue
+      hint: Location of the baby shower
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: guest_list_count
+      label: Number of guests invited
+      hint: Estimated headcount
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: catering_arranged
+      label: Catering arranged
+      hint: Select if catering is booked
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 6
+      name: decorations_needed
+      label: Decorations needed
+      hint: Balloons banners tableware
+      type: select_multiple
+      options:
+      - Balloons
+      - Banners
+      - Tableware
+      - Centerpieces
+      required: false
+    - id: 7
+      name: games_planned
+      label: Games and activities planned
+      hint: List planned games
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: gift_tracking
+      label: Gift tracking method
+      hint: How gifts will be recorded
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: budget_estimate
+      label: Estimated budget
+      hint: Estimated total cost
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: final_checklist
+      label: Final checklist notes
+      hint: Last minute items to confirm
+      type: note
+      options: []
+      required: false

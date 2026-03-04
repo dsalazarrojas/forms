@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Opportunity Enrollment Form
+    pages:
+    - id: 1
+      name: volunteer_opportunity_enrollment_form
+      label: Volunteer Opportunity Enrollment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: volunteer_opportunity_enrollment_start_date
+      label: Volunteer Opportunity Enrollment Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: volunteer_opportunity_enrollment_end_date
+      label: Volunteer Opportunity Enrollment End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: volunteer_opportunity_enrollment_time
+      label: Volunteer Opportunity Enrollment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: volunteer_opportunity_enrollment_frequency
+      label: Volunteer Opportunity Enrollment Frequency
+      hint: null
+      type: select_one
+      options:
+      - Every day
+      - Every other day
+      - Every week
+      - Every two weeks
+      - Every month
+      required: true
+    - id: 10
+      name: volunteer_opportunity_enrollment_status
+      label: Volunteer Opportunity Enrollment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: volunteer_opportunity_enrollment_type
+      label: Volunteer Opportunity Enrollment Type
+      hint: null
+      type: select_one
+      options:
+      - Virtual
+      - On-site
+      required: true
+    - id: 12
+      name: volunteer_opportunity_enrollment_comments
+      label: Volunteer Opportunity Enrollment Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: volunteer_opportunity_enrollment_agreed_to_terms
+      label: Volunteer Opportunity Enrollment Agreed To Terms
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: volunteer_opportunity_enrollment_volunteer_name
+      label: Volunteer Opportunity Enrollment Volunteer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: volunteer_opportunity_enrollment_volunteer_email
+      label: Volunteer Opportunity Enrollment Volunteer Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: volunteer_opportunity_enrollment_volunteer_phone
+      label: Volunteer Opportunity Enrollment Volunteer Phone
+      hint: null
+      type: text
+      options: []
+      required: false

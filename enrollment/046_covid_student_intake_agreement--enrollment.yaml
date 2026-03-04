@@ -1,0 +1,218 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID Student Intake Agreement
+    pages:
+    - id: 1
+      name: student_info_header
+      label: -- Student Information --
+      hint: Please provide your personal details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_full_name
+      label: Student Full Name
+      hint: Your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_date_of_birth
+      Label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: student_grade_level
+      label: Grade Level or Class Year
+      hint: Your current grade or year
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: student_student_id
+      Label: Student ID Number
+      hint: Your school student ID
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_email
+      label: Student Email
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: parent_info_header
+      Label: -- Parent or Guardian Information --
+      hint: Contact information for parent or guardian
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: parent_full_name
+      label: Parent or Guardian Name
+      hint: Name of parent or legal guardian
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: parent_email
+      Label: Parent or Guardian Email
+      hint: Parent's email address
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: parent_phone
+      label: Parent or Guardian Phone
+      hint: Parent's contact number
+      type: phone
+      options: []
+      required: true
+    - id: 11
+      name: health_screening_header
+      Label: -- COVID-19 Health Screening --
+      hint: Important health questions
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: student_current_symptoms
+      label: Student Currently Has COVID-19 Symptoms
+      hint: Any fever, cough, or other symptoms
+      type: select_one
+      options:
+        - No symptoms
+        - Mild symptoms
+        - Moderate symptoms
+        - Severe symptoms
+      required: true
+    - id: 13
+      name: student_exposed_positive
+      Label: Exposed to Someone Positive in Last 14 Days
+      hint: Close contact with COVID-positive person
+      type: select_one
+      options:
+        - No exposure
+        - Possible exposure
+        - Confirmed exposure
+      required: true
+    - id: 14
+      name: student_tested_positive
+      label: Student Recently Tested Positive
+      hint: Any positive COVID-19 test recently
+      type: select_one
+      options:
+        - Never tested positive
+        - Tested positive - recovered
+        - Recently tested positive
+        - Unsure
+      required: true
+    - id: 15
+      name: student_positive_test_date
+      Label: Date of Positive Test if Applicable
+      hint: When student tested positive
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: student_vaccination_status
+      label: COVID-19 Vaccination Status
+      hint: Student's vaccination status
+      type: select_one
+      options:
+        - Fully vaccinated and boosted
+        - Fully vaccinated, not boosted
+        - Partially vaccinated
+        - Not vaccinated
+        - Prefer not to disclose
+      required: true
+    - id: 17
+      name: medical_conditions_header
+      Label: -- Medical Conditions --
+      hint: Student's relevant health conditions
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: student_chronic_conditions
+      label: Student Has Chronic Medical Conditions
+      hint: Any ongoing health conditions
+      type: select_one
+      options:
+        - No chronic conditions
+        - Has chronic conditions
+        - Prefer not to disclose
+      required: true
+    - id: 19
+      name: student_condition_details
+      Label: If Yes, Please Describe Conditions
+      hint: Details about health conditions
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: student_medication_allergies
+      label: Medication or Vaccine Allergies
+      hint: Any known allergies
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: parent_agreement_header
+      Label: -- Parent Agreement --
+      hint: Parent or guardian acknowledgment
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: parent_covid_understanding
+      label: Parent Understands COVID-19 Risks
+      hint: Parent acknowledges risks and safety measures
+      type: select_one
+      options:
+        - Yes, I understand
+        - I have questions
+        - No
+      required: true
+    - id: 23
+      name: parent_health_compliance
+      Label: Student Will Follow Health and Safety Guidelines
+      hint: Parent agrees child will follow rules
+      type: select_one
+      options:
+        - Yes, I agree
+        - I have concerns
+        - No
+      required: true
+    - id: 24
+      name: parent_intake_completion
+      label: I Certify Information Provided is Accurate
+      hint: Parent confirms truthfulness of information
+      type: select_one
+      options:
+        - I certify information is accurate
+        - Some information needs correction
+      required: true
+    - id: 25
+      name: agreement_date
+      Label: Date of Intake Agreement
+      hint: Date parent/guardian signs
+      type: date
+      options: []
+      required: true

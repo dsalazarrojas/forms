@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Technical Co-Founder Evaluation Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: candidate_info
+      label: Candidate Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: technical_ability
+      label: Technical Ability
+      hint: null
+      type: select_multiple
+      options:
+      - Proficient
+      - Advanced
+      - Expert
+      required: true
+    - id: 4
+      name: leadership_skills
+      label: Leadership Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Strong
+      - Average
+      - Weak
+      required: true
+    - id: 5
+      name: project_fits
+      label: Project Fit
+      hint: null
+      type: select_multiple
+      options:
+      - Strong
+      - Average
+      - Weak
+      required: true
+    - id: 6
+      name: communication_skills
+      label: Communication Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: problem_solving
+      label: Problem Solving
+      hint: null
+      type: select_multiple
+      options:
+      - Strong
+      - Average
+      - Weak
+      required: true
+    - id: 8
+      name: teamwork
+      label: Teamwork
+      hint: null
+      type: select_multiple
+      options:
+      - Strong
+      - Average
+      - Weak
+      required: true
+    - id: 9
+      name: time_management
+      label: Time Management
+      hint: null
+      type: select_multiple
+      options:
+      - Strong
+      - Average
+      - Weak
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email_input
+      label: Candidate Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone_input
+      label: Candidate Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: final_comments
+      label: Final Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: candidate_info_2
+      label: Candidate Information 2
+      hint: null
+      type: text
+      options: []
+      required: false

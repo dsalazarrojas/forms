@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: SPA Evaluation Form
+    pages:
+    - id: 1
+      name: form_title
+      label: spaevaluationform
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_condition
+      label: medicalcondition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: product_name
+      label: productname
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: product_details
+      label: productdetails
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: product_description
+      label: productdescription
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: product_price
+      label: productprice
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: product_rating
+      label: productrating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: product_recommendation
+      label: productrecommendation
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 9
+      name: customer_name
+      label: customername
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: customer_email
+      label: customeremail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: customer_phone
+      label: customerphone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: customer_medical_history
+      label: customermedicalhistory
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: customer_comment
+      label: customercomment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer_services
+      label: customerservices
+      hint: null
+      type: select_multiple
+      options:
+      - facial
+      - massages
+      - tanning
+      required: false
+    - id: 15
+      name: customer_services_other
+      label: customerservicesother
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: form_comments
+      label: formcomments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: form_signature
+      label: formsignature
+      hint: null
+      type: note
+      options: []
+      required: false

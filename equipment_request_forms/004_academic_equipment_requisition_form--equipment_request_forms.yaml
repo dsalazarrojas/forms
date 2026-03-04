@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Equipment Requisition Form
+    pages:
+    - id: 1
+      name: requisition_intro
+      label: Academic Equipment Requisition Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester Name
+      hint: Full name of the person requesting equipment
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Requester Email
+      hint: Institutional email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_department
+      label: Department
+      hint: Academic department or unit requesting equipment
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: requester_position
+      label: Position/Title
+      hint: Your role in the department
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: equipment_category
+      label: Equipment Category
+      hint: Type of equipment being requested
+      type: select_one
+      options:
+      - Laboratory Equipment
+      - Computer Hardware
+      - Audiovisual Equipment
+      - Scientific Instruments
+      - Office Equipment
+      - Medical Equipment
+      - Other
+      required: true
+    - id: 7
+      name: equipment_name
+      label: Equipment Name
+      hint: Specific name or model of the equipment
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: equipment_manufacturer
+      label: Manufacturer
+      hint: Company that makes the equipment
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: equipment_model_number
+      label: Model Number
+      hint: Specific model number if known
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: equipment_quantity
+      label: Quantity Needed
+      hint: How many units of this equipment are required?
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: estimated_cost
+      label: Estimated Cost Per Unit
+      hint: Approximate cost of one unit of equipment
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: funding_source
+      label: Funding Source
+      hint: How will this purchase be funded?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: justification
+      label: Justification for Request
+      hint: Explain why this equipment is needed for academic purposes
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: intended_use
+      label: Intended Use
+      hint: Describe how the equipment will be used
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: priority_level
+      label: Priority Level
+      hint: How urgent is this request?
+      type: select_one
+      options:
+      - Critical - Immediate need
+      - High - Within 30 days
+      - Medium - Within 60 days
+      - Low - Within 90 days
+      required: true
+    - id: 16
+      name: approval_required
+      label: Approval Required
+      hint: Does this request require special approval?
+      type: select_one
+      options:
+      - Department Head
+      - Dean
+      - Finance Committee
+      - No special approval needed
+      required: true

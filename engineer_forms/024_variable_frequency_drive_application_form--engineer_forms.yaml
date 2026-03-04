@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Variable Frequency Drive Application Form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - VFD
+      - Motor
+      required: true
+    - id: 3
+      name: motor_type
+      label: Motor Type
+      hint: null
+      type: select_one
+      options:
+      - 3-Phase
+      - Single Phase
+      - AC
+      - DC
+      required: false
+    - id: 4
+      name: vfd_application
+      label: VFD Application
+      hint: null
+      type: select_multiple
+      options:
+      - General
+      - Special
+      - High
+      required: false
+    - id: 5
+      name: motor_power_rating
+      label: Motor Power Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: motor_speed
+      label: Motor Speed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: motor_voltages
+      label: Motor Voltages
+      hint: null
+      type: select_multiple
+      options:
+      - 3-Phase
+      - Single Phase
+      required: false
+    - id: 8
+      name: vfd_rating
+      label: VFD Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: vfd_voltages
+      label: VFD Voltages
+      hint: null
+      type: select_multiple
+      options:
+      - AC
+      - DC
+      required: false
+    - id: 10
+      name: vfd_type
+      label: VFD Type
+      hint: null
+      type: select_one
+      options:
+      - Vector
+      - Induction
+      - Squirrel Cage
+      required: false
+    - id: 11
+      name: vfd_connection_type
+      label: VFD Connection Type
+      hint: null
+      type: select_multiple
+      options:
+      - 3-phase 400V
+      - 3-phase 200V
+      - Single Phase 3-wire
+      required: false
+    - id: 12
+      name: motor_connections
+      label: Motor Connections
+      hint: null
+      type: select_multiple
+      options:
+      - Terminal box
+      - Socket 3-phase
+      - Terminal box and socket 3-phase
+      required: false
+    - id: 13
+      name: vfd_size
+      label: VFD Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: motor_size
+      label: Motor Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: vfd_wiring
+      label: VFD Wiring
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: motor_wiring
+      label: Motor Wiring
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: motor_mounting
+      label: Motor Mounting
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: vfd_mounting
+      label: VFD Mounting
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: vfd_notes
+      label: VFD Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: motor_notes
+      label: Motor Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Complete
+      - Cancelled
+      required: false
+    - id: 23
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: select_one
+      options:
+      - Engineer
+      - Maintenance
+      - Supplier
+      required: false
+    - id: 24
+      name: project_date
+      label: Project Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false

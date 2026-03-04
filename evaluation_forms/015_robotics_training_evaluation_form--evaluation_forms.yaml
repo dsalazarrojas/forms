@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Robotics Training Evaluation Form
+    pages:
+    - id: 1
+      name: training_session
+      label: training_session
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: robot_model
+      label: robot_model
+      hint: null
+      type: select_one
+      options:
+      - Model A
+      - Model B
+      - Model C
+      required: false
+    - id: 4
+      name: training_score
+      label: training_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false

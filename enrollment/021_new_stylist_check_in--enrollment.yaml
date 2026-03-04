@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Stylist Check In
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: stylist_name
+      label: Stylist Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: new_client
+      label: New Client?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 4
+      name: new_client_comment
+      label: New Client Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Phone''}'
+      - '{''id'': 2, ''label'': ''Email''}'
+      - '{''id'': 3, ''label'': ''In Person''}'
+      required: true
+    - id: 6
+      name: stylist_rating
+      label: Stylist Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: stylist_comment
+      label: Stylist Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: true

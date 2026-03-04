@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Civil Service Employee Self Evaluation Form
+    pages:
+    - id: 1
+      name: employee_eval_header
+      label: -- Civil Service Performance Self-Evaluation --
+      hint: Reflect on your performance over the last review period
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department_name
+      label: Department/Agency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: review_period
+      label: Review Period (e.g., Jan-Dec 2025)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: performance_ratings_header
+      label: -- Performance Self-Rating --
+      hint: 1 = Unsatisfactory, 5 = Exceptional
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: job_knowledge_rating
+      label: Knowledge of Job Duties and Procedures
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: quality_of_work_rating
+      label: Quality and Accuracy of Work
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: dependability_rating
+      label: Dependability and Attendance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: cooperation_rating
+      label: Cooperation and Teamwork
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: major_achievements
+      label: List your major achievements during this period
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: challenges_faced
+      label: What were the biggest challenges you encountered?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: goals_next_period
+      label: What are your primary goals for the next review period?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: training_needs
+      label: Are there specific training or development areas you would like to explore?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: supervisor_meeting_request
+      label: Would you like to schedule a one-on-one review meeting?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: submission_date
+      label: Date of Self-Evaluation
+      hint: null
+      type: date
+      options: []
+      required: true

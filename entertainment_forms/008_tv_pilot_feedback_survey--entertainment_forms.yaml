@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: tv_pilot_feedback_survey
+    pages:
+    - id: 1
+      name: pilot_feedback_survey
+      label: TV Pilot Feedback Survey
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: pilot_category
+      label: What category does this pilot belong to?
+      hint: null
+      type: select_one
+      options:
+      - Action
+      - Comedy
+      - Drama
+      - Horror
+      - Reality
+      - Romance
+      - Sci-Fi
+      - Thriller
+      - Western
+      - Other
+      required: true
+    - id: 3
+      name: pilot_title
+      label: Pilot Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: pilot_season
+      label: Pilot Season
+      hint: 1-10
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: pilot_episode
+      label: Pilot Episode
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: pilot_recommendation
+      label: Do you recommend this pilot?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: true
+    - id: 8
+      name: pilot_comments
+      label: Pilot Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: pilot_what_we_missed
+      label: What we missed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: pilot_what_we_got_right
+      label: What we got right
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: pilot_what_we_would_change
+      label: What we would change
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: pilot_additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: pilot_recommendation_to_producers
+      label: Do you recommend to producers?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: false

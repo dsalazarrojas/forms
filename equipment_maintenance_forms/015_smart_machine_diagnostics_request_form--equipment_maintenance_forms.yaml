@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Machine Diagnostics Request Form
+    pages:
+    - id: 1
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_location
+      label: Equipment Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: schedule_visit
+      label: Schedule Visit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: diagnostic_visit_type
+      label: Diagnostic Visit Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: visit_scheduled_time
+      label: Visit Scheduled Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: visit_scheduled_date
+      label: Visit Scheduled Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: supporting_details
+      label: Supporting Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: files_uploaded
+      label: Files Uploaded
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

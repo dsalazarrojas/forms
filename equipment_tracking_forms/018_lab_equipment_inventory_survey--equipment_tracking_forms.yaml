@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lab Equipment Inventory Survey
+    pages:
+    - id: 1
+      name: equipment_details
+      label: Equipment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: condition
+      label: Condition
+      hint: null
+      type: select_one
+      options:
+      - new
+      - good
+      - fair
+      - poor
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - main_room
+      - storage
+      - other
+      required: false
+    - id: 4
+      name: responsible_staff
+      label: Responsible Staff
+      hint: null
+      type: select_multiple
+      options:
+      - research
+      - clinical
+      - industrial
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: serial_number
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false

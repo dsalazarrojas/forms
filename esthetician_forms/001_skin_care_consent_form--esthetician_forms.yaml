@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: skin_care_consent_form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consent_to_treatment
+      label: Consent to Treatment
+      hint: null
+      type: select_one
+      options:
+      - Client accepts all treatments listed below
+      - Refuse to accept any treatment
+      - Accepts specific treatments
+      required: false
+    - id: 6
+      name: treatments
+      label: treatments
+      hint: null
+      type: select_multiple
+      options:
+      - Facial
+      - Chemical Peel
+      - Microdermabrasion
+      - Micro-needling
+      - Botox
+      - Laser Treatment
+      - Other (please specify)
+      required: false
+    - id: 7
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: consent_time
+      label: Consent Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false

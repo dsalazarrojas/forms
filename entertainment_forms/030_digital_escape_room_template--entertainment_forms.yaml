@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Escape Room Template
+    pages:
+    - id: 1
+      name: form_page_1
+      label: start_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: player_name
+      label: Player Name
+      hint: Enter your name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: room_name
+      label: room_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: room_number
+      label: room_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: room_theme
+      label: room_theme
+      hint: null
+      type: select_one
+      options:
+      - theme1
+      - theme2
+      - theme3
+      required: false
+    - id: 6
+      name: puzzle_description
+      label: puzzle_description
+      hint: Briefly describe your puzzle
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: puzzle_image
+      label: puzzle_image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: puzzle_video
+      label: puzzle_video
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: puzzle_audio
+      label: puzzle_audio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: room_clue
+      label: room_clue
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: escape_code
+      label: escape_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: player_status
+      label: player_status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      - solved
+      required: false
+    - id: 13
+      name: submit_button
+      label: submit_button
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - pending
+      required: false
+    - id: 14
+      name: email
+      label: email
+      hint: Enter your email
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false

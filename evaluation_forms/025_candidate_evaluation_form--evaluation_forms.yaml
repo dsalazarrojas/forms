@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Candidate Evaluation Form
+    pages:
+    - id: 1
+      name: interview_overview_section
+      label: -- Interview Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: candidate_evaluated_name
+      label: Candidate Name
+      hint: Full name of the applicant
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: position_title
+      label: Position Applied For
+      hint: What role is the candidate being evaluated for
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: evaluator_interviewer_name
+      label: Interviewer Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_interview_eval
+      label: Date of Interview
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: evaluation_criteria_section
+      label: -- Evaluation Criteria --
+      hint: Rate the candidate in the following areas
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: educational_background_score
+      label: Educational Background Rating
+      hint: Relevance of degree and certifications
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Satisfactory
+      - Good
+      - Excellent
+      required: true
+    - id: 8
+      name: relevant_experience_score
+      label: Relevant Experience Rating
+      hint: Quality and depth of previous work
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Satisfactory
+      - Good
+      - Excellent
+      required: true
+    - id: 9
+      name: technical_skills_score
+      label: Technical Skills Rating
+      hint: Proficiency in required tools or software
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Satisfactory
+      - Good
+      - Excellent
+      required: true
+    - id: 10
+      name: communication_skills_score
+      label: Communication Skills
+      hint: Ability to articulate ideas and interact
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Satisfactory
+      - Good
+      - Excellent
+      required: true
+    - id: 11
+      name: leadership_potential_score
+      label: Leadership Potential
+      hint: Ability to lead teams or projects
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Satisfactory
+      - Good
+      - Excellent
+      required: true
+    - id: 12
+      name: problem_solving_ability_score
+      label: Problem-Solving Ability
+      hint: Analytical and critical thinking
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Satisfactory
+      - Good
+      - Excellent
+      required: true
+    - id: 13
+      name: cultural_fit_score
+      label: Cultural Fit
+      hint: Alignment with company values and team dynamics
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Satisfactory
+      - Good
+      - Excellent
+      required: true
+    - id: 14
+      name: feedback_section
+      label: -- Interviewer Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: key_strengths_description
+      label: Key Strengths
+      hint: What makes this candidate a strong fit
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: areas_for_development_description
+      label: Areas for Development
+      hint: What concerns or gaps were identified
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: overall_eval_score_val
+      label: Overall Evaluation Score
+      hint: 1 (Lowest) to 10 (Highest)
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: recommendation_section
+      label: -- Final Recommendation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: final_hiring_recommendation
+      label: Hiring Recommendation
+      hint: Your final decision as an interviewer
+      type: select_one
+      options:
+      - Strongly Recommend
+      - Recommend
+      - Neutral
+      - Do Not Recommend
+      - Strongly Do Not Recommend
+      required: true
+    - id: 20
+      name: proposed_compensation_value
+      label: Proposed Compensation
+      hint: If hired, what is the suggested salary package
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: completion_date_eval
+      label: Date of Evaluation Completion
+      hint: null
+      type: date
+      options: []
+      required: true

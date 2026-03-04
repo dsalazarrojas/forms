@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Movie Premiere Release Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: media_permission
+      label: Media Permission
+      hint: Select 'Yes' to grant media permission
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''label'': True}'
+      - '{''id'': 2, ''name'': False, ''label'': False}'
+      required: true
+    - id: 5
+      name: screening_date
+      label: Screening Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: screening_time
+      label: Screening Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: screening_location
+      label: Screening Location
+      hint: null
+      type: text
+      options: []
+      required: true

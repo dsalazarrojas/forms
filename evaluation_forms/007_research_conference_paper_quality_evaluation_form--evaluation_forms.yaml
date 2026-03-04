@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: research_conference_paper_quality_evaluation_form
+    pages:
+    - id: 1
+      name: introduction_section
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: research_question
+      label: Research question
+      hint: null
+      type: select_one
+      options:
+      - What are the research goals and objectives of this paper?
+      - What are the research methods used in this paper?
+      - What are the research outcomes and results of this paper?
+      - What are the references cited in this paper?
+      - Are there any other comments or suggestions for the author?
+      required: false
+    - id: 3
+      name: paper_quality
+      label: Paper quality
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 4
+      name: relevance
+      label: Relevance
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: originality
+      label: Originality
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 6
+      name: impact
+      label: Impact
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 7
+      name: paper_quality_scale_1
+      label: Paper quality 1-10
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: paper_quality_scale_2
+      label: Paper quality 1-10
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: paper_quality_scale_3
+      label: Paper quality 1-10
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: overall_quality_score
+      label: Overall quality score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

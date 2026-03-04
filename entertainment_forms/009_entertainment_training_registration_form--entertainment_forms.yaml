@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Entertainment Training Registration Form
+    pages:
+    - id: 1
+      name: workshop_name
+      label: Workshop Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: workshop_date
+      label: Workshop Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: workshop_location
+      label: Workshop Location
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 8
+      name: workshop_duration
+      label: Workshop Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: participant_availability
+      label: Participant Availability
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: participant_availability_2
+      label: Participant Availability 2
+      hint: null
+      type: select_multiple
+      options:
+      - option4
+      - option5
+      - option6
+      required: false
+    - id: 11
+      name: workshop_time
+      label: Workshop Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: workshop_price
+      label: Workshop Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: workshop_price_2
+      label: Workshop Price 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: workshop_price_3
+      label: Workshop Price 3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - another_tool
+      - another_tool2
+      required: false
+    - id: 16
+      name: assigned_tool_2
+      label: Assigned Tool 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: participant_status
+      label: Participant Status
+      hint: null
+      type: select_multiple
+      options:
+      - option7
+      - option8
+      - option9
+      required: false
+    - id: 18
+      name: participant_status_2
+      label: Participant Status 2
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 19
+      name: workshop_status
+      label: Workshop Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 20
+      name: workshop_status_2
+      label: Workshop Status 2
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 21
+      name: workshop_notes
+      label: Workshop Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: participant_notes_2
+      label: Participant Notes 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: workshop_comments
+      label: Workshop Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: participant_comments
+      label: Participant Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: participant_comments_2
+      label: Participant Comments 2
+      hint: null
+      type: text
+      options: []
+      required: false

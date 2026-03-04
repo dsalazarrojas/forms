@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Preventive Maintenance Access Control Form
+    pages:
+    - id: 1
+      name: access_date
+      label: Access Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: maintenance_type
+      label: Maintenance Type
+      hint: null
+      type: select_one
+      options:
+      - Scheduled
+      - Emergency
+      required: false
+    - id: 3
+      name: reason_for_access_request
+      label: Reason For Access Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: facility_access_requester
+      label: Facility Access Requester
+      hint: null
+      type: select_one
+      options:
+      - Administrator
+      - Manager
+      - Supervisor
+      - Worker
+      required: false
+    - id: 5
+      name: facility_access_approver
+      label: Facility Access Approver
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Supervisor
+      - Worker
+      required: false
+    - id: 6
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: equipment_name
+      label: Equipment Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: maintenance_type_details
+      label: Maintenance Type Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: access_time
+      label: Access Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: access_duration
+      label: Access Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: maintenance_start_time
+      label: Maintenance Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: maintenance_end_time
+      label: Maintenance End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: maintenance_status
+      label: Maintenance Status
+      hint: null
+      type: select_one
+      options:
+      - Scheduled
+      - In Progress
+      - Complete
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false

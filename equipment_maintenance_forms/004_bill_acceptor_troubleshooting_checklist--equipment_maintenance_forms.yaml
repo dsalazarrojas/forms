@@ -1,0 +1,244 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bill Acceptor Troubleshooting Checklist
+    pages:
+      - id: 1
+        name: technician_information
+        label: Technician Information
+        hint: Enter service technician details
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: technician_name
+        label: Technician Name
+        hint: Full name of servicing technician
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: technician_id
+        label: Technician ID
+        hint: Employee or contractor ID number
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: service_date
+        label: Service Date
+        hint: Date of troubleshooting session
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: service_time_start
+        label: Service Start Time
+        hint: When did troubleshooting begin
+        type: time
+        options: []
+        required: true
+      - id: 6
+        name: service_time_end
+        label: Service End Time
+        hint: When was service completed
+        type: time
+        options: []
+        required: true
+      - id: 7
+        name: location_information
+        label: Location Information
+        hint: Where is the bill acceptor located
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: location_name
+        label: Location Name
+        hint: Business or facility name
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: location_address
+        label: Location Address
+        hint: Full street address
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: machine_id
+        label: Machine ID
+        hint: Vending or gaming machine identifier
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: bill_acceptor_model
+        label: Bill Acceptor Model
+        hint: Manufacturer and model number
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: bill_acceptor_serial
+        label: Bill Acceptor Serial Number
+        hint: Serial number of the unit
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: issue_identification
+        label: Issue Identification
+        hint: Describe the reported problem
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: reported_issue
+        label: Reported Issue
+        hint: What problem was reported
+        type: select_one
+        options:
+          - Bills Not Accepted
+          - Bills Jamming
+          - Invalid Bill Errors
+          - Stacker Not Working
+          - Communication Error
+          - Power Issues
+          - Multiple Issues
+        required: true
+      - id: 15
+        name: issue_description
+        label: Detailed Issue Description
+        hint: Provide more details about the problem
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: troubleshooting_checklist
+        label: Troubleshooting Checklist
+        hint: Complete each troubleshooting step
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: check_power_connection
+        label: Check Power Connection
+        hint: Verify power cable is secure
+        type: select_one
+        options:
+          - Checked - OK
+          - Checked - Issue Found
+          - Not Applicable
+        required: true
+      - id: 18
+        name: check_bill_path
+        label: Inspect Bill Path
+        hint: Check for debris or obstructions
+        type: select_one
+        options:
+          - Clean - No Issues
+          - Debris Found - Cleaned
+          - Damaged - Needs Replacement
+        required: true
+      - id: 19
+        name: check_sensors
+        label: Check Sensors
+        hint: Verify sensor cleanliness and function
+        type: select_one
+        options:
+          - Clean and Functional
+          - Dirty - Cleaned
+          - Malfunctioning - Replaced
+        required: true
+      - id: 20
+        name: check_stacker
+        label: Check Bill Stacker
+        hint: Inspect stacker mechanism
+        type: select_one
+        options:
+          - Working Properly
+          - Jammed - Cleared
+          - Damaged - Needs Repair
+        required: true
+      - id: 21
+        name: check_firmware
+        label: Check Firmware Version
+        hint: Verify firmware is up to date
+        type: select_one
+        options:
+          - Up to Date
+          - Updated During Service
+          - Update Failed
+        required: true
+      - id: 22
+        name: test_results
+        label: Test Results
+        hint: Results after troubleshooting
+        type: select_one
+        options:
+          - All Tests Passed
+          - Some Issues Remain
+          - Requires Additional Service
+        required: true
+      - id: 23
+        name: bills_tested
+        label: Denominations Tested
+        hint: Select which bills were tested
+        type: select_multiple
+        options:
+          - $1
+          - $5
+          - $10
+          - $20
+          - $50
+          - $100
+        required: true
+      - id: 24
+        name: resolution
+        label: Resolution Status
+        hint: Was the issue resolved
+        type: select_one
+        options:
+          - Fully Resolved
+          - Partially Resolved
+          - Not Resolved - Parts Needed
+          - Not Resolved - Escalated
+        required: true
+      - id: 25
+        name: parts_replaced
+        label: Parts Replaced
+        hint: List any parts that were replaced
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: additional_notes
+        label: Additional Notes
+        hint: Any other observations or recommendations
+        type: text
+        options: []
+        required: false
+      - id: 27
+        name: follow_up_required
+        label: Follow-up Required
+        hint: Is additional service needed
+        type: select_one
+        options:
+          - No Follow-up Needed
+          - Follow-up Scheduled
+          - Customer to Monitor
+          - Escalate to Manufacturer
+        required: true

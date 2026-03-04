@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: gaming_tournament_registration_form
+    pages:
+    - id: 1
+      name: team
+      label: Team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: individual_player
+      label: Individual Player
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: team_name
+      label: team_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: player_name
+      label: player_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: discord
+      label: Discord
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: mobile
+      label: Mobile
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: discord_channel
+      label: Discord Channel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: discord_role
+      label: Discord Role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: discord_message
+      label: Discord Message
+      hint: null
+      type: text
+      options: []
+      required: false

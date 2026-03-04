@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Elementary Student Evaluation Form
+    pages:
+    - id: 1
+      name: strengths_section
+      label: What Are Their Strengths
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: weaknesses_section
+      label: What Are Their Weaknesses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: overall_performance
+      label: Overall Performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: development_goals
+      label: What Are Their Development Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: teacher_comments
+      label: Teacher Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: parent_comments
+      label: Parent Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''A''}'
+      - '{''option2'': ''B''}'
+      - '{''option3'': ''C''}'
+      required: false
+    - id: 8
+      name: category_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

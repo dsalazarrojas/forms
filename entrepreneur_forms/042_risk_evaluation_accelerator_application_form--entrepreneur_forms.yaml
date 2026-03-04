@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Risk Evaluation Accelerator Application Form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: Please provide project details
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: risk_evaluation
+      label: Risk Evaluation
+      hint: null
+      type: select_one
+      options:
+      - High Risk
+      - Medium Risk
+      - Low Risk
+      required: true
+    - id: 3
+      name: project_location
+      label: Project Location
+      hint: null
+      type: select_multiple
+      options:
+      - USA
+      - Canada
+      - Mexico
+      - Other (please specify)
+      required: false
+    - id: 4
+      name: team_lead_name
+      label: Team Lead Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization
+      label: Organization
+      hint: Name of the organization
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: project_description
+      label: Project Description
+      hint: Please provide project description
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: innovation_program
+      label: Innovation Program
+      hint: null
+      type: select_one
+      options:
+      - Accelerator/Incubator
+      - Innovation Program
+      - Other
+      required: true
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_multiple
+      options:
+      - Team Lead
+      - Organization
+      required: true
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

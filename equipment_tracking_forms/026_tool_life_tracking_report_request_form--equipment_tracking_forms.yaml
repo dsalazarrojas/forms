@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tool Life Tracking Report Request Form
+    pages:
+    - id: 1
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: equipment_id
+      label: equipment_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: tool_id
+      label: tool_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: requestor_name
+      label: requestor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: requestor_email
+      label: requestor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: request_date
+      label: request_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: usage_comments
+      label: usage_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: tool_status
+      label: tool_status
+      hint: null
+      type: select_one
+      options:
+      - Tool Not Available
+      - Tool Not Available (Awaiting Repair)
+      - Tool Available
+      - Available (Scheduled For Use)
+      - Available (Available)
+      - Available (Not Scheduled)
+      - Available (Awaiting Repair)
+      - Available (Available and Scheduled)
+      required: false
+    - id: 10
+      name: attachment
+      label: attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: due_date
+      label: due_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: completed_date
+      label: completed_date
+      hint: null
+      type: date
+      options: []
+      required: false

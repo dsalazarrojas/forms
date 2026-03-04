@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mental Health Assessment Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: mental_state
+      label: What is the current mental state of the individual?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: emotional_state
+      label: What is the emotional state of the individual?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: anxiety_level
+      label: How high or low is the anxiety level?
+      hint: Please rate the anxiety level from 1 to 10.
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: depression_level
+      label: How high or low is the depression level?
+      hint: Please rate the depression level from 1 to 10.
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: suicidal_tendencies
+      label: Are there suicidal tendencies?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: treatment_history
+      label: What is the treatment history of the individual?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: mental_health_professional
+      label: Who is the mental health professional administering this form?
+      hint: null
+      type: select_one
+      options:
+      - Doctor
+      - Nurse
+      - Therapist
+      required: true
+    - id: 9
+      name: mental_health_assessment_date
+      label: Date of mental health assessment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: mental_health_assessment_time
+      label: Time of mental health assessment
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: mental_state_comments
+      label: Any comments about the mental state of the individual?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emotional_state_comments
+      label: Any comments about the emotional state of the individual?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: treatment_plan
+      label: What is the treatment plan for the individual?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: next_steps
+      label: Next steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: mental_health_professional_comments
+      label: Any comments from the mental health professional?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: mental_health_assessment_form_notes
+      label: Additional notes about the mental health assessment form?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: evaluation_result
+      label: Evaluation result
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

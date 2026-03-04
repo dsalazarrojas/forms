@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dance Competition Enrollment Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Please enter your first name.
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Please enter a valid email address.
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_title
+      label: Event Title
+      hint: Name of the event
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: competition_type
+      label: Competition Type
+      hint: null
+      type: select_one
+      options:
+      - Ballet
+      - Hip-Hop
+      - Contemporary
+      - Jazz
+      - Tap
+      - Ballroom
+      required: true
+    - id: 14
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_multiple
+      options:
+      - 5-8
+      - 9-12
+      - 13-16
+      - 17-20
+      required: true
+    - id: 15
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      required: true
+    - id: 16
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: guardian_name
+      label: Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: guardian_phone
+      label: Guardian Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emergency_contact_message
+      label: Emergency Contact Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: guardian_message
+      label: Guardian Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: competition_type2
+      label: Competition Type 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: age_group2
+      label: Age Group 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ultrasound Cavitation Consent Form
+    pages:
+    - id: 1
+      name: ultrasound_cavitation_consent_form
+      label: consent_form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: ultrasound_device_information
+      label: ultrasound_device_information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: treatment_description
+      label: treatment_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: treatment_procedure
+      label: treatment_procedure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - Ultrasound Cavitation
+      - Other treatment
+      required: false
+    - id: 6
+      name: signature
+      label: signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: signature2
+      label: signature2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Address
+      required: false

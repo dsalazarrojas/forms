@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Course Evaluation Survey
+    pages:
+    - id: 1
+      name: course_content
+      label: Course Content
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: teaching_quality
+      label: Teaching Quality
+      hint: Rate the effectiveness of this course's instructor in delivering the course
+        content.
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 3
+      name: learning_experience
+      label: Learning Experience
+      hint: Describe your learning experience in the course, including any positive
+        or negative experiences.
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: course_relevance
+      label: Course Relevance
+      hint: null
+      type: select_multiple
+      options:
+      - Very Relevant
+      - Somewhat Relevant
+      - Not Relevant
+      - Not at all Relevant
+      required: true
+    - id: 5
+      name: feedback
+      label: Additional Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false

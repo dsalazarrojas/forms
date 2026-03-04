@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Biomedical Engineer Application Form
+    pages:
+    - id: 1
+      name: applicant_header
+      label: -- Applicant Details --
+      hint: Provide accurate contact and professional information
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: For application updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Mobile or work number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: highest_degree
+      label: Highest degree
+      hint: Degree and institution
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: certifications
+      label: Professional certifications
+      hint: List relevant licenses or certificates
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: years_experience
+      label: Years of experience
+      hint: Whole number of years in biomedical engineering
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: technical_skills
+      label: Technical skills
+      hint: Key technical competencies and software experience
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: portfolio_or_projects
+      label: Portfolio or notable projects
+      hint: Links or short descriptions
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: cover_letter
+      label: Cover letter
+      hint: Brief statement of interest
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: resume_note
+      label: Resume or CV
+      hint: Upload via portal or provide a link
+      type: note
+      options: []
+      required: true

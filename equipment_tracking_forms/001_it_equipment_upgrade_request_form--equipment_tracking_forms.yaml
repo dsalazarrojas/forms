@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: it_equipment_upgrade_request_form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_details
+      label: Equipment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: upgrade_reason
+      label: Upgrade Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: upgrade_request
+      label: Upgrade Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - IT
+      - Other
+      required: false
+    - id: 8
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_multiple
+      options:
+      - Laptop
+      - Desktop
+      - Server
+      - Other
+      required: false
+    - id: 9
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - In Progress
+      - Closed
+      - Cancelled
+      required: false
+    - id: 11
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Voice Agent Evaluation Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Welcome
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: rating_agent_performance
+      label: Rate the agent's performance
+      hint: Rate from 1 to 10
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: rating_effectiveness
+      label: Rate the agent's effectiveness
+      hint: Rate from 1 to 10
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: communication_style
+      label: Rate the agent's communication style
+      hint: Rate from 1 to 10
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: problem_solving_ability
+      label: Rate the agent's problem-solving ability
+      hint: Rate from 1 to 10
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: overall_experience
+      label: Rate your overall experience
+      hint: Rate from 1 to 10
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: suggestions_for_improvement
+      label: What suggestions do you have for improvement?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: feedback_on_service
+      label: What is your feedback on service?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true

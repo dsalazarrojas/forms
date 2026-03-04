@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: medical_wearable_technology_pilot_evaluation_form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: introduction_question
+      label: What is the purpose of this form?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: wearable_device_info
+      label: Medical Wearable Device Details
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Medical Wearable Device 1''}'
+      - '{''value'': ''Medical Wearable Device 2''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 4
+      name: participant_info
+      label: Participant Information
+      hint: This will help us verify participant data
+      type: select_multiple
+      options:
+      - '{''value'': ''Participant 1''}'
+      - '{''value'': ''Participant 2''}'
+      - '{''value'': ''Participant 3''}'
+      required: false
+    - id: 5
+      name: usability
+      label: Usability
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 5}'
+      - '{''value'': 4}'
+      - '{''value'': 3}'
+      - '{''value'': 2}'
+      - '{''value'': 1}'
+      required: false
+    - id: 6
+      name: benefits
+      label: Benefits
+      hint: What were the benefits of the medical device?
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: challenges
+      label: Challenges
+      hint: What were the challenges of the medical device?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: overall
+      label: Overall
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: rating
+      label: How would you rate the overall usability of this device?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: will_participate
+      label: Will you participate in another study?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false

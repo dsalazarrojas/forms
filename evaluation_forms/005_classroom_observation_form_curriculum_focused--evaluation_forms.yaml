@@ -1,0 +1,263 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Classroom Observation Form (Curriculum Focused)
+    pages:
+      - id: 1
+        name: section_header_planning
+        label: -- Section 1 - Planning --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: observer_name
+        label: Observer Name
+        hint: Name of the observer
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: teacher_name
+        label: Teacher Name
+        hint: Name of the teacher being observed
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: observation_date
+        label: Observation Date
+        hint: Date of observation
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: grade_level
+        label: Grade Level
+        hint: Grade or course level
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: curriculum_area
+        label: Curriculum Area
+        hint: Subject or curriculum focus
+        type: select_one
+        options:
+          - Mathematics
+          - Science
+          - English Language Arts
+          - Social Studies
+          - Foreign Language
+          - Arts
+          - Physical Education
+          - Special Education
+          - Other
+        required: true
+      - id: 7
+        name: lesson_plan_alignment
+        label: Lesson Plan Alignment to Curriculum
+        hint: How well does the lesson align with curriculum standards
+        type: select_one
+        options:
+          - Excellent - Fully aligned with standards
+          - Good - Mostly aligned
+          - Fair - Partially aligned
+          - Poor - Not aligned with standards
+        required: true
+      - id: 8
+        name: learning_objectives_clarity
+        label: Learning Objectives Clarity
+        hint: Are learning objectives clearly defined and communicated
+        type: select_one
+        options:
+          - Very Clear - Explicitly stated and understood
+          - Clear - Stated but could be clearer
+          - Somewhat Clear - Implied but not explicit
+          - Unclear - Objectives not evident
+        required: true
+      - id: 9
+        name: section_header_delivery
+        label: -- Section 2 - Delivery of Instruction --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: instructional_strategies
+        label: Instructional Strategies Used
+        hint: Select all strategies observed
+        type: select_multiple
+        options:
+          - Direct Instruction
+          - Inquiry-Based Learning
+          - Cooperative Learning
+          - Differentiated Instruction
+          - Scaffolding
+          - Modeling and Demonstration
+          - Guided Practice
+          - Independent Practice
+        required: true
+      - id: 11
+        name: pacing_effectiveness
+        label: Pacing Effectiveness
+        hint: Was the lesson pace appropriate for student learning
+        type: select_one
+        options:
+          - Excellent - Well-paced for all students
+          - Good - Appropriate for most students
+          - Fair - Too fast or slow for some
+          - Poor - Inappropriate pacing
+        required: true
+      - id: 12
+        name: questioning_techniques
+        label: Questioning Techniques
+        hint: Quality of teacher questioning during instruction
+        type: select_one
+        options:
+          - Excellent - Higher-order questions that promote thinking
+          - Good - Mix of question types
+          - Fair - Mostly recall questions
+          - Poor - Limited or no questioning
+        required: true
+      - id: 13
+        name: student_engagement_strategies
+        label: Student Engagement Strategies
+        hint: How did the teacher engage students in learning
+        type: select_multiple
+        options:
+          - Real-world connections
+          - Student choice
+          - Collaborative activities
+          - Hands-on materials
+          - Technology integration
+          - Movement and interaction
+          - Discussion and debate
+        required: true
+      - id: 14
+        name: section_header_management
+        label: -- Section 3 - Classroom Management --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: classroom_routines
+        label: Classroom Routines and Procedures
+        hint: How well established are classroom routines
+        type: select_one
+        options:
+          - Very Well Established - Smooth and efficient
+          - Well Established - Generally smooth
+          - Developing - Some inconsistency
+          - Not Established - Chaotic or unclear
+        required: true
+      - id: 16
+        name: behavior_expectations
+        label: Behavior Expectations
+        hint: Are behavior expectations clear and enforced
+        type: select_one
+        options:
+          - Very Clear - Consistently communicated and enforced
+          - Clear - Generally understood and enforced
+          - Somewhat Clear - Inconsistently enforced
+          - Unclear - Not evident or enforced
+        required: true
+      - id: 17
+        name: learning_environment
+        label: Learning Environment
+        hint: Rate the overall classroom climate
+        type: select_one
+        options:
+          - Excellent - Safe, respectful, and supportive
+          - Good - Generally positive climate
+          - Fair - Some concerns about climate
+          - Poor - Unsafe or negative climate
+        required: true
+      - id: 18
+        name: section_header_assessment
+        label: -- Section 4 - Assessment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: formative_assessment_use
+        label: Formative Assessment Use
+        hint: How did the teacher check for understanding during the lesson
+        type: select_multiple
+        options:
+          - Questioning and discussion
+          - Observation of student work
+          - Exit tickets
+          - Quick quizzes or polls
+          - Student self-assessment
+          - Peer feedback
+          - Thumbs up/down signals
+          - No formative assessment observed
+        required: true
+      - id: 20
+        name: feedback_quality
+        label: Feedback Quality
+        hint: Quality of feedback provided to students
+        type: select_one
+        options:
+          - Excellent - Specific, timely, and actionable
+          - Good - Generally helpful feedback
+          - Fair - Limited or vague feedback
+          - Poor - No meaningful feedback
+        required: true
+      - id: 21
+        name: student_progress_monitoring
+        label: Student Progress Monitoring
+        hint: How does the teacher track student progress
+        type: select_one
+        options:
+          - Systematically - Multiple methods used consistently
+          - Regularly - Some systematic tracking
+          - Occasionally - Informal tracking
+          - Rarely - Little to no progress monitoring
+        required: true
+      - id: 22
+        name: overall_curriculum_effectiveness
+        label: Overall Curriculum Effectiveness
+        hint: Rate the overall effectiveness of curriculum delivery
+        type: select_one
+        options:
+          - Highly Effective - Excellent curriculum implementation
+          - Effective - Good implementation with minor gaps
+          - Somewhat Effective - Partial implementation
+          - Ineffective - Poor curriculum delivery
+        required: true
+      - id: 23
+        name: strengths_summary
+        label: Strengths Summary
+        hint: Summarize the key strengths observed
+        type: text
+        options: []
+        required: true
+      - id: 24
+        name: areas_for_growth
+        label: Areas for Growth
+        hint: Identify areas needing improvement
+        type: text
+        options: []
+        required: true
+      - id: 25
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other observations or recommendations
+        type: text
+        options: []
+        required: false

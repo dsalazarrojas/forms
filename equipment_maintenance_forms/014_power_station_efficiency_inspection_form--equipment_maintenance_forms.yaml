@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Power Station Efficiency Inspection Form
+    pages:
+    - id: 1
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: inspector_name
+      label: inspector_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: site_id
+      label: site_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: power_station_name
+      label: power_station_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: equipment_type
+      label: equipment_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: inspection_location
+      label: inspection_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: efficiency_review
+      label: efficiency_review
+      hint: Enter your efficiency review of this power station
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: documented_findings
+      label: documented_findings
+      hint: Document any findings during this inspection
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: next_inspection_date
+      label: next_inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: maintenance_planning_notes
+      label: maintenance_planning_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: operational_overview
+      label: operational_overview
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: site_manager
+      label: site_manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

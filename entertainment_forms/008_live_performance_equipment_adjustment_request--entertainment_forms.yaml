@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Live Performance Equipment Adjustment Request
+    pages:
+    - id: 1
+      name: artist_input
+      label: artist_input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: venue_input
+      label: venue_input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: av_team_input
+      label: av_team_input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: equipment_input
+      label: equipment_input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: request_description
+      label: request_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: sound_request
+      label: sound_request
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Sound Board Adjustment''}'
+      - '{''value'': 2, ''label'': ''Speaker System Check''}'
+      - '{''value'': 3, ''label'': ''Sound Check''}'
+      required: false
+    - id: 7
+      name: lighting_request
+      label: lighting_request
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Lighting System Check''}'
+      - '{''value'': 2, ''label'': ''Stage Lighting Check''}'
+      - '{''value'': 3, ''label'': ''Lighting Rigging Check''}'
+      required: false
+    - id: 8
+      name: stage_request
+      label: stage_request
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Stage Setup''}'
+      - '{''value'': 2, ''label'': ''Stage Movement''}'
+      - '{''value'': 3, ''label'': ''Stage Configuration Check''}'
+      required: false
+    - id: 9
+      name: priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''High''}'
+      - '{''value'': 2, ''label'': ''Medium''}'
+      - '{''value'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 10
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''New''}'
+      - '{''value'': 2, ''label'': ''In Progress''}'
+      - '{''value'': 3, ''label'': ''Completed''}'
+      required: false
+    - id: 11
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false

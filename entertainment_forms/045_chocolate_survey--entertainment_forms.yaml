@@ -1,0 +1,242 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chocolate Survey
+    pages:
+    - id: 1
+      name: respondent_information
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - 18-25
+      - 26-35
+      - 36-45
+      - 46-55
+      - 56-65
+      - 65+
+      required: true
+    - id: 5
+      name: chocolate_consumption
+      label: -- Chocolate Consumption --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: consumption_frequency
+      label: How often do you eat chocolate
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several times per week
+      - Weekly
+      - Few times per month
+      - Monthly
+      - Rarely
+      - Never
+      required: true
+    - id: 7
+      name: average_spending
+      label: Average Monthly Chocolate Spending
+      hint: null
+      type: select_one
+      options:
+      - Under 5 dollars
+      - 5-10 dollars
+      - 10-20 dollars
+      - 20-50 dollars
+      - 50+ dollars
+      required: true
+    - id: 8
+      name: chocolate_type_preference
+      label: -- Chocolate Type Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: favorite_types
+      label: Your Favorite Chocolate Types
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Dark chocolate
+      - Milk chocolate
+      - White chocolate
+      - Filled chocolate
+      - Chocolate candy
+      - Chocolate bars
+      - Artisan chocolate
+      required: true
+    - id: 10
+      name: dark_chocolate_preference
+      label: Dark Chocolate Percentage Preference
+      hint: null
+      type: select_one
+      options:
+      - 50-60% cocoa
+      - 60-70% cocoa
+      - 70-80% cocoa
+      - 80%+ cocoa
+      - No preference
+      required: false
+    - id: 11
+      name: flavor_preferences
+      label: Favorite Flavors
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Pure chocolate
+      - Nuts
+      - Caramel
+      - Nougat
+      - Fruit
+      - Mint
+      - Coffee
+      - Spices
+      - Vanilla
+      required: true
+    - id: 12
+      name: brand_loyalty
+      label: -- Brand Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: favorite_brands
+      label: Favorite Chocolate Brands
+      hint: null
+      type: select_multiple
+      options:
+      - Godiva
+      - Lindt
+      - Ferrero
+      - Hershey
+      - Cadbury
+      - Mars
+      - Kinder
+      - Local/Artisan brands
+      - Other
+      required: true
+    - id: 14
+      name: brand_loyalty_level
+      label: How Loyal Are You to Chocolate Brands
+      hint: Rate 1 (not loyal) to 5 (very loyal)
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: brand_importance
+      label: How Important is the Brand Name
+      hint: Rate 1 (not important) to 5 (very important)
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: purchasing_factors
+      label: -- Purchasing Factors --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: purchase_factors
+      label: What Factors Influence Your Purchase
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Price
+      - Quality
+      - Brand reputation
+      - Ingredient sourcing
+      - Environmental concerns
+      - Health benefits
+      - Packaging
+      - Availability
+      required: true
+    - id: 18
+      name: price_sensitivity
+      label: Price Sensitivity
+      hint: Rate 1 (not sensitive) to 5 (very sensitive)
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: quality_importance
+      label: Importance of Quality
+      hint: Rate 1 (not important) to 5 (very important)
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: health_consciousness
+      label: -- Health Consciousness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: health_concern
+      label: Are you concerned about chocolate health effects
+      hint: null
+      type: select_one
+      options:
+      - Yes, very concerned
+      - Somewhat concerned
+      - Not concerned
+      required: true
+    - id: 22
+      name: organic_preference
+      label: Would you pay more for organic chocolate
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: true
+    - id: 23
+      name: feedback_section
+      label: -- Additional Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: new_product_interest
+      label: Interest in New Chocolate Products
+      hint: Rate 1 (not interested) to 5 (very interested)
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments or Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

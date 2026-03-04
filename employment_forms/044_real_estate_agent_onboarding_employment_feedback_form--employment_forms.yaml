@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Agent Onboarding Employment Feedback Form
+    pages:
+    - id: 1
+      name: real_estate_agent_onboarding_employment_feedback_form
+      label: What was your onboarding experience like
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: overall_experience
+      label: Overall experience
+      hint: null
+      type: select_one
+      options:
+      - Agent
+      - Office
+      - Training
+      - Support
+      - Other
+      required: true
+    - id: 3
+      name: training_effectiveness
+      label: How would you rate the effectiveness of our training program
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: support
+      label: How would you rate the level of support you received
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: office_location
+      label: Which office location did you work with
+      hint: null
+      type: select_multiple
+      options:
+      - New York
+      - Los Angeles
+      - Chicago
+      - Other
+      required: true
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: jfv_rating
+      label: JotFormView
+      hint: null
+      type: number
+      options: []
+      required: false

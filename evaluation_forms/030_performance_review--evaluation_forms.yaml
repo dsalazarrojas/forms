@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Review
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: review_period
+      label: Review Period
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: rating
+      label: Rating
+      hint: On a scale of 1 to 10
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: rating_scale
+      label: Rating Scale
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: false
+    - id: 8
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: performance_improvement_areas
+      label: Performance Improvement Areas
+      hint: null
+      type: select_multiple
+      options:
+      - Communication
+      - Time Management
+      - Leadership
+      - Teamwork
+      - Problem Solving
+      - Adaptability
+      - Time Management
+      - Organization
+      required: false

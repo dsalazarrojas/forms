@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: environmental_health_program_evaluation_form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: overall_rating
+      label: Overall rating
+      hint: How would you rate this environmental health program overall?
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: program_performance
+      label: Performance
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Poor''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Excellent''}'
+      required: false
+    - id: 4
+      name: impact
+      label: Impact
+      hint: What impact does this program have on the community?
+      type: select_multiple
+      options:
+      - '{''value'': ''Positive''}'
+      - '{''value'': ''Negative''}'
+      - '{''value'': ''No impact''}'
+      required: false
+    - id: 5
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false

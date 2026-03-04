@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pastors Evaluation Form
+    pages:
+    - id: 1
+      name: pastorevaluationform
+      label: Pastors Evaluation Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: performance
+      label: Performance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: pastorperformance
+      label: pastor performance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: evaluationcriteria
+      label: evaluation criteria
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: evaluationcriteria2
+      label: evaluation criteria 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: evaluationcriteria3
+      label: evaluation criteria 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: evaluationcriteria4
+      label: evaluation criteria 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: evaluationcriteria5
+      label: evaluation criteria 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''chatjimmy''}'
+      - '{''option2'': None}'
+      required: false
+    - id: 11
+      name: formid
+      label: formid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: outputfile
+      label: outputfile
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''033_pastors_evaluation_form--evaluation_forms.yaml''}'
+      - '{''option2'': None}'
+      required: false
+    - id: 13
+      name: assignedtool
+      label: assigned tool
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''chatjimmy''}'
+      - '{''option2'': None}'
+      required: false
+    - id: 14
+      name: form_ids
+      label: formids
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: category
+      label: category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: title
+      label: title
+      hint: null
+      type: text
+      options: []
+      required: false

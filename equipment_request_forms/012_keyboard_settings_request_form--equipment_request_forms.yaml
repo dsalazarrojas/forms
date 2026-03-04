@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Keyboard Settings Request Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''IT''}'
+      - '{''id'': 2, ''label'': ''Engineering''}'
+      - '{''id'': 3, ''label'': ''Finance''}'
+      required: false
+    - id: 3
+      name: keyboard_type
+      label: Keyboard Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Mechanical''}'
+      - '{''id'': 2, ''label'': ''Laptop''}'
+      - '{''id'': 3, ''label'': ''Desktop''}'
+      required: false
+    - id: 4
+      name: accessibility_needs
+      label: accessibility needs
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: keyboard_configuration
+      label: Keyboard Configuration
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''QWERTY''}'
+      - '{''id'': 2, ''label'': ''Dvorak''}'
+      - '{''id'': 3, ''label'': ''Colemak''}'
+      required: false
+    - id: 6
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: date_submitted
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false

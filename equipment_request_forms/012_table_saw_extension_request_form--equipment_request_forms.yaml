@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Table Saw Extension Request Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Table Saw Extension Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_category
+      label: Equipment Request Forms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: form_description
+      label: Table Saw Extension Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_supervisor_review
+      label: Supervisor Review
+      hint: null
+      type: select_multiple
+      options:
+      - Supervisor
+      - Assistant Supervisor
+      required: true
+    - id: 5
+      name: form_request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: form_due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: form_reservation_id
+      label: Reservation ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: form_extension_duration
+      label: Extension Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: form_request_extension
+      label: Request Extension
+      hint: null
+      type: select_multiple
+      options:
+      - 'False'
+      - 'True'
+      required: true
+    - id: 10
+      name: form_supervisors_comment
+      label: Supervisors Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_requested_by
+      label: Requested By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_requesting_user
+      label: Requesting User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: form_department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_supervisor
+      label: Supervisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: form_extension_status
+      label: Extension Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 16
+      name: form_extension_type
+      label: Extension Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

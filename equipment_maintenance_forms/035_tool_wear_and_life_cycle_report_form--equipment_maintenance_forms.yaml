@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tool Wear And Life Cycle Report Form
+    pages:
+    - id: 1
+      name: tool_wear_and_life_cycle_report
+      label: Tool Wear and Life Cycle Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_id
+      label: equipment_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: tool_name
+      label: tool_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: condition
+      label: condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Bad''}'
+      required: true
+    - id: 5
+      name: document_wear
+      label: document_wear
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: servicing_plan
+      label: servicing_plan
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: date_last_serviced
+      label: date_last_serviced
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: date_last_inspected
+      label: date_last_inspected
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: next_servicing_date
+      label: next_servicing_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: department
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Maintenance''}'
+      - '{''id'': 2, ''label'': ''Operations''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 13
+      name: supervisor_name
+      label: supervisor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: supervisor_email
+      label: supervisor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: supervisor_phone
+      label: supervisor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false

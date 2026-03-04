@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Housekeeping Quick Estimate Template
+    pages:
+    - id: 1
+      name: housekeeping_quick_estimate_template_form
+      label: housekeeping_quick_estimate_template_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: housekeeping_quick_estimate_template_form_additional_info
+      label: housekeeping_quick_estimate_template_form_additional_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: housekeeping_quick_estimate_template_form_request_site_visit
+      label: housekeeping_quick_estimate_template_form_request_site_visit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: housekeeping_quick_estimate_template_form_estimate_value
+      label: housekeeping_quick_estimate_template_form_estimate_value
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: mood_meter_form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: mood_level
+      label: mood_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: emotional_state
+      label: emotional_state
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 4
+      name: emotional_state_other
+      label: emotional_state_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feelings_0
+      label: feelings_0
+      hint: null
+      type: select_multiple
+      options:
+      - feelings_0_option_0
+      - feelings_0_option_1
+      - feelings_0_option_2
+      - feelings_0_option_3
+      - feelings_0_option_4
+      required: true
+    - id: 6
+      name: feelings_0_other
+      label: feelings_0_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feelings_1
+      label: feelings_1
+      hint: null
+      type: select_multiple
+      options:
+      - feelings_1_option_0
+      - feelings_1_option_1
+      - feelings_1_option_2
+      - feelings_1_option_3
+      - feelings_1_option_4
+      required: false
+    - id: 8
+      name: feelings_1_other
+      label: feelings_1_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: feelings_2
+      label: feelings_2
+      hint: null
+      type: select_multiple
+      options:
+      - feelings_2_option_0
+      - feelings_2_option_1
+      - feelings_2_option_2
+      - feelings_2_option_3
+      - feelings_2_option_4
+      required: true
+    - id: 10
+      name: feelings_2_other
+      label: feelings_2_other
+      hint: null
+      type: text
+      options: []
+      required: false

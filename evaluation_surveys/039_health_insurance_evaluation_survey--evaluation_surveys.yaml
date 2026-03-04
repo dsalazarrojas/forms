@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: health_insurance_evaluation_survey
+    pages:
+    - id: 1
+      name: policyholder_info
+      label: Policyholder Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: health_insurance_plan
+      label: Health Insurance Plan
+      hint: null
+      type: select_multiple
+      options:
+      - Medicare
+      - Blue Cross
+      - Blue Shield
+      - Private Insurance
+      required: false
+    - id: 3
+      name: plan_rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: policyholder_rating
+      label: policyholder_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: rating_scale
+      label: rating_scale
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 8
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: policyholder_name
+      label: policyholder_name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Super Bowl Party Registration
+    pages:
+    - id: 1
+      name: super_bowl_party_registration
+      label: Super Bowl Party Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guest_count
+      label: Guest Count
+      hint: How many guests are you bringing?
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: food_beverage_request
+      label: Food and Beverage Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Burgers
+      - Hot Dogs
+      - Veggies
+      - Chicken Wings
+      - Chili
+      required: false
+    - id: 5
+      name: rsvp
+      label: RSVP
+      hint: null
+      type: select_one
+      options:
+      - Attending
+      - Not Attending
+      required: true
+    - id: 6
+      name: special_request
+      label: Special Requests
+      hint: Do you have any special requests?
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: food
+      label: Food
+      hint: null
+      type: select_one
+      options:
+      - Main Course
+      - Appetizers
+      - Snacks
+      required: false
+    - id: 10
+      name: beverage
+      label: Beverage
+      hint: null
+      type: select_one
+      options:
+      - Soft Drink
+      - Beer
+      - Wine
+      required: false
+    - id: 11
+      name: game_time_request
+      label: Game Time Request
+      hint: What time do you want to watch the game?
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: arrival_time
+      label: Arrival Time
+      hint: What time do you plan to arrive?
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: parking_request
+      label: Parking Request
+      hint: Do you have a vehicle and need parking accommodations?
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: comment
+      label: Comment
+      hint: Is there anything else you'd like to share with us?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: party_size
+      label: Party Size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: party_host
+      label: Party Host
+      hint: Who is hosting the party?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: game_watching_experience
+      label: Game Watching Experience
+      hint: null
+      type: select_one
+      options:
+      - Traditional
+      - Modern
+      - Rugby
+      required: false
+    - id: 18
+      name: food_request
+      label: Food Request
+      hint: null
+      type: select_multiple
+      options:
+      - Main Course
+      - Appetizers
+      - Snacks
+      required: false
+    - id: 19
+      name: game_audio_setup
+      label: Game Audio Setup
+      hint: null
+      type: select_one
+      options:
+      - Stereo
+      - Headphones
+      required: false
+    - id: 20
+      name: game_video_setup
+      label: Game Video Setup
+      hint: null
+      type: select_one
+      options:
+      - TV
+      - Projector
+      required: false
+    - id: 21
+      name: party_location
+      label: Party Location
+      hint: null
+      type: select_multiple
+      options:
+      - Backyard
+      - Living Room
+      - Front Porch
+      required: true
+    - id: 22
+      name: parking_arrangement
+      label: Parking Arrangement
+      hint: null
+      type: select_multiple
+      options:
+      - Street Parking
+      - Home Parking
+      - Public Parking
+      required: false
+    - id: 23
+      name: game_streaming
+      label: Game Streaming
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: stream_url
+      label: Stream Url
+      hint: What's the streaming URL?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: game_time
+      label: Game Time
+      hint: null
+      type: time
+      options: []
+      required: true

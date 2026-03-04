@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emotional Intelligence In Leadership Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: intro
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: leadership_behavior_page
+      label: leadership-behavior
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: leadership_style_page
+      label: leadership-style
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: communication_page
+      label: communication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emotional_awareness_page
+      label: emotional-awareness
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: conflict_resolution_page
+      label: conflict-resolution
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: results_page
+      label: results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: summary_page
+      label: summary
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: feedback_page
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments_page
+      label: comments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

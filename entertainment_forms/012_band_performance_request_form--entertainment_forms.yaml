@@ -1,0 +1,250 @@
+inputSchema:
+  type: object
+  properties:
+    title: Band Performance Request Form
+    pages:
+    - id: 1
+      name: requester_full_name
+      label: Requester Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Email Address
+      hint: For response
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requester_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_name
+      label: Organization Name
+      hint: Company, venue, or organization
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization_type
+      label: Organization Type
+      hint: What type of organization
+      type: select_one
+      options:
+      - Private Individual
+      - Corporation
+      - Non-Profit
+      - Government
+      - Educational Institution
+      - Venue or Club
+      - Event Planning Company
+      required: true
+    - id: 6
+      name: band_requested
+      label: Band Requested
+      hint: Which band are you interested in
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_name
+      label: Event Name
+      hint: Name or title of your event
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_type
+      label: Event Type
+      hint: Category of event
+      type: select_one
+      options:
+      - Wedding Ceremony
+      - Wedding Reception
+      - Corporate Function
+      - Music Festival
+      - Private Party
+      - Public Concert
+      - Fundraiser
+      - Holiday Event
+      - Anniversary Celebration
+      - Other
+      required: true
+    - id: 9
+      name: event_date
+      label: Event Date
+      hint: When is the event
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: event_time
+      label: Event Start Time
+      hint: When does the event begin
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: venue_name
+      label: Venue Name
+      hint: Location name
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: venue_address
+      label: Venue Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: venue_capacity
+      label: Venue Capacity
+      hint: Maximum number of attendees
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: expected_attendance
+      label: Expected Attendance
+      hint: How many people do you expect
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: performance_duration
+      label: Requested Performance Duration
+      hint: How long should the band play
+      type: select_one
+      options:
+      - 30 Minutes
+      - 1 Hour
+      - 2 Hours
+      - 3 Hours
+      - 4 Hours
+      - Multiple Sets
+      - Full Event
+      required: true
+    - id: 16
+      name: setup_requirements
+      label: Setup Requirements
+      hint: What the venue provides
+      type: select_multiple
+      options:
+      - Stage Provided
+      - Sound System
+      - Lighting System
+      - Power Supply
+      - Dressing Room
+      - Parking
+      - Meals Provided
+      - None
+      required: true
+    - id: 17
+      name: budget_offered
+      label: Budget Offered
+      hint: Compensation amount
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: payment_terms
+      label: Payment Terms
+      hint: How will the band be paid
+      type: select_one
+      options:
+      - Full Payment Upfront
+      - 50% Deposit, 50% Day Of
+      - Payment After Performance
+      - Net 30 Terms
+      - To Be Negotiated
+      required: true
+    - id: 19
+      name: genre_preference
+      label: Genre Preference
+      hint: Musical style for the event
+      type: select_multiple
+      options:
+      - Rock
+      - Pop
+      - Jazz
+      - Blues
+      - Country
+      - R&B
+      - Funk
+      - Soul
+      - Top 40
+      - Classic Rock
+      - Acoustic
+      - Mixed
+      required: true
+    - id: 20
+      name: technical_rider
+      label: Technical Rider Required
+      hint: Do you need the technical rider
+      type: select_one
+      options:
+      - Yes, send technical rider
+      - No, we have everything
+      - Maybe, will confirm later
+      required: false
+    - id: 21
+      name: hospitality_requirements
+      label: Hospitality Requirements
+      hint: Food, beverages, accommodations
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: marketing_promotion
+      label: Marketing and Promotion
+      hint: How will you promote the event
+      type: select_multiple
+      options:
+      - Social Media
+      - Print Advertising
+      - Radio
+      - Email Marketing
+      - Word of Mouth
+      - Press Release
+      - None
+      required: false
+    - id: 23
+      name: recording_allowed
+      label: Recording Allowed
+      hint: Can the band record the performance
+      type: select_one
+      options:
+      - Yes, for band promotional use
+      - Yes, for any purpose
+      - No recording allowed
+      - Case by case basis
+      required: false
+    - id: 24
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: how_heard_about_band
+      label: How Did You Hear About This Band
+      hint: Referral source
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Previous Performance
+      - Friend Recommendation
+      - Talent Agency
+      - Search Engine
+      - Other
+      required: false

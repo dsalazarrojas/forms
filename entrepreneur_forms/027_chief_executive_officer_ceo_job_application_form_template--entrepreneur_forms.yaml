@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chief Executive Officer (CEO) Job Application Form Template
+    pages:
+    - id: 1
+      name: application_intro
+      label: -- CEO Job Application Form --
+      hint: Apply for the Chief Executive Officer position
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: current_position
+      label: Current or most recent position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: current_company
+      label: Current or most recent company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: years_in_role
+      label: Years in current/recent role
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: years_executive_experience
+      label: Years of executive leadership experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: previous_ceo_experience
+      label: Previous CEO or similar executive experience
+      hint: null
+      type: select_one
+      options:
+      - Yes, as CEO
+      - Yes, as President
+      - Yes, as COO or similar
+      - No direct CEO experience
+      required: true
+    - id: 11
+      name: company_size_experience
+      label: Largest company size managed
+      hint: null
+      type: select_one
+      options:
+      - Under 50 employees
+      - 50-100 employees
+      - 100-500 employees
+      - 500-1000 employees
+      - 1000-5000 employees
+      - Over 5000 employees
+      required: true
+    - id: 12
+      name: revenue_managed
+      label: Largest annual revenue managed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: education_level
+      label: Highest education level
+      hint: null
+      type: select_one
+      options:
+      - Bachelor's degree
+      - Master's degree
+      - MBA
+      - Doctorate
+      - Other professional degree
+      required: true
+    - id: 14
+      name: field_of_study
+      label: Primary field of study
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: industry_expertise
+      label: Industries with significant experience
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Technology
+      - Finance
+      - Healthcare
+      - Retail
+      - Manufacturing
+      - Energy
+      - Telecommunications
+      - Other
+      required: true
+    - id: 16
+      name: key_achievements
+      label: Key business achievements and accomplishments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: revenue_growth_success
+      label: Experience driving revenue growth
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: strategic_planning
+      label: Strategic planning and implementation skills
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Below average
+      - 3 - Average
+      - 4 - Above average
+      - 5 - Excellent
+      required: true
+    - id: 19
+      name: team_building
+      label: Team building and leadership abilities
+      hint: null
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Below average
+      - 3 - Average
+      - 4 - Above average
+      - 5 - Excellent
+      required: true
+    - id: 20
+      name: financial_management
+      label: Financial management expertise
+      hint: null
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Below average
+      - 3 - Average
+      - 4 - Above average
+      - 5 - Excellent
+      required: true
+    - id: 21
+      name: board_experience
+      label: Board of Directors experience
+      hint: null
+      type: select_one
+      options:
+      - Yes, multiple boards
+      - Yes, one board
+      - No board experience
+      required: true
+    - id: 22
+      name: vision_statement
+      label: Your vision for the company's future
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: salary_expectations
+      label: Salary expectations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: references
+      label: References or LinkedIn profile
+      hint: null
+      type: text
+      options: []
+      required: false

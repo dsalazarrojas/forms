@@ -1,0 +1,170 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Text Evaluation Survey
+    pages:
+    - id: 1
+      name: section_reviewer_info
+      label: -- Reviewer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reviewer_name
+      label: Name of Reviewer
+      hint: Full name and title
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: expertise_area
+      label: Area of Expertise
+      hint: Your primary academic field
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_manuscript
+      label: -- Manuscript Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: text_title
+      label: Title of the Text or Manuscript
+      hint: Full title of the document under review
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: author_pseudonym
+      label: Author ID or Pseudonym
+      hint: For blind review purposes
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: category_of_text
+      label: Category
+      hint: Select the type of scholarly work
+      type: select_one
+      options:
+      - Original Research
+      - Literature Review
+      - Case Study
+      - Theoretical Paper
+      required: true
+    - id: 8
+      name: section_criteria
+      label: -- Evaluation Criteria --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: clarity_and_coherence
+      label: Rate the clarity and coherence of the text
+      hint: Logical flow and readability
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 10
+      name: methodological_rigor
+      label: Rate the methodological rigor
+      hint: Appropriateness of methods used
+      type: select_one
+      options:
+      - Strong
+      - Adequate
+      - Weak
+      - Not Applicable
+      required: true
+    - id: 11
+      name: contribution_to_field
+      label: Originality and contribution to the field
+      hint: New insights or knowledge
+      type: select_one
+      options:
+      - Significant
+      - Moderate
+      - Minimal
+      - None
+      required: true
+    - id: 12
+      name: quality_of_writing
+      label: Quality of academic writing and grammar
+      hint: Adherence to formal standards
+      type: select_one
+      options:
+      - High
+      - Professional
+      - Needs Revision
+      - Poor
+      required: true
+    - id: 13
+      name: section_comments
+      label: -- Detailed Comments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: strengths
+      label: Key strengths of the work
+      hint: What was done well?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: weaknesses_and_revisions
+      label: Weaknesses and suggested revisions
+      hint: Areas for improvement
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: section_recommendation
+      label: -- Final Recommendation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: recommendation
+      label: Final Recommendation
+      hint: Select your final decision
+      type: select_one
+      options:
+      - Accept without revision
+      - Accept with minor revisions
+      - Major revisions required
+      - Reject
+      required: true
+    - id: 18
+      name: priority_for_publication
+      label: Priority for publication
+      hint: Editorial urgency
+      type: select_one
+      options:
+      - Top Priority
+      - High
+      - Medium
+      - Low
+      required: true

@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Client Assessment Form
+    pages:
+    - id: 1
+      name: client_info_section
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: Full name of the client
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Client company or business name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: industry_type
+      label: Industry Type
+      hint: Select the industry category
+      type: select_one
+      options:
+      - Technology
+      - Retail
+      - Manufacturing
+      - Services
+      - Healthcare
+      - Education
+      - Other
+      required: true
+    - id: 7
+      name: business_age
+      label: How long has the business been operating?
+      hint: Estimate in years
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assessment_section
+      label: -- Assessment Questions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: current_challenges
+      label: What are your current business challenges?
+      hint: Describe key obstacles or pain points
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: business_goals
+      label: What are your primary business goals?
+      hint: Short-term and long-term objectives
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: revenue_range
+      label: Annual Revenue Range
+      hint: Select the appropriate revenue bracket
+      type: select_one
+      options:
+      - Less than $100K
+      - $100K - $500K
+      - $500K - $1M
+      - $1M - $5M
+      - $5M+
+      required: true
+    - id: 12
+      name: team_size
+      label: Number of Employees
+      hint: Approximate team size
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: business_strengths
+      label: What are your business strengths?
+      hint: Areas where you excel
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: expansion_interest
+      label: Are you interested in business expansion?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Sure
+      required: true
+    - id: 15
+      name: support_section
+      label: -- Support Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: support_areas
+      label: Areas where you need support
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Strategy and Planning
+      - Marketing and Sales
+      - Operations
+      - Financial Management
+      - Technology
+      - HR and Team Building
+      required: true
+    - id: 17
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we reach you?
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Video Call
+      - In-Person
+      required: true
+    - id: 18
+      name: availability
+      label: Best Time to Contact You
+      hint: null
+      type: select_one
+      options:
+      - Morning (8AM - 12PM)
+      - Afternoon (12PM - 5PM)
+      - Evening (5PM - 8PM)
+      - Flexible
+      required: false
+    - id: 19
+      name: previous_consulting
+      label: Have you worked with consultants before?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Sure
+      required: false
+    - id: 20
+      name: budget_range
+      label: What is your budget for consulting services?
+      hint: Estimated amount you can invest
+      type: select_one
+      options:
+      - Less than $2,500
+      - $2,500 - $5,000
+      - $5,000 - $10,000
+      - $10,000 - $25,000
+      - $25,000+
+      required: false
+    - id: 21
+      name: additional_notes
+      label: Additional Notes or Comments
+      hint: Any other information you would like to share
+      type: text
+      options: []
+      required: false

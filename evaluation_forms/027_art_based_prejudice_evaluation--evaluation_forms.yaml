@@ -1,0 +1,209 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Art Based Prejudice Evaluation
+    pages:
+        - id: 1
+          name: section_participant
+          label: -- Participant Information --
+          hint: null
+          type: note
+          options: []
+          required: false
+        - id: 2
+          name: participant_id
+          label: Participant ID
+          hint: null
+          type: text
+          options: []
+          required: true
+        - id: 3
+          name: evaluation_date
+          label: Date of Evaluation
+          hint: null
+          type: date
+          options: []
+          required: true
+        - id: 4
+          name: age_group
+          label: Age Group
+          hint: null
+          type: select_one
+          options:
+            - Under 18
+            - 18-25
+            - 26-35
+            - 36-45
+            - 46-55
+            - 56-65
+            - 65+
+          required: false
+        - id: 5
+          name: section_artwork
+          label: -- Artwork Description --
+          hint: null
+          type: note
+          options: []
+          required: false
+        - id: 6
+          name: artwork_id
+          label: Artwork ID or Title
+          hint: null
+          type: text
+          options: []
+          required: true
+        - id: 7
+          name: artwork_description
+          label: Brief Description of What You See
+          hint: Objective description of visual elements
+          type: text
+          options: []
+          required: true
+        - id: 8
+          name: section_initial_response
+          label: -- Initial Reaction --
+          hint: null
+          type: note
+          options: []
+          required: false
+        - id: 9
+          name: immediate_reaction
+          label: Your Immediate Reaction
+          hint: null
+          type: text
+          options: []
+          required: true
+        - id: 10
+          name: emotional_impact
+          label: Emotional Impact
+          hint: How did it make you feel
+          type: select_multiple
+          options:
+            - Surprised
+            - Uncomfortable
+            - Moved or emotional
+            - Interested
+            - Offended
+            - Enlightened
+            - Indifferent
+          required: true
+        - id: 11
+          name: section_bias
+          label: -- Bias and Stereotype Assessment --
+          hint: null
+          type: note
+          options: []
+          required: false
+        - id: 12
+          name: stereotypes_present
+          label: Do you perceive any stereotypes in this artwork
+          hint: null
+          type: select_one
+          options:
+            - Yes, clear stereotypes
+            - Somewhat stereotypical
+            - Neutral
+            - Challenges stereotypes
+            - Clearly anti-stereotype
+          required: true
+        - id: 13
+          name: stereotype_examples
+          label: If yes, describe the stereotypes you perceive
+          hint: null
+          type: text
+          options: []
+          required: false
+        - id: 14
+          name: bias_awareness
+          label: Does the artwork challenge your own biases
+          hint: null
+          type: select_one
+          options:
+            - Yes, significantly
+            - Somewhat
+            - Neutral
+            - No, confirms my views
+          required: true
+        - id: 15
+          name: perspective_shift
+          label: Does this artwork shift your perspective
+          hint: null
+          type: select_one
+          options:
+            - Yes, significantly
+            - Somewhat
+            - Neutral
+            - No
+          required: true
+        - id: 16
+          name: section_message
+          label: -- Artist Intent and Message --
+          hint: null
+          type: note
+          options: []
+          required: false
+        - id: 17
+          name: artist_intent
+          label: What do you think the artist intended
+          hint: null
+          type: text
+          options: []
+          required: true
+        - id: 18
+          name: social_commentary
+          label: Does this artwork provide social commentary
+          hint: null
+          type: select_one
+          options:
+            - Yes, strong commentary
+            - Somewhat
+            - Unclear
+            - No
+          required: true
+        - id: 19
+          name: section_reflection
+          label: -- Personal Reflection --
+          hint: null
+          type: note
+          options: []
+          required: false
+        - id: 20
+          name: personal_relevance
+          label: How relevant is this to your own experiences
+          hint: null
+          type: select_one
+          options:
+            - Very relevant
+            - Somewhat relevant
+            - Slightly relevant
+            - Not relevant
+          required: false
+        - id: 21
+          name: conversation_starter
+          label: Would you discuss this artwork with others
+          hint: null
+          type: select_one
+          options:
+            - Yes, definitely
+            - Probably
+            - Maybe
+            - No
+          required: true
+        - id: 22
+          name: additional_thoughts
+          label: Additional Thoughts or Observations
+          hint: null
+          type: text
+          options: []
+          required: false

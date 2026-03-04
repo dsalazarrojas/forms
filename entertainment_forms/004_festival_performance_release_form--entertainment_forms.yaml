@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Festival Performance Release Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: performance_id
+      label: performance_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: release_type
+      label: Release Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Video''}'
+      - '{''id'': 2, ''label'': ''Audio''}'
+      - '{''id'': 3, ''label'': ''Audio & Video''}'
+      required: false
+    - id: 6
+      name: release_location
+      label: Release Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Online''}'
+      - '{''id'': 2, ''label'': ''In Person''}'
+      - '{''id'': 3, ''label'': ''Both''}'
+      required: false
+    - id: 7
+      name: performance_media_types
+      label: Performance Media Types
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Video''}'
+      - '{''id'': 2, ''label'': ''Audio''}'
+      - '{''id'': 3, ''label'': ''Photo''}'
+      - '{''id'': 4, ''label'': ''Poster''}'
+      required: false
+    - id: 8
+      name: performer_name
+      label: Performer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: performance_date
+      label: Performance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: performance_time
+      label: Performance Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: performer_agreement
+      label: Performer Agreement
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Agree''}'
+      - '{''id'': 2, ''label'': ''Decline''}'
+      required: false
+    - id: 13
+      name: artist_statement
+      label: Artist Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: manager_statement
+      label: Manager Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: record_label
+      label: Record Label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: manager_agreement
+      label: Manager Agreement
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Agree''}'
+      - '{''id'': 2, ''label'': ''Decline''}'
+      required: false
+    - id: 17
+      name: release_notes
+      label: Release Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: release_notes_additional
+      label: Additional Release Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: form_submission_note
+      label: Form Submission Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: performance_media_additional_files
+      label: Additional Performance Media Files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: record_label_agreement
+      label: Record Label Agreement
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Agree''}'
+      - '{''id'': 2, ''label'': ''Decline''}'
+      required: false
+    - id: 22
+      name: manager_agreement_2
+      label: Manager Agreement 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Agree''}'
+      - '{''id'': 2, ''label'': ''Decline''}'
+      required: false
+    - id: 23
+      name: artist_statement_2
+      label: Artist Statement 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: release_location_agreement
+      label: Release Location Agreement
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Agree''}'
+      - '{''id'': 2, ''label'': ''Decline''}'
+      required: false
+    - id: 25
+      name: record_label_agreement_2
+      label: Record Label Agreement 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Agree''}'
+      - '{''id'': 2, ''label'': ''Decline''}'
+      required: false

@@ -1,0 +1,206 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Beta Product Feedback Form
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Enter your name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: respondent_email
+        label: Email Address
+        hint: For follow-up communication
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: product_name
+        label: Beta Product Name
+        hint: Which beta product are you providing feedback for
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: usage_duration
+        label: How Long Have You Used the Product
+        hint: Duration of usage
+        type: select_one
+        options:
+          - Less than 1 week
+          - 1 to 2 weeks
+          - 2 to 4 weeks
+          - 1 to 2 months
+          - Over 2 months
+        required: true
+      - id: 5
+        name: overall_impression
+        label: Overall Impression
+        hint: Rate your overall impression
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 6
+        name: usability_rating
+        label: Usability Rating
+        hint: How easy is the product to use
+        type: select_one
+        options:
+          - Very Easy
+          - Easy
+          - Neutral
+          - Somewhat Difficult
+          - Very Difficult
+        required: true
+      - id: 7
+        name: feature_completeness
+        label: Feature Completeness
+        hint: Does the product have the features you need
+        type: select_one
+        options:
+          - Has All Features Needed
+          - Has Most Features Needed
+          - Has Some Features Needed
+          - Lacks Most Features
+          - Lacks All Features
+        required: true
+      - id: 8
+        name: liked_features
+        label: What Features Did You Like
+        hint: List the features you found most useful
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: disliked_features
+        label: What Features Did You Dislike
+        hint: List any features you found problematic
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: issues_encountered
+        label: What Issues Did You Encounter
+        hint: Describe any bugs or problems
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: performance_satisfaction
+        label: Performance Satisfaction
+        hint: How satisfied are you with product performance
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Somewhat Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 12
+        name: design_satisfaction
+        label: Design Satisfaction
+        hint: How satisfied are you with the visual design
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Somewhat Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 13
+        name: documentation_quality
+        label: Documentation Quality
+        hint: Rate the quality of help documentation
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+          - Not Available
+        required: false
+      - id: 14
+        name: customer_support
+        label: Customer Support Experience
+        hint: Rate your experience with support if applicable
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+          - Did Not Contact Support
+        required: false
+      - id: 15
+        name: value_proposition
+        label: Does This Product Provide Value
+        hint: Is the product valuable to you or your business
+        type: select_one
+        options:
+          - Extremely Valuable
+          - Very Valuable
+          - Somewhat Valuable
+          - Not Very Valuable
+          - No Value
+        required: true
+      - id: 16
+        name: improvements_needed
+        label: What Improvements Are Most Needed
+        hint: What should be prioritized for improvement
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: would_continue_using
+        label: Would You Continue Using After Launch
+        hint: Will you use the final version
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Not Sure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 18
+        name: would_recommend
+        label: Would You Recommend This Product
+        hint: Would you recommend to others
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Not Sure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 19
+        name: additional_feedback
+        label: Additional Feedback
+        hint: Any other comments or suggestions
+        type: text
+        options: []
+        required: false

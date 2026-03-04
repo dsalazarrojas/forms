@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Movie Awards Nomination Form
+    pages:
+    - id: 1
+      name: nomination_form
+      label: nomination_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: movie_name
+      label: movie_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: movie_genre
+      label: movie_genre
+      hint: null
+      type: select_multiple
+      options:
+      - Action
+      - Comedy
+      - Drama
+      - Horror
+      - Romance
+      required: false
+    - id: 4
+      name: release_year
+      label: release_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: nomination_reason
+      label: nomination_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: nomination_message
+      label: nomination_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Drama
+      - Horror
+      - Movie
+      - Music
+      - Theater
+      required: false

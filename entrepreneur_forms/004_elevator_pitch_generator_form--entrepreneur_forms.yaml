@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Elevator Pitch Generator Form
+    pages:
+    - id: 1
+      name: user_input
+      label: enter_your_pitch
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_role
+      label: job_role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: career_level
+      label: career_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: industry
+      label: industry
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Software and IT''}'
+      - '{''id'': 2, ''label'': ''Finance''}'
+      - '{''id'': 3, ''label'': ''Marketing and Advertising''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: elevator_pitch
+      label: elevator_pitch
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company_name
+      label: company_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: years_experience
+      label: years_experience
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Botox and Filler Consent Form
+    pages:
+    - id: 1
+      name: patient_full_name
+      label: Patient Full Name
+      hint: Legal name as it appears on ID
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: patient_phone
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: patient_email
+      label: Email Address
+      hint: For appointment confirmations and follow-up
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: patient_address
+      label: Address
+      hint: Complete home address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: treatment_date
+      label: Treatment Date
+      hint: Scheduled date for procedure
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: treatment_type
+      label: Treatment Type
+      hint: Select all procedures you are consenting to
+      type: select_multiple
+      options:
+      - Botox injections
+      - Dermal fillers
+      - Combination treatment
+      - Touch-up treatment
+      required: true
+    - id: 10
+      name: treatment_areas
+      label: Treatment Areas
+      hint: Select areas to be treated
+      type: select_multiple
+      options:
+      - Forehead lines
+      - Crow's feet
+      - Frown lines between eyebrows
+      - Nasolabial folds
+      - Marionette lines
+      - Lip augmentation
+      - Cheek enhancement
+      - Chin augmentation
+      - Jawline contouring
+      - Under-eye area
+      required: true
+    - id: 11
+      name: previous_treatments
+      label: Previous Botox or Filler Treatments
+      hint: Have you had these treatments before
+      type: select_one
+      options:
+      - Yes, multiple times
+      - Yes, once
+      - No, this is my first time
+      required: true
+    - id: 12
+      name: last_treatment_date
+      label: Date of Last Treatment
+      hint: If applicable, when was your last treatment
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: medical_conditions
+      label: Current Medical Conditions
+      hint: Select any that apply
+      type: select_multiple
+      options:
+      - None
+      - Pregnancy
+      - Breastfeeding
+      - Neuromuscular disorders
+      - Bleeding disorders
+      - Active skin infections
+      - Autoimmune conditions
+      - Allergies
+      - Diabetes
+      required: true
+    - id: 14
+      name: current_medications
+      label: Current Medications
+      hint: List all medications and supplements you are taking
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: allergies
+      label: Known Allergies
+      hint: List any allergies, especially to medications or cosmetics
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: risks_acknowledged
+      label: Risks Acknowledged
+      hint: I understand the potential risks and side effects
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I need more information
+      required: true
+    - id: 17
+      name: aftercare_instructions
+      label: Aftercare Instructions
+      hint: I agree to follow all aftercare instructions
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true
+    - id: 18
+      name: photo_consent
+      label: Photo Consent
+      hint: I consent to before and after photos for medical records
+      type: select_one
+      options:
+      - Yes, for medical records only
+      - Yes, for medical records and marketing
+      - No, I do not consent
+      required: true
+    - id: 19
+      name: satisfaction_understanding
+      label: Results Understanding
+      hint: I understand that results vary and are not guaranteed
+      type: select_one
+      options:
+      - Yes, I understand
+      - false
+      required: true
+    - id: 20
+      name: patient_questions
+      label: Questions or Concerns
+      hint: List any questions you have before proceeding
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: patient_signature
+      label: Patient Signature
+      hint: Type your full legal name as signature
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: provider_signature
+      label: Provider Signature
+      hint: Provider to sign
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: witness_signature
+      label: Witness Signature
+      hint: Witness to sign
+      type: text
+      options: []
+      required: false

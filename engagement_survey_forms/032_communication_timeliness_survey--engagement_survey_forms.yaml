@@ -1,0 +1,284 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Communication Timeliness Survey
+    pages:
+      - id: 1
+        name: survey_introduction
+        label: Survey Introduction
+        hint: Help us improve communication timeliness
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: participant_name
+        label: Participant Name
+        hint: Your full name - optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: participant_email
+        label: Participant Email
+        hint: Your email address
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: department
+        label: Department
+        hint: Which department do you work in
+        type: select_one
+        options:
+          - Executive
+          - Sales
+          - Marketing
+          - Engineering
+          - Product
+          - Human Resources
+          - Finance
+          - Operations
+          - Customer Support
+          - IT
+          - Other
+        required: true
+      - id: 5
+        name: role_level
+        label: Role Level
+        hint: Your level in the organization
+        type: select_one
+        options:
+          - Individual Contributor
+          - Team Lead
+          - Manager
+          - Senior Manager
+          - Director
+          - Executive
+        required: true
+      - id: 6
+        name: tenure
+        label: Tenure
+        hint: How long have you been with the company
+        type: select_one
+        options:
+          - Less than 6 months
+          - 6 months - 1 year
+          - 1-2 years
+          - 2-5 years
+          - 5+ years
+        required: true
+      - id: 7
+        name: response_time_satisfaction
+        label: Response Time Satisfaction
+        hint: Questions about communication response times
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: email_response_time
+        label: Email Response Time
+        hint: How satisfied are you with email response times
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 9
+        name: meeting_response_time
+        label: Meeting Response Time
+        hint: How satisfied are you with meeting invitation response times
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 10
+        name: decision_communication_time
+        label: Decision Communication Time
+        hint: How satisfied are you with how quickly decisions are communicated
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 11
+        name: feedback_response_time
+        label: Feedback Response Time
+        hint: How satisfied are you with feedback response times
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 12
+        name: information_delivery_time
+        label: Information Delivery Time
+        hint: How satisfied are you with how quickly information is shared
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 13
+        name: urgency_handling
+        label: Urgency Handling
+        hint: How well are urgent communications handled
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - Very Poor
+        required: true
+      - id: 14
+        name: typical_response_time
+        label: Typical Response Time
+        hint: What is the typical response time you experience
+        type: select_one
+        options:
+          - Within 1 hour
+          - Within 4 hours
+          - Within 1 day
+          - 2-3 days
+          - More than 3 days
+        required: true
+      - id: 15
+        name: expected_response_time
+        label: Expected Response Time
+        hint: What should the expected response time be
+        type: select_one
+        options:
+          - Within 1 hour
+          - Within 4 hours
+          - Within 1 day
+          - 2-3 days
+          - Within 1 week
+        required: true
+      - id: 16
+        name: communication_delays
+        label: Communication Delays
+        hint: How often do you experience communication delays
+        type: select_one
+        options:
+          - Very Often
+          - Often
+          - Sometimes
+          - Rarely
+          - Never
+        required: true
+      - id: 17
+        name: delay_causes
+        label: Delay Causes
+        hint: What causes most communication delays
+        type: select_multiple
+        options:
+          - High Workload
+          - Unclear Priorities
+          - Too Many Approvers
+          - Technical Issues
+          - Time Zone Differences
+          - Lack of Resources
+          - Poor Processes
+          - Not Applicable
+        required: true
+      - id: 18
+        name: impact_assessment
+        label: Impact Assessment
+        hint: How do delays impact your work
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: work_impact
+        label: Work Impact
+        hint: How much do communication delays impact your work
+        type: select_one
+        options:
+          - Significantly
+          - Moderately
+          - Somewhat
+          - Minimally
+          - Not at All
+        required: true
+      - id: 20
+        name: project_impact
+        label: Project Impact
+        hint: Have delays caused project delays
+        type: select_one
+        options:
+          - Frequently
+          - Occasionally
+          - Rarely
+          - Never
+        required: true
+      - id: 21
+        name: stress_level
+        label: Stress Level
+        hint: Do communication delays cause you stress
+        type: select_one
+        options:
+          - Very High Stress
+          - High Stress
+          - Moderate Stress
+          - Low Stress
+          - No Stress
+        required: true
+      - id: 22
+        name: improvement_suggestions
+        label: Improvement Suggestions
+        hint: What would improve communication timeliness
+        type: text
+        options: []
+        required: true
+      - id: 23
+        name: best_practices
+        label: Best Practices
+        hint: What communication practices work well
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: willing_to_improve
+        label: Willing to Improve
+        hint: Are you willing to participate in improvement initiatives
+        type: select_one
+        options:
+          - "Yes - Very Willing"
+          - "Yes - Willing"
+          - "Neutral"
+          - "No"
+        required: false
+      - id: 25
+        name: survey_date
+        label: Survey Date
+        hint: Date you completed this survey
+        type: date
+        options: []
+        required: true

@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Battery Discharge Test Log
+    pages:
+    - id: 1
+      name: test_id
+      label: Test ID
+      hint: Unique test identifier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: test_date
+      label: Test Date
+      hint: Date of test
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: test_time
+      label: Start Time
+      hint: Test start time
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: technician_name
+      label: Technician Name
+      hint: Who performed test
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: battery_id
+      label: Battery ID
+      hint: Battery identifier
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: battery_type
+      label: Battery Type
+      hint: Type of battery
+      type: select_one
+      options:
+      - Lithium-Ion
+      - Lead-Acid
+      - Nickel-Cadmium
+      - Nickel-Metal Hydride
+      - Lithium Polymer
+      - Other
+      required: true
+    - id: 7
+      name: battery_capacity
+      label: Battery Capacity
+      hint: Rated capacity
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: battery_voltage
+      label: Nominal Voltage
+      hint: Rated voltage
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: battery_serial
+      label: Serial Number
+      hint: Manufacturer serial
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: battery_age
+      label: Battery Age
+      hint: How old is battery
+      type: select_one
+      options:
+      - New - Less than 6 months
+      - 6 months to 1 year
+      - 1 to 2 years
+      - 2 to 3 years
+      - Over 3 years
+      required: true
+    - id: 11
+      name: initial_voltage
+      label: Initial Voltage Reading
+      hint: Before discharge
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: initial_temperature
+      label: Initial Temperature
+      hint: In Celsius
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: discharge_rate
+      label: Discharge Rate
+      hint: Current draw
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: load_applied
+      label: Load Applied
+      hint: Test load
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: cutoff_voltage
+      label: Cutoff Voltage
+      hint: End voltage threshold
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: final_voltage
+      label: Final Voltage Reading
+      hint: At end of test
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: final_temperature
+      label: Final Temperature
+      hint: In Celsius
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: discharge_duration
+      label: Discharge Duration
+      hint: How long test ran
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: capacity_delivered
+      label: Capacity Delivered
+      hint: Actual capacity
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: test_result
+      label: Test Result
+      hint: Pass or fail
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Marginal
+      required: true
+    - id: 21
+      name: anomalies_observed
+      label: Anomalies Observed
+      hint: Any issues
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: equipment_used
+      label: Test Equipment Used
+      hint: Equipment ID
+      type: text
+      options: []
+      required: true

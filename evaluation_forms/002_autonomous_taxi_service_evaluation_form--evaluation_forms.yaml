@@ -1,0 +1,156 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Autonomous Taxi Service Evaluation Form
+    pages:
+      - id: 1
+        name: section_ride_details
+        label: -- Ride Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: full_name
+        label: Full Name
+        hint: Your name for our records
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email_address
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: ride_id
+        label: Ride ID
+        hint: Found in your trip history
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: ride_date
+        label: Date of Ride
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: ride_locations
+        label: Pickup and Drop-off Locations
+        hint: Enter both locations separated by a comma
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: section_feedback
+        label: -- Service Evaluation --
+        hint: Rate on a scale of 1-5, where 1 is Poor and 5 is Excellent
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: vehicle_cleanliness
+        label: Vehicle Cleanliness
+        hint: Rate the interior and exterior condition
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Fair
+          - 3 - Average
+          - 4 - Good
+          - 5 - Excellent
+        required: true
+      - id: 9
+        name: ease_of_pickup
+        label: Ease of Pickup
+        hint: How well did the car find you?
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Fair
+          - 3 - Average
+          - 4 - Good
+          - 5 - Excellent
+        required: true
+      - id: 10
+        name: route_efficiency
+        label: Route Efficiency
+        hint: Did the car take the most optimal path?
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Fair
+          - 3 - Average
+          - 4 - Good
+          - 5 - Excellent
+        required: true
+      - id: 11
+        name: driving_safety
+        label: Perception of Driving Safety
+        hint: How safe did you feel during the trip?
+        type: select_one
+        options:
+          - 1 - Very Unsafe
+          - 2 - Unsafe
+          - 3 - Neutral
+          - 4 - Safe
+          - 5 - Very Safe
+        required: true
+      - id: 12
+        name: overall_experience
+        label: Overall Ride Experience
+        hint: null
+        type: select_one
+        options:
+          - 1 - Unsatisfactory
+          - 2 - Needs Improvement
+          - 3 - Satisfactory
+          - 4 - Very Good
+          - 5 - Outstanding
+        required: true
+      - id: 13
+        name: improvement_areas
+        label: Areas for Improvement
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - App Navigation and Booking
+          - Pickup Precision
+          - Drop-off Locations
+          - Vehicle Comfort and HVAC
+          - In-car Entertainment
+        required: false
+      - id: 14
+        name: recommend_service
+        label: Would you recommend our service?
+        hint: null
+        type: select_one
+        options:
+          - Definitely
+          - Likely
+          - Neutral
+          - Unlikely
+          - Not at all
+        required: true
+      - id: 15
+        name: additional_comments
+        label: Additional Comments
+        hint: Please provide any other feedback
+        type: text
+        options: []
+        required: false

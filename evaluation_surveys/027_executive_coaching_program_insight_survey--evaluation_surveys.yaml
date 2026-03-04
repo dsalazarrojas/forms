@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Executive Coaching Program Insight Survey
+    pages:
+    - id: 1
+      name: coaching_program
+      label: Coaching Program
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: current_goal
+      label: Current Goal
+      hint: Please provide your current goal
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: goal_achievement
+      label: Goal Achievement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: coaching_style
+      label: Coaching Style
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Style 1''}'
+      - '{''label'': ''Style 2''}'
+      - '{''label'': ''Style 3''}'
+      required: false
+    - id: 5
+      name: frequency
+      label: Frequency
+      hint: null
+      type: text
+      options: []
+      required: false

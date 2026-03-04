@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Efficiency Evaluation Request Form
+    pages:
+    - id: 1
+      name: project_efficiency_evaluation_request_form
+      label: Project Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - On Hold
+      - Closed
+      required: false
+    - id: 3
+      name: project_type
+      label: Project Type
+      hint: Please select the type of project
+      type: select_multiple
+      options:
+      - Internal
+      - External
+      required: false
+    - id: 4
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: evaluation_date
+      label: Evaluation Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: evaluation_time
+      label: Evaluation Time
+      hint: "hh:mm AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

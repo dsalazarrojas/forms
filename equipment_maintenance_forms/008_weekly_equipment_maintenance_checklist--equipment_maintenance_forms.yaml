@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Equipment Maintenance Checklist
+    pages:
+    - id: 1
+      name: maintenance_activity
+      label: Maintenance Activity
+      hint: null
+      type: select_one
+      options:
+      - Maintenance activity
+      - Repair
+      - Inspect
+      required: false
+    - id: 2
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: equipment_category
+      label: Equipment Category
+      hint: null
+      type: select_multiple
+      options:
+      - General
+      - HVAC
+      - Electrical
+      - Plumbing
+      - Piping
+      required: false
+    - id: 4
+      name: maintenance_date
+      label: Maintenance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: maintenance_by
+      label: Maintenance By
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Joe
+      required: false
+    - id: 8
+      name: equipment_condition
+      label: Equipment Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Bad
+      - Needs Repair
+      - Needs Inspection
+      required: false
+    - id: 9
+      name: maintenance_priority
+      label: Maintenance Priority
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 10
+      name: maintenance_status
+      label: Maintenance Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Pending
+      - Ongoing
+      required: false
+    - id: 11
+      name: next_maintenance
+      label: Next Maintenance
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Never
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: photos
+      label: Photos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: attachments
+      label: Attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: maintenance_scheduling
+      label: Maintenance Scheduling
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 16
+      name: last_maintenance_scheduled
+      label: Last Maintenance Scheduled
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: equipment_count
+      label: Equipment Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: maintenance_frequency
+      label: Maintenance Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Never
+      required: false
+    - id: 19
+      name: last_maintenance_date
+      label: Last Maintenance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: equipment_location
+      label: Equipment Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: maintenance_last_by
+      label: Last Maintenance By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: remarks2
+      label: Remarks 2
+      hint: null
+      type: text
+      options: []
+      required: false

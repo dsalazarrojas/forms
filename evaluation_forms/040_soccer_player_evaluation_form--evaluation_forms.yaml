@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Soccer Player Evaluation Form
+    pages:
+    - id: 1
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: position
+      label: player_position
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Goalkeeper''}'
+      - '{''id'': 2, ''label'': ''Defender''}'
+      - '{''id'': 3, ''label'': ''Midfielder''}'
+      - '{''id'': 4, ''label'': ''Forward''}'
+      required: true
+    - id: 3
+      name: technical_skills
+      label: technical_skills
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: tactical_skills
+      label: tactical_skills
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: physical_skills
+      label: physical_skills
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: psychological_skills
+      label: psychological_skills
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: overall_rating
+      label: overall_rating
+      hint: null
+      type: number
+      options: []
+      required: false

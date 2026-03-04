@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Analytics Awareness Survey
+    pages:
+    - id: 1
+      name: employee_number
+      label: Employee Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: kpi_category
+      label: select_one_kpi_category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Financial Performance''}'
+      - '{''value'': ''Non-Financial Performance''}'
+      required: true
+    - id: 3
+      name: kpi_category_answer_1
+      label: kpi_category_answer_1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: kpi_category_answer_2
+      label: kpi_category_answer_2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: kpi_category_answer_3
+      label: kpi_category_answer_3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: kpi_category_answer_4
+      label: kpi_category_answer_4
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: kpi_category_answer_5
+      label: kpi_category_answer_5
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: kpi_category_answer_6
+      label: kpi_category_answer_6
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: performance_analytics_system
+      label: select_one_performance_analytics_system
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Qlik''}'
+      - '{''value'': ''Tableau''}'
+      - '{''value'': ''Looker''}'
+      required: true
+    - id: 12
+      name: performance_analytics_system_answer_1
+      label: select_one_performance_analytics_system_answer_1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: performance_analytics_system_answer_2
+      label: select_one_performance_analytics_system_answer_2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: performance_analytics_system_answer_3
+      label: select_one_performance_analytics_system_answer_3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: performance_analytics_system_answer_4
+      label: select_one_performance_analytics_system_answer_4
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: performance_analytics_system_answer_5
+      label: select_one_performance_analytics_system_answer_5
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: kpi_category_answer_7
+      label: kpi_category_answer_7
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: kpi_category_answer_8
+      label: kpi_category_answer_8
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: kpi_category_answer_9
+      label: kpi_category_answer_9
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: kpi_category_answer_10
+      label: kpi_category_answer_10
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: date_1
+      label: Date 1
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: time_1
+      label: Time 1
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: date_2
+      label: Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: time_2
+      label: Time 2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: date_3
+      label: Date 3
+      hint: null
+      type: date
+      options: []
+      required: false

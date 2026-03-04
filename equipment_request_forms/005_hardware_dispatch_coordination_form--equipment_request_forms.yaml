@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hardware Dispatch Coordination Form
+    pages:
+    - id: 1
+      name: request_details
+      label: Request Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: equipment_details
+      label: Equipment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: dispatch_timing
+      label: Dispatch Timing
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: status_updates
+      label: Status Updates
+      hint: null
+      type: text
+      options: []
+      required: false

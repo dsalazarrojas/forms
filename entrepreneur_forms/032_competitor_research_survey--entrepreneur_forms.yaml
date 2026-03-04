@@ -1,0 +1,306 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Competitor Research Survey
+    pages:
+      - id: 1
+        name: survey_date
+        label: Survey Date
+        hint: Date of survey completion
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: respondent_name
+        label: Respondent Name
+        hint: Your name
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: respondent_email
+        label: Respondent Email
+        hint: Your email
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: company_name
+        label: Your Company
+        hint: Your organization
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: industry
+        label: Industry
+        hint: Your industry sector
+        type: select_one
+        options:
+          - Technology
+          - Healthcare
+          - Finance
+          - Manufacturing
+          - Retail
+          - Services
+          - Education
+          - Hospitality
+          - Other
+        required: true
+      - id: 6
+        name: company_size
+        label: Company Size
+        hint: Number of employees
+        type: select_one
+        options:
+          - Solo entrepreneur
+          - 2 to 10 employees
+          - 11 to 50 employees
+          - 51 to 200 employees
+          - 201 to 500 employees
+          - Over 500 employees
+        required: true
+      - id: 7
+        name: role_in_company
+        label: Your Role
+        hint: Your position
+        type: select_one
+        options:
+          - Owner or Founder
+          - C-Level Executive
+          - Director
+          - Manager
+          - Team Lead
+          - Individual Contributor
+          - Other
+        required: true
+      - id: 8
+        name: primary_competitor
+        label: Primary Competitor Name
+        hint: Your main competitor
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: competitor_market_share
+        label: Competitor Market Share
+        hint: Estimated percentage
+        type: select_one
+        options:
+          - Dominant - over 50 percent
+          - Large - 25 to 50 percent
+          - Moderate - 10 to 25 percent
+          - Small - 5 to 10 percent
+          - Minimal - under 5 percent
+          - Not sure
+        required: true
+      - id: 10
+        name: competitor_strengths
+        label: Competitor Key Strengths
+        hint: What they do well
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: competitor_weaknesses
+        label: Competitor Key Weaknesses
+        hint: Where they struggle
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: competitor_pricing
+        label: Competitor Pricing
+        hint: How do they price vs you
+        type: select_one
+        options:
+          - Much higher than us
+          - Somewhat higher
+          - About the same
+          - Somewhat lower
+          - Much lower than us
+          - Not comparable
+        required: true
+      - id: 13
+        name: competitor_quality
+        label: Competitor Product Quality
+        hint: Quality perception
+        type: select_one
+        options:
+          - Superior to ours
+          - Better than ours
+          - Comparable to ours
+          - Worse than ours
+          - Inferior to ours
+          - Not sure
+        required: true
+      - id: 14
+        name: competitor_customer_service
+        label: Competitor Customer Service
+        hint: Their service quality
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below average
+          - Poor
+          - Not sure
+        required: true
+      - id: 15
+        name: competitor_brand_recognition
+        label: Competitor Brand Recognition
+        hint: Brand awareness
+        type: select_one
+        options:
+          - Very high - well known
+          - High
+          - Moderate
+          - Low
+          - Very low - unknown
+        required: true
+      - id: 16
+        name: competitor_marketing
+        label: Competitor Marketing Effectiveness
+        hint: How good is their marketing
+        type: select_one
+        options:
+          - Very effective
+          - Effective
+          - Average
+          - Ineffective
+          - Very ineffective
+          - Not visible
+        required: true
+      - id: 17
+        name: competitor_innovation
+        label: Competitor Innovation
+        hint: How innovative are they
+        type: select_one
+        options:
+          - Industry leader
+          - Very innovative
+          - Somewhat innovative
+          - Follower
+          - Not innovative
+          - Not sure
+        required: true
+      - id: 18
+        name: lost_deals_to_competitor
+        label: Have you lost deals to them
+        hint: Lost business
+        type: select_one
+        options:
+          - Yes - frequently
+          - Yes - occasionally
+          - Yes - rarely
+          - No - never
+          - Not sure
+        required: true
+      - id: 19
+        name: why_lost_deals
+        label: Why Did You Lose Deals
+        hint: Main reasons
+        type: select_multiple
+        options:
+          - Price too high
+          - Features lacking
+          - Brand preference
+          - Existing relationship
+          - Better terms
+          - Faster delivery
+          - Better service
+          - Other
+        required: false
+      - id: 20
+        name: won_deals_against_competitor
+        label: Have you won deals against them
+        hint: Won business
+        type: select_one
+        options:
+          - Yes - frequently
+          - Yes - occasionally
+          - Yes - rarely
+          - No - never
+          - Not sure
+        required: true
+      - id: 21
+        name: why_won_deals
+        label: Why Did You Win Deals
+        hint: Main reasons
+        type: select_multiple
+        options:
+          - Better price
+          - Better features
+          - Better service
+          - Existing relationship
+          - Better quality
+          - Faster delivery
+          - Better reputation
+          - Other
+        required: false
+      - id: 22
+        name: competitive_threat_level
+        label: Overall Threat Level
+        hint: How much of a threat are they
+        type: select_one
+        options:
+          - Critical - major threat
+          - High - significant threat
+          - Moderate - some threat
+          - Low - minor threat
+          - Minimal - no real threat
+        required: true
+      - id: 23
+        name: monitoring_frequency
+        label: How Often Do You Monitor Them
+        hint: Competitive intelligence frequency
+        type: select_one
+        options:
+          - Daily
+          - Weekly
+          - Monthly
+          - Quarterly
+          - Rarely
+          - Never
+        required: true
+      - id: 24
+        name: information_sources
+        label: How Do You Gather Information
+        hint: Sources of intelligence
+        type: select_multiple
+        options:
+          - Their website
+          - Social media
+          - Industry reports
+          - Customer feedback
+          - Sales team
+          - Trade shows
+          - News articles
+          - Other
+        required: false
+      - id: 25
+        name: strategic_response
+        label: How Are You Responding
+        hint: Your competitive strategy
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other insights
+        type: text
+        options: []
+        required: false

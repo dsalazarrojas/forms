@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consumer Authorization Form
+    pages:
+    - id: 1
+      name: consumer_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: consumer_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: consumer_email
+      label: Email Address
+      hint: Primary email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: consumer_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: consumer_address
+      label: Street Address
+      hint: Your mailing address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: consumer_city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: consumer_state
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: consumer_zip
+      label: ZIP or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: authorization_type
+      label: Type of Authorization
+      hint: Select what you are authorizing
+      type: select_one
+      options:
+      - Payment Authorization
+      - Service Authorization
+      - Information Release
+      - Marketing Communications
+      - Data Processing
+      - Background Check
+      - Credit Check
+      - Other
+      required: true
+    - id: 11
+      name: authorization_details
+      label: Authorization Details
+      hint: Describe what you are authorizing
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: authorized_party
+      label: Authorized Party
+      hint: Who are you authorizing
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: authorization_amount
+      label: Authorization Amount
+      hint: Dollar amount if applicable
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: authorization_start_date
+      label: Authorization Start Date
+      hint: When does this authorization begin
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: authorization_end_date
+      label: Authorization End Date
+      hint: When does this authorization expire
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: recurring_authorization
+      label: Is This a Recurring Authorization
+      hint: Select if this is ongoing
+      type: select_one
+      options:
+      - Yes, Recurring
+      - No, One-Time Only
+      required: true
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: Select payment method if applicable
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Account
+      - Check
+      - Cash
+      - Not Applicable
+      required: false
+    - id: 18
+      name: card_last_four
+      label: Last Four Digits
+      hint: Last four digits of card or account
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: purpose_of_authorization
+      label: Purpose of Authorization
+      hint: Why is this authorization needed
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: terms_acknowledgment
+      label: Terms and Conditions
+      hint: I have read and agree to the terms
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 21
+      name: privacy_policy_acknowledgment
+      label: Privacy Policy
+      hint: I have read the privacy policy
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 22
+      name: revocation_understanding
+      label: Revocation Understanding
+      hint: I understand I can revoke this authorization
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true
+    - id: 23
+      name: consumer_signature
+      label: Consumer Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: witness_name
+      label: Witness Name
+      hint: Name of witness if required
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: witness_signature
+      label: Witness Signature
+      hint: Witness signature if required
+      type: text
+      options: []
+      required: false

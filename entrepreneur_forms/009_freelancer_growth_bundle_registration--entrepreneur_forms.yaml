@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Freelancer Growth Bundle Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: goal
+      label: Goal
+      hint: What is your goal?
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: experience_level
+      label: Experience Level
+      hint: null
+      type: select_multiple
+      options:
+      - beginner
+      - intermediate
+      - advanced
+      required: false
+    - id: 7
+      name: experience_years
+      label: Experience Years
+      hint: null
+      type: number
+      options: []
+      required: false

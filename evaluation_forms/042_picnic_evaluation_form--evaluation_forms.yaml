@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Picnic Evaluation Form
+    pages:
+    - id: 1
+      name: picnic_event_id
+      label: Picnic Event Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: evaluator_name
+      label: Evaluator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: picnic_location
+      label: Picnic Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: picnic_description
+      label: Picnic Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: areas_of_improvement
+      label: Areas of Improvement
+      hint: null
+      type: select_multiple
+      options:
+      - Poor
+      - Good
+      - Fair
+      - Excellent
+      required: false
+    - id: 9
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mobile Checklist Tracker
+    pages:
+    - id: 1
+      name: user_input
+      label: MobileDeviceInspection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: asset_check
+      label: AssetCheck
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_submitted
+      label: DateSubmitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_submitted
+      label: TimeSubmitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: submitted_by
+      label: SubmittedBy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: facility_name
+      label: FacilityName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: asset_tag
+      label: AssetTag
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: asset_model
+      label: AssetModel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: condition
+      label: Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Critical
+      - Minor
+      - Normal
+      required: false
+    - id: 10
+      name: asset_status
+      label: AssetStatus
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Offline
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email_address
+      label: EmailAddress
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone_number
+      label: PhoneNumber
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: checklist_status
+      label: ChecklistStatus
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: checklist_completed
+      label: ChecklistCompleted
+      hint: null
+      type: select_multiple
+      options:
+      - Complete
+      - Incomplete
+      - Not Started
+      required: false
+    - id: 17
+      name: asset_type
+      label: AssetType
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: serial_number
+      label: SerialNumber
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: asset_location
+      label: AssetLocation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: asset_description
+      label: AssetDescription
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: equipment_category
+      label: EquipmentCategory
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: asset_tag_number
+      label: AssetTagNumber
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: asset_make
+      label: AssetMake
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: asset_model_year
+      label: AssetModelYear
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: asset_model_number
+      label: AssetModelNumber
+      hint: null
+      type: text
+      options: []
+      required: false

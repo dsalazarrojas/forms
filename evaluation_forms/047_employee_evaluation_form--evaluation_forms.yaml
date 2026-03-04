@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Evaluation Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: performance
+      label: Performance
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: work_quality
+      label: Work Quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: communication
+      label: Communication
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: teamwork
+      label: Teamwork
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: leadership
+      label: Leadership
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: adaptability
+      label: Adaptability
+      hint: null
+      type: number
+      options: []
+      required: false

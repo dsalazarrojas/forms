@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Event Equipment Request Form
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_needed
+      label: Equipment Needed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: delivery_details
+      label: Delivery Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: equipment_return
+      label: Equipment Return
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: delivery_option_1
+      label: Delivery Option 1
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 5.1, ''name'': ''option_a''}'
+      - '{''id'': 5.2, ''name'': ''option_b''}'
+      - '{''id'': 5.3, ''name'': ''option_c''}'
+      - '{''id'': 5.4, ''name'': ''option_d''}'
+      required: false
+    - id: 6
+      name: delivery_option_2
+      label: Delivery Option 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 6.1, ''name'': ''option_e''}'
+      - '{''id'': 6.2, ''name'': ''option_f''}'
+      - '{''id'': 6.3, ''name'': ''option_g''}'
+      - '{''id'': 6.4, ''name'': ''option_h''}'
+      required: false
+    - id: 7
+      name: return_details
+      label: Return Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_team_name
+      label: Event Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_team_email
+      label: Event Team Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: it_team_name
+      label: IT Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: it_team_email
+      label: IT Team Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: av_team_name
+      label: AV Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: av_team_email
+      label: AV Team Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: schedule_start_date
+      label: Schedule Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: schedule_end_date
+      label: Schedule End Date
+      hint: null
+      type: date
+      options: []
+      required: false

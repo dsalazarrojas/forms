@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Outcome Assessment Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: outcome_area
+      label: Outcome Area
+      hint: null
+      type: select_one
+      options:
+      - Program Effectiveness
+      - Program Impact
+      - Program Outcomes
+      required: false
+    - id: 3
+      name: effectiveness_scale
+      label: Effectiveness Scale
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 4
+      name: effectiveness_score
+      label: Effectiveness Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: outcomes
+      label: Outcomes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: impact_score
+      label: Impact Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: time_frame
+      label: Time Frame
+      hint: null
+      type: select_one
+      options:
+      - Long
+      - Medium
+      - Short
+      required: false
+    - id: 8
+      name: evaluation_period
+      label: Evaluation Period
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: evaluation_time
+      label: Evaluation Time
+      hint: null
+      type: time
+      options: []
+      required: false

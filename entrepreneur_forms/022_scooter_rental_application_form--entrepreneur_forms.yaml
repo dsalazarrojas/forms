@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scooter Rental Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: type_of_scooter
+      label: Type Of Scooter
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: color_of_scooter
+      label: Color Of Scooter
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: date_of_rental
+      label: Date Of Rental
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_rental
+      label: Time Of Rental
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: duration_of_rental
+      label: Duration Of Rental
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: scooter_rental_agency
+      label: Scooter Rental Agency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

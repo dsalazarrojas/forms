@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: structural_engineer_review_application_form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_documents
+      label: Project Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: structural_design
+      label: Structural Design
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: false
+    - id: 4
+      name: building_condition
+      label: Building Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: true
+    - id: 5
+      name: building_type
+      label: Building Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: true
+    - id: 6
+      name: project_address
+      label: Project Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: property_owner
+      label: Property Owner
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: true
+    - id: 14
+      name: reviewer_notes
+      label: Reviewer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: reviewer_email
+      label: Reviewer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: reviewer_phone
+      label: Reviewer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: reviewer_company
+      label: Reviewer Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: reviewer_role
+      label: Reviewer Role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: project_manager_name
+      label: Project Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: project_manager_email
+      label: Project Manager Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 22
+      name: project_manager_phone
+      label: Project Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: project_manager_company
+      label: Project Manager Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: structural_engineer_designer
+      label: Structural Engineer Designer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: structural_engineer_supervisor
+      label: Structural Engineer Supervisor
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Film Festival Judge Registration Form
+    pages:
+    - id: 1
+      name: festival_name
+      label: Festival Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - Film Judge
+      - Festival Curator
+      - Festival Programmer
+      - Producer
+      required: true
+    - id: 7
+      name: judge_experience
+      label: Judge Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 5 years
+      - 2-10 years
+      - 10+ years
+      - Less than 5 years
+      required: false
+    - id: 8
+      name: available_dates
+      label: Available Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

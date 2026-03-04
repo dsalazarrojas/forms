@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Baseball Evaluation Form
+    pages:
+    - id: 1
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: position
+      label: Position
+      hint: null
+      type: select_one
+      options:
+      - Catcher
+      - First Base
+      - Pitcher
+      - Second Base
+      - Short Stop
+      - Third Base
+      required: false
+    - id: 4
+      name: batting_skill_level
+      label: Batting Skill Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: fielding_skill_level
+      label: Fielding Skill Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: throwing_skill_level
+      label: Throwing Skill Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: running_skill_level
+      label: Running Skill Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: evaluated_by
+      label: Evaluated By
+      hint: null
+      type: select_one
+      options:
+      - Player Name
+      - Coach Name
+      - Parent Name
+      required: false
+    - id: 12
+      name: evaluator_notes
+      label: Evaluator Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: player_notes
+      label: Player Notes
+      hint: null
+      type: text
+      options: []
+      required: false

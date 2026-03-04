@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Promotion Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: Your email for promotional updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Your contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: mailing_address
+      label: Mailing Address
+      hint: Street address for mail communications
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: state_province
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: postal_code
+      label: Postal Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: purchase_interest
+      label: Products or Services of Interest
+      hint: What are you interested in buying
+      type: select_multiple
+      options:
+      - Clothing and Apparel
+      - Electronics
+      - Home and Garden
+      - Sports and Outdoors
+      - Beauty and Personal Care
+      - Food and Beverages
+      - Books and Media
+      - Jewelry and Accessories
+      - Other
+      required: true
+    - id: 9
+      name: awareness_source
+      label: How Did You Hear About Us
+      hint: Where did you learn about our business
+      type: select_one
+      options:
+      - In-store Display
+      - Social Media
+      - Word of Mouth
+      - Advertising
+      - Online Search
+      - Email Campaign
+      - Friend or Family
+      - Other
+      required: true
+    - id: 10
+      name: visit_frequency
+      label: How Often Do You Visit
+      hint: Your shopping frequency
+      type: select_one
+      options:
+      - First Time Visitor
+      - Occasionally
+      - Regularly
+      - Very Frequently
+      required: false
+    - id: 11
+      name: shopping_preference
+      label: Shopping Preference
+      hint: What do you prefer to shop for
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: budget_range
+      label: Typical Purchase Budget
+      hint: Your usual spending range
+      type: select_one
+      options:
+      - Under 25
+      - 25-50
+      - 50-100
+      - 100-250
+      - 250-500
+      - 500+
+      required: false
+    - id: 13
+      name: promotions_interest
+      label: Interested in Special Promotions
+      hint: Would you like to receive promotions
+      type: select_one
+      options:
+      - Yes, Definitely
+      - Maybe
+      - No Thanks
+      required: true
+    - id: 14
+      name: loyalty_program_interest
+      label: Loyalty Program Interest
+      hint: Interested in our loyalty rewards program
+      type: select_one
+      options:
+      - Very Interested
+      - Interested
+      - Not Interested
+      required: false
+    - id: 15
+      name: satisfaction_rating
+      label: Satisfaction with Store
+      hint: Rate your overall shopping experience
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Poor
+      required: false
+    - id: 16
+      name: improvement_suggestions
+      label: Suggestions for Improvement
+      hint: How can we serve you better
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: merchandise_feedback
+      label: Merchandise Quality Feedback
+      hint: Your opinion on our products
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: newsletter_signup
+      label: Newsletter Signup
+      hint: Subscribe to our email newsletter
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 19
+      name: contact_consent
+      label: Permission to Contact
+      hint: May we contact you with special offers
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: form_submission_date
+      label: Submission Date
+      hint: Date this form was completed
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cloud Architect Job Application Form
+    pages:
+    - id: 1
+      name: section_personal
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: current_location
+      label: Current Location - City, Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: willing_to_relocate
+      label: Willing to relocate if required?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: true
+    - id: 7
+      name: section_experience
+      label: -- Professional Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: years_experience
+      label: Years of Experience in Cloud Architecture
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: current_role
+      label: Current Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: current_company
+      label: Current Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: notice_period
+      label: Notice Period Required
+      hint: null
+      type: select_one
+      options:
+      - Immediately available
+      - 2 weeks
+      - 1 month
+      - 2 months
+      - 3+ months
+      required: true
+    - id: 12
+      name: section_technical
+      label: -- Technical Skills --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: cloud_platforms
+      label: Cloud Platform Experience
+      hint: null
+      type: select_multiple
+      options:
+      - AWS
+      - Microsoft Azure
+      - Google Cloud
+      - Alibaba Cloud
+      - IBM Cloud
+      - Oracle Cloud
+      - Other
+      required: true
+    - id: 14
+      name: certification_level
+      label: Relevant Cloud Certifications
+      hint: null
+      type: select_multiple
+      options:
+      - AWS Solutions Architect
+      - Azure Solutions Architect
+      - Google Cloud Professional
+      - Kubernetes
+      - No certifications
+      required: false
+    - id: 15
+      name: architecture_experience
+      label: Types of architectures designed
+      hint: null
+      type: select_multiple
+      options:
+      - Microservices
+      - Serverless
+      - Container-based
+      - Traditional
+      - Hybrid cloud
+      - Multi-cloud
+      - Big Data
+      required: true
+    - id: 16
+      name: programming_languages
+      label: Programming languages experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: devops_tools
+      label: DevOps tools experience
+      hint: Terraform, Kubernetes, Docker, Jenkins, etc
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_expertise
+      label: -- Specific Expertise --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: compliance_security
+      label: Compliance and security expertise
+      hint: null
+      type: select_one
+      options:
+      - Expert
+      - Advanced
+      - Intermediate
+      - Basic
+      - No experience
+      required: true
+    - id: 20
+      name: cost_optimization
+      label: Cloud cost optimization experience
+      hint: null
+      type: select_one
+      options:
+      - Expert
+      - Advanced
+      - Intermediate
+      - Basic
+      - No experience
+      required: true
+    - id: 21
+      name: section_motivation
+      label: -- Motivation and Expectations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: reason_applying
+      label: Why are you interested in this position?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: salary_expectation
+      label: Salary Expectation Range - USD
+      hint: Provide as range
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: references_available
+      label: References available upon request?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Surgical Precision Evaluation Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: case_type
+      label: case_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: rating
+      label: rating
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Not rated'', ''value'': ''Not rated''}'
+      - '{''id'': 2, ''label'': ''Satisfactory'', ''value'': ''Satisfactory''}'
+      - '{''id'': 3, ''label'': ''Unsatisfactory'', ''value'': ''Unsatisfactory''}'
+      - '{''id'': 4, ''label'': ''Not assessed'', ''value'': ''Not assessed''}'
+      required: false
+    - id: 4
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rating_reason
+      label: rating_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: surgical_precisoin
+      label: surgical_precisoin
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: surgical_precision_out
+      label: surgical_precision_out
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: case_type
+      label: case_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''None'', ''value'': ''None''}'
+      - '{''id'': 2, ''label'': ''Simple'', ''value'': ''Simple''}'
+      - '{''id'': 3, ''label'': ''Complex'', ''value'': ''Complex''}'
+      required: false
+    - id: 9
+      name: case_duration
+      label: case_duration
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Less than 30 minutes'', ''value'': ''Less than 30
+        minutes''}'
+      - '{''id'': 2, ''label'': ''30-60 minutes'', ''value'': ''30-60 minutes''}'
+      - '{''id'': 3, ''label'': ''More than 1 hour'', ''value'': ''More than 1 hour''}'
+      required: false
+    - id: 10
+      name: peer_satisfaction
+      label: peer_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 11
+      name: self_satisfaction
+      label: self_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 12
+      name: peer_comments
+      label: peer_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: self_comments
+      label: self_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: surgical_precision_out_comments
+      label: surgical_precision_out_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: case_duration_comments
+      label: case_duration_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: case_type_comments
+      label: case_type_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: rating_reason_comments
+      label: rating_reason_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: surgical_precisoin_comments
+      label: surgical_precisoin_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: peer_satisfaction_comments
+      label: peer_satisfaction_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: self_satisfaction_comments
+      label: self_satisfaction_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: surgical_precision_out_comments
+      label: surgical_precision_out_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: case_duration_out_comments
+      label: case_duration_out_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: case_type_out_comments
+      label: case_type_out_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: rating_out_comments
+      label: rating_out_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: other_comments
+      label: other_comments
+      hint: null
+      type: text
+      options: []
+      required: false

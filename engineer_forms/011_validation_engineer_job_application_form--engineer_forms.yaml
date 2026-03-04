@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Validation Engineer Job Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Please enter your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Please enter your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: resume
+      label: Resume
+      hint: Please attach your resume
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: years_of_experience
+      label: Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: available_to_move
+      label: Available to Move
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 10
+      name: desired_salary
+      label: Desired Salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: available_start_date
+      label: Available Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: notice_period
+      label: Notice Period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: available_end_date
+      label: Available End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: available_reason
+      label: Reason for Leaving
+      hint: null
+      type: text
+      options: []
+      required: false

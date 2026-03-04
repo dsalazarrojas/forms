@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clinic Intake
+    pages:
+    - id: 1
+      name: client_section
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: hair_section
+      label: -- Hair and Scalp Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: hair_type
+      label: Hair Type
+      hint: null
+      type: select_one
+      options:
+      - Straight
+      - Wavy
+      - Curly
+      - Coily
+      - Very coily/Kinky
+      required: true
+    - id: 10
+      name: hair_texture
+      label: Hair Texture
+      hint: null
+      type: select_one
+      options:
+      - Fine
+      - Medium
+      - Coarse
+      required: true
+    - id: 11
+      name: hair_condition
+      label: Current Hair Condition
+      hint: null
+      type: select_one
+      options:
+      - Healthy
+      - Dry
+      - Oily
+      - Combination
+      - Damaged
+      - Color-treated
+      required: true
+    - id: 12
+      name: scalp_condition
+      label: Scalp Condition
+      hint: null
+      type: select_one
+      options:
+      - Healthy
+      - Dry
+      - Oily
+      - Sensitive
+      - Irritated
+      - Other
+      required: true
+    - id: 13
+      name: allergies_section
+      label: -- Allergies and Sensitivities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: product_allergies
+      label: Known allergies to hair products
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: chemical_sensitivities
+      label: Sensitivities to chemicals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: previous_reactions
+      label: Previous allergic reactions to hair services
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: true
+    - id: 17
+      name: goals_section
+      label: -- Service Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: primary_goal
+      label: Primary goal for today
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: desired_style
+      label: Desired style or look
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: treatments_interested
+      label: Treatments interested in
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Cut
+      - Color
+      - Highlights/Lowlights
+      - Perm
+      - Relaxer
+      - Extensions
+      - Deep conditioning
+      - Styling
+      - Other
+      required: false
+    - id: 21
+      name: maintenance_section
+      label: -- At-Home Care --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: home_care_routine
+      label: Current at-home care routine
+      hint: Products used, frequency, etc.
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: maintenance_commitment
+      label: Willingness to maintain style
+      hint: null
+      type: select_one
+      options:
+      - High maintenance OK
+      - Low maintenance preferred
+      - Flexible
+      required: false

@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Horror Movie Viewing Checklist
+    pages:
+    - id: 1
+      name: movie_title
+      label: Horror Movie Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: genre
+      label: Horror Movie Genre
+      hint: null
+      type: select_one
+      options:
+      - horror
+      - thriller
+      - suspense
+      required: false
+    - id: 3
+      name: director
+      label: Director
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: release_year
+      label: Release Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: rating_out_of_10
+      label: Rating Out of 10
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: plot
+      label: Plot
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: cast
+      label: Main Cast
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: runtime
+      label: Runtime
+      hint: null
+      type: select_one
+      options:
+      - 100-120
+      - 120-140
+      - 141-160
+      - 161-180
+      - 181-200
+      required: false
+    - id: 10
+      name: recommended_for
+      label: Recommended for
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: watched_on
+      label: Watched On
+      hint: null
+      type: date
+      options: []
+      required: false

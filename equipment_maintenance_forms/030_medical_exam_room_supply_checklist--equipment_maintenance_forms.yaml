@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Exam Room Supply Checklist
+    pages:
+    - id: 1
+      name: exam_room_supply
+      label: Exam Room Supply
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: air_quality
+      label: Air Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 3
+      name: temperature
+      label: Temperature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: humidity
+      label: Humidity
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: ventilation
+      label: Ventilation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: medical_equipment
+      label: Medical Equipment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: trash_baskets
+      label: Trash Baskets
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: medical_supplies
+      label: Medical Supplies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: handwashing
+      label: Handwashing
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: water_quality
+      label: Water Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false

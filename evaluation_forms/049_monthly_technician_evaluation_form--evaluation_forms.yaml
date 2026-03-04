@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Monthly Technician Evaluation Form
+    pages:
+    - id: 1
+      name: month_technician_evaluatee
+      label: Evaluatee
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: evaluation_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: supervisor_signature
+      label: Supervisor Signature
+      hint: null
+      type: note
+      options: []
+      required: false

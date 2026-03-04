@@ -1,0 +1,238 @@
+inputSchema:
+  type: object
+  properties:
+    title: Equipment Vibration Test Report Form
+    pages:
+    - id: 1
+      name: equipment_type
+      label: Equipment type
+      hint: null
+      type: select_one
+      options:
+      - Acme
+      - Bumblebee
+      - Caterpillar
+      - Drill
+      - Gear
+      - Hammer
+      - Hand Saw
+      - Impact
+      - Lathe
+      - Mill
+      - Other
+      - Pallet
+      - Pump
+      - Saw
+      - Tool
+      required: true
+    - id: 2
+      name: test_conditions
+      label: Test conditions
+      hint: Describe the test conditions, including location and environment.
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: test_duration
+      label: Test duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: measured_values
+      label: Measured values
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: equipment_condition
+      label: Equipment Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: test_frequency
+      label: Test frequency
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      - Other
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 10
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: date_test_completed
+      label: Date test completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: test_results
+      label: Test results
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: test_frequency_range
+      label: Test frequency range
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: test_location
+      label: Test location
+      hint: null
+      type: select_one
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      required: true
+    - id: 15
+      name: test_level
+      label: Test level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 16
+      name: test_amplitude
+      label: Test amplitude
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: test_speed
+      label: Test speed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: test_acceleration
+      label: Test acceleration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: test_frequency_resolution
+      label: Test frequency resolution
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Medium
+      - High
+      - Low
+      - Medium
+      - High
+      - Low
+      - Medium
+      required: true
+    - id: 20
+      name: test_environment
+      label: Test environment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: test_duration_range
+      label: Test duration range
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: test_level_range
+      label: Test level range
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 23
+      name: test_frequency_range_2
+      label: Test frequency range 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: test_frequency_range_3
+      label: Test frequency range 3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: test_frequency_range_4
+      label: Test frequency range 4
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

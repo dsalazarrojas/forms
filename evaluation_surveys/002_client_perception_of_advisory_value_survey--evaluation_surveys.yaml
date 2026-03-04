@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Perception Of Advisory Value Survey
+    pages:
+    - id: 1
+      name: survey_section_intro
+      label: -- Professional Advisory Services Evaluation --
+      hint: Your feedback helps us improve our service delivery
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: advisory_quality
+      label: How would you rate the quality of advice received?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Poor
+      required: true
+    - id: 3
+      name: value_for_investment
+      label: The advisory services provide good value for the investment
+      hint: null
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 4
+      name: strategic_impact
+      label: Have the recommendations had a positive strategic impact?
+      hint: null
+      type: select_one
+      options:
+      - Significant impact
+      - Moderate impact
+      - Minimal impact
+      - No impact yet
+      - Negative impact
+      required: true
+    - id: 5
+      name: communication_effectiveness
+      label: How effective is the communication with your advisor?
+      hint: null
+      type: select_one
+      options:
+      - Very effective
+      - Effective
+      - Adequate
+      - Somewhat lacking
+      - Very poor
+      required: true
+    - id: 6
+      name: knowledge_expertise
+      label: The advisor demonstrates strong knowledge and expertise
+      hint: null
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 7
+      name: timeliness_delivery
+      label: How timely are the advisory deliverables and recommendations?
+      hint: null
+      type: select_one
+      options:
+      - Always on time
+      - Usually on time
+      - Sometimes delayed
+      - Often delayed
+      - Always delayed
+      required: true
+    - id: 8
+      name: likelihood_recommend
+      label: How likely are you to recommend this advisor to others?
+      hint: On a scale where 0 is not at all likely and 10 is extremely likely
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: areas_improvement
+      label: What areas could be improved in the advisory relationship?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: future_engagement
+      label: Are you planning to continue working with this advisor?
+      hint: null
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Uncertain
+      - Probably not
+      - Definitely not
+      required: true
+    - id: 11
+      name: additional_services
+      label: What additional services would be valuable to you?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: feedback_comments
+      label: Additional comments or feedback
+      hint: Please share any other thoughts about the advisory services
+      type: text
+      options: []
+      required: false

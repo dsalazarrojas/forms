@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music Club Members Registration Form
+    pages:
+    - id: 1
+      name: name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: User email
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: select_music_genre
+      label: Music Genre
+      hint: null
+      type: select_one
+      options:
+      - pop
+      - rock
+      - classical
+      - jazz
+      - electronic
+      required: false
+    - id: 6
+      name: music_instruments
+      label: Instruments
+      hint: null
+      type: select_multiple
+      options:
+      - piano
+      - guitar
+      - violin
+      - drums
+      required: false
+    - id: 7
+      name: birthdate
+      label: Birthdate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: join_date
+      label: Join Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: agree_to_terms
+      label: Agree to Terms
+      hint: null
+      type: note
+      options: []
+      required: false

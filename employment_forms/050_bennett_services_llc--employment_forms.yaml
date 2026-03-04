@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bennett Services Llc
+    pages:
+    - id: 1
+      name: section_employee
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: position_title
+      label: Position Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_payroll
+      label: -- Payroll Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: pay_period_start
+      label: Pay Period Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: pay_period_end
+      label: Pay Period End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: hourly_rate
+      label: Hourly Rate
+      hint: Dollar amount per hour
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: hours_worked_monday
+      label: Hours Worked - Monday
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: hours_worked_tuesday
+      label: Hours Worked - Tuesday
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: hours_worked_wednesday
+      label: Hours Worked - Wednesday
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: hours_worked_thursday
+      label: Hours Worked - Thursday
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: hours_worked_friday
+      label: Hours Worked - Friday
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: hours_worked_saturday
+      label: Hours Worked - Saturday
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: hours_worked_sunday
+      label: Hours Worked - Sunday
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: total_hours
+      label: Total Hours Worked
+      hint: Sum of all hours
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: overtime_hours
+      label: Overtime Hours
+      hint: Hours over 40 per week
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: section_deductions
+      label: -- Deductions and Withholdings --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: federal_withholding
+      label: Federal Tax Withholding
+      hint: Dollar amount
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: state_withholding
+      label: State Tax Withholding
+      hint: Dollar amount
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: fica_withholding
+      label: FICA Withholding
+      hint: Social Security and Medicare
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: other_deductions
+      label: Other Deductions
+      hint: Health insurance, retirement, etc.
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: section_summary
+      label: -- Payment Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: gross_pay
+      label: Gross Pay
+      hint: Total pay before deductions
+      type: number
+      options: []
+      required: true
+    - id: 28
+      name: total_deductions
+      label: Total Deductions
+      hint: Sum of all deductions
+      type: number
+      options: []
+      required: true
+    - id: 29
+      name: net_pay
+      label: Net Pay (Take Home)
+      hint: Gross pay minus deductions
+      type: number
+      options: []
+      required: true
+    - id: 30
+      name: section_approval
+      label: -- Approval and Submission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Who approved this timesheet
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: submission_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true

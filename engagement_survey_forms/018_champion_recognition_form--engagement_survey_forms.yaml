@@ -1,0 +1,156 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Champion Recognition Form
+    pages:
+      - id: 1
+        name: nomination_date
+        label: Nomination Date
+        hint: When nominating
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: nominator_name
+        label: Nominator's Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: nominator_email
+        label: Nominator's Email
+        hint: Your contact email
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: nominator_organization
+        label: Your Organization or Department
+        hint: Where you work or volunteer
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: nominee_name
+        label: Nominee's Full Name
+        hint: Person being recognized
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: nominee_title
+        label: Nominee's Title or Position
+        hint: Job title or role
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: nominee_organization
+        label: Nominee's Organization or Department
+        hint: Where nominee works
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: nominee_email
+        label: Nominee's Email
+        hint: Nominee's contact email
+        type: email
+        options: []
+        required: false
+      - id: 9
+        name: relationship_to_nominee
+        label: Your Relationship to Nominee
+        hint: How do you know them
+        type: select_one
+        options: ["Colleague", "Manager", "Direct Report", "Team Member", "Volunteer", "Community Member"]
+        required: true
+      - id: 10
+        name: recognition_category
+        label: Recognition Category
+        hint: Type of award or recognition
+        type: select_one
+        options: ["Leadership Excellence", "Community Service", "Innovation", "Customer Service", "Teamwork", "Mentorship"]
+        required: true
+      - id: 11
+        name: nomination_reason
+        label: Why You Nominate This Person
+        hint: Main reasons for nomination
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: specific_achievements
+        label: Specific Achievements or Accomplishments
+        hint: Describe their accomplishments
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: impact_on_organization
+        label: Impact on Organization or Community
+        hint: How have they made a difference
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: outstanding_qualities
+        label: Outstanding Qualities
+        hint: What makes them exceptional
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: measurable_results
+        label: Measurable Results or Metrics
+        hint: Numbers or data showing impact
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: colleague_testimonials
+        label: Support From Other Colleagues
+        hint: Have others confirmed this recognition
+        type: select_one
+        options: ["Yes", "No", "Unknown"]
+        required: false
+      - id: 17
+        name: nominee_knowledge_of_nomination
+        label: Is Nominee Aware of This Nomination
+        hint: Do they know you're nominating them
+        type: select_one
+        options: ["Yes", "No", "Unsure"]
+        required: false
+      - id: 18
+        name: supporting_documents
+        label: Supporting Documents Attached
+        hint: Photos, certificates, or evidence
+        type: select_one
+        options: ["Yes", "No"]
+        required: false
+      - id: 19
+        name: document_description
+        label: Description of Supporting Documents
+        hint: What documents are included
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: public_recognition_consent
+        label: Permission for Public Recognition
+        hint: May nominee be publicly recognized
+        type: select_one
+        options: ["Yes", "No"]
+        required: false

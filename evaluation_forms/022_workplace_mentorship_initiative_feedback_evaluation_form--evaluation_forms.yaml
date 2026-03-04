@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Mentorship Initiative Feedback Evaluation Form
+    pages:
+    - id: 1
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_type
+      label: program_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: goals_met
+      label: goals_met
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: frequency
+      label: frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

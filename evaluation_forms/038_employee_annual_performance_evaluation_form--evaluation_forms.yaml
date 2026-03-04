@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Annual Performance Evaluation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: performance_score
+      label: Performance Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: evaluation_form_comments
+      label: Evaluation Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: villain_character_profile
+    pages:
+    - id: 1
+      name: name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: occupation
+      label: occupation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 4.1, ''label'': ''actor'', ''description'': ''Actor''}'
+      - '{''id'': 4.2, ''label'': ''actress'', ''description'': ''Actress''}'
+      - '{''id'': 4.3, ''label'': ''musician'', ''description'': ''Musician''}'
+      required: false
+    - id: 5
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: weight
+      label: weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: evil_laugh
+      label: evil_laugh
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: superpowers
+      label: superpowers
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 8.1, ''label'': ''telepathy'', ''description'': ''Telepathy''}'
+      - '{''id'': 8.2, ''label'': ''telekinesis'', ''description'': ''Telekinesis''}'
+      - '{''id'': 8.3, ''label'': ''mind_control'', ''description'': ''Mind control''}'
+      required: false
+    - id: 9
+      name: weaknesses
+      label: weaknesses
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 9.1, ''label'': ''weakness1'', ''description'': ''Weakness 1''}'
+      - '{''id'': 9.2, ''label'': ''weakness2'', ''description'': ''Weakness 2''}'
+      - '{''id'': 9.3, ''label'': ''weakness3'', ''description'': ''Weakness 3''}'
+      required: false
+    - id: 10
+      name: motivations
+      label: motivations
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 10.1, ''label'': ''power'', ''description'': ''Power''}'
+      - '{''id'': 10.2, ''label'': ''revenge'', ''description'': ''Revenge''}'
+      - '{''id'': 10.3, ''label'': ''chaos'', ''description'': ''Chaos''}'
+      required: false
+    - id: 11
+      name: lair
+      label: lair
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 11.1, ''label'': ''underground'', ''description'': ''Underground''}'
+      - '{''id'': 11.2, ''label'': ''fortress'', ''description'': ''Fortress''}'
+      required: false
+    - id: 12
+      name: goal
+      label: goal
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 12.1, ''label'': ''world Domination'', ''description'': ''World
+        Domination''}'
+      - '{''id'': 12.2, ''label'': ''wealth'', ''description'': ''Wealth''}'
+      - '{''id'': 12.3, ''label'': ''destruction'', ''description'': ''Destruction''}'
+      required: false

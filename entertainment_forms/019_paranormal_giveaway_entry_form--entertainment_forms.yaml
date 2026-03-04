@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: Paranormal Giveaway Entry Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Enter The Contest
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: Your Email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: social_media
+      label: Social Media
+      hint: null
+      type: select_multiple
+      options:
+      - Instagram
+      - Facebook
+      - Twitter
+      required: true
+    - id: 11
+      name: consent
+      label: Do You Consent To Our Use Of Your Data
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: terms_and_conditions
+      label: I've Read And Agree To The Terms And Conditions
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 13
+      name: privacy_policy
+      label: I've Read And Agree To The Privacy Policy
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 14
+      name: referal
+      label: How Did You Hear About This Contest
+      hint: null
+      type: select_multiple
+      options:
+      - Social Media
+      - Online Ads
+      - Friend
+      - Family
+      required: false
+    - id: 15
+      name: other_source
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: prize_preferences
+      label: What Type Of Content Do You Prefer
+      hint: null
+      type: select_multiple
+      options:
+      - Horror
+      - Sci-Fi
+      - Fantasy
+      - Mystery
+      - Romance
+      - Other
+      required: false
+    - id: 17
+      name: age_of_interest
+      label: What's Your Age Of Interest
+      hint: null
+      type: select_multiple
+      options:
+      - 18+
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55+
+      required: false
+    - id: 18
+      name: favorite_hobby
+      label: What's Your Favorite Hobbies
+      hint: null
+      type: select_multiple
+      options:
+      - Horror
+      - Reading
+      - Gaming
+      - Traveling
+      - Watching Movies
+      - Other
+      required: false
+    - id: 19
+      name: favorite_content
+      label: What's Your Favorite Type Of Content
+      hint: null
+      type: select_multiple
+      options:
+      - Horror
+      - Sci-Fi
+      - Fantasy
+      - Mystery
+      - Romance
+      - Other
+      required: false
+    - id: 20
+      name: preferred_contact
+      label: How Do You Prefer To Be Contacted
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Social Media
+      - Phone
+      required: false
+    - id: 21
+      name: follow_up
+      label: Would You Like To Be Followed Up On
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: consent_date
+      label: When Can We Use Your Data
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: agree_terms_and_conditions
+      label: Do You Agree With Our Terms And Conditions
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: agree_privacy_policy
+      label: Do You Agree With Our Privacy Policy
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mentee Evaluation Form
+    pages:
+    - id: 1
+      name: mentee_progress
+      label: mentee_progress
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: program_progress
+      label: program_progress
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: mentee_satisfaction
+      label: mentee_satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 5
+      name: program_satisfaction
+      label: program_satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 6
+      name: evaluation_status
+      label: evaluation_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not yet started''}'
+      - '{''label'': ''Started''}'
+      - '{''label'': ''Finished''}'
+      required: false
+    - id: 7
+      name: evaluation_date
+      label: evaluation_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: evaluation_time
+      label: evaluation_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: mentee_comments
+      label: mentee_comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: mentor_comments
+      label: mentor_comments
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: ChallengeGroupAssesment 1/16/2020
+    pages:
+    - id: 1
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of group assessment
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: group_name
+      label: Group Name
+      hint: Name of the group being assessed
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: facilitator_name
+      label: Facilitator Name
+      hint: Name of assessment facilitator
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization
+      hint: Name of organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: program_type
+      label: Program Type
+      hint: Type of program
+      type: select_one
+      options:
+      - Youth development
+      - Community outreach
+      - Educational program
+      - Wellness program
+      - Business development
+      - Other
+      required: true
+    - id: 6
+      name: total_participants
+      label: Total Participants
+      hint: Number of participants in group
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: participants_present
+      label: Participants Present
+      hint: Number present at assessment
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: session_duration
+      label: Session Duration
+      hint: Length of assessment session
+      type: select_one
+      options:
+      - 30 minutes
+      - 1 hour
+      - 2 hours
+      - Half day
+      - Full day
+      required: true
+    - id: 9
+      name: assessment_area_1
+      label: Assessment Area 1
+      hint: First area being assessed
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assessment_score_1
+      label: Assessment Score 1
+      hint: Score for first area
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: assessment_area_2
+      label: Assessment Area 2
+      hint: Second area being assessed
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assessment_score_2
+      label: Assessment Score 2
+      hint: Score for second area
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: assessment_area_3
+      label: Assessment Area 3
+      hint: Third area being assessed
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assessment_score_3
+      label: Assessment Score 3
+      hint: Score for third area
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: group_dynamics
+      label: Group Dynamics Rating
+      hint: Rate the group dynamics
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 16
+      name: participation_level
+      label: Participation Level
+      hint: Rate overall participation
+      type: select_one
+      options:
+      - Very high
+      - High
+      - Moderate
+      - Low
+      - Very low
+      required: true
+    - id: 17
+      name: engagement_quality
+      label: Engagement Quality
+      hint: Rate quality of engagement
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 18
+      name: strengths_observed
+      label: Strengths Observed
+      hint: What strengths did the group demonstrate
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: What areas need improvement
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: recommendations
+      label: Recommendations
+      hint: What recommendations do you have
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_needed
+      label: Follow-up Needed
+      hint: Is follow-up assessment needed
+      type: select_one
+      options:
+      - Yes - Schedule follow-up
+      - No - Assessment complete
+      required: true
+    - id: 22
+      name: follow_up_date
+      label: Follow-up Date
+      hint: When should follow-up occur
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: facilitator_signature
+      label: Facilitator Signature
+      hint: Facilitator type name as signature
+      type: text
+      options: []
+      required: true

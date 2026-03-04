@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Sensor Calibration Report Form
+    pages:
+    - id: 1
+      name: smart_sensor_calibration_report_form_page_1
+      label: Calibration Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sensor_name
+      label: sensor-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: serial_number
+      label: serial-number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_calibration
+      label: date-of-calibration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: technician_name
+      label: technician-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: calibration_frequency
+      label: calibration-frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: sensor_type
+      label: sensor-type
+      hint: null
+      type: select_one
+      options:
+      - Sensor 1
+      - Sensor 2
+      - Sensor 3
+      required: false
+    - id: 8
+      name: sensor_range
+      label: sensor-range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: sensor_reading
+      label: sensor-reading
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: remarks
+      label: remarks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: output_file_name
+      label: output-file-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: output_file_path
+      label: output-file-path
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: output_file_type
+      label: output-file-type
+      hint: null
+      type: select_one
+      options:
+      - PDF
+      - CSV
+      - Excel
+      required: false
+    - id: 14
+      name: output_file_size
+      label: output-file-size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: remarks_2
+      label: remarks-2
+      hint: null
+      type: note
+      options: []
+      required: false

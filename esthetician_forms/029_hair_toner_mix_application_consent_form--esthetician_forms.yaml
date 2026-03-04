@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hair Toner Mix Application Consent Form
+    pages:
+    - id: 1
+      name: salon_details
+      label: Salon Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: toner_details
+      label: Toner Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: appointment_details
+      label: Appointment Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: client_consent
+      label: Client Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: stylist_details
+      label: Stylist Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: pre_service_details
+      label: Pre-Service Details
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Theater Property Inventory Request Form
+    pages:
+    - id: 1
+      name: theater_property_inventory_request_form_1
+      label: Request Details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: requestor_name
+      label: Requestor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requestor_email
+      label: Requestor Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: request_time
+      label: Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: true
+    - id: 8
+      name: request_description
+      label: Request Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: requestor_phone
+      label: Requestor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: related_properties
+      label: Related Properties
+      hint: null
+      type: select_multiple
+      options:
+      - prop 1
+      - prop 2
+      - prop 3
+      required: false
+    - id: 12
+      name: request_status
+      label: Request Status
+      hint: null
+      type: select_one
+      options:
+      - status 1
+      - status 2
+      - status 3
+      required: true
+    - id: 13
+      name: request_comments
+      label: Request Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: submitter_title
+      label: Submitter Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitter_notes
+      label: Submitter Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitter_role
+      label: Submitter Role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: submitter_approvals
+      label: Submitter Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - approval 1
+      - approval 2
+      - approval 3
+      required: true
+    - id: 22
+      name: submitter_notes_2
+      label: Submitter Notes 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitter_notes_3
+      label: Submitter Notes 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter_notes_4
+      label: Submitter Notes 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_notes_5
+      label: Submitter Notes 5
+      hint: null
+      type: text
+      options: []
+      required: false

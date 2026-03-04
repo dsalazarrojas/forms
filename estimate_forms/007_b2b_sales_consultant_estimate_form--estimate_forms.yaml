@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: B2B Sales Consultant Estimate Form
+    pages:
+    - id: 1
+      name: consultant_name
+      label: Consultant Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: consultant_company
+      label: Consulting Firm Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: consultant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: consultant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_company_name
+      label: Client Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: client_contact_name
+      label: Client Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: client_email
+      label: Client Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: client_phone
+      label: Client Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: estimate_date
+      label: Estimate Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: project_description
+      label: Project Description
+      hint: Describe the project scope
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: project_objectives
+      label: Project Objectives
+      hint: What are the client goals?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: service_type
+      label: Service Type
+      hint: Select the type of service
+      type: select_one
+      options:
+      - Sales Strategy Development
+      - Team Training
+      - Process Optimization
+      - Market Analysis
+      - Pipeline Development
+      - Sales Coaching
+      - CRM Implementation
+      - Custom Consulting
+      required: true
+    - id: 13
+      name: estimated_duration
+      label: Estimated Duration (in days)
+      hint: How long will the project take?
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: hourly_rate
+      label: Hourly Rate (in dollars)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: total_estimated_cost
+      label: Total Estimated Cost (in dollars)
+      hint: Will be calculated based on duration and rate
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - Net 15
+      - Net 30
+      - Net 45
+      - 50% Upfront, 50% on Completion
+      - Full Payment Upfront
+      - Custom
+      required: true
+    - id: 17
+      name: project_timeline
+      label: Project Timeline
+      hint: When would the project start and end?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_notes
+      label: Additional Notes or Terms
+      hint: null
+      type: text
+      options: []
+      required: false

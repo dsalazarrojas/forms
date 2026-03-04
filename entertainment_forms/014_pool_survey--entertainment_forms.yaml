@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pool Survey
+    pages:
+    - id: 1
+      name: intro_question
+      label: What is your purpose here?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pool_condition
+      label: Pool condition
+      hint: null
+      type: select_one
+      options:
+      - very good
+      - good
+      - average
+      - poor
+      required: true
+    - id: 3
+      name: pool_cleanliness
+      label: Pool cleanliness
+      hint: null
+      type: select_multiple
+      options:
+      - very clean
+      - clean
+      - average
+      - poor
+      required: true
+    - id: 4
+      name: satisfaction
+      label: How satisfied are you?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: water_quality
+      label: Water quality
+      hint: null
+      type: select_one
+      options:
+      - excellent
+      - very good
+      - good
+      - average
+      - poor
+      required: false
+    - id: 6
+      name: pool_atmosphere
+      label: Pool atmosphere
+      hint: null
+      type: select_multiple
+      options:
+      - very relaxing
+      - relaxing
+      - average
+      - poor
+      required: true

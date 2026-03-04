@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: playwright_evaluation_survey
+    pages:
+    - id: 1
+      name: script_name
+      label: Script Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: evaluator_name
+      label: Evaluator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: evaluation_script
+      label: Evaluation Script
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 6
+      name: evaluator_role
+      label: Evaluator Role
+      hint: null
+      type: select_multiple
+      options:
+      - Director
+      - Stage Manager
+      - Stagehand
+      required: true
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: evaluation_form_completed
+      label: Evaluation Form Completed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: evaluator_experience
+      label: Evaluator Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: evaluator_training
+      label: Evaluator Training
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: evaluator_rating
+      label: Evaluator Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: evaluator_comments
+      label: Evaluator Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: evaluation_form_completed_at
+      label: Evaluation Form Completed At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: evaluation_form_completed_time
+      label: Evaluation Form Completed Time
+      hint: null
+      type: time
+      options: []
+      required: false

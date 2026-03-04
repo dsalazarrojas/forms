@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health & Fitness Contact Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_info_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: advisor
+      label: Advisor
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Advisor 1''}'
+      - Advisor 2
+      - Advisor 3
+      required: false
+    - id: 4
+      name: user_info_details
+      label: Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: user_info_problematic_area
+      label: Problematic Area
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: user_info_key_info
+      label: Key Information
+      hint: null
+      type: text
+      options: []
+      required: false

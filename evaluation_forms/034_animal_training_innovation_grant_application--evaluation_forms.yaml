@@ -1,0 +1,316 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Training Innovation Grant Application
+    pages:
+    - id: 1
+      name: section_organization
+      label: -- Organization Information --
+      hint: Details about your organization
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_type
+      label: Organization Type
+      hint: What type of organization
+      type: select_one
+      options:
+      - Animal Shelter
+      - Rescue Organization
+      - Training Facility
+      - Research Institution
+      - Nonprofit
+      - Private Trainer
+      - Other
+      required: true
+    - id: 4
+      name: tax_id
+      label: Tax ID or Registration Number
+      hint: Your organization's tax ID
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_address
+      label: Organization Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization_city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: organization_state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: organization_zip
+      label: Zip Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: organization_phone
+      label: Organization Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: organization_website
+      label: Organization Website
+      hint: URL to your website
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_contact
+      label: -- Primary Contact Information --
+      hint: Application contact person
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: contact_first_name
+      label: First Name
+      hint: Contact first name
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: contact_last_name
+      label: Last Name
+      hint: Contact last name
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: contact_title
+      label: Job Title
+      hint: Your position in organization
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: contact_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: contact_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: section_project
+      label: -- Project Information --
+      hint: Details about your innovation project
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: project_title
+      label: Project Title
+      hint: Name of your project
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: project_description
+      label: Project Description
+      hint: Detailed description of the project
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: innovation_focus
+      label: Focus of Innovation
+      hint: What makes this project innovative
+      type: select_one
+      options:
+      - New Training Methods
+      - Technology Application
+      - Behavioral Science
+      - Animal Welfare
+      - Accessibility
+      - Conservation
+      - Other
+      required: true
+    - id: 21
+      name: target_animals
+      label: Target Animal Types
+      hint: What animals will benefit
+      type: select_multiple
+      options:
+      - Dogs
+      - Cats
+      - Horses
+      - Wildlife
+      - Exotic Animals
+      - Multiple Species
+      required: true
+    - id: 22
+      name: project_goals
+      label: Specific Project Goals
+      hint: What you aim to accomplish
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: expected_outcomes
+      label: Expected Outcomes and Impact
+      hint: What results do you expect
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: timeline
+      label: Project Timeline
+      hint: Start date and estimated duration
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: section_budget
+      label: -- Budget Information --
+      hint: Funding request details
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: total_budget
+      label: Total Project Budget
+      hint: Total estimated cost
+      type: number
+      options: []
+      required: true
+    - id: 27
+      name: grant_request_amount
+      label: Grant Request Amount
+      hint: Amount you are requesting
+      type: number
+      options: []
+      required: true
+    - id: 28
+      name: other_funding_sources
+      label: Other Funding Sources
+      hint: Other sources of project funding
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: budget_breakdown
+      label: Budget Breakdown
+      hint: How funds will be allocated
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: section_team
+      label: -- Project Team --
+      hint: Key personnel involved
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: project_lead
+      label: Project Lead Name
+      hint: Name of person leading project
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: lead_qualifications
+      label: Project Lead Qualifications
+      hint: Education and experience
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: team_members
+      label: Key Team Members
+      hint: Names and roles of team
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: section_evaluation
+      label: -- Evaluation Criteria --
+      hint: How you will measure success
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: success_metrics
+      label: Success Metrics
+      hint: How you will measure success
+      type: text
+      options: []
+      required: true
+    - id: 36
+      name: evaluation_plan
+      label: Evaluation Plan
+      hint: How you will evaluate results
+      type: text
+      options: []
+      required: true
+    - id: 37
+      name: sustainability_plan
+      label: Sustainability Plan
+      hint: How the project will continue long-term
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: section_documents
+      label: -- Supporting Documents --
+      hint: Attach relevant documents
+      type: note
+      options: []
+      required: false
+    - id: 39
+      name: have_references
+      label: Have Professional References Available
+      hint: Can you provide references
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 40
+      name: agree_to_reporting
+      label: Agree to Progress Reporting
+      hint: Accept grant reporting requirements
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 41
+      name: additional_information
+      label: Additional Information or Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

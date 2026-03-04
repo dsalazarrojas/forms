@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Streaming Moderator Application Form
+    pages:
+    - id: 1
+      name: streaming_moderator_application_form_1
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: streaming_moderator_application_form_2
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: streaming_moderator_application_form_3
+      label: Availability
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: streaming_moderator_application_form_4
+      label: Preferred Shift
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 5
+      name: streaming_moderator_application_form_5
+      label: Available From
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: streaming_moderator_application_form_6
+      label: Available Until
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: streaming_moderator_application_form_7
+      label: Scheduling Availability
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 8
+      name: streaming_moderator_application_form_8
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: streaming_moderator_application_form_9
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: streaming_moderator_application_form_10
+      label: Additional Contact Info
+      hint: null
+      type: note
+      options: []
+      required: false

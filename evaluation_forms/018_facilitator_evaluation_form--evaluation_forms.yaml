@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: facilitator_evaluation_form
+    pages:
+    - id: 1
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: course_name
+      label: course_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: overall_rating
+      label: overall_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: facilitator_support
+      label: facilitator_support
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 5
+      name: communication_skills
+      label: communication_skills
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 6
+      name: time_management
+      label: time_management
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 7
+      name: content
+      label: content
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 8
+      name: engagement
+      label: engagement
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 9
+      name: evaluation_form
+      label: evaluation_form
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 10
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: facilitator_name
+      label: facilitator_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: facilitator_contact_info
+      label: facilitator_contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: participant_rating
+      label: participant_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: participant_rating_comments
+      label: participant_rating_comments
+      hint: null
+      type: text
+      options: []
+      required: false

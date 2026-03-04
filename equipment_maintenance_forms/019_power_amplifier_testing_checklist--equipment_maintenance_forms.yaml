@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Power Amplifier Testing Checklist
+    pages:
+    - id: 1
+      name: power_amplifier_testing_checklist_form
+      label: Power Amplifier Testing Checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: power_amplifier_test_id
+      label: Test ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: power_amplifier_test_date
+      label: Test Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: power_amplifier_test_outcome
+      label: Test Outcome
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Passed''}'
+      - '{''label'': ''Failed''}'
+      - '{''label'': ''Not Tested''}'
+      required: true
+    - id: 5
+      name: power_amplifier_test_comments
+      label: Test Comments
+      hint: null
+      type: note
+      options: []
+      required: false

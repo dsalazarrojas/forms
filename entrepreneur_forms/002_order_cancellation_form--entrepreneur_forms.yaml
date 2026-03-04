@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Order Cancellation Form
+    pages:
+    - id: 1
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_number
+      label: Order Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_cancellation
+      label: Reason for Cancellation
+      hint: Please provide a brief explanation of why the order is being canceled.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: confirmation_of_receipt
+      label: Confirmation of Receipt
+      hint: Please confirm the order has been received by the customer.
+      type: select_one
+      options:
+      - Received
+      - Not received
+      required: false
+    - id: 5
+      name: confirmation_of_return
+      label: Confirmation of Return
+      hint: null
+      type: select_one
+      options:
+      - Refunded
+      - In transit
+      - Lost
+      - Damaged
+      required: false
+    - id: 6
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_multiple
+      options:
+      - Cancelled
+      - Refunded
+      - Pending
+      - Shipped
+      required: false
+    - id: 7
+      name: cancellation_date
+      label: Cancellation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: order_id
+      label: Order ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: reason_for_return
+      label: Reason for Return
+      hint: Please specify the reason for return the order.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_signature_date
+      label: Date of Signature
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: order_amount
+      label: Order Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: store_name
+      label: Store Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: store_address
+      label: Store Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_note
+      label: Customer Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: store_signature
+      label: Store Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: store_signature_date
+      label: Date of Signature
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: reason_for_receiving
+      label: Reason for Receiving
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: store_note
+      label: Store Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: reason_for_cancellation_reason
+      label: Reason for Cancellation Reason
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: confirmation_of_cancellation
+      label: Confirmation of Cancellation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

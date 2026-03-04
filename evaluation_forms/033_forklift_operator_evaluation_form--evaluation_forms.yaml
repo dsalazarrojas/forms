@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: forklift_operator_evaluation_form
+    pages:
+    - id: 1
+      name: operator_name
+      label: Operator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: evaluation_time
+      label: Evaluation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: evaluation_score
+      label: Evaluation Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: evaluation_rating
+      label: Evaluation Rating
+      hint: null
+      type: select_one
+      options:
+      - Forklift Operator is performing well
+      - Forklift Operator is performing average
+      - Forklift Operator is performing poorly
+      required: false
+    - id: 8
+      name: certification_status
+      label: Certification Status
+      hint: null
+      type: select_multiple
+      options:
+      - Certified
+      - Not Certified
+      - Unknown
+      required: false
+    - id: 9
+      name: training_status
+      label: Training Status
+      hint: null
+      type: select_multiple
+      options:
+      - Completed
+      - In Progress
+      - Not Required
+      required: false
+    - id: 10
+      name: observation_areas
+      label: Observed Areas
+      hint: null
+      type: select_multiple
+      options:
+      - Forklift Operation
+      - Safety Rules
+      - Equipment Maintenance
+      required: false
+    - id: 11
+      name: evaluation_areas
+      label: Evaluation Areas
+      hint: null
+      type: select_multiple
+      options:
+      - Safety Procedures
+      - Operating Environment
+      - Physical Abilities
+      required: false
+    - id: 12
+      name: physical_ability
+      label: Physical Ability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: physical_condition
+      label: Physical Condition
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: overall_performance
+      label: Overall Performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: evaluation_note
+      label: Evaluation Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: evaluation_email
+      label: Evaluation Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: evaluation_phone
+      label: Evaluation Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: supervisor_comments
+      label: Supervisor Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: operator_comments
+      label: Operator Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: observation_date
+      label: Observation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: observation_time
+      label: Observation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: certification_date
+      label: Certification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Feedback Voltage Amplifier Evaluation Form
+    pages:
+    - id: 1
+      name: intro_page
+      label: intro-page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: input_voltage_rating
+      label: input-voltage-rating
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 1}'
+      - '{''label'': 2}'
+      - '{''label'': 3}'
+      - '{''label'': 4}'
+      - '{''label'': 5}'
+      required: true
+    - id: 3
+      name: input_frequency_rating
+      label: input-frequency-rating
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': 1}'
+      - '{''label'': 2}'
+      - '{''label'': 3}'
+      - '{''label'': 4}'
+      - '{''label'': 5}'
+      required: false
+    - id: 4
+      name: input_voltage_sensitivity
+      label: input-voltage-sensitivity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: input_voltage_noise
+      label: input-voltage-noise
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: input_voltage_power
+      label: input-voltage-power
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: input_voltage_temperature
+      label: input-voltage-temperature
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 1}'
+      - Other
+      required: false
+    - id: 8
+      name: input_voltage_humidity
+      label: input-voltage-humidity
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': 1}'
+      - Other
+      required: false
+    - id: 9
+      name: input_voltage_remark
+      label: input-voltage-remark
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit_button
+      label: submit-button
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: input_v_votes_name
+      label: input-v-votes-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: input_v_voltage_amp_name
+      label: input-v-voltage-amp-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: minimalist
+      label: minimalist
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 1}'
+      - Other
+      required: false

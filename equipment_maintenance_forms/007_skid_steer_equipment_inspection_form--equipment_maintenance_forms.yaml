@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skid Steer Equipment Inspection Form
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: general_condition
+      label: General Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tires_condition
+      label: Tires Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: hydraulic_pressure
+      label: Hydraulic Pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: hydraulic_leakage
+      label: Hydraulic Leakage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: hydraulic_leakage_note
+      label: Hydraulic Leakage Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: steering_system
+      label: Steering System
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: true
+    - id: 8
+      name: hydraulic_system
+      label: Hydraulic System
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: true
+    - id: 9
+      name: oil_level
+      label: Oil Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: oil_color
+      label: Oil Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: engine_condition
+      label: Engine Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: transmission_condition
+      label: Transmission Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: electrical_system
+      label: Electrical System
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: true
+    - id: 14
+      name: electrical_hazards
+      label: Electrical Hazards
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Electrical Hazards''}'
+      required: true
+    - id: 15
+      name: other_conditions_note
+      label: Other Conditions Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: date
+      label: Date of Last Inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: time
+      label: Time of Last Inspection
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: technician_signature
+      label: Technician Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: inspector_signature
+      label: Inspector Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: equipment_number
+      label: Equipment Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: equipment_location
+      label: Equipment Location
+      hint: null
+      type: text
+      options: []
+      required: false

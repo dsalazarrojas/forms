@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anniversary Event Registration Form
+    pages:
+    - id: 1
+      name: section_event_details
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Full name of attendee
+      hint: Include prefix if preferred
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: Used for event communication
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: Optional emergency contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: number_of_guests
+      label: Number of guests attending including you
+      hint: Enter 1 if only attendee
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: attendance_type
+      label: Attendance type
+      hint: Choose in person or virtual option
+      type: select_one
+      options:
+      - In person
+      - Virtual
+      - Undecided
+      required: true
+    - id: 7
+      name: dietary_restrictions
+      label: Dietary restrictions or preferences
+      hint: List any allergies or dietary needs
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: accommodation_needed
+      label: Accommodation needed
+      hint: Accessibility or lodging assistance
+      type: select_one
+      options:
+      - false
+      - Yes please contact me
+      required: false
+    - id: 9
+      name: accommodation_details
+      label: Accommodation details
+      hint: Provide brief details if assistance required
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: special_requests
+      label: Special requests or comments
+      hint: Any additional requests for organizers
+      type: text
+      options: []
+      required: false

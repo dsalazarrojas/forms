@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Assistant Survey
+    pages:
+    - id: 1
+      name: virtual_assistant_survey
+      label: What is your name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: what_is_your_client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: business_description
+      label: what_is_your_business_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: business_type
+      label: what_is_your_business_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: business_type_options
+      label: select_business_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: business_location
+      label: what_is_your_business_location
+      hint: null
+      type: select_one
+      options:
+      - business_location_1
+      - business_location_2
+      - business_location_3
+      - business_location_4
+      - business_location_5
+      - business_location_6
+      required: false
+    - id: 7
+      name: contact_method
+      label: what_is_your_preferred_contact_method
+      hint: null
+      type: select_one
+      options:
+      - contact_method_1
+      - contact_method_2
+      - contact_method_3
+      - contact_method_4
+      - contact_method_5
+      required: false
+    - id: 8
+      name: email
+      label: what_is_your_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: what_is_your_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: schedule_time
+      label: what_time_do_you_prefer
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: schedule_date
+      label: what_date_do_you_prefer
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: availability
+      label: what_time_do_you_have_available
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: business_hours
+      label: what_business_hours_do_you_have_available
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: business_days
+      label: what_days_do_you_work
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: business_days_options
+      label: select_days_you_work
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: work_hours
+      label: what_hours_do_you_work
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: work_hours_options
+      label: select_hours_you_work
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: availability_status
+      label: what_is_your_availability_status
+      hint: null
+      type: select_one
+      options:
+      - availability_status_1
+      - availability_status_2
+      - availability_status_3
+      - availability_status_4
+      - availability_status_5
+      required: false
+    - id: 19
+      name: work_status
+      label: what_is_your_work_status
+      hint: null
+      type: select_one
+      options:
+      - work_status_1
+      - work_status_2
+      - work_status_3
+      - work_status_4
+      required: false
+    - id: 20
+      name: schedule_type
+      label: what_type_of_schedule_do_you_prefer
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: schedule_type_options
+      label: select_schedule_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: schedule
+      label: schedule
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

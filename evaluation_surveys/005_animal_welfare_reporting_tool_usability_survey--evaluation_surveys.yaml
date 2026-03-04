@@ -1,0 +1,261 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Animal Welfare Reporting Tool Usability Survey
+    pages:
+    - id: 1
+      name: respondent_info_header
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For follow-up questions if needed
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization or Shelter Name
+      hint: Your affiliated organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: role
+      label: Your Role
+      hint: Your position or job title
+      type: select_one
+      options:
+      - Shelter Manager
+      - Animal Care Staff
+      - Veterinarian
+      - Administrative Staff
+      - Volunteer
+      - Supervisor
+      - Other
+      required: true
+    - id: 6
+      name: experience_header
+      label: -- Tool Usage Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: usage_frequency
+      label: How often do you use this reporting tool
+      hint: Select your frequency of use
+      type: select_one
+      options:
+      - Daily
+      - Several times per week
+      - Weekly
+      - Monthly
+      - Less frequently
+      required: true
+    - id: 8
+      name: usage_duration
+      label: How long have you been using this tool
+      hint: Length of experience with the system
+      type: select_one
+      options:
+      - Less than 1 month
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - Over 1 year
+      required: true
+    - id: 9
+      name: tool_effectiveness_header
+      label: -- Tool Effectiveness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: ease_of_use
+      label: How easy is this tool to use
+      hint: Rate the overall ease of use
+      type: select_one
+      options:
+      - Very easy - Intuitive
+      - Easy - Minor learning curve
+      - Moderate - Requires some training
+      - Difficult - Challenging
+      - Very difficult - Needs improvement
+      required: true
+    - id: 11
+      name: feature_accessibility
+      label: Are the reporting features easy to find and access
+      hint: Rate feature organization and navigation
+      type: select_one
+      options:
+      - Excellent - Very accessible
+      - Good - Accessible with minimal effort
+      - Adequate - Somewhat difficult to find
+      - Poor - Hard to locate features
+      - Very poor - Major navigation issues
+      required: true
+    - id: 12
+      name: data_entry_speed
+      label: How quickly can you complete a report
+      hint: Rate the speed of data entry
+      type: select_one
+      options:
+      - Very fast - Under 5 minutes
+      - Fast - 5-15 minutes
+      - Moderate - 15-30 minutes
+      - Slow - 30-60 minutes
+      - Very slow - Over 1 hour
+      required: true
+    - id: 13
+      name: data_accuracy
+      label: How confident are you in the accuracy of submitted data
+      hint: Rate your confidence in data accuracy
+      type: select_one
+      options:
+      - Very confident - System validates well
+      - Confident - Good validation
+      - Neutral - Sometimes errors occur
+      - Not confident - Frequent errors
+      - Very not confident - Major issues
+      required: true
+    - id: 14
+      name: search_functionality
+      label: How effective is the search and filter functionality
+      hint: Rate the search and filtering features
+      type: select_one
+      options:
+      - Excellent - Very powerful and helpful
+      - Good - Works well for most needs
+      - Adequate - Basic functionality
+      - Poor - Limited usefulness
+      - Very poor - Not functional
+      required: true
+    - id: 15
+      name: specific_features
+      label: Which features do you use most frequently
+      hint: Select the features you use regularly
+      type: select_multiple
+      options:
+      - Report creation and submission
+      - Animal record lookup
+      - Data search and filtering
+      - Report templates
+      - Export and printing
+      - Notifications and alerts
+      - Analytics dashboard
+      - Other reporting functions
+      required: false
+    - id: 16
+      name: improvement_header
+      label: -- Areas for Improvement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: biggest_frustration
+      label: What is the biggest frustration with this tool
+      hint: Describe your main challenges
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: missing_features
+      label: What features or functionality are missing
+      hint: What would make the tool more useful
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: improvement_suggestions
+      label: Suggestions for improvement
+      hint: Your specific recommendations
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: training_support_header
+      label: -- Training and Support --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: support_quality
+      label: How would you rate the technical support provided
+      hint: Quality of help when you need it
+      type: select_one
+      options:
+      - Excellent - Responsive and helpful
+      - Good - Generally helpful
+      - Adequate - Acceptable
+      - Poor - Limited help
+      - Not available - No support received
+      required: false
+    - id: 22
+      name: training_adequacy
+      label: Did you receive adequate training
+      hint: Was the training sufficient to use the tool
+      type: select_one
+      options:
+      - Yes, very adequate training
+      - Yes, adequate training
+      - Neutral - Some training provided
+      - No, limited training
+      - No training provided
+      required: false
+    - id: 23
+      name: recommendation_header
+      label: -- Overall Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: recommend_tool
+      label: Would you recommend this tool to other organizations
+      hint: Your recommendation
+      type: select_one
+      options:
+      - Yes, highly recommend
+      - Yes, recommend with reservations
+      - Neutral - It has strengths and weaknesses
+      - No, do not recommend
+      - No, not suitable for other organizations
+      required: true
+    - id: 25
+      name: overall_satisfaction
+      label: Overall satisfaction with the reporting tool
+      hint: Rate your overall satisfaction
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true

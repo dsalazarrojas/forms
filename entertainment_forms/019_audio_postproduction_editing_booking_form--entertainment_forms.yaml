@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audio Postproduction Editing Booking Form
+    pages:
+    - id: 1
+      name: client_full_name
+      label: Client Full Name
+      hint: Name of client booking the service
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Production company or studio (if applicable)
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: booking_date
+      label: Booking Date
+      hint: Date of this booking request
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: project_title
+      label: Project Title
+      hint: Name or working title of project
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: project_type
+      label: Project Type
+      hint: What type of project is this?
+      type: select_one
+      options:
+      - Film
+      - Television
+      - Documentary
+      - Commercial
+      - Web Series
+      - Short Film
+      - Music Video
+      - Podcast
+      - Other
+      required: true
+    - id: 8
+      name: project_length
+      label: Project Length
+      hint: Approximate runtime
+      type: select_one
+      options:
+      - Under 5 minutes
+      - 5-15 minutes
+      - 15-30 minutes
+      - 30-60 minutes
+      - 60-90 minutes
+      - Over 90 minutes
+      required: true
+    - id: 9
+      name: editing_services_needed
+      label: Editing Services Needed
+      hint: Select all services required
+      type: select_multiple
+      options:
+      - Dialogue Editing
+      - ADR Editing
+      - Sound Effects Editing
+      - Foley Editing
+      - Music Editing
+      - Ambience Editing
+      - Full Sound Edit
+      required: true
+    - id: 10
+      name: current_stage
+      label: Current Stage
+      hint: What stage is your project in?
+      type: select_one
+      options:
+      - Pre-production
+      - Principal photography
+      - Picture locked
+      - Rough cut
+      - Fine cut
+      - Final cut
+      required: true
+    - id: 11
+      name: footage_format
+      label: Footage Format
+      hint: Format of source footage
+      type: select_one
+      options:
+      - 4K UHD
+      - 1080p HD
+      - 720p HD
+      - Other
+      required: true
+    - id: 12
+      name: audio_format
+      label: Audio Format
+      hint: Format of source audio
+      type: select_one
+      options:
+      - Stereo
+      - 5.1 Surround
+      - 7.1 Surround
+      - Dolby Atmos
+      - Mono
+      required: true
+    - id: 13
+      name: preferred_start_date
+      label: Preferred Start Date
+      hint: When should editing begin?
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: deadline
+      label: Deadline
+      hint: Final delivery deadline
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: delivery_format
+      label: Delivery Format
+      hint: Required delivery format
+      type: select_one
+      options:
+      - Pro Tools Session
+      - OMF
+      - AAF
+      - Final Mix Stereo
+      - Final Mix 5.1
+      - Stems
+      required: true
+    - id: 16
+      name: revision_rounds
+      label: Revision Rounds
+      hint: Expected number of revision rounds
+      type: select_one
+      options:
+      - 1 round
+      - 2 rounds
+      - 3 rounds
+      - 4+ rounds
+      required: true
+    - id: 17
+      name: budget_range
+      label: Budget Range
+      hint: Estimated budget for postproduction
+      type: select_one
+      options:
+      - Under $5,000
+      - $5,000 - $10,000
+      - $10,000 - $25,000
+      - $25,000 - $50,000
+      - Over $50,000
+      required: true
+    - id: 18
+      name: special_requirements
+      label: Special Requirements
+      hint: Any specific requirements or notes
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: How did you find our services?
+      type: select_one
+      options:
+      - Referral
+      - Website
+      - Social Media
+      - Previous Work
+      - Industry Contact
+      - Other
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information to share
+      type: text
+      options: []
+      required: false

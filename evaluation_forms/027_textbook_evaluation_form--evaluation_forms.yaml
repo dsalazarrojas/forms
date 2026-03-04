@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Textbook Evaluation Form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: teacher_name
+      label: teacher_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: teacher_rating
+      label: teacher_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: textbook_id
+      label: Textbook ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: textbook_title
+      label: Textbook Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: textbook_rating
+      label: Textbook Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: teacher_recommendation
+      label: Teacher Recommendation
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: student_feedback
+      label: Student Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: teacher_feedback
+      label: Teacher Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: evaluation_status
+      label: Evaluation Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true

@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Process Intelligence Pilot Application Form
+    pages:
+    - id: 1
+      name: form_1_page_1
+      label: Applicant Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: form_2_page_2
+      label: HR Challenges
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: form_3_page_3
+      label: Goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: form_4_page_4
+      label: Additional Information
+      hint: Any additional information you would like to share with us?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_5_page_5
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

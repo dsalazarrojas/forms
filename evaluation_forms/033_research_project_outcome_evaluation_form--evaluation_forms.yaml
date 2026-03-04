@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: research_project_outcome_evaluation_form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: evaluation_questions
+      label: Evaluation Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_outcome
+      label: Project Outcome
+      hint: null
+      type: select_one
+      options:
+      - Value 1
+      - Value 2
+      - Value 3
+      required: false
+    - id: 5
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: email_project_lead
+      label: Email Project Lead
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_project_lead
+      label: Phone Project Lead
+      hint: null
+      type: text
+      options: []
+      required: false

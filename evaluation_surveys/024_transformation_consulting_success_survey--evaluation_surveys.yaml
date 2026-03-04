@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transformation Consulting Success Survey
+    pages:
+    - id: 1
+      name: project_impact
+      label: What was the project impact
+      hint: null
+      type: select_multiple
+      options:
+      - High impact
+      - Medium impact
+      - Low impact
+      required: false
+    - id: 2
+      name: client_satisfaction
+      label: client_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: consultant_satisfaction
+      label: Consultant satisfaction
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Medium
+      required: true
+    - id: 4
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Client email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Client phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_start_date
+      label: Project start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: project_end_date
+      label: Project end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_spent_on_project
+      label: Time spent on project
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: time_spent_on_project_preferred
+      label: Time spent on project (preferred)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: team_size
+      label: team_size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: team_diversity
+      label: Team diversity
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 13
+      name: team_collaboration
+      label: Team collaboration
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 14
+      name: project_complexity
+      label: Project complexity
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Very High
+      required: true
+    - id: 15
+      name: team_skills
+      label: Team skills
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 16
+      name: team_experience
+      label: Team experience
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 17
+      name: communication_effectiveness
+      label: Communication effectiveness
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 18
+      name: project_scope
+      label: Project scope
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 19
+      name: project_duration
+      label: Project duration
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 week
+      - 1-2 weeks
+      - 2-4 weeks
+      - More than 4 weeks
+      required: true
+    - id: 20
+      name: project_scope_deviation
+      label: Project scope deviation
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 21
+      name: consultant_quality
+      label: Consultant quality
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 22
+      name: team_quality
+      label: Team quality
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 23
+      name: communication_quality
+      label: Communication quality
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 24
+      name: client_quality
+      label: Client quality
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 25
+      name: feedback2
+      label: feedback2
+      hint: null
+      type: note
+      options: []
+      required: false

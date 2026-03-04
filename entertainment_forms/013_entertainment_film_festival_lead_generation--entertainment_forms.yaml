@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Entertainment Film Festival Lead Generation
+    pages:
+    - id: 1
+      name: lead_generation
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your valid email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: festival_name
+      label: Festival Name
+      hint: Enter your festival name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Organizer''}'
+      - '{''id'': 2, ''label'': ''Attendee''}'
+      - '{''id'': 3, ''label'': ''Sponsor''}'
+      required: true
+    - id: 7
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: job_function
+      label: Job Function
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: about_me
+      label: About Me
+      hint: null
+      type: note
+      options: []
+      required: false

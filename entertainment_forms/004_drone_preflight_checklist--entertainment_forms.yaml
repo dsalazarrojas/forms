@@ -1,0 +1,99 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Drone Preflight Checklist
+    pages:
+    - id: 1
+      name: drone_preflight_checklist_page
+      label: Preflight Checklist
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: drone_preflight_checklist_engine_checklist
+      label: Engine Checklist
+      hint: null
+      type: select_one
+      options:
+      - Engine Air Filter
+      - Engine Propulsion System
+      - Engine Battery
+      - Engine Control System
+      - Engine Mounts
+      required: false
+    - id: 3
+      name: drone_preflight_checklist_sensors_checklist
+      label: Sensor Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - GPS
+      - Camera
+      - Obstacle Avoidance System
+      - Altitude
+      - Inertial Measurement Unit
+      required: false
+    - id: 4
+      name: drone_preflight_checklist_controls_checklist
+      label: Control Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - Throttle
+      - Rudder
+      - Pitch Yaw
+      - Roll
+      - Elevon
+      required: false
+    - id: 5
+      name: drone_preflight_checklist_propeller_checklist
+      label: Propeller Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - Propeller Pitch
+      - Propeller Angle
+      - Propeller Spin
+      required: false
+    - id: 6
+      name: drone_preflight_checklist_battery_checklist
+      label: Battery Checklist
+      hint: null
+      type: select_one
+      options:
+      - Battery Type
+      - Battery Condition
+      - Battery Power
+      required: false
+    - id: 7
+      name: drone_preflight_checklist_safety_checklist
+      label: Safety Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - Safety Net
+      - Safety Harness
+      - Safety Strap
+      required: false
+    - id: 8
+      name: drone_preflight_checklist_system_checklist
+      label: System Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - System Software
+      - System Update
+      - System Version
+      required: false

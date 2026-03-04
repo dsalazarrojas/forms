@@ -1,0 +1,163 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Change Leadership Effectiveness Survey
+    pages:
+      - id: 1
+        name: survey_date
+        label: Survey Date
+        hint: When completing the survey
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: respondent_name
+        label: Your Name
+        hint: Your full name
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: respondent_department
+        label: Your Department
+        hint: Department you work in
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: manager_name
+        label: Manager's Name
+        hint: Whose leadership you are evaluating
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: manager_title
+        label: Manager's Title
+        hint: Position or role
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: change_initiative
+        label: Change Initiative Evaluated
+        hint: What change did they lead
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: initiative_duration
+        label: Duration of Change Initiative
+        hint: How long was the change process
+        type: select_one
+        options: ["1 Month or Less", "1-3 Months", "3-6 Months", "6-12 Months", "Over 1 Year"]
+        required: false
+      - id: 8
+        name: vision_clarity
+        label: Clarity of Change Vision
+        hint: Leader communicated a clear vision
+        type: select_one
+        options: ["Excellent", "Good", "Average", "Below Average", "Poor"]
+        required: true
+      - id: 9
+        name: strategic_planning
+        label: Strategic Planning and Preparation
+        hint: Preparation for the change
+        type: select_one
+        options: ["Excellent", "Good", "Average", "Below Average", "Poor"]
+        required: true
+      - id: 10
+        name: team_engagement
+        label: Team Engagement and Involvement
+        hint: Involving team members in change
+        type: select_one
+        options: ["Excellent", "Good", "Average", "Below Average", "Poor"]
+        required: true
+      - id: 11
+        name: communication_quality
+        label: Communication Quality and Frequency
+        hint: Communication during change
+        type: select_one
+        options: ["Excellent", "Good", "Average", "Below Average", "Poor"]
+        required: true
+      - id: 12
+        name: resistance_management
+        label: Management of Change Resistance
+        hint: Handling opposition to change
+        type: select_one
+        options: ["Excellent", "Good", "Average", "Below Average", "Poor"]
+        required: true
+      - id: 13
+        name: support_provision
+        label: Support and Resources Provided
+        hint: Resources for successful change
+        type: select_one
+        options: ["Excellent", "Good", "Average", "Below Average", "Poor"]
+        required: true
+      - id: 14
+        name: decision_making
+        label: Decision Making and Problem Solving
+        hint: Decisions during the change
+        type: select_one
+        options: ["Excellent", "Good", "Average", "Below Average", "Poor"]
+        required: true
+      - id: 15
+        name: accountability
+        label: Accountability and Ownership
+        hint: Taking responsibility for outcomes
+        type: select_one
+        options: ["Excellent", "Good", "Average", "Below Average", "Poor"]
+        required: false
+      - id: 16
+        name: adaptability
+        label: Adaptability to Challenges
+        hint: Adjusting approach when needed
+        type: select_one
+        options: ["Excellent", "Good", "Average", "Below Average", "Poor"]
+        required: true
+      - id: 17
+        name: results_achievement
+        label: Achievement of Change Results
+        hint: Did change achieve its goals
+        type: select_one
+        options: ["Exceeded Goals", "Met Goals", "Partially Met Goals", "Fell Short", "Did Not Meet Goals"]
+        required: true
+      - id: 18
+        name: team_morale
+        label: Impact on Team Morale
+        hint: Effect on team morale and engagement
+        type: select_one
+        options: ["Very Positive", "Positive", "Neutral", "Negative", "Very Negative"]
+        required: false
+      - id: 19
+        name: strengths_as_leader
+        label: Leader's Key Strengths
+        hint: What they did well
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: development_areas
+        label: Areas for Development
+        hint: What could be improved
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: overall_effectiveness
+        label: Overall Leadership Effectiveness
+        hint: Rate overall effectiveness
+        type: select_one
+        options: ["Excellent", "Good", "Average", "Below Average", "Poor"]
+        required: true

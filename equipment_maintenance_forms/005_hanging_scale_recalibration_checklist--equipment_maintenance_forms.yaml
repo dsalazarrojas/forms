@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hanging Scale Recalibration Checklist
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_identification
+      label: Equipment Identification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: current_values
+      label: Current Values
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: recalibration_values
+      label: Recalibration Values
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: recalibration_date
+      label: Recalibration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: next_recalibration_due
+      label: Next Recalibration Due
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: technician_signoff
+      label: Technician Signoff
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email_notifier
+      label: Email Notifier
+      hint: null
+      type: email
+      options: []
+      required: false

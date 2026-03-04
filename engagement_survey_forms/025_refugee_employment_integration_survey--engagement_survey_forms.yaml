@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Refugee Employment Integration Survey
+    pages:
+    - id: 1
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Looking for a job
+      required: false
+    - id: 2
+      name: language_skills
+      label: Language Skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: support_needs
+      label: Support Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: looking_for_employment
+      label: Looking for employment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: job_sought
+      label: Job Sought
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: record_label_application
+    pages:
+    - id: 1
+      name: artist_name
+      label: artist_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: label_name
+      label: label_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: application_date
+      label: application_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: artist_biography
+      label: artist_biography
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: artist_website
+      label: artist_website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: artist_social_media
+      label: artist_social_media
+      hint: null
+      type: select_multiple
+      options:
+      - Instagram
+      - Facebook
+      - Twitter
+      - YouTube
+      required: false
+    - id: 9
+      name: label_representative
+      label: label_representative
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: artist_manager
+      label: artist_manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_address
+      label: contact_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: record_type
+      label: record_type
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Album
+      - EP
+      - Compilation
+      - Demo
+      required: true
+    - id: 13
+      name: record_label
+      label: record_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: artist_statement
+      label: artist_statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: label_agreement
+      label: label_agreement
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 16
+      name: artist_signature
+      label: artist_signature
+      hint: null
+      type: text
+      options: []
+      required: false

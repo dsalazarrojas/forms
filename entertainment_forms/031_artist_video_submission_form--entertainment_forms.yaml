@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artist Video Submission Form
+    pages:
+    - id: 1
+      name: artist_name
+      label: Artist or Band Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: primary_contact
+      label: Primary Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: music_genre
+      label: Music Genre
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: artist_bio
+      label: Artist Biography
+      hint: 50-150 words
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: years_active
+      label: Years Active in Industry
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: video_title
+      label: Video Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: video_description
+      label: Video Description
+      hint: What is this video about
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: video_file_upload
+      label: Video File or URL Upload
+      hint: YouTube link, Vimeo, or upload file
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: video_duration
+      label: Video Duration - Minutes
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: video_production_date
+      label: Production or Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: video_type
+      label: Type of Video
+      hint: null
+      type: select_one
+      options:
+      - Performance
+      - Music Video
+      - Documentary
+      - Tutorial
+      - Interview
+      - Other
+      required: true
+    - id: 14
+      name: audio_quality
+      label: Audio Quality
+      hint: null
+      type: select_one
+      options:
+      - Professional
+      - High Quality
+      - Standard
+      - Rough Demo
+      required: false
+    - id: 15
+      name: video_quality
+      label: Video Quality
+      hint: null
+      type: select_one
+      options:
+      - 4K
+      - 1080p
+      - 720p
+      - Lower Resolution
+      required: false
+    - id: 16
+      name: music_rights
+      label: Music Rights Status
+      hint: null
+      type: select_one
+      options:
+      - Original
+      - Licensed
+      - Covers - Proper Licensing
+      - Unclear
+      required: true
+    - id: 17
+      name: featured_artists
+      label: Featured or Guest Artists
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: production_credits
+      label: Production Credits - Director, Producer, etc.
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submission_purpose
+      label: Submission Purpose
+      hint: null
+      type: select_one
+      options:
+      - Competition
+      - Festival Consideration
+      - Representation
+      - Distribution
+      - Promotion
+      - Other
+      required: true
+    - id: 20
+      name: usage_rights
+      label: Agree to Usage Rights for Review and Promotion
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: previous_submissions
+      label: Previous Submissions to This Platform
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - This is First
+      required: false
+    - id: 22
+      name: additional_notes
+      label: Additional Information or Notes
+      hint: null
+      type: text
+      options: []
+      required: false

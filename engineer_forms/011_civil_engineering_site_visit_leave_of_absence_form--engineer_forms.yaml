@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Civil Engineering Site Visit Leave Of Absence Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID Number
+      hint: Your company employee ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Select your department
+      type: select_one
+      options:
+      - Civil Engineering
+      - Structural Engineering
+      - Geotechnical Engineering
+      - Transportation Engineering
+      - Water Resources
+      - Environmental Engineering
+      - Project Management
+      - Construction Management
+      - Other
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: Your current position
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Company email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number during leave
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: site_name
+      label: Site Visit Location Name
+      hint: Name of the construction site or project
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: site_address
+      label: Site Address
+      hint: Full address of the site
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: leave_start_date
+      label: Leave Start Date
+      hint: First day of site visit
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: leave_start_time
+      label: Departure Time
+      hint: What time will you leave
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: leave_end_date
+      label: Leave End Date
+      hint: Last day of site visit
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: leave_end_time
+      label: Expected Return Time
+      hint: When you expect to return
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: total_days
+      label: Total Days Away
+      hint: Number of business days
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: visit_purpose
+      label: Purpose of Site Visit
+      hint: Describe the objectives of your visit
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: activities_planned
+      label: Planned Activities
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Site Inspection
+      - Progress Review
+      - Quality Control
+      - Safety Audit
+      - Surveying
+      - Soil Testing
+      - Meeting with Contractors
+      - Client Meeting
+      - Documentation
+      - Other
+      required: true
+    - id: 16
+      name: travel_method
+      label: Method of Travel
+      hint: How will you travel to the site
+      type: select_one
+      options:
+      - Company Vehicle
+      - Personal Vehicle
+      - Rental Car
+      - Public Transportation
+      - Air Travel
+      - Other
+      required: true
+    - id: 17
+      name: accommodation_needed
+      label: Is Overnight Accommodation Required
+      hint: Will you need lodging
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: accommodation_details
+      label: Accommodation Details
+      hint: Hotel name and address if applicable
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Your direct supervisor
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: backup_contact
+      label: Backup Contact Person
+      hint: Who will cover your responsibilities
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: safety_equipment
+      label: Safety Equipment Needed
+      hint: Select required PPE
+      type: select_multiple
+      options:
+      - Hard Hat
+      - Safety Vest
+      - Steel-Toe Boots
+      - Safety Glasses
+      - Hearing Protection
+      - Gloves
+      - Fall Protection
+      - Respirator
+      required: false
+    - id: 22
+      name: estimated_cost
+      label: Estimated Travel Cost
+      hint: In dollars including fuel, lodging, meals
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

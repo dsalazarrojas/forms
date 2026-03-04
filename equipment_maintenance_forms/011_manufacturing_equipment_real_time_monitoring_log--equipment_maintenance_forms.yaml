@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manufacturing Equipment Real-Time Monitoring Log
+    pages:
+    - id: 1
+      name: manufacturing_equipment_real_time_monitoring_log
+      label: manufacturing_equipment_real_time_monitoring_log
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: manufacturing_equipment_id
+      label: manufacturing_equipment_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: equipment_status
+      label: equipment_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: shift
+      label: shift
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: machine_performance_level
+      label: machine_performance_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 8
+      name: equipment_condition
+      label: equipment_condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: performance_data
+      label: performance_data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: issues_found
+      label: issues_found
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: issue_description
+      label: issue_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: maintenance_needed
+      label: maintenance_needed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

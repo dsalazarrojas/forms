@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Lab Safety Equipment Requisition Form
+    pages:
+    - id: 1
+      name: lab_department
+      label: Lab Department
+      hint: null
+      type: select_one
+      options:
+      - Department 1
+      - Department 2
+      - Department 3
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: purpose
+      label: Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: departmental_approval
+      label: Departmental Approval
+      hint: null
+      type: select_one
+      options:
+      - Approve
+      - Not Approve
+      required: false
+    - id: 7
+      name: lab_manager_approval
+      label: Lab Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - Approve
+      - Not Approve
+      required: false
+    - id: 8
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: date_needed
+      label: Date Needed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: departmental_approval_date
+      label: Departmental Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: lab_manager_approval_date
+      label: Lab Manager Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: equipment_description
+      label: Equipment Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_phone_extension
+      label: Contact Phone Extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: created_date
+      label: Created Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: updated_date
+      label: Updated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: status
+      label: Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: lab_manager_comments
+      label: Lab Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: departmental_comments
+      label: Departmental Comments
+      hint: null
+      type: text
+      options: []
+      required: false

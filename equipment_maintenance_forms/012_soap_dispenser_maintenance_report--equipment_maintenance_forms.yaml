@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Soap Dispenser Maintenance Report
+    pages:
+    - id: 1
+      name: soap_dispenser_maintenance_report_form
+      label: Soap Dispenser Maintenance Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: dispenser_condition
+      label: dispenser_condition
+      hint: null
+      type: select_one
+      options:
+      - Soap Dispenser is fully functional
+      - Soap Dispenser is partially functional
+      - Soap Dispenser is not functional
+      required: true
+    - id: 4
+      name: soap_level
+      label: soap_level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: maintenance_activity
+      label: maintenance_activity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: restocking_status
+      label: restocking_status
+      hint: null
+      type: select_multiple
+      options:
+      - Restocked
+      - Not Restocked
+      required: true
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: text
+      options: []
+      required: true

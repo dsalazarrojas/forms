@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brow Lamination and Tint Information and Waiver Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For appointment confirmations
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: service_date
+      label: Appointment Date
+      hint: Scheduled service date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: service_type
+      label: Service Type
+      hint: Select the service you are receiving
+      type: select_one
+      options:
+      - Brow Lamination Only
+      - Brow Tint Only
+      - Brow Lamination and Tint
+      - Brow Lamination with Wax
+      - Full Brow Package
+      required: true
+    - id: 7
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Select any that apply
+      type: select_multiple
+      options:
+      - None
+      - Pregnancy or Nursing
+      - Eye Infections or Conditions
+      - Skin Conditions (Eczema, Psoriasis)
+      - Allergies to Cosmetics
+      - Recent Eye Surgery
+      - Chemotherapy Treatment
+      - Other
+      required: true
+    - id: 8
+      name: allergies
+      label: Known Allergies
+      hint: List any allergies especially to cosmetics or dyes
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: medications
+      label: Current Medications
+      hint: List any medications that may affect skin sensitivity
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: previous_brow_treatments
+      label: Previous Brow Treatments
+      hint: Have you had brow lamination or tint before
+      type: select_one
+      options:
+      - Yes - Multiple Times
+      - Yes - Once
+      - No - First Time
+      required: true
+    - id: 11
+      name: last_brow_treatment_date
+      label: Last Brow Treatment Date
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: skin_sensitivity
+      label: Skin Sensitivity
+      hint: Do you have sensitive skin
+      type: select_one
+      options:
+      - Very Sensitive
+      - Somewhat Sensitive
+      - Normal
+      - Not Sensitive
+      required: true
+    - id: 13
+      name: procedure_understanding
+      label: Procedure Understanding
+      hint: I understand the brow lamination and tint procedure
+      type: select_one
+      options:
+      - Yes - Fully Explained
+      - Yes - Read Information
+      - Need More Information
+      required: true
+    - id: 14
+      name: risks_acknowledged
+      label: Risks Acknowledged
+      hint: I understand potential risks include irritation or allergic reaction
+      type: select_one
+      options:
+      - Yes - I Understand
+      - No - Need Clarification
+      required: true
+    - id: 15
+      name: aftercare_instructions
+      label: Aftercare Instructions Received
+      hint: I have received aftercare instructions
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: consent_given
+      label: Consent to Proceed
+      hint: I consent to the brow lamination and tint procedure
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - I Do Not Consent
+      required: true
+    - id: 17
+      name: photo_consent
+      label: Photo Consent
+      hint: I consent to before and after photos for portfolio
+      type: select_one
+      options:
+      - Yes - For Portfolio Only
+      - Yes - For Social Media Too
+      - No - No Photos
+      required: true
+    - id: 18
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: In case of adverse reaction
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact number
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: client_signature
+      label: Client Acknowledgment
+      hint: By selecting Yes you acknowledge all information is accurate
+      type: select_one
+      options:
+      - Yes - I Acknowledge and Agree
+      - No - I Do Not Agree
+      required: true

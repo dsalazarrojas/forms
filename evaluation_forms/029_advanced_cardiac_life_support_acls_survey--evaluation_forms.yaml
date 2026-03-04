@@ -1,0 +1,95 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Advanced Cardiac Life Support ACLS Survey
+    pages:
+    - id: 1
+      name: exam_header
+      label: -- ACLS Knowledge Check --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: certification_status
+      label: Current ACLS certification status
+      hint: Expiry date if certified
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: knowledge_rating
+      label: Self rated ACLS knowledge
+      hint: Rate from 1 to 5
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 5
+      name: recent_practice_frequency
+      label: Frequency of recent ACLS practice
+      hint: How often in past year
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Regularly
+      required: true
+    - id: 6
+      name: confidence_in_team_lead
+      label: Confidence leading ACLS team
+      hint: Select level of confidence
+      type: select_one
+      options:
+      - Not confident
+      - Slightly confident
+      - Confident
+      - Very confident
+      required: true
+    - id: 7
+      name: training_needs
+      label: Specific training needs
+      hint: Indicate topics needing reinforcement
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: preferred_training_format
+      label: Preferred training format
+      hint: Choose training format
+      type: select_one
+      options:
+      - In person simulation
+      - Online modules
+      - Hybrid
+      required: false
+    - id: 9
+      name: comments
+      label: Additional comments
+      hint: Any other relevant feedback
+      type: text
+      options: []
+      required: false

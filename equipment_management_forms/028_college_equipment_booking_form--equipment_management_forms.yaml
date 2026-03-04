@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: College Equipment Booking Form
+    pages:
+    - id: 1
+      name: booking_date
+      label: Booking Request Date
+      hint: When you are submitting this request
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: requestor_name
+      label: Requestor Name
+      hint: Full name of person making request
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requestor_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requestor_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: requestor_role
+      label: Role or Status
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Faculty
+      - Staff
+      - Department
+      - External
+      required: true
+    - id: 6
+      name: department_affiliation
+      label: Department or Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: equipment_type
+      label: Equipment Type Needed
+      hint: null
+      type: select_one
+      options:
+      - Projector
+      - Microphone and Speaker System
+      - Camera or Video Equipment
+      - Laboratory Equipment
+      - Computers or Laptops
+      - Audio Recording Equipment
+      - Microscopes
+      - Other
+      required: true
+    - id: 8
+      name: equipment_quantity
+      label: Quantity Needed
+      hint: Number of items
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: specific_equipment_model
+      label: Specific Equipment Model or Model Number
+      hint: If you know the model required
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: purpose_of_use
+      label: Purpose of Equipment Use
+      hint: null
+      type: select_one
+      options:
+      - Class or Lecture
+      - Research Project
+      - Laboratory Work
+      - Event or Presentation
+      - Academic Training
+      - Other
+      required: true
+    - id: 11
+      name: event_or_course_name
+      label: Event or Course Name
+      hint: What is the equipment for
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: equipment_start_date
+      label: Equipment Needed Start Date
+      hint: When do you need it
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: equipment_end_date
+      label: Equipment Needed End Date
+      hint: When will you return it
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: expected_number_of_users
+      label: Expected Number of Users
+      hint: How many people will use it
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: equipment_location
+      label: Where Will Equipment Be Used
+      hint: Building, room number, or location
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: technical_support_needed
+      label: Technical Support Needed
+      hint: Do you need help setting it up
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: training_required
+      label: Training or Orientation Required
+      hint: Do you need instruction
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: transportation_needed
+      label: Transportation of Equipment Needed
+      hint: Do you need help moving equipment
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: insurance_or_liability
+      label: Insurance or Liability Required
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 20
+      name: special_requirements
+      label: Special Requirements or Constraints
+      hint: Any specific needs or restrictions
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: backup_dates
+      label: Alternative Dates if Primary Date Unavailable
+      hint: Flexible dates for booking
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional Comments or Notes
+      hint: Any other information
+      type: text
+      options: []
+      required: false

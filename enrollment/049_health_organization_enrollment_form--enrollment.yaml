@@ -1,0 +1,119 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Health Organization Enrollment Form
+    pages:
+    - id: 1
+      name: health_organization_enrollment_form_page_1
+      label: Organization Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: organization_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_address
+      label: organization_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: organization_type
+      label: organization_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Health Organization''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: organization_license
+      label: organization_license
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: tax_id_number
+      label: tax_id_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: enrollment_date
+      label: enrollment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: enrollment_status
+      label: enrollment_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Inactive''}'
+      - '{''label'': ''Pending''}'
+      required: false
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: back
+      label: back
+      hint: null
+      type: text
+      options: []
+      required: false

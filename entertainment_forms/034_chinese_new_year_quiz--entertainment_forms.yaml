@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chinese New Year Quiz
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: Which animal represents the current zodiac year
+      hint: Choose the correct animal
+      type: select_one
+      options:
+      - Rat
+      - Ox
+      - Tiger
+      - Rabbit
+      required: true
+    - id: 3
+      name: question_2
+      label: What color is often associated with Chinese New Year
+      hint: Choose the best answer
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      - Black
+      required: true
+    - id: 4
+      name: question_3
+      label: What is commonly given in red envelopes
+      hint: Select the common item
+      type: select_one
+      options:
+      - Candy
+      - Money
+      - Fruit
+      - Flowers
+      required: true
+    - id: 5
+      name: question_4
+      label: Traditional new year food often served
+      hint: Choose the food
+      type: select_one
+      options:
+      - Dumplings
+      - Pizza
+      - Tacos
+      - Soup
+      required: true
+    - id: 6
+      name: score
+      label: Score
+      hint: Numeric score achieved
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,89 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: CLEAN TEAM Annual Performance Review Self Evaluation
+    pages:
+      - id: 1
+        name: header
+        label: -- Self Evaluation --
+        hint: Reflect on the past year when completing this form
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: employee_name
+        label: Employee name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: position_title
+        label: Position title
+        hint: Role within the Clean Team division
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: review_period_start
+        label: Review period start
+        hint: Start date for evaluation period
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: review_period_end
+        label: Review period end
+        hint: End date for evaluation period
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: key_accomplishments
+        label: Key accomplishments
+        hint: Describe notable contributions or projects
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: challenges_faced
+        label: Challenges faced
+        hint: Describe obstacles and how they were managed
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: goals_for_next_period
+        label: Goals for next period
+        hint: Specific measurable objectives for next review cycle
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: self_rating_overall
+        label: Self rating overall
+        hint: Rate overall performance
+        type: select_one
+        options:
+          - Exceeds expectations
+          - Meets expectations
+          - Needs improvement
+        required: true
+      - id: 10
+        name: employee_signature
+        label: Employee signature name
+        hint: Type full name to serve as electronic signature
+        type: text
+        options: []
+        required: true

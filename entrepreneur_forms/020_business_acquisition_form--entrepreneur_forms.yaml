@@ -1,0 +1,283 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Acquisition Form
+    pages:
+    - id: 1
+      name: buyer_info
+      label: Buyer Information
+      hint: Details about the buyer
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: buyer_name
+      label: Buyer Full Name
+      hint: Legal name of buyer
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: buyer_type
+      label: Buyer Type
+      hint: Type of buyer entity
+      type: select_one
+      options:
+      - Individual
+      - Corporation
+      - LLC
+      - Partnership
+      - Investment Group
+      - Other
+      required: true
+    - id: 4
+      name: buyer_email
+      label: Buyer Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: buyer_phone
+      label: Buyer Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: buyer_address
+      label: Buyer Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: seller_info
+      label: Seller Information
+      hint: Details about the seller
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: seller_name
+      label: Seller Full Name
+      hint: Legal name of seller
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: seller_company
+      label: Seller Company Name
+      hint: Name of company being sold
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: seller_email
+      label: Seller Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: seller_phone
+      label: Seller Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: business_info
+      label: Business Information
+      hint: Details about the business
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: business_name
+      label: Business Name
+      hint: Legal name of business
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: business_type
+      label: Business Type
+      hint: Type of business entity
+      type: select_one
+      options:
+      - Sole Proprietorship
+      - Partnership
+      - LLC
+      - Corporation
+      - S-Corporation
+      - Other
+      required: true
+    - id: 15
+      name: industry
+      label: Industry
+      hint: Business industry
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Manufacturing
+      - Retail
+      - Food Service
+      - Professional Services
+      - Real Estate
+      - Other
+      required: true
+    - id: 16
+      name: years_in_operation
+      label: Years in Operation
+      hint: How long has business operated
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - 10-20 years
+      - More than 20 years
+      required: true
+    - id: 17
+      name: number_of_employees
+      label: Number of Employees
+      hint: Current employee count
+      type: select_one
+      options:
+      - 1-5
+      - 6-10
+      - 11-20
+      - 21-50
+      - 51-100
+      - More than 100
+      required: true
+    - id: 18
+      name: financial_info
+      label: Financial Information
+      hint: Business financial details
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: asking_price
+      label: Asking Price
+      hint: Requested purchase price
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: annual_revenue
+      label: Annual Revenue
+      hint: Most recent annual revenue
+      type: select_one
+      options:
+      - Under $100,000
+      - $100,000-$500,000
+      - $500,000-$1,000,000
+      - $1,000,000-$5,000,000
+      - $5,000,000-$10,000,000
+      - More than $10,000,000
+      required: true
+    - id: 21
+      name: annual_profit
+      label: Annual Profit
+      hint: Most recent annual profit
+      type: select_one
+      options:
+      - Under $50,000
+      - $50,000-$100,000
+      - $100,000-$500,000
+      - $500,000-$1,000,000
+      - More than $1,000,000
+      - Not Profitable
+      required: true
+    - id: 22
+      name: assets_included
+      label: Assets Included in Sale
+      hint: What assets are included
+      type: select_multiple
+      options:
+      - Real Estate
+      - Equipment
+      - Inventory
+      - Intellectual Property
+      - Customer Lists
+      - Brand and Trademarks
+      - Vehicles
+      - Accounts Receivable
+      required: true
+    - id: 23
+      name: liabilities
+      label: Liabilities
+      hint: Are there liabilities to assume
+      type: select_one
+      options:
+      - No Liabilities
+      - Minor Liabilities
+      - Moderate Liabilities
+      - Significant Liabilities
+      - To Be Determined
+      required: true
+    - id: 24
+      name: transaction_details
+      label: Transaction Details
+      hint: Deal structure information
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: proposed_structure
+      label: Proposed Transaction Structure
+      hint: How will transaction be structured
+      type: select_one
+      options:
+      - Asset Purchase
+      - Stock Purchase
+      - Merger
+      - Earn-Out Agreement
+      - Other
+      required: true
+    - id: 26
+      name: financing_method
+      label: Financing Method
+      hint: How will purchase be financed
+      type: select_one
+      options:
+      - All Cash
+      - Bank Financing
+      - Seller Financing
+      - Investor Funding
+      - Combination
+      required: true
+    - id: 27
+      name: due_diligence_period
+      label: Due Diligence Period
+      hint: Expected duration in days
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: proposed_closing_date
+      label: Proposed Closing Date
+      hint: When should transaction close
+      type: date
+      options: []
+      required: false
+    - id: 29
+      name: contingencies
+      label: Contingencies
+      hint: Any deal contingencies
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: additional_terms
+      label: Additional Terms
+      hint: Any other terms or conditions
+      type: text
+      options: []
+      required: false

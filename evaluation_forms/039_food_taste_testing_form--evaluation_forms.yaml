@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Taste Testing Form
+    pages:
+    - id: 1
+      name: food_item
+      label: Food Item
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: taste_rating
+      label: Taste Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: aroma_level
+      label: Aroma Level
+      hint: null
+      type: select_multiple
+      options:
+      - Strong
+      - Medium
+      - Weak
+      required: false
+    - id: 4
+      name: appearance_color
+      label: Appearance Color
+      hint: null
+      type: select_multiple
+      options:
+      - White
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      - Black
+      - Brown
+      - Gray
+      - Other
+      required: false
+    - id: 5
+      name: food_taste
+      label: Food Taste
+      hint: null
+      type: select_multiple
+      options:
+      - Sweet
+      - Savory
+      - Sour
+      - Bitter
+      required: false
+    - id: 6
+      name: texture
+      label: Texture
+      hint: null
+      type: select_multiple
+      options:
+      - Smooth
+      - Crunchy
+      - Soft
+      - Hard
+      - Other
+      required: false
+    - id: 7
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: would_you_recommend
+      label: Would You Recommend
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

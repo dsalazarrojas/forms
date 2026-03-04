@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tour Booking Form Chauffeur Prive
+    pages:
+    - id: 1
+      name: tour_form
+      label: tour_booking_form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tour_details
+      label: tour_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: payment_info
+      label: payment_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: tour_booking_date
+      label: tour_booking_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: tour_booking_time
+      label: tour_booking_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: tour_booking_price
+      label: tour_booking_price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: tour_booking_notes
+      label: tour_booking_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: customer_additional_info
+      label: customer_additional_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: tour_booking_status
+      label: tour_booking_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 14
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: customer_note
+      label: customer_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: tour_status_message
+      label: tour_status_message
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 17
+      name: tour_guide_id
+      label: tour_guide_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: tour_booking_form
+      label: tour_booking_form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: customer_booking_source
+      label: customer_booking_source
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: customer_referral_source
+      label: customer_referral_source
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: customer_referral_code
+      label: customer_referral_code
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: customer_referral_status
+      label: customer_referral_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 23
+      name: customer_referral_message
+      label: customer_referral_message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: customer_referral_message_note
+      label: customer_referral_message_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: form_meta
+      label: form_meta
+      hint: null
+      type: text
+      options: []
+      required: false

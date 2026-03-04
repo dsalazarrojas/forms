@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Entertainment Press Coverage Consent Form
+    pages:
+    - id: 1
+      name: entertainment_press_coverage_consent_form
+      label: I accept that
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: press_coverage
+      label: Press Coverage
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: consent_given
+      label: Consent Given
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: file_type
+      label: File Type
+      hint: null
+      type: select_one
+      options:
+      - image
+      - document
+      required: false
+    - id: 14
+      name: file_size
+      label: File Size
+      hint: null
+      type: select_one
+      options:
+      - small
+      - medium
+      - large
+      required: false
+    - id: 15
+      name: file_name
+      label: File Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: file_description
+      label: File Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: form_completed
+      label: Form Completed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

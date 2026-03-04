@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Light Removal Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: property_info
+      label: -- Property Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Single family home
+      - Townhome
+      - Apartment
+      - Commercial building
+      - Other
+      required: true
+    - id: 12
+      name: light_scope
+      label: -- Light Removal Scope --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: area_coverage
+      label: Area to be Covered
+      hint: null
+      type: select_multiple
+      options:
+      - Roof lights
+      - Gutter lights
+      - Pathway lights
+      - Tree lights
+      - Decorative displays
+      - Icicle lights
+      - Animated displays
+      - All areas
+      required: true
+    - id: 14
+      name: total_coverage_area
+      label: Approximate Total Coverage Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: story_count
+      label: Number of Stories
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: removal_details
+      label: -- Removal Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: preferred_date
+      label: Preferred Removal Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: time_frame
+      label: Preferred Time Frame
+      hint: null
+      type: select_one
+      options:
+      - Morning (8 AM - 12 PM)
+      - Afternoon (12 PM - 4 PM)
+      - Evening (4 PM - 8 PM)
+      - Flexible
+      required: true
+    - id: 19
+      name: storage_option
+      label: Storage of Lights
+      hint: null
+      type: select_one
+      options:
+      - I will store them
+      - Please store at your facility
+      - Donate or dispose
+      - Not sure yet
+      required: false
+    - id: 20
+      name: special_requests
+      label: -- Special Requests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: light_damage
+      label: Are any lights damaged or broken?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Some
+      - Unknown
+      required: false
+    - id: 22
+      name: storage_location
+      label: Safe Location for Storage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: access_section
+      label: -- Property Access --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: property_access
+      label: How will our team access the property?
+      hint: null
+      type: select_one
+      options:
+      - I will be present
+      - Key will be left
+      - Lockbox provided
+      - Gate access code
+      - Other arrangement
+      required: true

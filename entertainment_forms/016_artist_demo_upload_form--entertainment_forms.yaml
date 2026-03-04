@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artist Demo Upload Form
+    pages:
+    - id: 1
+      name: artist_name
+      label: Artist or Band Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: primary_contact
+      label: Primary Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: artist_bio
+      label: Artist Biography
+      hint: 50-150 words
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: genre
+      label: Music Genre(s)
+      hint: Comma-separated list
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: formation_year
+      label: Year Band or Artist Formed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: band_members
+      label: Band Members or Collaborators
+      hint: Names and instruments/roles
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: social_media_links
+      label: Social Media Links
+      hint: Spotify, Instagram, YouTube, etc.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: demo_file
+      label: Demo File or Audio Upload
+      hint: Attach audio file
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: demo_title
+      label: Demo Title or Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: demo_description
+      label: Demo Description
+      hint: What the listener should know
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: track_count
+      label: Number of Tracks Included
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: listening_link
+      label: Listening Link or Streaming URL
+      hint: Spotify, SoundCloud, etc.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: production_credits
+      label: Producer, Engineer, Recording Studio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: previous_releases
+      label: Previous Releases or Notable Work
+      hint: Albums, EPs, notable tracks
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: target_audience
+      label: Target Audience or Intended Label Genre
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submission_rights
+      label: Rights to This Demo and Permissions
+      hint: null
+      type: select_one
+      options:
+      - Original Work
+      - Licensed
+      - To Be Determined
+      required: true
+    - id: 19
+      name: additional_notes
+      label: Additional Notes for Reviewers
+      hint: null
+      type: text
+      options: []
+      required: false

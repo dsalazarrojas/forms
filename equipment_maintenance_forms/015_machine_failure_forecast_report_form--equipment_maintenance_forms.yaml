@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Machine Failure Forecast Report Form
+    pages:
+    - id: 1
+      name: machine_failure_forecast
+      label: Machine Failure Forecast
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: machine_type
+      label: Machine Type
+      hint: null
+      type: select_one
+      options:
+      - Machine 1
+      - Machine 2
+      - Machine 3
+      required: false
+    - id: 3
+      name: predicted_failure_date
+      label: Predicted Failure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: predicted_failure_time
+      label: Predicted Failure Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: failure_probability
+      label: Failure Probability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: maintenance_frequency
+      label: Maintenance Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: maintenance_status
+      label: Maintenance Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Required
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: updated_on
+      label: Updated On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: updated_on_time
+      label: Updated On (Time)
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: machine_failure_forecast_form_id
+      label: Machine Failure Forecast Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitted_from
+      label: Submitted From
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitted_by_name
+      label: Submitted By (Name)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitted_by_email
+      label: Submitted By (Email)
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: submitted_by_phone
+      label: Submitted By (Phone)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: machine_failure_forecast_form_version
+      label: Machine Failure Forecast Form Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_on_utc
+      label: Submitted On (UTC)
+      hint: null
+      type: time
+      options: []
+      required: false

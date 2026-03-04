@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: resident_assistant_training_evaluation_form
+    pages:
+    - id: 1
+      name: training_evaluation_form
+      label: Training Evaluation Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: trainee_name
+      label: Trainee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: trainee_id
+      label: Trainee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: date_of_evaluation
+      label: Date of Evaluation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_evaluation
+      label: Time of Evaluation
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: training_level
+      label: Training Level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Beginner''}'
+      - '{''label'': ''Intermediate''}'
+      - '{''label'': ''Advanced''}'
+      required: false
+    - id: 8
+      name: evaluation_scale
+      label: Evaluation Scale
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Unsatisfactory''}'
+      - '{''label'': ''Needs Improvement''}'
+      - '{''label'': ''Satisfactory''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Excellent''}'
+      required: false
+    - id: 9
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: action_due_date
+      label: Action Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: trainee_rating
+      label: Trainee Rating
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''1-2''}'
+      - '{''label'': 3}'
+      - '{''label'': 4}'
+      - '{''label'': 5}'
+      required: false
+    - id: 13
+      name: trainer_name
+      label: Trainer Name
+      hint: null
+      type: text
+      options: []
+      required: true

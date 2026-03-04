@@ -1,0 +1,104 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Anime Character Quiz Template
+    pages:
+    - id: 1
+      name: quiz_header
+      label: -- Quiz Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant name or nickname
+      hint: Optional for anonymous quizzes
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email address
+      hint: Optional to receive results
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: q1_preference
+      label: Which trait best describes this character
+      hint: Choose one
+      type: select_one
+      options:
+      - Brave
+      - Cunning
+      - Kind
+      - Sarcastic
+      - Ambitious
+      required: true
+    - id: 5
+      name: q2_role
+      label: Role the character usually plays
+      hint: Choose one
+      type: select_one
+      options:
+      - Protagonist
+      - Antagonist
+      - Supporting
+      - Comic relief
+      required: true
+    - id: 6
+      name: q3_power_type
+      label: Preferred power type
+      hint: Choose one
+      type: select_one
+      options:
+      - Magic
+      - Technology
+      - Martial arts
+      - Psychic
+      required: false
+    - id: 7
+      name: q4_alignment
+      label: Character alignment
+      hint: Choose one
+      type: select_one
+      options:
+      - Heroic
+      - Neutral
+      - Villainous
+      required: true
+    - id: 8
+      name: quiz_comments
+      label: Any additional notes
+      hint: Optional feedback
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_taken
+      label: Date taken
+      hint: Date of quiz completion
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: score_email_opt_in
+      label: Opt in to receive your score by email
+      hint: Optional opt in
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: false

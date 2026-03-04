@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Year Party RSVP Form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attending_party
+      label: Attending Party
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: rsvp_by
+      label: RSVP By
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: rsvp_at_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

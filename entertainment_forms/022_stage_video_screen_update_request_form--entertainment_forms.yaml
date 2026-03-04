@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stage Video Screen Update Request Form
+    pages:
+    - id: 1
+      name: screen_id
+      label: Screen Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: screen_title
+      label: Screen Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: screen_description
+      label: Screen Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: screen_status
+      label: Screen Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: screen_type
+      label: Screen Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: screen_category
+      label: Screen Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: screen_tags
+      label: Screen Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitter_comments
+      label: Submitter Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: submitter_organization
+      label: Submitter Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: submitter_position
+      label: Submitter Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: submitter_notes
+      label: Submitter Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter_date
+      label: Submitter Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: submitter_time
+      label: Submitter Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: submitter_status
+      label: Submitter Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 19
+      name: submitter_message
+      label: Submitter Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: submitter_attachments
+      label: Submitter Attachments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: submitter_comments
+      label: Submitter Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: submitter_notes
+      label: Submitter Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: submitter_organization_url
+      label: Submitter Organization URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter_position_url
+      label: Submitter Position URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_url
+      label: Submitter URL
+      hint: null
+      type: text
+      options: []
+      required: false

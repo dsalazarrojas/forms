@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: cross_functional_team_performance_evaluation_form
+    pages:
+    - id: 1
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: team_collaboration
+      label: Team Collaboration
+      hint: Rate team collaboration
+      type: select_multiple
+      options:
+      - Collaboration and communication
+      - Problem solving
+      - Time management
+      - Teamwork and adaptability
+      - Adapting to change
+      required: true
+    - id: 3
+      name: feedback_comments
+      label: Feedback Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: performance_improvement
+      label: Performance Improvement
+      hint: null
+      type: select_one
+      options:
+      - Communication
+      - Time management
+      - Teamwork and adaptability
+      - Problem solving
+      required: true
+    - id: 5
+      name: project_outcome
+      label: Project Outcome
+      hint: Rate project outcome
+      type: select_multiple
+      options:
+      - Successful project outcome
+      - Partially successful project outcome
+      - Unsuccessful project outcome
+      required: true
+    - id: 6
+      name: team_dynamics
+      label: Team Dynamics
+      hint: null
+      type: select_multiple
+      options:
+      - Positive team dynamics
+      - Negative team dynamics
+      - Neutral team dynamics
+      required: false
+    - id: 7
+      name: evaluation_frequency
+      label: Evaluation Frequency
+      hint: Rate evaluation frequency
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      required: true
+    - id: 8
+      name: evaluation_basis
+      label: Evaluation Basis
+      hint: null
+      type: select_one
+      options:
+      - Feedback from team members
+      - Manager feedback
+      - Performance reports
+      required: true
+    - id: 9
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: Rate overall satisfaction
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 11
+      name: project_manager_performance
+      label: Project Manager Performance
+      hint: Rate project manager performance
+      type: select_multiple
+      options:
+      - Strong
+      - Medium
+      - Weak
+      required: false
+    - id: 12
+      name: team_member_performance
+      label: Team Member Performance
+      hint: Rate team member performance
+      type: select_multiple
+      options:
+      - Strong
+      - Medium
+      - Weak
+      required: false
+    - id: 13
+      name: communication
+      label: Communication
+      hint: Rate communication
+      type: select_multiple
+      options:
+      - Effective
+      - Ineffective
+      - Neutral
+      required: true
+    - id: 14
+      name: conflict_resolution
+      label: Conflict Resolution
+      hint: Rate conflict resolution
+      type: select_multiple
+      options:
+      - Effective
+      - Ineffective
+      - Neutral
+      required: true
+    - id: 15
+      name: adaptability
+      label: Adaptability
+      hint: Rate adaptability
+      type: select_multiple
+      options:
+      - Strong
+      - Medium
+      - Weak
+      required: false
+    - id: 16
+      name: time_management
+      label: Time Management
+      hint: Rate time management
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: feedback_loops
+      label: Feedback Loops
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: continuous_improvement
+      label: Continuous Improvement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: team_goal
+      label: Team Goal
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 20
+      name: individual_goal
+      label: Individual Goal
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: evaluation_time
+      label: Evaluation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: evaluation_location
+      label: Evaluation Location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: evaluation_by
+      label: Evaluated By
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: evaluator_notes
+      label: Evaluator Notes
+      hint: null
+      type: note
+      options: []
+      required: false

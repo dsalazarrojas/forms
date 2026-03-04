@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: dermal_filler_treatment_record_form
+    pages:
+    - id: 1
+      name: client_details
+      label: client_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: treatment_details
+      label: treatment_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: treatment_outcome
+      label: treatment_outcome
+      hint: null
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Not Satisfied
+      - Not Satisfied At All
+      required: true
+    - id: 4
+      name: follow_up_scheduled
+      label: follow_up_scheduled
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Unknown
+      required: true
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: output_file
+      label: output_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: form_category
+      label: form_category
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory Floor Engineering Team Contact Form
+    pages:
+    - id: 1
+      name: factory_floor_engineering_team_contact_form_1
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - issue
+      - request
+      required: false
+    - id: 2
+      name: factory_floor_engineering_team_contact_form_2
+      label: Problem Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: factory_floor_engineering_team_contact_form_3
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: factory_floor_engineering_team_contact_form_4
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: factory_floor_engineering_team_contact_form_5
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: factory_floor_engineering_team_contact_form_6
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Electrical
+      - Hydraulic
+      - Pneumatic
+      - Steam
+      required: false
+    - id: 7
+      name: factory_floor_engineering_team_contact_form_7
+      label: Severity
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 8
+      name: factory_floor_engineering_team_contact_form_8
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 9
+      name: factory_floor_engineering_team_contact_form_9
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: factory_floor_engineering_team_contact_form_10
+      label: Attachments
+      hint: null
+      type: select_multiple
+      options:
+      - attachment1
+      - attachment2
+      required: false

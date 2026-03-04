@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: input_output_evaluation_form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: input_process
+      label: Input Process
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: input_values
+      label: Input Values
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      required: false
+    - id: 4
+      name: expected_output
+      label: Expected Output
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: actual_output
+      label: Actual Output
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: process_description
+      label: Process Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - Feedback is clear and consistent
+      - Feedback is unclear and inconsistent
+      - Feedback is missing or incorrect
+      required: false
+    - id: 8
+      name: follow_up
+      label: Follow-Up
+      hint: null
+      type: select_multiple
+      options:
+      - Yes, follow-up is necessary
+      - Yes, no follow-up is necessary
+      - No follow-up is possible
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: evaluation_form_completion_date
+      label: Evaluation Form Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: project_leader
+      label: Project Leader
+      hint: null
+      type: select_one
+      options:
+      - Team Member A
+      - Team Member B
+      - Team Member C
+      required: false
+    - id: 12
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - Team Member A
+      - Team Member B
+      - Team Member C
+      required: false
+    - id: 13
+      name: evaluation_form_completion_time
+      label: Evaluation Form Completion Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: evaluation_form_completion_duration
+      label: Evaluation Form Completion Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_multiple
+      options:
+      - In Progress
+      - Completed
+      - Not Started
+      required: false
+    - id: 16
+      name: next_review_date
+      label: Next Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: next_review_time
+      label: Next Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: project_lead_name
+      label: Project Lead Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: team_lead_name
+      label: Team Lead Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: project_lead_email
+      label: Project Lead Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: team_lead_email
+      label: Team Lead Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: project_status
+      label: Project Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_status
+      label: Follow-Up Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: review_cycle
+      label: Review Cycle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: evaluation_status
+      label: Evaluation Status
+      hint: null
+      type: select_multiple
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      required: false

@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hydraulic System Monitoring Log Form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_identification
+      label: Equipment Identification
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''equipment_type'', ''label'': ''Type'', ''type'': ''select_one'',
+        ''options'': [{''name'': ''hydraulic-equipment'', ''label'': ''Hydraulic''},
+        {''name'': ''pneumatic-equipment'', ''label'': ''Pneumatic''}], ''required'':
+        True}'
+      - '{''name'': ''equipment_id'', ''label'': ''Equipment ID'', ''type'': ''select_multiple'',
+        ''options'': []}'
+      - '{''name'': ''equipment_serial_number'', ''label'': ''Equipment Serial Number'',
+        ''type'': ''text'', ''options'': []}'
+      - '{''name'': ''equipment_model'', ''label'': ''Equipment Model'', ''type'':
+        ''text'', ''options'': []}'
+      required: true
+    - id: 3
+      name: monitoring_data
+      label: Monitoring Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: submitter_details
+      label: Submitter Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: submitter_phone_number
+      label: Submitter Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitter_organization
+      label: Submitter Organization
+      hint: null
+      type: text
+      options: []
+      required: false

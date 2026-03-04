@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Participant Feedback Form
+    pages:
+    - id: 1
+      name: page_one
+      label: Planning a trip?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback
+      label: your feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: trip_type
+      label: type of trip
+      hint: null
+      type: select_one
+      options:
+      - adventurer
+      - tourist
+      - both
+      required: false
+    - id: 4
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: trip_location
+      label: trip location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: trip_duration
+      label: trip duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: trip_date
+      label: trip date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: trip_time
+      label: trip time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: participant_name
+      label: participant name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: participant_rating
+      label: participant rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: participant_notes
+      label: participant notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: participant_email
+      label: participant email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: participant_phone
+      label: participant phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: participant_comments
+      label: participant comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: participant_agree
+      label: do you agree
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false

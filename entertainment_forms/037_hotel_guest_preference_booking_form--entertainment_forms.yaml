@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Guest Preference Booking Form
+    pages:
+    - id: 1
+      name: booking_details
+      label: booking_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_dietary_restrictions
+      label: guest_dietary_restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: room_requirements
+      label: room_requirements
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 4
+      name: special_requests
+      label: special_requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: dietary_restrictions
+      label: dietary_restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: guest_preferences
+      label: guest_preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: arrival_and_departure_dates
+      label: arrival_and_departure_dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: arrival_time
+      label: arrival_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: room_type
+      label: room_type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 11
+      name: special_needs
+      label: special_needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: additional_services
+      label: additional_services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: special_request_comments
+      label: special_request_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: arrival_time_note
+      label: arrival_time_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: arrival_time
+      label: arrival_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: departure_time
+      label: departure_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: guest_type
+      label: guest_type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true

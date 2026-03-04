@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Grading Evaluation Form
+    pages:
+    - id: 1
+      name: assignment_name
+      label: Assignment Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: grade
+      label: Grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: submit_comments
+      label: Submit Comments
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 6
+      name: overall_participation
+      label: Overall Participation
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 7
+      name: classroom_participation
+      label: Classroom Participation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: null
+      type: text
+      options: []
+      required: false

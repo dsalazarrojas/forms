@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Psychological Safety At Work Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_safety
+      label: team safety
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: trust
+      label: trust
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: openness
+      label: openness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: manager_safety
+      label: manager safety
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: team_safety_score
+      label: team safety score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: team_member_safety_score
+      label: team member safety score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: trust_score
+      label: trust score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: comments_score
+      label: comments score
+      hint: null
+      type: number
+      options: []
+      required: false

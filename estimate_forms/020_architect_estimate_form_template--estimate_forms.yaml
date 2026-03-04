@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Architect Estimate Form Template
+    pages:
+    - id: 1
+      name: section_client_info
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: Individual or company name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_address
+      label: Client Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_project_details
+      label: -- Project Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: project_name
+      label: Project Name or Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: project_address
+      label: Project Location Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - New construction
+      - Renovation
+      - Interior design
+      - Commercial
+      - Residential
+      - Mixed use
+      - Other
+      required: true
+    - id: 10
+      name: project_scope
+      label: Project Scope
+      hint: Detailed description of work needed
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: square_footage
+      label: Square Footage
+      hint: Total area in square feet
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: section_scope_breakdown
+      label: -- Scope Breakdown --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: architectural_design
+      label: Architectural Design Services
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 14
+      name: structural_engineering
+      label: Structural Engineering Required
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 15
+      name: mep_design
+      label: MEP Design (Mechanical, Electrical, Plumbing)
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 16
+      name: site_survey_needed
+      label: Site Survey Required
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 17
+      name: section_timeline
+      label: -- Timeline and Budget --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: project_start_date
+      label: Desired Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: project_completion_date
+      label: Desired Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: estimated_budget
+      label: Estimated Budget
+      hint: Approximate budget for the project
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: section_contact
+      label: -- Preferred Contact Method --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: contact_preference
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text message
+      - In-person meeting
+      required: true

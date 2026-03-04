@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fence Estimation Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_description
+      label: project_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: material_type
+      label: material_type
+      hint: null
+      type: select_one
+      options:
+      - Cedar
+      - Cypress
+      - Pine
+      - Redwood
+      - Spruce
+      required: true
+    - id: 5
+      name: material_width
+      label: material_width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: project_location
+      label: project_location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: project_cost
+      label: project_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - Check
+      - Credit Card
+      required: true
+    - id: 11
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false

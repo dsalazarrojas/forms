@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bike Handover Form
+    pages:
+    - id: 1
+      name: section_customer_information
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_full_name
+      label: Customer Full Name
+      hint: Enter your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: We'll use this for your receipt and support
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number for delivery or questions
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_address
+      label: Delivery Address
+      hint: Full address where bike will be delivered
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_bike_details
+      label: -- Bike Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: bike_brand
+      label: Bike Brand
+      hint: Manufacturer or brand name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: bike_model
+      label: Bike Model
+      hint: Specific model name or number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: bike_serial_number
+      label: Serial Number
+      hint: Found on the frame or components
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: bike_color
+      label: Bike Color
+      hint: Primary color of the bike
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: bike_type
+      label: Bike Type
+      hint: What category is this bike
+      type: select_one
+      options:
+      - Road Bike
+      - Mountain Bike
+      - Hybrid Bike
+      - Cruiser
+      - BMX
+      - Electric Bike
+      required: true
+    - id: 12
+      name: bike_frame_size
+      label: Frame Size
+      hint: Size in inches or centimeters
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_components
+      label: -- Components Included --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: included_accessories
+      label: Accessories Included
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Lights
+      - Bell
+      - Kickstand
+      - Fenders
+      - Rack
+      - Water Bottle Holder
+      - Pump
+      required: false
+    - id: 15
+      name: warranty_included
+      label: Warranty Included
+      hint: Does bike come with warranty
+      type: select_one
+      options:
+      - Yes - 1 Year
+      - Yes - 2 Years
+      - Yes - 3 Years
+      - No Warranty
+      required: true
+    - id: 16
+      name: warranty_expiration
+      label: Warranty Expiration Date
+      hint: When does warranty expire
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: section_handover
+      label: -- Handover Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: handover_date
+      label: Date of Handover
+      hint: When is the bike being handed over
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: handover_time
+      label: Time of Handover
+      hint: Preferred time for pickup or delivery
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: bike_condition
+      label: Bike Condition
+      hint: Current condition of the bike
+      type: select_one
+      options:
+      - Brand New
+      - Like New
+      - Good
+      - Fair
+      - Needs Repair
+      required: true
+    - id: 21
+      name: condition_notes
+      label: Additional Condition Notes
+      hint: Any damage or issues to note
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: customer_signature_agreement
+      label: I acknowledge receipt of the bike in the condition described above
+      hint: Check to confirm you accept the bike
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true

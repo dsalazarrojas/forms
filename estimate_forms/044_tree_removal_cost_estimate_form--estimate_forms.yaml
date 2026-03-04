@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tree Removal Cost Estimate Form
+    pages:
+    - id: 1
+      name: tree_removal_cost_estimate_form
+      label: Tree Removal Cost Estimate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tree_species
+      label: Tree Species
+      hint: null
+      type: select_one
+      options:
+      - Spruce
+      - Oak
+      - Maple
+      - Pine
+      - Other
+      required: false
+    - id: 3
+      name: tree_size
+      label: Tree Size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 4
+      name: tree_height
+      label: Tree Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: stump_size
+      label: Stump Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: retaining_wall
+      label: Retaining Wall
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 7
+      name: tree_location
+      label: Tree Location
+      hint: Please specify the location of the tree
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: removal_services
+      label: Removal Services
+      hint: null
+      type: select_multiple
+      options:
+      - Tree Removal
+      - Stump Removal
+      - Branching
+      - Other
+      required: false
+    - id: 9
+      name: estimated_cost
+      label: Estimated Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_tool_email
+      label: Assigned Tool Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: assigned_tool_phone
+      label: Assigned Tool Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: assigned_tool_notes
+      label: Assigned Tool Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: assigned_tool_comments
+      label: Assigned Tool Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

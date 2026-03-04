@@ -1,0 +1,255 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Security Assessment Form
+    pages:
+    - id: 1
+      name: assessor_name
+      label: Assessor Full Name
+      hint: Person conducting the assessment
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: assessor_role
+      label: Your Role
+      hint: null
+      type: select_one
+      options:
+      - Church Staff
+      - Security Team Member
+      - External Consultant
+      - Law Enforcement
+      - Board Member
+      - Other
+      required: true
+    - id: 3
+      name: assessment_date
+      label: Date of Assessment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: church_name
+      label: Church Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: church_size
+      label: Average Weekly Attendance
+      hint: null
+      type: select_one
+      options:
+      - Under 100
+      - 100-250
+      - 251-500
+      - 501-1000
+      - Over 1000
+      required: true
+    - id: 6
+      name: security_team
+      label: Does the Church Have a Security Team
+      hint: null
+      type: select_one
+      options:
+      - Yes, full-time
+      - Yes, volunteer-based
+      - No, but planning to
+      - false
+      required: true
+    - id: 7
+      name: security_team_size
+      label: How Many Security Team Members
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: access_control
+      label: Access Control Systems
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Locked doors during services
+      - Key card access
+      - Security cameras
+      - Metal detectors
+      - Bag checks
+      - Ushers at entrances
+      - None
+      required: true
+    - id: 9
+      name: surveillance
+      label: Surveillance Systems
+      hint: null
+      type: select_one
+      options:
+      - Comprehensive camera coverage
+      - Partial camera coverage
+      - Basic camera system
+      - No cameras
+      required: true
+    - id: 10
+      name: emergency_plan
+      label: Is There an Emergency Action Plan
+      hint: null
+      type: select_one
+      options:
+      - Yes, documented and practiced
+      - Yes, documented but not practiced
+      - Yes, verbal only
+      - false
+      required: true
+    - id: 11
+      name: emergency_training
+      label: How Often Is Emergency Training Conducted
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      - Rarely
+      - Never
+      required: true
+    - id: 12
+      name: communication_system
+      label: Emergency Communication System
+      hint: null
+      type: select_one
+      options:
+      - Two-way radios
+      - Phone tree
+      - Text alert system
+      - Public address system
+      - No system
+      required: true
+    - id: 13
+      name: medical_equipment
+      label: Medical Emergency Equipment
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - AED (Defibrillator)
+      - First aid kits
+      - Emergency oxygen
+      - Trained medical personnel
+      - None
+      required: true
+    - id: 14
+      name: parking_security
+      label: Parking Lot Security
+      hint: null
+      type: select_one
+      options:
+      - Well-lit with cameras
+      - Well-lit only
+      - Some lighting
+      - Poorly lit
+      - No security measures
+      required: true
+    - id: 15
+      name: nursery_security
+      label: Nursery Security Procedures
+      hint: null
+      type: select_one
+      options:
+      - Check-in/check-out system
+      - Background checks for workers
+      - Two-adult policy
+      - Secure access doors
+      - All of the above
+      - None of the above
+      required: true
+    - id: 16
+      name: incident_history
+      label: Have There Been Security Incidents
+      hint: In the past 2 years
+      type: select_one
+      options:
+      - Yes, multiple
+      - Yes, one or two
+      - false
+      - Not sure
+      required: true
+    - id: 17
+      name: incident_types
+      label: Types of Incidents
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Theft
+      - Vandalism
+      - Trespassing
+      - Disruptive behavior
+      - Medical emergency
+      - Threat made
+      - Violence
+      - None
+      required: false
+    - id: 18
+      name: local_law_enforcement
+      label: Relationship with Local Law Enforcement
+      hint: null
+      type: select_one
+      options:
+      - Regular contact and cooperation
+      - Occasional contact
+      - Minimal contact
+      - No contact
+      required: true
+    - id: 19
+      name: risk_level
+      label: Overall Security Risk Level
+      hint: Your assessment
+      type: select_one
+      options:
+      - Low risk
+      - Moderate risk
+      - Elevated risk
+      - High risk
+      - Severe risk
+      required: true
+    - id: 20
+      name: priority_improvements
+      label: Priority Security Improvements Needed
+      hint: Select top 3
+      type: select_multiple
+      options:
+      - Access control
+      - Surveillance cameras
+      - Security team training
+      - Emergency planning
+      - Communication systems
+      - Lighting
+      - Medical preparedness
+      - Background checks
+      required: true
+    - id: 21
+      name: budget_available
+      label: Is Budget Available for Security Improvements
+      hint: null
+      type: select_one
+      options:
+      - Yes, adequate budget
+      - Yes, limited budget
+      - No budget currently
+      - Not sure
+      required: true
+    - id: 22
+      name: recommendations
+      label: Security Recommendations
+      hint: Your professional recommendations
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: follow_up_date
+      label: Recommended Follow-Up Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: false

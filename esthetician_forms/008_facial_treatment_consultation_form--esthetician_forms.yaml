@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facial Treatment Consultation Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: treatment_preferences
+      label: Treatment Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Acne
+      - Aging
+      - Hyper-pigmentation
+      - Rosacea
+      - Skin Cancer
+      - Skin Lesions
+      - Sun Damage
+      - Vitiligo
+      required: false
+    - id: 4
+      name: treatment_goals
+      label: Treatment Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: skin_type
+      label: Skin Type
+      hint: Please choose a skin type
+      type: select_one
+      options:
+      - Normal
+      - Dry
+      - Oily
+      - Combination
+      - Sensitive
+      required: false
+    - id: 6
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_procedure
+      label: Medical Procedure
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: client
+      label: Client Signoff
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: text
+      options: []
+      required: false

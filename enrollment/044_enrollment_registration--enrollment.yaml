@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: enrollment_registration
+    pages:
+    - id: 1
+      name: youth_entry
+      label: Youth entry
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: parent_registration
+      label: Parent registration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - First name
+      - Last name
+      - Date of birth
+      required: false
+    - id: 4
+      name: program_option_1
+      label: Program option 1
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: program_option_2
+      label: Program option 2
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

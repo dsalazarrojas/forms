@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Civic Engagement In Youth Survey
+    pages:
+    - id: 1
+      name: respondent_age
+      label: Your Age
+      hint: Select your age range
+      type: select_one
+      options:
+      - 13-15 years
+      - 16-18 years
+      - 19-21 years
+      - 22-25 years
+      required: true
+    - id: 2
+      name: education_level
+      label: Current Education Level
+      hint: What is your current education status
+      type: select_one
+      options:
+      - Middle School
+      - High School
+      - College/University
+      - Vocational Training
+      - Not currently enrolled
+      required: true
+    - id: 3
+      name: community_involvement
+      label: How involved are you in your community
+      hint: Rate your level of community involvement
+      type: select_one
+      options:
+      - Very involved
+      - Somewhat involved
+      - Neutral
+      - Not very involved
+      - Not involved at all
+      required: true
+    - id: 4
+      name: volunteer_experience
+      label: Have you volunteered in the past year
+      hint: Select your volunteer experience
+      type: select_one
+      options:
+      - Yes, regularly
+      - Yes, occasionally
+      - Once or twice
+      - No, but interested
+      - No, not interested
+      required: true
+    - id: 5
+      name: volunteer_hours
+      label: Approximate Volunteer Hours Per Month
+      hint: Enter 0 if you do not volunteer
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: civic_issues_important
+      label: Which civic issues are most important to you
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Education
+      - Environment and Climate
+      - Social Justice
+      - Healthcare Access
+      - Economic Opportunity
+      - Public Safety
+      - Housing
+      - Transportation
+      required: true
+    - id: 7
+      name: voting_eligibility
+      label: Are you registered to vote
+      hint: Select your voter registration status
+      type: select_one
+      options:
+      - Yes, registered
+      - Not eligible yet
+      - Eligible but not registered
+      - Prefer not to say
+      required: true
+    - id: 8
+      name: political_discussions
+      label: How often do you discuss political or civic issues
+      hint: With friends, family, or peers
+      type: select_one
+      options:
+      - Daily
+      - Several times a week
+      - Once a week
+      - A few times a month
+      - Rarely or never
+      required: true
+    - id: 9
+      name: social_media_activism
+      label: Do you engage in activism through social media
+      hint: Sharing, posting, or discussing civic issues online
+      type: select_one
+      options:
+      - Frequently
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 10
+      name: barriers_to_engagement
+      label: What barriers prevent you from being more civically engaged
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Lack of time
+      - Lack of information
+      - Dont know how to get involved
+      - Feel my voice does not matter
+      - Transportation issues
+      - Financial constraints
+      - No barriers
+      - Other
+      required: false
+    - id: 11
+      name: preferred_engagement_methods
+      label: How do you prefer to engage with civic issues
+      hint: Select your preferred methods
+      type: select_multiple
+      options:
+      - Volunteering
+      - Attending community meetings
+      - Contacting elected officials
+      - Social media advocacy
+      - Protests or demonstrations
+      - Donating to causes
+      - Educational workshops
+      - Youth councils or boards
+      required: true
+    - id: 12
+      name: school_civic_education
+      label: Does your school provide adequate civic education
+      hint: Rate your agreement
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 13
+      name: youth_voice_impact
+      label: Do you believe young people can make a difference
+      hint: In your community or society
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Unsure
+      - Probably not
+      - Definitely not
+      required: true
+    - id: 14
+      name: future_involvement
+      label: How likely are you to increase civic involvement in the future
+      hint: Over the next 12 months
+      type: select_one
+      options:
+      - Very likely
+      - Somewhat likely
+      - Neutral
+      - Somewhat unlikely
+      - Very unlikely
+      required: true
+    - id: 15
+      name: suggestions
+      label: What would help you become more civically engaged
+      hint: Share your thoughts or suggestions
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: email_optional
+      label: Email Address
+      hint: Optional - for follow-up opportunities
+      type: email
+      options: []
+      required: false

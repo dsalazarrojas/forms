@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Industrial Energy Distribution Report Form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: energy_sources
+      label: Energy Sources
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: total_energy_distributed
+      label: Total Energy Distributed
+      hint: 'null'
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: operational_issues
+      label: Operational Issues
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date_last_submission
+      label: Date Last Submission
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_last_submission
+      label: Time Last Submission
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: energy_sources_type
+      label: Energy Sources Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: total_energy_distributed_type
+      label: Total Energy Distributed Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: total_energy_distributed_value
+      label: Total Energy Distributed Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: operational_issues_description
+      label: Operational Issues Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments_description
+      label: Comments Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: energy_sources_1
+      label: Energy Sources 1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,100 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Activity Evaluation Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: Full name of the student evaluating the activity
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: course_name
+      label: Course Name
+      hint: Name of the course the activity was part of
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: activity_name
+      label: Name of Learning Activity
+      hint: Title of the learning activity being evaluated
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: activity_date
+      label: Date of Activity
+      hint: When was the learning activity conducted
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: learning_objectives_met
+      label: Were the Learning Objectives Met
+      hint: Did the activity achieve its stated learning objectives
+      type: select_one
+      options: ["Completely met", "Mostly met", "Partially met", "Did not meet", "Uncertain"]
+      required: true
+    - id: 6
+      name: activity_relevance
+      label: Relevance to Course Material
+      hint: How relevant was the activity to the course content
+      type: select_one
+      options: ["Very relevant", "Relevant", "Somewhat relevant", "Not very relevant", "Not relevant at all"]
+      required: true
+    - id: 7
+      name: difficulty_level
+      label: Difficulty Level
+      hint: How would you rate the difficulty level of the activity
+      type: select_one
+      options: ["Too easy", "Appropriate", "Challenging but fair", "Too difficult", "Extremely difficult"]
+      required: true
+    - id: 8
+      name: engagement_level
+      label: Level of Engagement
+      hint: How engaging was the activity
+      type: select_one
+      options: ["Very engaging", "Engaging", "Moderately engaging", "Slightly engaging", "Not engaging"]
+      required: true
+    - id: 9
+      name: time_appropriateness
+      label: Appropriateness of Time Allocation
+      hint: Was the time allocated for the activity appropriate
+      type: select_one
+      options: ["Too much time", "Adequate time", "Could use more time", "Not enough time", "Far too little time"]
+      required: true
+    - id: 10
+      name: instruction_clarity
+      label: Clarity of Instructions
+      hint: Were the instructions for the activity clear and understandable
+      type: select_one
+      options: ["Very clear", "Clear", "Moderately clear", "Unclear", "Very unclear"]
+      required: true
+    - id: 11
+      name: recommended_improvements
+      label: Recommended Improvements
+      hint: What would improve this activity
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback about the learning activity
+      type: text
+      options: []
+      required: false

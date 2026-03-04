@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Trailer Hookup Checklist
+    pages:
+    - id: 1
+      name: travel_trailer_id
+      label: Trailer Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: trailer_location
+      label: Trailer Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: trailer_type
+      label: Trailer Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Hitch''}'
+      - '{''value'': ''Tandem''}'
+      - '{''value'': ''Fifth-Wheel''}'
+      required: true
+    - id: 4
+      name: trailer_model
+      label: Trailer Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: trailer_year
+      label: Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: trailer_serial_number
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: trailer_length
+      label: Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: tow_vehicle_id
+      label: Tow Vehicle Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: tow_vehicle_year
+      label: Tow Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: tow_vehicle_make
+      label: Tow Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: tow_vehicle_model
+      label: Tow Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: tow_vehicle_year
+      label: Tow Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: tow_vehicle_license_plate
+      label: Tow Vehicle License Plate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: towing_capacity
+      label: Towing Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: tow_vehicle_weight
+      label: Tow Vehicle Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: hitch_type
+      label: Hitch Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Ball''}'
+      - '{''value'': ''L-Box''}'
+      - '{''value'': ''Plate''}'
+      - '{''value'': ''R-Box''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 17
+      name: hitch_size
+      label: Hitch Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: safety_chain
+      label: Safety Chain
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 19
+      name: safety_chain_length
+      label: Safety Chain Length
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: safety_chain_type
+      label: Safety Chain Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Cable''}'
+      - '{''value'': ''Chain''}'
+      - '{''value'': ''Strap''}'
+      required: true
+    - id: 21
+      name: safety_chain_weight
+      label: Safety Chain Weight
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: safety_chain_notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: hitch_location
+      label: Hitch Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Ball''}'
+      - '{''value'': ''L-Box''}'
+      - '{''value'': ''Plate''}'
+      required: true
+    - id: 24
+      name: towing_connection
+      label: Towing Connection
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Hook''}'
+      - '{''value'': ''Ball''}'
+      - '{''value'': ''Plate''}'
+      - '{''value'': ''L-Box''}'
+      required: true
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

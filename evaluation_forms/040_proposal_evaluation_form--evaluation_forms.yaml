@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Proposal Evaluation Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_info
+      label: Project Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: proposal_info
+      label: Proposal Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: proposal_score
+      label: Proposal Score
+      hint: Score the proposal out of 10
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: evaluation
+      label: Evaluation
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      - Option 7
+      - Option 8
+      - Option 9
+      - Option 10
+      required: false
+    - id: 6
+      name: evaluation_reason
+      label: Evaluation Reason
+      hint: Why did you select option 8?
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

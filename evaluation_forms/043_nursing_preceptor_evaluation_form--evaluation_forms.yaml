@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nursing Preceptor Evaluation Form
+    pages:
+    - id: 1
+      name: clinical_performance
+      label: clinical_performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: communication_skills
+      label: communication_skills
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Strong''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Needs Improvement''}'
+      required: false
+    - id: 3
+      name: preceptor_support
+      label: preceptor_support
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Strong''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Needs Improvement''}'
+      required: false
+    - id: 4
+      name: preceptor_professionalism
+      label: preceptor_professionalism
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Strong''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Needs Improvement''}'
+      required: false
+    - id: 5
+      name: preceptor_mastery_of_materials
+      label: preceptor_mastery_of_materials
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Strong''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Needs Improvement''}'
+      required: false
+    - id: 6
+      name: preceptor_organizational_skills
+      label: preceptor_organizational_skills
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Strong''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Needs Improvement''}'
+      required: false
+    - id: 7
+      name: new_nurse_comfort_level
+      label: comfort_level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 8
+      name: new_nurse_learning_experience
+      label: learning_experience
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Needs Improvement''}'
+      required: false
+    - id: 9
+      name: comments_and_suggestions
+      label: comments_and_suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: final_comments
+      label: final_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: preceptor_name
+      label: preceptor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: new_nurse_name
+      label: new_nurse_name
+      hint: null
+      type: text
+      options: []
+      required: false

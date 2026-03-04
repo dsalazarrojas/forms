@@ -1,0 +1,33 @@
+inputSchema:
+  type: object
+  properties:
+    title: ventilation_system_maintenance_report
+    pages:
+    - id: 1
+      name: maintenance_visit
+      label: service_visits
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: system_condition
+      label: system_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: maintenance_history
+      label: maintenance_history
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: technician_signature
+      label: technician_signature
+      hint: null
+      type: text
+      options: []
+      required: false

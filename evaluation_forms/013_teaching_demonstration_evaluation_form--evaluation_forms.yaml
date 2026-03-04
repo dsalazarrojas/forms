@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teaching Demonstration Evaluation Form
+    pages:
+    - id: 1
+      name: teaching_demonstration_evaluation_form
+      label: Teaching Demonstration Evaluation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_category
+      label: evaluation_forms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: form_description
+      label: The Teaching Demonstration Evaluation Form helps educational institutions
+        gather feedback on teaching performances, allowing educators to improve their
+        skills and effectiveness.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: form_output_file
+      label: output_file
+      hint: 013_teaching_demonstration_evaluation_form__evaluation_forms.yaml
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false

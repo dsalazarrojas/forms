@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Pre Operation Checklist
+    pages:
+    - id: 1
+      name: pre_operation_checklist
+      label: Pre-Operation Checklist
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: equipment_name
+      label: equipment_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: pre_operation_checklist_status
+      label: Pre-Operation Checklist Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Not Completed
+      - Pending
+      - Cancelled
+      required: false
+    - id: 5
+      name: reason_not_completed
+      label: Reason Not Completed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: completed_by
+      label: Completed By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: pre_operation_checklist_completed_by
+      label: Pre-Operation Checklist Completed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: pre_operation_checklist_status_updated_by
+      label: Pre-Operation Checklist Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: pre_operation_checklist_status_update_date
+      label: Pre-Operation Checklist Status Update Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: pre_operation_checklist_status_update_time
+      label: Pre-Operation Checklist Status Update Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: pre_operation_checklist_status_update_reason
+      label: Pre-Operation Checklist Status Update Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: pre_operation_checklist_status_update_comment
+      label: Pre-Operation Checklist Status Update Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitted_by_phone
+      label: Submitted By Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: submitted_phone_extension
+      label: Submitted By Phone Extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitted_by_email
+      label: Submitted By Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 23
+      name: submitted_by_location
+      label: Submitted By Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: equipment_serial_number
+      label: Equipment Serial Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: equipment_id
+      label: Equipment Id
+      hint: null
+      type: number
+      options: []
+      required: true

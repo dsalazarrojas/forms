@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Walk In Cooler Maintenance Checklist
+    pages:
+    - id: 1
+      name: walk_in_cooler_maintenance_checklist
+      label: Walk In Cooler Maintenance Checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: cooler_model
+      label: Cooler Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: cooler_type
+      label: Cooler Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: compressor_condition
+      label: Compressor Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Bad''}'
+      required: false
+    - id: 5
+      name: condenser_coils_condition
+      label: Condenser Coils Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Clean''}'
+      - '{''label'': ''Dirty''}'
+      required: false
+    - id: 6
+      name: evaporator_coils_condition
+      label: Evaporator Coils Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Bad''}'
+      required: false
+    - id: 7
+      name: defrost_timer
+      label: Defrost Timer
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''1 hour''}'
+      - '{''label'': ''2 hours''}'
+      required: false
+    - id: 8
+      name: defrost_interval
+      label: Defrost Interval
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: defrost_time_last
+      label: Last Defrost Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: defrost_last_duration
+      label: Last Defrost Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: defrost_last_temperature
+      label: Last Defrost Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: temperature
+      label: Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: door_prophets
+      label: Door Probs
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: door_sensors
+      label: Door Sensors
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 15
+      name: door_hinges
+      label: Door Hinges
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Bad''}'
+      required: false
+    - id: 16
+      name: drain
+      label: Drain
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Bad''}'
+      required: false
+    - id: 17
+      name: electrical_outlets
+      label: Electrical Outlets
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Bad''}'
+      required: false
+    - id: 18
+      name: fans
+      label: Fans
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Bad''}'
+      required: false
+    - id: 19
+      name: floor_drain
+      label: Floor Drain
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Bad''}'
+      required: false
+    - id: 20
+      name: floor_drain_pump
+      label: Floor Drain Pump
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Bad''}'
+      required: false
+    - id: 21
+      name: gaskets
+      label: Gaskets
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Bad''}'
+      required: false
+    - id: 22
+      name: motors
+      label: Motors
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Bad''}'
+      required: false
+    - id: 23
+      name: pipes
+      label: Pipes
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Bad''}'
+      required: false
+    - id: 24
+      name: pipes_fittings
+      label: Pipes Fittings
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Bad''}'
+      required: false
+    - id: 25
+      name: refrigerant
+      label: Refrigerant
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Bad''}'
+      required: false

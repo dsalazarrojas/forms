@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Annual Performance Report
+    pages:
+    - id: 1
+      name: admin_header
+      label: -- Administrative Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: athlete_name
+      label: Athlete Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: report_year
+      label: Report Year
+      hint: e.g. 2025
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: season
+      label: Season
+      hint: null
+      type: select_one
+      options:
+      - Fall
+      - Winter
+      - Spring
+      - Summer
+      required: true
+    - id: 5
+      name: sport_name
+      label: Sport
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: competition_level
+      label: Competition Level
+      hint: null
+      type: select_one
+      options:
+      - Varsity
+      - Junior Varsity
+      - Freshman
+      - Club / Recreational
+      required: true
+    - id: 7
+      name: technical_header
+      label: -- Technical Skills Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: technical_rating
+      label: Overall Technical Proficiency
+      hint: Rating from Novice to Elite
+      type: select_one
+      options:
+      - 1 - Novice
+      - 2 - Developing
+      - 3 - Proficient
+      - 4 - Advanced
+      - 5 - Elite
+      required: true
+    - id: 9
+      name: skill_strengths
+      label: Specific Skill Strengths
+      hint: What technical skills did the athlete excel in?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: skill_improvements
+      label: Areas for Technical Improvement
+      hint: Key areas to focus on in the off-season
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: physical_header
+      label: -- Physical Conditioning --
+      hint: Scale of 1 to 10
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: endurance_rating
+      label: Endurance and Stamina
+      hint: 10 is highest
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: strength_rating
+      label: Strength and Power
+      hint: 10 is highest
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: agility_rating
+      label: Agility and Speed
+      hint: 10 is highest
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: mental_header
+      label: -- Mentality and Leadership --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: teamwork_rating
+      label: Teamwork and Collaboration
+      hint: 5 is highest
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 17
+      name: leadership_rating
+      label: Leadership Qualities
+      hint: 5 is highest
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 18
+      name: mental_toughness
+      label: Mental Toughness and Resilience
+      hint: 5 is highest
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 19
+      name: overall_summary
+      label: Overall Performance Summary
+      hint: Final thoughts on the season
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: next_season_goals
+      label: Goals for Next Season
+      hint: Actionable items for the athlete
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: evaluator_name
+      label: Evaluator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: true

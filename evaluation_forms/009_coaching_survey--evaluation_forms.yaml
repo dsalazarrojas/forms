@@ -1,0 +1,244 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Survey
+    pages:
+      - id: 1
+        name: section_club_info
+        label: -- Club Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: club_name
+        label: Club Name
+        hint: Name of the sports club or organization
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: respondent_name
+        label: Respondent Name
+        hint: Person completing this survey
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: respondent_role
+        label: Your Role in the Club
+        hint: Position or title
+        type: select_one
+        options:
+          - Club Manager
+          - Committee Member
+          - Administrator
+          - Coach
+          - Member
+          - Other
+        required: true
+      - id: 5
+        name: section_coach_performance
+        label: -- Coach Performance Evaluation --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: coach_name
+        label: Coach Being Evaluated
+        hint: Name of the coach
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: coaching_tenure
+        label: How long has this coach worked with your club
+        hint: Approximate duration
+        type: select_one
+        options:
+          - Less than 3 months
+          - 3-6 months
+          - 6-12 months
+          - 1-2 years
+          - 2-5 years
+          - More than 5 years
+        required: true
+      - id: 8
+        name: technical_knowledge
+        label: Coach technical knowledge and expertise
+        hint: Rate from 1 - poor to 5 - excellent
+        type: select_one
+        options:
+          - "1 - Poor"
+          - "2 - Fair"
+          - "3 - Good"
+          - "4 - Very Good"
+          - "5 - Excellent"
+        required: true
+      - id: 9
+        name: athlete_development
+        label: Effectiveness in developing athlete skills
+        hint: null
+        type: select_one
+        options:
+          - "1 - Poor"
+          - "2 - Fair"
+          - "3 - Good"
+          - "4 - Very Good"
+          - "5 - Excellent"
+        required: true
+      - id: 10
+        name: athlete_motivation
+        label: Ability to motivate and inspire athletes
+        hint: null
+        type: select_one
+        options:
+          - "1 - Poor"
+          - "2 - Fair"
+          - "3 - Good"
+          - "4 - Very Good"
+          - "5 - Excellent"
+        required: true
+      - id: 11
+        name: training_planning
+        label: Quality of training planning and organization
+        hint: null
+        type: select_one
+        options:
+          - "1 - Poor"
+          - "2 - Fair"
+          - "3 - Good"
+          - "4 - Very Good"
+          - "5 - Excellent"
+        required: true
+      - id: 12
+        name: communication_skills
+        label: Communication skills with athletes and staff
+        hint: null
+        type: select_one
+        options:
+          - "1 - Poor"
+          - "2 - Fair"
+          - "3 - Good"
+          - "4 - Very Good"
+          - "5 - Excellent"
+        required: true
+      - id: 13
+        name: safety_standards
+        label: Adherence to safety standards and protocols
+        hint: null
+        type: select_one
+        options:
+          - "1 - Poor"
+          - "2 - Fair"
+          - "3 - Good"
+          - "4 - Very Good"
+          - "5 - Excellent"
+        required: true
+      - id: 14
+        name: section_outcomes
+        label: -- Coaching Outcomes --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: athlete_results
+        label: Measurable improvements in athlete performance
+        hint: null
+        type: select_one
+        options:
+          - "1 - No improvement"
+          - "2 - Minimal improvement"
+          - "3 - Some improvement"
+          - "4 - Good improvement"
+          - "5 - Significant improvement"
+        required: true
+      - id: 16
+        name: team_performance
+        label: Overall team performance improvement
+        hint: null
+        type: select_one
+        options:
+          - "1 - Declined"
+          - "2 - No change"
+          - "3 - Slight improvement"
+          - "4 - Good improvement"
+          - "5 - Significant improvement"
+        required: true
+      - id: 17
+        name: athlete_satisfaction
+        label: Athlete satisfaction with coaching
+        hint: Based on your observation
+        type: select_one
+        options:
+          - "1 - Very low"
+          - "2 - Low"
+          - "3 - Moderate"
+          - "4 - High"
+          - "5 - Very high"
+        required: true
+      - id: 18
+        name: section_overall
+        label: -- Overall Assessment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: overall_rating
+        label: Overall Rating of Coach
+        hint: null
+        type: select_one
+        options:
+          - "1 - Poor"
+          - "2 - Fair"
+          - "3 - Good"
+          - "4 - Very Good"
+          - "5 - Excellent"
+        required: true
+      - id: 20
+        name: coach_strengths
+        label: Coach's greatest strengths
+        hint: What does this coach do well
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: coach_development
+        label: Areas for coach development
+        hint: What could be improved
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: continue_employment
+        label: Would you continue employing this coach
+        hint: null
+        type: select_one
+        options:
+          - "Yes, definitely"
+          - "Yes, probably"
+          - "Unsure"
+          - "No, probably not"
+          - "No, definitely not"
+        required: true
+      - id: 23
+        name: additional_feedback
+        label: Additional feedback or comments
+        hint: Any other information to share
+        type: text
+        options: []
+        required: false

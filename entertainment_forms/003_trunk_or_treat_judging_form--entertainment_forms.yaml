@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trunk Or Treat Judging Form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Decorations
+      - Food
+      - Entertainment
+      required: true
+    - id: 3
+      name: event_description
+      label: Event Description
+      hint: Describe the event in as much detail as possible.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: decorations_score
+      label: Decorations
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: food_score
+      label: Food
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: entertainment_score
+      label: Entertainment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: overall_score
+      label: Overall
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - Submit
+      - Save for Later
+      - Exit
+      required: true

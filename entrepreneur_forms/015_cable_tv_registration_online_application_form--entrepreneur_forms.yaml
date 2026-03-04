@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cable TV Registration Online Application Form
+    pages:
+    - id: 1
+      name: applicant_full_name
+      label: Full Name
+      hint: Legal name of applicant
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: business_name
+      label: Business Name
+      hint: Name of business if applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: business_type
+      label: Business Type
+      hint: Type of business entity
+      type: select_one
+      options:
+      - Individual residential
+      - Sole proprietorship
+      - Partnership
+      - Corporation
+      - LLC
+      - Non-profit
+      - Government
+      - Other
+      required: true
+    - id: 6
+      name: service_address
+      label: Service Address
+      hint: Address where service will be installed
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: service_city
+      label: City
+      hint: City for service address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: service_state
+      label: State
+      hint: State for service address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: service_zip
+      label: ZIP Code
+      hint: ZIP code for service address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: installation_type
+      label: Installation Type
+      hint: Type of installation needed
+      type: select_one
+      options:
+      - New installation
+      - Transfer existing service
+      - Upgrade current service
+      - Add additional outlets
+      required: true
+    - id: 11
+      name: package_selection
+      label: Cable Package Selection
+      hint: Choose your desired package
+      type: select_one
+      options:
+      - Basic - 30 channels
+      - Standard - 75 channels
+      - Deluxe - 150 channels
+      - Premium - 250 plus channels
+      - Custom package
+      required: true
+    - id: 12
+      name: premium_channels
+      label: Premium Channel Add-ons
+      hint: Select any premium channels
+      type: select_multiple
+      options:
+      - HBO
+      - Showtime
+      - Starz
+      - Cinemax
+      - None
+      required: false
+    - id: 13
+      name: equipment_needed
+      label: Equipment Needed
+      hint: What equipment do you need
+      type: select_multiple
+      options:
+      - Cable box HD
+      - DVR recorder
+      - Additional remote
+      - Cable modem
+      - WiFi router
+      - None
+      required: false
+    - id: 14
+      name: number_of_tv_outlets
+      label: Number of TV Outlets
+      hint: How many TVs will connect
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: internet_service
+      label: Internet Service
+      hint: Would you like to add internet
+      type: select_one
+      options:
+      - No internet needed
+      - Basic 50 Mbps
+      - Standard 200 Mbps
+      - High-speed 500 Mbps
+      - Gigabit 1000 Mbps
+      required: false
+    - id: 16
+      name: phone_service
+      label: Phone Service
+      hint: Would you like to add phone service
+      type: select_one
+      options:
+      - No phone needed
+      - Basic home phone
+      - Unlimited domestic
+      - Unlimited international
+      required: false
+    - id: 17
+      name: preferred_installation_date
+      label: Preferred Installation Date
+      hint: When would you like installation
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: preferred_time_slot
+      label: Preferred Time Slot
+      hint: What time works best
+      type: select_one
+      options:
+      - Morning 8am-12pm
+      - Afternoon 12pm-5pm
+      - Evening 5pm-8pm
+      - No preference
+      required: false
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay for service
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Bank draft
+      - Check
+      - Cash
+      required: true
+    - id: 20
+      name: billing_address_same
+      label: Billing Address Same as Service
+      hint: Is billing address same as service address
+      type: select_one
+      options:
+      - Yes, same address
+      - No, different address
+      required: true
+    - id: 21
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: Do you agree to terms of service
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 22
+      name: additional_services
+      label: Additional Services or Comments
+      hint: Any other services or special requests
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Preventive Medicine Training Evaluation
+    pages:
+    - id: 1
+      name: training_completed
+      label: training_completed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: course_hours
+      label: Course Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: training_location
+      label: Training Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: training_facility
+      label: Training Facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: training_facilitator
+      label: Training Facilitator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: training_evaluator
+      label: Training Evaluator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: training_comments
+      label: Training Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: training_score
+      label: Training Score
+      hint: null
+      type: number
+      options: []
+      required: false

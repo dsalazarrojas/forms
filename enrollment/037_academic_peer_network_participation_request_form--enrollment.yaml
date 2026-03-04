@@ -1,0 +1,91 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Peer Network Participation Request Form
+    pages:
+    - id: 1
+      name: network_information
+      label: -- Network Participation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Full name
+      hint: Provide the name you use professionally
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Contact email
+      hint: Institutional or preferred email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: role_in_academia
+      label: Role in academia
+      hint: Select your primary role
+      type: select_one
+      options:
+        - Student
+        - Faculty
+        - Staff
+        - Researcher
+        - Other
+      required: true
+    - id: 5
+      name: areas_of_interest
+      label: Areas of interest
+      hint: Select relevant interest areas
+      type: select_multiple
+      options:
+        - Teaching practice
+        - Research collaboration
+        - Curriculum design
+        - Mentorship
+        - Policy and administration
+      required: false
+    - id: 6
+      name: participation_goals
+      label: Goals for joining the network
+      hint: Briefly state what you hope to achieve
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: availability
+      label: Availability for meetings
+      hint: Typical days or times you are available
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent_share_profile
+      label: Consent to share profile with members
+      hint: Agree to have your contact shared within the network
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: true
+    - id: 9
+      name: additional_information
+      label: Additional information
+      hint: Anything else to support your application
+      type: text
+      options: []
+      required: false

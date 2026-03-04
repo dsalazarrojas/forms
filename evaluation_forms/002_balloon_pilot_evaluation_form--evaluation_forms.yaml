@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Balloon Pilot Evaluation Form
+    pages:
+    - id: 1
+      name: pilot_info_header
+      label: -- Pilot Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: pilot_name
+      label: Pilot Full Name
+      hint: Name of the pilot being evaluated
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: certificate_number
+      label: Pilot Certificate Number
+      hint: Enter the FAA or local authority ID
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: evaluation_date
+      label: Date of Evaluation
+      hint: Select the date the flight evaluation occurred
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: evaluator_name
+      label: Evaluator Name
+      hint: Name of the designated examiner or official
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: aircraft_details_header
+      label: -- Aircraft and Flight Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: balloon_registration
+      label: Balloon Registration Number
+      hint: e.g., N-Number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: flight_duration
+      label: Total Flight Time (Minutes)
+      hint: Enter the duration of the evaluation flight
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: weather_conditions
+      label: Weather Conditions
+      hint: Brief description of wind, visibility, and temperature
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: performance_header
+      label: -- Pilot Performance Metrics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: preflight_check
+      label: Pre-flight Procedures and Safety Briefing
+      hint: Rating for inspection and briefing quality
+      type: select_one
+      options:
+      - 1 - Unsatisfactory
+      - 2 - Marginal
+      - 3 - Proficient
+      - 4 - Exceptional
+      required: true
+    - id: 12
+      name: inflation_launch
+      label: Inflation and Launch Control
+      hint: Evaluation of ground handling and lift-off
+      type: select_one
+      options:
+      - 1 - Unsatisfactory
+      - 2 - Marginal
+      - 3 - Proficient
+      - 4 - Exceptional
+      required: true
+    - id: 13
+      name: inflight_maneuvers
+      label: In-flight Control and Maneuvering
+      hint: Altitude control and response to wind changes
+      type: select_one
+      options:
+      - 1 - Unsatisfactory
+      - 2 - Marginal
+      - 3 - Proficient
+      - 4 - Exceptional
+      required: true
+    - id: 14
+      name: descent_landing
+      label: Descent and Landing Accuracy
+      hint: Evaluation of approach and touch down
+      type: select_one
+      options:
+      - 1 - Unsatisfactory
+      - 2 - Marginal
+      - 3 - Proficient
+      - 4 - Exceptional
+      required: true
+    - id: 15
+      name: overall_result
+      label: Overall Evaluation Result
+      hint: Select the final status of this evaluation
+      type: select_one
+      options:
+      - Pass - Recommended for Renewal
+      - Pass - With Minor Deficiencies
+      - Fail - Retraining Required
+      required: true
+    - id: 16
+      name: evaluator_comments
+      label: Detailed Evaluator Comments
+      hint: Provide specifics on performance or required improvements
+      type: text
+      options: []
+      required: false

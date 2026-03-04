@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Third Party Assessment Form
+    pages:
+    - id: 1
+      name: overall_performance
+      label: overall_performance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: teamwork
+      label: teamwork
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 3
+      name: communication
+      label: communication
+      hint: null
+      type: select_multiple
+      options:
+      - Strong
+      - Weak
+      required: false
+    - id: 4
+      name: initiative
+      label: initiative
+      hint: Please rate your experience with this initiative.
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: coaching
+      label: coaching
+      hint: null
+      type: select_one
+      options:
+      - Required
+      - Not Required
+      - Not Applicable
+      required: false
+    - id: 7
+      name: evaluations
+      label: evaluations
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      required: false
+    - id: 8
+      name: coaching_effectiveness
+      label: coaching_effectiveness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: evaluations_effectiveness
+      label: evaluations_effectiveness
+      hint: null
+      type: select_multiple
+      options:
+      - Highly Effective
+      - Generally Effective
+      - Somewhat Effective
+      - Neutral
+      - Somewhat Ineffective
+      required: false
+    - id: 10
+      name: areas_for_improvement
+      label: areas_for_improvement
+      hint: Please select one or more areas for improvement.
+      type: select_multiple
+      options:
+      - communication
+      - teamwork
+      - initiative
+      - coaching
+      - evaluations
+      required: false

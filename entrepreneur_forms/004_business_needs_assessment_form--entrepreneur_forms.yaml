@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Needs Assessment Form
+    pages:
+    - id: 1
+      name: section_business_overview
+      label: -- Business Overview --
+      type: note
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Your company name
+      type: text
+      required: true
+    - id: 3
+      name: business_stage
+      label: Current Business Stage
+      hint: Where is your business in its lifecycle
+      type: select_one
+      options:
+      - Startup
+      - Early Growth
+      - Established
+      - Scaling
+      - Mature
+      required: true
+    - id: 4
+      name: years_operating
+      label: Years in Operation
+      hint: How long has the business been operating
+      type: number
+      required: true
+    - id: 5
+      name: current_employees
+      label: Current Number of Employees
+      hint: Total headcount
+      type: number
+      required: true
+    - id: 6
+      name: section_operational_needs
+      label: -- Operational Needs --
+      type: note
+      required: false
+    - id: 7
+      name: primary_challenges
+      label: Main Business Challenges
+      hint: What are your biggest operational challenges
+      type: select_multiple
+      options:
+      - Cash Flow Management
+      - Employee Retention
+      - Marketing and Sales
+      - Technology Systems
+      - Supply Chain
+      - Regulatory Compliance
+      - Customer Service
+      required: true
+    - id: 8
+      name: financial_management_needs
+      label: Financial Management Needs
+      hint: What financial support do you need
+      type: select_multiple
+      options:
+      - Accounting Services
+      - Tax Planning
+      - Bookkeeping
+      - Financial Forecasting
+      - Funding or Capital
+      required: false
+    - id: 9
+      name: section_growth_planning
+      label: -- Growth Planning --
+      type: note
+      required: false
+    - id: 10
+      name: growth_goals
+      label: Growth Goals for Next 12 Months
+      hint: What expansion or improvement targets do you have
+      type: text
+      required: false
+    - id: 11
+      name: revenue_target
+      label: Revenue Target for Next Year
+      hint: In dollars
+      type: number
+      required: false
+    - id: 12
+      name: market_expansion
+      label: Planning Market Expansion
+      hint: Do you plan to enter new markets
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: false
+    - id: 13
+      name: section_resource_assessment
+      label: -- Resource Assessment --
+      type: note
+      required: false
+    - id: 14
+      name: technology_needs
+      label: Technology and Software Needs
+      hint: What systems or tools do you need
+      type: select_multiple
+      options:
+      - CRM System
+      - Project Management
+      - Accounting Software
+      - E-commerce Platform
+      - Communication Tools
+      - Automation Solutions
+      required: false
+    - id: 15
+      name: training_needs
+      label: Training and Development Needs
+      hint: What skills training do employees need
+      type: select_multiple
+      options:
+      - Leadership Development
+      - Technical Skills
+      - Sales Training
+      - Customer Service
+      - Compliance Training
+      required: false
+    - id: 16
+      name: contact_information
+      label: Contact Person Name
+      hint: Your name or decision maker
+      type: text
+      required: true
+    - id: 17
+      name: contact_email
+      label: Email Address
+      hint: Best email for follow-up
+      type: email
+      required: true
+    - id: 18
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: How would you like us to reach you
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Video Call
+      - In-Person Meeting
+      required: false

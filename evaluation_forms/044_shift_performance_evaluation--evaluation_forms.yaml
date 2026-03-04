@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shift Performance Evaluation
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: shift_date
+      label: Shift Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: supervisor_id
+      label: Supervisor ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: performance_rating
+      label: Performance Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Excellent''}'
+      - '{''text'': ''Good''}'
+      - '{''text'': ''Average''}'
+      - '{''text'': ''Poor''}'
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: action_items
+      label: Action Items
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''None''}'
+      - '{''text'': ''Complete''}'
+      - '{''text'': ''In Progress''}'
+      - '{''text'': ''Delayed''}'
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false

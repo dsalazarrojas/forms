@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Equipment Reallocation Request
+    pages:
+    - id: 1
+      name: facility_equipment_reallocation_request
+      label: Facility Equipment Reallocation Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facility_location_id
+      label: facility_location
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: equipment_id
+      label: equipment_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: new_location
+      label: new_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_relocation
+      label: reason_for_relocation
+      hint: null
+      type: text
+      options: []
+      required: false

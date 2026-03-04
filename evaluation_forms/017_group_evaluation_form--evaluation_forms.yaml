@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: group_evaluate_form
+    pages:
+    - id: 1
+      name: form_group_name
+      label: Group Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: evaluate_manager
+      label: Evaluate Manager
+      hint: Select the name of the manager
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: evaluate_manager
+      label: Evaluate Manager
+      hint: Select the name of the manager
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Manager 1''}'
+      - '{''id'': 2, ''label'': ''Manager 2''}'
+      - '{''id'': 3, ''label'': ''Manager 3''}'
+      required: false
+    - id: 4
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: evaluate_time
+      label: Evaluate Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: evaluate_note
+      label: Evaluate Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: form_evaluate_email
+      label: Evaluate Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: evaluate_phone
+      label: Evaluate Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: evaluate_note
+      label: Evaluate Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: evaluate_time
+      label: Evaluate Time
+      hint: null
+      type: time
+      options: []
+      required: false

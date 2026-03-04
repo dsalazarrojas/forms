@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Dating Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: user_type
+      label: What type of user are you?
+      hint: null
+      type: select_one
+      options:
+      - User of dating apps
+      - User of dating sites
+      - Other
+      required: false
+    - id: 3
+      name: how_often
+      label: How often do you use dating apps?
+      hint: null
+      type: select_multiple
+      options:
+      - 1-2 times a week
+      - 3-4 times a week
+      - 5-6 times a week
+      - Daily
+      required: false
+    - id: 4
+      name: why_use
+      label: Why do you use dating apps?
+      hint: null
+      type: select_multiple
+      options:
+      - For fun
+      - To find a partner
+      - To meet new people
+      - Other
+      required: false
+    - id: 5
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: income
+      label: Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - City
+      - Town
+      - Country
+      required: false
+    - id: 8
+      name: device_used
+      label: Which device do you use for dating apps?
+      hint: null
+      type: select_multiple
+      options:
+      - Mobile
+      - Laptop
+      - Desktop
+      required: false
+    - id: 9
+      name: time_of_day
+      label: What time of day do you usually use dating apps?
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Late at night
+      required: false
+    - id: 10
+      name: how_long
+      label: How long do you usually use dating apps for?
+      hint: null
+      type: select_multiple
+      options:
+      - Less than 10 minutes
+      - 10-30 minutes
+      - 30-60 minutes
+      - More than 1 hour
+      required: false
+    - id: 11
+      name: reasons_not_to_use
+      label: Why do you not use dating apps?
+      hint: null
+      type: select_multiple
+      options:
+      - Don't have time
+      - Not interested
+      - Other
+      required: false
+    - id: 12
+      name: other_reasons
+      label: Other reasons (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: rating
+      label: How would you rate dating apps?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_details
+      label: Contact details (for further communication)
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: how_long_survey
+      label: How long did you take to fill this survey?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: how_satisfied
+      label: How satisfied are you with this survey?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Not satisfied
+      - Very dissatisfied
+      required: false

@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Packing Quantity Estimator
+    pages:
+    - id: 1
+      name: move_details
+      label: move_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inventory_lists
+      label: inventory_lists
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 3
+      name: packing_preferences
+      label: packing_preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: packing_quantity
+      label: packing_quantity
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: easter_checklist
+    pages:
+    - id: 1
+      name: easter_date
+      label: Easter Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: easter_time
+      label: Easter Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: easter_location
+      label: Easter Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: easter_host
+      label: Host
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: easter_guests
+      label: Guests
+      hint: null
+      type: select_multiple
+      options:
+      - Guest 1
+      - Guest 2
+      - Guest 3
+      required: false
+    - id: 6
+      name: easter_games
+      label: Games
+      hint: null
+      type: select_one
+      options:
+      - Game 1
+      - Game 2
+      - Game 3
+      required: false
+    - id: 7
+      name: easter_cooking
+      label: Easter Cooking
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: easter_decorations
+      label: Decorations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: easter_invites
+      label: Invites
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: easter_favors
+      label: Favors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: easter_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: easter_attachments
+      label: Attachments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: easter_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: easter_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Status 1
+      - Status 2
+      - Status 3
+      required: false

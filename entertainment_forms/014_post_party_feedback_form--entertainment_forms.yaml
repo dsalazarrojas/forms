@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post Party Feedback Form
+    pages:
+    - id: 1
+      name: party_host_name
+      label: Party Host Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: party_date
+      label: Party Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: start_time
+      label: Start Time
+      hint: "in 24-hour format, e.g. 14:30"
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: party_theme
+      label: Party Theme
+      hint: optional
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: attended_party
+      label: Attended Party
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: feedback_type
+      label: Feedback Type
+      hint: Please select a type of feedback
+      type: select_one
+      options:
+      - Attended the party
+      - Did not attend the party
+      - Only sent gifts and did not attend
+      - Attended for a very short time
+      - Attended for less than 15 min.
+      - Attended for 15min to 2hr
+      - Attended for more than 2hr
+      required: false
+    - id: 8
+      name: feedback
+      label: Feedback
+      hint: Please enter your feedback here
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: seasonal_job_interview_form
+    pages:
+    - id: 1
+      name: seasonal_job_title
+      label: seasonal job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_type
+      label: job type
+      hint: null
+      type: select_one
+      options:
+      - Administrative Assistant
+      - Data Entry Specialist
+      - Seasonal Worker
+      - Warehouse Worker
+      - Other
+      required: false
+    - id: 3
+      name: job_category
+      label: job category
+      hint: null
+      type: select_multiple
+      options:
+      - Sales
+      - Marketing
+      - Customer Service
+      - Finance
+      - Other
+      required: false
+    - id: 4
+      name: job_duration
+      label: job duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: shift_start_time
+      label: shift start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: shift_end_time
+      label: shift end time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: days_available
+      label: days available
+      hint: null
+      type: select_one
+      options:
+      - Mon
+      - Tue
+      - Wed
+      - Thu
+      - Fri
+      - Sat
+      - Sun
+      - Any
+      - None
+      required: false
+    - id: 8
+      name: availability
+      label: availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: contact phone
+      hint: null
+      type: text
+      options: []
+      required: false

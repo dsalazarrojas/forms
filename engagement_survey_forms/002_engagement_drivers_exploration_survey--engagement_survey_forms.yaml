@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: Engagement Drivers Exploration Survey
+    pages:
+    - id: 1
+      name: page_one
+      label: Employee Engagement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_job_title
+      label: Manager Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager_phone_type
+      label: Manager Phone Type
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Mobile
+      - Work
+      required: true
+    - id: 12
+      name: manager_contact_preference
+      label: Manager Contact Preference
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - In-person
+      required: false
+    - id: 13
+      name: manager_contact_method
+      label: Manager Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Text
+      required: false
+    - id: 14
+      name: manager_communication_frequency
+      label: Manager Communication Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 15
+      name: manager_communication_channel
+      label: Manager Communication Channel
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - In-person
+      required: false
+    - id: 16
+      name: manager_communication_method
+      label: Manager Communication Method
+      hint: null
+      type: select_one
+      options:
+      - Phone call
+      - Email
+      - In-person meeting
+      required: false
+    - id: 17
+      name: manager_communication_frequency2
+      label: Manager Communication Frequency 2
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 18
+      name: manager_communication_channel2
+      label: Manager Communication Channel 2
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - In-person
+      required: false
+    - id: 19
+      name: manager_communication_method2
+      label: Manager Communication Method 2
+      hint: null
+      type: select_one
+      options:
+      - Phone call
+      - Email
+      - In-person meeting
+      required: false
+    - id: 20
+      name: manager_communication_frequency3
+      label: Manager Communication Frequency 3
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 21
+      name: manager_communication_channel3
+      label: Manager Communication Channel 3
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - In-person
+      required: false
+    - id: 22
+      name: manager_communication_method3
+      label: Manager Communication Method 3
+      hint: null
+      type: select_one
+      options:
+      - Phone call
+      - Email
+      - In-person meeting
+      required: false
+    - id: 23
+      name: manager_communication_frequency4
+      label: Manager Communication Frequency 4
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 24
+      name: manager_communication_channel4
+      label: Manager Communication Channel 4
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - In-person
+      required: false
+    - id: 25
+      name: submission_confirmation
+      label: Submission Confirmation
+      hint: null
+      type: select_one
+      options:
+      - Automated email to Manager
+      - Automated email to HR
+      - Manual confirmation by HR
+      required: true

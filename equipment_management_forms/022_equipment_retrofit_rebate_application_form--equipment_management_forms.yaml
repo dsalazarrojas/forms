@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Equipment Retrofit Rebate Application Form
+    pages:
+    - id: 1
+      name: applicant_info
+      label: Applicant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_info
+      label: Project Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_location
+      label: Project Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: retrofit_equipment
+      label: Retrofit Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: retrofit_project_details
+      label: Retrofit Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: agreement
+      label: Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

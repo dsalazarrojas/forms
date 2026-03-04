@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: software_implementation_evaluation_form
+    pages:
+    - id: 1
+      name: deployment_status
+      label: Deployment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 2
+      name: software_used
+      label: Software Used
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: feedback
+      label: Additional Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: implementation_challenges
+      label: Challenges
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: implementation_benefits
+      label: Benefits
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: evaluation_period
+      label: Evaluation Period
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: evaluation_frequency
+      label: Evaluation Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: evaluation_due_date
+      label: Evaluation Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: evaluation_status
+      label: Evaluation Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

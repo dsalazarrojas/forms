@@ -1,0 +1,310 @@
+inputSchema:
+  type: object
+  properties:
+    title: Air Filtration System Maintenance Checklist
+    pages:
+    - id: 1
+      name: technician_name
+      label: Technician Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: technician_id
+      label: Technician ID
+      hint: Employee number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: maintenance_date
+      label: Maintenance Date
+      hint: Date of service
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: facility_name
+      label: Facility Name
+      hint: Location name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: facility_address
+      label: Facility Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: system_id
+      label: System ID or Name
+      hint: Equipment identifier
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: system_type
+      label: System Type
+      hint: Type of filtration system
+      type: select_one
+      options:
+      - HEPA filtration
+      - Carbon filtration
+      - Electrostatic
+      - UV-C system
+      - Multi-stage
+      - Industrial
+      - Commercial
+      - Residential
+      required: true
+    - id: 8
+      name: system_location
+      label: System Location
+      hint: Where is system located
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: maintenance_type
+      label: Maintenance Type
+      hint: Type of service
+      type: select_one
+      options:
+      - Routine maintenance
+      - Filter replacement
+      - Emergency repair
+      - Inspection only
+      - System upgrade
+      required: true
+    - id: 10
+      name: pre_filter_condition
+      label: Pre-Filter Condition
+      hint: Current condition
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      - Replaced
+      - Not applicable
+      required: true
+    - id: 11
+      name: pre_filter_replaced
+      label: Pre-Filter Replaced
+      hint: Was pre-filter replaced
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: true
+    - id: 12
+      name: hepa_filter_condition
+      label: HEPA Filter Condition
+      hint: Current condition
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      - Replaced
+      - Not applicable
+      required: true
+    - id: 13
+      name: hepa_filter_replaced
+      label: HEPA Filter Replaced
+      hint: Was HEPA filter replaced
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: true
+    - id: 14
+      name: carbon_filter_condition
+      label: Carbon Filter Condition
+      hint: Current condition
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      - Replaced
+      - Not applicable
+      required: true
+    - id: 15
+      name: uv_lamp_status
+      label: UV Lamp Status
+      hint: Is UV lamp functioning
+      type: select_one
+      options:
+      - Working properly
+      - Diminished output
+      - Not working
+      - Replaced
+      - Not applicable
+      required: true
+    - id: 16
+      name: uv_lamp_hours
+      label: UV Lamp Hours
+      hint: Hours of operation
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: housing_cleaned
+      label: Housing Cleaned
+      hint: Was interior cleaned
+      type: select_one
+      options:
+      - Yes, thoroughly
+      - Yes, lightly
+      - false
+      - Not applicable
+      required: true
+    - id: 18
+      name: seals_gaskets
+      label: Seals and Gaskets
+      hint: Condition of seals
+      type: select_one
+      options:
+      - Good condition
+      - Fair condition
+      - Poor, needs replacement
+      - Replaced
+      required: true
+    - id: 19
+      name: airflow_measurement
+      label: Airflow Measurement (CFM)
+      hint: Measured airflow
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: pressure_differential
+      label: Pressure Differential (inches WG)
+      hint: Filter pressure drop
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: motor_condition
+      label: Motor Condition
+      hint: Motor inspection result
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      - Requires attention
+      - Not applicable
+      required: true
+    - id: 22
+      name: belt_condition
+      label: Belt Condition
+      hint: Belt inspection result
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Worn, needs replacement
+      - Replaced
+      - Not applicable
+      required: true
+    - id: 23
+      name: electrical_connections
+      label: Electrical Connections
+      hint: Connection check
+      type: select_one
+      options:
+      - All secure
+      - Some loose, tightened
+      - Issues found
+      - Not checked
+      required: true
+    - id: 24
+      name: control_panel
+      label: Control Panel Check
+      hint: Panel inspection
+      type: select_one
+      options:
+      - All functions working
+      - Minor issues
+      - Major issues
+      - Not checked
+      required: true
+    - id: 25
+      name: leaks_detected
+      label: Air Leaks Detected
+      hint: Any leaks found
+      type: select_one
+      options:
+      - None
+      - Minor, sealed
+      - Major, needs repair
+      required: true
+    - id: 26
+      name: noise_level
+      label: Noise Level
+      hint: System noise assessment
+      type: select_one
+      options:
+      - Normal
+      - Slightly elevated
+      - Abnormal, needs attention
+      required: true
+    - id: 27
+      name: parts_used
+      label: Parts Used
+      hint: List replacement parts
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: parts_part_numbers
+      label: Part Numbers
+      hint: Part numbers used
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: recommendations
+      label: Recommendations
+      hint: Suggested actions
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: next_service_date
+      label: Next Service Date
+      hint: Recommended follow-up
+      type: date
+      options: []
+      required: true
+    - id: 31
+      name: technician_signature
+      label: Technician Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: supervisor_approval
+      label: Supervisor Approval
+      hint: Supervisor signature
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: checklist_status
+      label: Checklist Status
+      hint: Overall status
+      type: select_one
+      options:
+      - Complete, all items passed
+      - Complete, minor issues noted
+      - Incomplete, follow-up required
+      required: true

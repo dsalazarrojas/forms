@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: leadership-communication-consistency-survey
+    pages:
+    - id: 1
+      name: leadership_communication_consistency_survey_page_1
+      label: leadership_communication_consistency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: team_leadership_clarity
+      label: team_leadership_clarity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: team_leadership_frequency
+      label: team_leadership_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: team_leadership_alignment
+      label: team_leadership_alignment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: leadership_message_clarity
+      label: leadership_message_clarity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_leadership_message_frequency
+      label: team_leadership_message_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: team_leadership_message_alignment
+      label: team_leadership_message_alignment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: leadership_message_clarity
+      label: leadership_message_clarity
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: leadership_communication_questions
+      label: leadership_communication_questions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: additional_leadership_message
+      label: additional_leadership_message
+      hint: null
+      type: text
+      options: []
+      required: false

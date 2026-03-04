@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Agent Performance Evaluation Form
+    pages:
+    - id: 1
+      name: evaluation_header
+      label: -- Performance Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: agent_name
+      label: Agent name
+      hint: Name of agent being evaluated
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: evaluation_period_start
+      label: Evaluation period start
+      hint: Start date for this evaluation
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: evaluation_period_end
+      label: Evaluation period end
+      hint: End date for this evaluation
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: sales_performance
+      label: Sales performance
+      hint: Rate sales metrics and targets
+      type: select_one
+      options: [Exceeds expectations, Meets expectations, Below expectations]
+      required: true
+    - id: 6
+      name: customer_service
+      label: Customer service quality
+      hint: Rate customer satisfaction and handling
+      type: select_one
+      options: [Excellent, Good, Fair, Poor]
+      required: true
+    - id: 7
+      name: teamwork_and_collaboration
+      label: Teamwork and collaboration
+      hint: Ability to work with peers
+      type: select_one
+      options: [Excellent, Good, Fair, Poor]
+      required: true
+    - id: 8
+      name: training_needs
+      label: Training needs identified
+      hint: Areas recommended for development
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: overall_rating
+      label: Overall rating
+      hint: Final assessment
+      type: select_one
+      options: [Outstanding, Strong, Satisfactory, Needs improvement]
+      required: true
+    - id: 10
+      name: reviewer_comments
+      label: Reviewer comments
+      hint: Summary notes and action plan
+      type: text
+      options: []
+      required: false

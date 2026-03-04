@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: ielts_prediction_test_form
+    pages:
+    - id: 1
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_id
+      label: student_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: test_date
+      label: test_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: score
+      label: score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: ielts_test_section
+      label: ielts_test_section
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: test_taker
+      label: test_taker
+      hint: null
+      type: text
+      options: []
+      required: false

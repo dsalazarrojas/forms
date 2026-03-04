@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employment Law Inquiry Form
+    pages:
+    - id: 1
+      name: employment_law_inquiry_form_fields
+      label: Employment Law Inquiry Form Fields
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: category
+      label: category
+      hint: Please select a category related to employment law.
+      type: select_one
+      options:
+      - Employment Forms
+      - Other
+      required: false
+    - id: 4
+      name: description
+      label: description
+      hint: Briefly describe your employment-related legal issue.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: message
+      label: message
+      hint: Please provide a message with additional details about your inquiry.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_submitted
+      label: form_submitted
+      hint: Have you already submitted a similar form or inquiry before?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: submitted_date
+      label: submitted_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: submitted_time
+      label: submitted_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: submitted_by
+      label: submitted_by
+      hint: Please indicate who submitted the form.
+      type: select_one
+      options:
+      - Client
+      - Agent
+      - Employee
+      required: false
+    - id: 13
+      name: employment_law_area
+      label: employment_law_area
+      hint: Please select the area of employment law that best describes your issue.
+      type: select_multiple
+      options:
+      - Employment Law
+      - Family Law
+      - Immigration Law
+      - Civil Rights Law
+      - Other
+      required: false
+    - id: 14
+      name: employment_law_issue
+      label: employment_law_issue
+      hint: Please select the specific employment law issue that you would like to
+        inquire about.
+      type: select_multiple
+      options:
+      - Wrongful Termination
+      - Discrimination
+      - Harassment
+      - Other
+      required: false
+    - id: 15
+      name: submitted_to
+      label: submitted_to
+      hint: Please indicate to whom you submitted the form.
+      type: select_one
+      options:
+      - HR Manager
+      - Lawyer
+      - Other
+      required: false
+    - id: 16
+      name: employment_law_inquirer
+      label: employment_law_inquirer
+      hint: Please indicate who the employment law inquirer is.
+      type: select_one
+      options:
+      - Individual
+      - Organization
+      required: false

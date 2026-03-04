@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Two Way Radio Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: equipment_description
+      label: Equipment Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: equipment_count
+      label: Equipment Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

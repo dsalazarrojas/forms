@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Traveling Preferences Survey
+    pages:
+    - id: 1
+      name: travel_preferences_survey
+      label: travel_preferences_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_destination
+      label: travel_preferences_survey
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Europe''}'
+      - '{''id'': 2, ''label'': ''Asia''}'
+      - '{''id'': 3, ''label'': ''Africa''}'
+      - '{''id'': 4, ''label'': ''Americas''}'
+      required: false
+    - id: 3
+      name: travel_length
+      label: travel_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: preferred_time_period
+      label: preferred_time_period
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: accommodation_preferences
+      label: accommodation_preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: budget
+      label: budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: language
+      label: preferred_language
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''English''}'
+      - '{''id'': 2, ''label'': ''Spanish''}'
+      - '{''id'': 3, ''label'': ''French''}'
+      required: false
+    - id: 8
+      name: mode_of_transportation
+      label: mode_of_transportation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Plane''}'
+      - '{''id'': 2, ''label'': ''Train''}'
+      - '{''id'': 3, ''label'': ''Bus''}'
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Worker Equipment Inspection Request Form
+    pages:
+    - id: 1
+      name: equipment
+      label: equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: supporting_photos
+      label: supporting_photos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - Equipment Maintenance
+      - Safety
+      - Other
+      required: false
+    - id: 5
+      name: condition
+      label: condition
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: request_date
+      label: request_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false

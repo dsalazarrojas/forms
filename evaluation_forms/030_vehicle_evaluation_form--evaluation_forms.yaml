@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: vehicle-evaluation-form
+    pages:
+    - id: 1
+      name: vehicle_evaluation
+      label: Vehicle Evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: select_one
+      options:
+      - Engine
+      - Transmission
+      - Interior
+      required: false
+    - id: 3
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_mileage
+      label: Vehicle Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_price
+      label: Vehicle Price
+      hint: null
+      type: select_multiple
+      options:
+      - under-50k
+      - 50k-100k
+      - over-100k
+      required: false
+    - id: 6
+      name: vehicle_color
+      label: Vehicle Color
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      required: false
+    - id: 7
+      name: vehicle_fuel_type
+      label: Vehicle Fuel Type
+      hint: null
+      type: select_one
+      options:
+      - Petrol
+      - Diesel
+      - Hybrid
+      required: false
+    - id: 8
+      name: vehicle_owner
+      label: Vehicle Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_purchaser_name
+      label: Purchaser Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_purchaser_email
+      label: Purchaser Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_purchaser_phone
+      label: Purchaser Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_purchaser_comment
+      label: Purchaser Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_rating
+      label: Vehicle Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_purchase_amount
+      label: Purchase Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: vehicle_purchaser_reputation
+      label: Purchaser Reputation
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      required: false
+    - id: 16
+      name: vehicle_vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Car
+      - Van
+      - Truck
+      required: false
+    - id: 17
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: vehicle_plate_number
+      label: Vehicle Plate Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: vehicle_features
+      label: Vehicle Features
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: vehicle_comments
+      label: Vehicle Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: vehicle_rating_system
+      label: Vehicle Rating System
+      hint: null
+      type: select_one
+      options:
+      - 1-5
+      - 1-3
+      - 4-5
+      required: false
+    - id: 23
+      name: vehicle_vehicle_status
+      label: Vehicle Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Used
+      - Old
+      required: false
+    - id: 24
+      name: vehicle_ownership_status
+      label: Vehicle Ownership Status
+      hint: null
+      type: select_one
+      options:
+      - Private
+      - Public
+      required: false
+    - id: 25
+      name: vehicle_purchase_status
+      label: Vehicle Purchase Status
+      hint: null
+      type: select_one
+      options:
+      - Sold
+      - Unsold
+      - Unknown
+      required: false

@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Idea Consultation Request
+    pages:
+    - id: 1
+      name: header
+      label: -- Consultation Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: entrepreneur_name
+      label: Entrepreneur name
+      hint: Full name of the requester
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: Best email for scheduling
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: business_idea_summary
+      label: Business idea summary
+      hint: Short description of the idea in 200 words or less
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: target_market
+      label: Target market
+      hint: Primary customer segment
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: stage_of_development
+      label: Stage of development
+      hint: Select current stage
+      type: select_one
+      options:
+      - Concept
+      - Prototype
+      - Early revenue
+      - Scaling
+      required: true
+    - id: 7
+      name: funding_needed
+      label: Funding needed
+      hint: Estimated funding requirement
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: desired_outcome
+      label: Desired outcome of consultation
+      hint: What do you hope to achieve from the session
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: preferred_session_format
+      label: Preferred session format
+      hint: Choose how you prefer to meet
+      type: select_one
+      options:
+      - In person
+      - Video call
+      - Phone call
+      required: true
+    - id: 10
+      name: availability
+      label: Availability
+      hint: Provide days or times when you are available
+      type: text
+      options: []
+      required: false

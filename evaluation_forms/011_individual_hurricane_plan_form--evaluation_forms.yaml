@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Individual Hurricane Plan Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: evacuation_plans
+      label: Evacuation Plans
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: essential_supplies
+      label: Essential Supplies
+      hint: List essential items to bring during the storm.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: important_contacts
+      label: Important Contacts
+      hint: List important phone numbers and emergency contacts.
+      type: select_multiple
+      options:
+      - Very Important
+      - Not Important
+      required: false
+    - id: 5
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: weather_updates
+      label: Weather Updates
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: emergency_precautions
+      label: Emergency Precautions
+      hint: List any emergency precautions to be taken.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: safety_plan
+      label: Safety Plan
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

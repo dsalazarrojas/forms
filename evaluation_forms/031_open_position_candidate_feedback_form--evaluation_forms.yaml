@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Open Position Candidate Feedback Form
+    pages:
+    - id: 1
+      name: candidate_details
+      label: Candidate Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: feedback_type
+      label: Feedback Type
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Average
+      - Poor
+      required: true
+    - id: 3
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: suggestion
+      label: Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: interview_process
+      label: Interview Process
+      hint: null
+      type: select_multiple
+      options:
+      - On-time
+      - On-site
+      - Online
+      required: false
+    - id: 7
+      name: candidate_experience
+      label: Candidate Experience
+      hint: null
+      type: select_one
+      options:
+      - Highly Satisfied
+      - Moderately Satisfied
+      - Somewhat Satisfied
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Movie Selection Customer Opinion Assessment
+    pages:
+    - id: 1
+      name: movie_selection_customer_opinion_assessment
+      label: Movie Selection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: selected_movies
+      label: Selected Movies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: favorite_genre
+      label: Favorite Genre
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: rating_frequency
+      label: Rating Frequency
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 9
+      name: rating_frequency_other
+      label: Rating Frequency Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: rating_frequency_other_other
+      label: Rating Frequency Other Other
+      hint: null
+      type: text
+      options: []
+      required: false

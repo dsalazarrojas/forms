@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Apprenticeship Application Form
+    pages:
+    - id: 1
+      name: application_form
+      label: Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: applicant_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: applicant_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: resume
+      label: applicant_resume
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: skills
+      label: relevant_skills
+      hint: null
+      type: select_one
+      options:
+      - Data Science
+      - Machine Learning
+      - Web Development
+      - Business
+      - Marketing
+      - Product Management
+      - Project Management
+      - UX/UI
+      required: true
+    - id: 7
+      name: experience
+      label: relevant_experiences
+      hint: null
+      type: select_multiple
+      options:
+      - Internship
+      - Full time job
+      - Part-time job
+      - Volunteer
+      - Project
+      - Startup
+      - Internship/Project
+      required: true
+    - id: 8
+      name: available_start_date
+      label: available_start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: available_end_date
+      label: available_end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: salary_range
+      label: expected_salary_range
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: notice_period
+      label: expected_notice_period
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: work_location
+      label: work_location
+      hint: null
+      type: select_one
+      options:
+      - Remote
+      - Local
+      - Hybrid
+      required: true
+    - id: 13
+      name: language
+      label: language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - German
+      - Chinese
+      - Arabic
+      required: true
+    - id: 14
+      name: education
+      label: highest_level_of_education
+      hint: null
+      type: select_multiple
+      options:
+      - High School Diploma
+      - Bachelor
+      - Master
+      - PhD
+      required: true
+    - id: 15
+      name: motivation
+      label: motivation_for_apprenticeship
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: why_us
+      label: why_us
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: skills_statement
+      label: skills_statement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: work_style
+      label: preferred_work_style
+      hint: null
+      type: select_one
+      options:
+      - Team work
+      - Collaborative
+      - Independent
+      required: true
+    - id: 19
+      name: job_type
+      label: job_type
+      hint: null
+      type: select_one
+      options:
+      - Permanent
+      - Part-time
+      - Freelance
+      required: true
+    - id: 20
+      name: work_hours
+      label: work_hours
+      hint: null
+      type: select_one
+      options:
+      - 40 hours
+      - 30-40 hours
+      - 20-30 hours
+      - 20 hours
+      - 15-20 hours
+      - Less than 15 hours
+      required: true
+    - id: 21
+      name: job_level
+      label: job_level
+      hint: null
+      type: select_one
+      options:
+      - Intern
+      - Trainee
+      - Apprentice
+      required: true
+    - id: 22
+      name: benefits
+      label: benefits
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_number
+      label: emergency_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: signature
+      label: applicant_signature
+      hint: null
+      type: note
+      options: []
+      required: true

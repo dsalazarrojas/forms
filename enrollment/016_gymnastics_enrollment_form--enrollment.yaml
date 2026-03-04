@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gymnastics Enrollment Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: class_time
+      label: Class Time
+      hint: null
+      type: select_one
+      options:
+      - 8am
+      - 9am
+      - 10am
+      - 11am
+      - 12pm
+      - 1pm
+      - 2pm
+      - 3pm
+      - 4pm
+      - 5pm
+      required: false
+    - id: 6
+      name: experience
+      label: Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: parent_permission
+      label: Parent Permission
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: emergency_name
+      label: Emergency Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: class_level
+      label: Class Level
+      hint: null
+      type: select_multiple
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false

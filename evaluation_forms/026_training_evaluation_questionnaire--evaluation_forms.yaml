@@ -1,0 +1,39 @@
+inputSchema:
+  type: object
+  properties:
+    title: Training Evaluation Questionnaire
+    pages:
+    - id: 1
+      name: training_evaluation_questionnaire_form
+      label: Training Evaluation Questionnaire
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: overall_impact_rating
+      label: overall_impact_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: training_effectiveness
+      label: training_effectiveness
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: relevance_to_job
+      label: relevance_to_job
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

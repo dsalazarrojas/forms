@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Troupe Information Collection Form
+    pages:
+    - id: 1
+      name: troupe_name
+      label: Troupe Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: troupe_description
+      label: Troupe Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: troupe_type
+      label: Troupe Type
+      hint: null
+      type: select_one
+      options:
+      - Theatrical
+      - Acrobatic
+      - Juggling
+      - Acrobatic
+      - Other
+      required: true
+    - id: 4
+      name: main_contact
+      label: Main Contact
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_title
+      label: Contact Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Contact EMail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: troupe_website
+      label: Troupe Website
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: troupe_facebook
+      label: Troupe Facebook
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: troupe_twitter
+      label: Troupe Twitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: troupe_instagram
+      label: Troupe Instagram
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: troupe_youtube
+      label: Troupe YouTube
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: troupe_venue
+      label: Troupe Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: troupe_image
+      label: Troupe Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: troupe_video
+      label: Troupe Video
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: troupe_media
+      label: Troupe Media
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: troupe_files
+      label: Troupe Files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: troupe_agreement
+      label: Troupe Agreement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: troupe_notes
+      label: Troupe Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: troupe_additional_notes
+      label: Troupe Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: troupe_performance_details
+      label: Troupe Performance Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: troupe_performance_dates
+      label: Troupe Performance Dates
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: troupe_performance_time
+      label: Troupe Performance Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 24
+      name: troupe_performance_length
+      label: Troupe Performance Length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: troupe_performance_location
+      label: Troupe Performance Location
+      hint: null
+      type: text
+      options: []
+      required: true

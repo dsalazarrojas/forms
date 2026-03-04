@@ -1,0 +1,402 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Automated Assessment Questionnaire
+    pages:
+      - id: 1
+        name: introduction
+        label: Automated Assessment Questionnaire
+        hint: Please complete this assessment form
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: assessee_info
+        label: Assessee Information
+        hint: Provide details about the person being assessed
+        type: note
+        options: []
+        required: false
+      - id: 3
+        name: first_name
+        label: First Name
+        hint: First name of assessee
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: last_name
+        label: Last Name
+        hint: Last name of assessee
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: employee_id
+        label: Employee ID
+        hint: If applicable
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: email
+        label: Email Address
+        hint: Contact email
+        type: email
+        options: []
+        required: true
+      - id: 7
+        name: department
+        label: Department
+        hint: Department or division
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: position
+        label: Position or Role
+        hint: Job title
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: assessment_info
+        label: Assessment Information
+        hint: Details about this assessment
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: assessment_type
+        label: Type of Assessment
+        hint: What type is this
+        type: select_one
+        options:
+          - Performance Review
+          - Skills Assessment
+          - Training Evaluation
+          - Competency Assessment
+          - Behavioral Assessment
+          - 360 Degree Review
+          - Other
+        required: true
+      - id: 11
+        name: assessment_date
+        label: Assessment Date
+        hint: Date of assessment
+        type: date
+        options: []
+        required: true
+      - id: 12
+        name: assessment_period
+        label: Assessment Period
+        hint: Time period covered
+        type: select_one
+        options:
+          - Last 3 months
+          - Last 6 months
+          - Last 12 months
+          - Since hire date
+          - Since last assessment
+          - Other
+        required: true
+      - id: 13
+        name: assessor_info
+        label: Assessor Information
+        hint: Who is conducting the assessment
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: assessor_name
+        label: Assessor Name
+        hint: Name of assessor
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: assessor_role
+        label: Assessor Role
+        hint: Relationship to assessee
+        type: select_one
+        options:
+          - Direct Supervisor
+          - Manager
+          - Peer
+          - Subordinate
+          - HR Representative
+          - External Evaluator
+          - Self Assessment
+        required: true
+      - id: 16
+        name: competency_assessment
+        label: Competency Assessment
+        hint: Rate core competencies
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: technical_skills
+        label: Technical Skills Rating
+        hint: Rate technical abilities
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs Improvement
+          - Poor
+        required: true
+      - id: 18
+        name: technical_comments
+        label: Technical Skills Comments
+        hint: Additional notes
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: communication_skills
+        label: Communication Skills Rating
+        hint: Rate communication abilities
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs Improvement
+          - Poor
+        required: true
+      - id: 20
+        name: communication_comments
+        label: Communication Skills Comments
+        hint: Additional notes
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: teamwork
+        label: Teamwork Rating
+        hint: Rate collaboration skills
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs Improvement
+          - Poor
+        required: true
+      - id: 22
+        name: teamwork_comments
+        label: Teamwork Comments
+        hint: Additional notes
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: problem_solving
+        label: Problem Solving Rating
+        hint: Rate analytical abilities
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs Improvement
+          - Poor
+        required: true
+      - id: 24
+        name: problem_solving_comments
+        label: Problem Solving Comments
+        hint: Additional notes
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: leadership
+        label: Leadership Rating
+        hint: Rate leadership abilities
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs Improvement
+          - Poor
+          - Not Applicable
+        required: true
+      - id: 26
+        name: leadership_comments
+        label: Leadership Comments
+        hint: Additional notes
+        type: text
+        options: []
+        required: false
+      - id: 27
+        name: work_quality
+        label: Work Quality Rating
+        hint: Rate quality of work
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs Improvement
+          - Poor
+        required: true
+      - id: 28
+        name: work_quality_comments
+        label: Work Quality Comments
+        hint: Additional notes
+        type: text
+        options: []
+        required: false
+      - id: 29
+        name: productivity
+        label: Productivity Rating
+        hint: Rate output and efficiency
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs Improvement
+          - Poor
+        required: true
+      - id: 30
+        name: productivity_comments
+        label: Productivity Comments
+        hint: Additional notes
+        type: text
+        options: []
+        required: false
+      - id: 31
+        name: attendance
+        label: Attendance Rating
+        hint: Rate reliability
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs Improvement
+          - Poor
+        required: true
+      - id: 32
+        name: goals_assessment
+        label: Goals Assessment
+        hint: Goal achievement evaluation
+        type: note
+        options: []
+        required: false
+      - id: 33
+        name: goals_met
+        label: Previous Goals Met
+        hint: Were goals achieved
+        type: select_one
+        options:
+          - All Goals Met
+          - Most Goals Met
+          - Some Goals Met
+          - Few Goals Met
+          - No Goals Met
+          - No Previous Goals
+        required: true
+      - id: 34
+        name: goals_comments
+        label: Goals Comments
+        hint: Details about goal achievement
+        type: text
+        options: []
+        required: false
+      - id: 35
+        name: strengths
+        label: Key Strengths
+        hint: List main strengths
+        type: text
+        options: []
+        required: true
+      - id: 36
+        name: areas_improvement
+        label: Areas for Improvement
+        hint: List areas needing work
+        type: text
+        options: []
+        required: true
+      - id: 37
+        name: development_recommendations
+        label: Development Recommendations
+        hint: Suggested development actions
+        type: text
+        options: []
+        required: false
+      - id: 38
+        name: training_needed
+        label: Training Needed
+        hint: Recommended training
+        type: select_multiple
+        options:
+          - Technical Training
+          - Leadership Development
+          - Communication Skills
+          - Time Management
+          - Software Training
+          - Compliance Training
+          - None
+        required: false
+      - id: 39
+        name: overall_rating
+        label: Overall Rating
+        hint: Final assessment score
+        type: select_one
+        options:
+          - Outstanding
+          - Exceeds Expectations
+          - Meets Expectations
+          - Below Expectations
+          - Unsatisfactory
+        required: true
+      - id: 40
+        name: promotion_ready
+        label: Ready for Promotion
+        hint: Is assessee promotion ready
+        type: select_one
+        options:
+          - Yes Highly Ready
+          - Yes Somewhat Ready
+          - Not Ready Yet
+          - Not Applicable
+        required: false
+      - id: 41
+        name: assessor_signature
+        label: Assessor Signature
+        hint: Digital signature
+        type: text
+        options: []
+        required: true
+      - id: 42
+        name: signature_date
+        label: Date of Signature
+        hint: Today date
+        type: date
+        options: []
+        required: true
+      - id: 43
+        name: assessee_acknowledgment
+        label: Assessee Acknowledgment
+        hint: I have reviewed this assessment
+        type: select_one
+        options:
+          - I Acknowledge
+          - I Do Not Acknowledge
+        required: false

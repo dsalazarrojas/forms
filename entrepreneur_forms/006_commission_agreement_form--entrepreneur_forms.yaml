@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commission Agreement Form
+    pages:
+    - id: 1
+      name: principal_name
+      label: Principal name or company
+      hint: Entity engaging the salesperson
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: salesperson_name
+      label: Salesperson name
+      hint: Name of individual receiving commission
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: commission_structure
+      label: Commission structure
+      hint: Describe percentage or flat fee details
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: commission_rate
+      label: Commission rate percent
+      hint: Enter numeric percent without symbol
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_schedule
+      label: Payment schedule
+      hint: When commissions will be paid
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Upon closing
+      - Other
+      required: true
+    - id: 6
+      name: territory_or_products
+      label: Territory or product scope
+      hint: Describe the scope covered by the agreement
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: effective_date
+      label: Effective date of agreement
+      hint: Start date for commission terms
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: termination_conditions
+      label: Termination conditions summary
+      hint: Briefly list grounds for termination
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: sign_off
+      label: Sign off confirmation
+      hint: Confirm acceptance of terms
+      type: select_one
+      options:
+      - I accept the terms
+      - I do not accept
+      required: true

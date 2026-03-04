@@ -1,0 +1,287 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Business Survey
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: Official name of the business
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: respondent_name
+      label: Contact Person Name
+      hint: Person completing this survey
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: business_type
+      label: Business Type
+      hint: What type of business is this?
+      type: select_one
+      options:
+      - Sole Proprietorship
+      - Partnership
+      - LLC
+      - Corporation
+      - S Corporation
+      - Nonprofit
+      - Other
+      required: true
+    - id: 6
+      name: industry
+      label: Industry
+      hint: What industry are you in?
+      type: select_one
+      options:
+      - Technology
+      - Retail
+      - Manufacturing
+      - Healthcare
+      - Food Service
+      - Professional Services
+      - Construction
+      - Real Estate
+      - Education
+      - Finance
+      - Other
+      required: true
+    - id: 7
+      name: years_in_business
+      label: Years in Business
+      hint: How long has the business operated?
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 4-7 years
+      - 8-15 years
+      - 16-25 years
+      - Over 25 years
+      required: true
+    - id: 8
+      name: employee_count
+      label: Number of Employees
+      hint: Total full-time and part-time employees
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: annual_revenue
+      label: Annual Revenue Range
+      hint: Approximate annual revenue
+      type: select_one
+      options:
+      - Under $50,000
+      - $50,000 - $100,000
+      - $100,001 - $500,000
+      - $500,001 - $1,000,000
+      - $1,000,001 - $5,000,000
+      - Over $5,000,000
+      required: true
+    - id: 10
+      name: revenue_change
+      label: Revenue Change from Last Year
+      hint: How did revenue change?
+      type: select_one
+      options:
+      - Increased Significantly
+      - Increased Slightly
+      - Stayed the Same
+      - Decreased Slightly
+      - Decreased Significantly
+      required: true
+    - id: 11
+      name: profit_margin
+      label: Profit Margin Range
+      hint: Approximate profit margin
+      type: select_one
+      options:
+      - Negative
+      - 0-5%
+      - 6-10%
+      - 11-20%
+      - 21-30%
+      - Over 30%
+      required: false
+    - id: 12
+      name: biggest_challenge
+      label: Biggest Business Challenge
+      hint: What is your primary challenge?
+      type: select_one
+      options:
+      - Cash Flow
+      - Finding Customers
+      - Competition
+      - Hiring Talent
+      - Rising Costs
+      - Technology
+      - Regulations
+      - Marketing
+      - Other
+      required: true
+    - id: 13
+      name: growth_priorities
+      label: Growth Priorities
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Increase Sales
+      - Expand Market Reach
+      - Launch New Products
+      - Hire More Staff
+      - Improve Operations
+      - Upgrade Technology
+      - Build Brand
+      - Reduce Costs
+      - Seek Funding
+      - Other
+      required: true
+    - id: 14
+      name: marketing_channels
+      label: Marketing Channels Used
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Social Media
+      - Email Marketing
+      - Website
+      - SEO
+      - Paid Advertising
+      - Content Marketing
+      - Networking
+      - Referrals
+      - Traditional Media
+      - Other
+      required: true
+    - id: 15
+      name: technology_adoption
+      label: Technology Adoption
+      hint: How would you describe your tech usage?
+      type: select_one
+      options:
+      - Early Adopter
+      - Average
+      - Late Adopter
+      - Minimal Technology
+      required: true
+    - id: 16
+      name: customer_satisfaction
+      label: Customer Satisfaction Level
+      hint: How satisfied are your customers?
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Average
+      - Below Average
+      - Low
+      required: true
+    - id: 17
+      name: employee_satisfaction
+      label: Employee Satisfaction Level
+      hint: How satisfied are your employees?
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Average
+      - Below Average
+      - Low
+      - Not Applicable
+      required: false
+    - id: 18
+      name: funding_source
+      label: Primary Funding Source
+      hint: How is the business funded?
+      type: select_one
+      options:
+      - Personal Savings
+      - Bank Loan
+      - Investors
+      - Venture Capital
+      - Revenue
+      - Family and Friends
+      - Grants
+      - Other
+      required: true
+    - id: 19
+      name: expansion_plans
+      label: Expansion Plans
+      hint: Do you plan to expand?
+      type: select_one
+      options:
+      - Yes, Aggressively
+      - Yes, Moderately
+      - Considering It
+      - No Plans
+      - Scaling Back
+      required: true
+    - id: 20
+      name: export_activities
+      label: Export Activities
+      hint: Do you sell internationally?
+      type: select_one
+      options:
+      - Yes, Actively Exporting
+      - Planning to Export
+      - No, Domestic Only
+      required: true
+    - id: 21
+      name: sustainability_initiatives
+      label: Sustainability Initiatives
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Recycling Programs
+      - Energy Efficiency
+      - Sustainable Sourcing
+      - Carbon Reduction
+      - Waste Reduction
+      - Green Products
+      - None
+      - Other
+      required: false
+    - id: 22
+      name: business_outlook
+      label: Business Outlook
+      hint: How optimistic are you about the future?
+      type: select_one
+      options:
+      - Very Optimistic
+      - Optimistic
+      - Neutral
+      - Pessimistic
+      - Very Pessimistic
+      required: true
+    - id: 23
+      name: advice_for_entrepreneurs
+      label: Advice for New Entrepreneurs
+      hint: Share your best advice
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information to share
+      type: text
+      options: []
+      required: false

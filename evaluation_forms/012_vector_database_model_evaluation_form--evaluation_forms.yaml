@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vector Database Model Evaluation Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: engineering_evaluation
+      label: Engineering Evaluation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: product_evaluation
+      label: Product Evaluation
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Poor''}'
+      required: false
+    - id: 4
+      name: research_evaluation
+      label: Research Evaluation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Poor''}'
+      required: false
+    - id: 5
+      name: engineering_notes
+      label: Engineering Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: product_notes
+      label: Product Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: research_notes
+      label: Research Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comparison_chart
+      label: Comparison Chart
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: evaluation_form_submitted_by
+      label: Evaluation Form Submitter
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''User 1''}'
+      - '{''value'': ''User 2''}'
+      - '{''value'': ''User 3''}'
+      - '{''value'': ''User 4''}'
+      - '{''value'': ''User 5''}'
+      - '{''value'': ''User 6''}'
+      - '{''value'': ''User 7''}'
+      - '{''value'': ''User 8''}'
+      - '{''value'': ''User 9''}'
+      - '{''value'': ''User 10''}'
+      - '{''value'': ''User 11''}'
+      - '{''value'': ''User 12''}'
+      - '{''value'': ''User 13''}'
+      - '{''value'': ''User 14''}'
+      - '{''value'': ''User 15''}'
+      - '{''value'': ''User 16''}'
+      - '{''value'': ''User 17''}'
+      - '{''value'': ''User 18''}'
+      - '{''value'': ''User 19''}'
+      - '{''value'': ''User 20''}'
+      - '{''value'': ''User 21''}'
+      - '{''value'': ''User 22''}'
+      - '{''value'': ''User 23''}'
+      - '{''value'': ''User 24''}'
+      - '{''value'': ''User 25''}'
+      - '{''value'': ''User 26''}'
+      - '{''value'': ''User 27''}'
+      - '{''value'': ''User 28''}'
+      - '{''value'': ''User 29''}'
+      - '{''value'': ''User 30''}'
+      - '{''value'': ''User 31''}'
+      - '{''value'': ''User 32''}'
+      - '{''value'': ''User 33''}'
+      - '{''value'': ''User 34''}'
+      - '{''value'': ''User 35''}'
+      - '{''value'': ''User 36''}'
+      - '{''value'': ''User 37''}'
+      - '{''value'': ''User 38''}'
+      - '{''value'': ''User 39''}'
+      - '{''value'': ''User 40''}'
+      - '{''value'': ''User 41''}'
+      - '{''value'': ''User 42''}'
+      - '{''value'': ''User 43''}'
+      - '{''value'': ''User 44''}'
+      - '{''value'': ''User 45''}'
+      - '{''value'': ''User 46''}'
+      - '{''value'': ''User 47''}'
+      - '{''value'': ''User 48''}'
+      - '{''value'': ''User 49''}'
+      - '{''value'': ''User 50''}'
+      required: false
+    - id: 11
+      name: user_notes
+      label: User Notes
+      hint: null
+      type: text
+      options: []
+      required: false

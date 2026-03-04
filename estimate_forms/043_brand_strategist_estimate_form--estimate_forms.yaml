@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brand Strategist Estimate Form
+    pages:
+    - id: 1
+      name: project_summary_header
+      label: -- Project Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name_val
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: proj_name_val
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: est_dt
+      label: Estimate Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: scope_header
+      label: -- Scope of Work --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: svc_items_select
+      label: Services Included in Estimate
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Brand Discovery Workshop
+      - Competitor Analysis
+      - Visual Identity Design
+      - Messaging Framework
+      - Launch Strategy
+      required: true
+    - id: 7
+      name: scope_desc
+      label: Detailed Scope Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: est_hrs
+      label: Total Estimated Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: cost_header
+      label: -- Cost Estimate --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: hr_rate
+      label: Hourly Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: total_fee
+      label: Total Estimated Project Fee
+      hint: Total amount for project
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: timeline_header
+      label: -- Timeline and Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: start_dt_est
+      label: Estimated Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: pay_sched
+      label: Proposed Payment Schedule
+      hint: e.g. 50 percent upfront
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: val_until
+      label: Estimate Valid Until
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: approval_header
+      label: -- Approval --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: strategist_name_val
+      label: Brand Strategist Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: client_approval_sign
+      label: Client Approval - Type Full Name to Accept
+      hint: null
+      type: text
+      options: []
+      required: false

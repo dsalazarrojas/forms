@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: website_maintenance_cost_estimator
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: website_info
+      label: Website Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: maintenance_needs
+      label: Maintenance Needs
+      hint: null
+      type: select_multiple
+      options:
+      - Maintenance
+      - Updates
+      - Fixes
+      required: false
+    - id: 4
+      name: budget_details
+      label: Budget Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: estimated_cost
+      label: Estimated Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

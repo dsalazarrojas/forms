@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Course Completion Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: course_section
+      label: Course Section
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 7
+      name: completion_date
+      label: Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: completion_time
+      label: Completion Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: completed_units
+      label: Completed Units
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: course_status
+      label: Course Status
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: completed_at
+      label: Completed At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: date
+      options: []
+      required: false

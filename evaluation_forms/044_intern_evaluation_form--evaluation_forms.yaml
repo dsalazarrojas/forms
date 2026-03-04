@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Intern Evaluation Form
+    pages:
+    - id: 1
+      name: intern_evaluation_form
+      label: intern_evaluation_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: intern_performance
+      label: intern_performance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: intern_attitude
+      label: intern_attitude
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: communication_skills
+      label: communication_skills
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      - '{''option3'': ''Option 3''}'
+      required: true
+    - id: 5
+      name: work_efficiency
+      label: work_efficiency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: evaluation_comments
+      label: evaluation_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: intern_performance_rating
+      label: intern_performance_rating
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Excellent''}'
+      - '{''option2'': ''Good''}'
+      - '{''option3'': ''Fair''}'
+      - '{''option4'': ''Needs Improvement''}'
+      - '{''option5'': ''Unsatisfactory''}'
+      required: true
+    - id: 9
+      name: recommendations
+      label: recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: evaluation_comments
+      label: evaluation_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_of_evaluation
+      label: date_of_evaluation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: time_of_evaluation
+      label: time_of_evaluation
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

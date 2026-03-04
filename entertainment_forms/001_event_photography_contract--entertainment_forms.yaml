@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Photography Contract
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Event
+      - Wedding
+      - Birthday
+      - Party
+      - Ceremony
+      required: false
+    - id: 5
+      name: photographer_name
+      label: Photographer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contract_duration
+      label: Contract Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: agreement
+      label: Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: photography_services
+      label: Photography Services
+      hint: null
+      type: select_multiple
+      options:
+      - Service
+      - Coverage
+      - Post-Editing
+      - Retouching
+      - Print Release
+      required: false
+    - id: 10
+      name: client_address
+      label: Client Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: client_message
+      label: Client Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: photographer_message
+      label: Photographer Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contract_reviewed
+      label: Contract Reviewed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false

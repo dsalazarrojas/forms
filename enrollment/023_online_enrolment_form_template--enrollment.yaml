@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Enrolment Form Template
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: student_address
+      label: Student Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone_ext
+      label: Contact Phone Ext
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: student_enrolment_date
+      label: Date of Enrolment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: student_enrolment_time
+      label: Time of Enrolment
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: student_enrolment_duration
+      label: Enrolment Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: student_enrolment_level
+      label: Enrolment Level
+      hint: null
+      type: select_one
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      required: true
+    - id: 13
+      name: student_programme
+      label: Programme
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: student_programme_duration
+      label: Programme Duration
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 15
+      name: student_programme_level
+      label: Programme Level
+      hint: null
+      type: select_one
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      required: true
+    - id: 16
+      name: student_programme_type
+      label: Programme Type
+      hint: null
+      type: select_one
+      options:
+      - Programme 1
+      - Programme 2
+      - Programme 3
+      required: true
+    - id: 17
+      name: student_programme_start_date
+      label: Programme Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: student_programme_end_date
+      label: Programme End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: student_programme_status
+      label: Programme Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Cancelled
+      required: true

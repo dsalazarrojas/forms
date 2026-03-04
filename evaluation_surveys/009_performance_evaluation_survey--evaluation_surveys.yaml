@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Evaluation Survey
+    pages:
+    - id: 1
+      name: performance_evaluation_survey_form
+      label: Performance Evaluation Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: evaluation_survey_category
+      label: Evaluation Survey Category
+      hint: null
+      type: select_one
+      options:
+      - Evaluation Surveys
+      - Other
+      - Training
+      required: false
+    - id: 3
+      name: performance_rating
+      label: Performance Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: development_areas_rating
+      label: Development Areas
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: strengths_rating
+      label: Strengths
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: development_areas_comments
+      label: Development Areas Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_survey_comments
+      label: Evaluation Survey Comments
+      hint: null
+      type: text
+      options: []
+      required: false

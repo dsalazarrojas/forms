@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Provisional Patent Application Form
+    pages:
+    - id: 1
+      name: application_type
+      label: Application Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: invention_name
+      label: Invention Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: applicant_name
+      label: Applicant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: applicant_address
+      label: Applicant Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: invention_description
+      label: Invention Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: invention_image
+      label: Invention Image
+      hint: null
+      type: text
+      options: []
+      required: false

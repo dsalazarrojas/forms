@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Human Rights Awareness Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: background_knowledge
+      label: Background Knowledge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: understanding_human_rights
+      label: Understanding Human Rights
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: attitude_toward_human_rights
+      label: Attitude Toward Human Rights
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: practice_human_rights
+      label: Practice Human Rights
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: human_rights_violations
+      label: Human Rights Violations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: human_rights_issues
+      label: Human Rights Issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: human_rights_advocacy
+      label: Human Rights Advocacy
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: human_rights_education
+      label: Human Rights Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: conclusion
+      label: Conclusion
+      hint: null
+      type: note
+      options: []
+      required: false

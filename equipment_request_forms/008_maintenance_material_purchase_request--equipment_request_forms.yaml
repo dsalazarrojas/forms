@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: maintenance_material_purchase_request
+    pages:
+    - id: 1
+      name: name
+      label: Requestor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: purchase_type
+      label: Purchase Type
+      hint: null
+      type: select_one
+      options:
+      - Supplies
+      - Equipment
+      required: true
+    - id: 5
+      name: equipment_description
+      label: Equipment Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: unit_cost
+      label: Unit Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: requested_by
+      label: Requested By
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Jim
+      required: true
+    - id: 10
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comment
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

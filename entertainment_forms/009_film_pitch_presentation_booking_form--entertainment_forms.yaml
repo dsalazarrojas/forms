@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Film Pitch Presentation Booking Form
+    pages:
+    - id: 1
+      name: film_pitch_presentation_booking_form_1
+      label: Client
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: production_company
+      label: Production Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: film_pitch_session
+      label: Film Pitch Session
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: presenter
+      label: Presenter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: booking_status
+      label: Booking Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 8
+      name: booking_note
+      label: Booking Note
+      hint: null
+      type: note
+      options: []
+      required: false

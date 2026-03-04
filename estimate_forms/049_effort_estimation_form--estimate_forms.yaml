@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Effort Estimation Form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: effort_estimate
+      label: Effort Estimate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: manpower_required
+      label: Manpower Required
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: time_required
+      label: Time Required
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: resources_required
+      label: Resources Required
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Resources''}'
+      - '{''id'': 2, ''label'': ''Equipment''}'
+      - '{''id'': 3, ''label'': ''Software''}'
+      required: false
+    - id: 6
+      name: budget_allocated
+      label: Budget Allocated
+      hint: null
+      type: number
+      options: []
+      required: false

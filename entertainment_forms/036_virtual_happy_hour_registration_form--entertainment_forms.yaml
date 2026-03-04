@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Happy Hour Registration Form
+    pages:
+    - id: 1
+      name: host_name
+      label: Host Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: guest_list
+      label: Guest List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: host_phone
+      label: Host Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: guest_name_1
+      label: Guest 1 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: guest_name_2
+      label: Guest 2 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: guest_name_3
+      label: Guest 3 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: guest_name_4
+      label: Guest 4 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: guest_name_5
+      label: Guest 5 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: additional_guests
+      label: Additional Guests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - Chat
+      - Meeting
+      - Webinar
+      - Other
+      required: true
+    - id: 15
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false

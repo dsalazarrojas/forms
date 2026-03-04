@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: stage_power_connection_booking_form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_start_time
+      label: Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: total_outlets
+      label: Total Outlets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: watts_drawn
+      label: Watts Drawn
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: voltage
+      label: Voltage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: instructions
+      label: Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_contacts
+      label: Event Contacts
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Name''}'
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Phone''}'
+      required: false

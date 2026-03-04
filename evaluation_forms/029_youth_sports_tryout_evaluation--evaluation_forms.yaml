@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Sports Tryout Evaluation
+    pages:
+    - id: 1
+      name: general_info
+      label: general_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: player_info
+      label: player_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: player_performance
+      label: player_performance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: coach_suggestion
+      label: coach_suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: coach_comment
+      label: coach_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: score
+      label: score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: evaluation_complete
+      label: evaluation_complete
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Contact Form
+    pages:
+    - id: 1
+      name: travel_contact_form
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: 'Format: YYYY-MM-DD'
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: travel_arrangements
+      label: Travel Arrangements
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: hotel_preference
+      label: Hotel Preference
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: flight_preference
+      label: Flight Preference
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: home_address
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: 'Format: XXX-XXX-XXXX'
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: 'Format: xxxxxxxxxx@xxx.xxx'
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: travel_documents
+      label: Travel Documents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

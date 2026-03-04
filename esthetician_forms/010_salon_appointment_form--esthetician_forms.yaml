@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Salon Appointment Form
+    pages:
+    - id: 1
+      name: schedule_visit
+      label: Schedule a visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: select_services
+      label: Select services
+      hint: null
+      type: select_multiple
+      options:
+      - Bridal hair and makeup
+      - Makeup
+      - Haircut
+      - Hair color
+      - Color correction
+      - Bridal party services
+      required: false
+    - id: 3
+      name: choose_date
+      label: Choose Date
+      hint: null
+      type: select_one
+      options:
+      - '2023-02-16'
+      - '2023-02-18'
+      - '2023-02-20'
+      required: false
+    - id: 4
+      name: choose_time
+      label: Choose Time
+      hint: null
+      type: select_multiple
+      options:
+      - 10:00-10:30
+      - 11:00-11:30
+      - 12:00-12:30
+      required: false
+    - id: 5
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: Your email address
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flight School Student Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: course_id
+      label: Course ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''chatjimmy'', ''label'': ''ChatJIMMY''}'
+      - Other
+      required: false
+    - id: 10
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: course_description
+      label: Course Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: nationality
+      label: Nationality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: passport_number
+      label: Passport Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: passport_date
+      label: Passport Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: license_number
+      label: License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: license_number_type
+      label: License Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: license_expiration
+      label: License Expiration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: license_authority
+      label: License Authority
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

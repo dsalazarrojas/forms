@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workforce Pipeline Intake Form
+    pages:
+    - id: 1
+      name: page_1
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_2
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: page_3
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: page_4
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: page_1
+      label: job_title
+      hint: null
+      type: select_one
+      options:
+      - Software Engineer
+      - Data Scientist
+      - Project Manager
+      - Other
+      required: false
+    - id: 6
+      name: page_2
+      label: job_type
+      hint: null
+      type: select_multiple
+      options:
+      - Full-time
+      - Contract
+      - Internship
+      - Part-time
+      required: false
+    - id: 7
+      name: page_2
+      label: resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: page_3
+      label: availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: page_1
+      label: availability
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: page_3
+      label: availability
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: page_3
+      label: resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: page_3
+      label: job_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: page_1
+      label: resume
+      hint: null
+      type: text
+      options: []
+      required: false

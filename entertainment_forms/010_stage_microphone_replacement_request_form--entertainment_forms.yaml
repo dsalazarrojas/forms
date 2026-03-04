@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: stage_microphone_replacement_request_form
+    pages:
+    - id: 1
+      name: venue_name
+      label: Venue Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: microphone_type
+      label: Microphone Type
+      hint: null
+      type: select_multiple
+      options:
+      - Handheld
+      - Lavalier
+      - Shotgun
+      - Wireless
+      required: true
+    - id: 3
+      name: issue_date
+      label: Issue Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: urgency_level
+      label: Urgency Level
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 5
+      name: photo
+      label: Photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: assignee
+      label: Assignee
+      hint: null
+      type: select_one
+      options:
+      - staff_member_1
+      - staff_member_2
+      - staff_member_3
+      - staff_member_4
+      required: true
+    - id: 8
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: output_format
+      label: Output Format
+      hint: null
+      type: select_one
+      options:
+      - pdf
+      - excel
+      required: false
+    - id: 10
+      name: output_path
+      label: Output Path
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: submit_time
+      label: Submit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter_notes
+      label: Submitter Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: staff_notes
+      label: Staff Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: submitter_signature
+      label: Submitter Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: photo_url
+      label: Photo URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: photo_attach
+      label: Attach Photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitter_id
+      label: Submitter ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitter_role
+      label: Submitter Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter_position
+      label: Submitter Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_company
+      label: Submitter Company
+      hint: null
+      type: text
+      options: []
+      required: false

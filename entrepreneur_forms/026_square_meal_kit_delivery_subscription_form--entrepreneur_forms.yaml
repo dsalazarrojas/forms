@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Square Meal Kit Delivery Subscription Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: subscription_plan
+      label: Subscription Plan
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Basic''}'
+      - '{''id'': 2, ''name'': ''Premium''}'
+      - '{''id'': 3, ''name'': ''Business''}'
+      required: false
+    - id: 3
+      name: meal_plan
+      label: Meal Plan
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Breakfast''}'
+      - '{''id'': 2, ''name'': ''Lunch''}'
+      - '{''id'': 3, ''name'': ''Dinner''}'
+      required: false
+    - id: 4
+      name: payment_info
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: subscription_start_date
+      label: Subscription Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: subscription_end_date
+      label: Subscription End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Bank Transfer''}'
+      - '{''id'': 2, ''name'': ''Credit Card''}'
+      - '{''id'': 3, ''name'': ''PayPal''}'
+      required: false
+    - id: 12
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: card_number
+      label: Card Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: card_expiration_date
+      label: Card Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: card_security_code
+      label: Card Security Code
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''CVV''}'
+      - '{''id'': 2, ''name'': ''Security Code''}'
+      required: false

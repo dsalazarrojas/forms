@@ -1,0 +1,248 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sensory Evaluation Form
+    pages:
+    - id: 1
+      name: consumer_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: appearance
+      label: Appearance
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very good''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''label'': ''Bad''}'
+      - '{''id'': 5, ''label'': ''Very bad''}'
+      required: false
+    - id: 5
+      name: taste
+      label: Taste
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Very good''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''label'': ''Bad''}'
+      - '{''id'': 5, ''label'': ''Very bad''}'
+      required: false
+    - id: 6
+      name: smell
+      label: Smell
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very good''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''label'': ''Bad''}'
+      - '{''id'': 5, ''label'': ''Very bad''}'
+      required: false
+    - id: 7
+      name: texture
+      label: Texture
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very good''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''label'': ''Bad''}'
+      - '{''id'': 5, ''label'': ''Very bad''}'
+      required: false
+    - id: 8
+      name: mouthfeel
+      label: Mouthfeel
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very good''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''label'': ''Bad''}'
+      - '{''id'': 5, ''label'': ''Very bad''}'
+      required: false
+    - id: 9
+      name: price
+      label: Price
+      hint: How much did you pay?
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: overall_impression
+      label: Overall Impression
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very good''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''label'': ''Bad''}'
+      - '{''id'': 5, ''label'': ''Very bad''}'
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: recommended
+      label: Recommended
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      required: false
+    - id: 13
+      name: would_recommend
+      label: Would you recommend
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      required: false
+    - id: 14
+      name: will_revisit
+      label: Will Revisit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      required: false
+    - id: 15
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: quality
+      label: Quality
+      hint: On a scale of 1-100
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: presentation
+      label: Presentation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Very good''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''label'': ''Bad''}'
+      - '{''id'': 5, ''label'': ''Very bad''}'
+      required: false
+    - id: 18
+      name: service
+      label: Service
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very good''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''label'': ''Bad''}'
+      - '{''id'': 5, ''label'': ''Very bad''}'
+      required: false
+    - id: 19
+      name: packaging
+      label: Packaging
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very good''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''label'': ''Bad''}'
+      - '{''id'': 5, ''label'': ''Very bad''}'
+      required: false
+    - id: 20
+      name: value
+      label: Value
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very good''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''label'': ''Bad''}'
+      - '{''id'': 5, ''label'': ''Very bad''}'
+      required: false
+    - id: 21
+      name: will_buy
+      label: Will Buy
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      required: false
+    - id: 22
+      name: would_recommend
+      label: Would Recommend
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      required: false
+    - id: 23
+      name: will_revisit
+      label: Will Revisit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      required: false
+    - id: 24
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

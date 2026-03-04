@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Seminar Evaluation Form Template
+    pages:
+    - id: 1
+      name: seminar_content
+      label: seminar_content
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: presentation_quality
+      label: presentation_quality
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 3
+      name: overall_effectiveness
+      label: overall_effectiveness
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: seminar_organization
+      label: seminar_organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: content
+      label: content
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: speaker
+      label: speaker
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: time_management
+      label: time_management
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: materials
+      label: materials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: interaction
+      label: interaction
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: value_for_money
+      label: value_for_money
+      hint: null
+      type: text
+      options: []
+      required: false

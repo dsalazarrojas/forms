@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lawn Mower Safety Assessment
+    pages:
+    - id: 1
+      name: operator_name
+      label: Operator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - Lawn Mower
+      - Other
+      - Trimmer
+      - String trimmer
+      - Other
+      required: true
+    - id: 3
+      name: blade_wear
+      label: Blade Wear
+      hint: null
+      type: select_multiple
+      options:
+      - Severely Worn
+      - Moderately Worn
+      - Slightly Worn
+      required: true
+    - id: 4
+      name: blade_tension
+      label: Blade Tension
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: cutting_system
+      label: Cutting System
+      hint: null
+      type: select_one
+      options:
+      - Fixed Blade
+      - Rotating Blade
+      - Other
+      required: true
+    - id: 6
+      name: blade_cleaning_frequency
+      label: Blade Cleaning Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Weekly
+      - Biweekly
+      - Monthly
+      - Other
+      - Never
+      required: false
+    - id: 7
+      name: oil_filling_date
+      label: Oil Filling Date
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: safety_precautions
+      label: Safety Precautions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

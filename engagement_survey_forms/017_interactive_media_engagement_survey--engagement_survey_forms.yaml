@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Interactive Media Engagement Survey
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Engagement Survey Forms
+      - Feedback Forms
+      - Media Forms
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: media_title
+      label: Media Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: media_url
+      label: Media URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: engagement_level
+      label: Engagement Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 8
+      name: engagement_description
+      label: Engagement Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: engagement_comment
+      label: Engagement Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_description
+      label: Form Description
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: form_url
+      label: Form URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_version
+      label: Form Version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: submission_count
+      label: Submission Count
+      hint: Please provide a number
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: submitted_by
+      label: Submitted By
+      hint: Name or username
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitted_at
+      label: Submitted At
+      hint: Date and time
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: submitted_by_user
+      label: Submitted By User
+      hint: Username or email
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: submitted_at_time
+      label: Submitted At Time
+      hint: "HH:MM:SS format"
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: form_version_history
+      label: Form Version History
+      hint: Select multiple values
+      type: select_multiple
+      options:
+      - Version 1
+      - Version 2
+      - Version 3
+      required: false
+    - id: 19
+      name: submitted_by_user_id
+      label: Submitted By User ID
+      hint: Please provide a number
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: submitted_at_timestamp
+      label: Submitted At Timestamp
+      hint: Timestamp for submitted date
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: form_version_number
+      label: Form Version Number
+      hint: Please provide a number
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: submission_time
+      label: Submission Time
+      hint: "HH:MM:SS format"
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: form_submissions
+      label: Form Submissions
+      hint: Public/ Private
+      type: select_one
+      options:
+      - Public
+      - Private
+      required: false
+    - id: 24
+      name: submission_comments
+      label: Submission Comments
+      hint: Text area for comments
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_status
+      label: Submission Status
+      hint: Select one of the following
+      type: select_one
+      options:
+      - Approved
+      - Declined
+      - Pending
+      required: false

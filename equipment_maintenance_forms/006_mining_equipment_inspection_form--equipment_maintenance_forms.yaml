@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mining Equipment Inspection Form
+    pages:
+    - id: 1
+      name: equipment_inspection_form
+      label: Equipment Inspection Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: Briefly describe the equipment
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: condition
+      label: Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_last_maintenance
+      label: Date Last Maintenance
+      hint: Date of last maintenance
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: next_maintenance_due
+      label: Next Maintenance Due
+      hint: Next maintenance due date
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: Additional notes
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: Assigned To
+      hint: Name of person assigned to perform maintenance
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_inspected
+      label: Date Inspected
+      hint: Date of inspection
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: inspected_by
+      label: Inspected By
+      hint: Name of person performing the inspection
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: equipment_status
+      label: Equipment Status
+      hint: Select the status of the equipment
+      type: select_multiple
+      options:
+      - Running
+      - Maintenance Required
+      - Offline
+      required: false
+    - id: 13
+      name: maintenance_frequency
+      label: Maintenance Frequency
+      hint: Select maintenance frequency
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 14
+      name: last_maintenance_cost
+      label: Last Maintenance Cost
+      hint: Cost of last maintenance
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: next_maintenance_cost
+      label: Next Maintenance Cost
+      hint: Estimated cost of next maintenance
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: maintenance_frequency_notes
+      label: Maintenance Frequency Notes
+      hint: Notes on maintenance frequency
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: inspection_frequency
+      label: Inspection Frequency
+      hint: Select inspection frequency
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 18
+      name: inspection_frequency_notes
+      label: Inspection Frequency Notes
+      hint: Notes on inspection frequency
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: next_maintenance_notes
+      label: Next Maintenance Notes
+      hint: Notes on next maintenance
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: equipment_model
+      label: Equipment Model
+      hint: Model of the equipment
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: manufacturer
+      label: Manufacturer
+      hint: Manufacturer of the equipment
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: serial_number
+      label: Serial Number
+      hint: Serial number of the equipment
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: next_inspection_due
+      label: Next Inspection Due
+      hint: Next inspection due date
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: maintenance_location
+      label: Maintenance Location
+      hint: Location of maintenance
+      type: select_multiple
+      options:
+      - On-site
+      - Off-site
+      required: false

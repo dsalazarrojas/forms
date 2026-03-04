@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Trainer Evaluation Survey
+    pages:
+    - id: 1
+      name: survey_form
+      label: Survey Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: trainer_professionalism
+      label: trainer_professionalism
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: trainer_communication
+      label: trainer_communication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: motivation
+      label: motivation
+      hint: null
+      type: select_one
+      options:
+      - '[{''id'': 1, ''name'': ''High'', ''value'': ''High''}, {''id'': 2, ''name'':
+        ''Medium'', ''value'': ''Medium''}, {''id'': 3, ''name'': ''Low'', ''value'':
+        ''Low''}]'
+      - Other
+      required: true
+    - id: 5
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - '[{''id'': 1, ''name'': ''Very Good'', ''value'': ''Very Good''}, {''id'':
+        2, ''name'': ''Good'', ''value'': ''Good''}, {''id'': 3, ''name'': ''Bad'',
+        ''value'': ''Bad''}]'
+      - Other
+      required: true
+    - id: 6
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: rating_scale
+      label: rating_scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: evaluation_date
+      label: evaluation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: evaluation_time
+      label: evaluation_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: additional_comments_2
+      label: additional_comments_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email_2
+      label: email_2
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone_number_2
+      label: phone_number_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: rating_scale_2
+      label: rating_scale_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: evaluation_date_2
+      label: evaluation_date_2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: evaluation_time_2
+      label: evaluation_time_2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: additional_comments_3
+      label: additional_comments_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: email_3
+      label: email_3
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: phone_number_3
+      label: phone_number_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: rating_scale_3
+      label: rating_scale_3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: evaluation_date_3
+      label: evaluation_date_3
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: evaluation_time_3
+      label: evaluation_time_3
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: additional_comments_4
+      label: additional_comments_4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: true

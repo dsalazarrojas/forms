@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tumbler Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: tumbler_type
+      label: Tumbler Type
+      hint: null
+      type: select_one
+      options:
+      - 18oz
+      - 20oz
+      - 32oz
+      required: true
+    - id: 7
+      name: tumbler_color
+      label: Tumbler Color
+      hint: null
+      type: select_one
+      options:
+      - blue
+      - red
+      - green
+      - purple
+      required: true
+    - id: 8
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: note
+      label: Special Instructions
+      hint: null
+      type: note
+      options: []
+      required: false

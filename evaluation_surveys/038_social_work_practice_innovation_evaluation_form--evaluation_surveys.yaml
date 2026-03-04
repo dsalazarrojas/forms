@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Work Practice Innovation Evaluation Form
+    pages:
+    - id: 1
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_one
+      options:
+      - Human Service Program
+      - Community Organization
+      - Community-Based Program
+      - Other
+      required: false
+    - id: 3
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - In-person Service
+      - Remote Service
+      - Online Service
+      - Combination
+      - Other
+      required: false
+    - id: 4
+      name: evaluation_period
+      label: Evaluation Period
+      hint: Select a specific date or a date range
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: Select a start date for the evaluation
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: Select an end date for the evaluation
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: evaluator_role
+      label: Evaluator Role
+      hint: null
+      type: select_one
+      options:
+      - Agency Staff
+      - Nonprofit Staff
+      - Community Leader
+      - Other
+      required: false
+    - id: 8
+      name: program_goals
+      label: Program Goals
+      hint: What are the goals of the program?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: evaluation_purpose
+      label: Evaluation Purpose
+      hint: null
+      type: select_one
+      options:
+      - Continuous Improvement
+      - Research
+      - Accountability
+      - Other
+      required: false
+    - id: 10
+      name: evaluation_method
+      label: Evaluation Method
+      hint: null
+      type: select_one
+      options:
+      - Self-Assessment
+      - Client Feedback
+      - External Review
+      - Mixed
+      required: false
+    - id: 11
+      name: evaluation_frequency
+      label: Evaluation Frequency
+      hint: null
+      type: select_one
+      options:
+      - Continuous
+      - One-time
+      - As Needed
+      - Other
+      required: false
+    - id: 12
+      name: program_fidelity
+      label: Program Fidelity
+      hint: How well did you implement the new program or intervention?
+      type: select_one
+      options:
+      - Not Implemented
+      - Partially Implemented
+      - Fully Implemented
+      required: false
+    - id: 13
+      name: program_adoption
+      label: Program Adoption
+      hint: null
+      type: select_one
+      options:
+      - Agency Staff
+      - Non-profit Staff
+      - Community Members
+      - Other
+      required: false
+    - id: 14
+      name: program_fidelity_adoption
+      label: Program Fidelity Adoption
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Some
+      - Most
+      - All
+      required: false
+    - id: 15
+      name: program_outcomes
+      label: Program Outcomes
+      hint: Select one or more outcomes that occurred
+      type: select_multiple
+      options:
+      - Improved Client Satisfaction
+      - Improved Service Delivery
+      - Improved Service Access
+      - Increased Community Engagement
+      - Improved Staff Morale
+      - Improved Program Efficiency
+      - Other
+      required: false
+    - id: 16
+      name: rating_of_effectiveness
+      label: Rating Of Effectiveness
+      hint: Rate your overall sense of whether the new program or intervention was
+        effective
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: rating_of_fidelity
+      label: Rating Of Fidelity
+      hint: Rate how well the new program or intervention was implemented
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: recommended_changes
+      label: Recommended Changes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: rating_of_satisfaction
+      label: Rating Of Satisfaction
+      hint: Rate your overall satisfaction with the new program or intervention
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: rating_of_improvement
+      label: Rating Of Improvement
+      hint: Rate the improvement of the new program or intervention
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: rating_of_implementation
+      label: Rating Of Implementation
+      hint: Rate the implementation of the new program or intervention
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: rating_of_sustainability
+      label: Rating Of Sustainability
+      hint: Rate the sustainability of the new program or intervention
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: final_comments
+      label: Final Comments
+      hint: null
+      type: text
+      options: []
+      required: false

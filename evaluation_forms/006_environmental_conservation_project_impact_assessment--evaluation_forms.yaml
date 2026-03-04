@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: environmental_conservation_project_impact_assessment
+    pages:
+    - id: 1
+      name: project_id
+      label: project_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: project_title
+      label: project_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_description
+      label: project_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_location
+      label: project_location
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 5
+      name: project_start_date
+      label: project_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: project_end_date
+      label: project_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: project_budget
+      label: project_budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: project_outcome
+      label: project_outcome
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 9
+      name: project_outcome_other
+      label: project_outcome_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: project_impact_area
+      label: project_impact_area
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 11
+      name: project_partners
+      label: project_partners
+      hint: null
+      type: text
+      options: []
+      required: false

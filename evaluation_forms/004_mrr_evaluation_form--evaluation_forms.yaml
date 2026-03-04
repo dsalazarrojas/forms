@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: MRR Evaluation Form
+    pages:
+    - id: 1
+      name: mrr_evaluation_form
+      label: Monthly Revenues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: month
+      label: Month
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''January''}'
+      - '{''label'': ''February''}'
+      - '{''label'': ''March''}'
+      - '{''label'': ''April''}'
+      - '{''label'': ''May''}'
+      - '{''label'': ''June''}'
+      - '{''label'': ''July''}'
+      - '{''label'': ''August''}'
+      - '{''label'': ''September''}'
+      - '{''label'': ''October''}'
+      - '{''label'': ''November''}'
+      - '{''label'': ''December''}'
+      required: false
+    - id: 3
+      name: year
+      label: Year
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 2022}'
+      - '{''label'': 2023}'
+      - '{''label'': 2024}'
+      required: false
+    - id: 4
+      name: revenue
+      label: Revenue
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: growth
+      label: Growth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: growth_rate
+      label: Growth Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: mrr
+      label: MRR
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: mrr_target
+      label: MRR Target
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: growth_driver
+      label: Growth Driver
+      hint: Select the main growth driver for the month
+      type: select_multiple
+      options:
+      - '{''label'': ''Increase in Average Revenue Per User (ARPU)''}'
+      - '{''label'': ''Increase in User Growth''}'
+      - '{''label'': ''Increase in Average Revenue Per User (ARPU) and Increase in
+        User Growth''}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false
+    - id: 13
+      name: next_steps
+      label: Next Steps
+      hint: List the next steps and key initiatives to achieve the MRR target
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''ChatJIMMY''}'
+      - '{''label'': ''Jane Doe''}'
+      required: false
+    - id: 15
+      name: reviewed_by
+      label: Reviewed By
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''ChatJIMMY''}'
+      - '{''label'': ''Jane Doe''}'
+      required: false

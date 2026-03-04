@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: count_me_in
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_birth
+      label: time_of_birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: enrollment_status
+      label: enrollment_status
+      hint: null
+      type: select_one
+      options:
+      - New comer
+      - Old comer
+      required: false
+    - id: 7
+      name: church_name
+      label: church_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - jimmy
+      required: false

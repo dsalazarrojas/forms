@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Screen Printing Order Form
+    pages:
+    - id: 1
+      name: customer_information
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_summary
+      label: Order Summary
+      hint: Please fill in all fields
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 3
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_info
+      label: Payment Information
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      required: false
+    - id: 6
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      required: false

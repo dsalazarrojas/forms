@@ -1,0 +1,128 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Church Assessment Survey
+    pages:
+      - id: 1
+        name: header_personal_connection
+        label: -- Personal Connection --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: membership_status
+        label: Are you a member of this church?
+        hint: null
+        type: select_one
+        options: [Member, Regular Attendee, Occasional Visitor, First-time Guest]
+        required: true
+      - id: 3
+        name: years_attending
+        label: How long have you been attending?
+        hint: null
+        type: select_one
+        options: [Less than 1 year, 1-3 years, 3-5 years, 5-10 years, Over 10 years]
+        required: true
+      - id: 4
+        name: age_range
+        label: Your Age Range
+        hint: null
+        type: select_one
+        options: [Under 18, 18-30, 31-45, 46-60, 61+]
+        required: false
+      - id: 5
+        name: header_spiritual_life
+        label: -- Spiritual Life and Ministry --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: spiritual_growth_satisfaction
+        label: Rate your satisfaction with your spiritual growth here
+        hint: null
+        type: select_one
+        options: [Very Satisfied, Satisfied, Neutral, Dissatisfied, Very Dissatisfied]
+        required: true
+      - id: 7
+        name: sermon_feedback
+        label: How helpful do you find the weekly sermons?
+        hint: null
+        type: select_one
+        options: [Extremely Helpful, Helpful, Somewhat, Not Helpful]
+        required: true
+      - id: 8
+        name: worship_experience
+        label: Rate the worship/music experience
+        hint: null
+        type: select_one
+        options: [Excellent, Good, Fair, Poor]
+        required: true
+      - id: 9
+        name: volunteer_participation
+        label: Are you currently serving in any ministry?
+        hint: null
+        type: select_one
+        options: [Yes - Regularly, Yes - Occasionally, No - But interested, No]
+        required: true
+      - id: 10
+        name: ministry_areas
+        label: Which ministry areas do you participate in?
+        hint: Select all that apply
+        type: select_multiple
+        options: [Worship Team, Children's Ministry, Youth Ministry, Outreach/Missions, Small Groups, Hospitality, Administration]
+        required: false
+      - id: 11
+        name: header_community
+        label: -- Community and Communication --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: feeling_welcomed
+        label: Do you feel welcomed and included in our community?
+        hint: null
+        type: select_one
+        options: [Always, Usually, Sometimes, Rarely, Never]
+        required: true
+      - id: 13
+        name: communication_effectiveness
+        label: Rate the effectiveness of our communication
+        hint: Newsletters, announcements, social media
+        type: select_one
+        options: [Excellent, Good, Needs Improvement]
+        required: true
+      - id: 14
+        name: facility_rating
+        label: How would you rate our physical facilities?
+        hint: Comfort, cleanliness, accessibility
+        type: select_one
+        options: [Excellent, Good, Fair, Poor]
+        required: true
+      - id: 15
+        name: top_priority_change
+        label: What is one thing you would change or improve?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: additional_comments
+        label: Any other feedback you'd like to share?
+        hint: null
+        type: text
+        options: []
+        required: false

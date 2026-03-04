@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Building Activity Success Assessment
+    pages:
+    - id: 1
+      name: team_building_activity_success_assessment
+      label: Activity Success Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_building_activity_success_rating
+      label: Rate the activity
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 3
+      name: team_building_participation_rating
+      label: Participation
+      hint: How likely are you to participate in this type of activity again?
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 4
+      name: team_building_activity_value
+      label: How valuable do you think this activity was?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: team_building_recommend_to_employees
+      label: Recommend to employees?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: team_building_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: team_building_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: team_building_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

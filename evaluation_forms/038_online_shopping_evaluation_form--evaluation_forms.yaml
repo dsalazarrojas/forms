@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Shopping Evaluation Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: evaluation_method
+      label: Evaluation Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Online Shopping''}'
+      - '{''id'': 2, ''name'': ''Offline Shopping''}'
+      - '{''id'': 3, ''name'': ''Store Visit''}'
+      required: false
+    - id: 3
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: review
+      label: Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rating_value
+      label: Rating Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recommended
+      label: Recommended
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 8
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false

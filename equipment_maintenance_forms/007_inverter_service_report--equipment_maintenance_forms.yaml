@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inverter Service Report
+    pages:
+    - id: 1
+      name: service_visit
+      label: Service Visit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: inverter_details
+      label: Inverter Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_visit_date
+      label: Service Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: service_person
+      label: Service Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_start_time
+      label: Service Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: diagnostics
+      label: Diagnostics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: completed_work
+      label: Completed Work
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: service_finish_time
+      label: Service Finish Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: service_person_signature
+      label: Service Person Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: service_person_name
+      label: Service Person Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: service_person_title
+      label: Service Person Title
+      hint: null
+      type: text
+      options: []
+      required: false

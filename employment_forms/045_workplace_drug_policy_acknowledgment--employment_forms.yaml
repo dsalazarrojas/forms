@@ -1,0 +1,79 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Drug Policy Acknowledgment
+    pages:
+    - id: 1
+      name: workplace_drug_policy_acknowledgment
+      label: Read and understand the workplace drug policy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: acknowledge
+      label: "I acknowledge that I have read and understand the company\u2019s workplace\
+        \ drug policy"
+      hint: null
+      type: select_one
+      options:
+      - "I have read and understand the company\u2019s workplace drug policy"
+      - "I have not read and understand the company\u2019s workplace drug policy"
+      required: false
+    - id: 3
+      name: confirm
+      label: Confirm your acknowledgment
+      hint: null
+      type: select_multiple
+      options:
+      - "I confirm I have read and understand the company\u2019s workplace drug policy"
+      - "I confirm I have not read and understand the company\u2019s workplace drug\
+        \ policy"
+      - I am unsure about the policy
+      required: false
+    - id: 4
+      name: confirm_date
+      label: Confirmation date
+      hint: Date of acknowledgment
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: signature
+      label: Employee signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date_signed
+      label: Date signed
+      hint: Date of signature
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: manager_signature
+      label: Manager signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: manager_confirm_date
+      label: Manager confirmation date
+      hint: "Date of manager\u2019s confirmation"
+      type: date
+      options: []
+      required: false

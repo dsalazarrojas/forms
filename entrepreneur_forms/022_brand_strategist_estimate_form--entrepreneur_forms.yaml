@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brand Strategist Estimate Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client name
+      hint: Name of client or company
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_scope
+      label: Project scope
+      hint: Brief description of scope
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: estimated_hours
+      label: Estimated hours
+      hint: Total consultant hours estimated
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: hourly_rate
+      label: Hourly rate
+      hint: Consultant hourly rate in local currency
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: total_estimate
+      label: Total estimate
+      hint: Estimated total cost
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: deliverables
+      label: Deliverables
+      hint: Key deliverables to be provided
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: timeline
+      label: Timeline
+      hint: Estimated project timeline
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: acceptance_email
+      label: Acceptance email
+      hint: Email used to accept estimate
+      type: email
+      options: []
+      required: true

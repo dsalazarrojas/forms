@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Billionaire Quiz
+    pages:
+    - id: 1
+      name: participant_header
+      label: -- Participant Information --
+      hint: Provide basic contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Full name
+      hint: Enter your name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: Email address
+      hint: Optional for results delivery
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: preferred_investment_style
+      label: Preferred investment style
+      hint: Choose the style that best matches you
+      type: select_one
+      options:
+      - Long term value investing
+      - Growth and scaling
+      - Private equity and buyouts
+      - Venture capital and startups
+      required: true
+    - id: 5
+      name: risk_tolerance
+      label: Risk tolerance
+      hint: Select the option that best describes you
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      - Aggressive
+      required: true
+    - id: 6
+      name: favorite_industry
+      label: Favorite industry to invest in
+      hint: Pick one industry
+      type: select_one
+      options:
+      - Technology
+      - Real estate
+      - Healthcare
+      - Consumer goods
+      - Energy
+      required: false
+    - id: 7
+      name: philanthropic_focus
+      label: Philanthropic focus areas
+      hint: Select any causes you support
+      type: select_multiple
+      options:
+      - Education
+      - Health care
+      - Environment
+      - Economic development
+      - Arts and culture
+      required: false
+    - id: 8
+      name: morning_routine
+      label: Morning routine preference
+      hint: Choose the statement that fits you best
+      type: select_one
+      options:
+      - Early start with planning and review
+      - Focus on exercise and wellbeing
+      - Networking and meetings
+      - Creative deep work
+      required: false
+    - id: 9
+      name: personal_confidence_score
+      label: Personal confidence score
+      hint: On a scale of 1 to 10 how confident are you in achieving big goals
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: quiz_comments
+      label: Comments about the quiz
+      hint: Optional reflections or thoughts
+      type: text
+      options: []
+      required: false

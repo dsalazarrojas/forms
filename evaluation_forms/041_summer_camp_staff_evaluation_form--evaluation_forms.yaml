@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: summer_camp_staff_evaluation_form
+    pages:
+    - id: 1
+      name: camper_name
+      label: Camper Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: camper_grade
+      label: grade
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: camper_performance
+      label: Performance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: camper_attendance
+      label: Attendance
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: camper_counselor
+      label: Counselor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: camper_conduct
+      label: Conduct
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: camper_hygiene
+      label: Hygiene
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: camper_dress
+      label: Dress Code
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: camper_food
+      label: Food
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: camper_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teaching Method Effectiveness Report Form
+    pages:
+    - id: 1
+      name: teaching_method_effectiveness_report_form
+      label: Teaching Method Report
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: teacher_name
+      label: Teacher
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: teacher_email
+      label: Teacher Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: teacher_phone
+      label: Teacher Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: teaching_method
+      label: Teaching Method
+      hint: null
+      type: select_one
+      options:
+      - method_1
+      - method_2
+      - method_3
+      required: false
+    - id: 6
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: class_period
+      label: Class Period
+      hint: null
+      type: select_one
+      options:
+      - period_1
+      - period_2
+      - period_3
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false

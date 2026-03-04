@@ -1,0 +1,48 @@
+inputSchema:
+  type: object
+  properties:
+    title: Snowboard Survey
+    pages:
+    - id: 1
+      name: snowboard_survey_form
+      label: snowboard_survey_form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: event_satisfaction
+      label: event_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 3
+      name: event_frequency
+      label: event_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: snowboard_type
+      label: snowboard_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: snowboard_interest
+      label: snowboard_interest
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

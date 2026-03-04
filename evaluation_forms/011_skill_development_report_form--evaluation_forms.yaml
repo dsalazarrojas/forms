@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skill Development Report Form
+    pages:
+    - id: 1
+      name: skill_development_report_form
+      label: Skill Development Report Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Evaluation Forms
+      - Other
+      required: false
+    - id: 3
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_output_file
+      label: Output File
+      hint: Enter file name without extension (e.g., form_name)
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: Assigned Tool
+      hint: Name of assigned tool
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: organization_name
+      label: Organization Name
+      hint: Enter organization name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: educator_name
+      label: Educator Name
+      hint: Enter educator name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: skill_progress
+      label: Skill Progress
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: feedback
+      label: Feedback
+      hint: Provide feedback
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: training_programs
+      label: Training Programs
+      hint: null
+      type: select_multiple
+      options:
+      - Program 1
+      - Program 2
+      - Program 3
+      required: false
+    - id: 11
+      name: evaluation_scale
+      label: Evaluation Scale
+      hint: null
+      type: select_one
+      options:
+      - Scale 1
+      - Scale 2
+      - Scale 3
+      required: false

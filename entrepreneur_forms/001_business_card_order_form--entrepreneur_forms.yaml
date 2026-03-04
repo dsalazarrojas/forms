@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Card Order Form
+    pages:
+    - id: 1
+      name: contact_section
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your complete first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: We will send order confirmation to this email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact number for order follow-up
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Name of your business or organization
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: Your position within the company
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: company_website
+      label: Company Website
+      hint: Your business website URL
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: website_section
+      label: -- Card Design Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: card_quantity
+      label: Quantity of Cards
+      hint: Number of business cards to order
+      type: select_one
+      options:
+      - '250'
+      - '500'
+      - '1000'
+      - '2000'
+      - '5000'
+      required: true
+    - id: 10
+      name: card_finish
+      label: Card Finish Type
+      hint: Choose your preferred finish quality
+      type: select_one
+      options:
+      - Gloss
+      - Matte
+      - Linen
+      - Glossy Foil
+      required: true
+    - id: 11
+      name: card_color
+      label: Preferred Color Scheme
+      hint: Select the primary color for your cards
+      type: select_one
+      options:
+      - Standard Black and White
+      - Full Color
+      - Custom Colors
+      required: true
+    - id: 12
+      name: design_upload
+      label: Design Upload
+      hint: Optional - attach your business card design file
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: shipping_section
+      label: -- Shipping Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: shipping_address
+      label: Street Address
+      hint: Your delivery address
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: state_province
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: postal_code
+      label: Postal Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: shipping_method
+      label: Shipping Method
+      hint: Select your preferred delivery option
+      type: select_one
+      options:
+      - Standard (5-7 business days)
+      - Express (2-3 business days)
+      - Overnight
+      required: true
+    - id: 20
+      name: payment_section
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: payment_method
+      label: Payment Method
+      hint: Choose how you will pay for your order
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      required: true
+    - id: 22
+      name: billing_address_same
+      label: Is billing address same as shipping address?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: terms_accepted
+      label: I accept the terms and conditions
+      hint: You must accept to proceed with your order
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

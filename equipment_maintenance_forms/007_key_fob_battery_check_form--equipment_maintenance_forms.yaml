@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Key Fob Battery Check Form
+    pages:
+    - id: 1
+      name: form_1
+      label: key_fob_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_2
+      label: battery_condition
+      hint: null
+      type: select_one
+      options:
+      - Batteries are good
+      - Batteries are dead
+      required: false
+    - id: 3
+      name: form_3
+      label: battery_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: form_4
+      label: notes_section
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: form_5
+      label: follow_up_action
+      hint: null
+      type: select_multiple
+      options:
+      - No action needed
+      - Replace batteries
+      - Recommend replacement
+      required: false
+    - id: 6
+      name: form_6
+      label: next_check_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: form_7
+      label: next_check_interval
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: form_8
+      label: key_fob_status
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Faulty
+      - Missing
+      required: false
+    - id: 9
+      name: form_9
+      label: equipment_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Retired
+      required: false
+    - id: 10
+      name: form_10
+      label: equipment_type
+      hint: null
+      type: select_one
+      options:
+      - Fleet Vehicle
+      - Key Fob
+      required: false
+    - id: 11
+      name: form_11
+      label: vehicle_make
+      hint: null
+      type: select_one
+      options:
+      - Acura
+      - Audi
+      - BMW
+      - etc.
+      required: false
+    - id: 12
+      name: form_12
+      label: vehicle_model
+      hint: null
+      type: select_one
+      options:
+      - Some Model
+      - Other Model
+      required: false

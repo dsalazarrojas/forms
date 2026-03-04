@@ -1,0 +1,163 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Audit Transparency Evaluation Survey
+    pages:
+      - id: 1
+        name: evaluation_date
+        label: Evaluation Date
+        hint: When is this evaluation being completed
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: evaluator_name
+        label: Evaluator Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: role_title
+        label: Your Role/Title
+        hint: Position in the organization
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: evaluated_audit
+        label: Audit Being Evaluated
+        hint: Name or ID of the audit
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: audit_completion_date
+        label: When Was the Audit Completed
+        hint: Date the audit concluded
+        type: date
+        options: []
+        required: false
+      - id: 6
+        name: finding_clarity
+        label: Clarity of Audit Findings
+        hint: How clearly were findings explained
+        type: select_one
+        options: ['Very Unclear', 'Unclear', 'Somewhat Clear', 'Clear', 'Very Clear']
+        required: true
+      - id: 7
+        name: recommendation_clarity
+        label: Clarity of Recommendations
+        hint: Were recommendations well explained
+        type: select_one
+        options: ['Very Unclear', 'Unclear', 'Somewhat Clear', 'Clear', 'Very Clear']
+        required: true
+      - id: 8
+        name: evidence_presentation
+        label: Evidence Presentation Quality
+        hint: How well was supporting evidence presented
+        type: select_one
+        options: ['Poor', 'Below Average', 'Average', 'Good', 'Excellent']
+        required: true
+      - id: 9
+        name: communication_transparency
+        label: Overall Communication Transparency
+        hint: How transparent was the audit communication
+        type: select_one
+        options: ['Very Non-Transparent', 'Non-Transparent', 'Somewhat Transparent', 'Transparent', 'Very Transparent']
+        required: true
+      - id: 10
+        name: timeline_transparency
+        label: Transparency About Timeline
+        hint: Were audit timelines communicated clearly
+        type: select_one
+        options: ['Not At All', 'Minimally', 'Somewhat', 'Mostly', 'Completely']
+        required: true
+      - id: 11
+        name: cost_transparency
+        label: Transparency About Costs
+        hint: Were audit costs clearly disclosed
+        type: select_one
+        options: ['Not Disclosed', 'Vague', 'Partially Clear', 'Clear', 'Very Clear']
+        required: false
+      - id: 12
+        name: methodology_explanation
+        label: Explanation of Audit Methodology
+        hint: Was the audit approach well explained
+        type: select_one
+        options: ['Not Explained', 'Poorly Explained', 'Somewhat Explained', 'Well Explained', 'Excellently Explained']
+        required: true
+      - id: 13
+        name: scope_clarity
+        label: Clarity of Audit Scope
+        hint: Was scope of audit clearly defined
+        type: select_one
+        options: ['Very Unclear', 'Unclear', 'Somewhat Clear', 'Clear', 'Very Clear']
+        required: true
+      - id: 14
+        name: limitation_disclosure
+        label: Disclosure of Audit Limitations
+        hint: Were limitations clearly stated
+        type: select_one
+        options: ['Not Disclosed', 'Partially Disclosed', 'Mostly Disclosed', 'Fully Disclosed']
+        required: true
+      - id: 15
+        name: open_communication
+        label: Openness to Questions
+        hint: Were auditors open to discussing findings
+        type: select_one
+        options: ['Very Closed', 'Closed', 'Somewhat Open', 'Open', 'Very Open']
+        required: true
+      - id: 16
+        name: progress_updates
+        label: Progress Updates During Audit
+        hint: Were progress updates provided
+        type: select_one
+        options: ['No Updates', 'Rare Updates', 'Occasional Updates', 'Regular Updates', 'Frequent Updates']
+        required: true
+      - id: 17
+        name: conflict_of_interest
+        label: Transparency About Conflicts of Interest
+        hint: Were potential conflicts disclosed
+        type: select_one
+        options: ['Not Disclosed', 'Vague', 'Somewhat Clear', 'Clear', 'Very Clear']
+        required: false
+      - id: 18
+        name: report_accessibility
+        label: Accessibility of Final Report
+        hint: How easy was it to access the report
+        type: select_one
+        options: ['Very Difficult', 'Difficult', 'Neutral', 'Easy', 'Very Easy']
+        required: true
+      - id: 19
+        name: overall_transparency
+        label: Overall Transparency Rating
+        hint: General assessment of audit transparency
+        type: select_one
+        options: ['Very Poor', 'Poor', 'Average', 'Good', 'Excellent']
+        required: true
+      - id: 20
+        name: improvement_suggestions
+        label: Suggestions for Improving Transparency
+        hint: How could transparency be improved
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other thoughts on audit transparency
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audio Coordinator Staff Contract
+    pages:
+    - id: 1
+      name: section_staff
+      label: -- Staff Member Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: staff_full_name
+      label: Staff Member Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: staff_address
+      label: Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: staff_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: staff_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_project
+      label: -- Project Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: project_name
+      label: Project or Production Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: role_description
+      label: Specific Role and Duties
+      hint: Detailed description of responsibilities
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: start_date
+      label: Contract Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: end_date
+      label: Contract End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: section_compensation
+      label: -- Compensation and Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: pay_rate
+      label: Agreed Pay Rate
+      hint: e.g., $50-hr or $400-day
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: payment_schedule
+      label: Payment Schedule
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Net 30
+      - 50% Upfront - 50% Completion
+      required: true
+    - id: 14
+      name: section_legal
+      label: -- Legal Agreements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: equipment_responsibility
+      label: I accept responsibility for provided equipment
+      hint: null
+      type: select_one
+      options:
+      - I Accept
+      - I Decline
+      required: true
+    - id: 16
+      name: confidentiality_clause
+      label: I agree to the non-disclosure terms
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 17
+      name: digital_signature
+      label: Digital Signature (Type Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: signature_date
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true

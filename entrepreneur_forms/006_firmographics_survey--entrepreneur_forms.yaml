@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: firmographics_survey
+    pages:
+    - id: 1
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: number_employees
+      label: number_employees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: industry
+      label: industry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_type
+      label: company_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: founded
+      label: founded
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: revenue_range
+      label: revenue_range
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: employee_range
+      label: employee_range
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: company_size
+      label: company_size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: company_status
+      label: company_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: business_focus
+      label: business_focus
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: website
+      label: website
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Process Grounding Check Form
+    pages:
+    - id: 1
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: inspector_name
+      label: Inspector Name
+      hint: Your Name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: grounding_system_description
+      label: Grounding System Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: grounding_system_type
+      label: Grounding System Type
+      hint: null
+      type: select_one
+      options:
+      - Electrical
+      - Mechanical
+      - Grounding
+      required: false
+    - id: 5
+      name: system_location
+      label: System Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: system_elevation
+      label: System Elevation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: grounding_points_count
+      label: Grounding Points Count
+      hint: Count
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: grounding_points_description
+      label: Grounding Points Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: grounding_points_inspection
+      label: Grounding Points Inspection
+      hint: null
+      type: select_multiple
+      options:
+      - Pass
+      - Fail
+      - N/A
+      required: false
+    - id: 10
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: inspection_time
+      label: Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: issues_identified
+      label: Issues Identified
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: action_plan_description
+      label: Action Plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: submitter
+      label: Submitter
+      hint: Your Name
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: submitter_email
+      label: Submitter E-mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: select_one
+      options:
+      - Maintenance
+      - EHS
+      - Engineering
+      required: false
+    - id: 18
+      name: submitter_job_title
+      label: Submitter Job Title
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: reviewer_department
+      label: Reviewer Department
+      hint: null
+      type: select_one
+      options:
+      - Maintenance
+      - EHS
+      - Engineering
+      required: false
+    - id: 21
+      name: reviewer_job_title
+      label: Reviewer Job Title
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: submitter_comments
+      label: Submitter Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: Your Comments
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: true

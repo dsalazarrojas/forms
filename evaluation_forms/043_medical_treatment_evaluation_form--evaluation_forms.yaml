@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Treatment Evaluation Form
+    pages:
+    - id: 1
+      name: patient_feedback
+      label: Patient Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_treatment_id
+      label: Medical Treatment Id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rating_score
+      label: Rating Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 5
+      name: treatment_effectiveness
+      label: Treatment Effectiveness
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: follow_up_care
+      label: Follow up Care
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: provider_quality
+      label: Provider Quality
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 8
+      name: medical_professionalism
+      label: Medical Professionalism
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: communication
+      label: Communication
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: clinic_environment
+      label: Clinic Environment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: staff_friendly
+      label: Staff Friendly
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: parking_facilities
+      label: Parking Facilities
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: waiting_time
+      label: Waiting Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: medical_professionalism_2
+      label: Medical Professionalism 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: staff_quality
+      label: Staff Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 16
+      name: cleanliness_facilities
+      label: Cleanliness Facilities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: equipment_availability
+      label: Equipment Availability
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

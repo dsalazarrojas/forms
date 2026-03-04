@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Granny Home Survey
+    pages:
+    - id: 1
+      name: granny_flat
+      label: Is the granny flat
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: granny_flat_use
+      label: Use of granny flat
+      hint: Describe the use of the granny flat
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: granny_flat_investment
+      label: How much money you spent on the granny flat
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: granny_flat_return
+      label: Return on investment
+      hint: Please rate the return on investment of the granny flat
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: granny_flat_installation
+      label: How difficult was the installation
+      hint: Rate the difficulty of installation on a scale from 1 to 5
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 6
+      name: granny_flat_investment_planning
+      label: How much planning was required
+      hint: Rate the planning required for the installation on a scale from 1 to 5
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 7
+      name: granny_flat_future
+      label: Will you consider building a granny flat in the future?
+      hint: Yes or no
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Party Rental Agreement Form
+    pages:
+    - id: 1
+      name: party_rental_form
+      label: Party Rental Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: party_space
+      label: Party Space
+      hint: Enter party space details
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: party_date
+      label: Party Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: party_time
+      label: Party Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: party_guests
+      label: Party Guests
+      hint: Enter number of party guests
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: party_food
+      label: Party Food
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: party_drinks
+      label: Party Drinks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: party_equipment
+      label: Party Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: party_catering
+      label: Party Catering
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: party_notes
+      label: Party Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: party_agreement
+      label: Party Agreement
+      hint: Check for agreement
+      type: select_one
+      options:
+      - Party Equipment Rental Agreement
+      - Party Space Rental Agreement
+      - Party Catering Contract
+      required: true
+    - id: 12
+      name: party_signature
+      label: Party Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: party_email
+      label: Party Email
+      hint: null
+      type: email
+      options: []
+      required: false

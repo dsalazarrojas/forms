@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Shift Report Template
+    pages:
+    - id: 1
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: work_date
+      label: work_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_location
+      label: start_location
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Office
+      required: false
+    - id: 5
+      name: end_location
+      label: end_location
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Office
+      required: false
+    - id: 6
+      name: work_hours
+      label: work_hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: shift_notes
+      label: shift_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false

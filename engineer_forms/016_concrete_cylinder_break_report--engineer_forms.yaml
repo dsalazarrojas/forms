@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Concrete Cylinder Break Report
+    pages:
+    - id: 1
+      name: lab_technician
+      label: Laboratory technician name
+      hint: Person conducting the test
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_reference
+      label: Project reference
+      hint: Project name or job number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: sample_id
+      label: Sample identifier
+      hint: Unique sample ID for the cylinder
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: cast_date
+      label: Cast date
+      hint: Date cylinder was cast
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: break_date
+      label: Break date
+      hint: Date cylinder was tested to failure
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: specimen_dimensions
+      label: Specimen dimensions mm
+      hint: Diameter and height in millimeters
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: load_at_failure
+      label: Load at failure kN
+      hint: Peak load recorded during test
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: compressive_strength
+      label: Calculated compressive strength MPa
+      hint: Compressive strength calculated from load and dimensions
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: break_type
+      label: Type of break observed
+      hint: Typical, shear, split, or other
+      type: select_one
+      options:
+      - Typical
+      - Shear
+      - Split
+      - Other
+      required: false
+    - id: 10
+      name: remarks
+      label: Remarks and observations
+      hint: Any anomalies or comments about the test
+      type: text
+      options: []
+      required: false

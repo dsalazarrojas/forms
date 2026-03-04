@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Threat Assessment Form
+    pages:
+    - id: 1
+      name: threat_assessment_form_1
+      label: threat_assessment_form_1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: threat_level
+      label: threat_level_label
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Low''}'
+      - '{''id'': 2, ''name'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''High''}'
+      required: false
+    - id: 3
+      name: threat_category
+      label: threat_category_label
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Cyber''}'
+      - '{''id'': 2, ''name'': ''Physical''}'
+      - '{''id'': 3, ''name'': ''Environmental''}'
+      - '{''id'': 4, ''name'': ''Social''}'
+      required: false
+    - id: 4
+      name: threat_frequency
+      label: threat_frequency_label
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Rare''}'
+      - '{''id'': 2, ''name'': ''Occasional''}'
+      - '{''id'': 3, ''name'': ''Frequent''}'
+      required: false
+    - id: 5
+      name: threat_impact
+      label: threat_impact_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: threat_probability
+      label: threat_probability_label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: threat_risk_level
+      label: threat_risk_level_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: threat_assessment
+      label: threat_assessment_label
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Accepted''}'
+      - '{''id'': 2, ''name'': ''Recommended''}'
+      - '{''id'': 3, ''name'': ''Not Recommended''}'
+      required: false
+    - id: 9
+      name: mitigation_plan
+      label: mitigation_plan_label
+      hint: null
+      type: text
+      options: []
+      required: false

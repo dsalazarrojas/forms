@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Player Ratings Form
+    pages:
+    - id: 1
+      name: match_date
+      label: Match Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: player_rating
+      label: Player Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: exercise_name
+      label: Exercise Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: score_1
+      label: Score 1
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: score_2
+      label: Score 2
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: score_3
+      label: Score 3
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: exercise_level
+      label: Exercise Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 9
+      name: score_4
+      label: Score 4
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: score_5
+      label: Score 5
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: evaluation_type
+      label: Evaluation Type
+      hint: null
+      type: select_one
+      options:
+      - Match
+      - Exercise
+      required: true
+    - id: 12
+      name: exercise_duration
+      label: Exercise Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: rating_comment
+      label: Rating Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: player_1_rating
+      label: Player 1 Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: player_2_rating
+      label: Player 2 Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: player_3_rating
+      label: Player 3 Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: player_1_score
+      label: Player 1 Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: player_2_score
+      label: Player 2 Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: player_3_score
+      label: Player 3 Score
+      hint: null
+      type: number
+      options: []
+      required: false

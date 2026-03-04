@@ -1,0 +1,296 @@
+inputSchema:
+  type: object
+  properties:
+    title: Caregiver Assessment Form
+    pages:
+    - id: 1
+      name: caregiver_name
+      label: Caregiver Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: assessment_date
+      label: Date of Assessment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: care_recipient_name
+      label: Care Recipient Name
+      hint: Person being cared for
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: relationship
+      label: Relationship to Care Recipient
+      hint: Family member, professional, friend, etc.
+      type: select_one
+      options:
+      - Spouse or partner
+      - Adult child
+      - Parent
+      - Sibling
+      - Other family member
+      - Friend or neighbor
+      - Professional caregiver
+      - Paid helper
+      required: true
+    - id: 5
+      name: caregiving_duration
+      label: Duration of Caregiving
+      hint: How long have you been the primary caregiver?
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: caregiving_frequency
+      label: Frequency of Caregiving
+      hint: How many hours per day or week?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: caregiving_type
+      label: Type of Care Provided
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Personal hygiene and grooming
+      - Bathing and toileting
+      - Dressing and undressing
+      - Medication management
+      - Meal preparation and feeding
+      - Transportation
+      - Financial management
+      - Medical appointments
+      - Emotional support
+      - Supervision and monitoring
+      - Physical therapy or exercise
+      - Wound care
+      required: true
+    - id: 8
+      name: care_recipient_condition
+      label: Primary Health Condition of Care Recipient
+      hint: Main illness or disability
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: care_recipient_mobility
+      label: Care Recipient Mobility Status
+      hint: Ability to move independently
+      type: select_one
+      options:
+      - Fully independent
+      - Minimal assistance needed
+      - Moderate assistance needed
+      - Total assistance needed
+      - Bedridden
+      required: true
+    - id: 10
+      name: care_recipient_cognition
+      label: Care Recipient Cognitive Status
+      hint: Memory, awareness, understanding
+      type: select_one
+      options:
+      - Alert and oriented
+      - Minor confusion
+      - Moderate dementia
+      - Severe dementia
+      - Unable to assess
+      required: true
+    - id: 11
+      name: caregiver_age
+      label: Caregiver Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: caregiver_health
+      label: Caregiver Overall Health Status
+      hint: How is your own health?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Have chronic health conditions
+      required: true
+    - id: 13
+      name: caregiver_health_conditions
+      label: Caregiver Health Conditions
+      hint: List any chronic conditions or limitations
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: physical_demands
+      label: Physical Demands of Caregiving
+      hint: How physically demanding is the care?
+      type: select_one
+      options:
+      - Minimal physical demands
+      - Moderate physical demands
+      - Heavy physical demands
+      - Very heavy - including lifting/transfers
+      required: true
+    - id: 15
+      name: emotional_stress
+      label: Emotional and Mental Stress Level
+      hint: How stressful is your caregiving role?
+      type: select_one
+      options:
+      - Minimal stress
+      - Moderate stress
+      - High stress
+      - Severe stress
+      - Crisis level
+      required: true
+    - id: 16
+      name: financial_impact
+      label: Financial Impact of Caregiving
+      hint: How has caregiving affected finances?
+      type: select_one
+      options:
+      - No negative impact
+      - Minor impact
+      - Moderate impact
+      - Significant impact
+      - Severe financial strain
+      required: true
+    - id: 17
+      name: social_isolation
+      label: Social Isolation or Loneliness
+      hint: Has caregiving isolated you socially?
+      type: select_one
+      options:
+      - Not isolated - maintain social life
+      - Minimal isolation
+      - Moderate isolation
+      - Significant isolation
+      - Severe social isolation
+      required: true
+    - id: 18
+      name: employment_impact
+      label: Impact on Employment
+      hint: How has caregiving affected your work?
+      type: select_one
+      options:
+      - No impact - work unaffected
+      - Minor impact - manageable
+      - Moderate impact - had to adjust schedule
+      - Significant impact - reduced hours
+      - Severe impact - left job or on leave
+      required: false
+    - id: 19
+      name: support_system
+      label: Support System Available
+      hint: Who helps you with caregiving?
+      type: select_multiple
+      options:
+      - Family members
+      - Friends or neighbors
+      - Professional services
+      - Community resources
+      - Support groups
+      - Religious or spiritual community
+      - Healthcare providers
+      - No support available
+      required: true
+    - id: 20
+      name: respite_care_access
+      label: Access to Respite Care
+      hint: Do you get breaks from caregiving?
+      type: select_one
+      options:
+      - Regular respite care available
+      - Occasional respite care
+      - Rarely get breaks
+      - No respite care available
+      required: true
+    - id: 21
+      name: training_needs
+      label: Training or Skills Needed
+      hint: What skills would help you?
+      type: select_multiple
+      options:
+      - Basic care techniques
+      - Medication administration
+      - Patient lifting and transfers
+      - Dementia care strategies
+      - Pain management support
+      - End-of-life care
+      - Communication skills
+      - Stress management
+      - Financial planning
+      - None - adequately trained
+      required: false
+    - id: 22
+      name: resource_needs
+      label: Resources or Support You Need Most
+      hint: Select top 3 priorities
+      type: select_multiple
+      options:
+      - Financial assistance
+      - Respite care
+      - Mental health counseling
+      - Support groups
+      - In-home help
+      - Equipment or technology
+      - Medical advice or training
+      - Legal or financial planning
+      - Transportation assistance
+      - Home modifications
+      required: true
+    - id: 23
+      name: coping_strategies
+      label: Coping Strategies Used
+      hint: How do you manage stress?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: self_care
+      label: How Often Do You Engage in Self-Care?
+      hint: null
+      type: select_one
+      options:
+      - Regularly - prioritize self-care
+      - Sometimes - occasional self-care
+      - Rarely - neglect self-care
+      - Never - no time for self-care
+      required: true
+    - id: 25
+      name: risk_assessment
+      label: Safety Concerns or Risk Factors
+      hint: Any dangers or vulnerabilities?
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: future_planning
+      label: Plans for Long-Term Care Arrangements
+      hint: Sustainability of current arrangement?
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: cultural_considerations
+      label: Cultural or Spiritual Factors
+      hint: Important cultural practices or beliefs
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: additional_information
+      label: Additional Information
+      hint: Any other details about your caregiving situation?
+      type: text
+      options: []
+      required: false

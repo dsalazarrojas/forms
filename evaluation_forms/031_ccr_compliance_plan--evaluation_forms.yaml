@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skyview Estates CCR Compliance Plan
+    pages:
+    - id: 1
+      name: compliance_intro
+      label: -- Property Compliance Self-Assessment --
+      hint: Please review the Skyview Estates Covenants, Conditions, and Restrictions
+        (CCRs) and complete this form.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: homeowner_name_ccr
+      label: Homeowner Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: property_address_ccr
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: lot_number_ccr
+      label: Lot Number
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: landscaping_compliance
+      label: Landscaping and Lawn Maintenance
+      hint: Is your lawn mowed and free of weeds/overgrowth?
+      type: select_one
+      options:
+      - Compliant
+      - Needs Improvement
+      - Not Compliant
+      required: true
+    - id: 6
+      name: exterior_paint_compliance
+      label: Exterior Paint and Siding Condition
+      hint: No visible peeling, fading, or damage.
+      type: select_one
+      options:
+      - Compliant
+      - Needs Improvement
+      - Not Compliant
+      required: true
+    - id: 7
+      name: parking_compliance
+      label: Parking and Vehicle Storage
+      hint: Vehicles must be in garage or driveway, no street parking overnight.
+      type: select_one
+      options:
+      - Compliant
+      - Needs Improvement
+      - Not Compliant
+      required: true
+    - id: 8
+      name: trash_bin_compliance
+      label: Trash and Recycling Bin Storage
+      hint: Bins must be stored out of sight when not at curb.
+      type: select_one
+      options:
+      - Compliant
+      - Needs Improvement
+      - Not Compliant
+      required: true
+    - id: 9
+      name: signage_compliance
+      label: Signage and Holiday Decorations
+      hint: Compliance with decoration and signage timelines.
+      type: select_one
+      options:
+      - Compliant
+      - Needs Improvement
+      - Not Compliant
+      required: true
+    - id: 10
+      name: fence_condition_compliance
+      label: Fence Condition and Height
+      hint: Structural integrity and approved materials.
+      type: select_one
+      options:
+      - Compliant
+      - Needs Improvement
+      - Not Compliant
+      - No Fence
+      required: true
+    - id: 11
+      name: remedial_action_plan
+      label: Description of Remedial Actions
+      hint: If any area is not compliant, explain your plan to fix it.
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: estimated_completion_date_ccr
+      label: Target Date for Full Compliance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: request_for_arc_review
+      label: Do you need to submit a project for Architectural Review Committee (ARC)
+        approval?
+      hint: For structural changes, painting, or major landscaping.
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: homeowner_signature_ccr
+      label: Homeowner Digital Acknowledgment
+      hint: I certify that I have reviewed the CCRs and my property status.
+      type: select_one
+      options:
+      - I Acknowledge and Agree
+      - Other
+      required: true
+    - id: 15
+      name: compliance_submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

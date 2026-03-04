@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: NGO Accountability Rating Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: transparency
+      label: transparency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: engagement
+      label: engagement
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: accountability_practices
+      label: accountability_practices
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: impact_assessment
+      label: impact_assessment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: governance_review
+      label: governance_review
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: stakeholder_feedback
+      label: stakeholder_feedback
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: email_input
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone_input
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: rating_1
+      label: rating 1
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: rating_2
+      label: rating 2
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: rating_3
+      label: rating 3
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: rating_4
+      label: rating 4
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: rating_5
+      label: rating 5
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: total_score
+      label: total score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

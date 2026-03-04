@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: gearbox_design_feedback_form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: ratings
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rating_scale
+      label: Rating scale
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 6
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

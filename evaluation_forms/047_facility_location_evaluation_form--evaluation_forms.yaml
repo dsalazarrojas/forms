@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Location Evaluation Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: introduction
+      label: Facility Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: facility_phone
+      label: Facility Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: facility_email
+      label: Facility Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: location_map_url
+      label: Location Map URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: location_map
+      label: Location Map
+      hint: null
+      type: select_one
+      options:
+      - Satellite
+      - Mapbox
+      - Google
+      - Mapquest
+      required: false
+    - id: 8
+      name: location_map_scale
+      label: Location Map Scale
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '500'
+      - '1000'
+      - '2000'
+      - '3000'
+      required: false
+    - id: 9
+      name: location_map_zoom
+      label: Location Map Zoom
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false
+    - id: 10
+      name: location_map_type
+      label: Location Map Type
+      hint: null
+      type: select_one
+      options:
+      - Road Map
+      - Satellite Map
+      - Hybrid Map
+      - Terrain Map
+      required: false

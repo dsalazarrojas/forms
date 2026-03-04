@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Leadership Network Feedback
+    pages:
+    - id: 1
+      name: leadership_programs
+      label: Leadership programs
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: experiences
+      label: Experiences
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Strongly agree''}'
+      - '{''value'': ''Moderately agree''}'
+      - '{''value'': ''Neutral''}'
+      - '{''value'': ''Weakly agree''}'
+      - '{''value'': ''Strongly disagree''}'
+      required: false
+    - id: 3
+      name: communication
+      label: Communication
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Poor''}'
+      required: false
+    - id: 4
+      name: events
+      label: Events
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Frequently attend''}'
+      - '{''value'': ''Occasionally attend''}'
+      - '{''value'': ''Rarely attend''}'
+      - '{''value'': ''Never attend''}'
+      required: false
+    - id: 5
+      name: communication_channels
+      label: Communication channels
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Email''}'
+      - '{''value'': ''Phone''}'
+      - '{''value'': ''In-person''}'
+      - '{''value'': ''Online''}'
+      required: false
+    - id: 6
+      name: leadership_development
+      label: Leadership development
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Strongly agree''}'
+      - '{''value'': ''Moderately agree''}'
+      - '{''value'': ''Neutral''}'
+      - '{''value'': ''Weakly agree''}'
+      - '{''value'': ''Strongly disagree''}'
+      required: false
+    - id: 7
+      name: engagement_opportunities
+      label: Engagement opportunities
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Frequently''}'
+      - '{''value'': ''Occasionally''}'
+      - '{''value'': ''Rarely''}'
+      - '{''value'': ''Never''}'
+      required: false
+    - id: 8
+      name: overall_satisfaction
+      label: Overall satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Very satisfied''}'
+      - '{''value'': ''Satisfied''}'
+      - '{''value'': ''Neutral''}'
+      - '{''value'': ''Dissatisfied''}'
+      - '{''value'': ''Very dissatisfied''}'
+      required: false
+    - id: 9
+      name: open_ended_comments
+      label: Open-ended comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

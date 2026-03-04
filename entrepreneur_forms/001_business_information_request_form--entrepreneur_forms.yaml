@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Information Request Form
+    pages:
+    - id: 1
+      name: section_requester_info
+      label: -- Requester Information --
+      type: note
+      required: false
+    - id: 2
+      name: requester_company_name
+      label: Your Company Name
+      hint: The name of the business requesting information
+      type: text
+      required: true
+    - id: 3
+      name: requester_full_name
+      label: Your Full Name
+      hint: Your complete name
+      type: text
+      required: true
+    - id: 4
+      name: requester_email
+      label: Email Address
+      hint: A valid email address for contact
+      type: email
+      required: true
+    - id: 5
+      name: requester_phone
+      label: Phone Number
+      hint: Business or personal contact number
+      type: text
+      required: true
+    - id: 6
+      name: section_target_business
+      label: -- Target Business Information --
+      type: note
+      required: false
+    - id: 7
+      name: target_business_name
+      label: Business Name to Inquire About
+      hint: Name of the business you want information on
+      type: text
+      required: true
+    - id: 8
+      name: target_business_type
+      label: Business Type
+      hint: Category of the target business
+      type: select_one
+      options:
+      - Retail
+      - Manufacturing
+      - Services
+      - Technology
+      - Healthcare
+      - Other
+      required: true
+    - id: 9
+      name: target_business_location
+      label: Business Location
+      hint: City, state, or region
+      type: text
+      required: false
+    - id: 10
+      name: section_request_details
+      label: -- Request Details --
+      type: note
+      required: false
+    - id: 11
+      name: information_needed
+      label: What Information Are You Requesting
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Contact Information
+      - Financial Records
+      - Business Registration
+      - Product Catalog
+      - Services Offered
+      - Pricing Information
+      required: true
+    - id: 12
+      name: request_purpose
+      label: Purpose of Request
+      hint: Why do you need this information
+      type: select_one
+      options:
+      - Business Partnership
+      - Market Research
+      - Vendor Evaluation
+      - Competitive Analysis
+      - Networking
+      - Other Purpose
+      required: true
+    - id: 13
+      name: additional_details
+      label: Additional Details
+      hint: Any specific information or context
+      type: text
+      required: false
+    - id: 14
+      name: requested_by_date
+      label: Date Information Needed By
+      hint: When do you need a response
+      type: date
+      required: false
+    - id: 15
+      name: authorization_consent
+      label: I authorize this information request
+      hint: By checking, you confirm the accuracy of your information
+      type: select_one
+      options:
+      - Yes, I authorize this request
+      - No, I do not authorize
+      required: true

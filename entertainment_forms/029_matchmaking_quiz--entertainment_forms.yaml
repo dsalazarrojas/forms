@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Matchmaking Quiz
+    pages:
+    - id: 1
+      name: intro
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: interests
+      label: interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: personality
+      label: personality
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: preferences
+      label: lifestyle preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: goals
+      label: relationship goals
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: values
+      label: core values
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: relationship_status
+      label: relationship status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 8
+      name: match_percentage
+      label: match percentage
+      hint: null
+      type: number
+      options: []
+      required: false

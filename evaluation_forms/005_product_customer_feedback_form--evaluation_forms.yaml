@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Customer Feedback Form
+    pages:
+    - id: 1
+      name: customer_feedback_survey
+      label: Customer Feedback Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_rating
+      label: Product Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: feedback_message
+      label: What do you like about this product?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: what_dont_like
+      label: What do you not like about this product?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product_service
+      label: Product Service
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Good''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Bad''}'
+      required: false
+    - id: 6
+      name: customer_service
+      label: Customer Service
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Good''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Bad''}'
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: feedback_form_submitted
+      label: Feedback Form Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: feedback_form_submitted_time
+      label: Feedback Form Submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: customer_service_rating
+      label: Customer Service Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: customer_service_improvement
+      label: Customer Service Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_service_improvement_list
+      label: Customer Service Improvement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very Good''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Bad''}'
+      required: false
+    - id: 14
+      name: contact_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_jobtitle
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: product_version
+      label: Product Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: product_purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: product_purchase_time
+      label: Purchase Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: submit_feedback
+      label: Submit Feedback
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false

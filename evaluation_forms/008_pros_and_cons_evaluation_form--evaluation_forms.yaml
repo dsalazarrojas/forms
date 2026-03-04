@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: pros_and_cons_evaluation_form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pros
+      label: What are the Pros
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: cons
+      label: What are the Cons
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: evaluation_form
+      label: Evaluation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: overall_score
+      label: Overall Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: pros_list
+      label: List of Pros
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: cons_list
+      label: List of Cons
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: pros_weighted
+      label: Weighted Pros
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: pros_score
+      label: Pros Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: cons_weighted
+      label: Weighted Cons
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: cons_score
+      label: Cons Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: overall
+      label: Overall
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: time_spent
+      label: Time Spent
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: pros_list_2
+      label: List of Pros
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: cons_list_2
+      label: List of Cons
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

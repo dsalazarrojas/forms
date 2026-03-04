@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Soundtrack Rights Usage Request Form
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_type
+      label: Project Type
+      hint: Select a category
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''In Development''}'
+      - '{''id'': 2, ''label'': ''In Production''}'
+      - '{''id'': 3, ''label'': ''Released''}'
+      required: false
+    - id: 4
+      name: project_date
+      label: Project Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: composer_name
+      label: Composer Name
+      hint: Full name of the composer
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: composer_email
+      label: Composer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: composer_phone
+      label: Composer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: usage_terms
+      label: Usage Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: composer_notes
+      label: Composer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: project_url
+      label: Project URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: project_deadline
+      label: Project Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: client_notes
+      label: Client Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: composer_agreement
+      label: Composer Agreement
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Agreed''}'
+      - '{''id'': 2, ''label'': ''Not Agreed''}'
+      required: false
+    - id: 17
+      name: client_agreement
+      label: Client Agreement
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Agreed''}'
+      - '{''id'': 2, ''label'': ''Not Agreed''}'
+      required: false
+    - id: 18
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: license_type
+      label: License Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: composer_license
+      label: Composer License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: composer_license_url
+      label: Composer License URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: client_license
+      label: Client License
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: client_license_url
+      label: Client License URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: GhostHouse Haunted Tours
+    pages:
+    - id: 1
+      name: booking_date
+      label: Booking Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: tour_type
+      label: Choose A Tour
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: tour_time
+      label: Tour Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: tour_location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: tour_name
+      label: Tour Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: tour_price
+      label: Tour Price
+      hint: null
+      type: number
+      options: []
+      required: false

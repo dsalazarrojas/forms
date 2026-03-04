@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Early Childhood Engagement Survey
+    pages:
+    - id: 1
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: age
+      label: How old are you
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: rating
+      label: How would you rate your engagement
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''High''}'
+      required: false
+    - id: 4
+      name: experience
+      label: How many years of experience do you have as a teacher
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: teacher_survey
+      label: Which of the following items would you like to see added or improved
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''More Professional Development Opportunities''}'
+      - '{''label'': ''Better Resources''}'
+      - '{''label'': ''More Autonomy''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: teacher_survey_other
+      label: Please specify other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: teacher_notes
+      label: Do you have any other comments or suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: teacher_survey_date
+      label: When would you like to see these changes take place
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: teacher_survey_time
+      label: What time of day would you like to see these changes take place
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: teacher_survey_frequency
+      label: How often would you like to see these changes take place
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Bi-Weekly''}'
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Quarterly''}'
+      - '{''label'': ''Yearly''}'
+      required: false
+    - id: 13
+      name: teacher_survey_frequency_other
+      label: Please specify other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: teacher_comments
+      label: Do you have any comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: assigned_tool
+      label: Who assigned this form
+      hint: null
+      type: text
+      options: []
+      required: false

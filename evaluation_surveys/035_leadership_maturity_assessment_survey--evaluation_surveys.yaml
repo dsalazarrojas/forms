@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Leadership Maturity Assessment Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: leadership_maturity
+      label: Leadership Maturity
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 3
+      name: leadership_behaviors
+      label: Leadership Behaviors
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Visionary''}'
+      - '{''id'': 2, ''label'': ''Communicative''}'
+      - '{''id'': 3, ''label'': ''Decisive''}'
+      required: false
+    - id: 4
+      name: collaboration
+      label: Collaboration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: team_dynamics
+      label: Team Dynamics
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: communication
+      label: Communication
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Regular''}'
+      - '{''id'': 2, ''label'': ''Occasional''}'
+      - '{''id'': 3, ''label'': ''Rarely''}'
+      required: false
+    - id: 7
+      name: leadership_skills
+      label: Leadership Skills
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Visionary''}'
+      - '{''id'': 2, ''label'': ''Strategic''}'
+      - '{''id'': 3, ''label'': ''Decisive''}'
+      required: false
+    - id: 8
+      name: leadership_development
+      label: Leadership Development
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Visionary''}'
+      - '{''id'': 2, ''label'': ''Inspiring''}'
+      - '{''id'': 3, ''label'': ''Innovative''}'
+      required: false
+    - id: 9
+      name: organizational_learning
+      label: Organizational Learning
+      hint: null
+      type: text
+      options: []
+      required: false

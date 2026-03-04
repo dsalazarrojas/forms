@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Television Pilot Episode Voting Form
+    pages:
+    - id: 1
+      name: new_series_concept
+      label: New Series Concept
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: episode_name
+      label: Episode Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: series_description
+      label: Series Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: target_audience
+      label: Target Audience
+      hint: null
+      type: select_multiple
+      options:
+      - Young Adults
+      - Adults
+      - Children
+      required: true
+    - id: 5
+      name: voting_score
+      label: Voting Score
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: timezone
+      label: Timezone
+      hint: null
+      type: select_one
+      options:
+      - Pacific
+      - Eastern
+      required: true
+    - id: 14
+      name: timezone_offset
+      label: Timezone Offset
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: timezone_offset_minutes
+      label: Timezone Offset in Minutes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: timezone_offset_hours
+      label: Timezone Offset in Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: timezone_offset_seconds
+      label: Timezone Offset in Seconds
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: timezone_offset_am_pm
+      label: Timezone Offset AM/PM
+      hint: null
+      type: select_one
+      options:
+      - AM
+      - PM
+      required: false
+    - id: 19
+      name: timezone_offset_description
+      label: Timezone Offset Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: timezone_offset_notes
+      label: Timezone Offset Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: timezone_offset_additional_info
+      label: Timezone Offset Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: timezone_offset_reference
+      label: Timezone Offset Reference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: timezone_offset_reference_url
+      label: Timezone Offset Reference URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: timezone_offset_ical
+      label: Timezone Offset iCal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: timezone_offset_ical_url
+      label: Timezone Offset iCal URL
+      hint: null
+      type: text
+      options: []
+      required: false

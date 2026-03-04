@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: mental_health_evaluation_form_for_supervisors
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: employee_performance
+      label: Employee Performance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: mental_health_issues
+      label: Mental Health Issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: recommended_resources
+      label: Recommended Resources
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: action_plan
+      label: Action Plan
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_comments
+      label: Follow-up Comments
+      hint: null
+      type: note
+      options: []
+      required: false

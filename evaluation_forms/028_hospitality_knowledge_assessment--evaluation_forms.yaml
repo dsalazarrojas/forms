@@ -1,0 +1,261 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospitality Knowledge Assessment
+    pages:
+    - id: 1
+      name: staff_name
+      label: Staff Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 3
+      name: question1
+      label: What is the name of your department?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: question2
+      label: What hours do you work?
+      hint: null
+      type: select_multiple
+      options:
+      - 8am-8pm
+      - 8pm-12pm
+      - 12pm-8am
+      required: false
+    - id: 5
+      name: question3
+      label: What is your role?
+      hint: null
+      type: select_one
+      options:
+      - Front Desk
+      - Guest Services
+      - Management
+      required: false
+    - id: 6
+      name: question4
+      label: What is the name of your manager?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: question5
+      label: What is the name of your shift leader?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: question6
+      label: Do you have any certifications or training?
+      hint: null
+      type: select_multiple
+      options:
+      - Certified
+      - 'False'
+      required: false
+    - id: 9
+      name: question7
+      label: Have you completed a hospitality course?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: question8
+      label: How long have you been working in the industry?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: question9
+      label: How would you rate your overall experience in the industry?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: question10
+      label: Have you attended any training or seminars?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: question11
+      label: Have you completed any certifications or training related to safety?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: question14
+      label: What type of certification or training?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: question15
+      label: When was the certification or training completed?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: question16
+      label: Have you ever received a formal complaint?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: question17
+      label: Have you ever received a formal written warning?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: question18
+      label: Have you ever received a verbal warning?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 19
+      name: question19
+      label: Have you ever received an informal warning?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: question20
+      label: Have you ever been involved in a workplace injury?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: question21
+      label: Have you ever been involved in a near miss?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: question22
+      label: Have you ever been involved in an incident report?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 23
+      name: question23
+      label: Have you ever received a workplace injury award?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: question24
+      label: Have you ever received a workplace recognition?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: question25
+      label: Is your work environment supportive and inclusive?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 26
+      name: question26
+      label: Have you ever experienced discrimination?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 27
+      name: question27
+      label: Have you ever experienced harassment?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 28
+      name: question28
+      label: Have you ever experienced bullying?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 29
+      name: question29
+      label: Have you ever experienced sexual harassment?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 30
+      name: question30
+      label: Have you ever experienced other types of harassment?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

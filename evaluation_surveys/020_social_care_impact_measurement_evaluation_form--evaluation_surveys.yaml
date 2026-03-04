@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Care Impact Measurement Evaluation Form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: service_user
+      label: service user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_provider
+      label: service provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: impact_areas
+      label: impact areas
+      hint: null
+      type: select_one
+      options:
+      - Service user receives help with daily activities
+      - Service user gains increased independence
+      - Service user receives support with personal care
+      - Service user receives support with personal care
+      required: false
+    - id: 5
+      name: evaluation_questions
+      label: evaluation questions
+      hint: null
+      type: select_multiple
+      options:
+      - What was the quality of the support provided?
+      - How responsive were the staff?
+      - How clear were the support options?
+      - How well did your needs and preferences are met?
+      - Was your experience with the service user friendly?
+      required: false
+    - id: 6
+      name: evaluation_scale
+      label: evaluation scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: evaluation_comments
+      label: evaluation comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Administrative Area Evaluation
+    pages:
+    - id: 1
+      name: evaluator_information
+      label: Evaluator information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: area_name
+      label: Area name
+      hint: Administrative area being evaluated
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: cleanliness_rating
+      label: Cleanliness rating
+      hint: Rate 1 poor to 5 excellent
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: functionality_rating
+      label: Functionality rating
+      hint: How well the area supports work
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: safety_concerns
+      label: Safety concerns noted
+      hint: Describe any hazards observed
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: equipment_needs
+      label: Equipment needs
+      hint: Any equipment repairs or replacements needed
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: suggested_improvements
+      label: Suggested improvements
+      hint: Recommendations for the space
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: photos_attached
+      label: Photos attached
+      hint: Indicate if supporting photos are included
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 9
+      name: evaluated_by
+      label: Evaluated by
+      hint: Name of evaluator
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: evaluation_date
+      label: Evaluation date
+      hint: Date of assessment
+      type: date
+      options: []
+      required: true

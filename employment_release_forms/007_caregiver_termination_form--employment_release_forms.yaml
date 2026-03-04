@@ -1,0 +1,219 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Caregiver Termination Form
+    pages:
+      - id: 1
+        name: section_separation_details
+        label: -- Caregiver Separation Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: caregiver_name
+        label: Caregiver Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: employee_id
+        label: Employee ID
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: last_working_day
+        label: Last Working Day
+        hint: The last day the caregiver actually worked
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: termination_date
+        label: Official Termination Date
+        hint: The official date the employment relationship ended
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: section_separation_type
+        label: -- Separation Type --
+        hint: Choose the category that best describes the termination
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: termination_type
+        label: Type of Termination
+        hint: null
+        type: select_one
+        options:
+          - Voluntary Resignation
+          - Involuntary Termination
+          - End of Contract
+          - Retirement
+          - Other
+        required: true
+      - id: 8
+        name: reason_for_separation
+        label: Primary Reason for Separation
+        hint: Identify the main cause
+        type: select_one
+        options:
+          - Performance Issues
+          - Policy Violation
+          - Better Opportunity
+          - Relocation
+          - Client Death
+          - Personal Reasons
+          - Mutual Agreement
+        required: true
+      - id: 9
+        name: detailed_reason
+        label: Provide details about the separation reason
+        hint: Explain the circumstances in detail
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: section_doc_compliance
+        label: -- Documentation and Compliance --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: resignation_letter_received
+        label: Resignation letter received?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+          - N/A
+        required: true
+      - id: 12
+        name: unemployment_eligible
+        label: Is the employee eligible for unemployment?
+        hint: Based on company policy and termination reason
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Unsure
+        required: true
+      - id: 13
+        name: rehire_eligibility
+        label: Is the employee eligible for rehire?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Depends
+        required: true
+      - id: 14
+        name: section_property_recovery
+        label: -- Company Property Recovery --
+        hint: Ensure all items have been returned
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: keys_returned
+        label: Facility or Client keys returned?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+          - N/A
+        required: true
+      - id: 16
+        name: id_badge_returned
+        label: ID badge returned?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+          - N/A
+        required: true
+      - id: 17
+        name: electronic_devices
+        label: Laptops, Tablets, or other devices returned?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+          - N/A
+        required: true
+      - id: 18
+        name: section_final_pay
+        label: -- Final Pay and Benefits --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: final_pay_issued
+        label: Final paycheck processed and issued?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 20
+        name: unused_pto_paid
+        label: Unused PTO paid out?
+        hint: If applicable based on state laws or company policy
+        type: select_one
+        options:
+          - Yes
+          - No
+          - N/A
+        required: true
+      - id: 21
+        name: section_manager_ack
+        label: -- Manager Acknowledgment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: manager_name
+        label: Terminating Manager Name
+        hint: Name of the person processing this termination
+        type: text
+        options: []
+        required: true
+      - id: 23
+        name: manager_signature_confirmation
+        label: Confirmation of Separation Process
+        hint: Type your name to confirm completion of all termination steps
+        type: text
+        options: []
+        required: true
+      - id: 24
+        name: date_signed
+        label: Today's Date
+        hint: null
+        type: date
+        options: []
+        required: true

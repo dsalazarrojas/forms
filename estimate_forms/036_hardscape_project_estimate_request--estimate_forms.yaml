@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hardscape Project Estimate Request
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: site_location
+      label: Site Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: preferred_date
+      label: Preferred Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: services
+      label: Services
+      hint: null
+      type: select_multiple
+      options:
+      - Lawn Aeration
+      - Lawn Care
+      - Mulching
+      - Yard Cleanup
+      - Yard Mowing
+      - Yard Mowing & Trimming
+      - Yard Mowing & Trimming & Edging
+      - Landscaping
+      - Hardscape
+      - Lawn Aeration & Lawn Care
+      - Lawn Mowing & Trimming & Edging
+      - Lawn Mowing & Trimming & Mulching
+      - Yard Cleanup & Mulching
+      - Yard Mowing & Trimming & Mulching
+      required: true
+    - id: 7
+      name: site_notes
+      label: Site Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false

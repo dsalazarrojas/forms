@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Subcontractor Lien Release Form
+    pages:
+    - id: 1
+      name: contractor_details
+      label: contractor_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: subcontractor_details
+      label: subcontractor_details
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Homeowner''}'
+      - '{''value'': ''Business''}'
+      required: true
+    - id: 3
+      name: subcontractor_name
+      label: subcontractor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: subcontractor_address
+      label: subcontractor_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contractor_details
+      label: contractor_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contractor_name
+      label: contractor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contractor_address
+      label: contractor_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: lien_amount
+      label: lien_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: release_date
+      label: release_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: release_time
+      label: release_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: reason_for_release
+      label: reason_for_release
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Good payment history''}'
+      - '{''value'': ''No outstanding claims''}'
+      - '{''value'': ''Reasonable suspicion''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 12
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: signature_date
+      label: signature_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: signature_time
+      label: signature_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: signed_by
+      label: signed_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: title_issued_to
+      label: title_issued_to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: issuer_name
+      label: issuer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: issuer_title
+      label: issuer_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: issuer_address
+      label: issuer_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: issuer_phone
+      label: issuer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: issuer_email
+      label: issuer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: issuer_fax
+      label: issuer_fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: issuer_note
+      label: issuer_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: subcontractor_notes
+      label: subcontractor_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

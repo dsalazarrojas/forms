@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Experience Certificate Request Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: reporting_manager
+      label: Reporting Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reporting_start_date
+      label: Reporting Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: reporting_end_date
+      label: Reporting End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: reason_for_leave
+      label: Reason for Leave
+      hint: Please explain the reason for your leave
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Smith
+      - Jim Johnson
+      required: false
+    - id: 12
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: select_multiple
+      options:
+      - HR
+      - Administrator
+      - Management
+      required: false
+    - id: 13
+      name: certificate_required_for
+      label: Certificate Required For
+      hint: Please choose all relevant options
+      type: select_multiple
+      options:
+      - Employment
+      - Professional Development
+      - Other (please specify)
+      required: true
+    - id: 14
+      name: certificate_required_for_others
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: signature_of_employee
+      label: Signature of Employee
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: signature_of_manager
+      label: Signature of Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: signature_of_admin
+      label: Signature of Administrator
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: certificate_number
+      label: Certificate Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: issued_by
+      label: Issued By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: issued_date
+      label: Issued Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: certificate_status
+      label: Certificate Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Pending
+      - Approved
+      - Rejected
+      required: true
+    - id: 22
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: uploaded_document
+      label: Uploaded Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: uploaded_document_type
+      label: Uploaded Document Type
+      hint: null
+      type: select_multiple
+      options:
+      - PDF
+      - Word Docx
+      - Excel
+      - Powerpoint
+      - CSV
+      - Text File
+      required: false
+    - id: 25
+      name: uploaded_document_size
+      label: Uploaded Document Size
+      hint: null
+      type: number
+      options: []
+      required: false

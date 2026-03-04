@@ -1,0 +1,136 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2D Animation Course Feedback
+    pages:
+    - id: 1
+      name: section_header_course
+      label: "--- Course & Instructor Feedback ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student name
+      hint: Leave blank for anonymous feedback
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_email
+      label: Student email (optional)
+      hint: Provide if follow-up is desired
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: course_date
+      label: Course completion date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: instructor_rating
+      label: Instructor effectiveness (1-10)
+      hint: 10 = exceptional teaching
+      type: integer
+      options: []
+      required: true
+    - id: 6
+      name: content_relevance
+      label: Relevance of course content
+      hint: null
+      type: select_one
+      options:
+        - Highly relevant
+        - Mostly relevant
+        - Somewhat relevant
+        - Not relevant
+      required: true
+    - id: 7
+      name: technical_skill_gain
+      label: Technical skills gained
+      hint: Select all that apply
+      type: select_multiple
+      options:
+        - Traditional frame-by-frame
+        - Tweening & interpolation
+        - Rigging characters
+        - Timing and pacing
+        - Compositing & effects
+        - None of the above
+      required: false
+    - id: 8
+      name: software_used
+      label: Software/tools used in course
+      hint: e.g., "Toon Boom, TVPaint, After Effects"
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_quality_rating
+      label: Quality of project assignments (1-10)
+      hint: 10 = industry-ready quality
+      type: integer
+      options: []
+      required: true
+    - id: 10
+      name: pace_and_workload
+      label: Pace and workload suitability
+      hint: null
+      type: select_one
+      options:
+        - Too fast
+        - Well paced
+        - Too slow
+        - Inconsistent
+      required: true
+    - id: 11
+      name: would_recommend
+      label: Would you recommend this course?
+      hint: null
+      type: select_one
+      options:
+        - Definitely
+        - Probably
+        - Not sure
+        - No
+      required: true
+    - id: 12
+      name: most_useful_topic
+      label: Most useful topic or lesson
+      hint: One-line answer
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: improvements_suggestions
+      label: Suggestions for improvement
+      hint: Describe specific changes or additions
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: additional_comments
+      label: Any other comments about the course or instructor
+      hint: Optional open feedback
+      type: text
+      options: []
+      required: false

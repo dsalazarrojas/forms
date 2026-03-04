@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Diver Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: medical_certification
+      label: Medical Certification
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 10
+      name: medical_certification_note
+      label: Medical Certification Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: diver_type
+      label: Diver Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Recreational''}'
+      - '{''id'': 2, ''label'': ''Competition''}'
+      - '{''id'': 3, ''label'': ''Instructor''}'
+      required: false
+    - id: 12
+      name: certification
+      label: Diver Certification
+      hint: null
+      type: text
+      options: []
+      required: false

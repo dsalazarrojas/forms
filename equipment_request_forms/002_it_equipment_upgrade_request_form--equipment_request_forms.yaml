@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: IT Equipment Upgrade Request Form
+    pages:
+    - id: 1
+      name: form_data
+      label: form_data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_type
+      label: equipment_type
+      hint: null
+      type: select_one
+      options:
+      - Equipment Type 1
+      - Equipment Type 2
+      - Equipment Type 3
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_upgrade
+      label: reason_for_upgrade
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: expected_delivery_date
+      label: expected_delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy
+      - chatjimmy
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: HVAC Control System Request Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facility_address
+      label: facility_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: issue_description
+      label: issue_description
+      hint: A detailed description of the issue
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: issue_category
+      label: issue_category
+      hint: null
+      type: select_one
+      options:
+      - Heating
+      - Cooling
+      - Water
+      - Electrical
+      required: true
+    - id: 5
+      name: issue_priority
+      label: issue_priority
+      hint: High/Medium/Low
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 6
+      name: issue_status
+      label: issue_status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - In Progress
+      required: true
+    - id: 7
+      name: assigned_engineer
+      label: assigned_engineer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: issue_date
+      label: issue_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: issue_time
+      label: issue_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: issue_comments
+      label: issue_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: facility_phone
+      label: facility_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: facility_email
+      label: facility_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: issue_image
+      label: issue_image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: issue_attachment
+      label: issue_attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter_name
+      label: submitter_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: submitter_location
+      label: submitter_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: form_comments
+      label: form_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: facility_address_2
+      label: facility_address_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitter_department
+      label: submitter_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: form_header_2
+      label: Form Header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_by_name
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

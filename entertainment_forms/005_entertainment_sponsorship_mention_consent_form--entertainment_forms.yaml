@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Entertainment Sponsorship Mention Consent Form
+    pages:
+    - id: 1
+      name: sponsor_name
+      label: Sponsor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: preferred_mention_format
+      label: Preferred Mention Format
+      hint: null
+      type: select_one
+      options:
+      - Audio
+      - Video
+      - Print
+      - Social Media
+      required: true
+    - id: 3
+      name: mention_contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: mention_format_preference
+      label: Mention Format Preference
+      hint: null
+      type: select_one
+      options:
+      - In-stream
+      - Pre-roll
+      - Post-roll
+      - End-screen
+      - In-video
+      required: true
+    - id: 7
+      name: formal_consent
+      label: Formal Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: events_attended
+      label: Events Attended
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: stream_details
+      label: Stream Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: show_details
+      label: Show Details
+      hint: null
+      type: text
+      options: []
+      required: false

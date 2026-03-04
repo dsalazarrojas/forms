@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher-Student Interaction Feedback Evaluation Form
+    pages:
+    - id: 1
+      name: teacher_rating
+      label: How would you rate the teacher
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 2
+      name: student_response
+      label: What would you say to the teacher
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: Additional Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: teacher_suggestions
+      label: Suggestions for the teacher
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: student_suggestions
+      label: Suggestions for students
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date_of_interaction
+      label: Date of interaction
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_interaction
+      label: Time of interaction
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: duration_of_interaction
+      label: Duration of interaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: interaction_outcome
+      label: What was the outcome of the interaction
+      hint: null
+      type: select_one
+      options:
+      - Positive outcome
+      - Negative outcome
+      - Neutral outcome
+      required: false
+    - id: 10
+      name: teacher_attentiveness
+      label: How attentive was the teacher
+      hint: null
+      type: select_one
+      options:
+      - Very attentive
+      - Somewhat attentive
+      - Not very attentive
+      - Not at all attentive
+      required: false
+    - id: 11
+      name: teacher_response_time
+      label: How responsive was the teacher
+      hint: null
+      type: select_one
+      options:
+      - Very responsive
+      - Somewhat responsive
+      - Not very responsive
+      - Not at all responsive
+      - No response
+      required: false
+    - id: 12
+      name: teacher_clarity
+      label: How clear were the instructions
+      hint: null
+      type: select_one
+      options:
+      - Very clear
+      - Somewhat clear
+      - Not very clear
+      - Not at all clear
+      required: false
+    - id: 13
+      name: teacher_openness
+      label: How open to feedback were you
+      hint: null
+      type: select_one
+      options:
+      - Very open
+      - Somewhat open
+      - Not very open
+      - Not at all open
+      required: false
+    - id: 14
+      name: student_clarification
+      label: Did the teacher provide sufficient information
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: student_confirmation
+      label: Did the teacher ask for your questions
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: teacher_confirmation
+      label: Did the teacher ask you questions
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: teacher_helpfulness
+      label: Did the teacher help when you needed it
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: teacher_satisfaction
+      label: Were you satisfied with the help received
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

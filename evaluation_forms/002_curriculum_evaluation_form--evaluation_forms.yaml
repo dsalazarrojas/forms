@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Curriculum Evaluation Form
+    pages:
+    - id: 1
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: instructor_name
+      label: instructor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: course_progress
+      label: Course Progress
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: progress_score
+      label: Progress Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: strengths
+      label: Strengths
+      hint: List the strengths of the course
+      type: select_multiple
+      options:
+      - Weak
+      - Average
+      - Strong
+      required: false
+    - id: 7
+      name: weaknesses
+      label: Weaknesses
+      hint: List the weaknesses of the course
+      type: select_multiple
+      options:
+      - Weak
+      - Average
+      - Strong
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false

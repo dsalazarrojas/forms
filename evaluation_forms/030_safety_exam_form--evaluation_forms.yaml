@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safety Exam Form
+    pages:
+    - id: 1
+      name: exam_info
+      label: Exam Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: exam_questions
+      label: Exam Questions
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: safety_procedure
+      label: Safety Procedure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: exam_score
+      label: Exam Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: exam_status
+      label: Exam Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: examiner_signature
+      label: Examiner Signature
+      hint: null
+      type: note
+      options: []
+      required: false

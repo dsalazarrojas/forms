@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Information Ecosystem Assessment Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: information_sources
+      label: Information Sources
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: information_flows
+      label: Information Flows
+      hint: null
+      type: select_one
+      options:
+      - option4
+      - option5
+      - option6
+      required: false
+    - id: 4
+      name: assessment
+      label: Gap Assessment
+      hint: null
+      type: select_one
+      options:
+      - option7
+      - option8
+      required: false
+    - id: 5
+      name: note
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_time
+      label: Date and Time
+      hint: null
+      type: date
+      options: []
+      required: false

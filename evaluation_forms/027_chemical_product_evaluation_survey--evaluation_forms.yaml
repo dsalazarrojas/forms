@@ -1,0 +1,281 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Chemical Product Evaluation Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Optional - Your full name
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: company_organization
+        label: Company or Organization
+        hint: Name of your organization
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: email_address
+        label: Email Address
+        hint: Your email address
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: industry
+        label: Industry
+        hint: What industry do you work in
+        type: select_one
+        options:
+          - Manufacturing
+          - Laboratory research
+          - Healthcare
+          - Education
+          - Agriculture
+          - Construction
+          - Other
+        required: true
+      - id: 5
+        name: product_name
+        label: Product Name
+        hint: Name of the chemical product evaluated
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: product_category
+        label: Product Category
+        hint: Category of the product
+        type: select_one
+        options:
+          - Cleaning agent
+          - Solvent
+          - Adhesive
+          - Coating
+          - Reagent
+          - Catalyst
+          - Other
+        required: true
+      - id: 7
+        name: usage_duration
+        label: How Long Have You Used This Product
+        hint: Duration of product use
+        type: select_one
+        options:
+          - Less than 1 month
+          - 1-3 months
+          - 3-6 months
+          - 6-12 months
+          - Over 1 year
+        required: true
+      - id: 8
+        name: usage_frequency
+        label: Usage Frequency
+        hint: How often do you use this product
+        type: select_one
+        options:
+          - Daily
+          - Several times a week
+          - Once a week
+          - Occasionally
+          - Rarely
+        required: true
+      - id: 9
+        name: product_effectiveness
+        label: Product Effectiveness
+        hint: How effective is the product
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+        required: true
+      - id: 10
+        name: ease_of_use
+        label: Ease of Use
+        hint: How easy is the product to use
+        type: select_one
+        options:
+          - Very easy
+          - Easy
+          - Moderate
+          - Difficult
+          - Very difficult
+        required: true
+      - id: 11
+        name: safety_rating
+        label: Safety Rating
+        hint: How safe is the product to use
+        type: select_one
+        options:
+          - Very safe
+          - Safe
+          - Neutral
+          - Unsafe
+          - Very unsafe
+        required: true
+      - id: 12
+        name: packaging_quality
+        label: Packaging Quality
+        hint: Quality of product packaging
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+        required: true
+      - id: 13
+        name: value_for_money
+        label: Value for Money
+        hint: Is the product worth the cost
+        type: select_one
+        options:
+          - Excellent value
+          - Good value
+          - Fair value
+          - Poor value
+          - Very poor value
+        required: true
+      - id: 14
+        name: consistency_quality
+        label: Consistency of Quality
+        hint: Is quality consistent across batches
+        type: select_one
+        options:
+          - Always consistent
+          - Usually consistent
+          - Sometimes varies
+          - Often varies
+          - Very inconsistent
+        required: true
+      - id: 15
+        name: shelf_life
+        label: Shelf Life Satisfaction
+        hint: Are you satisfied with product shelf life
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 16
+        name: technical_support
+        label: Technical Support
+        hint: Quality of manufacturer support
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+          - Not used
+        required: false
+      - id: 17
+        name: delivery_reliability
+        label: Delivery Reliability
+        hint: How reliable is product delivery
+        type: select_one
+        options:
+          - Always on time
+          - Usually on time
+          - Sometimes delayed
+          - Often delayed
+          - Very unreliable
+        required: true
+      - id: 18
+        name: meets_specifications
+        label: Meets Specifications
+        hint: Does the product meet stated specifications
+        type: select_one
+        options:
+          - Always
+          - Usually
+          - Sometimes
+          - Rarely
+          - Never
+        required: true
+      - id: 19
+        name: would_recommend
+        label: Would Recommend
+        hint: Would you recommend this product
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Not sure
+          - Probably no
+          - Definitely no
+        required: true
+      - id: 20
+        name: would_repurchase
+        label: Would Repurchase
+        hint: Would you buy this product again
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Not sure
+          - Probably no
+          - Definitely no
+        required: true
+      - id: 21
+        name: strengths
+        label: Product Strengths
+        hint: What does this product do well
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: weaknesses
+        label: Product Weaknesses
+        hint: What could be improved
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: comparison_to_competitors
+        label: Comparison to Competitors
+        hint: How does it compare to similar products
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: overall_satisfaction
+        label: Overall Satisfaction
+        hint: Your overall satisfaction with this product
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true

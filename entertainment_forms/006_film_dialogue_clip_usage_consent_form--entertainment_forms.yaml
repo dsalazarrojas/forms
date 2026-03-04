@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Film Dialogue Clip Usage Consent Form
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: clip_description
+      label: Clip Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: signed_consent
+      label: Signed Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: clip_title
+      label: Clip Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: clip_date
+      label: Clip Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Information Sheet
+    pages:
+    - id: 1
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organizer_name
+      label: Organizer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_organizer
+      label: Event Organizer
+      hint: null
+      type: select_one
+      options:
+      - Event Planner
+      - Organizer
+      - Host
+      required: false
+    - id: 10
+      name: event_status
+      label: Event Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Upcoming
+      - Cancelled
+      required: false
+    - id: 11
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_multiple
+      options:
+      - Conference
+      - Festival
+      - Meeting
+      required: false
+    - id: 12
+      name: event_date_end
+      label: Event End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: event_location_1
+      label: Event Location 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: event_location_2
+      label: Event Location 2
+      hint: null
+      type: text
+      options: []
+      required: false

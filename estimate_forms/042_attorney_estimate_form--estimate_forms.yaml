@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Attorney Estimate Form
+    pages:
+    - id: 1
+      name: law_firm_information
+      label: -- Law Firm Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: firm_name
+      label: Law Firm Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: firm_address
+      label: Firm Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: firm_phone
+      label: Firm Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: firm_email
+      label: Firm Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: attorney_name
+      label: Attorney Name
+      hint: Providing the estimate
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: client_information
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: client_address
+      label: Client Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: estimate_details
+      label: -- Estimate Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: estimate_date
+      label: Estimate Date
+      hint: Date estimate was prepared
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: estimate_number
+      label: Estimate Number
+      hint: Reference number
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: case_matter
+      label: Case or Matter Description
+      hint: Description of legal matter
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: legal_services
+      label: Legal Services Required
+      hint: Services to be provided
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: scope_of_work
+      label: Scope of Work
+      hint: Detailed scope description
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: fee_information
+      label: -- Fee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: hourly_rate
+      label: Hourly Rate
+      hint: Rate per hour in USD
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: estimated_hours
+      label: Estimated Hours
+      hint: Number of hours expected
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: estimated_fee
+      label: Estimated Total Fee
+      hint: Hourly rate multiplied by hours
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: additional_costs
+      label: Additional Costs
+      hint: Court fees, research, etc.
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: retainer_amount
+      label: Retainer Amount
+      hint: Upfront payment required
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: payment_terms
+      label: Payment Terms
+      hint: When payment is due
+      type: select_one
+      options:
+      - Upon Signing
+      - Net 15 Days
+      - Net 30 Days
+      - Upon Completion
+      - Other
+      required: true
+    - id: 25
+      name: estimate_validity
+      label: Estimate Valid Until
+      hint: Date estimate expires
+      type: date
+      options: []
+      required: true

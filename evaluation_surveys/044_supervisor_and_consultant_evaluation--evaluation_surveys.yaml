@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supervisor And Consultant Evaluation
+    pages:
+    - id: 1
+      name: supervisor_and_consultant_evaluation
+      label: supervisor_and_consultant_evaluation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: supervisor_name
+      label: supervisor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: supervisor_email
+      label: supervisor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: consultant_name
+      label: consultant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consultant_email
+      label: consultant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: supervisor_feedback
+      label: supervisor_feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: consultant_feedback
+      label: consultant_feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: submit_button
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit_date
+      label: submitted
+      hint: null
+      type: date
+      options: []
+      required: false

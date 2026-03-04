@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Board Of Directors Application Form
+    pages:
+    - id: 1
+      name: applicant_header
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Legal name of applicant
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: For communication
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: current_occupation
+      label: Current occupation
+      hint: Job title and organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: relevant_experience
+      label: Relevant experience
+      hint: Board governance or sector expertise
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: conflicts_of_interest
+      label: Conflicts of interest
+      hint: Disclose any potential conflicts
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: availability_commitment
+      label: Availability commitment
+      hint: Approx hours per month you can commit
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: references
+      label: References
+      hint: Provide two professional references
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: statement_of_interest
+      label: Statement of interest
+      hint: Why you want to serve on the board
+      type: text
+      options: []
+      required: true

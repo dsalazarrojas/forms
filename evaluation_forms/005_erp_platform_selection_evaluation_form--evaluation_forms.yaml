@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: erp_platform_selection_evaluation_form
+    pages:
+    - id: 1
+      name: erp_platform_selection
+      label: erp Platform Selection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: evaluation_form
+      label: evaluation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_description
+      label: form Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vendor_name
+      label: vendor Name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

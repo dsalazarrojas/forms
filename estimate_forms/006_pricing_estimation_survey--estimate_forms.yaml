@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: pricing_estimation_survey
+    pages:
+    - id: 1
+      name: base_page
+      label: Base
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: estimated_price
+      label: estimated_price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: customer_segment
+      label: customer_segment
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 0, ''text'': ''Residential''}'
+      - '{''id'': 1, ''text'': ''Commercial''}'
+      - '{''id'': 2, ''text'': ''Other''}'
+      required: true
+    - id: 4
+      name: customer_age
+      label: customer_age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: customer_income
+      label: customer_income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: customer_frequency
+      label: customer_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 0, ''text'': ''Daily''}'
+      - '{''id'': 1, ''text'': ''Weekly''}'
+      - '{''id'': 2, ''text'': ''Monthly''}'
+      - '{''id'': 3, ''text'': ''Quarterly''}'
+      - '{''id'': 4, ''text'': ''Annually''}'
+      required: true
+    - id: 7
+      name: price_range
+      label: price_range
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 0, ''text'': ''Low''}'
+      - '{''id'': 1, ''text'': ''Medium''}'
+      - '{''id'': 2, ''text'': ''High''}'
+      required: true
+    - id: 8
+      name: base_price
+      label: base_price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: price_variation
+      label: price_variation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: margin
+      label: margin
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: estimated_price_1
+      label: estimated_price_1
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: estimated_price_2
+      label: estimated_price_2
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: estimated_price_3
+      label: estimated_price_3
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: estimated_price_4
+      label: estimated_price_4
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: estimated_price_5
+      label: estimated_price_5
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: estimated_price_6
+      label: estimated_price_6
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: estimated_price_7
+      label: estimated_price_7
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: estimated_price_8
+      label: estimated_price_8
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: estimated_price_9
+      label: estimated_price_9
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: estimated_price_10
+      label: estimated_price_10
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: total_price
+      label: total_price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: customer_segment_2
+      label: customer_segment_2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 0, ''text'': ''Residential''}'
+      - '{''id'': 1, ''text'': ''Commercial''}'
+      - '{''id'': 2, ''text'': ''Other''}'
+      required: true
+    - id: 23
+      name: customer_age_2
+      label: customer_age_2
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: customer_income_2
+      label: customer_income_2
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: customer_frequency_2
+      label: customer_frequency_2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 0, ''text'': ''Daily''}'
+      - '{''id'': 1, ''text'': ''Weekly''}'
+      - '{''id'': 2, ''text'': ''Monthly''}'
+      - '{''id'': 3, ''text'': ''Quarterly''}'
+      - '{''id'': 4, ''text'': ''Annually''}'
+      required: true

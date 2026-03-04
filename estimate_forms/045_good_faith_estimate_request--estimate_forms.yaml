@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Good Faith Estimate Request
+    pages:
+    - id: 1
+      name: service_request
+      label: Service Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: good_faith_estimate
+      label: goodFaithEstimate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: estimate_date
+      label: Estimate Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: service_description
+      label: Service Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Type A
+      - Type B
+      - Type C
+      required: true
+    - id: 7
+      name: service_address
+      label: Service Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: service_status
+      label: Service Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: submitter_company
+      label: Submitter Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitter_job
+      label: Submitter Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitter_job_number
+      label: Submitter Job Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitter_message
+      label: Submitter Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitter_comments
+      label: Submitter Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitter_agreed
+      label: Submitter Agreed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: submitter_agreed_date
+      label: Submitter Agreed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: itemized_estimate
+      label: itemizedEstimate
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: service_terms
+      label: Service Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: billing_terms
+      label: Billing Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_terms
+      label: Submitter Terms
+      hint: null
+      type: text
+      options: []
+      required: false

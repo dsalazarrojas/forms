@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Care Workflow Assessment Evaluation Form
+    pages:
+    - id: 1
+      name: staff_feedback
+      label: Staff Feedback
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: patient_feedback
+      label: Patient Feedback
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 3
+      name: service_improvement
+      label: Service Improvement Suggestions
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: staff_safety_concerns
+      label: Staff Safety Concerns
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: service_quality
+      label: Service Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: true
+    - id: 6
+      name: service_availability
+      label: Service Availability
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: patient_satisfaction
+      label: Patient Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: staff_satisfaction
+      label: Staff Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: staff_satisfaction_hospital
+      label: Hospital
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: patient_satisfaction_hospital
+      label: Hospital
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: service_improvement_ideas
+      label: Service Improvement Ideas
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: service_improvement_action_item
+      label: Service Improvement Action Item
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: service_quality_improvement
+      label: Service Quality Improvement
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: true
+    - id: 14
+      name: staff_safety_concerns_improvement
+      label: Staff Safety Concerns
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: service_availability_improvement
+      label: Service Availability Improvement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: patient_satisfaction_improvement
+      label: Patient Satisfaction Improvement
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: true
+    - id: 17
+      name: staff_satisfaction_improvement
+      label: Staff Satisfaction Improvement
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: true
+    - id: 18
+      name: staff_safety_concerns_improvement
+      label: Staff Safety Concerns Improvement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: service_availability_improvement
+      label: Service Availability Improvement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: patient_satisfaction_improvement
+      label: Patient Satisfaction Improvement
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false

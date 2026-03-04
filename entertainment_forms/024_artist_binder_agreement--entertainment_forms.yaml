@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artist Binder Agreement
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Artist Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: artist_name
+      label: Artist or Performer Name
+      hint: Your professional name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: artist_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: artist_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: artist_website
+      label: Website or Portfolio
+      hint: URL to your work or portfolio
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_header_2
+      label: -- Client or Venue Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: client_name
+      label: Client or Venue Name
+      hint: Name of the requesting party
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: client_contact
+      label: Client Contact Person
+      hint: Name of the contact person
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: client_email
+      label: Client Email Address
+      hint: Email for the client
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: client_phone
+      label: Client Phone Number
+      hint: Client contact number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_header_3
+      label: -- Performance Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: performance_type
+      label: Type of Performance
+      hint: What kind of act or service?
+      type: select_one
+      options:
+      - Live Music Performance
+      - DJ Services
+      - Comedy Show
+      - Theater Production
+      - Dance Performance
+      - Speaking Engagement
+      - Other Entertainment
+      required: true
+    - id: 13
+      name: performance_date
+      label: Requested Performance Date
+      hint: When is the performance scheduled?
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: performance_time
+      label: Performance Time
+      hint: Start time of performance
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: performance_duration
+      label: Duration of Performance
+      hint: How long will the performance be?
+      type: select_one
+      options:
+      - 30 minutes
+      - 1 hour
+      - 1.5 hours
+      - 2 hours
+      - 2.5 hours
+      - 3 hours
+      - Flexible/Custom
+      required: true
+    - id: 16
+      name: section_header_4
+      label: -- Financial Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: performance_fee
+      label: Performance Fee (GBP)
+      hint: Total amount for this performance
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: deposit_amount
+      label: Required Deposit Amount (GBP)
+      hint: Deposit to secure the date
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: deposit_due_date
+      label: Deposit Due Date
+      hint: When should the deposit be received?
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: section_header_5
+      label: -- Payment Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: final_payment_due
+      label: Final Payment Due Date
+      hint: When is the remaining balance due?
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: payment_method
+      label: Accepted Payment Methods
+      hint: How will you accept payment?
+      type: select_multiple
+      options:
+      - Bank Transfer
+      - Check
+      - Credit Card
+      - PayPal
+      - Cash
+      - Other
+      required: true
+    - id: 23
+      name: section_header_6
+      label: -- Cancellation and Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: cancellation_terms
+      label: I Agree to the Binder Terms and Conditions
+      hint: Confirm you accept this agreement
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true
+    - id: 25
+      name: signature_date
+      label: Date of This Agreement
+      hint: When is this agreement being made?
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lexicographer Skills Assessment
+    pages:
+    - id: 1
+      name: page_1
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: page_2
+      label: Page 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: name_1
+      label: Skills
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: language_skills
+      label: Language Skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: page_3
+      label: Page 3
+      hint: null
+      type: text
+      options: []
+      required: false

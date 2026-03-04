@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Entertainment Standards Acknowledgment
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_read
+      label: Date Read
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: cast_agreed
+      label: Cast Agreed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: crew_agreed
+      label: Crew Agreed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: partner_agreed
+      label: Partner Agreed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: roles
+      label: Roles
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: project_details
+      label: Project Details
+      hint: Project details
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: signatures
+      label: Signatures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: timestamp
+      label: Timestamp
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: Tool assigned to user
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_id
+      label: Form ID
+      hint: Unique identifier for this form
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: project_id
+      label: Project ID
+      hint: Unique identifier for project
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: user_id
+      label: User ID
+      hint: Unique identifier for user
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: user_name
+      label: User Name
+      hint: Name of user
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: user_phone
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false

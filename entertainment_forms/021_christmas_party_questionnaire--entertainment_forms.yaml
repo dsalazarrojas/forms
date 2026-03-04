@@ -1,0 +1,281 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Party Questionnaire
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Full Name
+        hint: Optional - your name
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: email_address
+        label: Email Address
+        hint: For event updates
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: age_group
+        label: Age Group
+        hint: Select your age range
+        type: select_one
+        options:
+          - Under 18
+          - 18-24
+          - 25-34
+          - 35-44
+          - 45-54
+          - 55-64
+          - 65 or older
+        required: true
+      - id: 4
+        name: relationship_to_host
+        label: Relationship to Host
+        hint: How do you know the host
+        type: select_one
+        options:
+          - Friend
+          - Family Member
+          - Co-worker
+          - Neighbor
+          - Acquaintance
+          - First time meeting
+        required: true
+      - id: 5
+        name: section_respondent_info
+        label: -- Respondent Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: party_experience_preference
+        label: Party Experience Preference
+        hint: What type of party do you prefer
+        type: select_one
+        options:
+          - Casual and relaxed
+          - Formal and elegant
+          - Fun and energetic
+          - Intimate and cozy
+          - Themed and elaborate
+          - No preference
+        required: true
+      - id: 7
+        name: music_preference
+        label: Music Preference
+        hint: What music do you enjoy
+        type: select_multiple
+        options:
+          - Classic Christmas
+          - Pop Holiday Hits
+          - Jazz and Blues
+          - Rock and Roll Christmas
+          - Instrumental Background
+          - DJ and Dance Music
+          - Live Performance
+          - No music preference
+        required: true
+      - id: 8
+        name: activity_preferences
+        label: Activity Preferences
+        hint: What activities interest you
+        type: select_multiple
+        options:
+          - Secret Santa Exchange
+          - White Elephant Gift Swap
+          - Christmas Trivia
+          - Karaoke
+          - Photo Booth
+          - Cookie Decorating
+          - Ornament Making
+          - Christmas Movie
+          - Just socializing
+          - Dancing
+        required: true
+      - id: 9
+        name: section_preferences
+        label: -- Party Preferences --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: food_preference
+        label: Food Preference
+        hint: What type of food do you prefer
+        type: select_one
+        options:
+          - Heavy dinner
+          - Light appetizers
+          - Finger foods and snacks
+          - Dessert only
+          - Potluck style
+          - No preference
+        required: true
+      - id: 11
+        name: favorite_christmas_food
+        label: Favorite Christmas Food
+        hint: What is your must-have holiday dish
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: beverage_preference
+        label: Beverage Preference
+        hint: What drinks do you enjoy
+        type: select_multiple
+        options:
+          - Wine
+          - Beer
+          - Cocktails
+          - Hot Cocoa
+          - Apple Cider
+          - Coffee and Tea
+          - Soft Drinks
+          - Water
+          - Non-alcoholic options
+        required: true
+      - id: 13
+        name: dietary_restrictions
+        label: Dietary Restrictions
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - None
+          - Vegetarian
+          - Vegan
+          - Gluten-Free
+          - Dairy-Free
+          - Nut Allergy
+          - Shellfish Allergy
+          - Halal
+          - Kosher
+        required: true
+      - id: 14
+        name: section_food_and_drink
+        label: -- Food and Drink --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: gift_exchange_interest
+        label: Gift Exchange Interest
+        hint: Would you participate in gift exchange
+        type: select_one
+        options:
+          - Yes love gift exchanges
+          - Yes if budget is reasonable
+          - Maybe depends on type
+          - No prefer not to
+        required: true
+      - id: 16
+        name: comfortable_gift_budget
+        label: Comfortable Gift Budget
+        hint: What amount is comfortable for you
+        type: select_one
+        options:
+          - Under 15
+          - 15 to 25
+          - 25 to 40
+          - 40 to 60
+          - Over 60
+          - Prefer not to participate
+        required: false
+      - id: 17
+        name: dress_code_comfort
+        label: Dress Code Comfort
+        hint: What dress code do you prefer
+        type: select_one
+        options:
+          - Casual comfortable
+          - Smart casual
+          - Festive and fun
+          - Formal elegant
+          - Ugly sweater theme
+          - Costume theme
+        required: true
+      - id: 18
+        name: section_gift_and_dress
+        label: -- Gift and Dress --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: arrival_time_preference
+        label: Arrival Time Preference
+        hint: When do you prefer to arrive
+        type: select_one
+        options:
+          - Right at start time
+          - 30 minutes after start
+          - Anytime is fine
+          - Prefer to come late
+        required: true
+      - id: 20
+        name: departure_time_preference
+        label: Departure Time Preference
+        hint: When do you typically leave
+        type: select_one
+        options:
+          - Leave early
+          - Stay mid-event
+          - Stay until end
+          - Depends on the crowd
+        required: true
+      - id: 21
+        name: bringing_anyone
+        label: Bringing Anyone
+        hint: Will you bring guests
+        type: select_one
+        options:
+          - No coming alone
+          - Yes spouse or partner
+          - Yes family members
+          - Yes children
+          - Maybe
+        required: true
+      - id: 22
+        name: accessibility_needs
+        label: Accessibility Needs
+        hint: Any accommodations needed
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: song_requests
+        label: Song Requests
+        hint: Songs you want to hear
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: party_concerns
+        label: Any Concerns or Questions
+        hint: Anything we should know
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: excited_about
+        label: What Are You Most Excited About
+        hint: Share your expectations
+        type: text
+        options: []
+        required: false

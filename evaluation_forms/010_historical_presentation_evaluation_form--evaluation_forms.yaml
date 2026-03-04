@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Historical Presentation Evaluation Form
+    pages:
+    - id: 1
+      name: presentation_title
+      label: Presentation Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: presenter_name
+      label: Presenter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: presentation_date
+      label: Presentation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: evaluation_score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: evaluation_scale_1_to_5
+      label: Evaluation Scale 1 to 5
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 7
+      name: evaluation_scale_6_to_10
+      label: Evaluation Scale 6 to 10
+      hint: null
+      type: select_multiple
+      options:
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: false
+    - id: 8
+      name: evaluation_scale_11_to_15
+      label: Evaluation Scale 11 to 15
+      hint: null
+      type: select_one
+      options:
+      - '11'
+      - '12'
+      - '13'
+      - '14'
+      - '15'
+      required: false
+    - id: 9
+      name: evaluation_scale_16_to_20
+      label: Evaluation Scale 16 to 20
+      hint: null
+      type: select_multiple
+      options:
+      - '16'
+      - '17'
+      - '18'
+      - '19'
+      - '20'
+      required: false
+    - id: 10
+      name: evaluation_comment
+      label: Evaluation Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

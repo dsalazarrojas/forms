@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: environmental_health_program_evaluation_form
+    pages:
+    - id: 1
+      name: form_start
+      label: start_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: form_header
+      label: header_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: program_name
+      label: program_name
+      hint: Enter name of the Environmental Health Program
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: program_start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: program_end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: program_location
+      label: program_location
+      hint: Enter location of the program
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: program_description
+      label: program_description
+      hint: Enter a brief description of the program
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: performance_rubric
+      label: performance_rubric
+      hint: Select the performance rubric
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 9
+      name: performance_rubric_other
+      label: performance_rubric_other
+      hint: Other (explain)
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: ratings
+      label: ratings
+      hint: Enter overall ratings
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 11
+      name: feedback
+      label: feedback
+      hint: Enter any feedback
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitted_by
+      label: submitted_by
+      hint: Enter your name
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: email
+      hint: Enter your email
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: comments
+      hint: Enter comments about the form
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submit
+      label: submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

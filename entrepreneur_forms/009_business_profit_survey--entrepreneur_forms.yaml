@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Profit Survey
+    pages:
+    - id: 1
+      name: business_owner_name
+      label: Business Owner Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Name of your business
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: survey_date
+      label: Survey Date
+      hint: Date of this survey
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: reporting_period
+      label: Reporting Period
+      hint: Which period are you reporting on
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      - Year-to-Date
+      required: true
+    - id: 5
+      name: total_revenue
+      label: Total Revenue
+      hint: Total sales or revenue for the period
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: cost_of_goods_sold
+      label: Cost of Goods Sold
+      hint: Direct costs of products sold
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: gross_profit
+      label: Gross Profit
+      hint: Revenue minus cost of goods sold
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: operating_expenses
+      label: Total Operating Expenses
+      hint: Salaries, rent, utilities, etc
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: net_profit
+      label: Net Profit
+      hint: Final profit after all expenses
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: profit_margin_percentage
+      label: Profit Margin Percentage
+      hint: Net profit divided by revenue
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: comparison_previous_period
+      label: Comparison to Previous Period
+      hint: How does this period compare
+      type: select_one
+      options:
+      - Significantly Better
+      - Better
+      - Same
+      - Worse
+      - Significantly Worse
+      required: true
+    - id: 12
+      name: revenue_growth_trends
+      label: Revenue Growth Trends
+      hint: What is the growth trajectory
+      type: select_one
+      options:
+      - Strong Growth
+      - Steady Growth
+      - Flat
+      - Declining
+      - Highly Volatile
+      required: true
+    - id: 13
+      name: main_revenue_sources
+      label: Main Revenue Sources
+      hint: What products or services generate most revenue
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: profit_improvement_opportunities
+      label: Profit Improvement Opportunities
+      hint: Where can you increase profits
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: cost_reduction_opportunities
+      label: Cost Reduction Opportunities
+      hint: Where can you cut costs
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: seasonal_variations
+      label: Seasonal Variations
+      hint: Do profits vary by season
+      type: select_one
+      options:
+      - Significant Variations
+      - Minor Variations
+      - No Variations
+      required: false
+    - id: 17
+      name: profitability_outlook
+      label: Profitability Outlook for Next Period
+      hint: Expected profit for upcoming period
+      type: select_one
+      options:
+      - Very Positive
+      - Positive
+      - Neutral
+      - Negative
+      - Very Negative
+      required: true
+    - id: 18
+      name: profit_goals
+      label: Profit Goals for Next 12 Months
+      hint: What profit level do you target
+      type: number
+      options: []
+      required: false

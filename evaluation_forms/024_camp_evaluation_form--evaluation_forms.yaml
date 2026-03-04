@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Evaluation Form
+    pages:
+    - id: 1
+      name: evaluation_intro_header
+      label: -- Camp Experience Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: evaluator_role
+      label: Who is completing this evaluation?
+      hint: null
+      type: select_one
+      options:
+      - Camper
+      - Parent or Guardian
+      - Staff Member
+      required: true
+    - id: 3
+      name: session_date_evaluated
+      label: Session Attended
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: overall_satisfaction_rating
+      label: Overall Camp Satisfaction
+      hint: 1 (Very Dissatisfied) to 10 (Excellent)
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: activity_ratings_header
+      label: -- Activity and Program Ratings --
+      hint: Rate your experience with the following
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: rating_outdoor_activities
+      label: Outdoor and Sports Activities
+      hint: null
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 7
+      name: rating_arts_and_crafts
+      label: Arts and Crafts Programs
+      hint: null
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 8
+      name: rating_staff_counselors
+      label: Staff and Counselor Quality
+      hint: null
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 9
+      name: rating_food_quality
+      label: Food and Dining Quality
+      hint: null
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 10
+      name: rating_facilities_lodging
+      label: Facilities and Lodging
+      hint: null
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 11
+      name: favorite_camp_activity
+      label: Favorite Activity or Highlight
+      hint: What did you enjoy the most?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: least_favorite_aspect
+      label: What could be improved?
+      hint: Be honest - help us get better!
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: homesickness_management
+      label: How well was homesickness managed? (If applicable)
+      hint: null
+      type: select_one
+      options:
+      - Not applicable
+      - Very Well
+      - Somewhat Well
+      - Not Very Well
+      - Poorly
+      required: false
+    - id: 14
+      name: recommend_to_others
+      label: Would you recommend this camp to others?
+      hint: null
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Not Sure
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 15
+      name: additional_feedback_camp
+      label: Any other comments or suggestions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: evaluators_email_optional
+      label: Email Address (Optional)
+      hint: If you would like us to follow up with you
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tour Guide Estimate Form
+    pages:
+    - id: 1
+      name: tour_guide_estimate_form
+      label: tourGuideForm
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tourguideservices
+      label: services
+      hint: null
+      type: select_multiple
+      options:
+      - Walking tour
+      - Guided tour
+      - Other
+      required: false
+    - id: 3
+      name: tourguideservicesother
+      label: servicesOther
+      hint: Please specify services
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: servicelocation
+      label: serviceLocation
+      hint: null
+      type: select_one
+      options:
+      - Park
+      - Beach
+      - Other
+      required: false
+    - id: 5
+      name: servicelocationother
+      label: locationOther
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: estimatecost
+      label: estimateCost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: traveltime
+      label: travelTime
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: tourduration
+      label: tourDuration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: estimatecurrency
+      label: estimateCurrency
+      hint: null
+      type: select_one
+      options:
+      - Dollars
+      - Euros
+      - Pounds
+      required: false
+    - id: 10
+      name: estimatecurrencyother
+      label: currencyOther
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

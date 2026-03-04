@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disability Assessment Form
+    pages:
+    - id: 1
+      name: disability_assessment_form
+      label: Disability Assessment Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: disability_categories
+      label: Disability Categories
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: medical_treatment
+      label: Medical Treatment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: functional_limitations
+      label: Functional Limitations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: educational_impact
+      label: Educational Impact
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: disability_status
+      label: Disability Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: medical_professional
+      label: Medical Professional
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: educational_institution
+      label: Educational Institution
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

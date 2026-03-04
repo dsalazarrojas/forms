@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Programming Form
+    pages:
+    - id: 1
+      name: event_programming_form
+      label: event_organizer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: event_location
+      label: event_location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''location_1'', ''label'': ''location1''}'
+      - '{''id'': 2, ''name'': ''location_2'', ''label'': ''location2''}'
+      - '{''id'': 3, ''name'': ''location_3'', ''label'': ''location3''}'
+      required: false
+    - id: 5
+      name: event_details
+      label: event_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: event_notes
+      label: event_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_programming_form_id
+      label: event_programming_form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: event_programming_form_version
+      label: event_programming_form_version
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''version_1'', ''label'': ''version1''}'
+      - '{''id'': 2, ''name'': ''version_2'', ''label'': ''version2''}'
+      required: false

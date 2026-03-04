@@ -1,0 +1,281 @@
+inputSchema:
+  type: object
+  properties:
+    title: Biofuel Usage Log
+    pages:
+    - id: 1
+      name: operator_information
+      label: Operator Information
+      hint: Enter operator details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: operator_name
+      label: Operator Name
+      hint: Full name of operator
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: operator_id
+      label: Operator ID
+      hint: Employee or driver ID
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Department or division
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: log_date
+      label: Log Date
+      hint: Date of biofuel usage
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: equipment_information
+      label: Equipment Information
+      hint: Enter equipment details
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: equipment_id
+      label: Equipment ID
+      hint: Vehicle or equipment number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: equipment_type
+      label: Equipment Type
+      hint: Type of equipment
+      type: select_one
+      options:
+      - Truck
+      - Van
+      - Bus
+      - Generator
+      - Boiler
+      - Farm Equipment
+      - Marine Vessel
+      - Other
+      required: true
+    - id: 9
+      name: equipment_make
+      label: Make
+      hint: Manufacturer name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: equipment_model
+      label: Model
+      hint: Model name or number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: equipment_year
+      label: Year
+      hint: Year of manufacture
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: fuel_information
+      label: Fuel Information
+      hint: Enter biofuel details
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: biofuel_type
+      label: Biofuel Type
+      hint: Type of biofuel used
+      type: select_one
+      options:
+      - Biodiesel B5
+      - Biodiesel B10
+      - Biodiesel B20
+      - Biodiesel B99
+      - Ethanol E10
+      - Ethanol E15
+      - Ethanol E85
+      - Renewable Diesel
+      - Other Biofuel Blend
+      required: true
+    - id: 14
+      name: fuel_supplier
+      label: Fuel Supplier
+      hint: Name of fuel supplier
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: fuel_batch_number
+      label: Batch Number
+      hint: Fuel batch or lot number
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: usage_details
+      label: Usage Details
+      hint: Enter fuel consumption data
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: fuel_quantity_used
+      label: Quantity Used
+      hint: Amount of biofuel consumed
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: quantity_unit
+      label: Unit of Measure
+      hint: Unit for quantity
+      type: select_one
+      options:
+      - Gallons
+      - Liters
+      - Barrels
+      - Kilograms
+      required: true
+    - id: 19
+      name: odometer_start
+      label: Odometer Start
+      hint: Starting mileage or hours
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: odometer_end
+      label: Odometer End
+      hint: Ending mileage or hours
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: distance_traveled
+      label: Distance Traveled
+      hint: Miles or kilometers traveled
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: fuel_efficiency
+      label: Fuel Efficiency
+      hint: Calculated efficiency
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: project_information
+      label: Project Information
+      hint: Enter project details if applicable
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: project_name
+      label: Project Name
+      hint: Name of project or job
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: project_code
+      label: Project Code
+      hint: Project identification code
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: location
+      label: Location
+      hint: Where was equipment operated
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: operating_conditions
+      label: Operating Conditions
+      hint: Describe operating conditions
+      type: select_one
+      options:
+      - Highway Driving
+      - City Driving
+      - Off-Road
+      - Idle Time
+      - Mixed Conditions
+      required: true
+    - id: 28
+      name: refueling_location
+      label: Refueling Location
+      hint: Where was fuel added
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: refueling_time
+      label: Refueling Time
+      hint: Time of refueling
+      type: time
+      options: []
+      required: false
+    - id: 30
+      name: issues_noted
+      label: Issues Noted
+      hint: Any problems or observations
+      type: select_one
+      options:
+      - No Issues
+      - Engine Performance Issue
+      - Fuel Filter Clogged
+      - Unusual Odor
+      - Leak Detected
+      - Other
+      required: true
+    - id: 31
+      name: issue_description
+      label: Issue Description
+      hint: Describe any issues
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: maintenance_required
+      label: Maintenance Required
+      hint: Is maintenance needed
+      type: select_one
+      options:
+      - No Maintenance Needed
+      - Routine Maintenance Due
+      - Immediate Attention Required
+      required: true
+    - id: 33
+      name: supervisor_review
+      label: Supervisor Review
+      hint: Supervisor acknowledgment
+      type: select_one
+      options:
+      - Reviewed and Approved
+      - Pending Review
+      - Requires Follow-up
+      required: false
+    - id: 34
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other comments
+      type: text
+      options: []
+      required: false

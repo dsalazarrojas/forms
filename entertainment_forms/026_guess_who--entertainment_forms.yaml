@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guess Who!!
+    pages:
+    - id: 1
+      name: game_name
+      label: Guess Who!
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: game_year
+      label: release_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: game_genre
+      label: Game Genre
+      hint: null
+      type: select_one
+      options:
+      - Adventure
+      - Action
+      - Platformer
+      - Puzzle
+      - Racing
+      - Role-playing
+      - Strategy
+      - Sports
+      - Other
+      required: false
+    - id: 4
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: false

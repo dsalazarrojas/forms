@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: equipment_pressure_test_report_form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pressure_test_info
+      label: Pressure Test Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: equipment_info
+      label: Equipment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: pressure_test_results
+      label: Pressure Test Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: signature
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 7
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: pressure_test_number
+      label: Pressure Test Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: test_date
+      label: Test Date
+      hint: null
+      type: date
+      options: []
+      required: false

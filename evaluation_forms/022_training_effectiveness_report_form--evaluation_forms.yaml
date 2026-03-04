@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Training Effectiveness Report Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: trainer_name
+      label: Trainer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: training_outcomes
+      label: Training Outcomes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_method
+      label: Evaluation Method
+      hint: null
+      type: select_one
+      options:
+      - Evaluation Form
+      - Online Form
+      - Phone Call
+      - In Person
+      required: true
+    - id: 9
+      name: evaluation_outcomes
+      label: Evaluation Outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Not Very Good
+      required: true
+    - id: 10
+      name: recommendation
+      label: Recommendation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: suggestion
+      label: Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: assigned_tools
+      label: Assigned Tools
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: trunk-or-treat-registration-form
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_preferred_phone
+      label: Contact Preferred Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: trunk_or_treat_vehicle
+      label: Trunk or Treat Vehicle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: trunk_or_treat_vehicle_type
+      label: Trunk or Treat Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Car
+      - Truck
+      - SUV
+      - Van
+      - Tricycle
+      - Other
+      required: false
+    - id: 10
+      name: trunk_or_treat_vehicle_year
+      label: Trunk or Treat Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: number_of_children
+      label: Number of Children
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: number_of_adults
+      label: Number of Adults
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: age_of_youngest_child
+      label: Age of Youngest Child
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: age_of_oldest_child
+      label: Age of Oldest Child
+      hint: null
+      type: number
+      options: []
+      required: false

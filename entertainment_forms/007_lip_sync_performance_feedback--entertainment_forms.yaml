@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: lip_sync_performance_feedback
+    pages:
+    - id: 1
+      name: synchronization
+      label: synchronization
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: stage_presence
+      label: stage presence
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 3
+      name: creativity
+      label: creativity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false

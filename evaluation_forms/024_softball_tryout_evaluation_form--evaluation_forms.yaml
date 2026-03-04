@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Softball Tryout Evaluation Form
+    pages:
+    - id: 1
+      name: player_info
+      label: Player Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: skills_assessed
+      label: Skills Assessed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false

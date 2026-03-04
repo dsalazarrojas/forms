@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safety Perception Survey
+    pages:
+    - id: 1
+      name: survey_page
+      label: Safety Perception Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: questions
+      label: Questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: safety_feeling
+      label: How safe do you feel at work
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: incident_reported
+      label: Have you reported a safety incident
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: true
+    - id: 5
+      name: safety_measures
+      label: Have measures been taken to address safety concerns
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: true
+    - id: 6
+      name: incident_response
+      label: How did the incident get addressed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: true
+    - id: 7
+      name: safety_training
+      label: Have you received safety training
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: true
+    - id: 8
+      name: safety_procedure
+      label: Are procedures in place
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: true
+    - id: 9
+      name: incident_reported_to
+      label: Who was it reported to
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: reported_by
+      label: Who reported it
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: incident_location
+      label: Where did the incident occur
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_time
+      label: What time did the incident occur
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: incident_description
+      label: Describe the incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: incident_date
+      label: Date of the incident
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: safety_concerns
+      label: List of safety concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: safety_measures_taken
+      label: Measures taken to address concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: incident_follow_up
+      label: Follow up action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: incident_status
+      label: Incident status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Resolved
+      - Closed
+      required: true
+    - id: 19
+      name: incident_reported_by
+      label: Who reported the incident
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: incident_affected
+      label: Incident affected
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: incident_who_reported
+      label: Who reported
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: incident_where
+      label: Where
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: incident_why
+      label: Why
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: incident_what
+      label: What
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: incident_when
+      label: When
+      hint: null
+      type: time
+      options: []
+      required: false

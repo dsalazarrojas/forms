@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pitch Competition Scoring Form
+    pages:
+    - id: 1
+      name: team
+      label: team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: judge_name
+      label: judge name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: score
+      label: score
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: pitch
+      label: pitch
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: team_name
+      label: team name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: presentation
+      label: presentation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: innovation
+      label: innovation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: business_model
+      label: business model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: pitch
+      label: pitch
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: team
+      label: team
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: innovation
+      label: innovation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: business_model
+      label: business model
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

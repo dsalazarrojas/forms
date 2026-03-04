@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Belonging Index Survey
+    pages:
+    - id: 1
+      name: page_1
+      label: Welcome to the survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: page_2
+      label: How often do you feel valued and appreciated
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: page_3
+      label: How likely are you to recommend this organization
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: page_4
+      label: How often do you feel included
+      hint: Select all that apply
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: page_5
+      label: How likely are you to report
+      hint: null
+      type: time
+      options: []
+      required: false

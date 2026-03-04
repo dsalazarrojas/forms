@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Product Evaluation Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 3
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: evaluation_scale
+      label: Evaluation Scale
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 6
+      name: date_of_purchase
+      label: Date of Purchase
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_purchase
+      label: Time of Purchase
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: product_weight
+      label: Product Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: price_range
+      label: Price Range
+      hint: null
+      type: select_one
+      options:
+      - low
+      - medium
+      - high
+      required: false
+    - id: 10
+      name: purchase_method
+      label: Purchase Method
+      hint: null
+      type: select_multiple
+      options:
+      - online
+      - in_person
+      required: false
+    - id: 11
+      name: store
+      label: Store
+      hint: null
+      type: select_one
+      options:
+      - store1
+      - store2
+      - store3
+      required: false
+    - id: 12
+      name: store_location
+      label: Store Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: store_phone
+      label: Store Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

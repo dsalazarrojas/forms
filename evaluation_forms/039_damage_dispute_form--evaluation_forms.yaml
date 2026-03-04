@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Damage Dispute Form
+    pages:
+    - id: 1
+      name: property_claimant
+      label: Property Claimant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: property_manager
+      label: Property Manager
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Property Manager 1''}'
+      - '{''id'': 2, ''name'': ''Property Manager 2''}'
+      - '{''id'': 3, ''name'': ''Property Manager 3''}'
+      required: true
+    - id: 3
+      name: property_damage_date
+      label: Property Damage Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: property_damage_description
+      label: Property Damage Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: evidence_attachment
+      label: Evidence Attachment(s)
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: damage_amount
+      label: Damage Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: supporting_evidence
+      label: Supporting Evidence
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

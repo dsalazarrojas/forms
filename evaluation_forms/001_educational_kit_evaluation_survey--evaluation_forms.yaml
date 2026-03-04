@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Kit Evaluation Survey
+    pages:
+    - id: 1
+      name: school_id
+      label: school_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: rating_usefulness
+      label: rating usefulness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: rating_content_quality
+      label: rating content quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: rating_ease_use
+      label: rating ease of use
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: feedback_useful
+      label: feedback on usefulness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback_content
+      label: feedback on content quality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feedback_ease_use
+      label: feedback ease of use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: rating_date_range
+      label: date range
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 13
+      name: rating_time_range
+      label: time range
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 14
+      name: rating_scale
+      label: rating scale
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 15
+      name: rating_scale_text
+      label: rating scale text
+      hint: null
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 16
+      name: rating_scale_text_2
+      label: rating scale text 2
+      hint: null
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: false

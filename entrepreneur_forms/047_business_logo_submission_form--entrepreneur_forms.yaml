@@ -1,0 +1,85 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Logo Submission Form
+    pages:
+      - id: 1
+        name: header
+        label: -- Logo Submission --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: company_name
+        label: Company name
+        hint: Name to appear with logo
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: contact_name
+        label: Contact name
+        hint: Person submitting the logo
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: contact_email
+        label: Contact email
+        hint: For proof approvals and feedback
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: logo_file_instructions
+        label: Logo file instructions
+        hint: Preferred file formats vector files recommended
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: color_variants
+        label: Color variants
+        hint: Describe required color variants for the logo
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: usage_contexts
+        label: Usage contexts
+        hint: Where the logo will be used for example print web
+        type: select_multiple
+        options:
+          - Print
+          - Web
+          - Social media
+          - Merchandise
+        required: false
+      - id: 8
+        name: tagline_included
+        label: Tagline included
+        hint: Is a tagline to be included with logo
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: false
+      - id: 9
+        name: additional_notes
+        label: Additional notes
+        hint: Any other design instructions
+        type: text
+        options: []
+        required: false

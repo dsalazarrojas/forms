@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Grievance Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: grievance_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: grievance_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: grievance_details
+      label: Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: grievance_file
+      label: File
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: grievance_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 9
+      name: grievance_category_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: grievance_category_other_other
+      label: Other Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: grievance_priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 12
+      name: grievance_escalate
+      label: Escalate
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: grievance_escalate_other
+      label: Escalate Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: grievance_comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: grievance_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Reopened
+      required: true
+    - id: 16
+      name: grievance_resolution
+      label: Resolution
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: grievance_resolution_other
+      label: Resolution Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: grievance_resolution_status
+      label: Resolution Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Reopened
+      required: true
+    - id: 19
+      name: grievance_comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: grievance_comment_escalate
+      label: Escalate Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: grievance_comment_resolution
+      label: Resolution Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: grievance_note
+      label: Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: grievance_form
+      label: Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: grievance_other_form
+      label: Other Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: grievance_other_form_other
+      label: Other Form
+      hint: null
+      type: text
+      options: []
+      required: false

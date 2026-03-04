@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Player Coaching Strategy Evaluation Form
+    pages:
+    - id: 1
+      name: session_date
+      label: session date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: coach_name
+      label: coaching staff member name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_notes
+      label: session notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: player_comments
+      label: player comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: coaching_strategy
+      label: coaching strategy
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 6
+      name: evaluation_form
+      label: evaluation form
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: overall_rating
+      label: overall rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: text
+      options: []
+      required: false

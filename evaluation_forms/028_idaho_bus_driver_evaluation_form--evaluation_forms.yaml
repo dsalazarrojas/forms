@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: idaho_bus_driver_evaluation_form
+    pages:
+    - id: 1
+      name: driver_name
+      label: Driver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: driver_license_number
+      label: Driver License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: driver_license_state
+      label: Driver License State
+      hint: null
+      type: select_one
+      options:
+      - Idaho
+      - Oregon
+      - Washington
+      required: false
+    - id: 4
+      name: driver_experience_years
+      label: Driver Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: driving_history
+      label: Driving History
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 6
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_color
+      label: Vehicle Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_registration_number
+      label: Vehicle Registration Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: accident_history
+      label: Accident History
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - N/A
+      required: false
+    - id: 14
+      name: vehicle_maintenance
+      label: Vehicle Maintenance
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 15
+      name: driver_signature
+      label: Driver Signature
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Movie Night Scheduling Form
+    pages:
+    - id: 1
+      name: movie_night_details
+      label: Movie Night Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: movie_location
+      label: Movie Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: movie_schedule
+      label: Movie Schedule
+      hint: Select one or more schedules for the movie night
+      type: select_multiple
+      options:
+      - 7:00 PM
+      - 8:00 PM
+      - 9:00 PM
+      required: true
+    - id: 4
+      name: host_details
+      label: Host Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: movie_description
+      label: Movie Description
+      hint: Describe the movie in a short paragraph
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: movie_genre
+      label: Movie Genre
+      hint: Choose the movie genre
+      type: select_one
+      options:
+      - Action
+      - Comedy
+      - Drama
+      - Horror
+      - Mystery
+      required: true
+    - id: 7
+      name: movie_ratings
+      label: Movie Ratings
+      hint: Enter the movie ratings
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: movie_votes
+      label: Movie Votes
+      hint: Enter the number of movie votes
+      type: number
+      options: []
+      required: false

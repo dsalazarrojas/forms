@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volleyball Tryout Evaluation Form
+    pages:
+    - id: 1
+      name: player_compatibility
+      label: player_compatibility
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: skills
+      label: skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: plays_by
+      label: plays_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: team_compatibility
+      label: team_compatibility
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: coach_notes
+      label: coach_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: evaluator_signature
+      label: evaluator_signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

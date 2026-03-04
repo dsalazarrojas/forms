@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Member Evaluation Form
+    pages:
+    - id: 1
+      name: team_member_id
+      label: Team Member ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: evaluator_name
+      label: Evaluator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: evaluator_email
+      label: Evaluator Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: team_member_name
+      label: Team Member Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: team_member_role
+      label: Team Member Role
+      hint: null
+      type: select_one
+      options:
+      - Team Leader
+      - Team Member
+      - Other
+      required: true
+    - id: 6
+      name: team_member_rating
+      label: Team Member Rating
+      hint: Please rate from 1 to 5
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: evaluator_comment
+      label: Evaluator Comment
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: team_member_comment
+      label: Team Member Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: team_member_comment
+      label: Team Member Comment
+      hint: null
+      type: note
+      options: []
+      required: true

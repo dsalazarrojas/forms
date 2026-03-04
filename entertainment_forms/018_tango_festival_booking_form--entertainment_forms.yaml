@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tango Festival Booking Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: dance_category
+      label: Dance category
+      hint: null
+      type: select_multiple
+      options:
+      - Argentine Tango
+      - Milonga
+      - Neoclassical
+      - Tango nuevo
+      - Tango Orquesta
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment method
+      hint: null
+      type: select_one
+      options:
+      - Bank transfer
+      - PayPal
+      - Stripe
+      required: false
+    - id: 8
+      name: payment_status
+      label: Payment status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      required: false
+    - id: 9
+      name: tango_level
+      label: Tango level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false

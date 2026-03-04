@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quiz Form
+    pages:
+    - id: 1
+      name: quiz_form_input
+      label: First question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: quiz_form_input_2
+      label: First question 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: quiz_form_input_3
+      label: First question 3
+      hint: Some hint for question 3
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 4
+      name: quiz_form_input_4
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: quiz_form_input_5
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: quiz_form_input_6
+      label: Quiz Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: quiz_form_input_7
+      label: Quiz Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: quiz_form_input_8
+      label: quiz_time
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 9
+      name: quiz_form_input_9
+      label: Some other question
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artist Registration
+    pages:
+    - id: 1
+      name: artist_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: artist_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: band_name
+      label: Band or Group Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: website_url
+      label: Website or Portfolio URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: music_genre
+      label: Primary Music Genre
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: subgenres
+      label: Sub-genres or Related Styles
+      hint: Comma-separated list
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: formation_year
+      label: Year Band or Artist Formed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: band_members
+      label: Band Member Names and Instruments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: artists_bio
+      label: Artist or Band Biography
+      hint: 100-200 words
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: notable_works
+      label: Notable Works or Albums
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: awards_recognition
+      label: Awards or Recognition Received
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: social_media_links
+      label: Social Media Links
+      hint: Instagram, Facebook, Twitter, etc.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: streaming_platforms
+      label: Available on Streaming Platforms
+      hint: Spotify, Apple Music, SoundCloud, etc.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: registration_category
+      label: Registration Category or Type
+      hint: null
+      type: select_one
+      options:
+      - Solo Artist
+      - Duo
+      - Band - 3-5 Members
+      - Large Ensemble
+      - Other
+      required: true
+    - id: 17
+      name: experience_level
+      label: Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Amateur
+      - Semi-Professional
+      - Professional
+      - Touring
+      required: false
+    - id: 18
+      name: booking_status
+      label: Available for Booking
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Limited Availability
+      required: true
+    - id: 19
+      name: performance_fee
+      label: Typical Performance Fee Range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false

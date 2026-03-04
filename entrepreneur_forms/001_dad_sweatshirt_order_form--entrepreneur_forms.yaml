@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dad Sweatshirt Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: sweatshirt_color
+      label: Sweatshirt Color
+      hint: Select a color
+      type: select_one
+      options:
+      - Black
+      - Blue
+      - Green
+      - Red
+      required: false
+    - id: 8
+      name: t_shirt_size
+      label: T-Shirt Size
+      hint: Select a size
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - X-Large
+      required: false
+    - id: 9
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: message
+      label: Message
+      hint: Enter any additional information
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: sweatshirt_type
+      label: Sweatshirt Type
+      hint: Select a type
+      type: select_one
+      options:
+      - Hoodie
+      - T-Shirt
+      - Tank Top
+      required: false
+    - id: 12
+      name: font_style
+      label: Font Style
+      hint: null
+      type: select_one
+      options:
+      - Script
+      - Block
+      - Outline
+      - Print
+      required: false
+    - id: 13
+      name: font_size
+      label: Font Size
+      hint: Select a size
+      type: select_one
+      options:
+      - 12pt
+      - 18pt
+      - 24pt
+      - 30pt
+      required: false
+    - id: 14
+      name: font_color
+      label: Font Color
+      hint: Select a color
+      type: select_one
+      options:
+      - White
+      - Black
+      - Red
+      required: false
+    - id: 15
+      name: sweatshirt_message
+      label: Message on front
+      hint: null
+      type: note
+      options: []
+      required: false

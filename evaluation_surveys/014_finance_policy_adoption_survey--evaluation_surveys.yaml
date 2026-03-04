@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: finance_policy_adoption_survey
+    pages:
+    - id: 1
+      name: finance_policy_understanding
+      label: Finance Policy Understanding
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: policy_implementation
+      label: Policy Implementation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: policy_challenges
+      label: Policy Challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: finance_policy_adoption
+      label: Finance Policy Adoption
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: finance_depts_involvement
+      label: Finance Departments Involvement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: employee_feedback
+      label: Employee Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: policy_awareness
+      label: Policy Awareness
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: compliance_teams_involvement
+      label: Compliance Teams Involvement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: employee_support
+      label: Employee Support
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,242 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Auction Form
+    pages:
+    - id: 1
+      name: section_bidder_info
+      label: -- Bidder Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: bidder_name
+      label: Bidder Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: bidder_id
+      label: Bidder ID or Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: bidder_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: bidder_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: bidder_type
+      label: Bidder Type
+      hint: null
+      type: select_one
+      options:
+      - Individual collector
+      - Gallery or dealer
+      - Museum or institution
+      - Corporate buyer
+      - Other
+      required: true
+    - id: 7
+      name: section_artwork_details
+      label: -- Artwork Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: artwork_lot_number
+      label: Artwork Lot Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: artwork_title
+      label: Artwork Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: artist_name
+      label: Artist Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: artwork_medium
+      label: Medium or Technique
+      hint: Painting, sculpture, print, etc.
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: artwork_dimensions
+      label: Artwork Dimensions
+      hint: Height x Width x Depth
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: artwork_date
+      label: Year or Date Created
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: artwork_condition
+      label: Artwork Condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - As is
+      required: true
+    - id: 15
+      name: artwork_estimate_low
+      label: Estimated Value - Low End
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: artwork_estimate_high
+      label: Estimated Value - High End
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: section_bidding
+      label: -- Bidding Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: opening_bid
+      label: Opening Bid Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: current_bid
+      label: Current Bid Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: your_bid_amount
+      label: Your Bid Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: reserve_price_met
+      label: Is Reserve Price Met
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: true
+    - id: 22
+      name: bid_increment
+      label: Minimum Bid Increment Accepted
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: section_payment
+      label: -- Payment Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit card
+      - Bank transfer
+      - Check
+      - Cash
+      - Other
+      required: true
+    - id: 25
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - Full payment immediately
+      - Deposit required
+      - Payment plan available
+      required: true
+    - id: 26
+      name: section_shipping
+      label: -- Shipping and Delivery --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: delivery_preference
+      label: Delivery Preference
+      hint: null
+      type: select_one
+      options:
+      - Pickup at auction
+      - Shipping to address
+      - Gallery delivery
+      - Other arrangement
+      required: true
+    - id: 29
+      name: insurance_interest
+      label: Interested in Auction Insurance
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 30
+      name: additional_notes
+      label: Additional Notes or Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false

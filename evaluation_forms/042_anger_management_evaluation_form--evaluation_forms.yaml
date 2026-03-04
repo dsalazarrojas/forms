@@ -1,0 +1,153 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Anger Management Evaluation Form
+    pages:
+    - id: 1
+      name: section_evaluation_header
+      label: -- Anger Management Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: individual_name
+      label: Name of Individual Being Evaluated
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: evaluator_professional_name
+      label: Evaluator Professional Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: evaluation_date
+      label: Date of Evaluation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_assessment_areas
+      label: -- Assessment Areas --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: frequency_of_anger_outbursts
+      label: Frequency of Anger Outbursts
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: true
+    - id: 7
+      name: duration_of_anger_episodes
+      label: Average Duration of Anger Episodes
+      hint: null
+      type: select_one
+      options:
+      - Less than 10 mins
+      - 10-30 mins
+      - 30-60 mins
+      - Hours
+      - Days
+      required: true
+    - id: 8
+      name: ability_to_control_verbal_outbursts
+      label: Ability to Control Verbal Outbursts
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Often
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 9
+      name: history_of_physical_aggression
+      label: History of Physical Aggression?
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 10
+      name: section_impact_insight
+      label: -- Impact and Insight --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: impact_on_personal_relationships
+      label: Impact of Anger on Personal Relationships
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: impact_on_professional_life
+      label: Impact of Anger on Professional Life
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: level_of_insight_into_triggers
+      label: Observed Level of Insight into Triggers
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Moderate
+      - Low
+      - None
+      required: true
+    - id: 14
+      name: section_recommendations
+      label: -- Recommendations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: recommended_interventions
+      label: Recommended Interventions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Individual Therapy
+      - Group Counseling
+      - Medication Evaluation
+      - Stress Management Workshop
+      - Regular Exercise
+      required: false
+    - id: 16
+      name: evaluator_summary_and_conclusion
+      label: Evaluator Summary and Conclusion
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Estimation Contest Entry Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: estimate_value
+      label: estimate value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: estimate_currency
+      label: estimate currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - CNY
+      - JPY
+      - CHT
+      required: false
+    - id: 5
+      name: estimate_date
+      label: guess date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: contact phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mental Health Foundation Employee Details Form
+    pages:
+    - id: 1
+      name: page_1
+      label: Page 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: work_location
+      label: Work Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: termination_date
+      label: Termination Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - On Leave
+      required: true

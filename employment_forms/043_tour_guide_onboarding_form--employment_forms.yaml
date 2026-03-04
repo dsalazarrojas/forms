@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tour Guide Onboarding Form
+    pages:
+    - id: 1
+      name: tour_guide_applications
+      label: Tour Guide Applications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: onboarding_details
+      label: Onboarding Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: onboarding_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 4
+      name: tour_operator_name
+      label: Tour Operator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: travel_agency_name
+      label: Travel Agency Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: experience_provider_name
+      label: Experience Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: onboarding_date
+      label: Onboarding Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: true

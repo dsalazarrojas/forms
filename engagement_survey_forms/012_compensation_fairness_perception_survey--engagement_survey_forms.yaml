@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Compensation Fairness Perception Survey
+    pages:
+    - id: 1
+      name: intro
+      label: -- Survey Introduction --
+      hint: responses are anonymous and used for engagement insights
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_tenure
+      label: tenure with organization in years
+      hint: approximate whole years
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: pay_fairness_rating
+      label: how fair is pay in your view
+      hint: 1 very unfair to 5 very fair
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: clarity_of_pay_policy
+      label: clarity of pay policy
+      hint: how clear are pay decisions communicated
+      type: select_one
+      options:
+      - Very clear
+      - Somewhat clear
+      - Not clear
+      required: true
+    - id: 5
+      name: perceived_bias
+      label: perceived bias in pay decisions
+      hint: select best option
+      type: select_one
+      options:
+      - No bias
+      - Some bias
+      - Significant bias
+      required: false
+    - id: 6
+      name: important_factors
+      label: factors that should influence pay
+      hint: select up to three
+      type: select_multiple
+      options:
+      - Performance
+      - Tenure
+      - Market rates
+      - Skills
+      - Diversity goals
+      required: false
+    - id: 7
+      name: suggestions_for_improvement
+      label: suggestions for improving fairness
+      hint: brief actionable suggestions
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: willing_to_participate
+      label: willing to discuss feedback further
+      hint: follow up by HR if yes
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 9
+      name: submission_date
+      label: submission date
+      hint: date of response
+      type: date
+      options: []
+      required: true

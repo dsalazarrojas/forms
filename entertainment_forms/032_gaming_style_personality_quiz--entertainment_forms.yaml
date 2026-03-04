@@ -1,0 +1,82 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: PRAGaming Style Personality Quiz
+    pages:
+    - id: 1
+      name: game_style
+      label: What type of games do you enjoy?
+      hint: null
+      type: select_one
+      options:
+      - Action
+      - Adventure
+      - Role-playing
+      - Simulation
+      - Strategy
+      required: false
+    - id: 2
+      name: game_frequency
+      label: How often do you play games?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - A few times a month
+      - Rarely
+      required: false
+    - id: 3
+      name: game_genre
+      label: Which genre do you like best?
+      hint: null
+      type: select_multiple
+      options:
+      - Fantasy
+      - Sci-fi
+      - Sports
+      - Horror
+      - Simulation
+      required: false
+    - id: 4
+      name: game_length
+      label: How long do you prefer to play?
+      hint: null
+      type: select_one
+      options:
+      - Short
+      - Medium
+      - Long
+      required: false
+    - id: 5
+      name: game_player_type
+      label: What type of player are you?
+      hint: null
+      type: select_one
+      options:
+      - Solo
+      - Multiplayer
+      - Co-op
+      required: false
+    - id: 6
+      name: game_emotions
+      label: How do you feel when playing?
+      hint: null
+      type: select_multiple
+      options:
+      - Excited
+      - Relaxed
+      - Frustrated
+      - Anxious
+      - Bored
+      required: false

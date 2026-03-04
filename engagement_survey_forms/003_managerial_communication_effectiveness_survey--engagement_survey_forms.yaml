@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Managerial Communication Effectiveness Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: communication_skills
+      label: Managerial Communication Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: approachability
+      label: Approachability
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [{''id'': 1, ''name'': ''Very Good''}, {''id'': 2, ''name'':
+        ''Good''}, {''id'': 3, ''name'': ''Fair''}, {''id'': 4, ''name'': ''Poor''},
+        {''id'': 5, ''name'': ''Very Poor''}, {''id'': 6, ''name'': "Don''t Know"}],
+        ''hint'': None}'
+      - Other
+      required: false
+    - id: 4
+      name: communication_channels
+      label: Communication Channels
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': [{''id'': 1, ''name'': ''Email''}, {''id'': 2, ''name'': ''Phone''},
+        {''id'': 3, ''name'': ''In person''}, {''id'': 4, ''name'': ''Video Conference''},
+        {''id'': 5, ''name'': ''Chat''}, {''id'': 6, ''name'': "Don''t Know"}], ''hint'':
+        None}'
+      - Other
+      required: false
+    - id: 5
+      name: listening_skills
+      label: Listening Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback_frequency
+      label: Frequency of Feedback
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [{''id'': 1, ''name'': ''Daily''}, {''id'': 2, ''name'': ''Weekly''},
+        {''id'': 3, ''name'': ''Monthly''}, {''id'': 4, ''name'': ''Rarely''}], ''hint'':
+        None}'
+      - Other
+      required: false
+    - id: 7
+      name: development_efforts
+      label: Development Efforts
+      hint: null
+      type: text
+      options: []
+      required: false

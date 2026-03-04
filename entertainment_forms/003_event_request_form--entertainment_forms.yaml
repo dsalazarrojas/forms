@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: event_request_form
+    pages:
+    - id: 1
+      name: event_request_form_page
+      label: Event Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_dates
+      label: Event Dates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_organizers
+      label: Event Organizers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_organizer_details
+      label: Event Organizer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: venue
+      label: Venue
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Conference Center''}'
+      - '{''label'': ''Convention Center''}'
+      - '{''label'': ''Outdoor Location''}'
+      - '{''label'': ''Online''}'
+      required: false
+    - id: 8
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_tags
+      label: Event Tags
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Charity Event''}'
+      - '{''label'': ''Conference''}'
+      - '{''label'': ''Seminar''}'
+      - '{''label'': ''Charity''}'
+      required: false
+    - id: 10
+      name: event_status
+      label: Event Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Pending''}'
+      - '{''label'': ''Approved''}'
+      - '{''label'': ''Cancelled''}'
+      required: true
+    - id: 11
+      name: event_requester_info
+      label: Event Requester Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_requester_name
+      label: Event Requester Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_requester_email
+      label: Event Requester Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: event_requester_phone
+      label: Event Requester Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: event_requester_organization
+      label: Event Requester Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: event_requester_notes
+      label: Event Requester Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: event_requester_additional_info
+      label: Event Requester Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: event_requester_agreement
+      label: Event Requester Agreement
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 19
+      name: event_organizers_info
+      label: Event Organizers Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: event_organizer_name
+      label: Event Organizer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: event_organizer_title
+      label: Event Organizer Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: event_organizer_email
+      label: Event Organizer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: event_organizer_phone
+      label: Event Organizer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: event_organizers_notes
+      label: Event Organizers Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: event_organizer_agreement
+      label: Event Organizer Agreement
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false

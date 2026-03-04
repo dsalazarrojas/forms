@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Client Information Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reason
+      label: Reason for Choosing Our Business
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_method
+      label: How Do You Prefer to be Contacted
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Mail''}'
+      required: false
+    - id: 7
+      name: contact_method_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false

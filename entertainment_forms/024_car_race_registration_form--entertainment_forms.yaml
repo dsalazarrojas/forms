@@ -1,0 +1,467 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Race Registration Form
+    pages:
+    - id: 1
+      name: driver_information
+      label: Driver Information
+      hint: Your personal details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Must be 18 or older
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: For race communications
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Street Address
+      hint: Your address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP Code
+      hint: Your ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: racing_experience
+      label: Racing Experience
+      hint: Your experience level
+      type: select_one
+      options:
+      - First-time racer
+      - Beginner (1-5 races)
+      - Intermediate (6-20 races)
+      - Experienced (21-50 races)
+      - Professional (50+ races)
+      required: true
+    - id: 14
+      name: racing_license
+      label: Racing License
+      hint: Do you have a racing license?
+      type: select_one
+      options:
+      - Yes - SCCA
+      - Yes - NASA
+      - Yes - Other organization
+      - No - street license only
+      - No license
+      required: true
+    - id: 15
+      name: license_number
+      label: License Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_information
+      label: Vehicle Information
+      hint: Details about your race car
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Year
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: vehicle_make
+      label: Vehicle Make
+      hint: Manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Model
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: vehicle_color
+      label: Vehicle Color
+      hint: Primary color
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: vehicle_vin
+      label: VIN
+      hint: Vehicle Identification Number
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: vehicle_number
+      label: Car Number
+      hint: Racing number
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: vehicle_class
+      label: Vehicle Class
+      hint: Racing class
+      type: select_one
+      options:
+      - Stock
+      - Modified
+      - Super Modified
+      - Prototype
+      - Open class
+      - Undecided
+      required: true
+    - id: 24
+      name: engine_type
+      label: Engine Type
+      hint: Engine specifications
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: engine_displacement
+      label: Engine Displacement
+      hint: CC or liters
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: horsepower
+      label: Horsepower
+      hint: Estimated HP
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: vehicle_weight
+      label: Vehicle Weight
+      hint: Current weight
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: safety_equipment
+      label: Safety Equipment
+      hint: Installed safety features
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: roll_cage
+      label: Roll Cage
+      hint: Do you have a roll cage?
+      type: select_one
+      options:
+      - Yes - certified
+      - Yes - not certified
+      - false
+      required: true
+    - id: 30
+      name: racing_harness
+      label: Racing Harness
+      hint: Type of harness
+      type: select_one
+      options:
+      - 5-point
+      - 6-point
+      - 7-point
+      - None
+      required: true
+    - id: 31
+      name: fire_suppression
+      label: Fire Suppression System
+      hint: Do you have one?
+      type: select_one
+      options:
+      - Yes - onboard
+      - Yes - handheld
+      - false
+      required: true
+    - id: 32
+      name: racing_seat
+      label: Racing Seat
+      hint: Type of seat
+      type: select_one
+      options:
+      - Fixed back
+      - Reclining
+      - Stock seat
+      - None
+      required: true
+    - id: 33
+      name: helmet_rating
+      label: Helmet Rating
+      hint: Helmet certification
+      type: select_one
+      options:
+      - SA2020
+      - SA2015
+      - M2020
+      - M2015
+      - Other
+      - None
+      required: true
+    - id: 34
+      name: racing_suit
+      label: Racing Suit
+      hint: Do you have one?
+      type: select_one
+      options:
+      - Yes - SFI 3.2A/5
+      - Yes - SFI 3.2A/1
+      - Yes - other rating
+      - false
+      required: true
+    - id: 35
+      name: additional_safety
+      label: Additional Safety Equipment
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - HANS device
+      - Fire extinguisher
+      - Window net
+      - Racing gloves
+      - Racing shoes
+      - Head restraint
+      - Neck brace
+      - None
+      required: false
+    - id: 36
+      name: race_details
+      label: Race Details
+      hint: Your race preferences
+      type: note
+      options: []
+      required: false
+    - id: 37
+      name: race_class
+      label: Race Class Entry
+      hint: Which class?
+      type: select_one
+      options:
+      - Novice
+      - Amateur
+      - Semi-Pro
+      - Professional
+      - Exhibition
+      required: true
+    - id: 38
+      name: race_category
+      label: Race Category
+      hint: Category type
+      type: select_one
+      options:
+      - Sprint
+      - Endurance
+      - Drag
+      - Autocross
+      - Time Attack
+      - Road Race
+      required: true
+    - id: 39
+      name: crew_members
+      label: Crew Members
+      hint: How many crew?
+      type: select_one
+      options:
+      - None - solo
+      - 1-2
+      - 3-5
+      - 6-10
+      - 11+
+      required: true
+    - id: 40
+      name: pit_space_needed
+      label: Pit Space Needed
+      hint: Do you need pit space?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 41
+      name: fuel_type
+      label: Fuel Type
+      hint: What fuel do you use?
+      type: select_one
+      options:
+      - Pump gas
+      - Race fuel
+      - E85
+      - Diesel
+      - Electric
+      - Other
+      required: true
+    - id: 42
+      name: tire_type
+      label: Tire Type
+      hint: What tires?
+      type: select_one
+      options:
+      - Street tires
+      - R-compound
+      - Slicks
+      - Rain tires
+      - Other
+      required: true
+    - id: 43
+      name: previous_incidents
+      label: Previous Racing Incidents
+      hint: Any serious incidents?
+      type: select_one
+      options:
+      - No incidents
+      - Minor incidents only
+      - Major incidents
+      - Prefer not to say
+      required: true
+    - id: 44
+      name: incident_details
+      label: Incident Details
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 45
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Any conditions we should know?
+      type: text
+      options: []
+      required: false
+    - id: 46
+      name: current_medications
+      label: Current Medications
+      hint: Any medications?
+      type: text
+      options: []
+      required: false
+    - id: 47
+      name: sponsorship
+      label: Sponsorship
+      hint: Do you have sponsors?
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 48
+      name: sponsor_names
+      label: Sponsor Names
+      hint: List sponsors
+      type: text
+      options: []
+      required: false
+    - id: 49
+      name: registration_fee
+      label: Registration Fee
+      hint: Fee payment status
+      type: select_one
+      options:
+      - Paid with registration
+      - Will pay separately
+      - Need invoice
+      - Sponsor paying
+      required: true
+    - id: 50
+      name: waiver_agreement
+      label: Waiver Agreement
+      hint: Do you accept the waiver?
+      type: select_one
+      options:
+      - I accept and sign the waiver
+      - I do not accept
+      required: true
+    - id: 51
+      name: rules_agreement
+      label: Rules Agreement
+      hint: Do you agree to follow rules?
+      type: select_one
+      options:
+      - I agree to follow all race rules
+      - I do not agree
+      required: true
+    - id: 52
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 53
+      name: registration_date
+      label: Registration Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

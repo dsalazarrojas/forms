@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Game Observation Form
+    pages:
+    - id: 1
+      name: game_observation_form
+      label: Game Observation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: game_observation_date
+      label: Game Observation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: athlete
+      label: Athlete
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Player 1'', ''value'': ''player_1''}'
+      - '{''id'': 2, ''label'': ''Player 2'', ''value'': ''player_2''}'
+      - '{''id'': 3, ''label'': ''Player 3'', ''value'': ''player_3''}'
+      required: false
+    - id: 4
+      name: position
+      label: Position
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Forward'', ''value'': ''forward''}'
+      - '{''id'': 2, ''label'': ''Backward'', ''value'': ''backward''}'
+      required: false
+    - id: 5
+      name: game_observation_form_comments
+      label: Game Observation Form Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: game_observation_score
+      label: Game Observation Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: game_observation_duration
+      label: Game Observation Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: game_observation_rating
+      label: Game Observation Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: game_observation_notes
+      label: Game Observation Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: game_observation_next_steps
+      label: Game Observation Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: game_observation_recommendations
+      label: Game Observation Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: game_observation_additional_comments
+      label: Game Observation Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

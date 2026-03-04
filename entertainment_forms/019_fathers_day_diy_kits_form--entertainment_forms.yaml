@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fathers Day DIY Kits Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: order_type
+      label: Order Type
+      hint: null
+      type: select_one
+      options:
+      - Kit 1
+      - Kit 2
+      - Kit 3
+      required: false
+    - id: 7
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: false
+    - id: 11
+      name: output_file
+      label: Output File
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: form_ids
+      label: Form IDs
+      hint: null
+      type: number
+      options: []
+      required: false

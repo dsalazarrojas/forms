@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Faculty Research Contribution Assessment Form
+    pages:
+    - id: 1
+      name: assessment_intro
+      label: Faculty Research Contribution Assessment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: faculty_name
+      label: Faculty Name
+      hint: Full name of the faculty member being assessed
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: faculty_id
+      label: Faculty ID
+      hint: Employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Academic department affiliation
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: rank_position
+      label: Rank/Position
+      hint: Current academic rank or position
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: assessment_period
+      label: Assessment Period
+      hint: Time period being evaluated (e.g., academic year)
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: number_publications
+      label: Number of Publications
+      hint: How many peer-reviewed publications during assessment period?
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: publication_quality_rating
+      label: Publication Quality Rating
+      hint: Average quality rating of publications (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: grant_activity
+      label: Grant Activity
+      hint: Number and value of grants secured during assessment period
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: research_collaborations
+      label: Research Collaborations
+      hint: Number of research collaborations initiated or maintained
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: conference_presentations
+      label: Conference Presentations
+      hint: Number of presentations at academic conferences
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: research_impact_metrics
+      label: Research Impact Metrics
+      hint: Citations, h-index, or other impact indicators
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: research_funding_secured
+      label: Research Funding Secured
+      hint: Total amount of external funding secured during period
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: graduate_student_mentoring
+      label: Graduate Student Mentoring
+      hint: Number of graduate students mentored in research
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: research_outreach_activities
+      label: Research Outreach Activities
+      hint: Public engagement, media appearances, or community outreach
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: research_ethics_compliance
+      label: Research Ethics Compliance
+      hint: Compliance with institutional review board requirements
+      type: select_one
+      options:
+      - Fully compliant
+      - Minor issues
+      - Major issues
+      - Not applicable
+      required: true
+    - id: 17
+      name: overall_research_rating
+      label: Overall Research Rating
+      hint: Overall assessment of research contributions (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: strengths_identified
+      label: Identified Strengths
+      hint: What are the faculty member's research strengths?
+      type: text
+      options: []
+      required: false

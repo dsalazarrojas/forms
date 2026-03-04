@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Startup Incubator Cohort Voting Form
+    pages:
+    - id: 1
+      name: incubator_name
+      label: incubator_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: mentor_name
+      label: mentor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: cohort_id
+      label: cohort_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: vote_type
+      label: vote_type
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      - abstain
+      - skip
+      required: true
+    - id: 5
+      name: feedback_comments
+      label: feedback_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: score_1
+      label: score_1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: score_2
+      label: score_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: score_3
+      label: score_3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: score_4
+      label: score_4
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: score_5
+      label: score_5
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: score_6
+      label: score_6
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: score_7
+      label: score_7
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: score_8
+      label: score_8
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: mentor_comments
+      label: mentor_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: review_committee_comments
+      label: review_committee_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: review_committee_name
+      label: review_committee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: review_committee_email
+      label: review_committee_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: review_committee_phone
+      label: review_committee_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: mentor_name
+      label: mentor_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: incubator_name
+      label: incubator_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: review_committee
+      label: review_committee
+      hint: null
+      type: select_multiple
+      options:
+      - Yes, they were very helpful
+      - No, they were not very helpful
+      - Not sure
+      required: true
+    - id: 22
+      name: mentor_comments
+      label: mentor_comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: incubator_id
+      label: incubator_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: mentor
+      label: mentor
+      hint: null
+      type: select_multiple
+      options:
+      - Yes, they were very helpful
+      - No, they were not very helpful
+      - Not sure
+      required: true
+    - id: 25
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false

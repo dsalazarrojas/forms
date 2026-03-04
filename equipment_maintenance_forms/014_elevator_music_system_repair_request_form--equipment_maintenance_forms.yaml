@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Elevator Music System Repair Request Form
+    pages:
+    - id: 1
+      name: elevator_music_system_repair_request_form_1
+      label: Music System Issues
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: elevator_music_system_repair_form_audio_type
+      label: Audio Type
+      hint: null
+      type: select_one
+      options:
+      - Audio Loop
+      - Music Server
+      - Audio Server
+      - Other
+      required: false
+    - id: 3
+      name: elevator_music_system_repair_form_audio_source
+      label: Audio Source
+      hint: null
+      type: select_one
+      options:
+      - Music Stream
+      - CD
+      - Radio
+      - Other
+      required: false
+    - id: 4
+      name: elevator_music_system_repair_form_issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: elevator_music_system_repair_form_priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 6
+      name: elevator_music_system_repair_form_expected_resolution_date
+      label: Expected Resolution Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: elevator_music_system_repair_form_actual_resolution_date
+      label: Actual Resolution Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: elevator_music_system_repair_form_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - In Progress
+      - Closed
+      required: true
+    - id: 9
+      name: elevator_music_system_repair_form_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: elevator_music_system_repair_form_attachments
+      label: Attachments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: elevator_music_system_repair_form_resolved_by
+      label: Resolved By
+      hint: null
+      type: select_one
+      options:
+      - Maintenance Team
+      - Property Management
+      - Facility Team
+      - Other
+      required: true
+    - id: 12
+      name: elevator_music_system_repair_form_resolved_by_user
+      label: Resolved By User
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: elevator_music_system_repair_form_resolved_by_date
+      label: Resolved By Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: elevator_music_system_repair_form_resolved_by_time
+      label: Resolved By Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: elevator_music_system_repair_form_escalation_notes
+      label: Escalation Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: elevator_music_system_repair_form_escalated_to
+      label: Escalated To
+      hint: null
+      type: select_one
+      options:
+      - Maintenance Team
+      - Property Management
+      - Facility Team
+      - Other
+      required: false
+    - id: 17
+      name: elevator_music_system_repair_form_closed_by
+      label: Closed By
+      hint: null
+      type: select_one
+      options:
+      - Maintenance Team
+      - Property Management
+      - Facility Team
+      - Other
+      required: false
+    - id: 18
+      name: elevator_music_system_repair_form_closed_date
+      label: Closed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: elevator_music_system_repair_form_closed_time
+      label: Closed Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: elevator_music_system_repair_form_reopened
+      label: Reopened
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: elevator_music_system_repair_form_reopened_by
+      label: Reopened By
+      hint: null
+      type: select_one
+      options:
+      - Maintenance Team
+      - Property Management
+      - Facility Team
+      - Other
+      required: false
+    - id: 22
+      name: elevator_music_system_repair_form_reopened_date
+      label: Reopened Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: elevator_music_system_repair_form_reopened_time
+      label: Reopened Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: elevator_music_system_repair_form_responsible_party
+      label: Responsible Party
+      hint: null
+      type: select_one
+      options:
+      - Maintenance Team
+      - Property Management
+      - Facility Team
+      - Other
+      required: true
+    - id: 25
+      name: elevator_music_system_repair_form_additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

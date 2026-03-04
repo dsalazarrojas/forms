@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Theater RSVP Form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest full name
+      hint: Name for seating and tickets
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: guest_email
+      label: Guest email address
+      hint: For confirmation and e-tickets
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: number_of_guests
+      label: Number of guests
+      hint: Total attendees including yourself
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: seating_preference
+      label: Seating preference
+      hint: Select seating preference if available
+      type: select_one
+      options:
+      - Front
+      - Middle
+      - Back
+      - Accessible seating
+      required: false
+    - id: 5
+      name: accessibility_needs
+      label: Accessibility needs
+      hint: Describe any accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: special_requests
+      label: Special requests
+      hint: Dietary or seating notes
+      type: text
+      options: []
+      required: false

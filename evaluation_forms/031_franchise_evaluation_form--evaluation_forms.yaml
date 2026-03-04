@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Franchise Evaluation Form
+    pages:
+    - id: 1
+      name: franchise_evaluation_form
+      label: franchise_evaluation_form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: franchise_company_name
+      label: franchise_company_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: franchise_location
+      label: franchise_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: franchise_type
+      label: franchise_type
+      hint: null
+      type: select_one
+      options:
+      - Franchise
+      - Non-Franchise
+      - Partnership
+      - Joint Venture
+      required: true
+    - id: 8
+      name: investment_amount
+      label: investment_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: business_hours
+      label: business_hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: territory
+      label: territory
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: franchise_agreement
+      label: franchise_agreement
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: franchise_agreement_length
+      label: franchise_agreement_length
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: training_and_support
+      label: training_and_support
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: franchise_ownership
+      label: franchise_ownership
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Partial
+      required: true
+    - id: 15
+      name: business_experience
+      label: business_experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: franchise_ownership_type
+      label: franchise_ownership_type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: business_hours_worked
+      label: business_hours_worked
+      hint: null
+      type: number
+      options: []
+      required: true

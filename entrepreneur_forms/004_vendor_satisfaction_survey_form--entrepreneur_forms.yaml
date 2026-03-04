@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Satisfaction Survey Form
+    pages:
+    - id: 1
+      name: vendor_satisfaction_survey_form_1
+      label: Satisfaction Survey Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: vendor_satisfaction_survey_form_2
+      label: Vendor
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Vendor 1''}'
+      - '{''label'': ''Vendor 2''}'
+      - '{''label'': ''Vendor 3''}'
+      required: true
+    - id: 3
+      name: vendor_satisfaction_survey_form_3
+      label: Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very Good''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Not Good''}'
+      required: true
+    - id: 4
+      name: feedback
+      label: How was the overall satisfaction with the vendor?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: vendor_satisfaction_survey_form_9
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: vendor_satisfaction_survey_form_10
+      label: How likely do you plan to continue working with this vendor?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Likely''}'
+      - '{''label'': ''Not Likely''}'
+      - '{''label'': ''Not Likely at All''}'
+      - '{''label'': ''Undecided''}'
+      required: true
+    - id: 10
+      name: vendor_satisfaction_survey_form_11
+      label: What was the primary reason for not recommending this vendor?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Price''}'
+      - '{''label'': ''Quality''}'
+      - '{''label'': ''Service''}'
+      - '{''label'': ''Other''}'
+      - '{''label'': ''None''}'
+      required: false

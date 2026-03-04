@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spa Appointment Form
+    pages:
+    - id: 1
+      name: spa_appointment_form
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: available_dates
+      label: Available Dates
+      hint: Select a date
+      type: select_multiple
+      options:
+      - 01/01/2024
+      - 01/02/2024
+      - 01/03/2024
+      required: false
+    - id: 6
+      name: available_time
+      label: Available Time
+      hint: Select a time
+      type: select_multiple
+      options:
+      - 10:00 AM
+      - 11:00 AM
+      - 12:00 PM
+      required: false
+    - id: 7
+      name: services
+      label: Services
+      hint: Select services
+      type: select_multiple
+      options:
+      - Facials
+      - Massages
+      - Other Services
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Self
+      - Agent
+      required: false
+    - id: 10
+      name: spa_name
+      label: Spa Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_submitted
+      label: Form Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: confirm_appointment
+      label: Confirm Appointment
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: appointment_type
+      label: Appointment Type
+      hint: Select appointment type
+      type: select_one
+      options:
+      - Booking
+      - Cancellation
+      required: false
+    - id: 14
+      name: appointment_status
+      label: Appointment Status
+      hint: null
+      type: select_one
+      options:
+      - New Booking
+      - Confirmed
+      - Pending
+      required: false
+    - id: 15
+      name: appointment_id
+      label: Appointment ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: client_id
+      label: Client ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: spa_id
+      label: Spa ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: appointment_notes
+      label: Appointment Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: employee_salary
+      label: Employee Salary
+      hint: null
+      type: text
+      options: []
+      required: false

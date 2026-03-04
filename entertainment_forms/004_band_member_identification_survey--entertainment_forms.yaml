@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Band Member Identification Survey
+    pages:
+    - id: 1
+      name: section_member_basics
+      label: -- Member Basics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: member_full_name
+      label: Member full name
+      hint: Legal name of the member
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: preferred_name
+      label: Preferred name or stage name
+      hint: Optional stage or nickname
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: role_in_band
+      label: Role in band
+      hint: Primary role such as vocalist or guitarist
+      type: select_one
+      options:
+      - Lead vocalist
+      - Backup vocalist
+      - Guitarist
+      - Bassist
+      - Drummer
+      - Keyboardist
+      - Other
+      required: true
+    - id: 5
+      name: instruments_played
+      label: Instruments played
+      hint: List all instruments you play
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: years_experience
+      label: Years of experience
+      hint: Number of years playing professionally or regularly
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact email address
+      hint: For band communications
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: Contact phone number
+      hint: Optional mobile or landline
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: Name of person to contact in emergency
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_phone
+      label: Emergency contact phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: availability_notes
+      label: Availability notes
+      hint: Typical availability for rehearsals and shows
+      type: text
+      options: []
+      required: false

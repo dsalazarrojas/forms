@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: jay_fulkroad_and_sons_inc
+    pages:
+    - id: 1
+      name: discharge_notification_form
+      label: Discharge Notification Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee
+      label: employee
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: employee_id
+      label: employee id
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: discharge_date
+      label: discharge_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: discharge_time
+      label: discharge_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_discharge
+      label: reason_for_discharge
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''1'', ''label'': ''Reason 1''}'
+      - '{''value'': ''2'', ''label'': ''Reason 2''}'
+      - '{''value'': ''3'', ''label'': ''Reason 3''}'
+      required: false
+    - id: 7
+      name: reason_for_discharge_other
+      label: reason_for_discharge_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_discharge
+      label: date_of_discharge
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_of_discharge
+      label: time_of_discharge
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: supervisor
+      label: supervisor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

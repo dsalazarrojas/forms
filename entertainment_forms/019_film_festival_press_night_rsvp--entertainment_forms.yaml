@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Film Festival Press Night RSVP
+    pages:
+    - id: 1
+      name: press_night
+      label: Press Night
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: media_confirmation
+      label: Media Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - Photography
+      - Video
+      - Audio
+      - None
+      required: false
+    - id: 7
+      name: guest_details
+      label: Guest Details
+      hint: null
+      type: note
+      options: []
+      required: false

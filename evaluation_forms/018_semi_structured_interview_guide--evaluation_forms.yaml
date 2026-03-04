@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: semi_structured_interview_guide
+    pages:
+    - id: 1
+      name: researcher_info
+      label: Researcher Information
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: interview_info
+      label: Interview Information
+      hint: Enter details about prophets of the interview
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: researcher_notes
+      label: Researcher Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: interview_plan
+      label: Interview Plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: interviewee_info
+      label: Interviewee Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: question_list
+      label: List of Questions
+      hint: null
+      type: select_multiple
+      options:
+      - Open-ended questions
+      - Closed-ended questions
+      - Both
+      required: true
+    - id: 7
+      name: questions
+      label: Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: questionnaire
+      label: Questionnaire
+      hint: null
+      type: select_one
+      options:
+      - Open-ended
+      - Closed-ended
+      - Both
+      required: true
+    - id: 9
+      name: researcher_comments
+      label: Researcher Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: interviewee_comments
+      label: Interviewee Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: interview_conducted_by
+      label: Interview Conducted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: time_required
+      label: Time Required
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: interview_location
+      label: Interview Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: interviewer_skills
+      label: Interviewer Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Active listening
+      - Empathy
+      - Questioning
+      - Nonverbal
+      - Calm and composed
+      required: false
+    - id: 16
+      name: interviewer_notes
+      label: Interviewer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: interview_plan_2
+      label: Interview Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: interview_plan_2_details
+      label: Interview Plan Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: researcher_skills
+      label: Researcher Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Active listening
+      - Empathy
+      - Questioning
+      - Calm and composed
+      - Communication
+      required: true
+    - id: 20
+      name: researcher_comments
+      label: Researcher Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: interviewee_info_2
+      label: Interviewee Information 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: interview_prophets
+      label: Interview Prophets
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 25
+      name: researcher_email
+      label: Researcher Email
+      hint: null
+      type: email
+      options: []
+      required: false

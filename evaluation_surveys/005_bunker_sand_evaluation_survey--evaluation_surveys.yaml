@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bunker Sand Evaluation Survey
+    pages:
+    - id: 1
+      name: evaluator_info
+      label: Evaluator Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: evaluator_name
+      label: Evaluator Name
+      hint: Full name of evaluator
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: evaluator_role
+      label: Evaluator Role
+      hint: Your position or title
+      type: select_one
+      options:
+      - Golf Course Superintendent
+      - Greenskeeper
+      - Maintenance Staff
+      - Golf Professional
+      - External Consultant
+      - Other
+      required: true
+    - id: 4
+      name: evaluation_date
+      label: Evaluation Date
+      hint: Date of this evaluation
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: bunker_info
+      label: Bunker Information
+      hint: Identify the bunker being evaluated
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: bunker_name
+      label: Bunker Name or Number
+      hint: Which bunker is being evaluated
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: hole_number
+      label: Hole Number
+      hint: Associated golf hole
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: bunker_type
+      label: Bunker Type
+      hint: Type of bunker
+      type: select_one
+      options:
+      - Fairway Bunker
+      - Greenside Bunker
+      - Tee Box Bunker
+      - Waste Bunker
+      - Practice Area Bunker
+      required: true
+    - id: 9
+      name: sand_texture
+      label: Sand Texture Evaluation
+      hint: Rate the sand texture
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: texture_rating
+      label: Texture Rating
+      hint: How is the sand texture
+      type: select_one
+      options:
+      - Excellent - Fine and Consistent
+      - Good - Mostly Fine
+      - Acceptable - Some Variation
+      - Poor - Too Coarse
+      - Very Poor - Needs Replacement
+      required: true
+    - id: 11
+      name: sand_compaction
+      label: Sand Compaction
+      hint: Is the sand properly compacted
+      type: select_one
+      options:
+      - Ideal
+      - Slightly Loose
+      - Slightly Compacted
+      - Too Loose
+      - Too Compacted
+      required: true
+    - id: 12
+      name: sand_color
+      label: Sand Color Evaluation
+      hint: Rate the sand color and appearance
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: color_consistency
+      label: Color Consistency
+      hint: Is the sand color uniform
+      type: select_one
+      options:
+      - Very Consistent
+      - Mostly Consistent
+      - Somewhat Consistent
+      - Inconsistent
+      - Very Inconsistent
+      required: true
+    - id: 14
+      name: color_appeal
+      label: Color Appeal
+      hint: How appealing is the sand color
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Poor
+      - Very Poor
+      required: true
+    - id: 15
+      name: drainage
+      label: Drainage Evaluation
+      hint: How well does the bunker drain
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: drainage_rating
+      label: Drainage Rating
+      hint: Rate the drainage performance
+      type: select_one
+      options:
+      - Excellent - Drains Immediately
+      - Good - Drains Quickly
+      - Acceptable - Minor Pooling
+      - Poor - Significant Pooling
+      - Very Poor - Floods Easily
+      required: true
+    - id: 17
+      name: drainage_issues
+      label: Drainage Issues Observed
+      hint: Any specific drainage problems
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: playability
+      label: Playability Assessment
+      hint: How playable is the bunker
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: playability_rating
+      label: Playability Rating
+      hint: Rate overall playability
+      type: select_one
+      options:
+      - Excellent - Fair Challenge
+      - Good - Appropriate Difficulty
+      - Acceptable - Minor Issues
+      - Poor - Too Difficult
+      - Very Poor - Unplayable
+      required: true
+    - id: 20
+      name: sand_depth
+      label: Sand Depth
+      hint: Is the sand depth adequate
+      type: select_one
+      options:
+      - Perfect Depth
+      - Slightly Shallow
+      - Slightly Deep
+      - Too Shallow
+      - Too Deep
+      required: true
+    - id: 21
+      name: maintenance_needs
+      label: Maintenance Needs
+      hint: What maintenance is required
+      type: select_multiple
+      options:
+      - Raking
+      - Sand Top-Up
+      - Drainage Repair
+      - Edging
+      - Weed Control
+      - Sand Replacement
+      - None
+      required: true
+    - id: 22
+      name: priority_level
+      label: Priority Level
+      hint: How urgent is attention needed
+      type: select_one
+      options:
+      - No Action Needed
+      - Low Priority
+      - Medium Priority
+      - High Priority
+      - Critical - Immediate Action
+      required: true
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other observations
+      type: text
+      options: []
+      required: false

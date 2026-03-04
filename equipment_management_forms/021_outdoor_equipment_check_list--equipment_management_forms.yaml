@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: outdoor_equipment_check_list
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Address
+      required: false
+    - id: 3
+      name: gear_readiness
+      label: Gear Readiness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: hike_date
+      label: Hike Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: activity_type
+      label: Activity Type
+      hint: null
+      type: select_one
+      options:
+      - Hike
+      - Camp
+      - Other
+      required: false
+    - id: 6
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: activity_location
+      label: Activity Location
+      hint: null
+      type: select_one
+      options:
+      - Mountain
+      - Forest
+      - Park
+      required: false
+    - id: 8
+      name: weather_condition
+      label: Weather Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Sunny
+      - Cloudy
+      - Rainy
+      required: false
+    - id: 9
+      name: participant_count
+      label: Participant Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: guide_info
+      label: Guide Info
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: equipment_checklist
+      label: Equipment Checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_procedure
+      label: Emergency Procedure
+      hint: null
+      type: select_multiple
+      options:
+      - First Aid
+      - Fire Safety
+      - Weather Alert
+      required: false
+    - id: 13
+      name: participant_agreement
+      label: Participant Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: equipment_status
+      label: Equipment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Available
+      - Not Available
+      - In Use
+      required: false

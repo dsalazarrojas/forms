@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Idea Submission Form
+    pages:
+    - id: 1
+      name: employee_suggestion
+      label: Employee Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: idea_description
+      label: Idea Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: idea_tags
+      label: Idea Tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false

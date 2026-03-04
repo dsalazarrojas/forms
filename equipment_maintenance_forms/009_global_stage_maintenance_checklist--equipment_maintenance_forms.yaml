@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Stage Maintenance Checklist
+    pages:
+    - id: 1
+      name: stage_inspection
+      label: Stage Inspection
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: stage_area
+      label: Stage Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: stage_equipment
+      label: Stage Equipment
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Stage Lighting''}'
+      - '{''name'': ''Stage Sound''}'
+      - '{''name'': ''Stage Rigging''}'
+      required: false
+    - id: 4
+      name: stage_equipment_condition
+      label: Stage Equipment Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Good''}'
+      - '{''name'': ''Fair''}'
+      - '{''name'': ''Poor''}'
+      required: false
+    - id: 5
+      name: stage_inspection_frequency
+      label: Stage Inspection Frequency
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Completed''}'
+      - '{''name'': ''In Progress''}'
+      - '{''name'': ''Not Started''}'
+      required: false
+    - id: 8
+      name: venue_staff_name
+      label: Venue Staff Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: venue_staff_email
+      label: Venue Staff Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: venue_staff_phone
+      label: Venue Staff Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: issue_priority
+      label: Issue Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''High''}'
+      - '{''name'': ''Medium''}'
+      - '{''name'': ''Low''}'
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: issue_category
+      label: Issue Category
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Technical''}'
+      - '{''name'': ''Safety''}'
+      - '{''name'': ''Maintenance''}'
+      required: false
+    - id: 15
+      name: issue_subcategory
+      label: Issue Subcategory
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Lighting''}'
+      - '{''name'': ''Sound''}'
+      - '{''name'': ''Rigging''}'
+      required: false
+    - id: 16
+      name: issue_location
+      label: Issue Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: issue_reported_by
+      label: Issue Reported By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: issue_reported_date
+      label: Issue Reported Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: action_date
+      label: Action Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_details
+      label: Follow-up Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: venue_name
+      label: Venue Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: venue_address
+      label: Venue Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: venue_city
+      label: Venue City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_contact
+      label: Follow-up Contact
+      hint: null
+      type: text
+      options: []
+      required: false

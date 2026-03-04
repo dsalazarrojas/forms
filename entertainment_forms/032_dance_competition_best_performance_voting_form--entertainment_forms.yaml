@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dance Competition Best Performance Voting Form
+    pages:
+    - id: 1
+      name: competition_name
+      label: Dance Competition Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: performance_name
+      label: Performance Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Contemporary''}'
+      - '{''id'': 2, ''label'': ''Ballroom''}'
+      - '{''id'': 3, ''label'': ''Hip-Hop''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: true
+    - id: 5
+      name: vote_type
+      label: Vote Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Judge''}'
+      - '{''id'': 2, ''label'': ''Audience''}'
+      - '{''id'': 3, ''label'': ''Participant''}'
+      required: true
+    - id: 6
+      name: vote_weight
+      label: Vote Weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: score_comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

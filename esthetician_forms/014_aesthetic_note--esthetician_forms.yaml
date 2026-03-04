@@ -1,0 +1,239 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aesthetic Note
+    pages:
+    - id: 1
+      name: client_information_section
+      label: Client Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_full_name
+      label: Client Full Name
+      hint: Enter the client's complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_dob
+      label: Client Date of Birth
+      hint: Date of birth for the client
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: client_phone
+      label: Client Phone Number
+      hint: Primary phone number for the client
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: client_email
+      label: Client Email Address
+      hint: Email address for appointment confirmations and follow-ups
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: client_medical_conditions
+      label: Medical Conditions
+      hint: Any medical conditions relevant to aesthetic treatments
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: treatment_information_section
+      label: Treatment Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: treatment_date
+      label: Treatment Date
+      hint: Date when the treatment was performed
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: treatment_time
+      label: Treatment Time
+      hint: Time when the treatment was performed
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: esthetician_name
+      label: Performing Esthetician
+      hint: Name of the esthetician performing the treatment
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: treatment_type
+      label: Type of Treatment
+      hint: What type of aesthetic treatment was performed?
+      type: select_one
+      options:
+      - Facial Treatment
+      - Chemical Peel
+      - Microdermabrasion
+      - Laser Treatment
+      - Waxing
+      - Eyelash Extensions
+      - Eyebrow Tinting
+      - Body Wrap
+      - Massage Therapy
+      - Other
+      required: true
+    - id: 12
+      name: treatment_area
+      label: Treatment Area
+      hint: Which area of the body was treated?
+      type: select_one
+      options:
+      - Face
+      - Neck
+      - Hands
+      - Arms
+      - Legs
+      - Back
+      - Chest
+      - Full Body
+      - Other
+      required: true
+    - id: 13
+      name: treatment_products_used
+      label: Products Used
+      hint: List the products used during the treatment
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: treatment_details_section
+      label: Treatment Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: skin_condition_assessment
+      label: Skin Condition Assessment
+      hint: Assessment of the client's skin condition before treatment
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: treatment_procedure_notes
+      label: Treatment Procedure Notes
+      hint: Detailed notes about the procedure performed
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: client_reaction_response
+      label: Client Reaction Response
+      hint: How did the client react to the treatment?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: adverse_reactions
+      label: Adverse Reactions
+      hint: Were there any adverse reactions during the treatment?
+      type: select_one
+      options:
+      - None
+      - Mild Redness
+      - Irritation
+      - Allergic Reaction
+      - Pain/Discomfort
+      - Other
+      required: true
+    - id: 19
+      name: treatment_outcome
+      label: Treatment Outcome
+      hint: Assessment of the treatment outcome
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: recommendations_follow_up_section
+      label: Recommendations and Follow-up
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: home_care_instructions
+      label: Home Care Instructions
+      hint: Instructions for the client to follow at home
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: products_recommended_take_home
+      label: Products Recommended to Take Home
+      hint: Any products recommended for the client to purchase
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_treatment_scheduled
+      label: Follow-up Treatment Scheduled
+      hint: Is a follow-up treatment scheduled?
+      type: select_one
+      options:
+      - true
+      - false
+      - To be scheduled
+      required: true
+    - id: 24
+      name: next_appointment_date
+      label: Next Appointment Date
+      hint: Date of the next scheduled appointment
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: treatment_frequency_recommendation
+      label: Treatment Frequency Recommendation
+      hint: How often should the client receive this treatment?
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: contraindications_section
+      label: Contraindications
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: contraindications_present
+      label: Contraindications Present
+      hint: Are there any contraindications for future treatments?
+      type: select_one
+      options:
+      - true
+      - false
+      - Uncertain
+      required: true
+    - id: 28
+      name: contraindication_details
+      label: Contraindication Details
+      hint: If yes, please specify the contraindications
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: esthetician_signature
+      label: Esthetician Signature
+      hint: Electronic signature of the performing esthetician
+      type: text
+      options: []
+      required: true

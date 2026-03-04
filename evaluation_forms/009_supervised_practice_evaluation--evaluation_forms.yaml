@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supervised Practice Evaluation
+    pages:
+    - id: 1
+      name: session_feedback
+      label: Session Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: performance_rating
+      label: Performance Rating
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: strengths_recorded
+      label: Strengths Recorded
+      hint: null
+      type: select_multiple
+      options:
+      - Strengths
+      - Weaknesses
+      - Opportunities
+      - Threats
+      required: false
+    - id: 4
+      name: areas_improvement
+      label: Areas for Improvement
+      hint: null
+      type: select_multiple
+      options:
+      - Strengths
+      - Weaknesses
+      - Opportunities
+      - Threats
+      required: false
+    - id: 5
+      name: date_of_session
+      label: Date of Session
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_session
+      label: Time of Session
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Musical Audition Self Tape Submission
+    pages:
+    - id: 1
+      name: performer_details
+      label: performer_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: self_tape
+      label: upload_self_tape
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: materials
+      label: upload_additional_materials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: example@example.com
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: video_description
+      label: video_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: video_length
+      label: video_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: video_type
+      label: video_type
+      hint: null
+      type: select_one
+      options:
+      - Video
+      - Audio
+      - Other
+      required: false
+    - id: 9
+      name: video_link
+      label: video_link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: video_files
+      label: video_files
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: resume
+      label: resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: headshot
+      label: headshot
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: resume_link
+      label: resume_link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: headshot_link
+      label: headshot_link
+      hint: null
+      type: text
+      options: []
+      required: false

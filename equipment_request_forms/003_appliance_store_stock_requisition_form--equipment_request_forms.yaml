@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Appliance Store Stock Requisition Form
+    pages:
+    - id: 1
+      name: requisition_date
+      label: Requisition Date
+      hint: Date when the stock requisition is submitted
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: requester_name
+      label: Requester Name
+      hint: Full name of the person requesting stock
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Requester Email
+      hint: Email address of the requester
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_phone
+      label: Requester Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: Department submitting the requisition
+      type: select_one
+      options:
+      - Sales Floor
+      - Warehouse
+      - Customer Service
+      - Management
+      - Delivery Team
+      required: true
+    - id: 6
+      name: store_location
+      label: Store Location
+      hint: Store location or branch name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: item_category
+      label: Item Category
+      hint: Category of appliances being requested
+      type: select_one
+      options:
+      - Refrigerators
+      - Washing Machines
+      - Dryers
+      - Dishwashers
+      - Ovens and Ranges
+      - Microwaves
+      - Small Appliances
+      - Parts and Accessories
+      required: true
+    - id: 8
+      name: item_name
+      label: Item Name
+      hint: Specific name or description of item requested
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: model_number
+      label: Model Number
+      hint: Manufacturer model number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: quantity_requested
+      label: Quantity Requested
+      hint: Number of units being requested
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: quantity_in_stock
+      label: Quantity in Stock
+      hint: Current stock level if known
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: unit_cost
+      label: Unit Cost
+      hint: Cost per unit if known
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: total_estimated_cost
+      label: Total Estimated Cost
+      hint: Total estimated cost for this requisition
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgently is this stock needed
+      type: select_one
+      options:
+      - Emergency - Needed Today
+      - High - Needed Within 48 Hours
+      - Normal - Within 1 Week
+      - Low - Can Wait 2 Weeks
+      required: true
+    - id: 15
+      name: reason_for_request
+      label: Reason for Request
+      hint: Why is this stock being requested
+      type: select_one
+      options:
+      - Low Inventory Replenishment
+      - Customer Order
+      - Display Replacement
+      - Seasonal Stock
+      - Promotional Event
+      - Other
+      required: true
+    - id: 16
+      name: reason_details
+      label: Reason Details
+      hint: Additional details about the request reason
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: delivery_method
+      label: Delivery Method
+      hint: How should the stock be delivered
+      type: select_one
+      options:
+      - Internal Transfer
+      - Vendor Direct Delivery
+      - Warehouse Pickup
+      - Third-Party Logistics
+      required: true
+    - id: 18
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special handling or delivery instructions
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: manager_approval
+      label: Manager Approval
+      hint: Has this request been approved by a manager
+      type: select_one
+      options:
+      - Approved
+      - Pending Approval
+      - Rejected
+      required: true
+    - id: 20
+      name: approving_manager
+      label: Approving Manager
+      hint: Name of the approving manager
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: expected_delivery_date
+      label: Expected Delivery Date
+      hint: When is the stock expected to arrive
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

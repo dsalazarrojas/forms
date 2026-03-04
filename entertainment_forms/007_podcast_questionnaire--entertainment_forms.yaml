@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Podcast Questionnaire
+    pages:
+    - id: 1
+      name: topic_name
+      label: Topic name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: topic_description
+      label: Topic description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: topic_interestingness
+      label: Interestingness
+      hint: How interesting do you find this topic?
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: topic_engagement
+      label: Engagement level
+      hint: On a scale from 1 to 5
+      type: select_one
+      options:
+      - '{''value'': ''1''}'
+      - '{''value'': ''2''}'
+      - '{''value'': ''3''}'
+      - '{''value'': ''4''}'
+      - '{''value'': ''5''}'
+      required: false
+    - id: 5
+      name: topic_satisfaction
+      label: Satisfaction level
+      hint: On a scale from 1 to 5
+      type: select_one
+      options:
+      - '{''value'': ''1''}'
+      - '{''value'': ''2''}'
+      - '{''value'': ''3''}'
+      - '{''value'': ''4''}'
+      - '{''value'': ''5''}'
+      required: false
+    - id: 6
+      name: topic_relevance
+      label: Relevance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''relevant''}'
+      - '{''value'': ''irrelevant''}'
+      - '{''value'': ''neutral''}'
+      required: false
+    - id: 7
+      name: topic_recommendation
+      label: Recommendation
+      hint: Would you recommend this topic?
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      - '{''value'': ''not sure''}'
+      required: false
+    - id: 8
+      name: topic_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: podcast_session_id
+      label: Podcast session ID
+      hint: Please enter your podcast session ID
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

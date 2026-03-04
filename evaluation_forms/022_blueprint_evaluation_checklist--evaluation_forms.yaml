@@ -1,0 +1,82 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Blueprint Evaluation Checklist
+    pages:
+      - id: 1
+        name: evaluation_header
+        label: -- Evaluation Checklist --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: reviewer_name
+        label: Reviewer name
+        hint: Person performing review
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: review_date
+        label: Review date
+        hint: Date of review
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: compliance_with_codes
+        label: Compliance with codes
+        hint: Check compliance with local codes
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Partial
+        required: true
+      - id: 5
+        name: structural_comments
+        label: Structural comments
+        hint: Notes on structural considerations
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: mechanical_comments
+        label: Mechanical comments
+        hint: HVAC plumbing electrical notes
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: safety_concerns
+        label: Safety concerns
+        hint: Any safety related observations
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: recommended_actions
+        label: Recommended actions
+        hint: Actions required to address issues
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: follow_up_date
+        label: Follow up date
+        hint: Date for re review if required
+        type: date
+        options: []
+        required: false

@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: decision_support_evaluation_form
+    pages:
+    - id: 1
+      name: decision_support_process_used
+      label: Decision Support Process Used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: decision_process_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: decision_support_level
+      label: Decision Support Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 4
+      name: decision_support_impact
+      label: Decision Support Impact
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: decision_making_process
+      label: Decision Making Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: stakeholders_involved
+      label: Stakeholders Involved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: decision_outcome
+      label: Decision Outcome
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_form
+      label: Evaluation Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: evaluation_outcome
+      label: Evaluation Outcome
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 10
+      name: recommendations_for_improvement
+      label: Recommendations for Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: evaluation_form_comments
+      label: Evaluation Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: evaluation_process_time
+      label: Evaluation Process Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: evaluation_process_rating
+      label: Evaluation Process Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: evaluation_form_version
+      label: Evaluation Form Version
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,184 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Evaluation Form
+    pages:
+    - id: 1
+      name: section_client_info
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: coach_name
+      label: Coach Name
+      hint: Name of your coach
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: coaching_period
+      label: Coaching Period
+      hint: Duration of your coaching engagement
+      type: select_one
+      options:
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - 1-2 years
+      - 2+ years
+      required: true
+    - id: 5
+      name: section_coaching_quality
+      label: -- Coaching Quality --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: overall_satisfaction
+      label: Overall Satisfaction with Coaching
+      hint: Rate your overall experience
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 7
+      name: coach_competence
+      label: Coach Competence and Knowledge
+      hint: Rate their expertise in coaching
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Needs Improvement
+      required: true
+    - id: 8
+      name: communication_effectiveness
+      label: Communication Effectiveness
+      hint: Rate how well they communicated
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Needs Improvement
+      required: true
+    - id: 9
+      name: goal_progress
+      label: Progress Toward Your Goals
+      hint: Rate your progress on stated goals
+      type: select_one
+      options:
+      - Exceeded expectations
+      - Met expectations
+      - Partially met expectations
+      - Did not meet expectations
+      required: true
+    - id: 10
+      name: coach_professionalism
+      label: Coach Professionalism
+      hint: Rate their professionalism and conduct
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Needs Improvement
+      required: true
+    - id: 11
+      name: section_feedback
+      label: -- Detailed Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: strengths
+      label: What did your coach do well?
+      hint: Please describe their strengths
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: What could your coach improve?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: impact_on_performance
+      label: Impact on Your Performance or Skills
+      hint: How has coaching affected you?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: recommend_coach
+      label: Would you recommend this coach to others?
+      hint: null
+      type: select_one
+      options:
+      - Highly recommend
+      - Recommend
+      - Neutral
+      - Do not recommend
+      - Strongly do not recommend
+      required: true
+    - id: 16
+      name: section_future
+      label: -- Future Coaching --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: continue_coaching
+      label: Would you like to continue coaching?
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Yes, maybe
+      - Undecided
+      - No
+      required: true
+    - id: 18
+      name: additional_feedback
+      label: Additional Comments
+      hint: Any other feedback or suggestions
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: true

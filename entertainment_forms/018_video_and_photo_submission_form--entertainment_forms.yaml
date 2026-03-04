@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Video And Photo Submission Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: video_upload
+      label: Video Upload
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: photo_upload
+      label: Photo Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: description_input
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: category_select_one
+      label: Category Select
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Entertainment''}'
+      - '{''label'': ''Sports''}'
+      - '{''label'': ''Music''}'
+      required: false
+    - id: 6
+      name: tags_input
+      label: Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: video_duration_input
+      label: Video Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email_input
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_input
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: note_input
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: select_multiple
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: false
+    - id: 14
+      name: description_select_multiple
+      label: Description Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

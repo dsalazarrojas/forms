@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Welder Estimate Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: estimate_date
+      label: estimate date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: start_time
+      label: start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: end_time
+      label: end time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: welder_name
+      label: welder name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: welder_address
+      label: welder address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: project_name
+      label: project name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: total_cost
+      label: total cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: deposit_required
+      label: deposit required
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: labor_cost
+      label: labor cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: material_cost
+      label: material cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: other_cost
+      label: other cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: equipment_rental
+      label: equipment rental
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: labor_rate
+      label: labor rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: equipment_rate
+      label: equipment rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: material_rate
+      label: material rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: labor_hours
+      label: labor hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: equipment_hours
+      label: equipment hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: material_hours
+      label: material hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: payment_terms
+      label: payment terms
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true

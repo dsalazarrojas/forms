@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: streaming_service_engagement_report_form
+    pages:
+    - id: 1
+      name: content_consumption
+      label: How often do you consume streaming content?
+      hint: null
+      type: select_multiple
+      options:
+      - Streaming content
+      - Live streams
+      - Downloadable content
+      - Podcasts
+      - Other
+      required: false
+    - id: 2
+      name: user_experience
+      label: What was your overall user experience like?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 3
+      name: content_quality
+      label: How often do you consume streaming content?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction
+      label: How satisfied are you with the streaming service?
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      required: false
+    - id: 5
+      name: comment
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

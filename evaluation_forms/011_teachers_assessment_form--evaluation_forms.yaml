@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teachers Assessment Form
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: teacher_evaluation
+      label: Teacher Evaluation
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: teacher_evaluation_2
+      label: Teacher Evaluation 2
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: strengths
+      label: Strengths
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: weaknesses
+      label: Weaknesses
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

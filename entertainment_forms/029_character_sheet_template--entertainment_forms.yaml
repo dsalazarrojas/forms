@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Character Sheet Template
+    pages:
+    - id: 1
+      name: header
+      label: -- Character Sheet --
+      hint: Template fields for tracking core character details during gameplay
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: character_name
+      label: character name
+      hint: name used in play
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: player_name
+      label: player name
+      hint: person controlling the character
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: level
+      label: level
+      hint: current character level
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: attributes
+      label: attributes
+      hint: core stats list and values
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: skills
+      label: skills
+      hint: notable skills or proficiencies
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: equipment
+      label: equipment
+      hint: primary gear and possessions
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: backstory
+      label: backstory
+      hint: brief history or origin story
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: session notes or temporary changes
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: last_updated
+      label: last updated
+      hint: date of last update
+      type: date
+      options: []
+      required: false

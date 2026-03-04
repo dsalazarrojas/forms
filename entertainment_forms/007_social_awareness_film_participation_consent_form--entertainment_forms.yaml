@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Awareness Film Participation Consent Form
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: photo_consent
+      label: Would you like to have your photo taken during the shoot?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: video_consent
+      label: Would you like to be on camera during the shoot?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: film_description
+      label: What is the purpose of this film, or what story is it telling?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact
+      label: How would you like to be contacted?
+      hint: null
+      type: select_multiple
+      options:
+      - On set
+      - Via phone
+      - Via email
+      - Not at all
+      required: false
+    - id: 10
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_relationship
+      label: Relationship to participant
+      hint: null
+      type: text
+      options: []
+      required: false

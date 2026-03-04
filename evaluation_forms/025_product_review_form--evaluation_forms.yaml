@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Review Form
+    pages:
+    - id: 1
+      name: product_id
+      label: Product ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - 5 stars
+      - 4 stars
+      - 3 stars
+      - 2 stars
+      - 1 star
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Product A
+      - Product B
+      - Product C
+      required: false
+    - id: 8
+      name: sub_category
+      label: Sub category
+      hint: null
+      type: select_multiple
+      options:
+      - Category A
+      - Category B
+      - Category C
+      required: false
+    - id: 9
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false

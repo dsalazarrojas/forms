@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Coordinator Estimate Form
+    pages:
+    - id: 1
+      name: wedding_date
+      label: wedding_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: wedding_location
+      label: wedding_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: number_of_guests
+      label: number_of_guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: wedding_time
+      label: wedding_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: ceremony_type
+      label: ceremony_type
+      hint: null
+      type: select_one
+      options:
+      - civil
+      - ceremony
+      - ceremonies
+      required: false
+    - id: 6
+      name: rehearsal_dress_rehearsal
+      label: rehearsal_dress_rehearsal
+      hint: null
+      type: select_one
+      options:
+      - 'no'
+      - 'yes'
+      required: false
+    - id: 7
+      name: accommodations
+      label: accommodations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: travel_info
+      label: travel_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vendor_requirements
+      label: vendor_requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vendor_preferences
+      label: vendor_preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vendor_services
+      label: vendor_services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: vendor_invoices
+      label: vendor_invoices
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facial Steaming Treatment Consent Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: esthetician_info
+      label: Esthetician Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_completion
+      label: Form Completion
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: client_signature_1
+      label: Client Signature 1
+      hint: null
+      type: text
+      options: []
+      required: false

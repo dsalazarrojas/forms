@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: ohc_staff_effectiveness_appraisal_and_goal_setting
+    pages:
+    - id: 1
+      name: job_responsibilities
+      label: Job responsibilities
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: effectiveness_rating
+      label: Effectiveness rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: goals_alignment
+      label: Goals alignment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: current_goals
+      label: Current goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: job_satisfaction
+      label: Job satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: performance_comments
+      label: Performance comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: evaluation_date
+      label: Evaluation date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: evaluation_time
+      label: Evaluation time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: evaluation_location
+      label: Evaluation location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: evaluation_form_submitted
+      label: Evaluation form submitted
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: evaluated_by
+      label: Evaluated by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: evaluation_status
+      label: Evaluation status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 13
+      name: evaluation_comments
+      label: Evaluation comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: evaluated_by_employee
+      label: Evaluated by employee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: evaluation_form_version
+      label: Evaluation form version
+      hint: null
+      type: text
+      options: []
+      required: false

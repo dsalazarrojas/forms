@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tanning Salon Release Form
+    pages:
+    - id: 1
+      name: release_form_1
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: tanning_date
+      label: Tanning Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: tanning_time
+      label: Tanning Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: tanning_service
+      label: Tanning Service
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: tanning_solution
+      label: Tanning Solution
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: tanning_solution_2
+      label: Tanning Solution 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: tanning_fee
+      label: Tanning Fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: payment_method_2
+      label: Payment Method 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: signed_date
+      label: Signed Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: signed_by
+      label: Signed By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: salon_name
+      label: Salon Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: salon_address
+      label: Salon Address
+      hint: null
+      type: text
+      options: []
+      required: false

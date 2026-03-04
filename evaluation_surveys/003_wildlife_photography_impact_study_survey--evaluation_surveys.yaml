@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wildlife Photography Impact Study Survey
+    pages:
+    - id: 1
+      name: wildlife_photography_impact_study_survey
+      label: Wildlife Photography Impact Study Survey
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: evaluation_survey_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_survey
+      label: Date of Survey
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_survey
+      label: Time of Survey
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: evaluation_survey
+      label: Evaluation Survey
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

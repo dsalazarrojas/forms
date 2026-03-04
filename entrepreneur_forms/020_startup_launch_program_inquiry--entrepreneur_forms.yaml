@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: accelerator_name
+      label: Accelerator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: startup_details
+      label: Startup Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: consistency_goals
+      label: Consistency Goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: industry
+      label: Industry
+      hint: Select one or more industries that your startup belongs to
+      type: select_one
+      options:
+      - Artificial Intelligence
+      - Biotechnology
+      - FinTech
+      - HealthTech
+      - Software
+      required: true
+    - id: 8
+      name: startup_goals
+      label: Startup Goals
+      hint: null
+      type: select_multiple
+      options:
+      - Expand Business/Revenue
+      - Network/Partnerships
+      - Product/Market Development
+      - Product/Market Research
+      - Product/Service Development
+      - Reduce/Improve Costs
+      - Other
+      required: true
+    - id: 9
+      name: funding_stage
+      label: Funding Stage
+      hint: Select the funding stage of your startup
+      type: select_one
+      options:
+      - seed
+      - Series A
+      - Series B
+      - Series C
+      - Series D
+      - Series E
+      - Series F
+      - Series G
+      - Series H
+      - Series I
+      - Series J
+      - Series K
+      - Series L
+      - Series M
+      - Other
+      required: true
+    - id: 10
+      name: startup_location
+      label: Startup Location
+      hint: Select the region of your startup location
+      type: select_one
+      options:
+      - Europe
+      - Asia
+      - Americas
+      - Africa
+      - Oceania
+      - Other
+      required: true
+    - id: 11
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: linkedin
+      label: LinkedIn
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: linkedin_id
+      label: LinkedIn ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Barwis Methods Health Questionnaire
+    pages:
+    - id: 1
+      name: personal_info_section
+      label: -- Patient Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_full_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer not to say
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Primary Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: physical_metrics_section
+      label: -- Physical Metrics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: height_inches
+      label: Height in Inches
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: weight_lbs
+      label: Weight in Pounds
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: medical_history_section
+      label: -- Medical History and Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: existing_conditions
+      label: Please select any existing medical conditions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Diabetes
+      - Hypertension
+      - Asthma
+      - Heart Condition
+      - Joint Problems
+      - Other
+      required: false
+    - id: 12
+      name: allergies
+      label: List any known allergies
+      hint: Medications, food, environmental, etc.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: current_medications
+      label: List all current medications and dosages
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: recent_surgeries
+      label: Have you had any surgeries in the past 12 months?
+      hint: If yes, please describe
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: physical_activity_level
+      label: Current Physical Activity Level
+      hint: null
+      type: select_one
+      options:
+      - Sedentary
+      - Lightly Active
+      - Moderately Active
+      - Very Active
+      required: true
+    - id: 16
+      name: goals_section
+      label: -- Health and Fitness Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: primary_fitness_goal
+      label: What is your primary health or fitness goal?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: emergency_contact_info
+      label: Emergency Contact Name and Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: completion_date
+      label: Form Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true

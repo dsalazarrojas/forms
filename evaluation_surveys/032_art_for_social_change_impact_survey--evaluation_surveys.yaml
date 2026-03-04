@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art For Social Change Impact Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Respondent name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: Project name
+      hint: Name of the arts-based project
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: target_population
+      label: Target population
+      hint: Communities served
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: outcomes_measured
+      label: Outcomes measured
+      hint: Social impact outcomes assessed
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participation_numbers
+      label: Participation numbers
+      hint: Approximate number of participants
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: primary_methods
+      label: Primary methods used
+      hint: Workshops exhibitions performance outreach
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: evidence_collected
+      label: Evidence collected
+      hint: Surveys interviews media coverage
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: impact_rating
+      label: Overall impact rating
+      hint: Rate the perceived impact
+      type: select_one
+      options:
+      - High
+      - Moderate
+      - Low
+      required: true
+    - id: 9
+      name: lessons_learned
+      label: Lessons learned
+      hint: Key takeaways for future projects
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_for_results
+      label: Contact for results
+      hint: Email to receive evaluation summary
+      type: email
+      options: []
+      required: false

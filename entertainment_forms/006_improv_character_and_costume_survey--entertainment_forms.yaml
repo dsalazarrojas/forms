@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: improv_character_and_costume_survey
+    pages:
+    - id: 1
+      name: intro
+      label: intro
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: character_details
+      label: character_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: character_name
+      label: character_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: character_age
+      label: character_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: experience_level
+      label: experience_level
+      hint: null
+      type: select_one
+      options:
+      - beginner
+      - intermediate
+      - advanced
+      required: false
+    - id: 6
+      name: character_type
+      label: character_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: costume_needs
+      label: costume_needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: costume_description
+      label: costume_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: performance_frequency
+      label: performance_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: show_frequency
+      label: show_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: performance_type
+      label: performance_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

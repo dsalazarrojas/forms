@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports_clinic_enrollment
+    pages:
+    - id: 1
+      name: course_selection
+      label: Course
+      hint: null
+      type: select_one
+      options:
+      - Soccer
+      - Basketball
+      - Swimming
+      required: false
+    - id: 2
+      name: student_name
+      label: student name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: birthdate
+      label: birthdate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_notes
+      label: student_notes
+      hint: null
+      type: note
+      options: []
+      required: false

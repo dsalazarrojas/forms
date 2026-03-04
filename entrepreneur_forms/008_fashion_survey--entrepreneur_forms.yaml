@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fashion Survey
+    pages:
+    - id: 1
+      name: fashion_survey_product_id
+      label: fashion_product_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: fashion_survey_questions
+      label: fashion_questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: fashion_survey_questions_answer
+      label: fashion_questions_answer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: fashion_survey_customer_id
+      label: fashion_customer_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: fashion_survey_product_type
+      label: fashion_product_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''product_type_1''}'
+      - '{''id'': 2, ''name'': ''product_type_2''}'
+      - '{''id'': 3, ''name'': ''product_type_3''}'
+      required: false
+    - id: 6
+      name: fashion_survey_product_size
+      label: fashion_product_size
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''product_size_1''}'
+      - '{''id'': 2, ''name'': ''product_size_2''}'
+      - '{''id'': 3, ''name'': ''product_size_3''}'
+      - '{''id'': 4, ''name'': ''product_size_4''}'
+      required: false
+    - id: 7
+      name: fashion_survey_color
+      label: fashion_color
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''color_1''}'
+      - '{''id'': 2, ''name'': ''color_2''}'
+      - '{''id'': 3, ''name'': ''color_3''}'
+      required: false
+    - id: 8
+      name: fashion_survey_date_purchased
+      label: fashion_date_purchased
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: fashion_survey_time_purchased
+      label: fashion_time_purchased
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: fashion_survey_would_reorder
+      label: fashion_would_reorder
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 11
+      name: fashion_survey_would_recommend
+      label: fashion_would_recommend
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 12
+      name: fashion_survey_why_would_reorder
+      label: fashion_why_would_reorder
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: fashion_survey_why_would_not_reorder
+      label: fashion_why_would_not_reorder
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: fashion_survey_would_recommend
+      label: fashion_would_recommend
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: fashion_survey_why_would_recommend
+      label: fashion_why_would_recommend
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: fashion_survey_why_not_recommend
+      label: fashion_why_not_recommend
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: fashion_survey_satisfaction_score
+      label: fashion_satisfaction_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: fashion_survey_would_purchase_again
+      label: fashion_would_purchase_again
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 19
+      name: fashion_survey_why_would_purchase_again
+      label: fashion_what_would_purchase_again
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: fashion_survey_what_did_like
+      label: fashion_what_did_like
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: fashion_survey_what_did_not_like
+      label: fashion_what_did_not_like
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: fashion_survey_why_didnt_like
+      label: fashion_why_didnt_like
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: fashion_survey_what_would_improve
+      label: fashion_what_would_improve
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: fashion_survey_what_did_improve
+      label: fashion_what_did_improve
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: fashion_survey_comments
+      label: fashion_comments
+      hint: null
+      type: text
+      options: []
+      required: false

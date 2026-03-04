@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Responsive Interview Questionnaire Form
+    pages:
+    - id: 1
+      name: introduction
+      label: What is this?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: question1
+      label: How do you feel about this company?
+      hint: null
+      type: select_multiple
+      options:
+      - Very positive
+      - Somewhat positive
+      - Neutral
+      - Somewhat negative
+      - Very negative
+      required: true
+    - id: 6
+      name: question2
+      label: What motivates you?
+      hint: null
+      type: select_one
+      options:
+      - Career advancement
+      - Financial gain
+      - Work-life balance
+      - Personal growth
+      - Other
+      required: true
+    - id: 7
+      name: question3
+      label: How long have you been working?
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: question4
+      label: What do you do for work?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: question5
+      label: Why did you choose this job?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: question6
+      label: What do you like about this job?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: question7
+      label: What do you dislike?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: question8
+      label: Would you recommend this company?
+      hint: null
+      type: select_multiple
+      options:
+      - Very likely
+      - Somewhat likely
+      - Not likely
+      - Not at all likely
+      required: true
+    - id: 13
+      name: question9
+      label: What can we improve?
+      hint: null
+      type: text
+      options: []
+      required: false

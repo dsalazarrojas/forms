@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nursing Evaluation And Self Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: core_competencies
+      label: Evaluating Core Competencies
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Satisfactory''}'
+      - '{''label'': ''Needs Improvement''}'
+      required: true
+    - id: 3
+      name: strengths
+      label: Reflecting on Strengths
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: development_areas
+      label: Identifying Development Areas
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Time Management''}'
+      - '{''label'': ''Communication''}'
+      - '{''label'': ''Problem Solving''}'
+      - '{''label'': ''Leadership''}'
+      - '{''label'': ''Teamwork''}'
+      - '{''label'': ''Adaptability''}'
+      - '{''label'': ''Emotional Intelligence''}'
+      - '{''label'': ''Conflict Resolution''}'
+      - '{''label'': ''Delegation''}'
+      - '{''label'': ''Empathy''}'
+      - '{''label'': ''Flexibility''}'
+      required: false
+    - id: 5
+      name: data_collection
+      label: Data Collection
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: core_competencies_rating
+      label: Core Competencies Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: strengths_rating
+      label: Strengths Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: development_areas_rating
+      label: Development Areas Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

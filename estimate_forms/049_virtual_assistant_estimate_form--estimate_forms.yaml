@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Assistant Estimate Form
+    pages:
+    - id: 1
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_type
+      label: Client Type
+      hint: null
+      type: select_one
+      options:
+      - Virtual Assistant Agency
+      - Business Coach or Consultant
+      - Marketing and Design Freelancer
+      - Virtual Assistant Network or Community
+      required: false
+    - id: 3
+      name: services_offered
+      label: Services Offered
+      hint: null
+      type: select_multiple
+      options:
+      - Virtual Assistant Services
+      - Marketing and Design Services
+      - Project Management
+      - Consulting
+      required: false
+    - id: 4
+      name: hourly_rate
+      label: Hourly Rate
+      hint: $25-$50
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: estimated_hours
+      label: Estimated Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: project_duration
+      label: Project Duration
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 hour
+      - 1-2 hours
+      - 2-5 hours
+      - 5-10 hours
+      - More than 10 hours
+      required: false

@@ -1,0 +1,240 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coffee Grinder Maintenance Order Form
+    pages:
+    - id: 1
+      name: section_customer
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_name
+      label: Café or Business Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Service Address
+      hint: Where grinder is located
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_grinder
+      label: -- Grinder Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: grinder_brand
+      label: Grinder Brand
+      hint: Manufacturer of the grinder
+      type: select_one
+      options:
+      - Baratza
+      - Rancilio
+      - Mazzer
+      - Compak
+      - Ditting
+      - Macap
+      - Nemox
+      - Other
+      required: true
+    - id: 9
+      name: grinder_model
+      label: Grinder Model
+      hint: Model number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: grinder_age
+      label: How long have you owned this grinder
+      hint: Approximate age
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - More than 10 years
+      required: true
+    - id: 11
+      name: usage_frequency
+      label: Daily Usage Frequency
+      hint: How much is it used daily
+      type: select_one
+      options:
+      - Light use
+      - Moderate use
+      - Heavy use
+      - Continuous commercial use
+      required: true
+    - id: 12
+      name: section_issue
+      label: -- Issue and Service Needed --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: service_type
+      label: Service Needed
+      hint: Select primary service
+      type: select_one
+      options:
+      - Cleaning and maintenance
+      - Burr replacement
+      - Motor repair
+      - Replacement parts
+      - Calibration tune-up
+      - Diagnostic inspection
+      - Other
+      required: true
+    - id: 14
+      name: problem_description
+      label: Problem Description
+      hint: Describe the issue in detail
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: issue_severity
+      label: Issue Severity
+      hint: null
+      type: select_one
+      options:
+      - Minor
+      - Moderate
+      - Major
+      - Critical - not working at all
+      required: true
+    - id: 16
+      name: current_symptoms
+      label: Current Symptoms
+      hint: Strange noises, uneven grinding, etc
+      type: select_multiple
+      options:
+      - Unusual noise
+      - Uneven grinding
+      - Slow grinding
+      - Overheating
+      - Burrs slipping
+      - Dust leakage
+      - Not turning on
+      - Other
+      required: false
+    - id: 17
+      name: section_service_schedule
+      label: -- Service Schedule --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: preferred_service_date
+      label: Preferred Service Date
+      hint: When can you schedule service
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: service_window
+      label: Preferred Service Time Window
+      hint: null
+      type: select_one
+      options:
+      - Morning (8am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-8pm)
+      - Flexible
+      required: true
+    - id: 20
+      name: urgency
+      label: Service Urgency
+      hint: How soon do you need this service
+      type: select_one
+      options:
+      - As soon as possible
+      - Within 1 week
+      - Within 2 weeks
+      - No rush
+      required: true
+    - id: 21
+      name: section_alternatives
+      label: -- Backup Solutions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: loaner_grinder
+      label: Do you need a loaner grinder
+      hint: While yours is being serviced
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: replacement_option
+      label: If not repairable - interested in replacement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 24
+      name: section_contact
+      label: -- Additional Contact Info --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: best_contact_method
+      label: Best Contact Method
+      hint: How we should reach you
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text message
+      - Either
+      required: true
+    - id: 26
+      name: special_instructions
+      label: Special Instructions
+      hint: Access information, security codes, etc
+      type: text
+      options: []
+      required: false

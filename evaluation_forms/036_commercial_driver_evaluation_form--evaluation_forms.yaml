@@ -1,0 +1,335 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commercial Driver Evaluation Form
+    pages:
+    - id: 1
+      name: driver_name
+      label: Driver Full Name
+      hint: Legal name as on license
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: cdl_number
+      label: CDL Number
+      hint: Commercial license number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: evaluation_date
+      label: Evaluation Date
+      hint: Date of evaluation
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: evaluator_name
+      label: Evaluator Name
+      hint: Name of evaluator
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_header_pre_trip_inspection
+      label: -- Pre-Trip Inspection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_inspection_score
+      label: Vehicle Inspection Score
+      hint: Rate inspection performance
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Unsatisfactory
+      required: true
+    - id: 7
+      name: identified_defects
+      label: Identified Defects
+      hint: Did driver identify defects correctly
+      type: select_one
+      options:
+      - Yes All
+      - Yes Most
+      - Some
+      - Few
+      - None
+      required: true
+    - id: 8
+      name: inspection_time
+      label: Inspection Time
+      hint: Time taken for inspection
+      type: select_one
+      options:
+      - Under 10 minutes
+      - 10-15 minutes
+      - 15-20 minutes
+      - Over 20 minutes
+      required: true
+    - id: 9
+      name: section_header_basic_control
+      label: -- Basic Vehicle Control --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: starting_procedure
+      label: Starting Procedure
+      hint: Rate starting technique
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Unsatisfactory
+      required: true
+    - id: 11
+      name: shifting_gears
+      label: Shifting and Gears
+      hint: Rate gear shifting ability
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Unsatisfactory
+      required: true
+    - id: 12
+      name: backing_skills
+      label: Backing Skills
+      hint: Rate backing ability
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Unsatisfactory
+      required: true
+    - id: 13
+      name: parking_skills
+      label: Parking Skills
+      hint: Rate parking ability
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Unsatisfactory
+      required: true
+    - id: 14
+      name: section_header_road_test
+      label: -- Road Test --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: steering_control
+      label: Steering Control
+      hint: Rate steering ability
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Unsatisfactory
+      required: true
+    - id: 16
+      name: speed_management
+      label: Speed Management
+      hint: Rate speed control
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Unsatisfactory
+      required: true
+    - id: 17
+      name: lane_positioning
+      label: Lane Positioning
+      hint: Rate lane discipline
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Unsatisfactory
+      required: true
+    - id: 18
+      name: following_distance
+      label: Following Distance
+      hint: Rate safe following distance
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Unsatisfactory
+      required: true
+    - id: 19
+      name: intersection_approach
+      label: Intersection Approach
+      hint: Rate intersection handling
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Unsatisfactory
+      required: true
+    - id: 20
+      name: section_header_safety
+      label: -- Safety Practices --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: mirror_usage
+      label: Mirror Usage
+      hint: Rate mirror checking
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Unsatisfactory
+      required: true
+    - id: 22
+      name: signal_usage
+      label: Signal Usage
+      hint: Rate turn signal use
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Unsatisfactory
+      required: true
+    - id: 23
+      name: defensive_driving
+      label: Defensive Driving
+      hint: Rate defensive techniques
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Unsatisfactory
+      required: true
+    - id: 24
+      name: hazard_perception
+      label: Hazard Perception
+      hint: Rate hazard awareness
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Unsatisfactory
+      required: true
+    - id: 25
+      name: section_header_professionalism
+      label: -- Professionalism --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: attitude
+      label: Attitude
+      hint: Rate overall attitude
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Unsatisfactory
+      required: true
+    - id: 27
+      name: communication
+      label: Communication Skills
+      hint: Rate communication ability
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Unsatisfactory
+      required: true
+    - id: 28
+      name: section_header_overall
+      label: -- Overall Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: overall_score
+      label: Overall Score
+      hint: Total score
+      type: number
+      options: []
+      required: true
+    - id: 30
+      name: pass_fail
+      label: Pass or Fail
+      hint: Evaluation result
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Conditional Pass
+      required: true
+    - id: 31
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: List areas needing work
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: evaluator_comments
+      label: Evaluator Comments
+      hint: Additional notes
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: evaluator_signature
+      label: Evaluator Signature
+      hint: Signature
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: driver_signature
+      label: Driver Signature
+      hint: Driver acknowledgment
+      type: text
+      options: []
+      required: true

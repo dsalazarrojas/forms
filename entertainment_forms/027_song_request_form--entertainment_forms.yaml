@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Song Request Form
+    pages:
+    - id: 1
+      name: song_request_form
+      label: Song Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: song_title
+      label: Song Title
+      hint: Enter song title
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: song_artist
+      label: Artist
+      hint: Enter artist name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Event
+      - Live
+      - Online
+      - On-demand
+      required: false
+    - id: 5
+      name: song_requester_phone
+      label: Requester's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: song_requester_email
+      label: Requester's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: event_name
+      label: Event Name
+      hint: Enter event name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: Enter event date
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: event_time
+      label: Event Time
+      hint: Enter event time
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: song_requester_name
+      label: Requester's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: song_requester_organization
+      label: Requester's Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - Chatjimmy
+      - Chatbot
+      required: true
+    - id: 13
+      name: event_organizer_name
+      label: Event Organizer's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: event_organizer_email
+      label: Event Organizer's Email
+      hint: null
+      type: email
+      options: []
+      required: false

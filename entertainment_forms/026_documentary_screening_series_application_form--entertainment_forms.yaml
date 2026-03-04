@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: Documentary Screening Series Application Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_director
+      label: director
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_year
+      label: year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: form_screening_type
+      label: Screening Type
+      hint: null
+      type: select_multiple
+      options:
+      - Film
+      - Video
+      - Television
+      - Radio
+      - Web
+      required: false
+    - id: 5
+      name: form_screening_length
+      label: Screening Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: form_screening_format
+      label: Screening Format
+      hint: null
+      type: select_one
+      options:
+      - 3D
+      - 2D
+      - IMAX
+      - IMAX 3D
+      - Digital
+      - 4K
+      - Blu-ray
+      - DVD
+      required: false
+    - id: 7
+      name: form_language
+      label: Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - German
+      - Italian
+      - Chinese
+      - Japanese
+      - Korean
+      - Russian
+      - Portuguese
+      required: false
+    - id: 8
+      name: form_country
+      label: Country
+      hint: null
+      type: select_multiple
+      options:
+      - US
+      - Canada
+      - UK
+      - Australia
+      - China
+      - France
+      - Japan
+      - South Korea
+      - Russia
+      - Brazil
+      required: false
+    - id: 9
+      name: form_assets
+      label: Assets
+      hint: Please upload any assets for your screening, e.g. posters, photos, etc.
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: form_notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Other
+      required: true
+    - id: 12
+      name: form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: form_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: form_time_zone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - EST
+      - EDT
+      - CST
+      - CDT
+      - MST
+      - MDT
+      - PST
+      - PDT
+      - GMT
+      - UTC
+      required: false
+    - id: 17
+      name: form_time_zone_note
+      label: Time Zone Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: form_time_zone_offset
+      label: Time Zone Offset
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: form_screening_details
+      label: Screening Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: form_screening_location
+      label: Screening Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: form_screening_status
+      label: Screening Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      - Cancelled
+      - Finished
+      required: false
+    - id: 22
+      name: form_screening_type_status
+      label: Screening Type Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      - Cancelled
+      - Finished
+      required: false
+    - id: 23
+      name: form_screening_note
+      label: Screening Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: form_screening_date
+      label: Screening Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: form_screening_time
+      label: Screening Time
+      hint: null
+      type: time
+      options: []
+      required: false

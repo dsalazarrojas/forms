@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Halloween Cookie Order Form
+    pages:
+    - id: 1
+      name: cookie_type
+      label: Cookie Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: cookie_count
+      label: Cookie Count
+      hint: How many cookies do you want?
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: payment_type
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

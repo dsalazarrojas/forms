@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dermal Filler Aftercare Form
+    pages:
+    - id: 1
+      name: filler_aftercare_instructions
+      label: Filler Aftercare Instructions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: skin_type
+      label: Skin Type
+      hint: null
+      type: select_multiple
+      options:
+      - normal
+      - sensitive
+      - dry
+      - oily
+      required: true
+    - id: 3
+      name: product_used
+      label: Product Used
+      hint: null
+      type: select_one
+      options:
+      - dermal filler
+      - retinol
+      - other (please specify)
+      required: true
+    - id: 4
+      name: follow_up_schedule
+      label: Follow-up Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: follow_up_contact
+      label: Follow-up Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: aftercare_notes
+      label: Aftercare Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: follow_up_instructions
+      label: Follow-up Instructions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: photos
+      label: Photos
+      hint: null
+      type: text
+      options: []
+      required: false

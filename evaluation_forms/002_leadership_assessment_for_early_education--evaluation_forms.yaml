@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Leadership Assessment For Early Education
+    pages:
+    - id: 1
+      name: leadership_assessment_for_early_education_page_1
+      label: Leadership Assessment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: leadership_assessment_for_early_education_page_2
+      label: Leadership Skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: leadership_assessment_for_early_education_page_3
+      label: Leadership Strengths
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: leadership_assessment_for_early_education_page_4
+      label: Leadership Weaknesses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: leadership_assessment_for_early_education_page_5
+      label: Leadership Development Areas
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: leadership_assessment_for_early_education_page_6
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: leadership_assessment_for_early_education_page_7
+      label: leadership_assessment_for_early_education_page_7
+      hint: null
+      type: select_one
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: true
+    - id: 8
+      name: leadership_assessment_for_early_education_page_8
+      label: leadership_assessment_for_early_education_page_8
+      hint: null
+      type: select_multiple
+      options:
+      - option 1
+      - option 2
+      - option 3
+      - option 4
+      - option 5
+      required: false

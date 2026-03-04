@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gear Check Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: equipment_details
+      label: Equipment Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: condition_rating
+      label: Condition Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 4
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: follow_up_action
+      label: Follow-up Action
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: next_check_due
+      label: Next Check Due
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: issue_priority
+      label: Issue Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 8
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: equipment_condition_at_last_check
+      label: Equipment Condition at Last Check
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: equipment_condition
+      label: Equipment Condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: next_check_frequency
+      label: Next Check Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 12
+      name: issue_status
+      label: Issue Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - In Progress
+      required: true
+    - id: 13
+      name: issue_status_comments
+      label: Issue Status Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: equipment_serial_number
+      label: Equipment Serial Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: equipment_model_number
+      label: Equipment Model Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: equipment_asset_tag
+      label: Equipment Asset Tag
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: equipment_make
+      label: Equipment Make
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: category_2
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: follow_up_frequency
+      label: Follow-up Frequency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: follow_up_due_date
+      label: Follow-up Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_completed
+      label: Follow-up Completed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: follow_up_next_due_date
+      label: Follow-up Next Due Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: lemonade_artwork_submission_form
+    pages:
+    - id: 1
+      name: artwork_title
+      label: Artwork Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: artist_name
+      label: Artist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: artwork_type
+      label: Artwork Type
+      hint: null
+      type: select_multiple
+      options:
+      - Artwork
+      - Design
+      - Other
+      required: false
+    - id: 4
+      name: artwork_description
+      label: Artwork Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

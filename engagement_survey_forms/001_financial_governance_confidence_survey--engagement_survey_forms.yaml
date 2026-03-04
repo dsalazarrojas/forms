@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Governance Confidence Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Financial Governance
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: leadership
+      label: Who is the CEO of your company
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: financial_performance
+      label: Financial performance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: strategy
+      label: How do you feel about the company's overall strategy?
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 5
+      name: communication
+      label: How do you feel about communication between the CEO and team members?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: decision_making
+      label: How do you feel about decision-making within the company?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: risk_management
+      label: Risk Management
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: compliance
+      label: What do you think is the biggest compliance issue in your company?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: finance
+      label: How would you rate the quality of our accounting and financial management?
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 10
+      name: governance
+      label: How do you perceive your level of involvement in the decision-making
+        process of your company?
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 11
+      name: management
+      label: What do you think about the level of management accountability?
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 12
+      name: review
+      label: How do you perceive the level of regular review and feedback from your
+        manager or leader?
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false

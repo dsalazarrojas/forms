@@ -1,0 +1,292 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Evaluation Of Company Services
+    pages:
+    - id: 1
+      name: client_first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_name
+      label: Your Company Name
+      hint: Your business name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: service_category
+      label: Service Category Received
+      hint: What type of service?
+      type: select_one
+      options:
+      - Consulting Services
+      - IT Services
+      - Financial Services
+      - Marketing Services
+      - Legal Services
+      - HR Services
+      - Logistics Services
+      - Manufacturing Services
+      - Other
+      required: true
+    - id: 7
+      name: service_duration
+      label: How Long Have You Been a Client?
+      hint: Length of relationship
+      type: select_one
+      options:
+      - Less than 1 month
+      - 1-6 months
+      - 6-12 months
+      - 1-2 years
+      - 2-5 years
+      - Over 5 years
+      required: true
+    - id: 8
+      name: account_manager
+      label: Account Manager Name
+      hint: Your primary contact
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: service_quality_rating
+      label: Overall Service Quality Rating
+      hint: Your overall assessment
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 10
+      name: deliverable_quality
+      label: Quality of Deliverables
+      hint: Work product quality
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 11
+      name: timeliness
+      label: Timeliness of Service Delivery
+      hint: On-time performance
+      type: select_one
+      options:
+      - Always On Time
+      - Usually On Time
+      - Sometimes Late
+      - Often Late
+      - Always Late
+      required: true
+    - id: 12
+      name: communication_rating
+      label: Communication Rating
+      hint: How well do we communicate?
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 13
+      name: responsiveness
+      label: Responsiveness to Inquiries
+      hint: How quickly do we respond?
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: problem_solving
+      label: Problem-Solving Ability
+      hint: How well do we solve problems?
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 15
+      name: expertise_level
+      label: Level of Expertise Demonstrated
+      hint: Staff knowledge
+      type: select_one
+      options:
+      - Expert
+      - Very Knowledgeable
+      - Knowledgeable
+      - Average
+      - Below Average
+      required: true
+    - id: 16
+      name: value_for_money
+      label: Value for Money
+      hint: Is the service worth the cost?
+      type: select_one
+      options:
+      - Excellent Value
+      - Good Value
+      - Fair Value
+      - Poor Value
+      - Very Poor Value
+      required: true
+    - id: 17
+      name: expectations_met
+      label: Were Expectations Met?
+      hint: Expectation fulfillment
+      type: select_one
+      options:
+      - Exceeded Expectations
+      - Met Expectations
+      - Mostly Met Expectations
+      - Did Not Meet Expectations
+      - Far Below Expectations
+      required: true
+    - id: 18
+      name: service_reliability
+      label: Service Reliability
+      hint: Consistency of service
+      type: select_one
+      options:
+      - Very Reliable
+      - Reliable
+      - Somewhat Reliable
+      - Unreliable
+      - Very Unreliable
+      required: true
+    - id: 19
+      name: contract_terms
+      label: Satisfaction With Contract Terms
+      hint: Agreement terms
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 20
+      name: billing_accuracy
+      label: Billing Accuracy
+      hint: Invoice accuracy
+      type: select_one
+      options:
+      - Always Accurate
+      - Usually Accurate
+      - Sometimes Inaccurate
+      - Often Inaccurate
+      - Always Inaccurate
+      required: false
+    - id: 21
+      name: competitive_advantage
+      label: How Do We Compare to Competitors?
+      hint: Competitive comparison
+      type: select_one
+      options:
+      - Much Better
+      - Somewhat Better
+      - About the Same
+      - Somewhat Worse
+      - Much Worse
+      - Cannot Compare
+      required: true
+    - id: 22
+      name: continue_services
+      label: Do You Plan to Continue Using Our Services?
+      hint: Future business
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Undecided
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 23
+      name: expand_services
+      label: Would You Consider Expanding Services with Us?
+      hint: Additional services
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Undecided
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 24
+      name: service_strengths
+      label: What Are Our Greatest Strengths?
+      hint: What do we do well?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: improvement_areas
+      label: What Areas Need Improvement?
+      hint: Where can we improve?
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: additional_services_needed
+      label: What Additional Services Do You Need?
+      hint: Future needs
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sugaring Intake Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: hair_removal_frequency
+      label: Hair Removal Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': 1, ''value'': ''Never''}'
+      - '{''options'': 2, ''value'': ''Rarely''}'
+      - '{''options'': 3, ''value'': ''Occasionally''}'
+      - '{''options'': 4, ''value'': ''Almost Every Day''}'
+      required: false
+    - id: 9
+      name: hair_removal_area
+      label: Hair Removal Area
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': 1, ''value'': ''Full Body''}'
+      - '{''options'': 2, ''value'': ''Face''}'
+      - '{''options'': 3, ''value'': ''Back/Neckline''}'
+      - '{''options'': 4, ''value'': ''Eyebrow''}'
+      - '{''options'': 5, ''value'': ''Bikini Line''}'
+      - '{''options'': 6, ''value'': ''Lip/Chin''}'
+      - '{''options'': 7, ''value'': ''Eyelashes''}'
+      - '{''options'': 8, ''value'': ''Eyebrow Bumps''}'
+      - '{''options'': 9, ''value'': ''Full Body/Upper Lip''}'
+      required: false
+    - id: 10
+      name: technician
+      label: Technician
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: area_of_body_treated
+      label: Area of Body Treated
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': 1, ''value'': ''Full Body''}'
+      - '{''options'': 2, ''value'': ''Face''}'
+      - '{''options'': 3, ''value'': ''Back/Neckline''}'
+      - '{''options'': 4, ''value'': ''Eyebrow''}'
+      - '{''options'': 5, ''value'': ''Eyelashes''}'
+      - '{''options'': 6, ''value'': ''Eyebrow Bumps''}'
+      required: false
+    - id: 14
+      name: medical_concerns
+      label: Medical Concerns
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': 1, ''value'': ''None''}'
+      - '{''options'': 2, ''value'': ''Skin Conditions''}'
+      - '{''options'': 3, ''value'': ''Ingrown Hairs''}'
+      - '{''options'': 4, ''value'': ''Infection''}'
+      - '{''options'': 5, ''value'': ''Allergies''}'
+      required: false
+    - id: 15
+      name: pain_level
+      label: Pain Level
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': 1, ''value'': ''No Pain''}'
+      - '{''options'': 2, ''value'': ''Little Pain''}'
+      - '{''options'': 3, ''value'': ''Some Pain''}'
+      - '{''options'': 4, ''value'': ''A Lot of Pain''}'
+      required: false
+    - id: 16
+      name: num_sessions
+      label: Number of Sessions
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': 1, ''value'': 1}'
+      - '{''options'': 2, ''value'': 2}'
+      - '{''options'': 3, ''value'': 3}'
+      required: false
+    - id: 17
+      name: desired_outcome
+      label: Desired Outcome
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': 1, ''value'': ''Smooth and Silky Skin''}'
+      - '{''options'': 2, ''value'': ''Reduced Hair Growth''}'
+      - '{''options'': 3, ''value'': ''Reduced Ingrown Hairs''}'
+      required: false
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: medical_certificate
+      label: Medical Certificate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': 1, ''value'': True}'
+      - '{''options'': 2, ''value'': False}'
+      required: false
+    - id: 21
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: consent_time
+      label: Consent Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: consent_by
+      label: Consent By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: technician_signature
+      label: Technician Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: technician_name
+      label: Technician Name
+      hint: null
+      type: text
+      options: []
+      required: false

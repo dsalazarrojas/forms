@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performing Arts Terms Acknowledgment
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: production_name
+      label: Production Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: production_type
+      label: Production Type
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Class''}'
+      - '{''option'': ''Rehearsal''}'
+      - '{''option'': ''Studio''}'
+      required: false
+    - id: 8
+      name: terms_accepted
+      label: I have read, understand, and agree to the terms and conditions.
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''I have read, understand, and accept the terms and conditions''}'
+      - '{''option'': None}'
+      - '{''option'': ''I have not read, understand, or accept the terms and conditions''}'
+      - '{''option'': ''I am not sure, do not accept the terms and conditions''}'
+      required: false
+    - id: 9
+      name: date_of_participation
+      label: Date of Participation
+      hint: null
+      type: date
+      options: []
+      required: false

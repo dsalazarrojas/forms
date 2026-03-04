@@ -1,0 +1,215 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Breaking Up Form
+    pages:
+      - id: 1
+        name: sender_name
+        label: Your Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: recipient_name
+        label: Their Name
+        hint: Name of the person you are breaking up with
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: relationship_length
+        label: How long have you been together
+        hint: Duration of the relationship
+        type: select_one
+        options:
+          - Less than 1 month
+          - 1-3 months
+          - 3-6 months
+          - 6-12 months
+          - 1-2 years
+          - 2-5 years
+          - 5+ years
+        required: true
+      - id: 4
+        name: relationship_type
+        label: Type of Relationship
+        hint: Nature of your relationship
+        type: select_one
+        options:
+          - Dating
+          - In a committed relationship
+          - Engaged
+          - Long-distance relationship
+          - Other
+        required: true
+      - id: 5
+        name: breakup_reason_primary
+        label: Primary Reason for Breaking Up
+        hint: Main reason for the breakup
+        type: select_one
+        options:
+          - Loss of feelings
+          - Incompatibility
+          - Long distance
+          - Infidelity
+          - Trust issues
+          - Different life goals
+          - Family concerns
+          - Other reasons
+        required: true
+      - id: 6
+        name: breakup_reason_details
+        label: Explain the Reason
+        hint: Provide more details about your reason
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: attempt_repair
+        label: Have you attempted to work things out
+        hint: Did you try to fix the relationship first
+        type: select_one
+        options:
+          - Yes, we tried counseling
+          - Yes, we talked about it
+          - No, it was clear we needed to split
+          - Unsure
+        required: false
+      - id: 8
+        name: emotional_readiness
+        label: How emotionally ready are you for this
+        hint: Rate your emotional preparedness
+        type: select_one
+        options:
+          - Not ready at all
+          - Somewhat ready
+          - Neutral
+          - Ready
+          - Very ready
+        required: true
+      - id: 9
+        name: timing_plan
+        label: When do you plan to have this conversation
+        hint: Planned timing
+        type: select_one
+        options:
+          - Immediately
+          - Within the next few days
+          - Within a week
+          - Within two weeks
+          - Haven't decided yet
+        required: false
+      - id: 10
+        name: breakup_method
+        label: How will you break up
+        hint: Choose your preferred method
+        type: select_one
+        options:
+          - In person
+          - Phone call
+          - Video call
+          - Text message
+          - Letter or email
+          - Other
+        required: true
+      - id: 11
+        name: location_plan
+        label: Location for the Breakup Conversation
+        hint: Where will you have the conversation
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: message_tone
+        label: Tone of Your Message
+        hint: How should the message be conveyed
+        type: select_one
+        options:
+          - Kind and compassionate
+          - Direct and honest
+          - Gentle and sensitive
+          - Clear and straightforward
+          - Supportive and caring
+        required: false
+      - id: 13
+        name: key_points
+        label: Key Points to Cover
+        hint: What main points do you want to communicate
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: anticipated_reaction
+        label: How do you anticipate they will react
+        hint: Your expectation of their response
+        type: select_one
+        options:
+          - Calm understanding
+          - Sad but accepting
+          - Angry or upset
+          - Surprised
+          - Relief
+          - Uncertain
+        required: false
+      - id: 15
+        name: support_system
+        label: Do you have emotional support available
+        hint: Will you have support after the breakup
+        type: select_one
+        options:
+          - Yes, friends and family
+          - Yes, professional counselor
+          - Yes, support group
+          - Limited support
+          - No support
+        required: false
+      - id: 16
+        name: post_breakup_plan
+        label: What is your plan after the breakup
+        hint: Your next steps
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: shared_assets
+        label: Do you have shared assets or living situation
+        hint: Practical considerations
+        type: select_one
+        options:
+          - No shared assets
+          - Shared apartment or home
+          - Shared financial accounts
+          - Shared pets
+          - Other shared items
+        required: false
+      - id: 18
+        name: mutual_friends
+        label: Concern about Mutual Friends
+        hint: Worried about mutual friends
+        type: select_one
+        options:
+          - Yes, very concerned
+          - Somewhat concerned
+          - Not concerned
+          - They are primarily their friends
+          - They are primarily my friends
+        required: false
+      - id: 19
+        name: final_message
+        label: Write Your Breakup Message
+        hint: Draft your message here
+        type: text
+        options: []
+        required: false

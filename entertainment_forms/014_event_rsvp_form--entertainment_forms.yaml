@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: event_rsvp_form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: Enter name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: rsvp_date
+      label: RSVP Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: rsvp_message
+      label: RSVP Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: event_details
+      label: Event Details
+      hint: null
+      type: select_one
+      options:
+      - Event 1
+      - Event 2
+      - Event 3
+      required: true

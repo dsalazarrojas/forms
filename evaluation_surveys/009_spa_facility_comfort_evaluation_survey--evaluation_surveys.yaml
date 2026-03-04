@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spa Facility Comfort Evaluation Survey
+    pages:
+    - id: 1
+      name: intro
+      label: Welcome to this survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: spa_name
+      label: Spa Name
+      hint: Full name of the spa
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: facility_rating
+      label: Facility Rating (out of 10)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: ambiance_rating
+      label: Ambiance Rating (out of 10)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: cleanliness_rating
+      label: Cleanliness Rating (out of 10)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: service_quality_rating
+      label: Service Quality Rating (out of 10)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: spa_staff_rating
+      label: Spa Staff Rating (out of 10)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: overall_rating
+      label: Overall Rating (out of 10)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: thanks
+      label: Thank you for your participation!
+      hint: null
+      type: note
+      options: []
+      required: false

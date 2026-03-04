@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Speaking Evaluation Form
+    pages:
+    - id: 1
+      name: overall_score
+      label: Overall Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: communication_skills
+      label: Communication Skills
+      hint: How well did the speaker communicate their ideas?
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 3
+      name: fluency
+      label: Fluency
+      hint: How clear and fluent was the speaker?
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: pronunciation
+      label: Pronunciation
+      hint: How clear was the speaker's pronunciation?
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: body_language
+      label: Body Language
+      hint: How effective was the speaker's body language?
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 6
+      name: speaker_self_reflection
+      label: Speaker Self Reflection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: trainer_self_reflection
+      label: Trainer Self Reflection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: overall_comments
+      label: Overall Comments
+      hint: Provide any additional comments on the speaker's performance.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: communication_comments
+      label: Communication Comments
+      hint: Provide any comments about the speaker's communication.
+      type: text
+      options: []
+      required: false

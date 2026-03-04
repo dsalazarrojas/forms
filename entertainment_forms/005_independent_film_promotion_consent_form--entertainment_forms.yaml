@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Independent Film Promotion Consent Form
+    pages:
+    - id: 1
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: film_title
+      label: Film Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: talent_info
+      label: Talent Info
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Actor'', ''value'': ''actor''}'
+      - '{''label'': ''Actress'', ''value'': ''actress''}'
+      - '{''label'': ''Dancer'', ''value'': ''dancer''}'
+      - '{''label'': ''Voice Actor'', ''value'': ''voice-actor''}'
+      required: false
+    - id: 4
+      name: contributor_info
+      label: Contributor Info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Model'', ''value'': ''model''}'
+      - '{''label'': ''Singer'', ''value'': ''singer''}'
+      - '{''label'': ''Dancer'', ''value'': ''dancer''}'
+      required: false
+    - id: 5
+      name: film_description
+      label: Film Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: marketing_agreement
+      label: Marketing Agreement
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 7
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Agree'', ''value'': ''agree''}'
+      - '{''label'': ''Disagree'', ''value'': ''disagree''}'
+      required: false
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: upload_film_file
+      label: Upload Film File
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: upload_contribution_file
+      label: Upload Contribution File
+      hint: null
+      type: time
+      options: []
+      required: false

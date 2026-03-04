@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Model Competition
+    pages:
+    - id: 1
+      name: section_personal_information
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: team_name
+      label: Team Name
+      hint: Provide the official team name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: primary_contact_name
+      label: Primary Contact Name
+      hint: Full name of the team lead or contact
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: primary_contact_email
+      label: Primary Contact Email
+      hint: Use an address we can use for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: primary_contact_phone
+      label: Primary Contact Phone
+      hint: Include country code if outside local area
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: institution_or_company
+      label: Institution or Company
+      hint: University or company affiliation if applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: team_member_list
+      label: Team Member Names
+      hint: List names separated by commas
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: project_title
+      label: Project Title
+      hint: Short descriptive title for the submission
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: project_summary
+      label: Project Summary
+      hint: 150 to 300 words summarizing the business model and value proposition
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: competition_category
+      label: Competition Category
+      hint: Choose the category that best fits your project
+      type: select_one
+      options:
+      - Technology
+      - Social Impact
+      - Consumer Product
+      - Services
+      - Other
+      required: true
+    - id: 11
+      name: development_stage
+      label: Development Stage
+      hint: Current stage of the venture
+      type: select_one
+      options:
+      - Idea
+      - Prototype
+      - Revenue Generating
+      - Scaling
+      required: true
+    - id: 12
+      name: website_or_pitch_deck_link
+      label: Website or Pitch Deck Link
+      hint: Optional link to more materials
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: agree_terms
+      label: Agreement to Rules and Terms
+      hint: Confirm team agrees to competition rules and judging decisions
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

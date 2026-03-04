@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: Children Theater Audition Registration Form
+    pages:
+    - id: 1
+      name: child_information
+      label: Child Information
+      hint: Please provide the child's basic information
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: child_first_name
+      label: Child's First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_last_name
+      label: Child's Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: child_date_of_birth
+      label: Child's Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: child_age
+      label: Child's Age
+      hint: Age at time of audition
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: child_gender
+      label: Child's Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 7
+      name: guardian_information
+      label: Guardian Information
+      hint: Parent or legal guardian contact details
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: guardian_first_name
+      label: Guardian First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: guardian_last_name
+      label: Guardian Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: guardian_email
+      label: Guardian Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: guardian_phone
+      label: Guardian Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: Alternative emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: audition_preferences
+      label: Audition Preferences
+      hint: Select your preferred audition details
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: preferred_audition_date
+      label: Preferred Audition Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: preferred_audition_time
+      label: Preferred Audition Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: previous_experience
+      label: Does the child have previous theater experience
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: experience_details
+      label: Previous Experience Details
+      hint: List any previous roles, productions, or training
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: special_skills
+      label: Special Skills or Talents
+      hint: Singing, dancing, instruments, accents, etc.
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: availability_conflicts
+      label: Schedule Conflicts
+      hint: List any dates or times the child is unavailable
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: how_did_you_hear
+      label: How Did You Hear About This Audition
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - School
+      - Friend or Family
+      - Community Bulletin
+      - Previous Production
+      - Other
+      required: false
+    - id: 21
+      name: medical_information
+      label: Medical Information
+      hint: Important health information for our records
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: medical_conditions
+      label: Medical Conditions or Allergies
+      hint: Please list any relevant medical conditions
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: consent_agreement
+      label: I consent to my child participating in the audition process
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true

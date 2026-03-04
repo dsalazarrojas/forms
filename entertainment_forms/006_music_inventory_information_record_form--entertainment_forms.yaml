@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music Inventory Information Record Form
+    pages:
+    - id: 1
+      name: music_inventory_info
+      label: Music Inventory Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: artist
+      label: Artist
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: album
+      label: Album
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: record_id
+      label: Record ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: genre
+      label: Genre
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: record_condition
+      label: Record Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: purchase_value
+      label: Purchase Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: purchase_currency
+      label: Purchase Currency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: purchase_cost
+      label: Purchase Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: record_weight
+      label: Record Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: record_size
+      label: Record Size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: record_type
+      label: Record Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: condition_note
+      label: Condition Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: purchase_note
+      label: Purchase Note
+      hint: null
+      type: note
+      options: []
+      required: false

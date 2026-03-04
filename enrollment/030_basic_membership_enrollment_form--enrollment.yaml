@@ -1,0 +1,280 @@
+inputSchema:
+  type: object
+  properties:
+    title: Basic Membership Enrollment Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: section_header_2
+      label: -- Address Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: street_address
+      label: Street address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state_province
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: postal_code
+      label: Postal code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_header_3
+      label: -- Membership Type --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: membership_level
+      label: Membership level
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Premium
+      - Gold
+      - Platinum
+      - Student
+      - Senior
+      - Family
+      required: true
+    - id: 15
+      name: membership_duration
+      label: Membership duration
+      hint: null
+      type: select_one
+      options:
+      - 1 Month
+      - 3 Months
+      - 6 Months
+      - 1 Year
+      - 2 Years
+      - Lifetime
+      required: true
+    - id: 16
+      name: enrollment_date
+      label: Enrollment date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: section_header_4
+      label: -- Interests and Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: interests
+      label: Select your areas of interest
+      hint: null
+      type: select_multiple
+      options:
+      - Sports
+      - Recreation
+      - Wellness
+      - Social Events
+      - Professional Development
+      - Community Service
+      - Other
+      required: false
+    - id: 19
+      name: preferred_activities
+      label: Preferred activities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_header_5
+      label: -- Communication Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: communication_method
+      label: Preferred communication method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text Message
+      - Mail
+      - No Contact
+      required: false
+    - id: 22
+      name: newsletter_subscription
+      label: Subscribe to newsletter
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 23
+      name: event_notifications
+      label: Receive event notifications
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 24
+      name: section_header_6
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: payment_method
+      label: Preferred payment method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Check
+      - Bank Transfer
+      - PayPal
+      - Cash
+      required: false
+    - id: 26
+      name: billing_frequency
+      label: Billing frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 27
+      name: section_header_7
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: emergency_contact_phone
+      label: Emergency contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: section_header_8
+      label: -- Agreement and Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: terms_agreement
+      label: I agree to the membership terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 32
+      name: privacy_agreement
+      label: I consent to privacy policy and data usage
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 33
+      name: enrollment_confirmation
+      label: I confirm all information is accurate
+      hint: null
+      type: select_one
+      options:
+      - I Confirm
+      - I Need to Review
+      required: true

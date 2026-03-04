@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chemical Peel Consultation Form
+    pages:
+    - id: 1
+      name: consultation_intro
+      label: -- Chemical Peel Consultation Form --
+      hint: Pre-treatment consultation and consent
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: skin_type
+      label: Skin type
+      hint: null
+      type: select_one
+      options:
+      - Oily
+      - Dry
+      - Combination
+      - Sensitive
+      - Normal
+      required: true
+    - id: 8
+      name: skin_tone
+      label: Skin tone
+      hint: null
+      type: select_one
+      options:
+      - Fair
+      - Light
+      - Medium
+      - Olive
+      - Tan
+      - Deep
+      required: true
+    - id: 9
+      name: skin_concerns
+      label: Primary skin concerns
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Acne
+      - Wrinkles
+      - Age spots
+      - Sun damage
+      - Melasma
+      - Scars
+      - Hyperpigmentation
+      - Dull complexion
+      - Uneven texture
+      required: true
+    - id: 10
+      name: previous_peels
+      label: Have you had chemical peels before?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 11
+      name: peel_type_interest
+      label: Type of peel you are interested in
+      hint: null
+      type: select_one
+      options:
+      - Superficial
+      - Medium
+      - Deep
+      - Combination
+      - Unsure
+      required: true
+    - id: 12
+      name: retinoid_use
+      label: Do you currently use retinoids?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Recently stopped
+      required: true
+    - id: 13
+      name: sun_protection
+      label: Do you use daily sun protection?
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Usually
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 14
+      name: recent_procedures
+      label: Have you had other skin procedures in the last 6 months?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: procedure_details
+      label: If yes, please describe
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_conditions
+      label: Do you have any medical conditions we should know about?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: allergies
+      label: Do you have any allergies?
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Chemical allergies
+      - Medication allergies
+      - Latex allergy
+      - Other
+      required: true
+    - id: 18
+      name: allergy_details
+      label: Please describe your allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medications
+      label: Current medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: realistic_expectations
+      label: Do you have realistic expectations for the results?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Need more information
+      required: true
+    - id: 21
+      name: downtime_expectations
+      label: Are you aware of potential downtime requirements?
+      hint: null
+      type: select_one
+      options:
+      - Yes, fully informed
+      - Somewhat informed
+      - Not informed
+      required: true
+    - id: 22
+      name: consent_acknowledge
+      label: I understand the risks and benefits of the chemical peel procedure
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 23
+      name: consent_signature
+      label: I authorize this treatment
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true

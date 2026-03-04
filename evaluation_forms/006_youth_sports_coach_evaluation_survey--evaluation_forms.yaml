@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Sports Coach Evaluation Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: evaluation_coordinator
+      label: Evaluation Coordinator
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: evaluation_coordinator_name
+      label: Evaluation Coordinator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: coach_name
+      label: Coach Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: coaching_style
+      label: Coaching Style
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: communication
+      label: Communication
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: feedback_coach
+      label: Feedback to Coach
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: feedback_coach2
+      label: Feedback to Coach 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: feedback_coach3
+      label: Feedback to Coach 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: evaluation_coach
+      label: Evaluation of Coach
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 12
+      name: improvement_areas
+      label: Improvement Areas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: evaluation_coach2
+      label: Evaluation of Coach 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: overall_satisfaction2
+      label: Overall Satisfaction 2
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 16
+      name: evaluation_coach3
+      label: Evaluation of Coach 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

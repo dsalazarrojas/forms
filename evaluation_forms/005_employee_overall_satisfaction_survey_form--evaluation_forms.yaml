@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Overall Satisfaction Survey Form
+    pages:
+    - id: 1
+      name: overall_happiness
+      label: Overall Happiness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: mission_understanding
+      label: Mission Understanding
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: recommend_company
+      label: Recommend Company
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: overall_happiness_2
+      label: Overall Happiness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: mission_understanding_2
+      label: Mission Understanding
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: recommend_company_2
+      label: Recommend Company
+      hint: null
+      type: select_multiple
+      options:
+      - option4
+      - option5
+      - option6
+      required: false

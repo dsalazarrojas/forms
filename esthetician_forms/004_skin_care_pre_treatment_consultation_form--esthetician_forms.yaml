@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: skin_care_pre_treatment_consultation_form
+    pages:
+    - id: 1
+      name: client_information
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: skin_care_goals
+      label: Skin Care Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: skin_care_products
+      label: Skin Care Products
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: skin_type
+      label: Skin Type
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Oily
+      - Dry
+      - Combination
+      - Sensitive
+      - Rosacea
+      - Acne
+      - Other
+      required: false
+    - id: 7
+      name: skin_condition
+      label: Skin Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Acne
+      - Eczema
+      - Psoriasis
+      - Rosacea
+      - Hyper-pigmentation
+      - Other
+      required: false
+    - id: 8
+      name: skin_care_products_2
+      label: Skin Care Products 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: allergies
+      label: Allergies
+      hint: Please list all allergies, including any known allergies and allergies
+        to medications
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

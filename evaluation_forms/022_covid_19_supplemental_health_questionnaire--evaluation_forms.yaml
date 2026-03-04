@@ -1,0 +1,248 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Supplemental Health Questionnaire
+    pages:
+    - id: 1
+      name: questionnaire_date
+      label: Questionnaire Date
+      hint: Date of screening
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: patient_full_name
+      label: Patient Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: appointment_type
+      label: Appointment Type
+      hint: Type of dental service
+      type: select_one
+      options:
+      - Routine cleaning
+      - Dental exam
+      - Emergency dental care
+      - Orthodontic treatment
+      - Oral surgery
+      - Periodontal treatment
+      - Restorative procedure
+      - Cosmetic dentistry
+      - Other
+      required: true
+    - id: 7
+      name: current_symptoms
+      label: Are you currently experiencing any COVID-19 symptoms
+      hint: Symptom screening
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 8
+      name: symptom_list
+      label: Which symptoms
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fever or chills
+      - Cough
+      - Shortness of breath
+      - Sore throat
+      - Loss of taste or smell
+      - Muscle aches
+      - Headache
+      - Fatigue
+      - Congestion
+      - Nausea or vomiting
+      required: false
+    - id: 9
+      name: recent_positive_test
+      label: Have you tested positive for COVID-19 in the past 14 days
+      hint: Recent test
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 10
+      name: recent_exposure
+      label: Have you been in close contact with a confirmed COVID-19 case in the
+        past 14 days
+      hint: Exposure history
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 11
+      name: household_members_symptoms
+      label: Does anyone in your household have COVID-19 symptoms
+      hint: Household screening
+      type: select_one
+      options:
+      - false
+      - true
+      - I live alone
+      required: true
+    - id: 12
+      name: travel_history
+      label: Have you traveled outside the area in the past 14 days
+      hint: Travel history
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 13
+      name: vaccination_status
+      label: What is your COVID-19 vaccination status
+      hint: Vaccination status
+      type: select_one
+      options:
+      - Fully vaccinated with booster
+      - Fully vaccinated
+      - Partially vaccinated
+      - Not vaccinated
+      - Prefer not to say
+      required: false
+    - id: 14
+      name: high_risk_condition
+      label: Do you have any high-risk medical conditions
+      hint: Underlying conditions
+      type: select_multiple
+      options:
+      - None
+      - Heart disease
+      - Lung disease
+      - Diabetes
+      - Obesity
+      - Cancer
+      - Kidney disease
+      - Liver disease
+      - Immunocompromised
+      - Pregnancy
+      required: true
+    - id: 15
+      name: dental_anxiety
+      label: Do you experience dental anxiety
+      hint: Anxiety level
+      type: select_one
+      options:
+      - false
+      - Mild
+      - Moderate
+      - Severe
+      required: true
+    - id: 16
+      name: medical_conditions
+      label: Do you have any medical conditions we should be aware of
+      hint: Medical history
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: current_medications
+      label: List current medications
+      hint: Include dosages
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medication_allergies
+      label: Do you have any medication allergies
+      hint: Drug allergies
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: latex_allergy
+      label: Do you have a latex allergy
+      hint: Latex sensitivity
+      type: select_one
+      options:
+      - false
+      - true
+      - Not sure
+      required: true
+    - id: 20
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: consent_to_treatment
+      label: I consent to dental treatment and understand the risks involved during
+        COVID-19
+      hint: Treatment consent
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true
+    - id: 23
+      name: aerosol_procedure_consent
+      label: I understand that some dental procedures create aerosols and may increase
+        COVID-19 exposure risk
+      hint: Aerosol procedure acknowledgment
+      type: select_one
+      options:
+      - Yes I understand and accept the risk
+      - No I do not accept
+      required: true
+    - id: 24
+      name: ppe_compliance
+      label: I agree to wear a mask at all times except during treatment
+      hint: Mask compliance
+      type: select_one
+      options:
+      - Yes I agree
+      - No I cannot comply
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments or Concerns
+      hint: Other information
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: patient_signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,48 @@
+inputSchema:
+  type: object
+  properties:
+    title: Movie Review Template
+    pages:
+    - id: 1
+      name: movie_review_template_1
+      label: Enter Movie Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: movie_review_template_2
+      label: Enter Movie Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: movie_review_template_3
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: movie_review_template_4
+      label: Rating Scale
+      hint: How would you rate this movie?
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 5
+      name: movie_review_template_5
+      label: Recommend
+      hint: Would you recommend this movie?
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false

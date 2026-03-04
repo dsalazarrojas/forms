@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alcohol And Drug Evaluation Form
+    pages:
+    - id: 1
+      name: section_demographics
+      label: -- Patient Demographics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_id
+      label: Patient Identification Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_evaluation
+      label: Date of Evaluation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: referral_source
+      label: Referral Source
+      hint: e.g. Court, Employer, Self-referral
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_substance_history
+      label: -- Substance Use History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: primary_substance
+      label: Primary Substance of Use
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: frequency_of_use
+      label: Frequency of Use (Primary)
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several times a week
+      - Weekly
+      - Monthly
+      - Binge use only
+      required: true
+    - id: 8
+      name: secondary_substances
+      label: Secondary Substances Used
+      hint: null
+      type: select_multiple
+      options:
+      - Alcohol
+      - Cannabis
+      - Opioids
+      - Cocaine/Stimulants
+      - Benzodiazepines
+      - Hallucinogens
+      - None
+      required: true
+    - id: 9
+      name: age_of_first_use
+      label: Age of First Significant Use
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: section_psychosocial
+      label: -- Psychosocial Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: withdrawal_history
+      label: History of Withdrawal Symptoms?
+      hint: e.g. Tremors, Seizures, Hallucinations
+      type: select_one
+      options:
+      - Yes (Severe)
+      - Yes (Moderate/Mild)
+      - false
+      required: true
+    - id: 12
+      name: previous_treatment_count
+      label: Number of Previous Treatment Episodes
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: mental_health_history
+      label: Co-occurring Mental Health Diagnoses
+      hint: If known or previously diagnosed
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: current_living_situation
+      label: Current Living Stability
+      hint: null
+      type: select_one
+      options:
+      - Stable Housing
+      - Unstable/Transitional
+      - Homeless
+      - Institutionalized
+      required: true
+    - id: 15
+      name: legal_history_related
+      label: Substace-related Legal Incidents
+      hint: e.g. DUI, possession charges
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_clinical_impression
+      label: -- Clinical Impression --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: severity_index_score
+      label: Severity Index Score (Internal Scale)
+      hint: 0 (Low) to 10 (Critical)
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: recommendation_level_care
+      label: Recommended Level of Care
+      hint: null
+      type: select_one
+      options:
+      - Outpatient Counseling
+      - Intensive Outpatient (IOP)
+      - Residential/Inpatient
+      - Medically Managed Detox
+      - No treatment recommended
+      required: true
+    - id: 19
+      name: evaluator_signature
+      label: Evaluator Full Name and Credentials
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: confidentially_agreement
+      label: I confirm this evaluation was conducted following HIPAA and clinical
+        standards
+      hint: null
+      type: select_one
+      options:
+      - I confirm
+      - Other
+      required: true

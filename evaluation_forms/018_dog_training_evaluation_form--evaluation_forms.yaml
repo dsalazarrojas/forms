@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dog Training Evaluation Form
+    pages:
+    - id: 1
+      name: dog_training_form
+      label: Training Evaluation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dog_id
+      label: dog id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: training_level
+      label: training level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 4
+      name: evaluation_date
+      label: evaluation date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: evaluation_time
+      label: evaluation time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: behavior
+      label: behavior
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: training_needs
+      label: training needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: training_status
+      label: training status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: evaluator
+      label: evaluator
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: evaluation_form_id
+      label: evaluation form id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: evaluation_form_name
+      label: evaluation form name
+      hint: null
+      type: text
+      options: []
+      required: false

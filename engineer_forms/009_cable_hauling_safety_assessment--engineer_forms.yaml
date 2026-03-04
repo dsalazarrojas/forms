@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cable Hauling Safety Assessment
+    pages:
+    - id: 1
+      name: project_header
+      label: -- Project Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_location
+      label: Project Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contractor_name
+      label: Contractor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: safety_header
+      label: -- Safety Inspection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: site_hazards
+      label: Identify Site Hazards
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: weather_conditions
+      label: Weather Conditions
+      hint: null
+      type: select_one
+      options:
+      - Clear
+      - Cloudy
+      - Rainy
+      - Windy
+      - Other
+      required: true
+    - id: 10
+      name: cable_condition
+      label: Cable Condition Assessment
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Damaged
+      required: true
+    - id: 11
+      name: equipment_header
+      label: -- Equipment and Rigging --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: equipment_type
+      label: Equipment Type Used
+      hint: null
+      type: select_multiple
+      options:
+      - Winch
+      - Pulley System
+      - Crane
+      - Tractor
+      - Truck
+      - Other
+      required: true
+    - id: 13
+      name: equipment_inspection
+      label: Equipment Inspection Status
+      hint: null
+      type: select_one
+      options:
+      - Inspected and certified
+      - Needs inspection
+      - Failed inspection
+      required: true
+    - id: 14
+      name: rigging_plan
+      label: Rigging Plan in Place?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: personnel_header
+      label: -- Personnel Safety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: ppe_compliance
+      label: All Personnel Using Proper PPE?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partial
+      required: true
+    - id: 17
+      name: workers_count
+      label: Number of Workers on Site
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: safety_briefing
+      label: Safety Briefing Conducted?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: compliance_notes
+      label: -- Compliance Notes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: compliance_status
+      label: Overall Compliance Status
+      hint: null
+      type: select_one
+      options:
+      - Fully compliant
+      - Mostly compliant
+      - Non-compliant
+      required: true
+    - id: 21
+      name: corrective_actions
+      label: Required Corrective Actions
+      hint: List any necessary improvements
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: reassessment_date
+      label: Reassessment Date (if needed)
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: inspector_signature
+      label: Inspector Signature
+      hint: Type your name to confirm
+      type: text
+      options: []
+      required: true

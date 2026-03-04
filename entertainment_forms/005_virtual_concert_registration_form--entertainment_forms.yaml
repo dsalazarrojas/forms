@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Concert Registration Form
+    pages:
+    - id: 1
+      name: full_name
+      label: full name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: concert_date
+      label: concert date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: concert_time
+      label: concert time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: concert_duration
+      label: concert duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: concert_details
+      label: concert details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: ticket_price
+      label: ticket price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: number_of_tickets
+      label: number of tickets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: is_attending
+      label: are you attending
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Cash
+      required: false
+    - id: 12
+      name: payment_details
+      label: payment details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: confirm_concert_details
+      label: confirm concert details
+      hint: null
+      type: select_multiple
+      options:
+      - concert details
+      - ticket price
+      - concert duration
+      required: false
+    - id: 15
+      name: confirmation_of_concert_details
+      label: confirmation of concert details
+      hint: null
+      type: select_multiple
+      options:
+      - concert details
+      - ticket price
+      - concert duration
+      required: false

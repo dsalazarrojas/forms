@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: equipment_heat_monitoring_report
+    pages:
+    - id: 1
+      name: report_details
+      label: Report Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: temperatures
+      label: Temperatures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: issues_and_evidence
+      label: Issues and Evidence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: equipment_details
+      label: Equipment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: asset_upload
+      label: Asset Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: facility_info
+      label: Facility Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: issue_details
+      label: Issue Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: issue_status
+      label: Issue Status
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Critical
+      - Minor
+      required: true
+    - id: 9
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: issue_date
+      label: Issue Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: issue_time
+      label: Issue Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: issue_evidence
+      label: Issue Evidence
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: asset_name
+      label: Asset Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: asset_location
+      label: Asset Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: asset_temperature
+      label: Asset Temperature
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: issue_temperature
+      label: Issue Temperature
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: issue_priority
+      label: Issue Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 18
+      name: issue_type
+      label: Issue Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: facility_location
+      label: Facility Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: issue_reporter
+      label: Issue Reporter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: issue_responsible
+      label: Issue Responsible
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: issue_reviewed
+      label: Issue Reviewed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: issue_closed
+      label: Issue Closed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

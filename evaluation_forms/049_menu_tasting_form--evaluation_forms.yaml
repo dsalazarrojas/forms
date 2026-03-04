@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Menu Tasting Form
+    pages:
+    - id: 1
+      name: restaurant_id
+      label: Restaurant Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: food_item_name
+      label: food_item_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: food_item_description
+      label: food_item_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: rating_scale
+      label: prophets_scale
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Needs Improvement
+      required: true
+    - id: 7
+      name: rating_comment
+      label: rating_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: rating_value
+      label: prophets_value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: rating_scale_value
+      label: scale_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: rating_notes
+      label: rating_notes
+      hint: null
+      type: text
+      options: []
+      required: false

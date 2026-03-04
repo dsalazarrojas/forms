@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agile Implementation Assistance Request Form
+    pages:
+    - id: 1
+      name: request_header
+      label: -- Assistance Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization name
+      hint: Name of company requesting assistance
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact person
+      hint: Primary contact for the request
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: For follow up and proposals
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: implementation_goals
+      label: Implementation goals
+      hint: Key objectives to achieve with assistance
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: current_challenges
+      label: Current challenges
+      hint: Describe obstacles to adoption
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: team_size
+      label: Team size involved
+      hint: Number of people impacted
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: preferred_engagement_model
+      label: Preferred engagement model
+      hint: How assistance should be delivered
+      type: select_one
+      options:
+      - Consulting
+      - Coaching
+      - Training
+      - Hybrid
+      required: true
+    - id: 9
+      name: budget_estimate
+      label: Budget estimate
+      hint: Approximate budget for assistance
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: timeline
+      label: Desired timeline
+      hint: Target start and duration
+      type: text
+      options: []
+      required: false

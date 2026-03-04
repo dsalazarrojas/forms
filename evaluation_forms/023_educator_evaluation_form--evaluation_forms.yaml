@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educator Evaluation Form
+    pages:
+    - id: 1
+      name: teacher_performance
+      label: Teacher Performance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: classroom_management
+      label: Classroom Management
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: subject_knowledge
+      label: Subject Knowledge
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: communication_skills
+      label: Communication Skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: time_management
+      label: Time Management
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: student_engagement
+      label: Student Engagement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: feedback_frequency
+      label: Feedback Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: educator_availability
+      label: Educator Availability
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: classroom_environment
+      label: Classroom Environment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false

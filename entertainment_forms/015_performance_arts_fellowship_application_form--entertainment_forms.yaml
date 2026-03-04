@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Arts Fellowship Application Form
+    pages:
+    - id: 1
+      name: artist_background
+      label: Artist Background
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_proposal
+      label: Project Proposal
+      hint: Please describe your project
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: artist_statement
+      label: Artist Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: organization_info
+      label: Organization Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Artist or Organization''}'
+      - '{''name'': ''Organization''}'
+      - '{''name'': ''Other''}'
+      required: false
+    - id: 8
+      name: art_form_type
+      label: Art Form Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Theater''}'
+      - '{''name'': ''Music''}'
+      - '{''name'': ''Dance''}'
+      - '{''name'': ''Other''}'
+      required: false
+    - id: 9
+      name: grant_type
+      label: Grant Type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Residency Grant''}'
+      - '{''name'': ''Production Grant''}'
+      - '{''name'': ''Other''}'
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitter_organization
+      label: Submitter Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter_position
+      label: Submitter Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitter_title
+      label: Submitter Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitter_address
+      label: Submitter Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitter_city
+      label: Submitter City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitter_state
+      label: Submitter State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitter_zip
+      label: Submitter Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitter_country
+      label: Submitter Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter_additional_info
+      label: Submitter Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_agreement
+      label: Submitter Agreement
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': True}'
+      - '{''name'': False}'
+      - '{''name'': ''Undetermined''}'
+      required: false

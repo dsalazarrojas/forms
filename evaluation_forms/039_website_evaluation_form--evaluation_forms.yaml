@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Evaluation Form
+    pages:
+    - id: 1
+      name: website_url
+      label: Website URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: user_experience
+      label: User Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: website_design
+      label: Website Design
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: user_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: website_url_score
+      label: Website URL score out of 5
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: navigation
+      label: Navigation
+      hint: null
+      type: select_one
+      options:
+      - Navigation is clear and easy to follow
+      - Navigation is somewhat clear but could be improved
+      - Navigation is difficult to navigate
+      - Navigation is not navigable
+      required: true
+    - id: 8
+      name: website_design_score
+      label: Website Design score out of 5
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Needs improvement
+      - Poor
+      required: true
+    - id: 9
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Unsatisfied
+      - Very Unsatisfied
+      required: true
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: website_satisfaction_score
+      label: Website satisfaction score out of 5
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      - In person
+      - Not contactable
+      required: true

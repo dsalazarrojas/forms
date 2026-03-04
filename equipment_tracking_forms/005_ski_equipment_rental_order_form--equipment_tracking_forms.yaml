@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ski Equipment Rental Order Form
+    pages:
+    - id: 1
+      name: ski_equipment_rental_order_form_input
+      label: ski_equipment_rental_order_form_input
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: customer_information
+      label: customer_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rental_info
+      label: rental_info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: equipment_selected
+      label: equipment_selected
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: delivery_details
+      label: delivery_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_notes
+      label: order_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: total_rental_cost
+      label: total_rental_cost
+      hint: null
+      type: number
+      options: []
+      required: false

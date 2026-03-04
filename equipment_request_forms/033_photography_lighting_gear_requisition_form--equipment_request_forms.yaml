@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: photography_lighting_gear_requisition_form
+    pages:
+    - id: 1
+      name: photography_lighting_gear_requisition_form_page
+      label: Requester Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requested_equipment
+      label: Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: requested_equipment_details
+      label: Equipment Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: delivery_date
+      label: Desired Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: delivery_time
+      label: Desired Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: pickup_date
+      label: Pickup Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: pickup_time
+      label: Pickup Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: return_time
+      label: Return Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: return_notes
+      label: Return Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Halloween Trunk or Treat Event Interest Survey
+    pages:
+    - id: 1
+      name: parent_survey
+      label: Parent Survey
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: true
+    - id: 2
+      name: child_survey
+      label: Child
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Son'', ''value'': ''son''}'
+      - '{''label'': ''Daughter'', ''value'': ''daughter''}'
+      - '{''label'': ''Both'', ''value'': ''both''}'
+      - '{''label'': ''None'', ''value'': ''none''}'
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: event_details
+      label: Event Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: trick_or_treat_time
+      label: Trick or Treat Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: trick_or_treat_location
+      label: Trick or Treat Location
+      hint: null
+      type: text
+      options: []
+      required: true

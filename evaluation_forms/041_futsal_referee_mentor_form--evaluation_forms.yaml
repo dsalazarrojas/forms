@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Futsal Referee Mentor Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: referee_experience
+      label: Referee Experience
+      hint: null
+      type: select_multiple
+      options:
+      - Referee Level 1
+      - Referee Level 2
+      - Referee Level 3
+      - Referee Level 4
+      - Referee Level 5
+      required: false
+    - id: 5
+      name: mentorship_level
+      label: Referee Mentorship Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: false
+    - id: 6
+      name: evaluation_frequency
+      label: Evaluation Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 7
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_time
+      label: Evaluation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: mentorship_level_frequency
+      label: Referee Mentorship Level
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 10
+      name: evaluation_notes
+      label: Evaluation Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: referee_education
+      label: Referee Education
+      hint: null
+      type: select_multiple
+      options:
+      - Referee Education Level 1
+      - Referee Education Level 2
+      - Referee Education Level 3
+      - Referee Education Level 4
+      - Referee Education Level 5
+      required: false
+    - id: 12
+      name: referee_certification
+      label: Referee Certification
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false

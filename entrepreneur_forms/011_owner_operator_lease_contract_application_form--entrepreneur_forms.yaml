@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: owner-operator-lease-contract-application-form
+    pages:
+    - id: 1
+      name: lease_truck
+      label: Lease A Truck
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: select_one
+      options:
+      - Ford
+      - Dodge
+      - Chevrolet
+      required: true
+    - id: 10
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: select_multiple
+      options:
+      - '2018'
+      - '2019'
+      - '2020'
+      required: true
+    - id: 11
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: license_state
+      label: License State
+      hint: null
+      type: select_one
+      options:
+      - California
+      - New York
+      - Florida
+      required: true
+    - id: 13
+      name: driver_name
+      label: Driver Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: driver_license_number
+      label: Driver License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: vehicle_id_number
+      label: Vehicle Id Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: vehicle_vehicle_insurance
+      label: Vehicle Insurance
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: lease_start_date
+      label: Lease Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: lease_end_date
+      label: Lease End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: rental_period
+      label: Rental Period
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: rental_start_date
+      label: Rental Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: rental_end_date
+      label: Rental End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: lease_type
+      label: Lease Type
+      hint: null
+      type: select_one
+      options:
+      - Month
+      - Month to Month
+      - Week
+      - Weekend
+      - Weekday
+      required: true
+    - id: 23
+      name: lease_term
+      label: Lease Term
+      hint: null
+      type: select_multiple
+      options:
+      - 1 month
+      - 3 months
+      - 6 months
+      required: true
+    - id: 24
+      name: lease_status
+      label: Lease Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Expired
+      - Cancelled
+      required: true
+    - id: 25
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

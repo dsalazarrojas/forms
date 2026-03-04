@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supervisor Evaluation Form
+    pages:
+    - id: 1
+      name: supervisor_evaluation_form
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_title
+      label: employee_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: evaluation_date
+      label: evaluation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: evaluation_time
+      label: evaluation_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: evaluation_location
+      label: evaluation_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: supervisor_comments
+      label: supervisor_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employee_comments
+      label: employee_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_outcome
+      label: evaluation_outcome
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Unsatisfactory''}'
+      - '{''id'': 2, ''label'': ''Satisfactory''}'
+      - '{''id'': 3, ''label'': ''Needs Improvement''}'
+      required: false
+    - id: 9
+      name: evaluation_outcome_other
+      label: evaluation_outcome_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: evaluation_form_id
+      label: evaluation_form_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: date_submitted
+      label: date_submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: evaluation_form_status
+      label: evaluation_form_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Draft''}'
+      - '{''id'': 2, ''label'': ''Published''}'
+      - '{''id'': 3, ''label'': ''Deleted''}'
+      required: false
+    - id: 16
+      name: supervisor_id
+      label: supervisor_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: supervisor_name
+      label: supervisor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: evaluation_form_assigned_to
+      label: evaluation_form_assigned_to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: evaluation_form_last_updated_on
+      label: evaluation_form_last_updated_on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: evaluation_form_last_updated_by
+      label: evaluation_form_last_updated_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: evaluation_form_last_updated_time
+      label: evaluation_form_last_updated_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: evaluation_form_last_updated_user
+      label: evaluation_form_last_updated_user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: evaluation_form_last_updated_ip
+      label: evaluation_form_last_updated_ip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: evaluation_form_last_updated_user_agent
+      label: evaluation_form_last_updated_user_agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: evaluation_form_last_updated_user_browser
+      label: evaluation_form_last_updated_user_browser
+      hint: null
+      type: text
+      options: []
+      required: false

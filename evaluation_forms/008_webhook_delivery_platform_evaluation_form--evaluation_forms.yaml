@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: Webhook Delivery Platform Evaluation Form
+    pages:
+    - id: 1
+      name: form_start
+      label: Webhook Delivery Platform Evaluation Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: company name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_size
+      label: company size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - Extra Large
+      required: true
+    - id: 4
+      name: team_members
+      label: team members
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: platform_rating
+      label: platform rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: platform_satisfaction
+      label: platform satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Not Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 7
+      name: ease_of_use
+      label: ease of use
+      hint: null
+      type: select_multiple
+      options:
+      - Very Easy
+      - Easy
+      - Neutral
+      - Difficult
+      - Very Difficult
+      required: false
+    - id: 8
+      name: communication
+      label: communication
+      hint: null
+      type: select_one
+      options:
+      - Not Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 9
+      name: reliability
+      label: reliability
+      hint: null
+      type: select_multiple
+      options:
+      - Very Reliable
+      - Reliable
+      - Neutral
+      - Not Reliable
+      - Very Not Reliable
+      required: false
+    - id: 10
+      name: scalability
+      label: scalability
+      hint: null
+      type: select_one
+      options:
+      - Not Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 11
+      name: security
+      label: security
+      hint: null
+      type: select_one
+      options:
+      - Very Secure
+      - Secure
+      - Neutral
+      - Not Secure
+      - Very Not Secure
+      required: true
+    - id: 12
+      name: cost
+      label: cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: recommendation
+      label: recommendation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: contact_info
+      label: contact info
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: chat_with_sales
+      label: chat with sales
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: chat_with_support
+      label: chat with support
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 19
+      name: chat_with_both
+      label: chat with both
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: follow_up_messages
+      label: follow-up messages
+      hint: null
+      type: select_one
+      options:
+      - Not Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 21
+      name: overall_satisfaction
+      label: overall satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Not Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 22
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: form_report
+      label: Form Report
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_messages_sent
+      label: follow-up messages sent
+      hint: null
+      type: select_multiple
+      options:
+      - Not Sent
+      - Sent
+      required: true

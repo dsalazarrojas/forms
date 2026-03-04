@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recognition Frequency Analysis Survey
+    pages:
+    - id: 1
+      name: employee_giving_recognition
+      label: Employee Giving Recognition
+      hint: null
+      type: select_one
+      options:
+      - Very Often
+      - Often
+      - Rarely
+      required: true
+    - id: 2
+      name: employee_received_recognition
+      label: Employee Received Recognition
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      required: true
+    - id: 3
+      name: supervisor_giving_recognition
+      label: Supervisor Giving Recognition
+      hint: null
+      type: select_one
+      options:
+      - Very Often
+      - Often
+      - Rarely
+      required: false
+    - id: 4
+      name: barriers_to_giving_recognition
+      label: Barriers to Giving Recognition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: ideas_to_improve_recognition
+      label: Ideas to Improve Recognition
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: frequency_of_recognizing
+      label: Frequency of Recognizing Employees
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: frequency_of_recognizing_employees
+      label: Frequency of Recognizing Employees
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: manager_perception_of_recognition
+      label: Manager's Perception of Recognition
+      hint: null
+      type: select_multiple
+      options:
+      - Very Important
+      - Somewhat Important
+      - Not Important
+      required: true
+    - id: 9
+      name: department_recognition
+      label: Department Recognition
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: frequency_of_recognition_by_department
+      label: Frequency of Recognition by Department
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: employee_input
+      label: Employee Input
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: employee_input_notes
+      label: Employee Input Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: manager_input
+      label: Manager Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: manager_input_notes
+      label: Manager Input Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: team_leaders_input
+      label: Team Leaders Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: team_leaders_input_notes
+      label: Team Leaders Input Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: other_notes
+      label: Other Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: email_input
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: phone_number_input
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: comments_input
+      label: Comments
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      required: false
+    - id: 22
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: frequency_of_recognition_by_manager
+      label: Frequency of Recognition by Manager
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: frequency_of_recognition_by_team
+      label: Frequency of Recognition by Team
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: frequency_of_recognition_by_leaders
+      label: Frequency of Recognition by Leaders
+      hint: null
+      type: time
+      options: []
+      required: false

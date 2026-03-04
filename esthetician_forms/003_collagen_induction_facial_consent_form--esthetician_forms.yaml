@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Collagen Induction Facial Consent Form
+    pages:
+    - id: 1
+      name: client_full_name
+      label: Client Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: skin_type
+      label: Skin Type
+      hint: null
+      type: select_one
+      options:
+      - Oily
+      - Dry
+      - Combination
+      - Normal
+      - Sensitive
+      required: true
+    - id: 6
+      name: current_skin_conditions
+      label: Current Skin Conditions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Acne
+      - Rosacea
+      - Eczema
+      - Psoriasis
+      - None
+      required: true
+    - id: 7
+      name: allergies
+      label: Known Allergies
+      hint: List any skin product or ingredient allergies
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: current_medications
+      label: Current Medications
+      hint: Include all topical and oral medications
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: recent_procedures
+      label: Recent Facial Procedures - past 3 months
+      hint: Any recent treatments or procedures
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: sun_exposure
+      label: Recent Sun Exposure
+      hint: null
+      type: select_one
+      options:
+      - Minimal
+      - Moderate
+      - Significant
+      - Severe Sunburn
+      required: true
+    - id: 11
+      name: pregnancy_status
+      label: Are you currently pregnant or nursing
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Prefer not to answer
+      required: true
+    - id: 12
+      name: treatment_goals
+      label: Treatment Goals
+      hint: What are you hoping to achieve
+      type: select_multiple
+      options:
+      - Reduce Fine Lines
+      - Improve Texture
+      - Reduce Scars
+      - Even Skin Tone
+      - General Rejuvenation
+      required: true
+    - id: 13
+      name: pain_tolerance
+      label: Pain Tolerance Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      required: true
+    - id: 14
+      name: downtime_acceptance
+      label: I understand recovery and downtime may occur
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: risks_understood
+      label: I understand potential risks and side effects
+      hint: Redness, swelling, sensitivity, temporary bruising
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: aftercare_agreement
+      label: I agree to follow aftercare instructions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: sunscreen_commitment
+      label: I commit to daily SPF 30+ sunscreen use for 2 weeks
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: consent_signature
+      label: I consent to the collagen induction facial treatment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: provider_notes
+      label: Additional Provider Notes
+      hint: Any special considerations or observations
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: true

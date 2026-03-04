@@ -1,0 +1,252 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Moment Observation Log Form
+    pages:
+    - id: 1
+      name: log_header
+      label: Contact Moment Observation Log
+      hint: Document customer interaction observations
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: observer_name
+      label: Observer Name
+      hint: Person conducting observation
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: observer_role
+      label: Observer Role
+      hint: Your position
+      type: select_one
+      options:
+      - Supervisor
+      - Team Lead
+      - Quality Analyst
+      - Trainer
+      - Manager
+      required: true
+    - id: 4
+      name: observation_date
+      label: Observation Date
+      hint: Date of observation
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: observation_time
+      label: Observation Time
+      hint: Start time
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: agent_name
+      label: Agent Being Observed
+      hint: Agent name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: agent_id
+      label: Agent ID
+      hint: Employee identifier
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: interaction_type
+      label: Type of Interaction
+      hint: Channel used
+      type: select_one
+      options:
+      - Inbound Phone Call
+      - Outbound Phone Call
+      - Email
+      - Live Chat
+      - Social Media
+      - Video Call
+      required: true
+    - id: 9
+      name: interaction_duration
+      label: Interaction Duration
+      hint: Minutes
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: customer_type
+      label: Customer Type
+      hint: Customer category
+      type: select_one
+      options:
+      - New Customer
+      - Existing Customer
+      - VIP Customer
+      - Escalated Customer
+      required: true
+    - id: 11
+      name: call_reason
+      label: Reason for Contact
+      hint: Primary issue
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: greeting_assessment
+      label: Greeting and Opening
+      hint: How well did agent greet customer
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 13
+      name: active_listening
+      label: Active Listening Skills
+      hint: Did agent listen effectively
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 14
+      name: empathy_demonstrated
+      label: Empathy Demonstrated
+      hint: Did agent show understanding
+      type: select_one
+      options:
+      - Yes - Very Well
+      - Yes - Adequately
+      - Minimal
+      - false
+      required: true
+    - id: 15
+      name: problem_solving
+      label: Problem Solving Ability
+      hint: How well did agent resolve issue
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 16
+      name: product_knowledge
+      label: Product Knowledge
+      hint: Agent knowledge level
+      type: select_one
+      options:
+      - Expert
+      - Proficient
+      - Adequate
+      - Limited
+      - Insufficient
+      required: true
+    - id: 17
+      name: communication_clarity
+      label: Communication Clarity
+      hint: Was communication clear
+      type: select_one
+      options:
+      - Very Clear
+      - Clear
+      - Somewhat Clear
+      - Unclear
+      - Confusing
+      required: true
+    - id: 18
+      name: system_usage
+      label: System and Tool Usage
+      hint: Did agent use tools effectively
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 19
+      name: compliance_adherence
+      label: Compliance and Policy Adherence
+      hint: Did agent follow policies
+      type: select_one
+      options:
+      - Fully Compliant
+      - Mostly Compliant
+      - Partially Compliant
+      - Non-Compliant
+      required: true
+    - id: 20
+      name: closing_quality
+      label: Closing and Summary
+      hint: How well did agent close interaction
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 21
+      name: strengths_observed
+      label: Strengths Observed
+      hint: What went well
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: What needs work
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: coaching_recommended
+      label: Coaching Recommended
+      hint: Is follow-up coaching needed
+      type: select_one
+      options:
+      - Yes - Immediate
+      - Yes - Within Week
+      - Yes - Routine Coaching
+      - No - Performance Satisfactory
+      required: true
+    - id: 24
+      name: overall_score
+      label: Overall Performance Score
+      hint: Rating 1 to 10
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: feedback_provided
+      label: Was Feedback Provided to Agent
+      hint: Feedback status
+      type: select_one
+      options:
+      - Yes - Immediately
+      - Yes - Scheduled
+      - Not Yet
+      required: true
+    - id: 26
+      name: follow_up_date
+      label: Follow-up Date
+      hint: When to review progress
+      type: date
+      options: []
+      required: false

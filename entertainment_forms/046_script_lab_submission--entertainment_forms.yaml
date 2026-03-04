@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: script_lab_submission
+    pages:
+    - id: 1
+      name: script_lab_submission
+      label: script_lab_submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Entertainment
+      - Other
+      required: true
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 5
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: output_file
+      label: output_file
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: category
+      label: category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_id
+      label: form_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_id
+      label: form_id
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: longwood_prostaff_eval_ad_evaluation_form
+    pages:
+    - id: 1
+      name: submitted_advertisement
+      label: submitted_advertisement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: evaluation_date
+      label: evaluation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: evaluation_time
+      label: evaluation_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: evaluation_comments
+      label: evaluation_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: ad_score
+      label: ad_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - Advertising
+      - Marketing
+      - Sales
+      required: true
+    - id: 7
+      name: sub_category
+      label: sub_category
+      hint: null
+      type: select_one
+      options:
+      - Product
+      - Service
+      - Other
+      required: false
+    - id: 8
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - Jim
+      - Jane
+      - John
+      - Other
+      required: true
+    - id: 9
+      name: evaluation_criteria
+      label: evaluation_criteria
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

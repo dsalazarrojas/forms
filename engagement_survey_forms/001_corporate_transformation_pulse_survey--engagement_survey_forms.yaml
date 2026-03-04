@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Transformation Pulse Survey
+    pages:
+    - id: 1
+      name: employee_sentiment
+      label: Employee Sentiment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: communication_effectiveness
+      label: Communication Effectiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: confidence_in_change
+      label: Confidence in Change
+      hint: null
+      type: select_one
+      options:
+      - Change is on track
+      - Not on track
+      - Undecided
+      required: false
+    - id: 4
+      name: confidence_in_change_2
+      label: Confidence in Change
+      hint: null
+      type: select_multiple
+      options:
+      - Strongly Agree
+      - Somewhat Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: false
+    - id: 5
+      name: confidence_in_change_3
+      label: Confidence in Change
+      hint: null
+      type: select_one
+      options:
+      - Very Confident
+      - Somewhat Confident
+      - Slightly Confident
+      - Not Confident
+      - Very Unconfident
+      required: false
+    - id: 6
+      name: confidence_in_change_4
+      label: Confidence in Change
+      hint: null
+      type: select_multiple
+      options:
+      - Very Confident
+      - Somewhat Confident
+      - Somewhat Unconfident
+      - Not Confident
+      - Extremely Unconfident
+      required: false
+    - id: 7
+      name: confidence_in_change_5
+      label: Confidence in Change
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: confidence_in_change_6
+      label: Confidence in Change
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 9
+      name: confidence_in_change_7
+      label: Confidence in Change
+      hint: null
+      type: select_one
+      options:
+      - Very High
+      - Somewhat High
+      - Somewhat Low
+      - Low
+      required: false

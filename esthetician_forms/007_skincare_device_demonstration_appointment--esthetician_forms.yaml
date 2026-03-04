@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skincare Device Demonstration Appointment
+    pages:
+    - id: 1
+      name: demo_schedule
+      label: Demo Schedule
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: skincare_device
+      label: Skincare Device
+      hint: null
+      type: select_multiple
+      options:
+      - Apple
+      - Philips
+      - Lume
+      - Other
+      required: false
+    - id: 6
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - None
+      required: false
+    - id: 7
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: spa_address
+      label: Spa Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: skincare_device_demoed
+      label: Skincare Device Demoed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: select_one
+      options:
+      - Report
+      - No report
+      required: false
+    - id: 13
+      name: skincare_device_demonstration_report
+      label: Skincare Device Demonstration Report
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: appointment_status
+      label: Appointment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: appointment_id
+      label: ID
+      hint: null
+      type: text
+      options: []
+      required: false

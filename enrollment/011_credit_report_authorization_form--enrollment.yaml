@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Credit Report Authorization Form
+    pages:
+    - id: 1
+      name: enrollment_form
+      label: enrollment_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: credit_report
+      label: credit_report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: authorization
+      label: authorization
+      hint: null
+      type: select_multiple
+      options:
+      - Landlord
+      - Lender
+      - Employer
+      required: false
+    - id: 4
+      name: credit_bureaus
+      label: credit_bureaus
+      hint: null
+      type: select_one
+      options:
+      - Equifax
+      - TransUnion
+      - Experian
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: authorization_date
+      label: authorization_date
+      hint: null
+      type: date
+      options: []
+      required: false

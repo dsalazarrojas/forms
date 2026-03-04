@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parade Entry Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: entry_type
+      label: entry-type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: entry_fee
+      label: entry-fee
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: theme
+      label: theme
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: false

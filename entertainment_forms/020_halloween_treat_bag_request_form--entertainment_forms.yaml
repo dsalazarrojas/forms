@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Halloween Treat Bag Request Form
+    pages:
+    - id: 1
+      name: trick_or_treat_bag_details
+      label: Trick or Treat Bag Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1'', ''value'': ''option_1''}'
+      - '{''id'': 2, ''label'': ''Option 2'', ''value'': ''option_2''}'
+      - '{''id'': 3, ''label'': ''Option 3'', ''value'': ''option_3''}'
+      required: true
+    - id: 3
+      name: trick_or_treater_info
+      label: Trick or Treater Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: number_of_children
+      label: Number of Children
+      hint: null
+      type: number
+      options: []
+      required: false

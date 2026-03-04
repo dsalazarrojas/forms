@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: lottery_claim_form
+    pages:
+    - id: 1
+      name: submitter_details
+      label: Claimant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: ticket_info
+      label: Ticket Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: win_confirmation
+      label: Winner Confirmation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: win_date
+      label: Win Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: win_amount
+      label: Win Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: ticket_id
+      label: Ticket ID
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: ticket_type
+      label: Ticket Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: claim_details
+      label: Claim Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: confirmation
+      label: Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: submitter_confirmation
+      label: Submitter Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: submitter_details
+      label: Submitter Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitter_info
+      label: Submitter Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter_contact
+      label: Submitter Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false

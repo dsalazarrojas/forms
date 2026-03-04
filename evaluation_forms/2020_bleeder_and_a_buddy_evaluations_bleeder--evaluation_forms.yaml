@@ -1,0 +1,174 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2020 Bleeder And A Buddy Evaluations Bleeder
+    pages:
+    - id: 1
+      name: section_header_participant
+      label: '--- Participant Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Please enter your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: We'll use this for follow-up communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_id
+      label: Participant ID (if applicable)
+      hint: Enter your assigned identification number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date of evaluation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_header_evaluation
+      label: '--- Evaluation Section ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: satisfaction
+      label: How satisfied are you with 2020 Bleeder And A Buddy Evaluations Bleeder?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 8
+      name: overall_rating
+      label: Overall rating (1-10)
+      hint: 1 = worst, 10 = best
+      type: integer
+      options: []
+      required: true
+    - id: 9
+      name: ease_of_use_rating
+      label: How would you rate the ease of use?
+      hint: null
+      type: select_one
+      options:
+      - Very easy
+      - Easy
+      - Moderate
+      - Difficult
+      - Very difficult
+      required: true
+    - id: 10
+      name: experience_aspects
+      label: Which aspects applied to your experience with 2020 Bleeder And A Buddy
+        Evaluations Bleeder? (select all)
+      hint: Leave blank if none
+      type: select_multiple
+      options:
+      - Easy to use
+      - Fast
+      - Reliable
+      - Missing feature
+      - Confusing
+      - Well designed
+      - User-friendly interface
+      - Clear instructions
+      required: false
+    - id: 11
+      name: buddy_interaction_quality
+      label: Quality of interaction with your buddy
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 12
+      name: section_header_improvements
+      label: '--- Improvement Suggestions ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: open_feedback
+      label: What would you improve or change about 2020 Bleeder And A Buddy Evaluations
+        Bleeder?
+      hint: Please be specific about your suggestions
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: most_helpful_feature
+      label: Which feature did you find most helpful?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: least_helpful_feature
+      label: Which feature did you find least helpful?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: recommendation_likelihood
+      label: How likely are you to recommend this program to others?
+      hint: 0 = not at all likely, 10 = extremely likely
+      type: integer
+      options: []
+      required: true
+    - id: 17
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other feedback you'd like to share
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_for_followup
+      label: Would you be willing to participate in a follow-up survey?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false

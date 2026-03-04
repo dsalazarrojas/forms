@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Credit Application Form
+    pages:
+    - id: 1
+      name: applicant_info
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: personal_address
+      label: Personal Address
+      hint: Your current residential address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: ssn_last_four
+      label: Last 4 digits of Social Security Number
+      hint: For identity verification
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: business_info_section
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: business_legal_name
+      label: Business Legal Name
+      hint: Registered business name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: business_structure
+      label: Business Structure
+      hint: How is your business organized?
+      type: select_one
+      options:
+      - Sole Proprietorship
+      - Partnership
+      - LLC
+      - S-Corporation
+      - C-Corporation
+      - Non-Profit
+      required: true
+    - id: 11
+      name: business_address
+      label: Business Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: business_established_date
+      label: Date Business Established
+      hint: When did you start this business?
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: industry_type
+      label: Industry Type
+      hint: Select your industry
+      type: select_one
+      options:
+      - Retail
+      - Manufacturing
+      - Services
+      - Technology
+      - Healthcare
+      - Hospitality
+      - Other
+      required: true
+    - id: 14
+      name: number_of_employees
+      label: Number of Employees
+      hint: Including yourself
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: annual_revenue
+      label: Annual Revenue
+      hint: Most recent year revenue
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: credit_request_section
+      label: -- Credit Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: credit_amount
+      label: Amount of Credit Requested
+      hint: How much credit do you need?
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: credit_type
+      label: Type of Credit
+      hint: What do you need the credit for?
+      type: select_one
+      options:
+      - Line of Credit
+      - Term Loan
+      - Equipment Financing
+      - Working Capital
+      - Business Card
+      - Other
+      required: true
+    - id: 19
+      name: use_of_funds
+      label: Use of Funds
+      hint: How will you use the credit?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: repayment_period
+      label: Preferred Repayment Period
+      hint: How long to repay?
+      type: select_one
+      options:
+      - 12 months
+      - 24 months
+      - 36 months
+      - 60 months
+      - Other
+      required: true
+    - id: 21
+      name: financial_section
+      label: -- Financial Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: monthly_revenue
+      label: Average Monthly Revenue
+      hint: Recent monthly average
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: existing_debt
+      label: Existing Business Debt
+      hint: Total outstanding business loans
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: other_credit_lines
+      label: Other Credit Lines or Accounts
+      hint: Do you have other business credit?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: bank_references
+      label: Bank References
+      hint: Your primary banking institution
+      type: text
+      options: []
+      required: false

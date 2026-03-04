@@ -1,0 +1,80 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: CPR Chest Compression Feedback Device Inspection Checklist
+    pages:
+      - id: 1
+        name: inspector_name
+        label: Inspector name
+        hint: Person performing inspection
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: inspection_date
+        label: Inspection date
+        hint: Date of inspection
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: device_serial_number
+        label: Device serial number
+        hint: From device label
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: battery_check
+        label: Battery condition
+        hint: Check charge and corrosion
+        type: select_one
+        options:
+          - Good
+          - Replace soon
+          - Replace now
+        required: true
+      - id: 5
+        name: sensor_calibration
+        label: Sensor calibration status
+        hint: Verify calibration within tolerance
+        type: select_one
+        options:
+          - Calibrated
+          - Requires calibration
+          - Unknown
+        required: true
+      - id: 6
+        name: physical_damage
+        label: Any physical damage observed
+        hint: Describe dents, cracks or loose parts
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: functionality_test
+        label: Functionality test result
+        hint: Compression feedback checks passed
+        type: select_one
+        options:
+          - Pass
+          - Fail
+        required: true
+      - id: 8
+        name: corrective_actions
+        label: Corrective actions taken
+        hint: Actions and date performed
+        type: text
+        options: []
+        required: false

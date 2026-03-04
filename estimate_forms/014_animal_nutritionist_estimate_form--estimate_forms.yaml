@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Nutritionist Estimate Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: animal_name_species
+      label: Animal Name and Species
+      hint: e.g. Bella - Dog
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: consultation_fee
+      label: Initial Consultation Fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: meal_plan_fee
+      label: Custom Meal Plan Development
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: supplements_fee
+      label: Recommended Supplements or Specialty Foods
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: follow_up_rate
+      label: Follow-up Session Rate - per session
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: total_estimated_cost
+      label: Total Estimated Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: estimate_validity
+      label: Estimate Validity Period
+      hint: e.g. 30 Days
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: services_notes
+      label: Notes on Proposed Services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: client_decision
+      label: Decision on Estimate
+      hint: null
+      type: select_one
+      options:
+      - Accept Estimate
+      - Request Modification
+      - Decline
+      required: true
+    - id: 11
+      name: decision_date
+      label: Date of Decision
+      hint: null
+      type: date
+      options: []
+      required: true

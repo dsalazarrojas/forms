@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Enquiry Form
+    pages:
+    - id: 1
+      name: contact_details
+      label: -- Contact Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Email for follow-up
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Your organization
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: industry
+      label: Industry
+      hint: Your industry
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: enquiry_details
+      label: -- Enquiry Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: enquiry_type
+      label: Type of Enquiry
+      hint: What are you enquiring about?
+      type: select_one
+      options:
+      - Product Information
+      - Service Inquiry
+      - Partnership Opportunity
+      - Price Quote
+      - Technical Support
+      - General Information
+      - Other
+      required: true
+    - id: 10
+      name: subject
+      label: Subject
+      hint: Brief description of enquiry
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: detailed_message
+      label: Detailed Message
+      hint: Please provide details about your enquiry
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: specific_interest
+      label: Specific Product or Service of Interest
+      hint: What are you interested in?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: timeline
+      label: Timeline
+      hint: When do you need this?
+      type: select_one
+      options:
+      - Urgent
+      - Within 1 Week
+      - Within 1 Month
+      - No Specific Timeline
+      required: false
+    - id: 14
+      name: business_context
+      label: -- Business Context --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - Startup (1-10)
+      - Small (11-50)
+      - Medium (51-250)
+      - Large (250+)
+      - Non-Profit
+      required: false
+    - id: 16
+      name: company_stage
+      label: Company Stage
+      hint: Where are you?
+      type: select_one
+      options:
+      - Pre-Launch
+      - Startup Phase
+      - Growth Phase
+      - Established
+      - Expansion Phase
+      required: false
+    - id: 17
+      name: budget_range
+      label: Budget Range
+      hint: Approximate budget
+      type: select_one
+      options:
+      - Under 5k
+      - 5k - 15k
+      - 15k - 50k
+      - 50k+
+      - TBD
+      required: false
+    - id: 18
+      name: communication_preference
+      label: -- Communication Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: How should we reach you?
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Video Call
+      - In-Person Meeting
+      required: true
+    - id: 20
+      name: follow_up_ok
+      label: May We Follow Up
+      hint: Can we contact you for updates?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

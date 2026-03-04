@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Talent Appearance And Liability Form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_event
+      label: Date of Event
+      hint: Please provide the date of the event in YYYY-MM-DD format.
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time_of_event
+      label: Time of Event
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: event_location
+      label: Event Location
+      hint: Please provide the address of the event.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_type
+      label: Event Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: talent_name
+      label: Talent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email_address
+      label: Email Address
+      hint: Please provide your email address so we can contact you.
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - I agree to the terms of this form
+      - I do not agree to the terms of this form
+      required: true

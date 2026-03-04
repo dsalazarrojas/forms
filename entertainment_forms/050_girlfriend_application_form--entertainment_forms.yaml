@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Girlfriend Application Form
+    pages:
+    - id: 1
+      name: intro
+      label: what about you
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: interests
+      label: what do you like
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 6
+      name: availability
+      label: what are your work hours
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: location
+      label: where do you live
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: preferences
+      label: what do you prefer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: about_yourself
+      label: about you
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: favorite_food
+      label: favorite food
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: why_girlfriend
+      label: why girlfriend
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: favorite_hobby
+      label: favorite hobby
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: how_did_you_hear
+      label: how did you hear
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 14
+      name: relationship_status
+      label: relationship status
+      hint: null
+      type: select_one
+      options:
+      - single
+      - in a relationship
+      - married
+      required: false
+    - id: 15
+      name: how_long_as_single
+      label: how long single
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: favorite_color
+      label: favorite color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: best_friend_name
+      label: best friend name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: best_friend_number
+      label: best friend number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: best_friend_email
+      label: best friend email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: best_friend_relationship
+      label: best friend relationship
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 21
+      name: family_status
+      label: family status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 22
+      name: family_member_names
+      label: family member names
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: family_member_relationships
+      label: family member relationships
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 24
+      name: how_didnt_find
+      label: how you didn't find us
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - submit
+      - Other
+      required: true

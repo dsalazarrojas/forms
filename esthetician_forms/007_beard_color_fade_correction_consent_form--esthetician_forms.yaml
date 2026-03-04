@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beard Color Fade Correction Consent Form
+    pages:
+    - id: 1
+      name: client_info_header
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: allergy_header
+      label: -- Allergy Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: known_allergies
+      label: Known Allergies to Hair Products
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: scalp_sensitivity
+      label: Scalp Sensitivity
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Mild
+      - Moderate
+      - Severe
+      required: true
+    - id: 9
+      name: previous_color_treatments
+      label: Previous Color Treatments or Fading Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_header
+      label: -- Medical Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: scalp_conditions
+      label: Scalp Conditions (dandruff, psoriasis, etc.)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: skin_irritants
+      label: Recent Scalp Injuries or Irritations
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: beard_color_header
+      label: -- Current Beard Color --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: current_beard_color
+      label: Current Beard Color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - Dark Brown
+      - Brown
+      - Light Brown
+      - Blonde
+      - Red
+      - Gray
+      - Mixed
+      required: true
+    - id: 15
+      name: faded_areas
+      label: Areas with Fading
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: desired_color
+      label: Desired Color After Correction
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - Dark Brown
+      - Brown
+      - Light Brown
+      - Blonde
+      - Red
+      - Gray
+      - Mixed
+      required: true
+    - id: 17
+      name: consent_header
+      label: -- Treatment Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: understand_procedure
+      label: I understand the fade correction procedure
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: consent_to_treatment
+      label: I consent to beard color fade correction
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: acknowledge_side_effects
+      label: I acknowledge potential side effects
+      hint: Temporary irritation, discoloration, or sensitivity
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: patch_test_consent
+      label: Patch test performed and approved
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: signature_consent
+      label: Client Signature
+      hint: By typing here you consent to this service
+      type: text
+      options: []
+      required: true

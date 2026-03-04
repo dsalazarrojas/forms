@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: municipal_office_machinery_requisition_form
+    pages:
+    - id: 1
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: equipment_type
+      label: equipment_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: budget
+      label: budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: department_budget
+      label: department_budget
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: equipment_status
+      label: equipment_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false

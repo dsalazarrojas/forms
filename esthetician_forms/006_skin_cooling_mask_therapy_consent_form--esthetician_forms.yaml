@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: skin_cooling_mask_therapy_consent_form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_health_details
+      label: Client Health Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_medical_conditions
+      label: Client Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consent_to_treatment
+      label: Consent To Treatment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: signature_time
+      label: Signature Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: client_signature_image
+      label: Client Signature Image
+      hint: null
+      type: text
+      options: []
+      required: false

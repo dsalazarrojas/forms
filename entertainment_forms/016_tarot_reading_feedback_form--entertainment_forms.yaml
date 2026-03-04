@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tarot Reading Feedback Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reading_type
+      label: Reading Type
+      hint: null
+      type: select_one
+      options:
+      - Reading Type 1
+      - Reading Type 2
+      - Reading Type 3
+      required: false
+    - id: 3
+      name: reading_level
+      label: Reading Level
+      hint: null
+      type: select_multiple
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      required: false
+    - id: 4
+      name: reading_date
+      label: Reading Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: How was your experience?
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: contact_us
+      label: Contact Us
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

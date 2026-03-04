@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sunday School Teacher Evaluation Form
+    pages:
+    - id: 1
+      name: sunday_school_teacher
+      label: lesson_plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lesson_plan_rating
+      label: lesson plan rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: teaching_skills
+      label: teaching skills
+      hint: null
+      type: select_multiple
+      options:
+      - excellent
+      - satisfactory
+      - needs_improvement
+      required: true
+    - id: 4
+      name: feedback
+      label: any other feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sunday_school_teacher
+      label: sunday school teacher
+      hint: null
+      type: select_one
+      options:
+      - teacher_1
+      - teacher_2
+      required: true
+    - id: 6
+      name: sunday_school_student
+      label: sunday school student
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: sunday_school_class
+      label: sunday school class
+      hint: null
+      type: select_one
+      options:
+      - class_1
+      - class_2
+      required: true
+    - id: 8
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: start_time
+      label: start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: end_time
+      label: end time
+      hint: null
+      type: time
+      options: []
+      required: false

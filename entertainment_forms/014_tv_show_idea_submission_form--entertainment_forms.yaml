@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: TV Show Idea Submission Form
+    pages:
+    - id: 1
+      name: tv_show_idea_submission_form
+      label: TV Show Idea Submission Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tv_show_name
+      label: tv show name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: series_type
+      label: series type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Drama''}'
+      - '{''id'': 2, ''label'': ''Comedy''}'
+      - '{''id'': 3, ''label'': ''Sci-Fi''}'
+      required: false
+    - id: 4
+      name: genre
+      label: genre
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Action''}'
+      - '{''id'': 2, ''label'': ''Adventure''}'
+      - '{''id'': 3, ''label'': ''Romance''}'
+      - '{''id'': 4, ''label'': ''Sci-Fi''}'
+      - '{''id'': 5, ''label'': ''Thriller''}'
+      required: false
+    - id: 5
+      name: main_character
+      label: main character
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: episode_count
+      label: episode count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: episode_length
+      label: episode length
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: main_character_description
+      label: main character description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: supporting_character_description
+      label: supporting character description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: supporting_character_count
+      label: supporting character count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: file_upload
+      label: file upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: supporting_character
+      label: supporting characters
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Actor''}'
+      - '{''id'': 2, ''label'': ''Actress''}'
+      - '{''id'': 3, ''label'': ''Comedian''}'
+      - '{''id'': 4, ''label'': ''Director''}'
+      - '{''id'': 5, ''label'': ''Writer''}'
+      required: false
+    - id: 13
+      name: supporting_character_description_list
+      label: supporting character description list
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: production_team
+      label: production team
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Producer''}'
+      - '{''id'': 2, ''label'': ''Production Assistant''}'
+      - '{''id'': 3, ''label'': ''Director''}'
+      - '{''id'': 4, ''label'': ''Writer''}'
+      - '{''id'': 5, ''label'': ''Production Coordinator''}'
+      required: false
+    - id: 15
+      name: production_team_description
+      label: production team description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: production_budget
+      label: production budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: submission_date
+      label: submission date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: submission_time
+      label: submission time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: file_upload_1
+      label: file upload 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: file_upload_2
+      label: file upload 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: file_upload_3
+      label: file upload 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: file_upload_4
+      label: file upload 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submission_email
+      label: submission email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: submission_phone
+      label: submission phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gadget Prototype Evaluation Form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: prototype_description
+      label: prototype_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: usability
+      label: usability
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: user_experience
+      label: user_experience
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 5
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: rating
+      label: rating
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 8
+      name: submitter_info
+      label: submitters_info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Economic Course Evaluation
+    pages:
+    - id: 1
+      name: course_name
+      label: Course Name
+      hint: Enter the course name.
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: Rating
+      hint: Please enter a number from 0 to 10.
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: Please enter your comments here.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: course_rating
+      label: Course Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: evaluation_method
+      label: Evaluation Method
+      hint: null
+      type: select_multiple
+      options:
+      - Online
+      - Offline
+      - Both
+      required: false
+    - id: 8
+      name: evaluation_date
+      label: Evaluation Date
+      hint: Please enter the date of evaluation.
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: evaluation_time
+      label: Evaluation Time
+      hint: Please enter the time of evaluation.
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: Please enter your email.
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: employment_lawyer_application_form
+    pages:
+    - id: 1
+      name: applicant_details
+      label: Applicant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: legal_issue
+      label: Legal Issue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: case_status
+      label: Case Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: representation_preferences
+      label: Representation Preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: communication_channels
+      label: Communication Channels
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: address
+      label: Address
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

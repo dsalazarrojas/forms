@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stakeholder Engagement Survey Form
+    pages:
+    - id: 1
+      name: project_outcome_label
+      label: Project Outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: stakeholder_name
+      label: Stakeholder Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: role_in_project_label
+      label: Role In Project
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Stakeholder''}'
+      - '{''id'': 2, ''name'': ''Project Team Member''}'
+      - '{''id'': 3, ''name'': ''Project Team Lead''}'
+      - '{''id'': 4, ''name'': ''Project Manager''}'
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: stakeholder_survey_comments
+      label: Stakeholder Survey Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: engagement_score
+      label: Engagement Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: date_of_survey
+      label: Date Of Survey
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_of_survey
+      label: Time Of Survey
+      hint: null
+      type: time
+      options: []
+      required: false

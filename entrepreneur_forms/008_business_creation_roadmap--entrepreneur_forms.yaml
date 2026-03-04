@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Creation Roadmap
+    pages:
+    - id: 1
+      name: founder_info
+      label: -- Founder Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: founder_name
+      label: Founder Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: founder_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: founder_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: co_founders
+      label: Number of co-founders
+      hint: How many people are starting this together?
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: business_idea_section
+      label: -- Business Idea --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: business_name
+      label: Business Name
+      hint: What will you call your business?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: business_description
+      label: Business Description
+      hint: Brief description of your product or service
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: target_market
+      label: Target Market
+      hint: Who are your ideal customers?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: problem_solved
+      label: Problem you are solving
+      hint: What problem does your business address?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: competitive_advantage
+      label: Competitive Advantage
+      hint: What makes you different from competitors?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: goals_section
+      label: -- Goals and Milestones --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: three_month_goal
+      label: 3-month milestone
+      hint: What do you want to achieve in 3 months?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: six_month_goal
+      label: 6-month milestone
+      hint: What about in 6 months?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: one_year_goal
+      label: 1-year goal
+      hint: Where do you want to be in one year?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: revenue_goal
+      label: Revenue target for year 1
+      hint: Estimated revenue for first year
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: funding_section
+      label: -- Funding and Resources --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: initial_investment
+      label: Initial investment needed
+      hint: How much capital do you need?
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: funding_sources
+      label: Planned funding sources
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Personal savings
+      - Bank loan
+      - Investors
+      - Grants
+      - Crowdfunding
+      - Friends and family
+      - Other
+      required: true
+    - id: 20
+      name: required_skills
+      label: Key skills needed
+      hint: What expertise is critical to success?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: launch_section
+      label: -- Launch Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: planned_launch_date
+      label: Planned launch date
+      hint: When do you want to launch?
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: launch_strategy
+      label: Launch strategy
+      hint: How will you introduce your product to market?
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: support_needed
+      label: Type of support needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Business planning
+      - Financial management
+      - Legal guidance
+      - Marketing strategy
+      - Technology support
+      - Mentoring
+      - Networking
+      required: false

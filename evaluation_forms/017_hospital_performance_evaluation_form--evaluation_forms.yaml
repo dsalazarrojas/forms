@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Performance Evaluation Form
+    pages:
+    - id: 1
+      name: hospital_performance_evaluation_form_page_1
+      label: Hospital Overview
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_performance
+      label: employee performance
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: patient_care
+      label: patient care
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: time_management
+      label: time_management
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: communication
+      label: communication
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: teamwork
+      label: teamwork
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: leadership
+      label: leadership
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: patient_satisfaction
+      label: patient_satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

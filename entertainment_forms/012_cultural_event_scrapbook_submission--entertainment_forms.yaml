@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: cultural_event_scrapbook_submission
+    pages:
+    - id: 1
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Event 1
+      - Event 2
+      - Event 3
+      required: false
+    - id: 2
+      name: event_name
+      label: Event Name
+      hint: Enter the name of the event
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_story
+      label: Event Story
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_photo
+      label: Event Photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_reflection
+      label: Event Reflection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: school
+      label: School
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: group
+      label: Group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_tags
+      label: Event Tags
+      hint: null
+      type: select_multiple
+      options:
+      - Tag 1
+      - Tag 2
+      - Tag 3
+      required: false
+    - id: 14
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: event_notes
+      label: Event Notes
+      hint: null
+      type: text
+      options: []
+      required: false

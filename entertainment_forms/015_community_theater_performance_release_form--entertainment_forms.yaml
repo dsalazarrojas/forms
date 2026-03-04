@@ -1,0 +1,65 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Theater Performance Release Form
+    pages:
+      - id: 1
+        name: participant_name
+        label: Participant full name
+        hint: Performer or volunteer name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: contact_email
+        label: Contact email
+        hint: For sending the release confirmation
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: performance_title
+        label: Performance title
+        hint: Name of the production
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: release_scope
+        label: Scope of release
+        hint: Use of photos, video, and recordings
+        type: select_multiple
+        options: [Photography, Video recording, Audio recording, Promotional materials]
+        required: true
+      - id: 5
+        name: release_terms_acknowledgement
+        label: Acknowledgement of release terms
+        hint: Enter your full name to acknowledge consent
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: date_signed
+        label: Date signed
+        hint: Today's date
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: guardian_signature
+        label: Guardian name if participant is minor
+        hint: Provide guardian details if applicable
+        type: text
+        options: []
+        required: false

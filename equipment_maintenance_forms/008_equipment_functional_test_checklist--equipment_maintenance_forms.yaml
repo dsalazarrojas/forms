@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: equipment_functional_test_checklist
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_type
+      label: equipment_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: model_number
+      label: model_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: equipment_location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''A'', ''label'': ''Option A''}'
+      - '{''value'': ''B'', ''label'': ''Option B''}'
+      - '{''value'': ''C'', ''label'': ''Option C''}'
+      required: false
+    - id: 5
+      name: functional_test_date
+      label: functional_test_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: tester_name
+      label: tester_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: test_result
+      label: test_result
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Pass'', ''label'': ''Pass''}'
+      - '{''value'': ''Fail'', ''label'': ''Fail''}'
+      - '{''value'': ''Not Tested'', ''label'': ''Not Tested''}'
+      required: false
+    - id: 8
+      name: maintenance_frequency
+      label: maintenance_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: entertainment_news_interview_consent_form
+    pages:
+    - id: 1
+      name: media_professional
+      label: media_professional
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: interview_details
+      label: interview_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: interview_agreement
+      label: interview_agreement
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 4
+      name: interview_date
+      label: interview_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: interviewer_name
+      label: interviewer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: interviewee_name
+      label: interviewee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

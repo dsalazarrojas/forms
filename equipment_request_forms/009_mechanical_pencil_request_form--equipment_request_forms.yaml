@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mechanical Pencil Request Form
+    pages:
+    - id: 1
+      name: user
+      label: User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Accounting
+      - Engineering
+      - HR
+      - Marketing
+      - Other
+      required: false
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: request_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: request_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

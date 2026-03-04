@@ -1,0 +1,117 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Consulting Workflow Improvement Survey
+    pages:
+      - id: 1
+        name: section_overview
+        label: -- Survey Overview --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Respondent name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: respondent_role
+        label: Respondent role
+        hint: Job title or role in the organization
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: department
+        label: Department
+        hint: Department or business unit
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: current_workflow_satisfaction
+        label: Current workflow satisfaction
+        hint: Rate overall satisfaction with current workflows
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 6
+        name: main_pain_points
+        label: Main pain points
+        hint: Describe up to three major pain points in current workflow
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: process_bottlenecks_frequency
+        label: Frequency of process bottlenecks
+        hint: How often bottlenecks occur
+        type: select_one
+        options:
+          - Daily
+          - Weekly
+          - Monthly
+          - Rarely
+        required: true
+      - id: 8
+        name: tools_and_software_used
+        label: Tools and software used
+        hint: List primary tools used in the workflow
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: desired_improvements
+        label: Desired improvements
+        hint: Which improvements would have the greatest impact
+        type: select_multiple
+        options:
+          - Automation of repetitive tasks
+          - Better handoffs between teams
+          - Improved documentation
+          - Faster decision making
+          - Real time reporting
+        required: true
+      - id: 10
+        name: expected_outcomes
+        label: Expected outcomes
+        hint: Metrics or goals you expect from workflow changes
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: follow_up_preference
+        label: Follow up preference
+        hint: How would you prefer we follow up
+        type: select_one
+        options:
+          - Email
+          - Phone
+          - Virtual meeting
+        required: true
+      - id: 12
+        name: contact_email
+        label: Contact email
+        hint: Email for follow up
+        type: email
+        options: []
+        required: true

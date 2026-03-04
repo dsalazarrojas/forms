@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Appreciation Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: teacher_name
+      label: teacher-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: message
+      label: message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: appreciation_type
+      label: appreciation-type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: appreciation_date
+      label: appreciation-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: appreciation_time
+      label: appreciation-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: appreciation_note
+      label: appreciation-note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: submitted-by
+      hint: null
+      type: text
+      options: []
+      required: false

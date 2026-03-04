@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Thesis Defense Feedback Form
+    pages:
+    - id: 1
+      name: defense_feedback
+      label: Defense Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: committee_member
+      label: Committee Member
+      hint: null
+      type: select_one
+      options:
+      - Dr. Jane Smith
+      - Dr. John Doe
+      - Dr. Mary Jones
+      required: false
+    - id: 3
+      name: evaluation_scale
+      label: Evaluation Scale
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_defense
+      label: Date of Defense
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_defense
+      label: Time of Defense
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

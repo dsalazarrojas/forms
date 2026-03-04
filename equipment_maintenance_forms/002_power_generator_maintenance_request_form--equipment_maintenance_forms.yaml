@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Power Generator Maintenance Request Form
+    pages:
+    - id: 1
+      name: generator_status
+      label: generator_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 2
+      name: generator_model
+      label: generator_model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: generator_issue
+      label: generator_issue
+      hint: Describe the issue with your generator
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: maintenance_schedule
+      label: maintenance_schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: service_visit
+      label: service_visit
+      hint: null
+      type: time
+      options: []
+      required: false

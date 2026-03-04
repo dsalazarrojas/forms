@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: halloween_party_registration_form
+    pages:
+    - id: 1
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: participants
+      label: number_of_participants
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: instructions
+      label: instructions
+      hint: null
+      type: text
+      options: []
+      required: false

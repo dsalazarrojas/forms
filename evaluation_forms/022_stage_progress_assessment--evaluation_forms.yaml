@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stage Progress Assessment
+    pages:
+    - id: 1
+      name: stage_progress_assessment_form
+      label: Stage Progress Assessment Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: evaluation_criterion
+      label: Evaluation Criterion
+      hint: null
+      type: select_multiple
+      options:
+      - Evaluation Criterion 1
+      - Evaluation Criterion 2
+      - Evaluation Criterion 3
+      required: false
+    - id: 3
+      name: rating_scale
+      label: Rating Scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback_text
+      label: Feedback Text
+      hint: null
+      type: text
+      options: []
+      required: false

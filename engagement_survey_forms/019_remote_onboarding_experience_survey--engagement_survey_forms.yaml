@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Onboarding Experience Survey
+    pages:
+    - id: 1
+      name: new_hire
+      label: new hire
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: onboarding_process
+      label: onboarding process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: onboarding_duration
+      label: onboarding duration in hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: communication_with_manager
+      label: communication with manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: communication_with_colleagues
+      label: communication with colleagues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: overall_experience
+      label: overall experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: onboarding_support
+      label: onboarding support
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

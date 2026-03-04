@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Training Program Evaluation Form
+    pages:
+    - id: 1
+      name: session_details
+      label: Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_type
+      label: Training Session Type
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Offline
+      - Hybrid
+      required: false
+    - id: 3
+      name: session_topic
+      label: Session Topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_in
+      label: Time In
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: time_out
+      label: Time Out
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: evaluation_notes
+      label: Evaluation Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email_address
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone_number
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email_notification
+      label: Email Notification
+      hint: Check this box to receive email notifications about upcoming trainings.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: follow_up_questions
+      label: Follow Up Questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: session_attendance
+      label: Session Attendance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: session_length
+      label: Session Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: session_capacity
+      label: Session Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: session_start_time
+      label: Session Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: session_end_time
+      label: Session End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: evaluation_form_completed_by
+      label: Evaluation Form Completed By
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: training_program_attendant
+      label: Training Program Attendant
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: evaluation_form_completion
+      label: Evaluation Form Completion
+      hint: null
+      type: select_multiple
+      options:
+      - Completed
+      - Not Completed
+      required: false
+    - id: 25
+      name: evaluation_form_completed_on
+      label: Evaluation Form Completed On
+      hint: null
+      type: date
+      options: []
+      required: false

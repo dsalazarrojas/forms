@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: television_broadcast_viewer_feedback_form
+    pages:
+    - id: 1
+      name: page_1
+      label: television_broadcast
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: page_2
+      label: what_did_you_watch
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: page_3
+      label: how_satisfied
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''very_satisfied''}'
+      - '{''id'': 2, ''label'': ''somewhat_satisfied''}'
+      - '{''id'': 3, ''label'': ''not_satisfied''}'
+      required: true
+    - id: 4
+      name: page_4
+      label: comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: page_5
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: page_6
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: page_7
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: page_8
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''submit''}'
+      - '{''id'': 2, ''label'': ''save_for_later''}'
+      required: true

@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Of Concern Form
+    pages:
+    - id: 1
+      name: student_of_concern_form
+      label: Student Of Concern Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_concerned
+      label: Is The Student Concerned
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: classroom_setting
+      label: Classroom Setting
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: behavior_description
+      label: Behavior Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: teacher_observation
+      label: Teacher Observation
+      hint: null
+      type: note
+      options: []
+      required: false

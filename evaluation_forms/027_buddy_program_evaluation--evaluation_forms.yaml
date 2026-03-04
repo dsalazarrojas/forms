@@ -1,0 +1,165 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Buddy Program Evaluation
+    pages:
+    - id: 1
+      name: participant_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_role
+      label: Your Role in Program
+      hint: null
+      type: select_one
+      options:
+      - Buddy or Mentor
+      - Mentee or Participant
+      - Program Coordinator
+      required: true
+    - id: 3
+      name: program_name
+      label: Name of Buddy Program
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participation_duration
+      label: How Long Have You Participated
+      hint: In months or weeks
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: relationship_effectiveness
+      label: How effective was the buddy relationship
+      hint: null
+      type: select_one
+      options:
+      - Extremely Effective
+      - Very Effective
+      - Moderately Effective
+      - Slightly Effective
+      - Not Effective
+      required: true
+    - id: 6
+      name: communication_frequency
+      label: Communication Frequency
+      hint: How often did you interact
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - As Needed
+      required: true
+    - id: 7
+      name: support_received
+      label: Types of Support Provided
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Professional Development
+      - Technical Training
+      - Emotional Support
+      - Career Guidance
+      - Networking
+      - Problem-Solving
+      required: false
+    - id: 8
+      name: goals_achieved
+      label: Were program goals achieved
+      hint: null
+      type: select_one
+      options:
+      - All Goals Met
+      - Most Goals Met
+      - Some Goals Met
+      - Few Goals Met
+      - No Goals Met
+      required: true
+    - id: 9
+      name: confidence_growth
+      label: Growth in Confidence or Skills
+      hint: null
+      type: select_one
+      options:
+      - Significant Growth
+      - Moderate Growth
+      - Slight Growth
+      - No Growth
+      - Decline
+      required: true
+    - id: 10
+      name: recommendation
+      label: Would you recommend this program to others
+      hint: null
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Uncertain
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 11
+      name: program_strengths
+      label: What were the program strengths
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: program_improvements
+      label: What could be improved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_support
+      label: What additional support would help
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: overall_satisfaction
+      label: Overall Satisfaction Rating
+      hint: 1 = Very Dissatisfied, 5 = Very Satisfied
+      type: select_one
+      options:
+      - 1 - Very Dissatisfied
+      - 2 - Dissatisfied
+      - 3 - Neutral
+      - 4 - Satisfied
+      - 5 - Very Satisfied
+      required: true
+    - id: 15
+      name: continue_program
+      label: Would you like to continue in the program
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Yes, probably
+      - Undecided
+      - No, probably not
+      - No, definitely not
+      required: true

@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Energy Efficiency Program Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: Energy Efficiency Program Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: program_name
+      label: program name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rating_score
+      label: rating score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: satisfaction_level
+      label: satisfaction level
+      hint: null
+      type: select_one
+      options:
+      - Very Low
+      - Low
+      - Neutral
+      - High
+      - Very High
+      required: false
+    - id: 6
+      name: performance_improvement
+      label: performance improvement
+      hint: null
+      type: select_multiple
+      options:
+      - Cost
+      - Time
+      - Productivity
+      - Environment
+      - Satisfaction
+      required: false
+    - id: 7
+      name: open_ended_comments
+      label: open ended comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: program_start_date
+      label: program start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: program_end_date
+      label: program end date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Role Play Evaluation Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Role Play Evaluation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: role_description
+      label: Role Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: role_actor
+      label: Role Actor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: role_location
+      label: Role Location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: evaluation_time
+      label: Evaluation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assessor_comments
+      label: Assessor Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: form_completed_by
+      label: Form Completed By
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: form_completed_at
+      label: Form Completed At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: form_completed_time
+      label: Form Completed Time
+      hint: null
+      type: time
+      options: []
+      required: false

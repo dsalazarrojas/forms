@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Time Management Evaluation Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: employee-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: position
+      label: position
+      hint: null
+      type: select_one
+      options:
+      - Account Manager
+      - Data Analyst
+      - Data Scientist
+      - Data Engineer
+      - Data Architect
+      - Business Analyst
+      - Product Manager
+      - Product Owner
+      - Project Manager
+      - Team Lead
+      - Development Manager
+      - Dev Ops Engineer
+      required: false
+    - id: 3
+      name: work_hours_per_week
+      label: work-hours-per-week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: work_duration_per_task
+      label: work-duration-per-task
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: time_management_skill
+      label: time-management-skill
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 6
+      name: time_management_score
+      label: time-management-score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: work_duration_last_workday
+      label: work-duration-last-workday
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 8
+      name: time_management_effectiveness
+      label: time-management-effectiveness
+      hint: null
+      type: select_one
+      options:
+      - Highly Effective
+      - Moderately Effective
+      - Not Very Effective
+      - Not at all Effective
+      required: false
+    - id: 9
+      name: work_duration_last_break
+      label: work-duration-last-break
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: employee_time_management_plan
+      label: employee-time-management-plan
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: evaluation_period
+      label: evaluation-period
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: evaluation_duration
+      label: evaluation-duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: employee_satisfaction
+      label: employee-satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Highly Satisfied
+      - Moderately Satisfied
+      - Satisfied
+      - Not Satisfied
+      - Not at all Satisfied
+      required: false
+    - id: 14
+      name: evaluation_period_start_date
+      label: evaluation-period-start-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: evaluation_duration_start_time
+      label: evaluation-duration-start-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: evaluation_period_end_date
+      label: evaluation-period-end-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: evaluation_duration_end_time
+      label: evaluation-duration-end-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: manager_evaluation
+      label: manager-evaluation
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 19
+      name: feedback_for_manager
+      label: feedback-for-manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: evaluation_by_date
+      label: evaluation-by-date
+      hint: null
+      type: date
+      options: []
+      required: false

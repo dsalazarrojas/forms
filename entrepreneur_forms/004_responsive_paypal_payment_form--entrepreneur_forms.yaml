@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Responsive Paypal Payment Form
+    pages:
+    - id: 1
+      name: payment_method
+      label: Select Payment Method
+      hint: null
+      type: select_one
+      options:
+      - paypal
+      - credit_card
+      - bank_transfer
+      required: false
+    - id: 2
+      name: product_select
+      label: Select Product
+      hint: null
+      type: select_multiple
+      options:
+      - product1
+      - product2
+      - product3
+      required: false
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false

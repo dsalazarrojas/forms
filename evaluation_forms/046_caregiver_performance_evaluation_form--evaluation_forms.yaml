@@ -1,0 +1,258 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Caregiver Performance Evaluation Form
+    pages:
+      - id: 1
+        name: caregiver_name
+        label: Caregiver Name
+        hint: Full name of employee
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: employee_id
+        label: Employee ID
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: position_title
+        label: Position Title
+        hint: Job title
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: department_facility
+        label: Department or Facility
+        hint: Where employee works
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: evaluation_date
+        label: Evaluation Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: evaluation_period_start
+        label: Evaluation Period Start Date
+        hint: When did this evaluation period begin?
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: evaluation_period_end
+        label: Evaluation Period End Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 8
+        name: manager_name
+        label: Manager or Supervisor Name
+        hint: Evaluator's name
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: manager_title
+        label: Manager or Supervisor Title
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: patient_care_quality
+        label: Quality of Patient Care Provided
+        hint: Excellence in direct care tasks
+        type: select_one
+        options:
+          - Excellent - consistently excellent care
+          - Good - good quality care
+          - Satisfactory - meets standards
+          - Needs improvement - below standards
+          - Unsatisfactory - poor care quality
+        required: true
+      - id: 11
+        name: compassion_empathy
+        label: Compassion and Empathy for Patients
+        hint: Shows genuine care and concern
+        type: select_one
+        options:
+          - Excellent - very compassionate
+          - Good - shows compassion
+          - Satisfactory - adequate empathy
+          - Needs improvement - limited empathy
+          - Unsatisfactory - lacks compassion
+        required: true
+      - id: 12
+        name: communication_skills
+        label: Communication Skills
+        hint: With patients, families, and team
+        type: select_one
+        options:
+          - Excellent - excellent communicator
+          - Good - communicates well
+          - Satisfactory - adequate communication
+          - Needs improvement - some challenges
+          - Unsatisfactory - poor communication
+        required: true
+      - id: 13
+        name: reliability_attendance
+        label: Reliability and Attendance
+        hint: Shows up on time and as scheduled
+        type: select_one
+        options:
+          - Excellent - perfect attendance
+          - Good - rarely absent
+          - Satisfactory - acceptable attendance
+          - Needs improvement - frequent absences
+          - Unsatisfactory - poor attendance
+        required: true
+      - id: 14
+        name: dependability
+        label: Dependability and Work Ethic
+        hint: Can be relied upon to complete tasks
+        type: select_one
+        options:
+          - Excellent - highly dependable
+          - Good - reliable employee
+          - Satisfactory - generally reliable
+          - Needs improvement - somewhat unreliable
+          - Unsatisfactory - not dependable
+        required: true
+      - id: 15
+        name: teamwork_cooperation
+        label: Teamwork and Cooperation
+        hint: Works well with colleagues
+        type: select_one
+        options:
+          - Excellent - excellent team player
+          - Good - cooperates well
+          - Satisfactory - adequate teamwork
+          - Needs improvement - some conflicts
+          - Unsatisfactory - poor collaboration
+        required: true
+      - id: 16
+        name: following_procedures
+        label: Adherence to Policies and Procedures
+        hint: Follows facility policies and safety protocols
+        type: select_one
+        options:
+          - Excellent - strict compliance
+          - Good - generally follows procedures
+          - Satisfactory - usually complies
+          - Needs improvement - occasional violations
+          - Unsatisfactory - frequent violations
+        required: true
+      - id: 17
+        name: safety_awareness
+        label: Safety Awareness and Compliance
+        hint: Maintains safe work environment
+        type: select_one
+        options:
+          - Excellent - strong safety focus
+          - Good - good safety awareness
+          - Satisfactory - adequate safety
+          - Needs improvement - some safety concerns
+          - Unsatisfactory - poor safety practices
+        required: true
+      - id: 18
+        name: documentation_accuracy
+        label: Documentation and Record Keeping
+        hint: Accurate and timely documentation
+        type: select_one
+        options:
+          - Excellent - meticulous documentation
+          - Good - good record keeping
+          - Satisfactory - adequate documentation
+          - Needs improvement - incomplete records
+          - Unsatisfactory - poor documentation
+        required: true
+      - id: 19
+        name: problem_solving
+        label: Problem-Solving and Initiative
+        hint: Takes action to solve issues
+        type: select_one
+        options:
+          - Excellent - proactive problem-solver
+          - Good - good problem-solving
+          - Satisfactory - basic problem-solving
+          - Needs improvement - limited initiative
+          - Unsatisfactory - poor problem-solving
+        required: true
+      - id: 20
+        name: professional_development
+        label: Commitment to Professional Development
+        hint: Continues learning and skill development
+        type: select_one
+        options:
+          - Excellent - actively pursues development
+          - Good - shows commitment to growth
+          - Satisfactory - participates in training
+          - Needs improvement - minimal effort
+          - Unsatisfactory - no development pursuit
+        required: true
+      - id: 21
+        name: strengths
+        label: Employee Strengths
+        hint: Positive qualities and strengths
+        type: text
+        options: []
+        required: true
+      - id: 22
+        name: areas_improvement
+        label: Areas for Improvement
+        hint: Specific areas needing development
+        type: text
+        options: []
+        required: true
+      - id: 23
+        name: goals_objectives
+        label: Performance Goals for Next Period
+        hint: Objectives for upcoming evaluation period
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: training_recommendations
+        label: Recommended Training or Development
+        hint: Specific training opportunities
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: overall_performance
+        label: Overall Performance Rating
+        hint: Overall assessment
+        type: select_one
+        options:
+          - Excellent - exceeds expectations
+          - Good - meets and exceeds expectations
+          - Satisfactory - meets expectations
+          - Needs improvement - below expectations
+          - Unsatisfactory - significantly below expectations
+        required: true
+      - id: 26
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback or observations
+        type: text
+        options: []
+        required: false

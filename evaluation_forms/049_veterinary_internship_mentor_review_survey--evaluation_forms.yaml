@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Internship Mentor Review Survey
+    pages:
+    - id: 1
+      name: page_1
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: internship_details
+      label: internship_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: mentor_feedback
+      label: mentor_feedback
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: communication_skills
+      label: communication_skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: time_management
+      label: time_management
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: problem_solving
+      label: problem_solving
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: professionalism
+      label: professionalism
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: mentor_support
+      label: mentor_support
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tea Day Feedback Form
+    pages:
+    - id: 1
+      name: tea_day_event_details
+      label: Tea Day Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tea_day_satisfaction
+      label: How satisfied are you with the Tea Day event?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 3
+      name: tea_day_satisfaction_score
+      label: Satisfaction score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: what_you_enjoyed
+      label: What did you enjoy most about the event?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: what_could_improve
+      label: What could be improved?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false

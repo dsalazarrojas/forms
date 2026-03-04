@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_benefits_program_evaluation_form
+    pages:
+    - id: 1
+      name: benefits_program
+      label: Benefits Program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: health_insurance
+      label: Health Insurance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: dental_care
+      label: Dental Care
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: vision_benefits
+      label: Vision Benefits
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: medical_benefits
+      label: Medical Benefits
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: flexible_work_schedules
+      label: Flexible Work Schedules
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: telecommuting_options
+      label: Telecommuting Options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: employee_assistance_program
+      label: Employee Assistance Program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: benefits_education
+      label: Benefits Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

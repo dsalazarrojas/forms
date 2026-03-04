@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Diagnosis Questionnaire
+    pages:
+    - id: 1
+      name: business_owner_info
+      label: -- Business Owner Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: owner_name
+      label: Owner Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: owner_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: owner_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_name
+      label: Business Name
+      hint: Your company
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_overview
+      label: -- Business Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: years_operating
+      label: Years in Operation
+      hint: How long?
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: business_type
+      label: Type of Business
+      hint: Business structure
+      type: select_one
+      options:
+      - Sole Proprietor
+      - Partnership
+      - Corporation
+      - LLC
+      - Other
+      required: true
+    - id: 9
+      name: current_revenue
+      label: Current Annual Revenue
+      hint: Approximate revenue
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: employee_count
+      label: Number of Employees
+      hint: Total employees
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: current_issues
+      label: -- Current Issues --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: biggest_problem
+      label: Biggest Problem Facing Business
+      hint: What is your main issue?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: problem_areas
+      label: Problem Areas
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Cash Flow
+      - Sales and Revenue
+      - Customer Retention
+      - Competition
+      - Operations Efficiency
+      - Staffing Issues
+      - Technology
+      - Marketing
+      required: true
+    - id: 14
+      name: problem_duration
+      label: How Long Has This Been an Issue
+      hint: Duration of problem
+      type: select_one
+      options:
+      - Less than 1 month
+      - 1 - 3 months
+      - 3 - 6 months
+      - 6 - 12 months
+      - Over 1 year
+      required: true
+    - id: 15
+      name: impact_assessment
+      label: Impact of Problems
+      hint: How serious is it?
+      type: select_one
+      options:
+      - Minor
+      - Moderate
+      - Significant
+      - Severe
+      - Critical
+      required: true
+    - id: 16
+      name: business_health
+      label: -- Business Health Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: cash_flow_status
+      label: Cash Flow Status
+      hint: How is your cash flow?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Adequate
+      - Struggling
+      - Critical
+      required: true
+    - id: 18
+      name: profitability
+      label: Profitability Status
+      hint: Are you profitable?
+      type: select_one
+      options:
+      - Highly Profitable
+      - Profitable
+      - Breaking Even
+      - Minor Loss
+      - Significant Loss
+      required: true
+    - id: 19
+      name: growth_trend
+      label: Growth Trend
+      hint: Is business growing?
+      type: select_one
+      options:
+      - Strong Growth
+      - Moderate Growth
+      - Flat
+      - Slight Decline
+      - Sharp Decline
+      required: true
+    - id: 20
+      name: strength_areas
+      label: Business Strengths
+      hint: What are you good at?
+      type: select_multiple
+      options:
+      - Product Quality
+      - Customer Service
+      - Brand Recognition
+      - Team Talent
+      - Unique Offering
+      - Innovation
+      - Market Position
+      required: false
+    - id: 21
+      name: weakness_areas
+      label: Business Weaknesses
+      hint: What needs improvement?
+      type: select_multiple
+      options:
+      - Limited Marketing
+      - Poor Systems
+      - Weak Team
+      - High Costs
+      - Outdated Technology
+      - Limited Reach
+      - Weak Leadership
+      required: false
+    - id: 22
+      name: solutions_considered
+      label: Solutions Considered
+      hint: What have you tried?
+      type: text
+      options: []
+      required: false

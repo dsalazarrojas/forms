@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Enrollment And Industry Classification Form
+    pages:
+    - id: 1
+      name: business_info_section
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_legal_name
+      label: Legal Business Name
+      hint: Registered name of the business
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: dba_name
+      label: DBA Name (if different)
+      hint: Operating name if different from legal name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: business_registration_date
+      label: Date of Business Registration
+      hint: When was the business registered?
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: business_license_number
+      label: Business License Number
+      hint: License or registration ID
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: tax_id
+      label: Tax ID or EIN
+      hint: Federal employer identification number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: structure_section
+      label: -- Business Structure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: business_structure
+      label: Business Structure
+      hint: How is the business organized?
+      type: select_one
+      options:
+      - Sole Proprietorship
+      - Partnership
+      - LLC
+      - S-Corporation
+      - C-Corporation
+      - Non-Profit
+      - Cooperative
+      - Other
+      required: true
+    - id: 9
+      name: structure_description
+      label: Structure Details
+      hint: Additional information about structure
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: industry_section
+      label: -- Industry Classification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: primary_industry
+      label: Primary Industry
+      hint: Select the main industry category
+      type: select_one
+      options:
+      - Agriculture and Food
+      - Mining and Extraction
+      - Construction
+      - Manufacturing
+      - Utilities
+      - Wholesale Trade
+      - Retail Trade
+      - Transportation
+      - Information Technology
+      - Finance and Insurance
+      - Real Estate
+      - Professional Services
+      - Healthcare
+      - Education
+      - Entertainment
+      - Hospitality
+      - Government
+      - Non-Profit
+      - Other
+      required: true
+    - id: 12
+      name: secondary_industries
+      label: Secondary Industries (if applicable)
+      hint: Other industries the business operates in
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: naics_code
+      label: NAICS Code
+      hint: Industry classification code
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: business_description_section
+      label: -- Business Description --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: business_activities
+      label: Primary Business Activities
+      hint: What does the business do?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: products_services
+      label: Main Products or Services
+      hint: List key offerings
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: employee_section
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: total_employees
+      label: Total Number of Employees
+      hint: Current employee count
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: employee_range
+      label: Employee Count Range
+      hint: Select applicable range
+      type: select_one
+      options:
+      - 1-9
+      - 10-49
+      - 50-249
+      - 250-499
+      - 500-999
+      - 1000+
+      required: true
+    - id: 20
+      name: location_section
+      label: -- Location Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: principal_address
+      label: Principal Place of Business
+      hint: Main office address
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: state_province
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: number_of_locations
+      label: Number of Operating Locations
+      hint: How many offices or facilities?
+      type: number
+      options: []
+      required: false

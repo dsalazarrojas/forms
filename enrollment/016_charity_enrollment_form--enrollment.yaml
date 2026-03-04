@@ -1,0 +1,175 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Enrollment Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: For age verification
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: mailing_address
+      label: Mailing Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: enrollment_type
+      label: Enrollment Type
+      hint: How are you enrolling
+      type: select_one
+      options:
+      - Volunteer
+      - Donor
+      - Member
+      - Partner organization
+      - Beneficiary
+      required: true
+    - id: 11
+      name: volunteer_interests
+      label: Volunteer Areas of Interest
+      hint: Select if volunteering
+      type: select_multiple
+      options:
+      - Event planning
+      - Fundraising
+      - Administrative support
+      - Community outreach
+      - Social media
+      - Grant writing
+      - Direct service
+      - Other
+      required: false
+    - id: 12
+      name: availability
+      label: Availability
+      hint: When can you help
+      type: select_multiple
+      options:
+      - Weekday mornings
+      - Weekday afternoons
+      - Weekday evenings
+      - Weekends
+      - Flexible schedule
+      required: false
+    - id: 13
+      name: donation_frequency
+      label: Donation Frequency
+      hint: If donating
+      type: select_one
+      options:
+      - One-time donation
+      - Monthly
+      - Quarterly
+      - Annually
+      - Not donating at this time
+      required: false
+    - id: 14
+      name: donation_amount
+      label: Donation Amount
+      hint: Suggested amount
+      type: select_one
+      options:
+      - $25
+      - $50
+      - $100
+      - $250
+      - $500
+      - Other amount
+      required: false
+    - id: 15
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: In case of emergency
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: Emergency number
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: skills_experience
+      label: Relevant Skills or Experience
+      hint: What you bring
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: referral_source
+      label: How did you hear about us
+      hint: Referral source
+      type: select_one
+      options:
+      - Website
+      - Social media
+      - Friend or family
+      - Event
+      - Email
+      - Other
+      required: false
+    - id: 19
+      name: terms_agreement
+      label: Do you agree to terms and conditions
+      hint: Required agreement
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true

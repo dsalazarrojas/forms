@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lab Equipment Inventory Survey
+    pages:
+    - id: 1
+      name: lab_equipment_inventory_survey_form
+      label: lab_equipment_inventory_survey_form_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_details
+      label: equipment_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: condition
+      label: condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: equipment_type
+      label: equipment_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: responsible_person
+      label: responsible_person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: maintenance_date
+      label: maintenance_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: maintenance_frequency
+      label: maintenance_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - daily
+      - weekly
+      - monthly
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

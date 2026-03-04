@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Economic Block Participation Survey
+    pages:
+    - id: 1
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: role
+      label: role
+      hint: null
+      type: select_one
+      options:
+      - Economic Block Administrator
+      - Economic Block Manager
+      - Other
+      required: false
+    - id: 3
+      name: roles
+      label: roles
+      hint: null
+      type: select_multiple
+      options:
+      - Economic Block Administrator
+      - Economic Block Manager
+      - Other
+      required: false
+    - id: 4
+      name: motivations
+      label: Motivations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: expectation
+      label: Expectation
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 6
+      name: expectation_frequency
+      label: Expectation
+      hint: How often do you expect the economic block to be implemented?
+      type: select_one
+      options:
+      - Often
+      - Occasionally
+      - Rarely
+      required: false
+    - id: 7
+      name: contact_preferences
+      label: Contact Preferences
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Other
+      required: false
+    - id: 8
+      name: contact_preferences_other
+      label: Contact Preferences Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: role_other
+      label: Role Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: roles_other
+      label: Roles Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_details_other
+      label: Contact Details Other
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: entertainment_tech_consultation_request_form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_manager
+      label: Project Manager
+      hint: Enter project manager's name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_start_date
+      label: Project Start Date
+      hint: MM/DD/YY
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: project_end_date
+      label: Project End Date
+      hint: MM/DD/YY
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 11, ''label'': ''Active''}'
+      - '{''id'': 12, ''label'': ''Inactive''}'
+      required: false
+    - id: 6
+      name: project_location
+      label: Project Location
+      hint: Enter project location
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_description
+      label: Project Description
+      hint: Provide project description
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: technology_requirements
+      label: Technology Requirements
+      hint: Select the required technologies
+      type: select_multiple
+      options:
+      - '{''id'': 14, ''label'': ''Video Equipment''}'
+      - '{''id'': 15, ''label'': ''Photography''}'
+      - '{''id'': 16, ''label'': ''Audio''}'
+      required: false
+    - id: 9
+      name: budget_allocated
+      label: Budget Allocated
+      hint: Enter budget
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: Enter project notes
+      type: text
+      options: []
+      required: false

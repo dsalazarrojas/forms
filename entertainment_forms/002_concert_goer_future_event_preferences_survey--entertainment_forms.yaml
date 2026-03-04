@@ -1,0 +1,116 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Concert Goer Future Event Preferences Survey
+    pages:
+      - id: 1
+        name: attendee_name
+        label: Attendee name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: contact_email
+        label: Contact email
+        hint: For occasional event updates
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: preferred_genres
+        label: Preferred music genres
+        hint: Select up to three genres
+        type: select_multiple
+        options:
+          - Rock
+          - Pop
+          - Electronic
+          - Hip hop
+          - Jazz
+          - Classical
+          - Country
+        required: true
+      - id: 4
+        name: preferred_venue_type
+        label: Preferred venue type
+        hint: Indoor, outdoor, or festival
+        type: select_one
+        options:
+          - Arena
+          - Theater
+          - Outdoor festival
+          - Club
+          - Amphitheater
+        required: true
+      - id: 5
+        name: ticket_price_tolerance
+        label: Typical ticket price range
+        hint: Choose the price range you usually pay
+        type: select_one
+        options:
+          - Under 50
+          - 50 to 100
+          - 101 to 200
+          - Over 200
+        required: true
+      - id: 6
+        name: preferred_show_day
+        label: Preferred day for events
+        hint: Weekday or weekend preference
+        type: select_one
+        options:
+          - Weekday
+          - Weekend
+        required: false
+      - id: 7
+        name: travel_willingness
+        label: Willingness to travel for favorite artists
+        hint: Distance you would travel
+        type: select_one
+        options:
+          - Local only
+          - Up to 50 miles
+          - Up to 200 miles
+          - National travel
+        required: false
+      - id: 8
+        name: amenities_priority
+        label: Most important amenities
+        hint: Choose up to three
+        type: select_multiple
+        options:
+          - Seating comfort
+          - Food and beverage
+          - Accessibility
+          - Parking
+          - Sound quality
+        required: true
+      - id: 9
+        name: subscription_interest
+        label: Interest in event subscription or season pass
+        hint: Indicates future purchase intent
+        type: select_one
+        options:
+          - Very interested
+          - Somewhat interested
+          - Not interested
+        required: false
+      - id: 10
+        name: other_comments
+        label: Other comments or suggestions
+        hint: Help us improve events
+        type: text
+        options: []
+        required: false

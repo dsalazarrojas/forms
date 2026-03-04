@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Material Handling Equipment Maintenance Log
+    pages:
+    - id: 1
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

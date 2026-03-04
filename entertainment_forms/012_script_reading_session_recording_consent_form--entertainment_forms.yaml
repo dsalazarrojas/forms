@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Script Reading Session Recording Consent Form
+    pages:
+    - id: 1
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: production_name
+      label: production_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: production_contact
+      label: production_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: recording_date
+      label: recording_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: recording_time
+      label: recording_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: script_version
+      label: script_version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: consent_given
+      label: consent_given
+      hint: null
+      type: select_multiple
+      options:
+      - Consent to Record Audio
+      - Consent to Record Video
+      - Consent to Record Live Stream
+      required: false
+    - id: 10
+      name: consent_given_note
+      label: consent_given_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: approval_given
+      label: approval_given
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Not Approved
+      - Pending
+      required: false
+    - id: 12
+      name: approval_given_note
+      label: approval_given_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: recording_notes
+      label: recording_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: participant_approval
+      label: participant_approval
+      hint: null
+      type: select_multiple
+      options:
+      - Participant Approval to Record
+      - Participant Approval Not Given
+      - Participant Approval Not Given - Alternative Reason
+      required: false
+    - id: 15
+      name: participant_approval_note
+      label: participant_approval_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: participant_contact
+      label: participant_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: production_approval
+      label: production_approval
+      hint: null
+      type: select_multiple
+      options:
+      - Production Approval to Record
+      - Production Approval Not Given
+      - Production Approval Not Given - Alternative Reason
+      required: false
+    - id: 19
+      name: production_notes
+      label: production_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: recording_type
+      label: recording_type
+      hint: null
+      type: select_one
+      options:
+      - Audio
+      - Video
+      - Live Stream
+      required: false
+    - id: 21
+      name: recording_device
+      label: recording_device
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: recording_location
+      label: recording_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: participant_agreement
+      label: participant_agreement
+      hint: null
+      type: select_multiple
+      options:
+      - Participant Agreement to Terms and Conditions
+      - Participant Agreement Not Given
+      - Participant Agreement Not Given - Alternative Reason
+      required: false
+    - id: 24
+      name: participant_agreement_note
+      label: participant_agreement_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: production_agreement
+      label: production_agreement
+      hint: null
+      type: select_multiple
+      options:
+      - Production Agreement to Terms and Conditions
+      - Production Agreement Not Given
+      - Production Agreement Not Given - Alternative Reason
+      required: false
+    - id: 26
+      name: production_agreement_note
+      label: production_agreement_note
+      hint: null
+      type: text
+      options: []
+      required: false

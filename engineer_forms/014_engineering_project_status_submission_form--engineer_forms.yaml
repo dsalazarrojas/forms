@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Engineering Project Status Submission Form
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: status_update
+      label: Status Update
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: risk_visibility
+      label: Risk Visibility
+      hint: null
+      type: select_one
+      options:
+      - Risky
+      - Low
+      - High
+      required: false
+    - id: 5
+      name: team_coordination
+      label: Team Coordination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: risk_management
+      label: Risk Management
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - User1
+      - User2
+      - User3
+      required: false
+    - id: 10
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: submission_form
+      label: Submission Form
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Risk Advisory Outcomes Survey
+    pages:
+    - id: 1
+      name: risk_advisory_outcomes_survey
+      label: risk_advisory_outcomes_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: evaluation_survey
+      label: evaluation survey
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1'', ''value'': ''value1''}'
+      - '{''id'': 2, ''label'': ''Option 2'', ''value'': ''value2''}'
+      - '{''id'': 3, ''label'': ''Option 3'', ''value'': ''value3''}'
+      required: false
+    - id: 3
+      name: team_size
+      label: team size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: total_value
+      label: total value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: risk_assessment
+      label: risk assessment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Option 1'', ''value'': ''value1''}'
+      - '{''id'': 2, ''label'': ''Option 2'', ''value'': ''value2''}'
+      - '{''id'': 3, ''label'': ''Option 3'', ''value'': ''value3''}'
+      required: false
+    - id: 6
+      name: evaluation_date
+      label: evaluation date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: evaluation_time
+      label: evaluation time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: risk_description
+      label: risk description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_id
+      label: project id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: project_name
+      label: project name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: team_name
+      label: team name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: team_leader
+      label: team leader
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: risk_level
+      label: risk level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High'', ''value'': ''high''}'
+      - '{''id'': 2, ''label'': ''Medium'', ''value'': ''medium''}'
+      - '{''id'': 3, ''label'': ''Low'', ''value'': ''low''}'
+      required: false
+    - id: 16
+      name: risk_score
+      label: risk score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: risk_impact
+      label: risk impact
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Option 1'', ''value'': ''value1''}'
+      - '{''id'': 2, ''label'': ''Option 2'', ''value'': ''value2''}'
+      - '{''id'': 3, ''label'': ''Option 3'', ''value'': ''value3''}'
+      required: false
+    - id: 18
+      name: risk_probability
+      label: risk probability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: risk_frequency
+      label: risk frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: risk_awareness
+      label: risk awareness
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1'', ''value'': ''value1''}'
+      - '{''id'': 2, ''label'': ''Option 2'', ''value'': ''value2''}'
+      - '{''id'': 3, ''label'': ''Option 3'', ''value'': ''value3''}'
+      required: false
+    - id: 21
+      name: risk_impact_score
+      label: risk impact score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: risk_score_awareness
+      label: risk score awareness
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Option 1'', ''value'': ''value1''}'
+      - '{''id'': 2, ''label'': ''Option 2'', ''value'': ''value2''}'
+      - '{''id'': 3, ''label'': ''Option 3'', ''value'': ''value3''}'
+      required: false
+    - id: 23
+      name: risk_risk_score_awareness
+      label: risk risk score awareness
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1'', ''value'': ''value1''}'
+      - '{''id'': 2, ''label'': ''Option 2'', ''value'': ''value2''}'
+      - '{''id'': 3, ''label'': ''Option 3'', ''value'': ''value3''}'
+      required: false
+    - id: 24
+      name: risk_risk_awareness
+      label: risk risk awareness
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Option 1'', ''value'': ''value1''}'
+      - '{''id'': 2, ''label'': ''Option 2'', ''value'': ''value2''}'
+      - '{''id'': 3, ''label'': ''Option 3'', ''value'': ''value3''}'
+      required: false
+    - id: 25
+      name: risk_risk_frequency_score
+      label: risk risk frequency score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: risk_risk_frequency
+      label: risk frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Option 1'', ''value'': ''value1''}'
+      - '{''id'': 2, ''label'': ''Option 2'', ''value'': ''value2''}'
+      - '{''id'': 3, ''label'': ''Option 3'', ''value'': ''value3''}'
+      required: false

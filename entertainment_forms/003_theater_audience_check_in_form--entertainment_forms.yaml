@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Theater Audience Check In Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: accessibility_request
+      label: Accessibility Request
+      hint: Please enter any special requests
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: confirm_arrival_time
+      label: Confirm Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: entry_confirmed
+      label: Entry Confirmed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: number_of_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: ticket_number
+      label: Ticket Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: is_first_time_visitor
+      label: Is First Time Visitor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: is_wheelchair_accessible
+      label: Is Wheelchair Accessible
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: is_service_animal_allowed
+      label: Is Service Animal Allowed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: parking_information
+      label: Parking Information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: is_first_time_attendee
+      label: Is First Time Attendee
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: confirm_first_time_attendee
+      label: Confirm First Time Attendee
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: is_wheelchair_accessibility_request
+      label: Is Wheelchair Accessibility Request
+      hint: Please select if you need assistance
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: confirm_wheelchair_accessibility_request
+      label: Confirm Wheelchair Accessibility Request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: is_service_animal
+      label: Is Service Animal
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: confirm_service_animal
+      label: Confirm Service Animal
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: is_accessible
+      label: Is Accessible
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: confirm_accessible
+      label: Confirm Accessible
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: has_ticket
+      label: Has Ticket
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: confirm_ticket
+      label: Confirm Ticket
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false

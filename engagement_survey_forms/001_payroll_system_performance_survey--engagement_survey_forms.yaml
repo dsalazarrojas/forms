@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: payroll_system_performance_survey
+    pages:
+    - id: 1
+      name: payroll_system_performance_survey_page_1
+      label: Payroll System Performance Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payroll_system_rating
+      label: payroll_system_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - Finance
+      - HR
+      - IT
+      - Marketing
+      - Operations
+      required: true
+    - id: 6
+      name: payroll_frequency
+      label: payroll_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Bimonthly
+      - Quartanly
+      - Bi-Quarterly
+      - Yearly
+      required: true
+    - id: 7
+      name: payroll_method
+      label: payroll_method
+      hint: How do you currently process payroll?
+      type: select_one
+      options:
+      - In-house
+      - Third Party
+      required: true
+    - id: 8
+      name: payroll_frequency_method
+      label: payroll_frequency_method
+      hint: null
+      type: select_one
+      options:
+      - Automated
+      - Manual
+      required: false
+    - id: 9
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: payroll_survey_rating
+      label: payroll_survey_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: payroll_survey_rating_2
+      label: payroll_survey_rating_2
+      hint: null
+      type: number
+      options: []
+      required: false

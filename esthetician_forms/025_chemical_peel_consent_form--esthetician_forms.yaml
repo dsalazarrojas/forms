@@ -1,0 +1,279 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chemical Peel Consent Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: Address
+      hint: Your full address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: procedure_date
+      label: Procedure Date
+      hint: Scheduled date of chemical peel
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: peel_type
+      label: Type of Chemical Peel
+      hint: Type of peel to be performed
+      type: select_one
+      options:
+      - Superficial peel (alpha hydroxy acid)
+      - Medium peel (trichloroacetic acid)
+      - Deep peel (phenol)
+      - Combination peel
+      - Custom formulation
+      required: true
+    - id: 10
+      name: treatment_area
+      label: Treatment Area
+      hint: Area to be treated
+      type: select_one
+      options:
+      - Full face
+      - Forehead only
+      - Cheeks only
+      - Around mouth
+      - Neck
+      - Chest
+      - Hands
+      - Other
+      required: true
+    - id: 11
+      name: medical_conditions
+      label: Medical Conditions
+      hint: List any medical conditions you have
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: skin_conditions
+      label: Skin Conditions
+      hint: Do you have any skin conditions
+      type: select_multiple
+      options:
+      - Eczema
+      - Psoriasis
+      - Rosacea
+      - Acne
+      - Cold sores
+      - None
+      required: true
+    - id: 13
+      name: allergies
+      label: Allergies
+      hint: List any allergies you have
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: current_medications
+      label: Current Medications
+      hint: List all medications you are taking
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: skincare_products
+      label: Current Skincare Products
+      hint: List products you use on your skin
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: previous_peels
+      label: Previous Chemical Peels
+      hint: Have you had chemical peels before
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: previous_peel_details
+      label: Previous Peel Details
+      hint: Describe previous peel experiences
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: sun_exposure
+      label: Recent Sun Exposure
+      hint: Have you had significant sun exposure recently
+      type: select_one
+      options:
+      - Yes, within the last 2 weeks
+      - Yes, within the last month
+      - No significant exposure
+      required: true
+    - id: 19
+      name: pregnancy_status
+      label: Pregnancy or Nursing Status
+      hint: Are you pregnant or nursing
+      type: select_one
+      options:
+      - Yes, pregnant
+      - Yes, nursing
+      - false
+      - Not applicable
+      required: true
+    - id: 20
+      name: procedure_understanding
+      label: Understanding of Procedure
+      hint: I understand what the chemical peel procedure involves
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I need more information
+      required: true
+    - id: 21
+      name: risks_understood
+      label: Risks Understood
+      hint: I understand the potential risks and complications
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I need clarification
+      required: true
+    - id: 22
+      name: risks_acknowledged
+      label: Risks Acknowledged
+      hint: Including redness, peeling, scarring, infection, and pigmentation changes
+      type: select_one
+      options:
+      - Yes, I acknowledge
+      - false
+      required: true
+    - id: 23
+      name: aftercare_instructions
+      label: Aftercare Instructions
+      hint: I understand I must follow aftercare instructions
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I need clarification
+      required: true
+    - id: 24
+      name: sun_protection
+      label: Sun Protection Agreement
+      hint: I agree to avoid sun exposure and use sunscreen
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true
+    - id: 25
+      name: no_guarantees
+      label: No Guarantees Understood
+      hint: I understand results cannot be guaranteed
+      type: select_one
+      options:
+      - Yes, I understand
+      - false
+      required: true
+    - id: 26
+      name: alternative_treatments
+      label: Alternative Treatments Discussed
+      hint: I have discussed alternative treatment options
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: questions_answered
+      label: Questions Answered
+      hint: All my questions have been answered
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 28
+      name: voluntary_consent
+      label: Voluntary Consent
+      hint: I am signing this form voluntarily
+      type: select_one
+      options:
+      - Yes, voluntarily
+      - false
+      required: true
+    - id: 29
+      name: patient_signature
+      label: Patient Signature
+      hint: I consent to the chemical peel procedure
+      type: select_one
+      options:
+      - Yes, I consent
+      - false
+      required: true
+    - id: 30
+      name: signature_date
+      label: Signature Date
+      hint: Date of signature
+      type: date
+      options: []
+      required: true
+    - id: 31
+      name: provider_name
+      label: Provider Name
+      hint: Name of the treating provider
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: provider_signature
+      label: Provider Signature
+      hint: Provider confirms consent was obtained
+      type: select_one
+      options:
+      - Yes, confirmed
+      - false
+      required: true

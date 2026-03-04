@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: exit_interview_form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_info
+      label: company_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: why_leaving
+      label: why_leaving
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: job_info
+      label: job_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: job_title
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: job_satisfaction
+      label: job_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 7
+      name: manager_comments
+      label: manager_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_performance
+      label: manager_performance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: company_satisfaction
+      label: company_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 10
+      name: communication_effectiveness
+      label: communication_effectiveness
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: job_security
+      label: job_security
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: team_performance
+      label: team_performance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: job_satisfaction
+      label: job_satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false

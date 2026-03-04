@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Provider Engagement Survey
+    pages:
+    - id: 1
+      name: service_provider_engagement_survey_form
+      label: Service Provider Engagement Survey Form Template
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: performance
+      label: performance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 4
+      name: recommendations
+      label: recommendations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: service_provider
+      label: service provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: internal_feedback
+      label: internal feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: external_feedback
+      label: external feedback
+      hint: null
+      type: note
+      options: []
+      required: false

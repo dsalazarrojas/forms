@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Reference Form
+    pages:
+    - id: 1
+      name: employee_referee_full_name
+      label: Full Name
+      hint: Please fill in the name of the referee as it appears on their name card
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_referee_position
+      label: Position
+      hint: Please fill in the position of the referee as it appears on their name
+        card
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_referee_organization
+      label: Organization
+      hint: Please fill in the organization of the referee as it appears on their
+        name card
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employee_referee_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: employee_referee_email
+      label: Email
+      hint: Please fill in the referee's email for further contact
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: employee_referee_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 0, ''name'': ''Manager''}'
+      - '{''id'': 1, ''name'': ''Supervisor''}'
+      - '{''id'': 2, ''name'': ''Colleague''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: true
+    - id: 7
+      name: employee_referee_since
+      label: Since
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: employee_referee_message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: form_section_2
+      label: Form Section 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: referee_agreement
+      label: Referee Agreement
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 0, ''name'': ''I agree''}'
+      - '{''id'': 1, ''name'': ''I do not agree''}'
+      required: true

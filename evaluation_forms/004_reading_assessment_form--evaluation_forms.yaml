@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reading Assessment Form
+    pages:
+    - id: 1
+      name: reading_assessment_form_first_page
+      label: reading_assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reading_assessment_form_first_page
+      label: reading_speed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: reading_comprehension
+      label: reading_comprehension
+      hint: null
+      type: select_one
+      options:
+      - choice1
+      - choice2
+      - choice3
+      required: false
+    - id: 4
+      name: reading_preference
+      label: reading_preference
+      hint: null
+      type: select_one
+      options:
+      - choice1
+      - choice2
+      - choice3
+      required: false
+    - id: 5
+      name: reading_difficulty
+      label: reading_difficulty
+      hint: null
+      type: select_multiple
+      options:
+      - choice1
+      - choice2
+      - choice3
+      required: false
+    - id: 6
+      name: reading_frequency
+      label: reading_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reading_interest
+      label: reading_interest
+      hint: null
+      type: select_one
+      options:
+      - choice1
+      - choice2
+      - choice3
+      required: false
+    - id: 8
+      name: reading_other_comments
+      label: reading_other_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: reading_additional_comments
+      label: reading_additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: reading_form_comments
+      label: reading_form_comments
+      hint: null
+      type: select_multiple
+      options:
+      - choice1
+      - choice2
+      - choice3
+      required: false

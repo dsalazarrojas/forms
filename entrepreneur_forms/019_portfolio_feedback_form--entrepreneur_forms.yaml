@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Portfolio Feedback Form
+    pages:
+    - id: 1
+      name: portfolio_form
+      label: Portfolio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: select_one_question
+      label: Select One Question
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

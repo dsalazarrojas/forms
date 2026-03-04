@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: halloween_candy_gram_order_form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: shipping_name
+      label: shipping_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipping_address
+      label: shipping_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: shipping_city
+      label: shipping_city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: shipping_zip
+      label: shipping_zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: shipping_date
+      label: shipping_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: candy_type
+      label: candy_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: message
+      label: message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: true

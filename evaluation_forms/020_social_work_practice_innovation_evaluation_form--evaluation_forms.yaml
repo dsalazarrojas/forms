@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: social_work_practice_innovation_evaluation_form
+    pages:
+    - id: 1
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: program_location
+      label: Program Location
+      hint: Enter the location where the program is located
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Existing
+      required: true
+    - id: 4
+      name: program_duration
+      label: Program Duration
+      hint: Enter the length of the program in months
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: program_funding
+      label: Program Funding
+      hint: null
+      type: select_multiple
+      options:
+      - Government
+      - Private
+      - Hybrid
+      required: false
+    - id: 6
+      name: program_outcome
+      label: Program Outcome
+      hint: null
+      type: select_one
+      options:
+      - Significant
+      - Moderate
+      - Low
+      required: true
+    - id: 7
+      name: program_rating
+      label: Program Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: evaluator_name
+      label: Evaluator's Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: evaluator_title
+      label: Evaluator's Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: evaluator_organization
+      label: Evaluator's Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: evaluation_time
+      label: Evaluation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: evaluation_notes
+      label: Evaluation Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: evaluation_email
+      label: Evaluator's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: evaluation_phone
+      label: Evaluator's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: evaluator_comments
+      label: Evaluator's Comments
+      hint: null
+      type: text
+      options: []
+      required: false

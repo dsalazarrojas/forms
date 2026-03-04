@@ -1,0 +1,128 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Coach Performance Review Form
+    pages:
+      - id: 1
+        name: section_general
+        label: -- General Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: coach_name
+        label: Coach Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: sport
+        label: Sport
+        hint: e.g. Soccer, Basketball, Tennis
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: season
+        label: Season
+        hint: e.g. Fall 2025
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: reviewer_name
+        label: Reviewer Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: section_technical
+        label: -- Skills and Technical Knowledge --
+        hint: Rate the coach on a scale of 1 to 5
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: fundamentals_knowledge
+        label: Knowledge of Sport Fundamentals
+        hint: null
+        type: select_one
+        options: [1 - Poor, 2 - Fair, 3 - Good, 4 - Very Good, 5 - Excellent]
+        required: true
+      - id: 8
+        name: concept_explanation
+        label: Ability to Explain Concepts
+        hint: How well does the coach explain drills and plays?
+        type: select_one
+        options: [1 - Poor, 2 - Fair, 3 - Good, 4 - Very Good, 5 - Excellent]
+        required: true
+      - id: 9
+        name: strategy_management
+        label: Strategy and Game Management
+        hint: Tactical decision making during games
+        type: select_one
+        options: [1 - Poor, 2 - Fair, 3 - Good, 4 - Very Good, 5 - Excellent]
+        required: true
+      - id: 10
+        name: section_leadership
+        label: -- Leadership and Communication --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: professionalism
+        label: Professionalism and Conduct
+        hint: On and off the field behavior
+        type: select_one
+        options: [1 - Poor, 2 - Fair, 3 - Good, 4 - Very Good, 5 - Excellent]
+        required: true
+      - id: 12
+        name: athlete_motivation
+        label: Motivation of Athletes
+        hint: Ability to inspire and lead the team
+        type: select_one
+        options: [1 - Poor, 2 - Fair, 3 - Good, 4 - Very Good, 5 - Excellent]
+        required: true
+      - id: 13
+        name: fairness_equity
+        label: Fairness and Equity
+        hint: Treating all team members with respect
+        type: select_one
+        options: [1 - Poor, 2 - Fair, 3 - Good, 4 - Very Good, 5 - Excellent]
+        required: true
+      - id: 14
+        name: overall_performance
+        label: Overall Performance Rating
+        hint: Summary rating
+        type: select_one
+        options: [1 - Poor, 2 - Fair, 3 - Good, 4 - Very Good, 5 - Excellent]
+        required: true
+      - id: 15
+        name: areas_for_growth
+        label: Areas for Growth
+        hint: What can be improved for next season?
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: additional_comments
+        label: Additional Comments
+        hint: null
+        type: text
+        options: []
+        required: false

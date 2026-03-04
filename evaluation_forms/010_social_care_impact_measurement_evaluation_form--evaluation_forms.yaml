@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Care Impact Measurement Evaluation Form
+    pages:
+    - id: 1
+      name: social_care_impact_measurement_form_page_1
+      label: Social Care Impact Measurement Evaluation Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: service_user_info
+      label: Service User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_user_info_2
+      label: Service User
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: service_provider_info
+      label: Service Provider
+      hint: null
+      type: select_one
+      options:
+      - Social Care Agency
+      - Nonprofit
+      - Other
+      required: false
+    - id: 5
+      name: service_provider_name
+      label: Service Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: service_provider_phone
+      label: Service Provider Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_user_satisfaction_rating
+      label: Service User Satisfaction Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: service_user_satisfaction_reasons
+      label: Reasons for Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - None
+      - None
+      required: false
+    - id: 9
+      name: detailed_feedback
+      label: Detailed Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

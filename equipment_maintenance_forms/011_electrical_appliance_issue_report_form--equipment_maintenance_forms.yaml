@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Electrical Appliance Issue Report Form
+    pages:
+    - id: 1
+      name: electrical_appliance_issue_report_form_page_1
+      label: Appliance Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: electrical_appliance_issue_report_form_page_2
+      label: Issue Description
+      hint: Briefly describe the problem
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: electrical_appliance_issue_report_form_page_3
+      label: Schedule Service Visit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: electrical_appliance_issue_report_form_page_4
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: electrical_appliance_issue_report_form_page_5
+      label: Service Technician Information
+      hint: null
+      type: select_multiple
+      options:
+      - Select a Service Technician
+      - Technician 1
+      - Technician 2
+      - Technician 3
+      required: false
+    - id: 6
+      name: electrical_appliance_issue_report_form_page_6
+      label: Electrical Appliance Type
+      hint: null
+      type: select_one
+      options:
+      - Appliance 1
+      - Appliance 2
+      - Appliance 3
+      required: false
+    - id: 7
+      name: electrical_appliance_issue_report_form_page_7
+      label: Appliance Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: electrical_appliance_issue_report_form_page_8
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: electrical_appliance_issue_report_form_page_9
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: electrical_appliance_issue_report_form_page_10
+      label: Issue Report Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: electrical_appliance_issue_report_form_page_11
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: electrical_appliance_issue_report_form_page_12
+      label: Service Visit Notes
+      hint: null
+      type: note
+      options: []
+      required: false

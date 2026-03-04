@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Leadership Skill Development Needs Survey
+    pages:
+    - id: 1
+      name: current_leadership_skills
+      label: Current Leadership Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: development_priorities
+      label: Development Priorities
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: training_preferences
+      label: Training Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: skills_needed
+      label: Skills Needed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: coaching_preferences
+      label: Coaching Preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: training_goals
+      label: Training Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: evaluation
+      label: Evaluation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: social_work_referral_form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: teacher_id
+      label: Teacher ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: referral_reason
+      label: Referral Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: referral_date
+      label: Referral Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: referral_time
+      label: Referral Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: student_grade_level
+      label: Student Grade Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: referral_status
+      label: Referral Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Archived
+      required: true
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: assigned_teacher
+      label: Assigned Teacher
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

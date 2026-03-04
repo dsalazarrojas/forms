@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Impact Survey
+    pages:
+    - id: 1
+      name: header
+      label: -- Impact Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization name
+      hint: Name of the business or program
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: respondent_role
+      label: Respondent role
+      hint: Job title or relationship to the program
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: impact_area
+      label: Impact area
+      hint: Which area best describes the impact
+      type: select_one
+      options:
+      - Economic
+      - Social
+      - Environmental
+      - Educational
+      required: true
+    - id: 5
+      name: impact_description
+      label: Impact description
+      hint: Describe observable outcomes or changes
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: beneficiaries_count
+      label: Number of beneficiaries
+      hint: Estimate number of people affected
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: measurement_methods
+      label: Measurement methods
+      hint: How was impact measured
+      type: select_multiple
+      options:
+      - Surveys
+      - Administrative data
+      - Interviews
+      - Observation
+      required: false
+    - id: 8
+      name: time_horizon
+      label: Time horizon of impact
+      hint: Short term or long term
+      type: select_one
+      options:
+      - Short term
+      - Medium term
+      - Long term
+      required: true
+    - id: 9
+      name: lessons_learned
+      label: Lessons learned
+      hint: Key takeaways from the initiative
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_contact
+      label: Follow up contact
+      hint: Email if further information is needed
+      type: email
+      options: []
+      required: false

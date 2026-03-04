@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Responsiveness Evaluation Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: response_speed
+      label: response_speed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: professionalism
+      label: professionalism
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: effectiveness
+      label: effectiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: areas_to_improve
+      label: areas_to_improve
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: response_speed_score
+      label: response_speed_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: professionalism_score
+      label: professionalism_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: effectiveness_score
+      label: effectiveness_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: overall_score
+      label: overall_score
+      hint: null
+      type: number
+      options: []
+      required: false

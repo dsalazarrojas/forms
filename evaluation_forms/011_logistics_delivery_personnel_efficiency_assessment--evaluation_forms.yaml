@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: logistics_delivery_personnel_efficiency_assessment
+    pages:
+    - id: 1
+      name: delivery_team
+      label: delivery_team
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: delivery_time
+      label: delivery_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: personnel
+      label: personnel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: personnel_id
+      label: personnel
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: efficiency_score
+      label: efficiency_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: performance_rating
+      label: performance_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_action
+      label: follow_up_action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_deadline
+      label: follow_up_deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_status
+      label: follow_up_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 16
+      name: follow_up_comments
+      label: follow_up_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: next_follow_up_deadline
+      label: next_follow_up_deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: next_follow_up_status
+      label: next_follow_up_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 19
+      name: next_follow_up_comments
+      label: next_follow_up_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_frequency
+      label: follow_up_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_reminder
+      label: follow_up_reminder
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_last_contact
+      label: follow_up_last_contact
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_next_contact
+      label: follow_up_next_contact
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_last_action
+      label: follow_up_last_action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_last_status
+      label: follow_up_last_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Negligence Law Evaluation Survey
+    pages:
+    - id: 1
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: duty_applied
+      label: Duty Applied
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: breach_occurred
+      label: Breach Occurred
+      hint: null
+      type: select_multiple
+      options:
+      - Harm Caused
+      - Harm Not Caused
+      required: true
+    - id: 4
+      name: causation
+      label: Causation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: harm_description
+      label: Harm Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: duty_breach_description
+      label: Duty Breach Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: harm_causation_description
+      label: Harm Causation Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: causation_duty_breach
+      label: Causation Duty Breach
+      hint: null
+      type: select_one
+      options:
+      - Duty and Breach
+      - Duty Only
+      - Breach Only
+      required: true
+    - id: 9
+      name: harm_level
+      label: Harm Level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: harm_type
+      label: Harm Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: harm_severity
+      label: Harm Severity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

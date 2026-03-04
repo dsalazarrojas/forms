@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Call Center Quality Monitoring Form
+    pages:
+    - id: 1
+      name: monitoring_header
+      label: -- Monitoring Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: monitor_name
+      label: Quality Monitor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: call_id
+      label: Call ID or Recording Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: agent_header
+      label: -- Agent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: agent_name
+      label: Agent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: agent_id
+      label: Agent ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: team
+      label: Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: call_details_header
+      label: -- Call Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: call_type
+      label: Call Type
+      hint: null
+      type: select_one
+      options:
+      - Inbound - Sales
+      - Inbound - Support
+      - Inbound - General
+      - Outbound - Sales
+      - Outbound - Other
+      required: true
+    - id: 11
+      name: call_duration
+      label: Call Duration (minutes)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: call_date
+      label: Call Date and Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: quality_metrics_header
+      label: -- Quality Metrics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: greeting_professionalism
+      label: Greeting and Professionalism
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Needs Improvement
+      required: true
+    - id: 15
+      name: communication_clarity
+      label: Communication Clarity
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Needs Improvement
+      required: true
+    - id: 16
+      name: product_knowledge
+      label: Product Knowledge and Accuracy
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Needs Improvement
+      required: true
+    - id: 17
+      name: customer_empathy
+      label: Customer Empathy
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Needs Improvement
+      required: true
+    - id: 18
+      name: problem_resolution
+      label: Problem Resolution
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Needs Improvement
+      required: true
+    - id: 19
+      name: call_closure
+      label: Call Closure and Follow-up
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Needs Improvement
+      required: true
+    - id: 20
+      name: compliance_header
+      label: -- Compliance and Standards --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: compliance_adherence
+      label: Compliance with Company Policies
+      hint: null
+      type: select_one
+      options:
+      - Fully compliant
+      - Mostly compliant
+      - Partially compliant
+      - Non-compliant
+      required: true
+    - id: 22
+      name: feedback_header
+      label: -- Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: strengths
+      label: Agent Strengths
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: improvement_areas
+      label: Areas for Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: coaching_recommendations
+      label: Coaching Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false

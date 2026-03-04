@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Children's Show Appearance Release Form
+    pages:
+    - id: 1
+      name: child_information
+      label: Child Information
+      hint: Please provide the child's details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: child_full_name
+      label: Child's Full Name
+      hint: Legal name as it appears on birth certificate
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_nickname
+      label: Child's Nickname or Stage Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: child_date_of_birth
+      label: Child's Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: child_age
+      label: Child's Current Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: child_address
+      label: Child's Home Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: parent_guardian_information
+      label: Parent or Guardian Information
+      hint: Legal guardian contact details
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: parent_first_name
+      label: Parent or Guardian First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: parent_last_name
+      label: Parent or Guardian Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: parent_email
+      label: Parent or Guardian Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: parent_phone
+      label: Parent or Guardian Phone
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: alternate_contact
+      label: Alternate Contact Phone
+      hint: Secondary emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: show_information
+      label: Show Information
+      hint: Details about the production
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: show_name
+      label: Name of Show or Production
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: production_company
+      label: Production Company or Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: performance_dates
+      label: Performance Dates
+      hint: Expected dates of participation
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: media_release
+      label: Media Release Authorization
+      hint: Permission for use of child's image and likeness
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: photo_permission
+      label: I grant permission for photographs of my child to be taken
+      hint: For promotional and archival purposes
+      type: select_one
+      options:
+      - Yes, I grant permission
+      - No, I do not grant permission
+      required: true
+    - id: 19
+      name: video_permission
+      label: I grant permission for video recordings of my child
+      hint: For promotional, social media, and archival use
+      type: select_one
+      options:
+      - Yes, I grant permission
+      - No, I do not grant permission
+      required: true
+    - id: 20
+      name: audio_permission
+      label: I grant permission for audio recordings of my child's voice
+      hint: null
+      type: select_one
+      options:
+      - Yes, I grant permission
+      - No, I do not grant permission
+      required: true
+    - id: 21
+      name: media_usage_scope
+      label: Approved Media Usage
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Social Media
+      - Website
+      - Print Materials
+      - Press Releases
+      - Internal Archives
+      - Educational Purposes
+      required: true
+    - id: 22
+      name: compensation_terms
+      label: Compensation Agreement
+      hint: Understanding of payment or volunteer status
+      type: select_one
+      options:
+      - This is a volunteer position with no compensation
+      - Compensation will be provided as per separate agreement
+      - Stipend or honorarium will be provided
+      required: true
+    - id: 23
+      name: liability_waiver
+      label: Liability Waiver
+      hint: I understand and accept the risks associated with participation
+      type: select_one
+      options:
+      - Yes, I accept and waive liability
+      - No, I do not accept
+      required: true
+    - id: 24
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments or Concerns
+      hint: Any special considerations we should know
+      type: text
+      options: []
+      required: false

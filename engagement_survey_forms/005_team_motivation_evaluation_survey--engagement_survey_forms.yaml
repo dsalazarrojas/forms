@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Motivation Evaluation Survey
+    pages:
+    - id: 1
+      name: intro
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: morale
+      label: team_morale
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: recognition
+      label: team_recognition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: communication
+      label: team_communication
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: workload
+      label: team_workload
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: manager_support
+      label: manager_support
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: team_lead_support
+      label: team_lead_support
+      hint: null
+      type: select_one
+      options:
+      - Team Lead
+      - HR
+      - Manager
+      - Other
+      required: false
+    - id: 8
+      name: employee_engagement
+      label: employee_engagement
+      hint: null
+      type: select_multiple
+      options:
+      - Highly Engaged
+      - Somewhat Engaged
+      - Not Engaged
+      - No Engagement
+      required: true
+    - id: 9
+      name: work_life_balance
+      label: work_life_balance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: recognition_important
+      label: recognition_important
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: team_morale_level
+      label: team_morale_level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 12
+      name: team_recognition_level
+      label: team_recognition_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 13
+      name: team_communication_level
+      label: team_communication_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 14
+      name: team_support_level
+      label: team_support_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 15
+      name: manager_support_level
+      label: manager_support_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 16
+      name: team_lead_support_level
+      label: team_lead_support_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 17
+      name: workload_level
+      label: workload_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 18
+      name: employee_satisfaction
+      label: employee_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: team_satisfaction
+      label: team_satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 20
+      name: team_satisfaction_level
+      label: team_satisfaction_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 21
+      name: recognition_level
+      label: recognition_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 22
+      name: manager_satisfaction
+      label: manager_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: team_lead_satisfaction
+      label: team_lead_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: workload_frequency
+      label: workload_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 25
+      name: workload_impact
+      label: workload_impact
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: true

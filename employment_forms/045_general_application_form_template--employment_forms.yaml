@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: General Application Form Template
+    pages:
+    - id: 1
+      name: application_form
+      label: Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: position_sought
+      label: Position Sought
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_no
+      label: Contact No
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: cover_letter
+      label: Cover Letter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: skills
+      label: Skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: education
+      label: Education
+      hint: null
+      type: text
+      options: []
+      required: false

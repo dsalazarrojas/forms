@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Training Assessment Form
+    pages:
+    - id: 1
+      name: training_assessment_form_participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: training_assessment_form_training_info
+      label: Training Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: training_assessment_form_assessment_questions
+      label: Assessment Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: training_assessment_form_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: training_assessment_form_rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: training_assessment_form_recommendations
+      label: Recommendations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: training_assessment_form_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: training_assessment_form_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

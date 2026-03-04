@@ -1,0 +1,99 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Adult Interaction Feedback Form
+    pages:
+    - id: 1
+      name: session_information
+      label: -- Session Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant name
+      hint: Optional for anonymous feedback
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_date
+      label: Session date
+      hint: Date of interaction
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: facilitator_name
+      label: Facilitator or staff name
+      hint: Who interacted with participant
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: quality_of_interaction
+      label: Quality of interaction
+      hint: Rate the overall quality
+      type: select_one
+      options:
+      - Very poor
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: true
+    - id: 6
+      name: communication_clarity
+      label: Communication clarity
+      hint: Was information clear and helpful
+      type: select_one
+      options:
+      - Not clear
+      - Somewhat clear
+      - Clear
+      - Very clear
+      required: true
+    - id: 7
+      name: suggestions_for_improvement
+      label: Suggestions for improvement
+      hint: Provide suggestions to improve interactions
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: recommend_service
+      label: Would you recommend this service
+      hint: Select yes or no
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 9
+      name: additional_comments
+      label: Additional comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_requested
+      label: Follow up requested
+      hint: Check yes to request follow up
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: false

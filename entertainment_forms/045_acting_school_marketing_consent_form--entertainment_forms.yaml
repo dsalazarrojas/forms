@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Acting School Marketing Consent Form
+    pages:
+    - id: 1
+      name: consent_header
+      label: -- Marketing consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student name
+      hint: Full name of student or guardian
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guardian_name
+      label: Guardian name
+      hint: Required if student is a minor
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: Email for marketing consent confirmation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: Optional contact phone
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: consent_for_photos
+      label: Consent for photos
+      hint: Allow use of photos in marketing materials
+      type: select_one
+      options:
+      - Yes allow use
+      - Do not allow
+      required: true
+    - id: 7
+      name: consent_for_video
+      label: Consent for video
+      hint: Allow use of video recordings in marketing
+      type: select_one
+      options:
+      - Yes allow use
+      - Do not allow
+      required: true
+    - id: 8
+      name: duration_of_consent
+      label: Duration of consent
+      hint: Time period consent is valid
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: usage_scope
+      label: Usage scope
+      hint: Where materials may be used
+      type: select_multiple
+      options:
+      - Website
+      - Social media
+      - Print materials
+      - Advertising
+      required: false
+    - id: 10
+      name: revocation_process
+      label: Revocation process
+      hint: How to revoke consent if needed
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: signature
+      label: Signature
+      hint: Type full name as consent signature
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: date_signed
+      label: Date signed
+      hint: Date consent was provided
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: additional_notes
+      label: Additional notes
+      hint: Any specific conditions or notes
+      type: text
+      options: []
+      required: false

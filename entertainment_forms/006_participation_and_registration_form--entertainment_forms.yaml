@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Participation And Registration Form
+    pages:
+    - id: 1
+      name: event_participation
+      label: Event Participation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: fundraising
+      label: Fundraising
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: past_experience
+      label: Past Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''I accept''}'
+      - '{''id'': 2, ''label'': ''I decline''}'
+      - '{''id'': 3, ''label'': ''Maybe''}'
+      required: true
+    - id: 7
+      name: confirm_terms
+      label: Confirm Terms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Accepted''}'
+      - '{''id'': 2, ''label'': ''Not Accepted''}'
+      - '{''id'': 3, ''label'': ''Not Provided''}'
+      required: true
+    - id: 8
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: text
+      options: []
+      required: false

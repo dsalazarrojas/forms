@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Film Production Intake Form
+    pages:
+    - id: 1
+      name: film_project_info
+      label: Film Project Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: production_company_info
+      label: Production Company Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: crew_info
+      label: Crew Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: budget_info
+      label: Budget Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: location_info
+      label: Location Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: production_equipment
+      label: Production Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: crew_schedule
+      label: Crew Schedule
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: production_services
+      label: Production Services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: project_files
+      label: Project Files
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

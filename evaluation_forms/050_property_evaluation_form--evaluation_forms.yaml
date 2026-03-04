@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Evaluation Form
+    pages:
+    - id: 1
+      name: property_location
+      label: Property Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_type
+      label: Property Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_size
+      label: Property Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: property_use
+      label: Property Use
+      hint: null
+      type: select_one
+      options:
+      - Apartment
+      - Condominium
+      - Single Family
+      - Townhouse
+      - Vacation
+      required: false
+    - id: 5
+      name: property_condition
+      label: Property Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Fair
+      - Poor
+      - Average
+      - Good
+      - Excellent
+      required: false
+    - id: 6
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - For Sale
+      - Leased
+      - Owned
+      - Pending
+      - Under Contract
+      - Other
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: inspection_finding
+      label: Inspection Finding
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: property_value
+      label: Property Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: property_value_range
+      label: Property Value Range
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 13
+      name: property_details
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: inspector_license
+      label: Inspector License
+      hint: null
+      type: text
+      options: []
+      required: false

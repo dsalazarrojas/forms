@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: spring-festival-vendor-registration-form
+    pages:
+    - id: 1
+      name: general
+      label: General Information
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: vendor_application
+      label: Vendor-Application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: e_signature
+      label: E-Signature
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''I accept the terms and conditions'', ''value'':
+        ''1''}'
+      - '{''id'': 2, ''label'': ''I do not accept the terms and conditions'', ''value'':
+        ''2''}'
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact-Info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Email'', ''value'': ''email''}'
+      - '{''id'': 2, ''label'': ''Phone'', ''value'': ''phone''}'
+      - '{''id'': 3, ''label'': ''Both'', ''value'': ''both''}'
+      - '{''id'': 4, ''label'': ''Other (please specify)'', ''value'': ''other'',
+        ''options'': []}'
+      required: false
+    - id: 5
+      name: contact_info_other
+      label: Contact-Info-Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: e_signature_confirm
+      label: E-Signature-Confirm
+      hint: null
+      type: date
+      options: []
+      required: false

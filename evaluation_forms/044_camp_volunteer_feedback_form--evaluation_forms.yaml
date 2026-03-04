@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Volunteer Feedback Form
+    pages:
+    - id: 1
+      name: volunteer_feedback_intro_header
+      label: -- Volunteer Experience Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: feedback_volunteer_name
+      label: Volunteer Name (Optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback_role_position
+      label: Volunteer Role - Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: feedback_session_worked
+      label: Session(s) Worked
+      hint: null
+      type: select_multiple
+      options:
+      - Staff Training
+      - Session 1
+      - Session 2
+      - Session 3
+      - Specialty Camps
+      required: true
+    - id: 5
+      name: feedback_experience_rating
+      label: Rate your overall volunteer experience
+      hint: 1 (Poor) to 5 (Excellent)
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: ratings_section_volunteer
+      label: -- Detailed Program Ratings --
+      hint: Rate the following aspects of your service
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: rating_staff_support_vol
+      label: Support and Guidance from Staff
+      hint: null
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 8
+      name: rating_training_effectiveness_vol
+      label: Effectiveness of Orientation - Training
+      hint: null
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 9
+      name: rating_resource_availability_vol
+      label: Availability of Necessary Supplies - Resources
+      hint: null
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 10
+      name: most_meaningful_moment_vol
+      label: What was the most meaningful part of your experience?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: most_challenging_part_vol
+      label: What was the most challenging part of your role?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: suggestion_improvement_vol
+      label: Suggestions for Improving the Volunteer Program
+      hint: How can we better support our volunteers?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: return_next_year_vol
+      label: Would you like to volunteer with us again?
+      hint: null
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Maybe
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 14
+      name: volunteer_hours_verification
+      label: Estimated Total Volunteer Hours Served
+      hint: For your service records
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: feedback_submission_date_vol
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: true

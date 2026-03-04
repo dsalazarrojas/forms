@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Ethics Committee Workshop Evaluation Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: workshop_topic
+      label: workshop_topic
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
+      required: false
+    - id: 3
+      name: evaluation_form
+      label: Evaluation Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: workshop_attendees
+      label: Workshop Attendees
+      hint: List all attendees
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: workshop_facilitators
+      label: Workshop Facilitators
+      hint: List all facilitators
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: evaluation_form_2
+      label: Evaluation Form 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: evaluation_form_3
+      label: Evaluation Form 3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: workshop_length
+      label: Workshop Length
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: total_hours
+      label: Total Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: session1_attendance
+      label: Session 1 Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: session2_attendance
+      label: Session 2 Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: session3_attendance
+      label: Session 3 Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: total_attendance
+      label: Total Attendance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: workshop_fees
+      label: Workshop Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: evaluation_form_4
+      label: Evaluation Form 4
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: workshop_satisfaction
+      label: Workshop Satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: workshop_recommendation
+      label: Workshop Recommendation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

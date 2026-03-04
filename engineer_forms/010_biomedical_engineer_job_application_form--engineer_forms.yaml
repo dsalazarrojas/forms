@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Biomedical Engineer Job Application Form
+    pages:
+    - id: 1
+      name: job_app_header
+      label: -- Job Application --
+      hint: Complete all required fields for consideration
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: Email used for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact phone
+      hint: Mobile or daytime phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: position_applied_for
+      label: Position applied for
+      hint: Job title or reference number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: desired_start_date
+      label: Desired start date
+      hint: When you would be available to start
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: desired_salary
+      label: Desired salary
+      hint: Annual salary expectation in your currency
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: eligibility_to_work
+      label: Eligibility to work
+      hint: Are you eligible to work in the country
+      type: select_one
+      options:
+      - true
+      - false
+      - Need sponsorship
+      required: true
+    - id: 9
+      name: references
+      label: References
+      hint: Provide two professional references with contact details
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: additional_information
+      label: Additional information
+      hint: Any other information relevant to your application
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: resume_upload_note
+      label: Resume upload
+      hint: Upload your resume through the portal or provide a link
+      type: note
+      options: []
+      required: true

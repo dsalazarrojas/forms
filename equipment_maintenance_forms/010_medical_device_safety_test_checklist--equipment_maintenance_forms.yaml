@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: medical_device_safety_test_checklist
+    pages:
+    - id: 1
+      name: medical_device_info
+      label: medical_device_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: serial_number
+      label: medical_device_serial_number
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: last_inspection_date
+      label: last_inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: next_due_date
+      label: next_due_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: next_calibration_date
+      label: next_calibration_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: calibration_frequency
+      label: calibration_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: calibration_status
+      label: calibration_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''On Schedule''}'
+      - '{''id'': 2, ''value'': ''Past Due''}'
+      - '{''id'': 3, ''value'': ''Never Due''}'
+      required: false
+    - id: 8
+      name: inspection_result
+      label: inspection_result
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Passed''}'
+      - '{''id'': 2, ''value'': ''Failed''}'
+      - '{''id'': 3, ''value'': ''Deferred''}'
+      - '{''id'': 4, ''value'': ''Pending''}'
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: photos
+      label: photos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: facility
+      label: facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_device_safety_manager
+      label: medical_device_safety_manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_device_safety_technician
+      label: medical_device_safety_technician
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: service_technician
+      label: service_technician
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medical_device_description
+      label: medical_device_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_device_model
+      label: medical_device_model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: medical_device_manufacturer
+      label: medical_device_manufacturer
+      hint: null
+      type: text
+      options: []
+      required: false

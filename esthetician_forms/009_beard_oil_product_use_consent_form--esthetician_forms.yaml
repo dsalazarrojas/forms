@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beard Oil Product Use Consent Form
+    pages:
+    - id: 1
+      name: client_info_header
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: service_date
+      label: Service Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: health_header
+      label: -- Health and Allergy History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: known_allergies
+      label: Known Allergies
+      hint: List any allergies you have
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: fragrance_sensitivity
+      label: Sensitivity to Fragrances
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Mild
+      - Moderate
+      - Severe
+      required: true
+    - id: 9
+      name: skin_conditions
+      label: Current Skin Conditions
+      hint: Dermatitis, psoriasis, eczema, etc.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: previous_oil_reactions
+      label: Previous Reactions to Beard Oils
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: reaction_details
+      label: Describe Previous Reaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medications
+      label: Current Medications Affecting Skin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: product_header
+      label: -- Product Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: product_name
+      label: Beard Oil Product Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: product_ingredients
+      label: I have reviewed the product ingredients
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: understood_benefits
+      label: I understand the benefits and uses
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: consent_header
+      label: -- Consent and Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: consent_to_use
+      label: I consent to the use of this beard oil product
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: acknowledge_risks
+      label: I acknowledge potential side effects
+      hint: Irritation, allergic reaction, or discomfort
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: patch_test_done
+      label: Patch test was performed before application
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: follow_instructions
+      label: I agree to follow care and usage instructions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: signature_date
+      label: Signature and Date
+      hint: By typing here you provide consent
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: signature_confirmation_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true

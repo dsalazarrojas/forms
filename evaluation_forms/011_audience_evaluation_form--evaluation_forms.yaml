@@ -1,0 +1,141 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Audience Evaluation Form
+    pages:
+      - id: 1
+        name: event_info_section
+        label: -- Event Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: event_name
+        label: Name of Event
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: event_date
+        label: Date of Event
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: presenter_name
+        label: Speaker or Performer Name
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: evaluation_section
+        label: -- Performance Evaluation --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: overall_satisfaction
+        label: Overall Satisfaction
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 7
+        name: content_relevance
+        label: Was the content relevant to you?
+        hint: null
+        type: select_one
+        options:
+          - Extremely Relevant
+          - Somewhat Relevant
+          - Not Very Relevant
+          - Not Relevant at All
+        required: true
+      - id: 8
+        name: engagement_level
+        label: How engaging was the session?
+        hint: null
+        type: select_one
+        options:
+          - 5 - Very Engaging
+          - 4 - Engaging
+          - 3 - Average
+          - 2 - Unengaging
+          - 1 - Very Boring
+        required: true
+      - id: 9
+        name: av_quality
+        label: Audio and Visual Quality
+        hint: Could you see and hear everything clearly?
+        type: select_one
+        options:
+          - Perfect
+          - Acceptable
+          - Needs Improvement
+        required: true
+      - id: 10
+        name: feedback_section
+        label: -- Detailed Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: most_useful_part
+        label: What was the most useful part of the event?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: least_useful_part
+        label: What was the least useful part?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: improvement_suggestions
+        label: How can we improve this event in the future?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: future_topics
+        label: What other topics would you be interested in?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: recommend_event
+        label: Would you recommend this event to others?
+        hint: null
+        type: select_one
+        options:
+          - Yes, definitely
+          - Maybe
+          - No
+        required: true

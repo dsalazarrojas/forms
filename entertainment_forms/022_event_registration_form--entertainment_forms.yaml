@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Registration Form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: organizer_name
+      label: Organizer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: registration_type
+      label: Registration Type
+      hint: null
+      type: select_one
+      options:
+      - Event Registration
+      - In-Person Registration
+      - Both
+      required: true
+    - id: 8
+      name: event_status
+      label: Event Status
+      hint: null
+      type: select_multiple
+      options:
+      - Open
+      - Closed
+      - Pending
+      required: true
+    - id: 9
+      name: registration_status
+      label: Registration Status
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Declined
+      - Pending
+      required: true
+    - id: 10
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: attendee_email
+      label: Attendee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: attendee_phone
+      label: Attendee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: attendee_address
+      label: Attendee Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: attendee_notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: event_image
+      label: Event Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: event_image_alt
+      label: Event Image Alt
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: event_image_width
+      label: Event Image Width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: event_image_height
+      label: Event Image Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: event_image_size
+      label: Event Image Size
+      hint: null
+      type: select_one
+      options:
+      - 1x
+      - 2x
+      - 3x
+      required: true
+    - id: 20
+      name: attendee_image
+      label: Attendee Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: attendee_image_alt
+      label: Attendee Image Alt
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: attendee_image_width
+      label: Attendee Image Width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: attendee_image_height
+      label: Attendee Image Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: attendee_image_size
+      label: Attendee Image Size
+      hint: null
+      type: select_one
+      options:
+      - 1x
+      - 2x
+      - 3x
+      required: true
+    - id: 25
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false

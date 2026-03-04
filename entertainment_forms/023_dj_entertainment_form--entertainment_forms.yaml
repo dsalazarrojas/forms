@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: DJ Entertainment Form
+    pages:
+    - id: 1
+      name: dj_name
+      label: DJ Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: event_duration
+      label: Event Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Wedding
+      - Birthday
+      - Corporate
+      required: false
+    - id: 9
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false

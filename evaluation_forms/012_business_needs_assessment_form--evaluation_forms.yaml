@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Needs Assessment Form
+    pages:
+    - id: 1
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of this assessment
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: assessor_name
+      label: Assessor Name
+      hint: Person conducting the assessment
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: assessor_title
+      label: Assessor Title
+      hint: Position or role
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Organization being assessed
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - Small (1-50)
+      - Medium (51-250)
+      - Large (251-1000)
+      - Enterprise (1000+)
+      required: true
+    - id: 6
+      name: primary_industry
+      label: Primary Industry
+      hint: Main business sector
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: assessment_focus
+      label: Assessment Focus Area
+      hint: What is being evaluated?
+      type: select_one
+      options:
+      - Operations
+      - Technology
+      - Finance
+      - Human Resources
+      - Marketing
+      - Customer Service
+      - Overall Business
+      required: true
+    - id: 8
+      name: organizational_structure_assessment
+      label: Organizational Structure Assessment
+      hint: Rate clarity of roles and responsibilities (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: communication_effectiveness
+      label: Communication Effectiveness
+      hint: Rate internal communication quality (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: process_documentation
+      label: Process Documentation
+      hint: Rate documentation completeness (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: technology_infrastructure
+      label: Technology Infrastructure
+      hint: Rate technology adequacy (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: employee_skills_assessment
+      label: Employee Skills Assessment
+      hint: Rate employee capability (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: financial_management
+      label: Financial Management
+      hint: Rate financial controls (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: customer_satisfaction
+      label: Customer Satisfaction
+      hint: Rate customer satisfaction level (1-5)
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: competitive_position
+      label: Competitive Position
+      hint: Rate competitive strength (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: primary_strengths
+      label: Primary Business Strengths
+      hint: Identify main strengths
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: primary_weaknesses
+      label: Primary Business Weaknesses
+      hint: Identify main weaknesses
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: immediate_needs
+      label: Immediate Needs
+      hint: What needs urgent attention?
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: resource_requirements
+      label: Resource Requirements
+      hint: What resources are needed?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: timeline_for_improvement
+      label: Timeline for Improvement
+      hint: Suggested improvement timeline
+      type: select_one
+      options:
+      - 0-3 months
+      - 3-6 months
+      - 6-12 months
+      - 12+ months
+      required: false
+    - id: 21
+      name: recommended_actions
+      label: Recommended Actions
+      hint: Specific recommendations
+      type: text
+      options: []
+      required: true

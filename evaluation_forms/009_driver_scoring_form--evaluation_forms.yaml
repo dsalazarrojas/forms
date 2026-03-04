@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: driver_scoring_form
+    pages:
+    - id: 1
+      name: test_result
+      label: Test Result
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: evaluation
+      label: Evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: trainee_name
+      label: Trainee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: test_date
+      label: Test Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_form
+      label: Evaluation Form
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

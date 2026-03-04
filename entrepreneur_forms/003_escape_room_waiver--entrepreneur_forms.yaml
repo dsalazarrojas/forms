@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Escape Room Waiver
+    pages:
+    - id: 1
+      name: escape_room_waiver
+      label: Waiver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_participation
+      label: date_of_participation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time_of_participation
+      label: time_of_participation
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_name
+      label: emergency_contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_relationship
+      label: emergency_contact_relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Parent/Guardian'', ''value'': ''Parent/Guardian''}'
+      - '{''id'': 2, ''label'': ''Spouse'', ''value'': ''Spouse''}'
+      - '{''id'': 3, ''label'': ''Emergency Contact'', ''value'': ''Emergency Contact''}'
+      required: true
+    - id: 9
+      name: medical_conditions
+      label: medical_conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_device
+      label: medical_device
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: allergy
+      label: allergy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: insurance
+      label: insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: insurance_provider
+      label: insurance_provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_phone
+      label: emergency_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_relationship_type
+      label: emergency_contact_relationship_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Child'', ''value'': ''Child''}'
+      - '{''id'': 2, ''label'': ''Spouse'', ''value'': ''Spouse''}'
+      - '{''id'': 3, ''label'': ''Parent/Guardian'', ''value'': ''Parent/Guardian''}'
+      - '{''id'': 4, ''label'': ''Emergency Contact'', ''value'': ''Emergency Contact''}'
+      required: true
+    - id: 16
+      name: emergency_contact_address
+      label: emergency_contact_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_city
+      label: emergency_contact_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact_state
+      label: emergency_contact_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_zip
+      label: emergency_contact_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: participant_signature
+      label: participant_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: participant_date_signed
+      label: participant_date_signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: participant_time_signed
+      label: participant_time_signed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: employee_signature
+      label: employee_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_form
+      label: assigned_form
+      hint: null
+      type: text
+      options: []
+      required: false

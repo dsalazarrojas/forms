@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Drone Risk Assessment Form
+    pages:
+    - id: 1
+      name: drone_risk_assessment_form
+      label: Drone Risk Assessment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: risk_level
+      label: risk_level
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 3
+      name: risk_category
+      label: Risk Category
+      hint: null
+      type: select_one
+      options:
+      - Collision
+      - Fire
+      - Crash
+      - Other
+      required: false
+    - id: 4
+      name: risk_description
+      label: Risk Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: risk_prevention_measures
+      label: Risk Prevention Measures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: recommended_actions
+      label: Recommended Actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: drone_model
+      label: Drone Model
+      hint: null
+      type: select_one
+      options:
+      - Mavic 2
+      - Mavic Air
+      - Spark
+      - Other
+      required: false
+    - id: 8
+      name: drone_weight
+      label: Drone Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: drone_size
+      label: Drone Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 10
+      name: drone_type
+      label: Drone Type
+      hint: null
+      type: select_one
+      options:
+      - Fixed Wing
+      - Rotor
+      - Hybrid
+      - Other
+      required: false
+    - id: 11
+      name: battery_capacity
+      label: Battery Capacity
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 12
+      name: battery_type
+      label: Battery Type
+      hint: null
+      type: select_one
+      options:
+      - LiPo
+      - NiMH
+      - Other
+      required: false
+    - id: 13
+      name: battery_weight
+      label: Battery Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: drone_warranty
+      label: Drone Warranty
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

@@ -1,0 +1,242 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Clinical Safety Education Program Evaluation
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: Full name of attendee
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_role
+      label: Your Role in Healthcare
+      hint: Position or department
+      type: select_one
+      options:
+      - Physician
+      - Nurse
+      - Technician
+      - Administrator
+      - Support Staff
+      - Other
+      required: true
+    - id: 3
+      name: program_date
+      label: Program Date Attended
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: program_title
+      label: Safety Program Topic
+      hint: Name of the training attended
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_content
+      label: -- Program Content Evaluation --
+      hint: Please rate the content quality
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: content_clarity
+      label: The program content was clear and well-organized
+      hint: null
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 7
+      name: content_relevance
+      label: The material was relevant to my work
+      hint: null
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 8
+      name: content_depth
+      label: The program covered the topic in appropriate depth
+      hint: null
+      type: select_one
+      options:
+      - Too basic
+      - Just right
+      - Too advanced
+      - Mixed depth
+      required: true
+    - id: 9
+      name: section_instructor
+      label: -- Instructor Evaluation --
+      hint: Please rate the instructor
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: instructor_knowledge
+      label: The instructor demonstrated thorough knowledge
+      hint: null
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 11
+      name: instructor_communication
+      label: The instructor communicated effectively
+      hint: null
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 12
+      name: instructor_engagement
+      label: The instructor kept participants engaged
+      hint: null
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 13
+      name: section_delivery
+      label: -- Program Delivery --
+      hint: Feedback on logistics and format
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: delivery_format
+      label: The delivery method was appropriate
+      hint: In-person, virtual, hybrid, etc.
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 15
+      name: program_duration
+      label: The program duration was adequate
+      hint: null
+      type: select_one
+      options:
+      - Too short
+      - Just right
+      - Too long
+      required: true
+    - id: 16
+      name: learning_outcome
+      label: I will apply what I learned to improve patient safety
+      hint: null
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 17
+      name: section_feedback
+      label: -- Additional Feedback --
+      hint: Share your detailed thoughts
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: most_valuable
+      label: What was the most valuable aspect of this program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: improvement_suggestions
+      label: What could be improved in future programs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: recommend_topics
+      label: Which safety topics should be covered in future training
+      hint: null
+      type: select_multiple
+      options:
+      - Patient identification
+      - Infection control
+      - Emergency procedures
+      - Equipment safety
+      - Communication protocols
+      - Medication safety
+      - Documentation
+      - Other
+      required: false
+    - id: 21
+      name: recommend_others
+      label: I would recommend this program to colleagues
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Probably yes
+      - Not sure
+      - Probably not
+      - Definitely not
+      required: true
+    - id: 22
+      name: follow_up_support
+      label: Would you like additional resources or follow-up support
+      hint: null
+      type: select_one
+      options:
+      - Yes, very much
+      - Somewhat
+      - Not sure
+      - No, not needed
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional comments or suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

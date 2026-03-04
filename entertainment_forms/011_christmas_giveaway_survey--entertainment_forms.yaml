@@ -1,0 +1,248 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Giveaway Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Full Name
+        hint: Optional - your name
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: email_address
+        label: Email Address
+        hint: For survey results notification
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: age_group
+        label: Age Group
+        hint: Select your age range
+        type: select_one
+        options:
+          - Under 18
+          - 18-24
+          - 25-34
+          - 35-44
+          - 45-54
+          - 55-64
+          - 65 or older
+        required: true
+      - id: 4
+        name: location
+        label: Location
+        hint: City or region
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: section_respondent_info
+        label: -- Respondent Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: participated_giveaway
+        label: Have You Participated Before
+        hint: Have you joined our giveaways before
+        type: select_one
+        options:
+          - Yes multiple times
+          - Yes once
+          - No this is my first time
+          - No but I have with others
+        required: true
+      - id: 7
+        name: prize_interest
+        label: Prize Interest Level
+        hint: How interested are you in giveaways
+        type: select_one
+        options:
+          - Very interested
+          - Somewhat interested
+          - Neutral
+          - Not very interested
+          - Not interested at all
+        required: true
+      - id: 8
+        name: preferred_prize_types
+        label: Preferred Prize Types
+        hint: What prizes interest you most
+        type: select_multiple
+        options:
+          - Cash
+          - Gift Cards
+          - Electronics
+          - Home Goods
+          - Travel Vouchers
+          - Experiences
+          - Products
+          - Charity Donations
+        required: true
+      - id: 9
+        name: section_preferences
+        label: -- Prize Preferences --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: prize_value_preference
+        label: Preferred Prize Value
+        hint: What prize range do you prefer
+        type: select_one
+        options:
+          - Many small prizes under 50
+          - Medium prizes 50-200
+          - Large prizes 200-500
+          - Grand prizes over 500
+          - No preference
+        required: true
+      - id: 11
+        name: entry_method_preference
+        label: Preferred Entry Method
+        hint: How do you prefer to enter
+        type: select_one
+        options:
+          - Simple online form
+          - Social media share
+          - Purchase required
+          - Referral based
+          - Email signup
+          - In-person
+        required: true
+      - id: 12
+        name: giveaway_frequency
+        label: Ideal Giveaway Frequency
+        hint: How often should we run giveaways
+        type: select_one
+        options:
+          - Weekly
+          - Bi-weekly
+          - Monthly
+          - Quarterly
+          - Only during holidays
+          - Rarely
+        required: true
+      - id: 13
+        name: section_participation
+        label: -- Participation --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: motivation_to_enter
+        label: What Motivates You to Enter
+        hint: Why do you participate in giveaways
+        type: select_multiple
+        options:
+          - Win prizes
+          - Fun and excitement
+          - Discover new products
+          - Support the brand
+          - Social engagement
+          - FOMO fear of missing out
+          - Habit
+        required: true
+      - id: 15
+        name: barriers_to_entry
+        label: Barriers That Stop You
+        hint: What stops you from entering
+        type: select_multiple
+        options:
+          - Too complicated
+          - Too much time required
+          - Privacy concerns
+          - Do not trust giveaways
+          - Never win anyway
+          - Not interested in prizes
+          - Nothing stops me
+        required: false
+      - id: 16
+        name: trust_factors
+        label: What Makes You Trust a Giveaway
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Clear rules and terms
+          - Past winner announcements
+          - Known brand or company
+          - Third-party verification
+          - No purchase necessary
+          - Privacy protection
+          - Customer reviews
+        required: true
+      - id: 17
+        name: section_feedback
+        label: -- Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: notification_preference
+        label: Winner Notification Preference
+        hint: How should winners be notified
+        type: select_one
+        options:
+          - Email
+          - Phone call
+          - Text message
+          - Social media DM
+          - Public announcement
+          - Any method works
+        required: true
+      - id: 19
+        name: winner_announcement
+        label: Public Winner Announcement
+        hint: Should winners be announced publicly
+        type: select_one
+        options:
+          - Yes full name and photo
+          - Yes first name only
+          - Yes but anonymous
+          - No keep private
+          - No preference
+        required: true
+      - id: 20
+        name: improvement_suggestions
+        label: How Can We Improve
+        hint: Your suggestions for better giveaways
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: favorite_giveaway_experience
+        label: Favorite Giveaway Experience
+        hint: Share a positive experience
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: would_recommend
+        label: Would You Recommend Us
+        hint: Would you tell others about our giveaways
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Maybe
+          - Probably not
+          - Definitely not
+        required: true

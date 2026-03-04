@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Application Declaration Form
+    pages:
+    - id: 1
+      name: job_application_declaration_form
+      label: Job Application Declaration Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: job_applicant
+      label: Job Applicant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: job_category
+      label: Job Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Management'', ''value'': ''management''}'
+      - '{''id'': 2, ''label'': ''Engineering'', ''value'': ''engineering''}'
+      - '{''id'': 3, ''label'': ''Sales'', ''value'': ''sales''}'
+      required: true
+    - id: 8
+      name: job_level
+      label: Job Level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Intern'', ''value'': ''intern''}'
+      - '{''id'': 2, ''label'': ''Full-time'', ''value'': ''fulltime''}'
+      - '{''id'': 3, ''label'': ''Part-time'', ''value'': ''parttime''}'
+      required: true
+    - id: 9
+      name: job_location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Local'', ''value'': ''local''}'
+      - '{''id'': 2, ''label'': ''Remote'', ''value'': ''remote''}'
+      required: true
+    - id: 10
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Contract'', ''value'': ''contract''}'
+      - '{''id'': 2, ''label'': ''Permanent'', ''value'': ''permanent''}'
+      required: true
+    - id: 11
+      name: job_status
+      label: Job Status
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: job_start_date
+      label: Job Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: job_end_date
+      label: Job End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: resume
+      label: Resume
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 15
+      name: references
+      label: References
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 16
+      name: job_application_comments
+      label: Job Application Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: job_application_attachment
+      label: Job Application Attachment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: job_application_status
+      label: Job Application Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Applied'', ''value'': ''applied''}'
+      - '{''id'': 2, ''label'': ''In Progress'', ''value'': ''in_progress''}'
+      required: true
+    - id: 19
+      name: job_rejection_reason
+      label: Job Rejection Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: job_acceptance_reason
+      label: Job Acceptance Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: job_application_declaration_form_comments
+      label: Job Application Declaration Form Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: job_application_declaration_form_attachment
+      label: Job Application Declaration Form Attachment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: job_application_declaration_form_status
+      label: Job Application Declaration Form Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Applied'', ''value'': ''applied''}'
+      - '{''id'': 2, ''label'': ''Accepted'', ''value'': ''accepted''}'
+      - '{''id'': 3, ''label'': ''Rejected'', ''value'': ''rejected''}'
+      required: true
+    - id: 24
+      name: job_application_declaration_form_comments
+      label: Job Application Declaration Form Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: job_application_declaration_form_attachment
+      label: Job Application Declaration Form Attachment
+      hint: null
+      type: text
+      options: []
+      required: true

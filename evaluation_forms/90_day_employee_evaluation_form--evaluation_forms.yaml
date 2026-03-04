@@ -1,0 +1,141 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 90 Day Employee Evaluation Form
+    pages:
+    - id: 1
+      name: section_header_evaluation
+      label: "--- 90-Day Employee Evaluation ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: position_title
+      label: Position / job title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: hire_date
+      label: Hire date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: evaluation_date
+      label: Evaluation date
+      hint: Date of this review
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: evaluator_name
+      label: Evaluator name
+      hint: Manager or HR representative
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: job_knowledge_score
+      label: Job knowledge (1-5)
+      hint: 5 = exceptional, 1 = needs improvement
+      type: integer
+      options: []
+      required: true
+    - id: 8
+      name: communication_score
+      label: Communication skills (1-5)
+      hint: null
+      type: integer
+      options: []
+      required: true
+    - id: 9
+      name: productivity_score
+      label: Productivity and output (1-5)
+      hint: null
+      type: integer
+      options: []
+      required: true
+    - id: 10
+      name: teamwork_score
+      label: Teamwork and collaboration (1-5)
+      hint: null
+      type: integer
+      options: []
+      required: true
+    - id: 11
+      name: punctuality_score
+      label: Attendance and punctuality (1-5)
+      hint: null
+      type: integer
+      options: []
+      required: true
+    - id: 12
+      name: overall_recommendation
+      label: Overall outcome recommendation
+      hint: Choose the most appropriate action
+      type: select_one
+      options:
+        - Continue employment
+        - Extend probation
+        - Terminate employment
+        - Redeploy to different role
+      required: true
+    - id: 13
+      name: strengths_summary
+      label: Key strengths observed
+      hint: Provide specific examples
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: areas_for_improvement
+      label: Areas needing improvement and plan
+      hint: Include recommended training or milestones
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: training_required
+      label: Recommended training or support
+      hint: Select all that apply
+      type: select_multiple
+      options:
+        - Onboarding refresh
+        - Technical skills training
+        - Communication coaching
+        - Time management workshop
+        - No additional training
+      required: false
+    - id: 16
+      name: evaluator_comments
+      label: Additional evaluator comments
+      hint: Anything else to document from the first 90 days
+      type: text
+      options: []
+      required: false

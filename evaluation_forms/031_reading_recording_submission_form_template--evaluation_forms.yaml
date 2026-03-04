@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: reading_recording_submission_form_template
+    pages:
+    - id: 1
+      name: student_id
+      label: Student Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: recording_link
+      label: Recording Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recording_quality
+      label: Recording Quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Pending Review
+      - Approved
+      - Rejected
+      - Completed
+      required: false
+    - id: 9
+      name: review_notes
+      label: Review Notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_selfcare_course_evaluation_form
+    pages:
+    - id: 1
+      name: form_header
+      label: online_selfcare_course_evaluation_form
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: course_name
+      label: course_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: course_instructor
+      label: course_instructor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: course_section
+      label: course_section
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: form_body
+      label: form_body
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: course_outcomes
+      label: course_outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: course_evaluation
+      label: course_evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_footer
+      label: form_footer
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: course_comments
+      label: course_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_comments
+      label: form_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: course_suggestions
+      label: course_suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: course_recommend
+      label: course_recommend
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Definitely Recommend'', ''value'': 1}'
+      - '{''label'': ''Maybe Recommend'', ''value'': 2}'
+      - '{''label'': ''Not Recommend'', ''value'': 3}'
+      required: false

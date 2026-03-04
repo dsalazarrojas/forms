@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Crawl Gallery Submission
+    pages:
+    - id: 1
+      name: section_gallery_info
+      label: -- Gallery Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: gallery_name
+      label: Gallery Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: gallery_address
+      label: Gallery Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: gallery_website
+      label: Gallery Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_crawl_info
+      label: -- Art Crawl Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: crawl_event_name
+      label: Art Crawl Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: crawl_date
+      label: Art Crawl Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: crawl_hours
+      label: Hours of Operation for Crawl
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_exhibit_details
+      label: -- Exhibit Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: exhibit_title
+      label: Exhibit Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: exhibit_description
+      label: Exhibit Description
+      hint: What will be displayed
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: featured_artists
+      label: Featured Artists
+      hint: Names of participating artists
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: exhibit_medium
+      label: Primary Medium or Art Form
+      hint: null
+      type: select_multiple
+      options:
+      - Painting
+      - Sculpture
+      - Photography
+      - Digital art
+      - Installation
+      - Performance
+      - Crafts
+      - Mixed media
+      required: true
+    - id: 17
+      name: section_logistics
+      label: -- Logistics and Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: floor_space
+      label: Floor Space Available
+      hint: Square feet
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: wall_space
+      label: Wall Space Available
+      hint: Linear feet
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: special_requirements
+      label: Any Special Display Requirements
+      hint: Lighting, climate control, security, etc.
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: parking_available
+      label: Parking Available for Visitors
+      hint: null
+      type: select_one
+      options:
+      - Yes - free
+      - Yes - paid
+      - Limited
+      - false
+      required: true
+    - id: 22
+      name: section_promotion
+      label: -- Promotion and Marketing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: promotional_materials
+      label: Will you provide promotional materials
+      hint: Postcards, posters, social media, etc.
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: social_media_handles
+      label: Gallery Social Media Handles
+      hint: For cross-promotion
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false

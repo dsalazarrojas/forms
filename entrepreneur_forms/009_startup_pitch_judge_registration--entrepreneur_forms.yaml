@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Startup Pitch Judge Registration
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: judge_details
+      label: Judge Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: expertise
+      label: Expertise
+      hint: 'Select areas of expertise (comma-separated):'
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: availability
+      label: Availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: availability_date
+      label: Availability Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: availability_time
+      label: Availability Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: availability_note
+      label: Availability Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: 'Format: email'
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

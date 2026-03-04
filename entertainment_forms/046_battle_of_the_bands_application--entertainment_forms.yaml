@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Battle Of The Bands Application
+    pages:
+    - id: 1
+      name: band_details_header
+      label: -- Band Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: band_name
+      label: Official Band Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: musical_genre
+      label: Primary Musical Genre
+      hint: e.g. Rock, Indie, Metal, Pop, Jazz
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: number_of_members
+      label: Number of Band Members
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: band_location
+      label: Hometown / Based In
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_person_header
+      label: -- Primary Contact --
+      hint: For all scheduling and logistics
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_name
+      label: Contact Person Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: online_presence_header
+      label: -- Music and Social Media --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: music_sample_link
+      label: Link to Music (Spotify, SoundCloud, YouTube)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: social_media_links
+      label: Social Media Handles
+      hint: Instagram, Facebook, TikTok
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: technical_needs_header
+      label: -- Technical Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: equipment_provided_by_band
+      label: List all equipment you will bring
+      hint: e.g. Amps, Drum kit (shells only), Pedals
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: stage_requirements
+      label: Specific stage or monitor requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: participation_agreement
+      label: We agree to the competition rules and performance schedule
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 17
+      name: submission_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: true

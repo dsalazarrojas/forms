@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Model Innovation Partner Contact Form
+    pages:
+    - id: 1
+      name: partner_company_name
+      label: Company Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: partner_contact_name
+      label: Contact Person Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: partner_title
+      label: Title/Position
+      hint: Job title or role
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: partner_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: partner_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: partner_website
+      label: Company Website
+      hint: URL of your website
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: company_industry
+      label: Industry
+      hint: Primary industry focus
+      type: select_one
+      options:
+      - Technology
+      - Services
+      - Consulting
+      - Finance
+      - Healthcare
+      - Manufacturing
+      - Other
+      required: true
+    - id: 8
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - Startup (1-10)
+      - Small (11-50)
+      - Medium (51-250)
+      - Large (251+)
+      required: true
+    - id: 9
+      name: partnership_interest_areas
+      label: Areas of Partnership Interest
+      hint: What can you contribute?
+      type: select_multiple
+      options:
+      - Technology Integration
+      - Market Access
+      - Capital/Funding
+      - Distribution Channel
+      - Content and IP
+      - Operations
+      - Strategy and Advisory
+      required: true
+    - id: 10
+      name: partnership_type
+      label: Type of Partnership Sought
+      hint: What partnership model interests you?
+      type: select_one
+      options:
+      - Joint Venture
+      - Strategic Alliance
+      - Licensing
+      - Co-development
+      - Investment
+      - Service Partnership
+      - Other
+      required: true
+    - id: 11
+      name: target_sectors
+      label: Target Sectors or Markets
+      hint: Industries or markets you serve
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: unique_value_proposition
+      label: Your Unique Value Proposition
+      hint: What do you bring to the table?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: project_proposal
+      label: Project or Partnership Proposal
+      hint: Describe your partnership vision
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: expected_outcomes
+      label: Expected Outcomes
+      hint: What success looks like
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: timeline_expectations
+      label: Timeline Expectations
+      hint: When do you envision this starting?
+      type: select_one
+      options:
+      - Immediate (0-3 months)
+      - Near-term (3-6 months)
+      - Medium-term (6-12 months)
+      - Long-term (12+ months)
+      required: false
+    - id: 16
+      name: budget_range
+      label: Budget or Investment Range
+      hint: If applicable, budget scope
+      type: select_one
+      options:
+      - Under $50,000
+      - $50,000 - $250,000
+      - $250,000 - $1,000,000
+      - Over $1,000,000
+      - Not Determined
+      required: false
+    - id: 17
+      name: company_credentials
+      label: Company Credentials or References
+      hint: Relevant experience or certifications
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we reach you?
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Video Call
+      - In-Person Meeting
+      required: true

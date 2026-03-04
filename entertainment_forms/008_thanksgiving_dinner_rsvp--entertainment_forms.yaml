@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: thanksgiving_dinner_rsvp
+    pages:
+    - id: 1
+      name: main
+      label: main
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attending_guests
+      label: attending_guests
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 3
+      name: num_guests_attending
+      label: num_guests_attending
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: num_guests_declined
+      label: num_guests_declined
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: guest_info
+      label: guest_info
+      hint: null
+      type: text
+      options: []
+      required: false

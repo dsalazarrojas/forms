@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Committee Meeting Evaluation Form
+    pages:
+    - id: 1
+      name: section_meeting_details
+      label: -- Meeting Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: committee_name_eval
+      label: Committee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: meeting_date_eval
+      label: Date of Meeting
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: evaluator_role
+      label: Your Role in the Committee
+      hint: null
+      type: select_one
+      options:
+      - Chair
+      - Vice-Chair
+      - Secretary
+      - Member
+      - Guest
+      required: true
+    - id: 5
+      name: section_meeting_org
+      label: -- Meeting Organization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: agenda_received_advance
+      label: Was the agenda received in advance
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: meeting_started_ended_on_time
+      label: Did the meeting start and end on time
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Partially
+      required: true
+    - id: 8
+      name: rate_meeting_prep
+      label: Rate the level of preparation for this meeting
+      hint: 1 (Poor) to 5 (Excellent)
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: section_content_discussion
+      label: -- Content and Discussion --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: agenda_topics_covered
+      label: Were all agenda topics covered adequately
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: participation_encouraged
+      label: Was active participation encouraged and respected
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 12
+      name: discussion_relevance
+      label: How relevant were the discussions to the committee goals
+      hint: 1 (Not relevant) to 5 (Highly relevant)
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: section_outcomes
+      label: -- Meeting Outcomes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: clear_action_items
+      label: Were clear action items identified and assigned
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: meeting_productivity
+      label: Rate the overall productivity of this meeting
+      hint: 1 (Not productive) to 5 (Very productive)
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: improvement_suggestions
+      label: Suggestions for improving future meetings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_needed
+      label: Is any immediate follow-up required from this evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: date_submitted_eval
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: true

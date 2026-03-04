@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: photo_by_city
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: city_name
+      label: city_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: photo_taken_date
+      label: photo_taken_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: photo_taken_time
+      label: photo_taken_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: photo_location
+      label: photo_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: tourist_fact
+      label: tourist_fact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: friend_name
+      label: friend_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: friend_email
+      label: friend_email
+      hint: null
+      type: email
+      options: []
+      required: false

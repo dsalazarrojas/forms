@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hyaluron Pen Consent Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: treatment_consent
+      label: Treatment Consent
+      hint: null
+      type: select_one
+      options:
+      - I consent to receiving hyaluronic pen treatment
+      - I do not consent to receiving hyaluronic pen treatment
+      required: true
+    - id: 7
+      name: allergic_reactions
+      label: Allergic Reactions
+      hint: List any known allergic reactions or medical conditions that you have
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medication_use
+      label: Medication Use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_procedure_consent
+      label: Medical Procedure Consent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: informed_decision
+      label: Informed Decision
+      hint: null
+      type: select_multiple
+      options:
+      - I have made an informed decision to receive hyaluronic pen treatment
+      - I have not made an informed decision to receive hyaluronic pen treatment
+      required: true
+    - id: 11
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: text
+      options: []
+      required: true

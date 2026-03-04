@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Foreign Conflict Awareness Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: Foreign Conflict Awareness Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: public_awareness
+      label: public_awareness
+      hint: null
+      type: select_one
+      options:
+      - Somewhat
+      - Not very much
+      - Not at all
+      required: false
+    - id: 3
+      name: information_sources
+      label: information_sources
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: news_sources
+      label: news_sources
+      hint: e.g. TV, social media, news websites
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: social_media
+      label: social_media
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: government
+      label: government
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: media_sources
+      label: media_sources
+      hint: e.g. books, documentaries, newsletters
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: social_media_sources
+      label: social_media_sources
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: perceptions
+      label: perceptions
+      hint: null
+      type: select_one
+      options:
+      - Very positive
+      - Somewhat positive
+      - Negative
+      required: false
+    - id: 10
+      name: perception_sources
+      label: perception_sources
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

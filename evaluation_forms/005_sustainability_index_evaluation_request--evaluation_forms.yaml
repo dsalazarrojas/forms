@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sustainability Index Evaluation Request
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: focus_areas
+      label: Focus Areas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: documentation_type
+      label: Type of Documentation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: context
+      label: Context
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: evaluator_name
+      label: Evaluator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: evaluator_email
+      label: Evaluator Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: evaluator_phone
+      label: Evaluator Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: organization_address
+      label: Organization Address
+      hint: null
+      type: text
+      options: []
+      required: false

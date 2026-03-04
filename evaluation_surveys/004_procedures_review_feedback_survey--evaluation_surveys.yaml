@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: procedures_review_feedback_survey
+    pages:
+    - id: 1
+      name: feedback
+      label: What is the overall impression of the procedure?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: staff
+      label: Who did you provide the procedure to?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: procedure_id
+      label: Procedure ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: date
+      label: Date of Procedure
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time
+      label: Time Spent on Procedure
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: suggestions
+      label: What could be improved in this procedure?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: rating_important
+      label: How important is this procedure?
+      hint: null
+      type: select_one
+      options:
+      - Very Important
+      - Important
+      - Somewhat Important
+      - Not Important
+      required: true
+    - id: 10
+      name: rating_frequency
+      label: How frequently is this procedure performed?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: true
+    - id: 11
+      name: procedure_type
+      label: What type of procedure?
+      hint: null
+      type: select_multiple
+      options:
+      - Internal
+      - External
+      - Both
+      required: true
+    - id: 12
+      name: review_by
+      label: Who reviewed this procedure?
+      hint: null
+      type: select_one
+      options:
+      - Staff
+      - Stakeholder
+      - Both
+      required: true
+    - id: 13
+      name: rating_score
+      label: Rating Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: rating_category
+      label: Rating Category
+      hint: null
+      type: text
+      options: []
+      required: false

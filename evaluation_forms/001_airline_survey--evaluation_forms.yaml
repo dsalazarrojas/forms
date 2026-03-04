@@ -1,0 +1,208 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Airline Survey
+    pages:
+    - id: 1
+      name: flight_number
+      label: Flight Number
+      hint: Enter your flight number
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: flight_date
+      label: Flight Date
+      hint: Date of your recent flight
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: departure_city
+      label: Departure City
+      hint: City you departed from
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: arrival_city
+      label: Arrival City
+      hint: City you arrived at
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: travel_class
+      label: Travel Class
+      hint: Select your travel class
+      type: select_one
+      options:
+      - Economy
+      - Premium Economy
+      - Business Class
+      - First Class
+      required: true
+    - id: 6
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: Rate your overall experience
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 7
+      name: check_in_rating
+      label: Check-in Experience Rating
+      hint: Rate the check-in process
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 8
+      name: boarding_rating
+      label: Boarding Process Rating
+      hint: Rate the boarding experience
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 9
+      name: seat_comfort
+      label: Seat Comfort
+      hint: Rate seat comfort level
+      type: select_one
+      options:
+      - Very Comfortable
+      - Comfortable
+      - Neutral
+      - Uncomfortable
+      - Very Uncomfortable
+      required: true
+    - id: 10
+      name: cabin_cleanliness
+      label: Cabin Cleanliness
+      hint: Rate the cleanliness of the aircraft
+      type: select_one
+      options:
+      - Very Clean
+      - Clean
+      - Average
+      - Dirty
+      - Very Dirty
+      required: true
+    - id: 11
+      name: crew_friendliness
+      label: Crew Friendliness
+      hint: Rate the friendliness of flight attendants
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 12
+      name: food_beverage_rating
+      label: Food and Beverage Rating
+      hint: Rate the quality of food and drinks
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      - Not Applicable
+      required: false
+    - id: 13
+      name: entertainment_rating
+      label: In-flight Entertainment Rating
+      hint: Rate the entertainment options
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      - Not Applicable
+      required: false
+    - id: 14
+      name: baggage_handling
+      label: Baggage Handling
+      hint: Rate the baggage handling service
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: false
+    - id: 15
+      name: on_time_performance
+      label: On-time Performance
+      hint: Was your flight on time?
+      type: select_one
+      options:
+      - Early
+      - On Time
+      - Slightly Delayed (under 30 min)
+      - Moderately Delayed (30-60 min)
+      - Significantly Delayed (over 60 min)
+      required: true
+    - id: 16
+      name: value_for_money
+      label: Value for Money
+      hint: Rate the value for the price paid
+      type: select_one
+      options:
+      - Excellent Value
+      - Good Value
+      - Fair Value
+      - Poor Value
+      - Very Poor Value
+      required: true
+    - id: 17
+      name: recommend_airline
+      label: Would You Recommend This Airline?
+      hint: How likely are you to recommend us?
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 18
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback you would like to share
+      type: text
+      options: []
+      required: false

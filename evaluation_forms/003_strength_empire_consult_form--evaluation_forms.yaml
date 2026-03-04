@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: strength_empires_form
+    pages:
+    - id: 1
+      name: user_name
+      label: First name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter a valid email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: select_one
+      label: How did you hear about us
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Word of Mouth
+      - Friend
+      - Other
+      required: false
+    - id: 6
+      name: select_multiple
+      label: How do you like to be contacted
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Social Media
+      required: false
+    - id: 7
+      name: date
+      label: Date of last workout
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time
+      label: Time of last workout
+      hint: "12:00 AM"
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: note
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: goal
+      label: What is your fitness goal
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: select_one_goal
+      label: What is your goal
+      hint: null
+      type: select_one
+      options:
+      - Lose Weight
+      - Gain Muscle
+      - Improve Endurance
+      - Get Stronger
+      required: true
+    - id: 12
+      name: select_multiple_goal
+      label: Select goals
+      hint: null
+      type: select_multiple
+      options:
+      - Lose Weight
+      - Gain Muscle
+      - Improve Endurance
+      - Get Stronger
+      required: true
+    - id: 13
+      name: frequency_of_workout
+      label: How many times per week do you work out
+      hint: 0-5
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: workout_length
+      label: How long do you work out
+      hint: 10-60
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: intensity_of_workout
+      label: Intensity level of your workouts
+      hint: 1-10
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: days_per_week
+      label: Days of the week you work out
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 17
+      name: time_per_session
+      label: Time per session
+      hint: 30-60
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: total_sessions
+      label: Total sessions per week
+      hint: 1-10
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: select_one_goal2
+      label: Why do you want to work out
+      hint: null
+      type: select_one
+      options:
+      - To feel better
+      - To feel more energetic
+      - To be stronger
+      - To be happier
+      required: true
+    - id: 20
+      name: select_multiple_goal2
+      label: Select reasons
+      hint: null
+      type: select_multiple
+      options:
+      - To feel better
+      - To feel more energetic
+      - To be stronger
+      - To be happier
+      required: true
+    - id: 21
+      name: goal2
+      label: What do you want to achieve
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: select_goal3
+      label: What is your goal
+      hint: null
+      type: select_one
+      options:
+      - Lose weight
+      - Gain muscle
+      - Improve endurance
+      - Increase strength
+      required: true
+    - id: 23
+      name: select_multiple_goal3
+      label: Select goals
+      hint: null
+      type: select_multiple
+      options:
+      - Lose weight
+      - Gain muscle
+      - Improve endurance
+      - Increase strength
+      required: true
+    - id: 24
+      name: days_of_rest
+      label: How many days do you rest
+      hint: 1-10
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: sleep_time
+      label: How many hours do you sleep
+      hint: 7-12
+      type: number
+      options: []
+      required: true

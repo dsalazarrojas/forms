@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chef Training Academy Admission Form
+    pages:
+    - id: 1
+      name: section_applicant_bio
+      label: -- Applicant Biography --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_applicant_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_applicant_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: student_applicant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: student_applicant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: student_applicant_mailing_address
+      label: Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_academic_culinary
+      label: -- Academic and Culinary Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: highest_education_level_attained
+      label: Highest Level of Education Attained
+      hint: null
+      type: select_one
+      options:
+      - High School Diploma / GED
+      - Associate Degree
+      - Bachelor Degree
+      - Master Degree or Higher
+      required: true
+    - id: 9
+      name: prior_culinary_experience_desc
+      label: Previous Culinary Experience
+      hint: Describe any kitchen work or related experience
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: english_proficiency_level
+      label: English Language Proficiency
+      hint: null
+      type: select_one
+      options:
+      - Native / Bilingual
+      - Fluent
+      - Professional Working Proficiency
+      - Limited Working Proficiency
+      required: true
+    - id: 11
+      name: section_program_interest
+      label: -- Program Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: selected_academy_program
+      label: Desired Program of Study
+      hint: null
+      type: select_one
+      options:
+      - Professional Culinary Arts (12 Months)
+      - Baking and Pastry Arts (9 Months)
+      - Culinary Management (18 Months)
+      - Intensive Weekend Series (3 Months)
+      required: true
+    - id: 13
+      name: starting_term_preference
+      label: Preferred Starting Term
+      hint: null
+      type: select_one
+      options:
+      - Fall (September)
+      - Winter (January)
+      - Spring (April)
+      - Summer (July)
+      required: true
+    - id: 14
+      name: motivation_statement_text
+      label: Statement of Motivation
+      hint: Why do you want to become a chef at this academy
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: how_heard_about_academy_source
+      label: How did you hear about us
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Culinary Fair / Event
+      - Alumni Referral
+      - Online Search
+      - Print Advertisement
+      required: false
+    - id: 16
+      name: section_enrollment_logistics
+      label: -- Enrollment Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: financial_aid_intent_status
+      label: Do you intend to apply for financial aid
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Undecided
+      required: true
+    - id: 18
+      name: emergency_contact_full_details
+      label: Emergency Contact Info
+      hint: Name, Relationship, and Phone
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: admissions_agreement_ack
+      label: I agree to the admissions terms and application fee
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 20
+      name: admissions_application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: internal_app_id_code
+      label: Internal Application ID
+      hint: Staff Use Only
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Course Evaluation Form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: course_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: student_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggestion
+      label: suggestion
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: submission_time
+      label: submission_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: course_name
+      label: course_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: course_instructor
+      label: course_instructor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: course_materials
+      label: course_materials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: course_format
+      label: course_format
+      hint: null
+      type: select_one
+      options:
+      - Online Course
+      - Hybrid Course
+      - In-person Course
+      required: true
+    - id: 13
+      name: course_rating
+      label: course_quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: recommendation
+      label: would_recommend
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      - Unsure
+      required: true
+    - id: 15
+      name: submission_status
+      label: submitted
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 16
+      name: course_length
+      label: course_length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: course_level
+      label: course_level
+      hint: null
+      type: select_one
+      options:
+      - Easy
+      - Medium
+      - Hard
+      required: true
+    - id: 18
+      name: course_content
+      label: course_content
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: course_organization
+      label: course_organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: submission_time
+      label: submission_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: course_rating
+      label: course_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: course_name
+      label: course_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: course_instructor
+      label: course_instructor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: course_materials
+      label: course_materials
+      hint: null
+      type: text
+      options: []
+      required: true

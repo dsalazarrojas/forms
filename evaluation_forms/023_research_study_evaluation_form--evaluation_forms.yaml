@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Research Study Evaluation Form
+    pages:
+    - id: 1
+      name: study_page_1
+      label: participant_feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: study_page_2
+      label: study_effectiveness
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: study_participants
+      label: participant_demographics
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: study_participant_comments
+      label: participant_comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: study_instrument_rating
+      label: instrument_effectiveness
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: study_instrument_comments
+      label: instrument_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: study_institution_rating
+      label: institution_effectiveness
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: study_institution_comments
+      label: institution_comments
+      hint: null
+      type: text
+      options: []
+      required: false

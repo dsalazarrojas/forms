@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Science Center Evaluation Form
+    pages:
+    - id: 1
+      name: general_info
+      label: general_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: rating_scale
+      label: rating_scale
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: exhibit_experience
+      label: exhibit_experience
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: program_info
+      label: program_info
+      hint: null
+      type: note
+      options: []
+      required: false

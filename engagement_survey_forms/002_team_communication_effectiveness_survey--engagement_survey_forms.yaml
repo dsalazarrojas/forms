@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Communication Effectiveness Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: team_communication_scale
+      label: Team Communication Scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: collaboration_frequency
+      label: How often do you communicate with team members
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Rarely''}'
+      - '{''label'': ''Occasionally''}'
+      - '{''label'': ''Frequently''}'
+      - '{''label'': ''Almost Always''}'
+      required: true
+    - id: 4
+      name: communication_channels
+      label: What channels do you use for communication
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''Chat''}'
+      - '{''label'': ''Text message''}'
+      - '{''label'': ''Video call''}'
+      required: true
+    - id: 5
+      name: collaboration_channels
+      label: What channels do you use for collaboration
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''In-person''}'
+      - '{''label'': ''Video call''}'
+      - '{''label'': ''Shared doc''}'
+      - '{''label'': ''Task list''}'
+      required: true
+    - id: 6
+      name: feedback
+      label: Can team members provide feedback
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 7
+      name: conflict_resolution
+      label: How do you resolve conflicts
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Avoid''}'
+      - '{''label'': ''Address''}'
+      - '{''label'': ''Delegate''}'
+      - '{''label'': ''Refer to a third party''}'
+      required: true
+    - id: 8
+      name: team_satisfaction
+      label: Team satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: individual_satisfaction
+      label: Individual satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: overall_satisfaction
+      label: Overall satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: submission
+      label: Submission
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Submit''}'
+      - '{''label'': ''Save and Continue Later''}'
+      required: true
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: time_of_day
+      label: Time of day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: date_of_survey
+      label: Date of survey
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: submission_date
+      label: Submission date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: submission_time
+      label: Submission time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: submission_location
+      label: Submission location
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Online''}'
+      - '{''label'': ''In person''}'
+      required: false
+    - id: 21
+      name: submission_device
+      label: Submission device
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Computer''}'
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''Tablet''}'
+      required: true
+    - id: 22
+      name: submission_language
+      label: Submission language
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''English''}'
+      - '{''label'': ''French''}'
+      - '{''label'': ''Spanish''}'
+      required: true
+    - id: 23
+      name: submission_comment
+      label: Submission comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: submission_confirmation
+      label: Submission confirmation
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Confirm''}'
+      - '{''label'': ''No confirm''}'
+      required: true
+    - id: 25
+      name: submission_agreement
+      label: Submission agreement
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Agree''}'
+      - '{''label'': ''Disagree''}'
+      required: true

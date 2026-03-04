@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: small-business-credit-application-form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: credit_request
+      label: Credit Request
+      hint: null
+      type: select_one
+      options:
+      - Credit Type
+      - Credit Amount
+      - Credit Term
+      required: true
+    - id: 4
+      name: credit_type
+      label: Credit Type
+      hint: null
+      type: select_one
+      options:
+      - Line of Credit
+      - Term Loan
+      - Revolving Credit
+      - Working Capital
+      required: true
+    - id: 5
+      name: credit_amount
+      label: Credit Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: credit_term
+      label: Credit Term
+      hint: null
+      type: select_one
+      options:
+      - Short-Term
+      - Medium-Term
+      - Long-Term
+      required: true
+    - id: 7
+      name: business_info
+      label: Business Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: owner_info
+      label: Owner Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: business_financials
+      label: Business Financials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: financial_statements
+      label: Financial Statements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: loan_agreement
+      label: Loan Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: business_assets
+      label: Business Assets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: collateral
+      label: Collateral
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: business_risks
+      label: Business Risks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: business_obligations
+      label: Business Obligations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: loan_purpose
+      label: Loan Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: loan_reasons
+      label: Loan Reasons
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: business_goals
+      label: Business Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: loan_outcome
+      label: Loan Outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: loan_review
+      label: Loan Review
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - Term 6 months
+      - Term 12 months
+      - Term 24 months
+      required: true
+    - id: 22
+      name: payment_schedule
+      label: Payment Schedule
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: interest_rate
+      label: Interest Rate
+      hint: null
+      type: select_one
+      options:
+      - Fixed 5.00%
+      - Floating 5.25%
+      - Floating 5.50%
+      required: true
+    - id: 24
+      name: repayment_schedule
+      label: Repayment Schedule
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: final_review
+      label: Final Review
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: transmission_line_inspection_form
+    pages:
+    - id: 1
+      name: transmission_line_inspection
+      label: transmission_line_inspection
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: transmission_line_condition
+      label: transmission_line_condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 3
+      name: transmission_line_status
+      label: transmission_line_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Offline
+      required: false
+    - id: 4
+      name: transmission_line_notes
+      label: transmission_line_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: service_provider
+      label: service_provider
+      hint: null
+      type: select_one
+      options:
+      - ABC Service Co
+      - DEF Service Corp
+      - GHI Service Inc
+      required: false
+    - id: 6
+      name: transmission_line_equipment
+      label: transmission_line_equipment
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 7
+      name: transmission_line_location
+      label: transmission_line_location
+      hint: null
+      type: select_one
+      options:
+      - North
+      - South
+      - East
+      required: false
+    - id: 8
+      name: transmission_line_inspection_frequency
+      label: transmission_line_inspection_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: transmission_line_inspection_last_date
+      label: transmission_line_inspection_last_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: transmission_line_inspection_next_date
+      label: transmission_line_inspection_next_date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: specialist_dl_evaluation_form
+    pages:
+    - id: 1
+      name: employee
+      label: Employee
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Employee'', ''label'': ''Employee''}'
+      - Other
+      required: true
+    - id: 2
+      name: evaluation_date
+      label: evaluation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: evaluation_period
+      label: evaluation_period
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Q1'', ''label'': ''Q1''}'
+      - '{''value'': ''Q2'', ''label'': ''Q2''}'
+      - '{''value'': ''Q3'', ''label'': ''Q3''}'
+      - '{''value'': ''Q4'', ''label'': ''Q4''}'
+      required: false
+    - id: 4
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: specialist
+      label: specialist
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Specialist 1'', ''label'': ''Specialist 1''}'
+      - '{''value'': ''Specialist 2'', ''label'': ''Specialist 2''}'
+      required: true
+    - id: 8
+      name: evaluation_form_status
+      label: evaluation_form_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Draft'', ''label'': ''Draft''}'
+      - '{''value'': ''Published'', ''label'': ''Published''}'
+      required: false
+    - id: 9
+      name: review_date
+      label: review_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''chatjimmy'', ''label'': ''chatjimmy''}'
+      - Other
+      required: true

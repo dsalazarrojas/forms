@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Insight Accelerator Application Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Accelerator Application --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company name
+      hint: Legal or trading name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: founder_name
+      label: Founder name
+      hint: Primary founder or CEO
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: stage
+      label: Company stage
+      hint: Select current stage
+      type: select_one
+      options:
+      - Idea
+      - Prototype
+      - Revenue
+      - Scaling
+      required: true
+    - id: 5
+      name: traction_summary
+      label: Traction summary
+      hint: Key metrics demonstrating traction
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: market_size
+      label: Market size
+      hint: Approximate total addressable market
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: funding_to_date
+      label: Funding to date
+      hint: Total funds raised to date
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: goals_for_accelerator
+      label: Goals for accelerator
+      hint: What outcomes do you expect
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: team_size
+      label: Team size
+      hint: Number of full time employees
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact email
+      hint: For program communications
+      type: email
+      options: []
+      required: true

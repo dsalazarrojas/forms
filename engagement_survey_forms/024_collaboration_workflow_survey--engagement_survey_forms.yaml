@@ -1,0 +1,101 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Collaboration Workflow Survey
+    pages:
+      - id: 1
+        name: header
+        label: -- Workflow Survey --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Respondent name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: team
+        label: Team or department
+        hint: Select your team
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: satisfaction_with_workflow
+        label: Satisfaction with current workflow
+        hint: 1 low to 5 high
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 5
+        name: biggest_challenge
+        label: Biggest challenge in collaboration
+        hint: Short description
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: tools_used
+        label: Tools used for collaboration
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Email
+          - Chat
+          - Project management
+          - Shared documents
+        required: false
+      - id: 7
+        name: improvement_suggestions
+        label: Suggestions for improvement
+        hint: Practical ideas
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: preferred_communication
+        label: Preferred communication channel
+        hint: Select one
+        type: select_one
+        options:
+          - Email
+          - Chat
+          - Video calls
+          - In person
+        required: true
+      - id: 9
+        name: training_required
+        label: Is training required
+        hint: Indicate training needs
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: false
+      - id: 10
+        name: additional_comments
+        label: Additional comments
+        hint: Free text
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Moving Forward Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: past_year
+      label: past_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: forward_looking
+      label: forward_looking
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: past_year_achievements
+      label: past_year_achievements
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: forward_looking_achievements
+      label: forward_looking_achievements
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: next_year_goal
+      label: next_year_goal
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: next_year_obstacle
+      label: next_year_obstacle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: next_year_support
+      label: next_year_support
+      hint: null
+      type: text
+      options: []
+      required: false

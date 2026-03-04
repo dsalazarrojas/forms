@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Battery Discharge Test Log
+    pages:
+    - id: 1
+      name: equipment_metadata_header
+      label: -- Battery and System Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: technician_name
+      label: Technician Performing Test
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: battery_id_serial
+      label: Battery ID or Serial Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: battery_chemistry
+      label: Battery Chemistry Type
+      hint: null
+      type: select_one
+      options:
+      - Lead-Acid (VRLA/Flooded)
+      - Lithium-Ion (LFP/NMC)
+      - Nickel-Cadmium (NiCd)
+      - Nickel-Metal Hydride (NiMH)
+      required: true
+    - id: 5
+      name: nominal_voltage
+      label: Nominal Voltage (V)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: test_parameters_header
+      label: -- Discharge Test Parameters --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: test_date
+      label: Date of Test
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: starting_voltage_measured
+      label: Starting Voltage (V)
+      hint: Measured at 100% State of Charge
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: constant_discharge_current
+      label: Constant Discharge Current (Amps)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: cutoff_voltage_target
+      label: Target Cutoff Voltage (V)
+      hint: End of test threshold
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: environment_temp_c
+      label: Ambient Temperature (Celsius)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: test_results_header
+      label: -- Final Test Results --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: total_duration_minutes
+      label: Total Discharge Duration (Minutes)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: calculated_capacity_ah
+      label: Calculated Capacity (Ah)
+      hint: (Current x Time) / 60
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: health_status_percent
+      label: Percentage of Rated Capacity (%)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: pass_fail_disposition
+      label: Test Disposition
+      hint: null
+      type: select_one
+      options:
+      - Pass - Optimal Health
+      - Pass - Serviceable
+      - Marginal - Schedule Replacement
+      - Fail - Decommission Immediately
+      required: true
+    - id: 17
+      name: technical_comments
+      label: Technical Observations and Notes
+      hint: Note any excessive heating or physical swelling
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: timestamp
+      label: Date Log Entry Completed
+      hint: null
+      type: date
+      options: []
+      required: true

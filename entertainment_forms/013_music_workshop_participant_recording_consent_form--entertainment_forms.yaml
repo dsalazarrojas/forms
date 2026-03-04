@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: music_workshop_participant_recording_consent_form
+    pages:
+    - id: 1
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_or_guardian_name
+      label: parent_or_guardian_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: workshop_type
+      label: workshop_type
+      hint: null
+      type: select_one
+      options:
+      - Masterclass
+      - Rehearsal
+      - Workshop
+      required: false
+    - id: 6
+      name: recording_consent
+      label: recording_consent
+      hint: null
+      type: select_multiple
+      options:
+      - Audio
+      - Video
+      - Both
+      required: false
+    - id: 7
+      name: recording_consent_audio
+      label: recording_consent_audio
+      hint: null
+      type: select_multiple
+      options:
+      - Audio
+      - Both
+      required: false
+    - id: 8
+      name: recording_consent_video
+      label: recording_consent_video
+      hint: null
+      type: select_multiple
+      options:
+      - Video
+      - Both
+      required: false
+    - id: 9
+      name: signed_date
+      label: signed_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: signed_time
+      label: signed_time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,98 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: lash_extension_consent_form
+    pages:
+    - id: 1
+      name: customer_info
+      label: customer_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - '{1: True}'
+      - '{2: False}'
+      required: false
+    - id: 3
+      name: medical_conditions
+      label: medical_conditions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: allergies
+      label: allergies
+      hint: List any allergies or medical conditions that may affect the service.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_procedure_conducted
+      label: medical_procedure_conducted
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Lash''}'
+      - '{2: ''Brow''}'
+      - '{3: ''Lash Lift''}'
+      required: false
+    - id: 6
+      name: informed_consent
+      label: informed_consent
+      hint: Please indicate that you have received this information and understand
+        it.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: consent_date
+      label: consent_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: signature
+      label: signature
+      hint: null
+      type: select_multiple
+      options:
+      - signature_1
+      - signature_2
+      - signature_3
+      required: false
+    - id: 9
+      name: date_signature
+      label: date_signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: medical_procedure_conducted_by
+      label: medical_procedure_conducted_by
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Technician 1''}'
+      - '{2: ''Technician 2''}'
+      - '{3: ''Technician 3''}'
+      required: false

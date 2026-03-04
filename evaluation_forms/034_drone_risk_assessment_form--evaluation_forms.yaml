@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Drone Risk Assessment Form
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: first_page_header
+      label: First Page Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: drone_type
+      label: Drone Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: risk_assessment
+      label: Risk Assessment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: risk_level_details
+      label: Risk Level Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: mitigation_actions
+      label: Mitigation Actions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: first_page_footer
+      label: First Page Footer
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: second_page
+      label: Second Page
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: risk_summary
+      label: Risk Summary
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: risk_recommendation
+      label: Risk Recommendation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: final_risk_score
+      label: Final Risk Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: final_risk_summary
+      label: Final Risk Summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: final_risk_recommendation
+      label: Final Risk Recommendation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: second_page_footer
+      label: Second Page Footer
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: third_page
+      label: Third Page
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 21
+      name: reviewer_signature
+      label: Reviewer Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: reviewer_title
+      label: Reviewer Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: reviewer_organization
+      label: Reviewer Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: reviewer_phone
+      label: Reviewer Phone
+      hint: null
+      type: text
+      options: []
+      required: true

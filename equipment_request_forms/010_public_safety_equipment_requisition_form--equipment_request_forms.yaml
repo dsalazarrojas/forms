@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Safety Equipment Requisition Form
+    pages:
+    - id: 1
+      name: public_safety_equipment_requisition_form
+      label: Public Safety Equipment Requisition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_request_form
+      label: Equipment Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Public Works''}'
+      - '{''value'': ''Maintenance''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 4
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: equipment_name
+      label: Equipment Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: purpose
+      label: Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: priority
+      label: Priority
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''High''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''Low''}'
+      required: false
+    - id: 11
+      name: remarks
+      label: Remarks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: departmental_approvals
+      label: Departmental Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''John''}'
+      - '{''value'': ''Jane''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 14
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Approve''}'
+      - '{''value'': ''Reject''}'
+      - '{''value'': ''Pending''}'
+      required: false
+    - id: 15
+      name: date_request
+      label: Date Requested
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: date_delivered
+      label: Date Delivered
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: status
+      label: Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false

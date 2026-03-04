@@ -1,0 +1,131 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Mock Interview Evaluation Form
+    pages:
+    - id: 1
+      name: mock_interview_form
+      label: Mock Interview Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: recruiter_rating
+      label: Recruiter Rating
+      hint: Rate the recruiter
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Very Good''}'
+      - '{''id'': 2, ''name'': ''Good''}'
+      - '{''id'': 3, ''name'': ''Fair''}'
+      - '{''id'': 4, ''name'': ''Poor''}'
+      required: false
+    - id: 3
+      name: interviewers_rating
+      label: Interviewers Rating
+      hint: Rate the interviewers
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Very Good''}'
+      - '{''id'': 2, ''name'': ''Good''}'
+      - '{''id'': 3, ''name'': ''Fair''}'
+      - '{''id'': 4, ''name'': ''Poor''}'
+      required: false
+    - id: 4
+      name: questions
+      label: Questions Asked
+      hint: List the questions asked
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: Provide additional comments
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: rating_scale
+      label: Rating Scale
+      hint: Rate the rating scale used in the interview
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''1-2''}'
+      - '{''id'': 2, ''name'': ''3-4''}'
+      - '{''id'': 3, ''name'': ''5-6''}'
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: Provide feedback to the recruiter
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: interview_experience
+      label: Interview Experience
+      hint: Rate the interview experience
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Very Good''}'
+      - '{''id'': 2, ''name'': ''Good''}'
+      - '{''id'': 3, ''name'': ''Fair''}'
+      - '{''id'': 4, ''name'': ''Poor''}'
+      required: false
+    - id: 9
+      name: overall_experience
+      label: Overall Experience
+      hint: Rate the overall experience
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Very Good''}'
+      - '{''id'': 2, ''name'': ''Good''}'
+      - '{''id'': 3, ''name'': ''Fair''}'
+      - '{''id'': 4, ''name'': ''Poor''}'
+      required: false
+    - id: 10
+      name: next_steps
+      label: Next Steps
+      hint: Indicate next steps
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Very Good''}'
+      - '{''id'': 2, ''name'': ''Good''}'
+      - '{''id'': 3, ''name'': ''Fair''}'
+      - '{''id'': 4, ''name'': ''Poor''}'
+      required: false
+    - id: 11
+      name: mock_interview_format
+      label: Mock Interview Format
+      hint: Rate the mock interview format
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Video Format''}'
+      - '{''id'': 2, ''name'': ''Audio Format''}'
+      - '{''id'': 3, ''name'': ''Text Format''}'
+      - '{''id'': 4, ''name'': ''Other''}'
+      required: false
+    - id: 12
+      name: mock_interview_duration
+      label: Mock Interview Duration
+      hint: Rate the mock interview duration
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''15-30 Minutes''}'
+      - '{''id'': 2, ''name'': ''30-60 Minutes''}'
+      - '{''id'': 3, ''name'': ''1-2 Hours''}'
+      - '{''id'': 4, ''name'': ''More than 2 Hours''}'
+      required: false

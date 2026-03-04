@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: physician_nexus_usage_survey
+    pages:
+    - id: 1
+      name: user_first_name
+      label: User First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_last_name
+      label: User Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: user_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_joined
+      label: Date Joined
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: physician_survey_questions_1
+      label: How often do you use Nexus?
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Often''}'
+      - '{2: ''Occasionally''}'
+      - '{3: ''Rarely''}'
+      required: false
+    - id: 8
+      name: physician_survey_questions_2
+      label: How many patients do you see per week?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: physician_survey_questions_3
+      label: How many hours do you spend on Nexus per week?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: physician_survey_questions_4
+      label: What feature in Nexus would you like to see next?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: physician_survey_questions_5
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: user_email_confirmed
+      label: Email Verified
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: user_phone_confirmed
+      label: Phone Verified
+      hint: null
+      type: text
+      options: []
+      required: false

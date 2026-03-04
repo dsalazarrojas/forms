@@ -1,0 +1,534 @@
+inputSchema:
+  type: object
+  properties:
+    title: Peer To Peer Relationship Survey
+    pages:
+    - id: 1
+      name: partner_relationship_type
+      label: What is your relationship with the person?
+      hint: null
+      type: select_one
+      options:
+      - Close friend
+      - Distant friend
+      - Acquaintance
+      - Colleague
+      - Stranger
+      - Family member
+      - Romantic relationship
+      - Work colleague
+      - Other
+      required: false
+    - id: 2
+      name: relationship_duration
+      label: How long have you known this person?
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 month
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - More than 1 year
+      - More than 2 years
+      - More than 3 years
+      - More than 4 years
+      - More than 5 years
+      - More than 6 years
+      - More than 7 years
+      - More than 8 years
+      - More than 9 years
+      - More than 10 years
+      - More than 11 years
+      - More than 12 years
+      - More than 13 years
+      - More than 14 years
+      - More than 15 years
+      - More than 16 years
+      - More than 17 years
+      - More than 18 years
+      - More than 19 years
+      - More than 20 years
+      - More than 21 years
+      - More than 22 years
+      - More than 23 years
+      - More than 24 years
+      - More than 25 years
+      - More than 26 years
+      - More than 27 years
+      - More than 28 years
+      - More than 29 years
+      - More than 30 years
+      - More than 31 years
+      - More than 32 years
+      - More than 33 years
+      - More than 34 years
+      - More than 35 years
+      required: false
+    - id: 3
+      name: how_often_see
+      label: How often do you see this person?
+      hint: null
+      type: select_multiple
+      options:
+      - Every day
+      - Several times a week
+      - Once a week
+      - Several times a month
+      - Once a month
+      - Rarely
+      - Never
+      - Other
+      required: false
+    - id: 4
+      name: how_often_communicate
+      label: How often do you communicate with this person?
+      hint: null
+      type: select_multiple
+      options:
+      - Every day
+      - Several times a week
+      - Once a week
+      - Several times a month
+      - Once a month
+      - Rarely
+      - Never
+      - Other
+      required: false
+    - id: 5
+      name: how_often_meditate
+      label: How often do you meditate with this person?
+      hint: null
+      type: select_multiple
+      options:
+      - Every day
+      - Several times a week
+      - Once a week
+      - Several times a month
+      - Once a month
+      - Rarely
+      - Never
+      - Other
+      required: false
+    - id: 6
+      name: how_often_spend_time
+      label: How often do you spend time together?
+      hint: null
+      type: select_multiple
+      options:
+      - Every day
+      - Several times a week
+      - Once a week
+      - Several times a month
+      - Once a month
+      - Rarely
+      - Never
+      - Other
+      required: false
+    - id: 7
+      name: trust_level
+      label: What level of trust do you feel with this person?
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - Mostly
+      - Moderate
+      - Somewhat
+      - None
+      required: false
+    - id: 8
+      name: conflict_level
+      label: What level of conflict do you typically experience with this person?
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Low
+      - Moderate
+      - High
+      required: false
+    - id: 9
+      name: support_level
+      label: What level of support do you receive from this person?
+      hint: null
+      type: select_one
+      options:
+      - Extensive
+      - Moderate
+      - Some
+      - Very little
+      required: false
+    - id: 10
+      name: empathy_level
+      label: How often do you feel understood/validated by this person?
+      hint: null
+      type: select_one
+      options:
+      - Extremely often
+      - Frequently
+      - Sometimes
+      - Rarely
+      - Never
+      required: false
+    - id: 11
+      name: empathy_recieve
+      label: How often do you feel this person understands/validates you?
+      hint: null
+      type: select_one
+      options:
+      - Extremely often
+      - Frequently
+      - Sometimes
+      - Rarely
+      - Never
+      required: false
+    - id: 12
+      name: positive_emotions
+      label: How often do you feel positive emotions when thinking about this person?
+      hint: null
+      type: select_one
+      options:
+      - Extremely often
+      - Frequently
+      - Sometimes
+      - Rarely
+      - Never
+      required: false
+    - id: 13
+      name: negative_emotions
+      label: How often do you feel negative emotions when thinking about this person?
+      hint: null
+      type: select_one
+      options:
+      - Extremely often
+      - Frequently
+      - Sometimes
+      - Rarely
+      - Never
+      required: false
+    - id: 14
+      name: physical_proximity
+      label: Do you live near this person?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: communication_style
+      label: What style of communication do you typically use with this person?
+      hint: null
+      type: select_one
+      options:
+      - Verbal
+      - Non-verbal
+      - Both
+      - Other
+      required: false
+    - id: 16
+      name: communication_frequency
+      label: How often do you communicate with this person?
+      hint: null
+      type: select_multiple
+      options:
+      - Every day
+      - Several times a week
+      - Once a week
+      - Several times a month
+      - Once a month
+      - Rarely
+      - Never
+      - Other
+      required: false
+    - id: 17
+      name: physical_touch
+      label: Do you typically touch each other physically?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: personal_space
+      label: How much personal space do you typically feel you have with this person?
+      hint: null
+      type: select_one
+      options:
+      - A lot
+      - Some
+      - Some but not much
+      - Very little
+      - None
+      required: false
+    - id: 19
+      name: physical_contact
+      label: How often do you have physical contact with this person?
+      hint: null
+      type: select_one
+      options:
+      - Every day
+      - Several times a week
+      - Once a week
+      - Several times a month
+      - Once a month
+      - Rarely
+      - Never
+      required: false
+    - id: 20
+      name: intimacy_level
+      label: How intimate is your relationship with this person?
+      hint: null
+      type: select_one
+      options:
+      - Extremely intimate
+      - Moderately intimate
+      - Not very intimate
+      - Not at all intimate
+      required: false
+    - id: 21
+      name: conflict_frequency
+      label: How often do you typically experience conflicts with this person?
+      hint: null
+      type: select_one
+      options:
+      - Every day
+      - Several times a week
+      - Once a week
+      - Several times a month
+      - Once a month
+      - Rarely
+      - Never
+      required: false
+    - id: 22
+      name: social_support
+      label: How often do you receive social support from this person?
+      hint: null
+      type: select_one
+      options:
+      - Extremely often
+      - Frequently
+      - Sometimes
+      - Rarely
+      - Never
+      required: false
+    - id: 23
+      name: emotional_support
+      label: How often do you receive emotional support from this person?
+      hint: null
+      type: select_one
+      options:
+      - Extremely often
+      - Frequently
+      - Sometimes
+      - Rarely
+      - Never
+      required: false
+    - id: 24
+      name: emotional_intimacy
+      label: How emotionally intimate is your relationship with this person?
+      hint: null
+      type: select_one
+      options:
+      - Extremely emotionally intimate
+      - Moderately emotionally intimate
+      - Not very emotionally intimate
+      - Not at all emotionally intimate
+      required: false
+    - id: 25
+      name: self_disclosure
+      label: How much do you typically disclose to this person?
+      hint: null
+      type: select_one
+      options:
+      - Extremely much
+      - Moderately much
+      - Some
+      - Very little
+      required: false
+    - id: 26
+      name: self_disclosure
+      label: How much does this person typically disclose to you?
+      hint: null
+      type: select_one
+      options:
+      - Extremely much
+      - Moderately much
+      - Some
+      - Very little
+      required: false
+    - id: 27
+      name: self_validation
+      label: How much does this person typically validate you?
+      hint: null
+      type: select_one
+      options:
+      - Extremely much
+      - Moderately much
+      - Some
+      - Very little
+      required: false
+    - id: 28
+      name: self_validation
+      label: How much do you typically validate this person?
+      hint: null
+      type: select_one
+      options:
+      - Extremely much
+      - Moderately much
+      - Some
+      - Very little
+      required: false
+    - id: 29
+      name: self_conflict
+      label: How often do you experience conflict with this person about your identity?
+      hint: null
+      type: select_one
+      options:
+      - Extremely often
+      - Frequently
+      - Sometimes
+      - Rarely
+      - Never
+      required: false
+    - id: 30
+      name: other_support
+      label: Is there any other kind of support you receive from this person?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 31
+      name: other
+      label: Is there anything else you'd like to add about this relationship?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: partner_name
+      label: What is the name of your partner?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: relationship_length
+      label: How long have you been in this relationship?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 34
+      name: date_started
+      label: What is the date you started this relationship?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 35
+      name: date_ended
+      label: What is the date you ended this relationship?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 36
+      name: date_began
+      label: What is the date you began this relationship?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 37
+      name: partner_age
+      label: How old is your partner?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 38
+      name: your_age
+      label: How old are you?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 39
+      name: partner_gender
+      label: What is your partner's gender?
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Other
+      required: false
+    - id: 40
+      name: your_gender
+      label: What is your gender?
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Other
+      required: false
+    - id: 41
+      name: partner_ethnicity
+      label: What is your partner's ethnicity?
+      hint: null
+      type: select_one
+      options:
+      - Asian
+      - Black or African American
+      - Hispanic or Latino
+      - White
+      - Pacific Islander
+      - Native American
+      - Other
+      required: false
+    - id: 42
+      name: your_ethnicity
+      label: What is your ethnicity?
+      hint: null
+      type: select_one
+      options:
+      - Asian
+      - Black or African American
+      - Hispanic or Latino
+      - White
+      - Pacific Islander
+      - Native American
+      - Other
+      required: false
+    - id: 43
+      name: partner_education
+      label: What is your partner's highest level of education?
+      hint: null
+      type: select_one
+      options:
+      - Less than high school
+      - High school diploma or equivalent
+      - Some college or university
+      - Bachelor's degree or higher
+      - Postgraduate degree
+      required: false
+    - id: 44
+      name: your_education
+      label: What is your highest level of education?
+      hint: null
+      type: select_one
+      options:
+      - Less than high school
+      - High school diploma or equivalent
+      - Some college or university
+      - Bachelor's degree or higher
+      - Postgraduate degree
+      required: false

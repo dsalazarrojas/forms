@@ -1,0 +1,270 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Plans Form
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Full Name
+        hint: Optional - your name
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: email_address
+        label: Email Address
+        hint: For survey results
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: age_group
+        label: Age Group
+        hint: Select your age range
+        type: select_one
+        options:
+          - Under 18
+          - 18-24
+          - 25-34
+          - 35-44
+          - 45-54
+          - 55-64
+          - 65 or older
+        required: true
+      - id: 4
+        name: location
+        label: City or Region
+        hint: Where are you located
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: section_respondent_info
+        label: -- Respondent Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: christmas_celebration
+        label: Do You Celebrate Christmas
+        hint: Select your celebration status
+        type: select_one
+        options:
+          - Yes enthusiastically
+          - Yes quietly
+          - Somewhat
+          - No I do not celebrate
+          - No but I enjoy the season
+        required: true
+      - id: 7
+        name: celebration_location
+        label: Where Will You Celebrate
+        hint: Your celebration location
+        type: select_one
+        options:
+          - At home
+          - Family home
+          - Friends house
+          - Traveling out of town
+          - Traveling internationally
+          - Multiple locations
+          - Not celebrating
+        required: true
+      - id: 8
+        name: travel_plans
+        label: Travel Plans
+        hint: Are you traveling for holidays
+        type: select_one
+        options:
+          - No staying local
+          - Yes within state
+          - Yes out of state
+          - Yes international
+        required: true
+      - id: 9
+        name: section_celebration_plans
+        label: -- Celebration Plans --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: number_of_people
+        label: Number of People
+        hint: How many will you celebrate with
+        type: select_one
+        options:
+          - Just me alone
+          - 2 people
+          - 3-5 people
+          - 6-10 people
+          - 11-20 people
+          - Over 20 people
+        required: true
+      - id: 11
+        name: celebration_type
+        label: Celebration Type
+        hint: What kind of celebration
+        type: select_multiple
+        options:
+          - Family dinner
+          - Friends gathering
+          - Office party
+          - Religious service
+          - Community event
+          - Volunteer work
+          - Quiet reflection
+          - Travel vacation
+        required: true
+      - id: 12
+        name: christmas_eve_plans
+        label: Christmas Eve Plans
+        hint: What are your plans
+        type: select_one
+        options:
+          - Family gathering
+          - Religious service
+          - Quiet night home
+          - Party with friends
+          - Working
+          - Traveling
+          - Other
+        required: true
+      - id: 13
+        name: christmas_day_plans
+        label: Christmas Day Plans
+        hint: What are your plans
+        type: select_one
+        options:
+          - Family gift exchange
+          - Religious service
+          - Big family meal
+          - Quiet day home
+          - Working
+          - Traveling
+          - Friends gathering
+        required: true
+      - id: 14
+        name: section_holiday_activities
+        label: -- Holiday Activities --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: gift_shopping_status
+        label: Gift Shopping Status
+        hint: How is your shopping going
+        type: select_one
+        options:
+          - Already done
+          - Mostly done
+          - Halfway there
+          - Just starting
+          - Procrastinating
+          - Not shopping this year
+        required: true
+      - id: 16
+        name: gift_budget
+        label: Gift Budget
+        hint: Approximate spending
+        type: select_one
+        options:
+          - Under 100
+          - 100-300
+          - 300-500
+          - 500-1000
+          - 1000-2000
+          - Over 2000
+          - No budget set
+        required: true
+      - id: 17
+        name: cooking_plans
+        label: Cooking Plans
+        hint: Will you be cooking
+        type: select_one
+        options:
+          - Yes full meal
+          - Yes some dishes
+          - Bringing dish to share
+          - No ordering out
+          - No attending others
+        required: true
+      - id: 18
+        name: section_gifts_and_food
+        label: -- Gifts and Food --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: decorations_status
+        label: Decorations Status
+        hint: Have you decorated
+        type: select_one
+        options:
+          - Fully decorated
+          - Partially decorated
+          - Minimal decorations
+          - No decorations
+          - Decorating now
+        required: true
+      - id: 20
+        name: favorite_tradition
+        label: Favorite Tradition
+        hint: What is your favorite tradition
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: new_traditions
+        label: New Traditions This Year
+        hint: Trying anything new
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: holiday_stress_level
+        label: Holiday Stress Level
+        hint: How stressed are you
+        type: select_one
+        options:
+          - Not stressed at all
+          - Slightly stressed
+          - Moderately stressed
+          - Very stressed
+          - Extremely stressed
+        required: true
+      - id: 23
+        name: section_reflection
+        label: -- Reflection --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 24
+        name: looking_forward_to
+        label: Looking Forward To
+        hint: What excites you most
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: holiday_wishes
+        label: Holiday Wishes
+        hint: Share your wishes
+        type: text
+        options: []
+        required: false

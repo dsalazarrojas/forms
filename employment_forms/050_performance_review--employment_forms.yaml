@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Review
+    pages:
+    - id: 1
+      name: performance_review_form
+      label: Performance Review Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_title_held
+      label: Job Title Held
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: performance_period
+      label: Performance Period
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: performance_level
+      label: Performance Level
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Poor
+      required: false
+    - id: 7
+      name: performance_comments
+      label: Performance Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: action_items
+      label: Action Items
+      hint: null
+      type: select_multiple
+      options:
+      - Address Performance Issues
+      - Provide Additional Training
+      required: false
+    - id: 10
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Unsatisfactory
+      required: false
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false

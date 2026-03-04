@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Barnhouse Signup Form
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: Your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For event updates and confirmations
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: mailing_address
+      label: Mailing Address
+      hint: Complete street address
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_interest
+      label: Event Interest
+      hint: Which events interest you
+      type: select_multiple
+      options:
+      - Live music concerts
+      - Wedding receptions
+      - Private parties
+      - Corporate events
+      - Community gatherings
+      - Workshops and classes
+      - Seasonal festivals
+      required: true
+    - id: 6
+      name: group_size
+      label: Typical Group Size
+      hint: How many people do you usually bring
+      type: select_one
+      options:
+      - Just myself
+      - 2 to 4 people
+      - 5 to 10 people
+      - 11 to 20 people
+      - More than 20 people
+      required: true
+    - id: 7
+      name: membership_interest
+      label: Interested in Membership
+      hint: Join our membership program for benefits
+      type: select_one
+      options:
+      - Yes, interested
+      - No, not interested
+      - Maybe, send more info
+      required: true
+    - id: 8
+      name: volunteer_interest
+      label: Interested in Volunteering
+      hint: Help us run events
+      type: select_one
+      options:
+      - Yes, definitely
+      - Maybe, occasionally
+      - No, just attending
+      required: true
+    - id: 9
+      name: volunteer_roles
+      label: Preferred Volunteer Roles
+      hint: Select roles you would enjoy
+      type: select_multiple
+      options:
+      - Event setup
+      - Ticket taking
+      - Concessions
+      - Cleanup crew
+      - Marketing help
+      - Photography
+      - Sound and lighting
+      required: false
+    - id: 10
+      name: newsletter_signup
+      label: Newsletter Signup
+      hint: Receive updates about upcoming events
+      type: select_one
+      options:
+      - Yes, subscribe me
+      - No, thanks
+      required: true
+    - id: 11
+      name: social_media
+      label: Social Media Following
+      hint: Which platforms do you use
+      type: select_multiple
+      options:
+      - Facebook
+      - Instagram
+      - Twitter
+      - TikTok
+      - None
+      required: false
+    - id: 12
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: We appreciate knowing
+      type: select_one
+      options:
+      - Social media
+      - Friend referral
+      - Online search
+      - Flyer or poster
+      - Local newspaper
+      - Drive by
+      - Other
+      required: true
+    - id: 13
+      name: dietary_preferences
+      label: Dietary Preferences
+      hint: For event catering planning
+      type: select_multiple
+      options:
+      - No restrictions
+      - Vegetarian
+      - Vegan
+      - Gluten free
+      - Dairy free
+      - Nut allergies
+      required: false
+    - id: 14
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: age_group
+      label: Age Group
+      hint: For demographic purposes
+      type: select_one
+      options:
+      - Under 18
+      - 18 to 24
+      - 25 to 34
+      - 35 to 44
+      - 45 to 54
+      - 55 to 64
+      - 65 or older
+      required: true
+    - id: 16
+      name: zip_code
+      label: ZIP Code
+      hint: Where are you located
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: referral_source
+      label: Who Referred You
+      hint: If someone referred you, their name
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: special_requests
+      label: Special Requests or Comments
+      hint: Anything else you would like to share
+      type: text
+      options: []
+      required: false

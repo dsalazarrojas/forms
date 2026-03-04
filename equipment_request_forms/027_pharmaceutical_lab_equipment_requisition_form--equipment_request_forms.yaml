@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pharmaceutical Lab Equipment Requisition Form
+    pages:
+    - id: 1
+      name: equipment_request_form_1
+      label: Lab Equipment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lab_equipment_request
+      label: lab_equipment_request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: quantity_issued
+      label: quantity_issued
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: date_issued
+      label: date_issued
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: equipment_status
+      label: equipment_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: equipment_request_form_2
+      label: Lab Equipment Request Form 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: quantity_issued_2
+      label: quantity_issued_2
+      hint: null
+      type: number
+      options: []
+      required: false

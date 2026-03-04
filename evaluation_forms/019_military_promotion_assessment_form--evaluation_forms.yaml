@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Military Promotion Assessment Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: middle_name
+      label: Middle Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: promotion_date
+      label: Promotion Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: promotion_status
+      label: Promotion Status
+      hint: null
+      type: select_one
+      options:
+      - Active Duty
+      - Retired
+      - Reserve
+      required: true
+    - id: 6
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: unit_recommendation
+      label: Unit Recommendation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: commander_recommendation
+      label: Commander Recommendation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: officer_name
+      label: Officer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: officer_rank
+      label: Officer Rank
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: evaluation_type
+      label: Evaluation Type
+      hint: null
+      type: select_one
+      options:
+      - Form A
+      - Form B
+      - Form C
+      required: true
+    - id: 13
+      name: evaluation_period
+      label: Evaluation Period
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: officer_signature
+      label: Officer Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true

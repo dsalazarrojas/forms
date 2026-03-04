@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: psychiatric_evaluation_form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: assessment
+      label: assessment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: diagnosis
+      label: diagnosis
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: treatment_plan
+      label: treatment plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medication
+      label: medication
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: patient_info
+      label: patient info
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: evaluation_date
+      label: evaluation date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_time
+      label: evaluation time
+      hint: null
+      type: time
+      options: []
+      required: false

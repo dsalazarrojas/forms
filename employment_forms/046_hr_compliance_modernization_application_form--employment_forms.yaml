@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Compliance Modernization Application Form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_goals
+      label: Project Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_timeline
+      label: Project Timeline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: project_resources
+      label: Project Resources
+      hint: null
+      type: select_multiple
+      options:
+      - HR teams
+      - consultants
+      - compliance leaders
+      required: false
+    - id: 6
+      name: project_phases
+      label: Project Phases
+      hint: null
+      type: select_one
+      options:
+      - Phase 1
+      - Phase 2
+      - Phase 3
+      - Phase 4
+      - Phase 5
+      required: false
+    - id: 7
+      name: project_review
+      label: Project Review
+      hint: null
+      type: select_one
+      options:
+      - Regularly
+      - As Needed
+      - Quarterly
+      required: false
+    - id: 8
+      name: project_comments
+      label: Project Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - In Progress
+      - Cancelled
+      required: false
+    - id: 10
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: user_phone
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: project_lead
+      label: Project Lead
+      hint: null
+      type: select_one
+      options:
+      - Project Manager
+      - Team Lead
+      - HR Generalist
+      required: false
+    - id: 14
+      name: project_notes
+      label: Project Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: project_attachments
+      label: Project Attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: project_attachment_type
+      label: Attachment Type
+      hint: null
+      type: select_one
+      options:
+      - Document
+      - Image
+      required: false
+    - id: 17
+      name: attachment_description
+      label: Attachment Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: attachment_data
+      label: Attachment Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: attachment_url
+      label: Attachment URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: project_tags
+      label: Project Tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: user_tags
+      label: User Tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: project_priority
+      label: Project Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 23
+      name: project_deadline
+      label: Project Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: project_estimated_time
+      label: Project Estimated Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: project_review_cycle
+      label: Project Review Cycle
+      hint: null
+      type: select_one
+      options:
+      - Regular
+      - As Needed
+      - Quarterly
+      required: true

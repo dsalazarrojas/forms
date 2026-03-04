@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Seminar Evaluation Form
+    pages:
+    - id: 1
+      name: seminar_date
+      label: Seminar Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: seminar_attendance
+      label: Attendance
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Present''}'
+      - '{''id'': 2, ''name'': ''Absent''}'
+      - '{''id'': 3, ''name'': ''Unable to attend''}'
+      required: true
+    - id: 3
+      name: seminar_satisfaction
+      label: Satisfaction with the Seminar
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Very Good''}'
+      - '{''id'': 2, ''name'': ''Good''}'
+      - '{''id'': 3, ''name'': ''Fair''}'
+      - '{''id'': 4, ''name'': ''Poor''}'
+      required: true
+    - id: 4
+      name: seminar_topics
+      label: Seminar Topics Covered
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Relevant''}'
+      - '{''id'': 2, ''name'': ''Partially Relevant''}'
+      - '{''id'': 3, ''name'': ''Not Relevant''}'
+      required: false
+    - id: 5
+      name: seminar_organization
+      label: Seminar Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: seminar_facilitator
+      label: Seminar Facilitator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: seminar_materials
+      label: Seminar Materials
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Useful''}'
+      - '{''id'': 2, ''name'': ''Fair''}'
+      - '{''id'': 3, ''name'': ''Not Enough''}'
+      required: false
+    - id: 8
+      name: seminar_location
+      label: Seminar Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: seminar_rating
+      label: Seminar Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: seminar_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: seminar_recommend
+      label: Would you Recommend
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      - '{''id'': 3, ''name'': ''Unable to say''}'
+      required: true
+    - id: 12
+      name: seminar_followup
+      label: Follow Up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: seminar_suggestions
+      label: Suggestions for Improvement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: seminar_next_seminar
+      label: Next Seminar
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Within 1 month''}'
+      - '{''id'': 2, ''name'': ''Within 3 months''}'
+      - '{''id'': 3, ''name'': ''Within 6 months''}'
+      - '{''id'': 4, ''name'': ''Never''}'
+      required: true
+    - id: 15
+      name: seminar_additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: seminar_additional_suggestions
+      label: Additional Suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: seminar_next_seminar_suggestions
+      label: Suggestions for Next Seminar
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: seminar_attendance_frequency
+      label: How often do you attend Seminars
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Every Month''}'
+      - '{''id'': 2, ''name'': ''Every 3 months''}'
+      - '{''id'': 3, ''name'': ''Every 6 months''}'
+      - '{''id'': 4, ''name'': ''Rarely''}'
+      required: false
+    - id: 19
+      name: seminar_attendance_frequency_suggestions
+      label: Suggestions for Attendance Frequency
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: seminar_frequency_suggestions
+      label: Suggestions for Frequency of Seminars
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: seminar_attendance_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: seminar_frequency_next_seminar
+      label: Next Seminar Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Within 1 month''}'
+      - '{''id'': 2, ''name'': ''Within 3 months''}'
+      - '{''id'': 3, ''name'': ''Within 6 months''}'
+      - '{''id'': 4, ''name'': ''Never''}'
+      required: false
+    - id: 23
+      name: seminar_additional_next_seminar
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: seminar_additional_frequency
+      label: Additional Frequency Suggestion
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: seminar_satisfaction_scale
+      label: Satisfaction Scale
+      hint: null
+      type: number
+      options: []
+      required: true

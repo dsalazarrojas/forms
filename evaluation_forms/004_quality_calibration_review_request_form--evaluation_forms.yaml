@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quality Calibration Review Request Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: review_type
+      label: Review Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: rating_scale
+      label: Rating Scale
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: review_due_date
+      label: Review Due Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: review_completed
+      label: Review Completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: quality_issues
+      label: Quality Issues
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 14
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 17
+      name: next_review
+      label: Next Review
+      hint: null
+      type: date
+      options: []
+      required: false

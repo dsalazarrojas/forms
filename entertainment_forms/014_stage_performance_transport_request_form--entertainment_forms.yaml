@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stage Performance Transport Request Form
+    pages:
+    - id: 1
+      name: performer_details
+      label: performer_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: crew_details
+      label: crew_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: equipment_details
+      label: equipment_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: transport_details
+      label: transport_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: performer_name
+      label: performer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: performer_type
+      label: performer_type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Actor''}'
+      - '{''name'': ''Dancer''}'
+      - '{''name'': ''Musician''}'
+      required: false
+    - id: 8
+      name: crew_size
+      label: crew_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: transport_method
+      label: transport_method
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Car''}'
+      - '{''name'': ''Van''}'
+      - '{''name'': ''Bus''}'
+      required: false
+    - id: 10
+      name: transport_cost
+      label: transport_cost
+      hint: null
+      type: number
+      options: []
+      required: false

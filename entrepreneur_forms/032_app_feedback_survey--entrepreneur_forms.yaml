@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: App Feedback Survey
+    pages:
+    - id: 1
+      name: user_name
+      label: Your Name (Optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_email
+      label: Your Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: app_name
+      label: Which app are you providing feedback for?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: platform_used
+      label: Which platform do you use most?
+      hint: null
+      type: select_one
+      options:
+      - iOS
+      - Android
+      - Web
+      - Desktop
+      required: true
+    - id: 5
+      name: overall_rating
+      label: Overall Rating
+      hint: 1 to 5 stars
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: value_for_money
+      label: Rating for Value for Money
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 7
+      name: design_satisfaction
+      label: Satisfaction with App Design and UI
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: performance_rating
+      label: Rating for App Speed and Performance
+      hint: null
+      type: select_one
+      options:
+      - Very Fast
+      - Adequate
+      - Slow
+      - Unusable
+      required: true
+    - id: 9
+      name: usage_purpose
+      label: What is your main reason for using this app?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: best_feature
+      label: What is the best feature of the app?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: worst_feature
+      label: What is the worst feature of the app?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: competitor_apps
+      label: Do you use any competitor apps?
+      hint: If yes, which ones?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: interview_willingness
+      label: Would you be willing to participate in a brief user interview?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

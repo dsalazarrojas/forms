@@ -1,0 +1,102 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Department Performance Evaluation Form
+    pages:
+    - id: 1
+      name: evaluation_header
+      label: -- Department Performance Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: department_name
+      label: Department name
+      hint: Name of the department being evaluated
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: evaluator_name
+      label: Evaluator name
+      hint: Person completing the evaluation
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: evaluation_period
+      label: Evaluation period
+      hint: Academic year or dates covered
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: teaching_quality
+      label: Teaching quality rating
+      hint: Rate overall teaching effectiveness
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Fair
+        - Poor
+      required: true
+    - id: 6
+      name: research_output
+      label: Research output and impact
+      hint: Rate research productivity and impact
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Fair
+        - Poor
+      required: true
+    - id: 7
+      name: student_support
+      label: Student support services
+      hint: Evaluate advising and support services
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Fair
+        - Poor
+      required: true
+    - id: 8
+      name: financial_management
+      label: Financial management
+      hint: Assessment of budget and resource use
+      type: select_one
+      options:
+        - Strong
+        - Adequate
+        - Needs improvement
+        - Concern
+      required: false
+    - id: 9
+      name: strengths
+      label: Department strengths
+      hint: List notable achievements and strengths
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: recommendations
+      label: Key recommendations for improvement
+      hint: Actionable recommendations for the next period
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Management Consulting Value Survey
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consultant_details
+      label: Consultant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: project_value
+      label: Project Value
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': 1, ''label'': ''High''}'
+      - '{''option'': 2, ''label'': ''Medium''}'
+      - '{''option'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 5
+      name: project_outcome
+      label: Project Outcome
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': 1, ''label'': ''Successful''}'
+      - '{''option'': 2, ''label'': ''Partially Successful''}'
+      - '{''option'': 3, ''label'': ''Not Successful''}'
+      required: false
+    - id: 6
+      name: project_outcome_additional
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': 1, ''label'': ''In Progress''}'
+      - '{''option'': 2, ''label'': ''Complete''}'
+      - '{''option'': 3, ''label'': ''Cancelled''}'
+      required: false
+    - id: 10
+      name: consultant_rating
+      label: Consultant Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: overall_value
+      label: Overall Value
+      hint: null
+      type: number
+      options: []
+      required: false

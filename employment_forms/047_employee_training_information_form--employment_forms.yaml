@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Training Information Form
+    pages:
+    - id: 1
+      name: employee_training_information_form
+      label: employee_training
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: company_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: training_type
+      label: training_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: training_start_date
+      label: training_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: training_duration
+      label: training_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: training_employees
+      label: training_employees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: training_location
+      label: training_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: training_termination_date
+      label: training_termination_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: training_evaluation_date
+      label: training_evaluation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: manager_comments
+      label: manager_comments
+      hint: null
+      type: note
+      options: []
+      required: false

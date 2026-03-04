@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sickness Leave Form
+    pages:
+    - id: 1
+      name: employee_details
+      label: Employee Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: sickness_leave_dates
+      label: Sickness Leave Dates
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: sickness_reason
+      label: Sickness Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: doctor_details
+      label: Doctor Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: pay_details
+      label: Pay Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: supervisor_approval
+      label: Supervisor Approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: employee_confirmation
+      label: Employee Confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: submission
+      label: Submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: submitted
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: attachments
+      label: Attachments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Theater Cast Media Consent Form
+    pages:
+    - id: 1
+      name: performer_information
+      label: Performer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guardian_consent
+      label: Guardian Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: media_usage
+      label: Media Usage
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 4
+      name: photo_shoots
+      label: Photo Shoots
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: video_shoots
+      label: Video Shoots
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: photo_shoots_additional
+      label: Photo Shoots Additional
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: video_shoots_additional
+      label: Video Shoots Additional
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: media_shows
+      label: Media Shows
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: media_shows_additional
+      label: Media Shows Additional
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: show_details
+      label: Show Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: show_date
+      label: Show Date
+      hint: null
+      type: time
+      options: []
+      required: false

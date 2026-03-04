@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Education Platform Evaluation Form
+    pages:
+    - id: 1
+      name: patient_education_platform_evaluation_form
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_platform
+      label: What is your current patient education platform?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''A''}'
+      - '{''text'': ''B''}'
+      - '{''text'': ''C''}'
+      - '{''text'': ''D''}'
+      required: false
+    - id: 3
+      name: platform_rating
+      label: Rate the platform
+      hint: Rate on a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: platform_usefulness
+      label: How often do you use the platform?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': 1}'
+      - '{''text'': 2}'
+      - '{''text'': 3}'
+      - '{''text'': 4}'
+      - '{''text'': 5}'
+      required: false
+    - id: 5
+      name: platform_improve_education
+      label: Has the platform improved your education?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''A''}'
+      - '{''text'': ''B''}'
+      - '{''text'': ''C''}'
+      - '{''text'': ''D''}'
+      required: false
+    - id: 6
+      name: platform_improve_treatment
+      label: Has the platform improved your treatment?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''A''}'
+      - '{''text'': ''B''}'
+      - '{''text'': ''C''}'
+      - '{''text'': ''D''}'
+      required: false
+    - id: 7
+      name: platform_satisfaction
+      label: How satisfied are you with the platform?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: platform_educational_content
+      label: What type of content do you typically seek on the platform?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': 1}'
+      - '{''text'': 2}'
+      - '{''text'': 3}'
+      - '{''text'': 4}'
+      - '{''text'': 5}'
+      required: false
+    - id: 9
+      name: platform_favourite_feature
+      label: What do you like most about the platform?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_recommendation
+      label: Would you recommend this platform to a colleague?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': True}'
+      - '{''text'': False}'
+      required: false
+    - id: 11
+      name: platform_improvement
+      label: What could be improved in the platform?
+      hint: null
+      type: text
+      options: []
+      required: false

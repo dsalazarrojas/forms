@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: precision_healthcare_technology_study_evaluation_form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: study_id
+      label: study_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: healthcare_technology_name
+      label: healthcare_technology_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: evaluation_questions
+      label: evaluation_questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: effectiveness
+      label: effectiveness
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: usability
+      label: usability
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: recommendation
+      label: recommendation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: rating
+      label: rating
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false

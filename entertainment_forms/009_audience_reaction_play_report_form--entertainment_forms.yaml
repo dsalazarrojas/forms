@@ -1,0 +1,197 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Audience Reaction Play Report Form
+    pages:
+      - id: 1
+        name: reporter_name
+        label: Reporter Name
+        hint: Name of person submitting this report
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: reporter_role
+        label: Reporter Role
+        hint: Your role in the production
+        type: select_one
+        options:
+          - Stage Manager
+          - Front of House Manager
+          - Marketing Team
+          - Production Manager
+          - Director
+          - Other
+        required: true
+      - id: 3
+        name: play_title
+        label: Play Title
+        hint: Name of the performance
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: performance_date
+        label: Performance Date
+        hint: Date of this performance
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: performance_time
+        label: Performance Time
+        hint: Start time of performance
+        type: time
+        options: []
+        required: true
+      - id: 6
+        name: venue_name
+        label: Venue Name
+        hint: Theater or venue name
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: audience_size
+        label: Audience Size
+        hint: Approximate number of attendees
+        type: select_one
+        options:
+          - Under 100
+          - 100-250
+          - 251-500
+          - 501-750
+          - 751-1000
+          - Over 1000
+        required: true
+      - id: 8
+        name: capacity_percentage
+        label: Capacity Percentage
+        hint: How full was the venue?
+        type: select_one
+        options:
+          - Under 50%
+          - 50-75%
+          - 76-90%
+          - 91-100%
+          - Sold Out
+        required: true
+      - id: 9
+        name: audience_engagement_level
+        label: Audience Engagement Level
+        hint: Overall audience engagement during performance
+        type: select_one
+        options:
+          - Very High - Highly responsive
+          - High - Good engagement
+          - Moderate - Average response
+          - Low - Limited engagement
+          - Very Low - Minimal response
+        required: true
+      - id: 10
+        name: laughter_frequency
+        label: Laughter Frequency
+        hint: How often did the audience laugh?
+        type: select_one
+        options:
+          - Constant laughter
+          - Frequent laughter
+          - Occasional laughter
+          - Minimal laughter
+          - No noticeable laughter
+        required: true
+      - id: 11
+        name: applause_moments
+        label: Applause Moments
+        hint: When did the audience applaud?
+        type: select_multiple
+        options:
+          - Opening scene
+          - After major monologues
+          - Scene changes
+          - Cast entrances
+          - Standing ovation
+          - Curtain call
+          - Minimal applause
+        required: true
+      - id: 12
+        name: emotional_response
+        label: Emotional Response
+        hint: What emotions did you observe?
+        type: select_multiple
+        options:
+          - Joy
+          - Sadness
+          - Tension
+          - Excitement
+          - Surprise
+          - Contemplation
+          - Neutral
+        required: true
+      - id: 13
+        name: audience_demographics
+        label: Audience Demographics
+        hint: General age range of audience
+        type: select_one
+        options:
+          - Mostly young adults (18-30)
+          - Mostly adults (31-50)
+          - Mostly mature (51+)
+          - Mixed ages
+          - Family-oriented
+        required: true
+      - id: 14
+        name: notable_reactions
+        label: Notable Reactions
+        hint: Describe any standout audience reactions
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: technical_issues_impact
+        label: Technical Issues Impact
+        hint: Did any technical issues affect audience response?
+        type: select_one
+        options:
+          - No issues observed
+          - Minor issues, no impact
+          - Some issues, slight impact
+          - Significant issues, noticeable impact
+        required: true
+      - id: 16
+        name: overall_audience_satisfaction
+        label: Overall Audience Satisfaction
+        hint: Rate perceived audience satisfaction
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 17
+        name: recommendations_for_improvement
+        label: Recommendations for Improvement
+        hint: Suggestions based on audience reactions
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: report_submitted_by
+        label: Report Submitted By
+        hint: Type your name to confirm submission
+        type: text
+        options: []
+        required: true

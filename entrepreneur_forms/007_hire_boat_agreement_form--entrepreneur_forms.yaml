@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hire Boat Agreement Form
+    pages:
+    - id: 1
+      name: hire_boat_agreement_form_page_1
+      label: Hire Boat Agreement Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hire_boat_agreement_form_page_2
+      label: Boat Details
+      hint: Please provide the details of the boat you are hiring
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: hire_boat_agreement_form_page_3
+      label: Boat Type
+      hint: Sail, Speed, Cruiser, etc
+      type: select_one
+      options:
+      - Sail
+      - Speed
+      - Cruiser
+      - Houseboat
+      - Pontoon
+      - Runabout
+      - Pontoon Boat
+      - Bowrider
+      - Bowrider Boat
+      - Kayak
+      - Canoe
+      - Pontoon Boat
+      - Houseboat
+      required: false
+    - id: 4
+      name: hire_boat_agreement_form_page_4
+      label: Number of Days
+      hint: How many days
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: hire_boat_agreement_form_page_5
+      label: Hire Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: hire_boat_agreement_form_page_6
+      label: Hire Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: hire_boat_agreement_form_page_7
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: hire_boat_agreement_form_page_8
+      label: Return Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: hire_boat_agreement_form_page_9
+      label: Total Price
+      hint: The total amount of your agreement
+      type: number
+      options: []
+      required: false

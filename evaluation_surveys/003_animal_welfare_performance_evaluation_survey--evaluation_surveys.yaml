@@ -1,0 +1,227 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Animal Welfare Performance Evaluation Survey
+    pages:
+    - id: 1
+      name: evaluator_info_header
+      label: -- Evaluator Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: evaluator_name
+      label: Evaluator Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: evaluator_role
+      label: Your Role at the Organization
+      hint: Position or title
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: evaluation_date
+      label: Evaluation Date
+      hint: Date of this assessment
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: facility_header
+      label: -- Facility Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: facility_name
+      label: Facility Name
+      hint: Name of animal shelter or clinic
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: facility_type
+      label: Facility Type
+      hint: Select the type of facility
+      type: select_one
+      options:
+      - Animal Shelter
+      - Veterinary Clinic
+      - Wildlife Rehabilitation Center
+      - Sanctuary
+      - Research Facility
+      - Boarding Facility
+      required: true
+    - id: 8
+      name: care_standards_header
+      label: -- Animal Care Standards --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: housing_conditions
+      label: Housing and Living Conditions
+      hint: Rate the quality of animal housing and space
+      type: select_one
+      options:
+      - Excellent - Exceeds standards
+      - Good - Meets all standards
+      - Satisfactory - Mostly adequate
+      - Poor - Below standards
+      - Needs Improvement - Significant issues
+      required: true
+    - id: 10
+      name: nutrition_standards
+      label: Nutrition and Feeding Practices
+      hint: Rate the quality of animal nutrition and feeding
+      type: select_one
+      options:
+      - Excellent - Exceeds standards
+      - Good - Meets all standards
+      - Satisfactory - Mostly adequate
+      - Poor - Below standards
+      - Needs Improvement - Significant issues
+      required: true
+    - id: 11
+      name: health_medical_care
+      label: Health and Medical Care
+      hint: Rate the quality of medical care and health services
+      type: select_one
+      options:
+      - Excellent - Exceeds standards
+      - Good - Meets all standards
+      - Satisfactory - Mostly adequate
+      - Poor - Below standards
+      - Needs Improvement - Significant issues
+      required: true
+    - id: 12
+      name: sanitation_hygiene
+      label: Sanitation and Hygiene
+      hint: Rate cleanliness and sanitation practices
+      type: select_one
+      options:
+      - Excellent - Exceeds standards
+      - Good - Meets all standards
+      - Satisfactory - Mostly adequate
+      - Poor - Below standards
+      - Needs Improvement - Significant issues
+      required: true
+    - id: 13
+      name: enrichment_socialization
+      label: Enrichment and Socialization
+      hint: Rate animal enrichment and interaction activities
+      type: select_one
+      options:
+      - Excellent - Exceeds standards
+      - Good - Meets all standards
+      - Satisfactory - Mostly adequate
+      - Poor - Below standards
+      - Needs Improvement - Significant issues
+      required: true
+    - id: 14
+      name: staff_training_header
+      label: -- Staff and Operations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: staff_competency
+      label: Staff Competency and Training
+      hint: Rate staff knowledge and expertise
+      type: select_one
+      options:
+      - Excellent - Highly trained staff
+      - Good - Adequate training
+      - Satisfactory - Basic competency
+      - Poor - Inadequate training
+      - Needs Improvement - Significant gaps
+      required: true
+    - id: 16
+      name: safety_protocols
+      label: Safety and Emergency Protocols
+      hint: Rate safety procedures and emergency readiness
+      type: select_one
+      options:
+      - Excellent - Exceeds standards
+      - Good - Meets all standards
+      - Satisfactory - Mostly adequate
+      - Poor - Below standards
+      - Needs Improvement - Significant issues
+      required: true
+    - id: 17
+      name: record_keeping
+      label: Record Keeping and Documentation
+      hint: Rate animal records and documentation practices
+      type: select_one
+      options:
+      - Excellent - Comprehensive records
+      - Good - Complete and organized
+      - Satisfactory - Mostly complete
+      - Poor - Incomplete records
+      - Needs Improvement - Significant gaps
+      required: true
+    - id: 18
+      name: strengths_areas
+      label: What are the facility's greatest strengths
+      hint: Describe the most positive aspects
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: improvement_areas
+      label: Areas for Improvement
+      hint: Identify specific areas needing attention
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: corrective_actions
+      label: Recommended Corrective Actions
+      hint: Specific steps to address issues
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_date
+      label: Recommended Follow-Up Date
+      hint: When should the next evaluation occur
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: compliance_status
+      label: Overall Compliance Status
+      hint: Rate overall compliance with animal welfare standards
+      type: select_one
+      options:
+      - Fully Compliant
+      - Substantially Compliant
+      - Partially Compliant
+      - Non-Compliant
+      required: true
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other observations or notes
+      type: text
+      options: []
+      required: false

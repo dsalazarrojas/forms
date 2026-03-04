@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trip Evaluation Form
+    pages:
+    - id: 1
+      name: trip_date
+      label: Trip Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: trip_services
+      label: trip_services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: services
+      label: Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: dates
+      label: Dates
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: client_phone_number
+      label: client_phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: project_organization
+      label: project_organization
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: event_planner
+      label: event_planner
+      hint: null
+      type: text
+      options: []
+      required: false

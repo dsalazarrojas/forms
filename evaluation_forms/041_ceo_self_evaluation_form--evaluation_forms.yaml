@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: CEO Self-Evaluation Form
+    pages:
+    - id: 1
+      name: self_eval_intro
+      label: -- CEO Annual Self-Reflection --
+      hint: This document is intended for self-assessment and will be shared with
+        the Board of Directors.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: ceo_name_self
+      label: CEO Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: self_eval_period
+      label: Fiscal Year for Evaluation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: vision_achievement_self
+      label: Progress on Strategic Vision and Mission
+      hint: How effectively did I move the company toward its long-term vision?
+      type: select_one
+      options:
+      - 1 - Significant Improvement Needed
+      - 2 - Growing Toward Goals
+      - 3 - Met Objectives
+      - 4 - Exceeded Objectives
+      - 5 - Exceptional Results
+      required: true
+    - id: 5
+      name: strategic_vision_narrative
+      label: Strategic Vision - Key Accomplishments
+      hint: Highlight your top 3 strategic successes.
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: financial_goals_self
+      label: Financial Stewardship and Performance
+      hint: Did the organization meet its financial targets under my leadership?
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 7
+      name: operational_excellence_self
+      label: Operational Excellence and Efficiency
+      hint: Improvements in internal processes and resource management.
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 8
+      name: talent_culture_self
+      label: Team Leadership and Organizational Culture
+      hint: Impact on employee engagement, retention, and leadership development.
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 9
+      name: board_relations_self
+      label: Relationship with the Board of Directors
+      hint: Effectiveness of communication and transparency with the board.
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 10
+      name: top_challenge_overcome
+      label: Most significant challenge overcome this year
+      hint: Describe the situation and the outcome.
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: personal_growth_goals
+      label: Personal Leadership Goals for the Next Period
+      hint: Where do you intend to focus your personal development?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: resource_needs_self
+      label: What additional resources or support do you need from the Board?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: overall_self_rating_summary
+      label: Overall Performance Self-Rating
+      hint: null
+      type: select_one
+      options:
+      - Developing
+      - Proficient
+      - High Performer
+      - Outstanding
+      required: true
+    - id: 14
+      name: self_eval_digital_sign
+      label: CEO Signature Confirmation
+      hint: null
+      type: select_one
+      options:
+      - I Confirm this Self-Evaluation
+      - Other
+      required: true
+    - id: 15
+      name: self_eval_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

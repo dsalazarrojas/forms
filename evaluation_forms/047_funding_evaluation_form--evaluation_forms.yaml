@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Funding Evaluation Form
+    pages:
+    - id: 1
+      name: application_form
+      label: Application Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_description
+      label: Project Description
+      hint: Provide a brief description of the project.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: funding_amount
+      label: Funding Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: project_start_date
+      label: Project Start Date
+      hint: Select the start date for the project.
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: project_end_date
+      label: Project End Date
+      hint: Select the end date for the project.
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: project_status
+      label: Project Status
+      hint: Select the current status of the project.
+      type: select_one
+      options:
+      - active
+      - inactive
+      required: false
+    - id: 7
+      name: evaluation_score
+      label: Evaluation Score
+      hint: Evaluate the project based on its quality and impact.
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_comment
+      label: Evaluation Comment
+      hint: Add any additional comments about the project.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_category
+      label: Project Category
+      hint: Select a category for the project.
+      type: select_one
+      options:
+      - category1
+      - category2
+      required: false
+    - id: 10
+      name: project_lead
+      label: Project Lead
+      hint: Enter the name of the project lead.
+      type: text
+      options: []
+      required: false

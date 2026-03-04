@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Instructor Intern Evaluation Form
+    pages:
+    - id: 1
+      name: facility
+      label: Facility
+      hint: null
+      type: select_multiple
+      options:
+      - Facility name
+      - Facility location
+      required: true
+    - id: 2
+      name: intern
+      label: Intern
+      hint: null
+      type: select_one
+      options:
+      - Intern 1
+      - Intern 2
+      - Intern 3
+      required: true
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: submitted_at
+      label: Submitted
+      hint: null
+      type: date
+      options: []
+      required: false

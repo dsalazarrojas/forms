@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blended Learning Evaluation Group Registration Form
+    pages:
+    - id: 1
+      name: registration_intro
+      label: -- Blended Learning Program Group Registration --
+      hint: Register your group for our blended learning evaluation program
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: institution_name
+      label: Institution Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: institution_type
+      label: Institution Type
+      hint: null
+      type: select_one
+      options:
+      - K-12 School
+      - University
+      - Community College
+      - Corporate Training
+      - Non-profit
+      - Other
+      required: true
+    - id: 4
+      name: contact_name
+      label: Primary Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: institution_address
+      label: Institution Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: group_size
+      label: Number of Participants in Group
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: participant_type
+      label: Participant Type
+      hint: null
+      type: select_multiple
+      options:
+      - Students
+      - Faculty
+      - Administrators
+      - Staff
+      - Mixed
+      required: true
+    - id: 10
+      name: learning_level
+      label: Learning Level
+      hint: null
+      type: select_one
+      options:
+      - Elementary
+      - Middle School
+      - High School
+      - Undergraduate
+      - Graduate
+      - Professional Development
+      - Mixed
+      required: true
+    - id: 11
+      name: program_focus
+      label: Program Focus Area
+      hint: null
+      type: select_one
+      options:
+      - STEM
+      - Humanities
+      - Business
+      - Healthcare
+      - Technology
+      - General Education
+      required: true
+    - id: 12
+      name: blended_format
+      label: Current Blended Learning Format
+      hint: null
+      type: select_one
+      options:
+      - Synchronous online sessions
+      - Asynchronous modules
+      - Hybrid model
+      - Flipped classroom
+      - Other
+      required: true
+    - id: 13
+      name: technology_platform
+      label: Primary Learning Platform Used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: program_start_date
+      label: Program Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: program_end_date
+      label: Program End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: evaluation_goals
+      label: Primary Evaluation Goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: previous_evaluation
+      label: Have you participated in evaluations before?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: false
+    - id: 18
+      name: consent_to_participate
+      label: I consent to participate in this evaluation program
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 19
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true

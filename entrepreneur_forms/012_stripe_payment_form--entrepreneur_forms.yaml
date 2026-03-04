@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stripe Payment Form
+    pages:
+    - id: 1
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - credit_card
+      - paypal
+      - stripe_connect
+      required: false
+    - id: 2
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: card_number
+      label: Card Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: expiration_month
+      label: Expiration Month
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      required: false
+    - id: 6
+      name: expiration_year
+      label: Expiration Year
+      hint: null
+      type: select_one
+      options:
+      - '2024'
+      - '2025'
+      - '2026'
+      - '2027'
+      - '2028'
+      required: false
+    - id: 7
+      name: cvv
+      label: CVV
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

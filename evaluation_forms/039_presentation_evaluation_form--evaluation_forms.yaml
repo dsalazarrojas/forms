@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Presentation Evaluation Form
+    pages:
+    - id: 1
+      name: presentation_title
+      label: Presentation Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: speaker
+      label: speaker
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: content
+      label: Content
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: speaker_presentation_skill
+      label: Speaker Presentation Skill
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Unsatisfactory
+      required: true
+    - id: 5
+      name: speaker_presentation_skill_score
+      label: Speaker Presentation Skill Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: speaker_organization
+      label: speaker-organization
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Unsatisfactory
+      required: true
+    - id: 8
+      name: speaker_organization_score
+      label: speaker-organization
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: speaker_presentation_materials
+      label: Speaker Presentation Materials
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Unsatisfactory
+      required: true
+    - id: 10
+      name: speaker_presentation_clarity
+      label: Speaker Presentation Clarity
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Unsatisfactory
+      required: true
+    - id: 11
+      name: time_management
+      label: Time Management
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Unsatisfactory
+      required: true
+    - id: 12
+      name: organization_effectiveness
+      label: Organization Effectiveness
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Unsatisfactory
+      required: true
+    - id: 13
+      name: speaker_time_effectiveness
+      label: speaker-time-effectiveness
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Unsatisfactory
+      required: true
+    - id: 14
+      name: speaker_clarity_score
+      label: speaker-clarity-score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: organization_clarity_score
+      label: organization-clarity-score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: speaker_time_score
+      label: speaker-time-score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: organization_time_score
+      label: organization-time-score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: speaker_effectiveness_score
+      label: speaker-effectiveness-score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: organization_effectiveness_score
+      label: organization-effectiveness-score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: speaker_presentation_ease
+      label: Speaker Presentation Ease
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Unsatisfactory
+      required: true
+    - id: 21
+      name: speaker_presentation_ease_score
+      label: speaker-presentation-ease-score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: organization_presentation_ease
+      label: organization-presentation-ease
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Unsatisfactory
+      required: true
+    - id: 23
+      name: speaker_presentation_ease_score
+      label: organization-presentation-ease-score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: participant
+      label: participant
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

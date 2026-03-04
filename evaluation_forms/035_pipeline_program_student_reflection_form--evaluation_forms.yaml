@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: pipeline_program_student_reflection_form
+    pages:
+    - id: 1
+      name: program_start_date
+      label: Program Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: program_end_date
+      label: Program End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: program_location
+      label: Program Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: program_outcome
+      label: Program Outcome
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: program_outcome_other
+      label: Other Program Outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: program_outcome_other_description
+      label: Other Program Outcome Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: program_start_date_month
+      label: Start Date Month
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: program_end_date_month
+      label: End Date Month
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: goals
+      label: Goals
+      hint: What were your goals entering the program?
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: lessons_learned
+      label: Lessons Learned
+      hint: null
+      type: note
+      options: []
+      required: false

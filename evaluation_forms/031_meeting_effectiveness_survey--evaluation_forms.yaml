@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Meeting Effectiveness Survey
+    pages:
+    - id: 1
+      name: meeting_effectiveness_survey_start
+      label: Meeting Effectiveness
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: question_2
+      label: How would you rate the relevance of this meeting
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: question_3
+      label: Prophets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: question_4
+      label: How would you rate the relevance of this meeting
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: question_5
+      label: Meeting
+      hint: null
+      type: select_one
+      options:
+      - Meeting 1
+      - Meeting 2
+      - Meeting 3
+      required: false
+    - id: 6
+      name: question_6
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: question_7
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: question_8
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: question_9
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

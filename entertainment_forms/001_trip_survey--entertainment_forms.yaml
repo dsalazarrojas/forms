@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: trip_survey
+    pages:
+    - id: 1
+      name: trip_purpose
+      label: What is the purpose of your trip?
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: false
+    - id: 2
+      name: travel_dates
+      label: When are you traveling?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: travel_locations
+      label: Where are you traveling to?
+      hint: null
+      type: select_one
+      options:
+      - Option D
+      - Option E
+      - Option F
+      required: false
+    - id: 4
+      name: travel_type
+      label: What type of trip is this?
+      hint: null
+      type: select_one
+      options:
+      - Option G
+      - Option H
+      - Option I
+      required: false
+    - id: 5
+      name: travel_duration
+      label: How long is your trip?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: trip_details
+      label: Can you please enter any additional trip details?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_person
+      label: Who is your contact person?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: travel_group
+      label: Is this a group trip?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: trip_status
+      label: What is your trip status?
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

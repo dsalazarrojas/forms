@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: ohsms_maturity_assessment_survey
+    pages:
+    - id: 1
+      name: page_1
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: page_2
+      label: overall_site_maturity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: page_3
+      label: site_safety_management_system
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Low''}'
+      required: true
+    - id: 4
+      name: page_4
+      label: site_safety_training
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Regular''}'
+      - '{''id'': 2, ''label'': ''Sporadic''}'
+      - '{''id'': 3, ''label'': ''Never''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: true
+    - id: 5
+      name: page_5
+      label: site_incident_reporting
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''High''}'
+      - '{''id'': 2, ''label'': ''Low''}'
+      - '{''id'': 3, ''label'': ''None''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: true
+    - id: 6
+      name: page_6
+      label: site_hazard_identification
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: page_7
+      label: page_7
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: page_8
+      label: page_8
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: page_9
+      label: page_9
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: page_10
+      label: page_10
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: page_11
+      label: page_11
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: page_12
+      label: page_12
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: page_13
+      label: page_13
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: page_14
+      label: page_14
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: page_15
+      label: page_15
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: page_16
+      label: page_16
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: page_17
+      label: page_17
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: page_18
+      label: page_18
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: page_19
+      label: page_19
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: page_20
+      label: page_20
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: page_21
+      label: page_21
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: page_22
+      label: page_22
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: page_23
+      label: page_23
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: page_24
+      label: page_24
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: page_25
+      label: page_26
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

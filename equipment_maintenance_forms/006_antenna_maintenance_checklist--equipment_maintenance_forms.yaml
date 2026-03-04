@@ -1,0 +1,277 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Antenna Maintenance Checklist
+    pages:
+    - id: 1
+      name: technician_name
+      label: Technician Name
+      hint: Name of the technician performing maintenance
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: technician_id
+      label: Technician ID
+      hint: Employee or contractor ID number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: site_location
+      label: Site Location
+      hint: Address or location of antenna site
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: antenna_id
+      label: Antenna ID or Tag Number
+      hint: Unique identifier for the antenna
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: antenna_type
+      label: Antenna Type
+      hint: Type of antenna being serviced
+      type: select_one
+      options:
+        - Dipole
+        - Yagi
+        - Parabolic dish
+        - Panel antenna
+        - Omnidirectional
+        - Other
+      required: true
+    - id: 6
+      name: maintenance_date
+      label: Maintenance Date
+      hint: Date of maintenance activity
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: maintenance_type
+      label: Maintenance Type
+      hint: Type of maintenance being performed
+      type: select_one
+      options:
+        - Routine inspection
+        - Preventive maintenance
+        - Corrective maintenance
+        - Emergency repair
+        - Annual certification
+      required: true
+    - id: 8
+      name: weather_conditions
+      label: Weather Conditions
+      hint: Current weather during maintenance
+      type: select_one
+      options:
+        - Clear and sunny
+        - Cloudy
+        - Light rain
+        - Heavy rain
+        - Windy
+        - Stormy
+      required: true
+    - id: 9
+      name: safety_check_section
+      label: -- Safety Checks --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: ppe_used
+      label: Personal Protective Equipment Used
+      hint: Select all PPE worn during maintenance
+      type: select_multiple
+      options:
+        - Hard hat
+        - Safety harness
+        - Safety glasses
+        - Gloves
+        - Steel-toed boots
+        - High-visibility vest
+        - Fall protection equipment
+      required: true
+    - id: 11
+      name: site_safety_briefing
+      label: Site Safety Briefing Completed
+      hint: Was a safety briefing conducted
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: true
+    - id: 12
+      name: structural_inspection_section
+      label: -- Structural Inspection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: antenna_mounting
+      label: Antenna Mounting Condition
+      hint: Condition of mounting hardware
+      type: select_one
+      options:
+        - Excellent - No issues
+        - Good - Minor wear
+        - Fair - Some attention needed
+        - Poor - Requires repair
+        - Critical - Immediate action required
+      required: true
+    - id: 14
+      name: physical_damage
+      label: Physical Damage Observed
+      hint: Any visible damage to antenna
+      type: select_one
+      options:
+        - None
+        - Minor scratches
+        - Dents or deformation
+        - Cracks or fractures
+        - Severe damage
+      required: true
+    - id: 15
+      name: corrosion_check
+      label: Corrosion Check
+      hint: Signs of rust or corrosion
+      type: select_one
+      options:
+        - No corrosion
+        - Surface rust
+        - Moderate corrosion
+        - Severe corrosion
+      required: true
+    - id: 16
+      name: electrical_inspection_section
+      label: -- Electrical Inspection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: cable_condition
+      label: Cable and Connector Condition
+      hint: State of cables and connections
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Fair - Some wear
+        - Poor - Replace soon
+        - Critical - Replace immediately
+      required: true
+    - id: 18
+      name: signal_strength
+      label: Signal Strength Test
+      hint: Measured signal strength
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: swr_reading
+      label: SWR Reading
+      hint: Standing Wave Ratio measurement
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: grounding_check
+      label: Grounding System Check
+      hint: Condition of grounding
+      type: select_one
+      options:
+        - Properly grounded
+        - Minor issues
+        - Needs repair
+        - Not grounded
+      required: true
+    - id: 21
+      name: cleaning_performed
+      label: Cleaning Performed
+      hint: Was cleaning done during maintenance
+      type: select_one
+      options:
+        - Yes
+        - No
+        - Not applicable
+      required: true
+    - id: 22
+      name: parts_replaced
+      label: Parts Replaced
+      hint: List any parts that were replaced
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: issues_found
+      label: Issues Found
+      hint: Describe any problems discovered
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: corrective_actions
+      label: Corrective Actions Taken
+      hint: What was done to address issues
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_required
+      label: Follow-up Required
+      hint: Is additional work needed
+      type: select_one
+      options:
+        - No, maintenance complete
+        - Yes, schedule follow-up
+        - Yes, urgent attention needed
+      required: true
+    - id: 26
+      name: follow_up_date
+      label: Recommended Follow-up Date
+      hint: When should next maintenance occur
+      type: date
+      options: []
+      required: false
+    - id: 27
+      name: next_inspection_date
+      label: Next Scheduled Inspection
+      hint: Date for next routine inspection
+      type: date
+      options: []
+      required: true
+    - id: 28
+      name: technician_signature
+      label: Technician Signature
+      hint: Digital signature or name confirmation
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: supervisor_review
+      label: Supervisor Review Status
+      hint: Review status
+      type: select_one
+      options:
+        - Pending review
+        - Reviewed and approved
+        - Requires additional review
+      required: true

@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lash Lift & Tint Consent
+    pages:
+    - id: 1
+      name: lash_lift_tint_consent
+      label: Lash Lift Tint Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: lash_technician
+      label: Lash Technician
+      hint: null
+      type: select_one
+      options:
+      - Alexis
+      - Jim
+      - John
+      required: false
+    - id: 7
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Lash Lift
+      - Tint
+      - Both
+      required: false
+    - id: 8
+      name: service_location
+      label: Service Location
+      hint: null
+      type: select_one
+      options:
+      - Studio 1
+      - Studio 2
+      - Studio 3
+      required: false

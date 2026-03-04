@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Delivery Operations Evaluation Form
+    pages:
+    - id: 1
+      name: delivery_operations_evaluation_form_page_one
+      label: Delivery Operations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: delivery_operations_evaluation_form_page_two
+      label: Service Quality
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Satisfactory''}'
+      - '{''label'': ''Unsatisfactory''}'
+      required: false
+    - id: 3
+      name: delivery_operations_evaluation_form_page_three
+      label: Document Issues
+      hint: List specific documents that were not delivered correctly
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: delivery_operations_evaluation_form_page_four
+      label: Ongoing Improvements
+      hint: Suggest ways we can improve our delivery operations
+      type: select_multiple
+      options:
+      - '{''label'': ''Improve Communication''}'
+      - '{''label'': ''Reduce Delivery Time''}'
+      - '{''label'': ''Increase Accuracy''}'
+      required: false
+    - id: 5
+      name: delivery_operations_evaluation_form_page_five
+      label: Service Quality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: delivery_operations_evaluation_form_page_six
+      label: Document Issues
+      hint: List specific documents that were not delivered correctly
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: delivery_operations_evaluation_form_page_seven
+      label: Additional Comments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: delivery_operations_evaluation_form_page_eight
+      label: Email
+      hint: Enter the email of the person that delivered the documents
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: delivery_operations_evaluation_form_page_nine
+      label: Phone Number
+      hint: Enter the phone number of the person that delivered the documents
+      type: text
+      options: []
+      required: false

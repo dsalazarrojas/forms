@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bus Driver Evaluation Form
+    pages:
+    - id: 1
+      name: section_eval_header
+      label: -- Evaluation Metadata --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: driver_full_name
+      label: Driver Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: driver_employee_id
+      label: Driver Employee ID
+      hint: Staff identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: assigned_bus_route
+      label: Assigned Bus Route
+      hint: e.g. Route 42 - Downtown Express
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: vehicle_body_number
+      label: Vehicle Body Number
+      hint: The unique ID painted on the bus exterior
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: fleet_operator_name
+      label: Fleet Operator Name
+      hint: Company or agency name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: evaluation_date
+      label: Date of Evaluation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: section_driving_skills
+      label: -- Driving Skills Assessment --
+      hint: Rate the driver performance for each skill category
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: road_safety_awareness
+      label: Road Safety Awareness
+      hint: Following traffic signs, speed limits, and signals
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 10
+      name: vehicle_control_smoothness
+      label: Vehicle Control and Smoothness
+      hint: Braking, acceleration, and steering precision
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 11
+      name: schedule_adherence
+      label: Schedule Adherence and Timeliness
+      hint: Ability to maintain route timing safely
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 12
+      name: passenger_interaction_quality
+      label: Passenger Interaction Quality
+      hint: Professionalism and helpfulness towards commuters
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 13
+      name: cognitive_physical_limitations
+      label: Observations of Physical/Cognitive Limitations
+      hint: Any visible concerns regarding driver fitness
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: overall_performance_score
+      label: Overall Performance Score
+      hint: Numerical score from 1 (Low) to 10 (High)
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: evaluation_final_status
+      label: Final Evaluation Status
+      hint: Recommendation for continued operation
+      type: select_one
+      options:
+      - PASS - Full Certification
+      - PASS - Conditional/Monitoring Required
+      - FAIL - Retraining Necessary
+      - FAIL - Immediate Suspension
+      required: true
+    - id: 16
+      name: evaluator_signature_text
+      label: Evaluator Digital Signature
+      hint: Type your full name to certify this evaluation
+      type: text
+      options: []
+      required: true

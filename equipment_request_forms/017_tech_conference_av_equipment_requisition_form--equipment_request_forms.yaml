@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tech Conference AV Equipment Requisition Form
+    pages:
+    - id: 1
+      name: tech_conference_av_equipment_requisition_form_page_1
+      label: Tech Conference AV Equipment Requisition Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: presenter_details
+      label: presenter_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: equipment_requests
+      label: equipment_requests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: conference_details
+      label: conference_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: support_requirements
+      label: support_requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: tech_conference_av_equipment_requisition_form_page_2
+      label: Tech Conference AV Equipment Requisition Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: confirmation
+      label: confirmation
+      hint: Please confirm this information is accurate
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: presenter_confirmation
+      label: presenter_confirmation
+      hint: Please confirm you are a presenter
+      type: select_one
+      options:
+      - Confirm
+      - Decline
+      required: false
+    - id: 10
+      name: submission
+      label: submission
+      hint: Submit form
+      type: text
+      options: []
+      required: false

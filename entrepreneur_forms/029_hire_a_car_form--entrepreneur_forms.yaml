@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hire A Car Form
+    pages:
+    - id: 1
+      name: book_a_car
+      label: Book A Car
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Full Name
+      hint: Enter your name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your email
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: Enter your phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: car_type
+      label: Car Type
+      hint: null
+      type: select_multiple
+      options:
+      - BMW
+      - Toyota
+      - Honda
+      - Other
+      required: false
+    - id: 6
+      name: car_model
+      label: Car Model
+      hint: Enter your car model
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: car_year
+      label: Car Year
+      hint: Enter your car year
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: car_make
+      label: Car Make
+      hint: Enter your car make
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: pick_up_date
+      label: Pick Up Date
+      hint: Select your pick up date
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: drop_off_date
+      label: Drop Off Date
+      hint: Select drop off date
+      type: date
+      options: []
+      required: false

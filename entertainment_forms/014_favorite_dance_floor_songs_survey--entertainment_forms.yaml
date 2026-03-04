@@ -1,0 +1,39 @@
+inputSchema:
+  type: object
+  properties:
+    title: Favorite Dance Floor Songs Survey
+    pages:
+    - id: 1
+      name: favorite_dance_floor_songs_survey
+      label: favorite_dance_floor_songs_survey
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: music_genre
+      label: music_genre
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: song_title
+      label: favorite_songs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: event_planner
+      label: event_planner
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

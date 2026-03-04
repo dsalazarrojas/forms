@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: Morning Routine Evaluation Form
+    pages:
+    - id: 1
+      name: morning_routine_evaluation_form
+      label: Morning Routine Evaluation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sleep_schedule
+      label: sleep_schedule
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Regular''}'
+      - '{''value'': ''Irregular''}'
+      - '{''value'': ''Unknown''}'
+      required: false
+    - id: 3
+      name: wake_up_time
+      label: wake_up_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: morning_feelings
+      label: Morning feelings
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: exercise_frequency
+      label: Exercise Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Daily''}'
+      - '{''value'': ''2-3 times a week''}'
+      - '{''value'': ''Rarely''}'
+      required: false
+    - id: 6
+      name: morning_activities
+      label: Morning activities
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Breakfast''}'
+      - '{''value'': ''Exercise''}'
+      - '{''value'': ''Meditation''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 7
+      name: breakfast_time
+      label: Breakfast time
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''On time''}'
+      - '{''value'': ''Late''}'
+      - '{''value'': ''Skipped''}'
+      required: false
+    - id: 8
+      name: caffeine_consumption
+      label: Caffeine consumption
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Low''}'
+      - '{''value'': ''Moderate''}'
+      - '{''value'': ''High''}'
+      required: false
+    - id: 9
+      name: screen_time
+      label: Screen time
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Less than 30''}'
+      - '{''value'': ''30-60''}'
+      - '{''value'': ''More than 60''}'
+      required: false
+    - id: 10
+      name: wakefulness
+      label: Wakefulness
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Easy to wake up''}'
+      - '{''value'': ''Difficult''}'
+      - '{''value'': ''Not a morning person''}'
+      required: false
+    - id: 11
+      name: alertness
+      label: Alertness
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Alert''}'
+      - '{''value'': ''Not alert''}'
+      - '{''value'': ''Somewhat alert''}'
+      required: false
+    - id: 12
+      name: alertness_level
+      label: Alertness level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: alertness_level_how_to_improve
+      label: How to improve alertness
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Sleep hygiene''}'
+      - '{''value'': ''Exercise''}'
+      - '{''value'': ''Caffeine''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 14
+      name: sleep_quality
+      label: Sleep quality
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Poor''}'
+      required: false
+    - id: 15
+      name: sleep_quality_how_to_improve
+      label: How to improve sleep quality
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Sleep schedule''}'
+      - '{''value'': ''Exercise''}'
+      - '{''value'': ''Caffeine''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 16
+      name: wakefulness_how_to_improve
+      label: How to improve wakefulness
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Regular sleep schedule''}'
+      - '{''value'': ''Morning exercise''}'
+      - '{''value'': ''Caffeine''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 17
+      name: morning_routine
+      label: Morning routine
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: morning_routine_how_to_improve
+      label: Morning routine
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: exercise_frequency_how_to_improve
+      label: How to improve exercise frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Regular exercise''}'
+      - '{''value'': ''Morning exercise''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 20
+      name: exercise_duration
+      label: Exercise duration
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''15-30 minutes''}'
+      - '{''value'': ''30-60 minutes''}'
+      - '{''value'': ''More than 60 minutes''}'
+      required: false
+    - id: 21
+      name: exercise_frequency_improve
+      label: Exercise frequency improve
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Regular''}'
+      - '{''value'': ''Irregular''}'
+      - '{''value'': ''Not applicable''}'
+      required: false
+    - id: 22
+      name: sleep_duration
+      label: Sleep duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: wake_up_time_how_to_improve
+      label: How to improve wake up time
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Regular wake up time''}'
+      - '{''value'': ''Early''}'
+      - '{''value'': ''Late''}'
+      required: false
+    - id: 24
+      name: sleep_time
+      label: Sleep time
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''On time''}'
+      - '{''value'': ''Late''}'
+      - '{''value'': ''Skipped''}'
+      required: false

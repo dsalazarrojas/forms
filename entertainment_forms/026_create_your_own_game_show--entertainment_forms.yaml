@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Create Your Own Game Show
+    pages:
+    - id: 1
+      name: game_show_prophets
+      label: Game Show Concepts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: game_show_concept
+      label: Game Show Concept
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: target_audience
+      label: Audience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: prizes
+      label: Prizes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: game_show_scores
+      label: Game Show Scores
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: game_show_rules
+      label: Game Show Rules
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: game_show_duration
+      label: Game Show Duration
+      hint: null
+      type: text
+      options: []
+      required: false

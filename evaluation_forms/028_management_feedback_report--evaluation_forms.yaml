@@ -1,0 +1,98 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Management Feedback Report
+    pages:
+    - id: 1
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: manager_info
+      label: Manager's Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: manager_behavior
+      label: Manager Behavior
+      hint: What is your manager's management style?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: staff_motivation
+      label: Staff Motivation
+      hint: How motivated is your staff?
+      type: select_multiple
+      options:
+      - Highly Motivated
+      - Somewhat Motivated
+      - Low Motivated
+      - Very Low Motivated
+      required: false
+    - id: 5
+      name: areas_of_concern
+      label: Areas of Concern
+      hint: null
+      type: select_multiple
+      options:
+      - Communication
+      - Teamwork
+      - Time Management
+      - Productivity
+      required: false
+    - id: 6
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_name
+      label: Manager's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_email
+      label: Manager's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: report_submitted_by
+      label: Report Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: report_comments
+      label: Report Comments
+      hint: null
+      type: text
+      options: []
+      required: false

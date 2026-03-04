@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dermaplaning Consultation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Please enter your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Please enter your name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: Please enter your email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: medical_practitioner
+      label: Medical Practitioner
+      hint: Please enter your medical practitioner
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: skin_condition
+      label: Skin Condition
+      hint: Please select a condition
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: hair_type
+      label: Hair Type
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: treatment_plan
+      label: Treatment Plan
+      hint: Please enter your treatment plan
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: medical_history
+      label: Medical History
+      hint: Please enter your medical history
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: allergies
+      label: Allergies
+      hint: Please list any allergies
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_notes
+      label: Medical Notes
+      hint: Please enter your medical notes
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_procedure
+      label: Medical Procedure
+      hint: Please enter your medical procedure
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: expected_outcome
+      label: Expected Outcome
+      hint: Please enter your expected outcome
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: follow_up
+      label: Follow Up
+      hint: Please select follow up
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: follow_up_notes
+      label: Follow Up Notes
+      hint: Please enter your follow up notes
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_date
+      label: Follow Up Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_time
+      label: Follow Up Time
+      hint: "HH:MM"
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_location
+      label: Follow Up Location
+      hint: Please enter your follow up location
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_contact
+      label: Follow Up Contact
+      hint: Please enter your contact number
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_notes_2
+      label: Follow Up Notes 2
+      hint: Please enter your follow up notes 2
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_notes
+      label: Additional Notes
+      hint: Please enter your additional notes
+      type: text
+      options: []
+      required: false

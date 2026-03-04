@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physical Therapy Knee Evaluation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: medical_history
+      label: Medical History
+      hint: A physical therapy knee evaluation form is a questionnaire used by physical
+        therapists to get information about a client’s knee health and medical history.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: knee_history
+      label: Knee History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: knee_injury
+      label: Knee Injury
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: knee_surgery
+      label: Knee Surgery
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Planned
+      required: false
+    - id: 8
+      name: pain_level
+      label: Pain Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: knee_pain
+      label: Knee Pain
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: knee_function
+      label: Knee Function
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: knee_range
+      label: Knee Range
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: knee_stability
+      label: Knee Stability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: knee_alignment
+      label: Knee Alignment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

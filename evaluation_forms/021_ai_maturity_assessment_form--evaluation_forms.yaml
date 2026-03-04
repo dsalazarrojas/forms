@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: AI Maturity Assessment Form
+    pages:
+    - id: 1
+      name: --assessment_overview--
+      label: -- Assessment Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: assessor_name
+      label: Assessor name
+      hint: Person completing this assessment
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_unit
+      label: Business unit or department
+      hint: Unit being assessed
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: strategy_and_governance
+      label: Strategy and governance maturity
+      hint: Rate 1 lowest to 5 highest
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: data_and_infrastructure
+      label: Data and infrastructure maturity
+      hint: Rate 1 lowest to 5 highest
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: capabilities_and_skills
+      label: Capabilities and skills maturity
+      hint: Rate 1 lowest to 5 highest
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: processes_and_practices
+      label: Processes and practices maturity
+      hint: Rate 1 lowest to 5 highest
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: risk_and_compliance
+      label: Risk and compliance controls maturity
+      hint: Rate 1 lowest to 5 highest
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: technology_and_tools
+      label: AI technology and tools maturity
+      hint: Rate 1 lowest to 5 highest
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: maturity_summary
+      label: Summary of maturity assessment
+      hint: Provide a short summary and improvement priorities
+      type: text
+      options: []
+      required: false

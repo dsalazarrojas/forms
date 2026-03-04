@@ -1,0 +1,104 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: cross_training_feedback_survey
+    pages:
+    - id: 1
+      name: intro_1
+      label: Welcome to the cross training feedback survey
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_name
+      label: participant_name
+      hint: Enter the participant name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: training_program
+      label: what is the training program name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: rating_overall_satisfaction
+      label: rating over all satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 5
+      name: feedback_comments
+      label: Enter your feedback comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: rating_facilitators
+      label: rating facilitators
+      hint: null
+      type: select_multiple
+      options:
+      - excellent
+      - good
+      - average
+      - bad
+      - terrible
+      required: false
+    - id: 7
+      name: rating_materials
+      label: rating materials
+      hint: null
+      type: select_multiple
+      options:
+      - excellent
+      - good
+      - average
+      - bad
+      - terrible
+      required: false
+    - id: 8
+      name: rating_facilities
+      label: rating facilities
+      hint: null
+      type: select_multiple
+      options:
+      - excellent
+      - good
+      - average
+      - bad
+      - terrible
+      required: false
+    - id: 9
+      name: rating_time_management
+      label: rating time management
+      hint: null
+      type: select_multiple
+      options:
+      - excellent
+      - good
+      - average
+      - bad
+      - terrible
+      required: false

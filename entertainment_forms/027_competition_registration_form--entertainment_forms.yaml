@@ -1,0 +1,287 @@
+inputSchema:
+  type: object
+  properties:
+    title: Competition Registration Form
+    pages:
+    - id: 1
+      name: competition_name
+      label: Competition Name
+      hint: Name of the competition
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: competition_date
+      label: Competition Date
+      hint: When the competition takes place
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: competition_location
+      label: Competition Location
+      hint: Venue or location
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: participant_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: participant_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: participant_address
+      label: Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: participant_city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: participant_state
+      label: State or Province
+      hint: Your state or province
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: participant_zip
+      label: ZIP or Postal Code
+      hint: Your postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: participant_country
+      label: Country
+      hint: Your country
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Other
+      required: true
+    - id: 13
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: age_division
+      label: Age Division
+      hint: Your competition division
+      type: select_one
+      options:
+      - Junior - Under 18
+      - Young Adult - 18 to 25
+      - Adult - 26 to 40
+      - Masters - 41 to 55
+      - Senior - Over 55
+      - Open - All Ages
+      required: true
+    - id: 15
+      name: gender
+      label: Gender
+      hint: For competition categories
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: false
+    - id: 16
+      name: skill_level
+      label: Skill Level
+      hint: Your experience level
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Professional
+      - Elite
+      required: true
+    - id: 17
+      name: category_selection
+      label: Competition Category
+      hint: Select your category
+      type: select_one
+      options:
+      - Solo Performance
+      - Duo Performance
+      - Team Performance
+      - Group Performance
+      - Open Category
+      required: true
+    - id: 18
+      name: entry_title
+      label: Entry Title
+      hint: Name of your performance or entry
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: entry_description
+      label: Entry Description
+      hint: Brief description
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: team_members
+      label: Team Members
+      hint: List all team members if applicable
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: coach_instructor
+      label: Coach or Instructor
+      hint: Name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: organization_affiliation
+      label: Organization or School
+      hint: Your affiliation
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: special_needs
+      label: Special Needs or Accommodations
+      hint: Any requirements
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship to you
+      type: select_one
+      options:
+      - Spouse
+      - Parent
+      - Sibling
+      - Child
+      - Friend
+      - Other
+      required: true
+    - id: 27
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Any conditions we should know
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: entry_fee
+      label: Entry Fee Amount
+      hint: Fee for registration
+      type: number
+      options: []
+      required: true
+    - id: 29
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - Check
+      - Cash
+      required: true
+    - id: 30
+      name: terms_agreement
+      label: I agree to terms and conditions
+      hint: Competition rules
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 31
+      name: liability_waiver
+      label: Liability Waiver
+      hint: I waive liability claims
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 32
+      name: media_consent
+      label: Media Consent
+      hint: Photos and videos
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true
+    - id: 33
+      name: participant_signature
+      label: Participant Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true

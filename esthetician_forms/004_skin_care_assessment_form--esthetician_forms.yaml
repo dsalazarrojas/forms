@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skin Care Assessment Form
+    pages:
+    - id: 1
+      name: skin_care_questionnaire
+      label: Skin Care Questionnaire
+      hint: null
+      type: select_multiple
+      options:
+      - Acne
+      - Blemishes
+      - Fine lines
+      - Hyper-pigmentation
+      - Rosacea
+      - Scarring
+      required: false
+    - id: 2
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: skin_type
+      label: Skin Type
+      hint: null
+      type: select_one
+      options:
+      - Dry
+      - Oily
+      - Combination
+      - Normal
+      - Sensitive
+      - Rosacea-prone
+      required: false
+    - id: 4
+      name: skincare_products
+      label: Skincare Products
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Check the relevant medical conditions that you have been diagnosed with
+        or have a history of
+      type: select_multiple
+      options:
+      - Acne
+      - Allergies
+      - Chronic illness
+      - Eczema
+      - Fragile skin
+      - Hyper-pigmentation
+      - Rosacea
+      - Scarring
+      - Sensitive skin
+      required: false
+    - id: 7
+      name: medical_treatments
+      label: Medical Treatments
+      hint: null
+      type: select_multiple
+      options:
+      - Antihistamines
+      - Biologics
+      - Chemotherapy
+      - Follicular eczema treatments
+      - Retinol
+      - Steroids
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: skin_condition
+      label: Skin Condition
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Acne
+      - Blemishes
+      - Dry skin
+      - Eczema
+      - Folliculitis
+      - Hyper-pigmentation
+      - Rosacea
+      - Scarring
+      - Sensitive skin
+      required: false
+    - id: 10
+      name: medical_professional
+      label: Medical Professional
+      hint: null
+      type: select_one
+      options:
+      - Dermatologist
+      - Esthetician
+      - General Practitioner
+      - Nurse
+      - Pharmacist
+      required: false
+    - id: 11
+      name: treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: select_multiple
+      options:
+      - Chemical peeling
+      - Facial
+      - Microdermabrasion
+      - Microneedling
+      - Micro-needling
+      - Skin analysis
+      required: false

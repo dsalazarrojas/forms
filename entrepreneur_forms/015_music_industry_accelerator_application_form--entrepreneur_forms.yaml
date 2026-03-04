@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music Industry Accelerator Application Form
+    pages:
+    - id: 1
+      name: artist_name
+      label: Artist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: artist_email
+      label: artist_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: music_genre
+      label: music_genre
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Indie''}'
+      - '{''label'': ''Rock''}'
+      - '{''label'': ''Pop''}'
+      - '{''label'': ''Jazz''}'
+      required: false
+    - id: 4
+      name: music_style
+      label: music_style
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Classical''}'
+      - '{''label'': ''Folk''}'
+      - '{''label'': ''Blues''}'
+      - '{''label'': ''Electronic''}'
+      required: false
+    - id: 5
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: music_location
+      label: music_location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Studio''}'
+      - '{''label'': ''Home''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 10
+      name: application_form
+      label: application_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: website
+      label: website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: artist_statement
+      label: artist_statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: music_start
+      label: music_start
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Now''}'
+      - '{''label'': ''Soon''}'
+      - '{''label'': ''Not Yet''}'
+      - '{''label'': ''Later''}'
+      required: false
+    - id: 14
+      name: application_status
+      label: application_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Approved''}'
+      - '{''label'': ''In Progress''}'
+      - '{''label'': ''Rejected''}'
+      required: false
+    - id: 15
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: artist_phone
+      label: artist_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: artist_address
+      label: artist_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: artist_facebook
+      label: facebook
+      hint: null
+      type: text
+      options: []
+      required: false

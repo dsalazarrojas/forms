@@ -1,0 +1,48 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rock Paper Scissors Game
+    pages:
+    - id: 1
+      name: game_choice
+      label: Game Choice
+      hint: null
+      type: select_one
+      options:
+      - Rock
+      - Paper
+      - Scissors
+      required: false
+    - id: 2
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: player_email
+      label: Player Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: game_result
+      label: Game Result
+      hint: null
+      type: select_multiple
+      options:
+      - Rock wins
+      - Paper wins
+      - Scissors wins
+      required: false
+    - id: 5
+      name: player_choice
+      label: Player Choice
+      hint: null
+      type: select_one
+      options:
+      - Player Choice
+      - Other
+      required: false

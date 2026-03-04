@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Preventive Medicine Training Evaluation
+    pages:
+    - id: 1
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: training_time
+      label: Training Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: training_location
+      label: Training Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: instructor_role
+      label: Instructor Role
+      hint: null
+      type: select_one
+      options:
+      - Instructor
+      - Trainer
+      - Lecturer
+      required: false
+    - id: 7
+      name: course_attendance
+      label: Course Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - Attended
+      - Partially Attended
+      - Missed
+      required: false
+    - id: 8
+      name: evaluation_rating
+      label: Evaluation Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false

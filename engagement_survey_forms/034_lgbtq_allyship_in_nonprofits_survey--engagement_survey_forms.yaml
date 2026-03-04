@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: lgbtq_allyship_in_nonprofits_survey
+    pages:
+    - id: 1
+      name: lgbtq_inclusion
+      label: lgbtq_inclusion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: allyship_training
+      label: allyship_training
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Prefer not to say''}'
+      required: false
+    - id: 3
+      name: progress_tracking
+      label: progress_tracking
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: barriers
+      label: barriers
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Communication barriers''}'
+      - '{''id'': 2, ''label'': ''Lack of training''}'
+      - '{''id'': 3, ''label'': ''Fear of saying the wrong thing''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: training_necessary
+      label: training_necessary
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Communication skills''}'
+      - '{''id'': 2, ''label'': ''Understanding the LGBTQ+ community''}'
+      - '{''id'': 3, ''label'': ''Leadership and management''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: lgbtq_awareness
+      label: lgbtq_awareness
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false

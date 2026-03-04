@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Group Chat Meeting Feedback Form
+    pages:
+    - id: 1
+      name: participant_survey
+      label: Participant Survey
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: meeting_attendance
+      label: Meeting Attendance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: meeting_leadership
+      label: Meeting Leadership
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: communication_style
+      label: Communication Style
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: meeting_effectiveness
+      label: Meeting Effectiveness
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: meeting
+      label: Meeting Preparedness
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: meeting_facilitator
+      label: Meeting Facilitator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 9
+      name: participant_experience
+      label: Participant Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: rating_scale
+      label: Rating Scale
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 13
+      name: meeting_length
+      label: Meeting Length
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: meeting_time
+      label: Meeting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: true

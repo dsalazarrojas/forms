@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: BlueSnap Meal Kit Delivery Subscription Form
+    pages:
+    - id: 1
+      name: subscription_type
+      label: Subscription Plan Type
+      hint: Choose the meal plan that best fits your household
+      type: select_one
+      options:
+      - 2 Meals Per Week
+      - 3 Meals Per Week
+      - 4 Meals Per Week
+      - 5 Meals Per Week
+      - 7 Meals Per Week
+      required: true
+    - id: 2
+      name: number_of_people
+      label: Number of People
+      hint: How many people will be eating?
+      type: select_one
+      options:
+      - 2 People
+      - 3 People
+      - 4 People
+      - 5+ People
+      required: true
+    - id: 3
+      name: dietary_preferences
+      label: Dietary Preferences
+      hint: Select all that apply to your household
+      type: select_multiple
+      options:
+      - No Preferences
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Low-Carb
+      - Keto
+      - Paleo
+      required: false
+    - id: 4
+      name: delivery_frequency
+      label: Delivery Frequency
+      hint: How often would you like to receive your meal kits?
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: true
+    - id: 5
+      name: delivery_day
+      label: Preferred Delivery Day
+      hint: Select your preferred day of the week
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      required: true
+    - id: 6
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: Email Address
+      hint: We will send your order confirmations here
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone Number
+      hint: For delivery-related communications
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: apartment_unit
+      label: Apartment or Unit Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: delivery_instructions
+      label: Delivery Instructions
+      hint: Any special instructions for the delivery driver
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: start_date
+      label: Subscription Start Date
+      hint: When would you like to start receiving meal kits?
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: Select your preferred payment method
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Apple Pay
+      - Google Pay
+      required: true
+    - id: 18
+      name: card_number
+      label: Card Number
+      hint: Enter your card details
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: promo_code
+      label: Promo Code
+      hint: Enter if you have a discount code
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: terms_acceptance
+      label: Terms and Conditions Acceptance
+      hint: I agree to the subscription terms and conditions
+      type: select_one
+      options:
+      - Yes, I Accept
+      - No, I Do Not Accept
+      required: true

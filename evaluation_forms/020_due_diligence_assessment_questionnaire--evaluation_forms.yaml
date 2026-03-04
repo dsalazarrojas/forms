@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Due Diligence Assessment Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: company_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: entity_type
+      label: entity_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: entity_type_other
+      label: entity_type_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: entity_type_other_description
+      label: entity_type_other_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: country
+      label: country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: date_of_establishment
+      label: date_of_establishment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: entity_status
+      label: entity_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 16
+      name: entity_status_other
+      label: entity_status_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: entity_status_other_description
+      label: entity_status_other_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: industry
+      label: industry
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: ownership_type
+      label: ownership_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: ownership_type_other
+      label: ownership_type_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: ownership_type_other_description
+      label: ownership_type_other_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: entity_size
+      label: entity_size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: entity_size_other
+      label: entity_size_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: entity_size_other_description
+      label: entity_size_other_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

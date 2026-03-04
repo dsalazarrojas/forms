@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reception Entertainment Voting Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: favorite_entertainment_type
+      label: Favorite Entertainment Type
+      hint: null
+      type: select_one
+      options:
+      - Dance
+      - Music
+      - Film
+      - Game
+      required: false
+    - id: 4
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: select_entertainment_type
+      label: Select Entertainment Type
+      hint: null
+      type: select_multiple
+      options:
+      - Dance
+      - Music
+      - Film
+      - Game
+      required: false
+    - id: 8
+      name: select_entertainment_type_2
+      label: Select Entertainment Type 2
+      hint: null
+      type: select_multiple
+      options:
+      - Dance
+      - Music
+      - Film
+      - Game
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,303 @@
+inputSchema:
+  type: object
+  properties:
+    title: Competency Evaluation Form
+    pages:
+    - id: 1
+      name: evaluation_date
+      label: Evaluation Date
+      hint: Date of evaluation
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: Full name of employee
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: Employee identification number
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: Current position
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Employee department
+      type: select_one
+      options:
+      - Human Resources
+      - Finance
+      - Marketing
+      - Sales
+      - Operations
+      - IT
+      - Customer Service
+      - Legal
+      - Research and Development
+      - Other
+      required: true
+    - id: 6
+      name: manager_name
+      label: Manager Name
+      hint: Evaluating manager
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: review_period_start
+      label: Review Period Start
+      hint: Start date of evaluation period
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: review_period_end
+      label: Review Period End
+      hint: End date of evaluation period
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: core_competency_1
+      label: Job Knowledge
+      hint: Understanding of role and responsibilities
+      type: select_one
+      options:
+      - 5 - Exceptional
+      - 4 - Exceeds Expectations
+      - 3 - Meets Expectations
+      - 2 - Needs Improvement
+      - 1 - Unsatisfactory
+      required: true
+    - id: 10
+      name: core_competency_1_notes
+      label: Job Knowledge Notes
+      hint: Comments and examples
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: core_competency_2
+      label: Quality of Work
+      hint: Accuracy and thoroughness
+      type: select_one
+      options:
+      - 5 - Exceptional
+      - 4 - Exceeds Expectations
+      - 3 - Meets Expectations
+      - 2 - Needs Improvement
+      - 1 - Unsatisfactory
+      required: true
+    - id: 12
+      name: core_competency_2_notes
+      label: Quality of Work Notes
+      hint: Comments and examples
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: core_competency_3
+      label: Productivity
+      hint: Output and efficiency
+      type: select_one
+      options:
+      - 5 - Exceptional
+      - 4 - Exceeds Expectations
+      - 3 - Meets Expectations
+      - 2 - Needs Improvement
+      - 1 - Unsatisfactory
+      required: true
+    - id: 14
+      name: core_competency_3_notes
+      label: Productivity Notes
+      hint: Comments and examples
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: core_competency_4
+      label: Communication
+      hint: Verbal and written skills
+      type: select_one
+      options:
+      - 5 - Exceptional
+      - 4 - Exceeds Expectations
+      - 3 - Meets Expectations
+      - 2 - Needs Improvement
+      - 1 - Unsatisfactory
+      required: true
+    - id: 16
+      name: core_competency_4_notes
+      label: Communication Notes
+      hint: Comments and examples
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: core_competency_5
+      label: Teamwork
+      hint: Collaboration with others
+      type: select_one
+      options:
+      - 5 - Exceptional
+      - 4 - Exceeds Expectations
+      - 3 - Meets Expectations
+      - 2 - Needs Improvement
+      - 1 - Unsatisfactory
+      required: true
+    - id: 18
+      name: core_competency_5_notes
+      label: Teamwork Notes
+      hint: Comments and examples
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: core_competency_6
+      label: Initiative
+      hint: Self-motivation and proactivity
+      type: select_one
+      options:
+      - 5 - Exceptional
+      - 4 - Exceeds Expectations
+      - 3 - Meets Expectations
+      - 2 - Needs Improvement
+      - 1 - Unsatisfactory
+      required: true
+    - id: 20
+      name: core_competency_6_notes
+      label: Initiative Notes
+      hint: Comments and examples
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: core_competency_7
+      label: Problem Solving
+      hint: Analytical and decision-making skills
+      type: select_one
+      options:
+      - 5 - Exceptional
+      - 4 - Exceeds Expectations
+      - 3 - Meets Expectations
+      - 2 - Needs Improvement
+      - 1 - Unsatisfactory
+      required: true
+    - id: 22
+      name: core_competency_7_notes
+      label: Problem Solving Notes
+      hint: Comments and examples
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: core_competency_8
+      label: Dependability
+      hint: Reliability and attendance
+      type: select_one
+      options:
+      - 5 - Exceptional
+      - 4 - Exceeds Expectations
+      - 3 - Meets Expectations
+      - 2 - Needs Improvement
+      - 1 - Unsatisfactory
+      required: true
+    - id: 24
+      name: core_competency_8_notes
+      label: Dependability Notes
+      hint: Comments and examples
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: core_competency_9
+      label: Adaptability
+      hint: Flexibility and change management
+      type: select_one
+      options:
+      - 5 - Exceptional
+      - 4 - Exceeds Expectations
+      - 3 - Meets Expectations
+      - 2 - Needs Improvement
+      - 1 - Unsatisfactory
+      required: true
+    - id: 26
+      name: core_competency_9_notes
+      label: Adaptability Notes
+      hint: Comments and examples
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: overall_rating
+      label: Overall Performance Rating
+      hint: Summary evaluation
+      type: select_one
+      options:
+      - 5 - Exceptional
+      - 4 - Exceeds Expectations
+      - 3 - Meets Expectations
+      - 2 - Needs Improvement
+      - 1 - Unsatisfactory
+      required: true
+    - id: 28
+      name: employee_strengths
+      label: Key Strengths
+      hint: Top competencies demonstrated
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: Competencies to develop
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: goals_next_period
+      label: Goals for Next Period
+      hint: Objectives to achieve
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: employee_comments
+      label: Employee Comments
+      hint: Employee response
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: manager_signature
+      label: Manager Signature
+      hint: Type name as signature
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: employee_signature
+      label: Employee Signature
+      hint: Type name as signature
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: next_review_date
+      label: Next Review Date
+      hint: Follow-up date
+      type: date
+      options: []
+      required: false

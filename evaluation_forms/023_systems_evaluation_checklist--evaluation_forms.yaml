@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Systems Evaluation Checklist
+    pages:
+    - id: 1
+      name: systems_evaluation_checklist_page_1
+      label: Checklist 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: system_name
+      label: System Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: evaluation_method
+      label: Evaluation Method
+      hint: null
+      type: select_one
+      options:
+      - System
+      - Team
+      - Manager
+      required: false
+    - id: 5
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: evaluation_frequency
+      label: Evaluation Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 7
+      name: evaluation_notes
+      label: Evaluation Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - On Hold
+      required: false
+    - id: 11
+      name: evaluation_status
+      label: Evaluation Status
+      hint: null
+      type: select_multiple
+      options:
+      - Not Evaluated
+      - In Progress
+      - Done
+      required: false
+    - id: 12
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: next_evaluation_date
+      label: Next Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: previous_evaluation_date
+      label: Previous Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: evaluation_frequency_2
+      label: Evaluation Frequency 2
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 16
+      name: evaluation_frequency_3
+      label: Evaluation Frequency 3
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 17
+      name: evaluation_comments_2
+      label: Evaluation Comments 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: evaluation_status_2
+      label: Evaluation Status 2
+      hint: null
+      type: select_multiple
+      options:
+      - Not Evaluated
+      - In Progress
+      - Done
+      required: false

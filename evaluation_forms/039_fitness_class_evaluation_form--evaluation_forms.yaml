@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Class Evaluation Form
+    pages:
+    - id: 1
+      name: fitness_class_name
+      label: fitness class name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: instructor_name
+      label: instructor name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rating
+      label: rating
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: date_of_participation
+      label: date of participation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_participation
+      label: time of participation
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: difficulty_level
+      label: difficulty level
+      hint: Easy, Medium, Hard
+      type: select_one
+      options:
+      - Easy
+      - Medium
+      - Hard
+      required: false
+    - id: 7
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: would_you_attend_again
+      label: would you attend again
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

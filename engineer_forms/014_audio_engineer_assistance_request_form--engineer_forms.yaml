@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audio Engineer Assistance Request Form
+    pages:
+    - id: 1
+      name: requester_full_name
+      label: Requester Full Name
+      hint: Name of person requesting assistance
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Email Address
+      hint: Contact email for follow-up
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requester_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department or team
+      type: select_one
+      options:
+      - Production
+      - Post-Production
+      - Live Events
+      - Broadcasting
+      - Studio Recording
+      - Other
+      required: true
+    - id: 5
+      name: request_date
+      label: Request Date
+      hint: Date of this assistance request
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: assistance_type
+      label: Assistance Type
+      hint: What type of assistance do you need?
+      type: select_one
+      options:
+      - Technical Troubleshooting
+      - Equipment Setup
+      - Software Configuration
+      - Mixing Support
+      - Recording Support
+      - System Calibration
+      - Emergency Repair
+      - Training Request
+      required: true
+    - id: 7
+      name: issue_description
+      label: Issue Description
+      hint: Describe the issue or request in detail
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: affected_equipment
+      label: Affected Equipment
+      hint: List equipment or systems affected
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: equipment_brand
+      label: Equipment Brand
+      hint: Primary brand of affected equipment
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: equipment_model
+      label: Equipment Model
+      hint: Model number if known
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: software_involved
+      label: Software Involved
+      hint: Any software related to the issue
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: error_messages
+      label: Error Messages
+      hint: Any error messages displayed
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is this request?
+      type: select_one
+      options:
+      - Critical - System down
+      - High - Affecting production
+      - Medium - Can work around it
+      - Low - General assistance
+      required: true
+    - id: 14
+      name: deadline
+      label: Deadline
+      hint: When do you need assistance by?
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: preferred_time
+      label: Preferred Time
+      hint: Preferred time for assistance
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: location
+      label: Location
+      hint: Where is assistance needed?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: access_instructions
+      label: Access Instructions
+      hint: Any special access requirements
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: previous_attempts
+      label: Previous Attempts
+      hint: Have you tried anything to fix this?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: preferred_engineer
+      label: Preferred Engineer
+      hint: Any preference for which engineer assists?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_preference
+      label: Follow-Up Preference
+      hint: How should we follow up?
+      type: select_one
+      options:
+      - Email
+      - Phone call
+      - Text message
+      - In person
+      required: true

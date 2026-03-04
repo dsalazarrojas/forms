@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music School Registration Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: class_type
+      label: Class Type
+      hint: null
+      type: select_one
+      options:
+      - Music
+      - Dance
+      - Theater
+      required: false
+    - id: 5
+      name: class_days
+      label: Class Days
+      hint: Monday to Friday
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      required: false
+    - id: 6
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: music_instrument
+      label: Music Instrument
+      hint: Guitar, Piano, Singing
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: student_address
+      label: Student Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: false

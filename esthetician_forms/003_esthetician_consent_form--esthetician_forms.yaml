@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: esthetician_consent_form
+    pages:
+    - id: 1
+      name: esthetician_consent_form_1
+      label: client_information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: esthetician_consent_form_2
+      label: esthetician_services
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: esthetician_consent_form_3
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: esthetician_consent_form_4
+      label: esthetician_services_details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: esthetician_consent_form_5
+      label: esthetician_agreement
+      hint: null
+      type: text
+      options: []
+      required: false

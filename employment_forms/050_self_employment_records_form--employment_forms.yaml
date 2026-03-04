@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: self_employment_records_form
+    pages:
+    - id: 1
+      name: income_page
+      label: Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: expense_page
+      label: Expenses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tax_details_page
+      label: Tax Details
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: income_details
+      label: Income Details
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: tax_year
+      label: Tax Year
+      hint: null
+      type: select_one
+      options:
+      - option1 option2 option3 option4
+      - Other
+      required: false

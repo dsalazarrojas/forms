@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: Account Enrollment Request Form
+    pages:
+    - id: 1
+      name: applicant_full_name
+      label: Applicant Full Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_date_of_birth
+      label: Applicant Date of Birth
+      hint: Your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email
+      label: Applicant Email
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone
+      label: Applicant Phone
+      hint: Your phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: applicant_address
+      label: Applicant Address
+      hint: Your current address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: applicant_city
+      label: Applicant City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: applicant_state
+      label: Applicant State
+      hint: State of residence
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: applicant_zip_code
+      label: Applicant Zip Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: social_security_number
+      label: Social Security Number
+      hint: Your SSN (will be kept confidential)
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: account_type_requested
+      label: Account Type Requested
+      hint: What type of account are you requesting?
+      type: select_one
+      options:
+      - Individual Account
+      - Joint Account
+      - Business Account
+      - Trust Account
+      - Other
+      required: true
+    - id: 11
+      name: enrollment_purpose
+      label: Enrollment Purpose
+      hint: Why are you enrolling for this account?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: employer_name
+      label: Employer Name
+      hint: Name of your employer
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: annual_income
+      label: Annual Income
+      hint: Your approximate annual income
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: source_of_income
+      label: Source of Income
+      hint: What is your primary source of income?
+      type: select_one
+      options:
+      - Employment
+      - Self-Employment
+      - Investment
+      - Retirement
+      - Other
+      required: false
+    - id: 15
+      name: identification_type
+      label: Identification Type
+      hint: Type of identification you will provide
+      type: select_one
+      options:
+      - Driver's License
+      - State ID
+      - Passport
+      - Military ID
+      - Other
+      required: true
+    - id: 16
+      name: identification_number
+      label: Identification Number
+      hint: Number on your identification document
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: identification_expiry_date
+      label: Identification Expiry Date
+      hint: Expiration date of your identification
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: terms_and_conditions_agreement
+      label: Terms and Conditions Agreement
+      hint: Do you agree to the terms and conditions of the account?
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 19
+      name: privacy_policy_acknowledgment
+      label: Privacy Policy Acknowledgment
+      hint: Do you acknowledge that you have read the privacy policy?
+      type: select_one
+      options:
+      - Yes, I acknowledge
+      - No, I have not read
+      required: true
+    - id: 20
+      name: electronic_signature
+      label: Electronic Signature
+      hint: Type your full name to sign this form electronically
+      type: text
+      options: []
+      required: true

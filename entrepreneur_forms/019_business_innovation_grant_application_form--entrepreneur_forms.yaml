@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Innovation Grant Application Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Grant Application --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_organization
+      label: Applicant organization
+      hint: Legal name of applicant
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_title
+      label: Project title
+      hint: Short, descriptive title
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_summary
+      label: Project summary
+      hint: Brief summary of the proposed innovation
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: funding_requested
+      label: Funding requested
+      hint: Requested grant amount in local currency
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: project_duration_months
+      label: Project duration months
+      hint: Estimated project duration
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: primary_beneficiaries
+      label: Primary beneficiaries
+      hint: Who will benefit from the project
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: evaluation_metrics
+      label: Evaluation metrics
+      hint: How outcomes will be measured
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: previous_grants_received
+      label: Previous grants received
+      hint: List relevant prior funding
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact email
+      hint: For application correspondence
+      type: email
+      options: []
+      required: true

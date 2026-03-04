@@ -1,0 +1,320 @@
+inputSchema:
+  type: object
+  properties:
+    title: College Admissions Interview Evaluation Form
+    pages:
+    - id: 1
+      name: interviewer_name
+      label: Interviewer Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: interviewer_email
+      label: Email Address
+      hint: Work email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: interviewer_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: interview_date
+      label: Interview Date
+      hint: When conducted
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: interview_time
+      label: Interview Time
+      hint: Start time
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: interview_location
+      label: Interview Location
+      hint: Where held
+      type: select_one
+      options:
+      - On Campus
+      - Off Campus
+      - Virtual Video
+      - Phone
+      - Alumni Event
+      required: true
+    - id: 7
+      name: interview_duration
+      label: Interview Duration
+      hint: How long
+      type: select_one
+      options:
+      - 15-20 minutes
+      - 20-30 minutes
+      - 30-45 minutes
+      - 45-60 minutes
+      - Over 60 minutes
+      required: true
+    - id: 8
+      name: applicant_name
+      label: Applicant Full Name
+      hint: Student name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: applicant_id
+      label: Applicant ID Number
+      hint: If available
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: applicant_high_school
+      label: Applicant High School
+      hint: School name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: applicant_graduation_year
+      label: Graduation Year
+      hint: When they graduate
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: intended_major
+      label: Intended Major
+      hint: Field of study
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: communication_skills
+      label: Communication Skills Rating
+      hint: Verbal expression
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: communication_comments
+      label: Communication Comments
+      hint: Specific observations
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: intellectual_curiosity
+      label: Intellectual Curiosity Rating
+      hint: Love of learning
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 16
+      name: intellectual_curiosity_comments
+      label: Intellectual Curiosity Comments
+      hint: Examples shown
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: critical_thinking
+      label: Critical Thinking Rating
+      hint: Analysis abilities
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 18
+      name: critical_thinking_comments
+      label: Critical Thinking Comments
+      hint: Observations
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: enthusiasm_for_college
+      label: Enthusiasm for Our College Rating
+      hint: Interest level
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 20
+      name: enthusiasm_comments
+      label: Enthusiasm Comments
+      hint: How showed interest
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: knowledge_of_college
+      label: Knowledge of Our College Rating
+      hint: How well informed
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 22
+      name: knowledge_comments
+      label: Knowledge Comments
+      hint: What they knew
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: personal_qualities
+      label: Personal Qualities Rating
+      hint: Character and maturity
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 24
+      name: personal_qualities_comments
+      label: Personal Qualities Comments
+      hint: Character observations
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: extracurricular_involvement
+      label: Extracurricular Involvement Rating
+      hint: Activities and engagement
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 26
+      name: extracurricular_comments
+      label: Extracurricular Comments
+      hint: Activities discussed
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: goals_clarity
+      label: Clarity of Goals Rating
+      hint: Future plans
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 28
+      name: goals_comments
+      label: Goals Comments
+      hint: What are their goals
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: questions_asked
+      label: Quality of Questions Asked
+      hint: Did they ask thoughtful questions
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - No Questions Asked
+      required: true
+    - id: 30
+      name: overall_impression
+      label: Overall Impression Rating
+      hint: General assessment
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 31
+      name: standout_qualities
+      label: Standout Qualities
+      hint: What made them memorable
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: concerns
+      label: Any Concerns
+      hint: Red flags or issues
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: would_advocate
+      label: Would You Advocate for Admission
+      hint: Your recommendation
+      type: select_one
+      options:
+      - Strongly Advocate
+      - Advocate
+      - Neutral
+      - Have Reservations
+      - Do Not Recommend
+      required: true
+    - id: 34
+      name: admit_recommendation
+      label: Admission Recommendation
+      hint: Final decision
+      type: select_one
+      options:
+      - Strong Admit
+      - Admit
+      - Waitlist
+      - Deny
+      required: true
+    - id: 35
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other observations
+      type: text
+      options: []
+      required: false

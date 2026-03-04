@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Webinar Subscription Form
+    pages:
+    - id: 1
+      name: webinar_subscription_form
+      label: Webinar Subscription
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - Customer
+      - Sales Representative
+      - Marketing Specialist
+      - CEO
+      - Other
+      required: false
+    - id: 8
+      name: event
+      label: Event
+      hint: null
+      type: select_multiple
+      options:
+      - Upcoming Webinar
+      - Past Webinar
+      - All Events
+      required: false
+    - id: 9
+      name: terms_accepted
+      label: Accept Terms of Service
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

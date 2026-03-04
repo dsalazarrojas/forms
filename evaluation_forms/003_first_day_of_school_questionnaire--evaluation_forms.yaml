@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: First Day Of School Questionnaire
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': 1, ''label'': ''1st''}'
+      - '{''id'': 2, ''value'': 2, ''label'': ''2nd''}'
+      - '{''id'': 3, ''value'': 3, ''label'': ''3rd''}'
+      required: false
+    - id: 3
+      name: family_background
+      label: Family Background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: school_interest
+      label: School Interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: teacher_notes
+      label: Teacher Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: previous_school
+      label: Previous School
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: previous_school_address
+      label: Previous School Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: previous_school_city
+      label: Previous School City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: previous_school_grade_level
+      label: Previous School Grade Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': 1, ''label'': ''1st''}'
+      - '{''id'': 2, ''value'': 2, ''label'': ''2nd''}'
+      - '{''id'': 3, ''value'': 3, ''label'': ''3rd''}'
+      required: false
+    - id: 10
+      name: previous_school_phone
+      label: Previous School Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: previous_school_email
+      label: Previous School Email
+      hint: null
+      type: email
+      options: []
+      required: false

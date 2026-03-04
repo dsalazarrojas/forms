@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: operational_discipline_assessment_survey
+    pages:
+    - id: 1
+      name: operational_discipline_assessment
+      label: Operational Discipline Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: operations
+      label: Operations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: safety_practices
+      label: safety_practices
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: procedures
+      label: procedures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: punctuality
+      label: Punctuality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: communication
+      label: communication
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: overall_score
+      label: overall_score
+      hint: null
+      type: number
+      options: []
+      required: false

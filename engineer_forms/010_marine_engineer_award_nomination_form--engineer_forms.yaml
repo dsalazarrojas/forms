@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: marine_engineer_award_nomination_form
+    pages:
+    - id: 1
+      name: nominator_name
+      label: nominator_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: nominator_organization
+      label: nominator_organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: nominator_email
+      label: nominator_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: nominator_phone
+      label: nominator_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: nominee_name
+      label: nominee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: nominee_title
+      label: nominee_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: nominee_organization
+      label: nominee_organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: nominee_department
+      label: nominee_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: nominee_job_title
+      label: nominee_job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: nominee_nominator
+      label: nominator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: award_recognition_type
+      label: award_recognition_type
+      hint: null
+      type: select_one
+      options:
+      - Nominee
+      - Award Winner
+      - Award Recipient
+      - Award Honoree
+      required: true
+    - id: 12
+      name: award_recognition_year
+      label: award_recognition_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: award_recognition_date
+      label: award_recognition_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: justification_for_nomination
+      label: justification_for_nomination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: supporting_document
+      label: supporting_document
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Feature User Engagement Assessment
+    pages:
+    - id: 1
+      name: feature_launch_status
+      label: Has feature launched
+      hint: None
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 2
+      name: user_experience
+      label: How would you rate your overall experience
+      hint: None
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: feature_satisfaction
+      label: How satisfied are you with the feature
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very satisfied''}'
+      - '{''label'': ''Somewhat satisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat dissatisfied''}'
+      - '{''label'': ''Very dissatisfied''}'
+      required: false
+    - id: 4
+      name: feature_adoption
+      label: How likely are you to adopt and use the feature
+      hint: None
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: What would you like to see improved
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: contact_details
+      label: How would you like to contact us
+      hint: None
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: feature_roadmap
+      label: How would you rate the roadmap for future development
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''On track''}'
+      - '{''label'': ''Off track''}'
+      - '{''label'': ''Not planned''}'
+      required: true
+    - id: 8
+      name: comments
+      label: Additional comments
+      hint: None
+      type: text
+      options: []
+      required: false

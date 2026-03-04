@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Talent Gig Information Survey
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: performer_name
+      label: Performer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: gig_date
+      label: Gig Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 5
+      name: performance_time
+      label: Performance Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_capacity
+      label: Event Capacity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: performance_notes
+      label: Performance Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: performer_feedback
+      label: Performer Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

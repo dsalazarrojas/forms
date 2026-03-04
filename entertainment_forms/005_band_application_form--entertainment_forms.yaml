@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Band Application Form
+    pages:
+    - id: 1
+      name: event_info
+      label: HSGA Virtual Convention 2021 - Band Application
+      hint: Please complete all sections to be considered for the virtual showcase
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: band_name
+      label: Band or Artist Name
+      hint: Enter the name you want listed in the program
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: musical_genre
+      label: Musical Genre
+      hint: e.g., Hawaiian Steel Guitar, Jazz, Folk, etc.
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_person
+      label: Primary Contact Person
+      hint: Name of the person handling the application
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: band_member_count
+      label: Number of Band Members
+      hint: Total number of performers
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: band_members_names
+      label: List of Band Member Names
+      hint: Include instruments played by each member
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: promotional_header
+      label: -- Media and Promotion --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: band_website
+      label: Band Website or Social Media Link
+      hint: URL to your official site, Facebook, or Instagram
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: performance_video_link
+      label: Performance Video Link (YouTube/Vimeo)
+      hint: Provide a link to a recent high-quality performance
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: band_bio
+      label: Short Band Biography
+      hint: 100-200 words for the convention program
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: technical_req_header
+      label: -- Technical Requirements for Virtual Recording --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: recording_setup
+      label: Do you have access to high-quality audio/video recording equipment?
+      hint: Select your current capability
+      type: select_one
+      options:
+      - Yes - Professional Studio
+      - Yes - High-end Home Setup
+      - No - Need assistance/guidance
+      required: true
+    - id: 15
+      name: virtual_availability
+      label: Availability for Live Virtual Q&A Sessions
+      hint: Select your preferred time zone for scheduling
+      type: select_one
+      options:
+      - HST (Hawaii-Aleutian)
+      - PST (Pacific)
+      - EST (Eastern)
+      - JST (Japan)
+      - Other
+      required: true
+    - id: 16
+      name: additional_comments
+      label: Questions or Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Equipment Lifecycle Extension Request Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_info
+      label: Equipment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: approval_info
+      label: Approval Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: review_info
+      label: Review Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: submit_info
+      label: Submit Information
+      hint: null
+      type: text
+      options: []
+      required: false

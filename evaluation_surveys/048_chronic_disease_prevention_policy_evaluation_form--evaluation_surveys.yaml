@@ -1,0 +1,228 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Chronic Disease Prevention Policy Evaluation Form
+    pages:
+      - id: 1
+        name: respondent_info
+        label: -- Respondent Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: first_name
+        label: First Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: last_name
+        label: Last Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: organization
+        label: Organization/Institution
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: role
+        label: Your Role in Organization
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: policy_info
+        label: -- Policy Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: policy_name
+        label: Policy Name or Description
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: policy_focus
+        label: Policy Focus Area
+        hint: null
+        type: select_one
+        options:
+          - Cardiovascular Disease
+          - Diabetes
+          - Respiratory Disease
+          - Cancer Prevention
+          - Mental Health
+          - Obesity Prevention
+          - Multiple Diseases
+          - Other
+        required: true
+      - id: 10
+        name: implementation_date
+        label: Implementation Date
+        hint: null
+        type: date
+        options: []
+        required: false
+      - id: 11
+        name: policy_awareness
+        label: -- Policy Awareness --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: awareness_level
+        label: How aware are you of this policy?
+        hint: null
+        type: select_one
+        options:
+          - Very aware
+          - Somewhat aware
+          - Minimally aware
+          - Unaware
+        required: true
+      - id: 13
+        name: awareness_source
+        label: How did you learn about this policy?
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Training or workshop
+          - Email or newsletter
+          - Staff meeting
+          - Leadership announcement
+          - Direct distribution
+          - Media or public announcement
+          - Other
+        required: true
+      - id: 14
+        name: policy_effectiveness
+        label: -- Policy Effectiveness --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: effectiveness_rating
+        label: How effective is this policy?
+        hint: null
+        type: select_one
+        options:
+          - Very effective
+          - Effective
+          - Neutral
+          - Ineffective
+          - Very ineffective
+        required: true
+      - id: 16
+        name: measurable_impact
+        label: Do you see measurable impact?
+        hint: null
+        type: select_one
+        options:
+          - Yes, significant impact
+          - Yes, some impact
+          - No change observed
+          - Negative impact
+          - Unclear
+        required: true
+      - id: 17
+        name: reach_and_adoption
+        label: Level of Community/Staff Adoption
+        hint: null
+        type: select_one
+        options:
+          - Widely adopted
+          - Mostly adopted
+          - Partially adopted
+          - Minimally adopted
+          - Not adopted
+        required: true
+      - id: 18
+        name: barriers_section
+        label: -- Implementation Barriers --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: barriers
+        label: What barriers hinder policy implementation?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: resource_adequacy
+        label: Are resources adequate for implementation?
+        hint: null
+        type: select_one
+        options:
+          - Yes, fully adequate
+          - Mostly adequate
+          - Partially adequate
+          - Inadequate
+          - Very inadequate
+        required: true
+      - id: 21
+        name: improvements
+        label: -- Improvement Suggestions --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: suggested_changes
+        label: Suggested Changes or Improvements
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: additional_support
+        label: What additional support is needed?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: overall_recommendation
+        label: Overall Recommendation for Policy
+        hint: null
+        type: select_one
+        options:
+          - Continue as is
+          - Continue with improvements
+          - Substantial revision needed
+          - Discontinue
+          - Expand to other areas
+        required: true

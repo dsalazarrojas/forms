@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Graphic Configuration Estimate Request
+    pages:
+    - id: 1
+      name: form_title
+      label: Graphic Configuration Estimate Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: deadline
+      label: deadline
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: budget
+      label: budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: agency
+      label: agency
+      hint: Select one or more
+      type: select_one
+      options:
+      - Agency A
+      - Agency B
+      - Agency C
+      required: false
+    - id: 8
+      name: freelancer
+      label: freelancer
+      hint: Select one or more
+      type: select_multiple
+      options:
+      - Freelancer 1
+      - Freelancer 2
+      - Freelancer 3
+      required: false
+    - id: 9
+      name: in_house
+      label: in_house
+      hint: Select one or more
+      type: select_one
+      options:
+      - In-house 1
+      - In-house 2
+      - In-house 3
+      required: false
+    - id: 10
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_email
+      label: contact_email
+      hint: example@email.com
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: contact_phone
+      label: contact_phone
+      hint: 555-1234
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: form_submit
+      label: form_submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: form_cancel
+      label: form_cancel
+      hint: null
+      type: text
+      options: []
+      required: false

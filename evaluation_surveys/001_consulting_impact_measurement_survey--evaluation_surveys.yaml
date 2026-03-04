@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consulting Impact Measurement Survey
+    pages:
+    - id: 1
+      name: client_information_header
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client name
+      hint: Full legal name of the client organization or individual
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Client email
+      hint: Primary contact email for follow up
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Client phone number
+      hint: Include country code where applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_name
+      label: Project name
+      hint: Title or brief identifier for the engagement
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: project_start_date
+      label: Project start date
+      hint: When the engagement began
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: project_end_date
+      label: Project end date
+      hint: When the engagement concluded or is expected to conclude
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: engagement_type
+      label: Engagement type
+      hint: Select the category that best describes the engagement
+      type: select_one
+      options:
+      - Strategy
+      - Implementation
+      - Training
+      - Advisory
+      - Other
+      required: true
+    - id: 9
+      name: primary_objective
+      label: Primary objective
+      hint: What was the main objective for this engagement
+      type: select_one
+      options:
+      - Cost reduction
+      - Revenue growth
+      - Process improvement
+      - Compliance
+      - Other
+      required: true
+    - id: 10
+      name: estimated_value_generated
+      label: Estimated value generated
+      hint: Provide an approximate monetary value if available, in your local currency
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: outcome_rating
+      label: Outcome rating
+      hint: Overall assessment of the engagement outcome
+      type: select_one
+      options:
+      - Very negative
+      - Negative
+      - Neutral
+      - Positive
+      - Very positive
+      required: true
+    - id: 12
+      name: most_valuable_outcome
+      label: Most valuable outcome
+      hint: Brief description of the most important result achieved
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: impact_areas
+      label: Impact areas
+      hint: Select all areas where the engagement had measurable impact
+      type: select_multiple
+      options:
+      - Financial
+      - Operational
+      - Customer experience
+      - Employee engagement
+      - Compliance
+      - Sustainability
+      required: false
+    - id: 14
+      name: satisfaction_score
+      label: Satisfaction score 1-10
+      hint: 1 is lowest, 10 is highest
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: additional_feedback_header
+      label: -- Additional Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: qualitative_feedback
+      label: Qualitative feedback and comments
+      hint: Suggestions, lessons learned, and narrative description of impact
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: consent_to_share
+      label: Consent to share anonymized results
+      hint: Allow the consultant to use anonymized data for case studies
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: administrative_header
+      label: -- Administrative Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: consultant_name
+      label: Consultant name
+      hint: Person submitting or responsible for the report
+      type: text
+      options: []
+      required: false

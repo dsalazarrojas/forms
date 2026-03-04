@@ -1,0 +1,442 @@
+inputSchema:
+  type: object
+  properties:
+    title: Choreography Contract Form
+    pages:
+    - id: 1
+      name: client_information
+      label: Client Information
+      hint: Who is hiring
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_first_name
+      label: Client First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_last_name
+      label: Client Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_organization
+      label: Organization or Company
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: client_address
+      label: Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: choreographer_information
+      label: Choreographer Information
+      hint: Service provider
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: choreographer_name
+      label: Choreographer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: choreographer_company
+      label: Choreography Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: choreographer_phone
+      label: Choreographer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: choreographer_email
+      label: Choreographer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: project_details
+      label: Project Details
+      hint: What is being created
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: project_name
+      label: Project or Performance Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: project_type
+      label: Type of Project
+      hint: null
+      type: select_one
+      options:
+      - Solo performance
+      - Group performance
+      - Competition routine
+      - Recital piece
+      - Music video
+      - Stage production
+      - Wedding dance
+      - Corporate event
+      - Commercial
+      - Other
+      required: true
+    - id: 16
+      name: dance_style
+      label: Dance Style
+      hint: null
+      type: select_one
+      options:
+      - Ballet
+      - Jazz
+      - Contemporary
+      - Hip hop
+      - Tap
+      - Modern
+      - Ballroom
+      - Latin
+      - Fusion
+      - Other
+      required: true
+    - id: 17
+      name: number_of_dancers
+      label: Number of Dancers
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: performance_duration
+      label: Expected Performance Duration
+      hint: Minutes
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: performance_dates
+      label: Performance Dates
+      hint: All scheduled dates
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: performance_location
+      label: Performance Location
+      hint: Venue name and address
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: rehearsal_schedule
+      label: Rehearsal Schedule
+      hint: Planned rehearsals
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: rehearsals_start
+      label: Rehearsals Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: rehearsals_end
+      label: Rehearsals End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: number_of_rehearsals
+      label: Number of Scheduled Rehearsals
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: rehearsal_location
+      label: Rehearsal Location
+      hint: Studio or venue
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: rehearsal_times
+      label: Rehearsal Times
+      hint: Days and times
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: compensation
+      label: Compensation
+      hint: Payment details
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: total_fee
+      label: Total Choreography Fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 29
+      name: fee_includes
+      label: Fee Includes
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Choreography creation
+      - Rehearsal time
+      - Performance attendance
+      - Music editing
+      - Costume consultation
+      - Travel
+      - Other
+      required: true
+    - id: 30
+      name: payment_schedule
+      label: Payment Schedule
+      hint: null
+      type: select_one
+      options:
+      - 50% deposit, 50% on completion
+      - 33% deposit, 33% midway, 34% final
+      - Full payment upfront
+      - Full payment on completion
+      - Custom arrangement
+      required: true
+    - id: 31
+      name: deposit_amount
+      label: Deposit Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 32
+      name: deposit_due
+      label: Deposit Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 33
+      name: final_payment_due
+      label: Final Payment Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 34
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Bank transfer
+      - Credit card
+      - PayPal
+      - Other
+      required: true
+    - id: 35
+      name: cancellation_policy
+      label: Cancellation Policy
+      hint: Terms
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: cancellation_terms
+      label: Cancellation Terms
+      hint: null
+      type: select_one
+      options:
+      - Deposit non-refundable
+      - 50% refund if cancelled 2 weeks prior
+      - Full refund if cancelled 4 weeks prior
+      - Custom terms
+      required: true
+    - id: 37
+      name: cancellation_details
+      label: Cancellation Details
+      hint: Specify terms
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: rights_ownership
+      label: Rights and Ownership
+      hint: Intellectual property
+      type: note
+      options: []
+      required: false
+    - id: 39
+      name: choreography_ownership
+      label: Choreography Ownership
+      hint: null
+      type: select_one
+      options:
+      - Choreographer retains all rights
+      - Client owns choreography
+      - Shared ownership
+      - Client has performance rights only
+      required: true
+    - id: 40
+      name: recording_rights
+      label: Recording and Video Rights
+      hint: null
+      type: select_one
+      options:
+      - Choreographer must approve
+      - Client has full rights
+      - No recording allowed
+      - Social media allowed with credit
+      required: true
+    - id: 41
+      name: additional_terms
+      label: Additional Terms
+      hint: Other conditions
+      type: note
+      options: []
+      required: false
+    - id: 42
+      name: travel_expenses
+      label: Travel Expenses
+      hint: Who pays
+      type: select_one
+      options:
+      - Included in fee
+      - Client reimburses
+      - Choreographer pays
+      - Not applicable
+      required: true
+    - id: 43
+      name: costume_input
+      label: Costume Consultation
+      hint: null
+      type: select_one
+      options:
+      - Included
+      - Available for additional fee
+      - Not included
+      - Not needed
+      required: false
+    - id: 44
+      name: music_selection
+      label: Music Selection
+      hint: null
+      type: select_one
+      options:
+      - Client provides
+      - Choreographer selects
+      - Collaborative decision
+      - Choreographer edits provided music
+      required: true
+    - id: 45
+      name: special_requirements
+      label: Special Requirements
+      hint: Any specific needs
+      type: text
+      options: []
+      required: false
+    - id: 46
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 47
+      name: agreement
+      label: Agreement
+      hint: Both parties agree
+      type: note
+      options: []
+      required: false
+    - id: 48
+      name: client_agrees
+      label: Client agrees to all terms
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 49
+      name: choreographer_agrees
+      label: Choreographer agrees to all terms
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 50
+      name: client_signature
+      label: Client Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 51
+      name: client_signature_date
+      label: Client Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 52
+      name: choreographer_signature
+      label: Choreographer Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 53
+      name: choreographer_signature_date
+      label: Choreographer Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true

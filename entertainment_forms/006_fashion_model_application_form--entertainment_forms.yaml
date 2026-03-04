@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fashion Model Application Form
+    pages:
+    - id: 1
+      name: application_form
+      label: Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: experience
+      label: Experience
+      hint: Include any relevant experience in the fashion industry
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: skills
+      label: Skills
+      hint: Select all relevant skills
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: portfolio
+      label: Portfolio
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: photo
+      label: Photo
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: agency_info
+      label: Agency Information
+      hint: null
+      type: select_one
+      options:
+      - Agency Name
+      - Agency Contact Person
+      - Agency Contact Number
+      - Agency Email
+      - Agency Location
+      required: true
+    - id: 8
+      name: model_details
+      label: Model Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: model_info
+      label: Model Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: model_stats
+      label: Model Statistics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: model_stats_height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: model_stats_weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: eye_color
+      label: Eye Color
+      hint: Select your eye color
+      type: select_one
+      options:
+      - Blue
+      - Green
+      - Brown
+      - Grey
+      - Hazel
+      - Amber
+      required: true
+    - id: 14
+      name: hair_color
+      label: Hair Color
+      hint: Select your hair color
+      type: select_one
+      options:
+      - Brown
+      - Black
+      - Blonde
+      - Red
+      - Blonde
+      - None
+      required: true
+    - id: 15
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_address
+      label: Address
+      hint: Your Address
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: availability
+      label: Availability
+      hint: null
+      type: select_multiple
+      options:
+      - Available
+      - Unavailable
+      - Limited
+      required: true
+    - id: 19
+      name: language
+      label: Language
+      hint: Language you are proficient in
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Emergency contact information
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emergency_contact_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Father
+      - Mother
+      - Brother
+      - Sister
+      - Mother
+      - Friend
+      - Spouse
+      - Other
+      required: true
+    - id: 23
+      name: emergency_contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: emergency_contact_address
+      label: Address
+      hint: Your emergency contact's address
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: submission
+      label: Submission
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: International Fan Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: favorite_driver
+      label: Favorite Driver
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: favorite_team
+      label: Favorite Team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: favorite_racing_track
+      label: Favorite Racing Track
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: favorite_race
+      label: Favorite Race
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: how_long
+      label: How Long Have You Been a Fan?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: how_often
+      label: How Often Do You Watch F1?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: favorite_circuit
+      label: Favorite Circuit
+      hint: Enter the name of your favorite circuit
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: social_media
+      label: Social Media
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: favorite_rider
+      label: Favorite Rider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: favorite_event
+      label: Favorite Event
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: favorite_f1_game
+      label: Favorite F1 Game
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: time_of_day
+      label: Time of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: favorite_driver_standings
+      label: Driver Standings
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: how_long_away
+      label: How Long Ago Became a Fan
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: language
+      label: Language
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: how_do_you_discover_new_drivers
+      label: How Do You Discover New Drivers?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: favorite_drivers
+      label: Favorite Drivers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: how_do_you_follow_f1
+      label: How Do You Follow F1?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

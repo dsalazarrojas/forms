@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mechanical Engineer Application Form
+    pages:
+    - id: 1
+      name: mechanical_engineer_applicant_info_1
+      label: Mechanical Engineer Applicant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: mechanical_engineer_education_1
+      label: Mechanical Engineer Education
+      hint: null
+      type: select_multiple
+      options:
+      - Bachelor's or Master's degree in Mechanical Engineering
+      - Bachelor's or Master's degree in Mechatronics Engineering
+      - Other
+      required: false
+    - id: 3
+      name: mechanical_engineer_experience_1
+      label: Mechanical Engineer Experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: mechanical_engineer_qualifications_1
+      label: Mechanical Engineer Qualifications
+      hint: List relevant certifications, skills or courses.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: mechanical_engineer_work_history_1
+      label: Mechanical Engineer Work History
+      hint: List relevant work experiences for the past 3-5 years
+      type: select_multiple
+      options:
+      - Internship
+      - Entry-Level
+      - Mid-Level
+      - Senior-Level
+      required: false
+    - id: 6
+      name: mechanical_engineer_references_1
+      label: Mechanical Engineer References
+      hint: null
+      type: select_multiple
+      options:
+      - Professional Reference 1
+      - Professional Reference 2
+      - Professional Reference 3
+      required: false
+    - id: 7
+      name: mechanical_engineer_additional_info_1
+      label: Mechanical Engineer Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: mechanical_engineer_additional_info_2
+      label: Mechanical Engineer Additional Info 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

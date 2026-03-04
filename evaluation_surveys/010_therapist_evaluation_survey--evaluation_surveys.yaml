@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Therapist Evaluation Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: What Is This?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: therapist_name
+      label: Therapist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: evaluation_period
+      label: Evaluation Period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: evaluation_period_start
+      label: Evaluation Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: evaluation_period_end
+      label: Evaluation End Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: client_relationship
+      label: Client Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: overall_evaluation
+      label: Overall Evaluation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: therapist_strengths
+      label: Therapist Strengths
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Strengths'', ''value'': ''Strengths''}'
+      - '{''label'': ''Weaknesses'', ''value'': ''Weaknesses''}'
+      required: false
+    - id: 9
+      name: therapist_weaknesses
+      label: Therapist Weaknesses
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Strengths'', ''value'': ''Strengths''}'
+      - '{''label'': ''Weaknesses'', ''value'': ''Weaknesses''}'
+      - '{''label'': ''None'', ''value'': ''''}'
+      required: false
+    - id: 10
+      name: therapist_improvement
+      label: Areas For Improvement
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Strengths'', ''value'': ''Strengths''}'
+      - '{''label'': ''Weaknesses'', ''value'': ''Weaknesses''}'
+      required: false
+    - id: 11
+      name: communication_effectiveness
+      label: Communication Effectiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: feedback
+      label: Additional Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: signature
+      label: Client Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: client_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: fax
+      label: Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: therapist_name
+      label: Therapist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: practice_name
+      label: Practice Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: license
+      label: License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: evaluation_form_id
+      label: Evaluation Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: evaluation_form_version
+      label: Evaluation Form Version
+      hint: null
+      type: text
+      options: []
+      required: false

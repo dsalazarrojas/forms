@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Year's Marketing Campaign Evaluation Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: objective
+      label: Objective
+      hint: Briefly describe the objective of this year's New Year's marketing campaign.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: results
+      label: Results
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Success''}'
+      - '{''label'': ''Failure''}'
+      required: false
+    - id: 5
+      name: marketing_channel
+      label: Marketing Channel
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Social Media''}'
+      - '{''label'': ''Print''}'
+      - '{''label'': ''Television''}'
+      required: false
+    - id: 6
+      name: target_audience
+      label: Target Audience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: evaluation_method
+      label: Evaluation Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Survey''}'
+      - '{''label'': ''Focus Group''}'
+      - '{''label'': ''Poll''}'
+      - '{''label'': ''Review''}'
+      required: false
+    - id: 8
+      name: time_period
+      label: Time Period
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_spent
+      label: Time Spent
+      hint: null
+      type: number
+      options: []
+      required: false

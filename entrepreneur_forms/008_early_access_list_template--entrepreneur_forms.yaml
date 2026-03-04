@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: early_access_list_template
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: launch_date
+      label: Launch Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Black Friday Photo Contest Form
+    pages:
+    - id: 1
+      name: contest_intro
+      label: -- Black Friday Photo Contest Entry --
+      hint: Share your best Black Friday moment and win exciting prizes
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contestant_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contestant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contestant_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: contestant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contestant_address
+      label: Mailing Address
+      hint: Required for prize delivery
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: photo_title
+      label: Photo Title
+      hint: Give your photo a creative title
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: photo_description
+      label: Photo Description
+      hint: Tell us the story behind your Black Friday photo
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: photo_upload_url
+      label: Photo URL
+      hint: Link to your Black Friday photo
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: photo_taken_date
+      label: Date Photo Was Taken
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: photo_location
+      label: Location of Photo
+      hint: Where was this photo taken?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: product_featured
+      label: Primary Product in Photo
+      hint: What main item is featured?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: photo_category
+      label: Photo Category
+      hint: null
+      type: select_one
+      options:
+      - Shopping Scene
+      - Product Close-up
+      - Celebration Moment
+      - Before & After
+      - Family/Group Activity
+      required: true
+    - id: 14
+      name: consent_publicity
+      label: Do you allow us to publish this photo?
+      hint: null
+      type: select_one
+      options:
+      - Yes, publish with my name
+      - Yes, publish anonymously
+      - 'No'
+      required: true
+    - id: 15
+      name: consent_prizes
+      label: I agree to official contest rules and prize terms
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 16
+      name: submission_timestamp
+      label: Entry Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

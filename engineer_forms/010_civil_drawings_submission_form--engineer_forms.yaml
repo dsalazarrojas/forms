@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Civil Drawings Submission Form
+    pages:
+    - id: 1
+      name: submitter_name
+      label: Submitter Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company or Organization
+      hint: Your company or firm name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: professional_license
+      label: Professional Engineer License Number
+      hint: PE license number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: license_state
+      label: License State or Jurisdiction
+      hint: Where your license is registered
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_name
+      label: Project Name
+      hint: Official project name or title
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: project_number
+      label: Project Number or ID
+      hint: Internal project reference number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_location
+      label: Project Location
+      hint: Address or location description
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: project_type
+      label: Project Type
+      hint: Select the primary project category
+      type: select_one
+      options:
+      - Roadway or Highway
+      - Bridge or Overpass
+      - Water and Sewer
+      - Storm Drainage
+      - Site Development
+      - Land Subdivision
+      - Municipal Building
+      - Park or Recreation
+      - Utility Infrastructure
+      - Other
+      required: true
+    - id: 11
+      name: drawing_type
+      label: Type of Drawings Submitted
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Site Plan
+      - Grading Plan
+      - Utility Plan
+      - Roadway Plan
+      - Structural Details
+      - Erosion Control
+      - Landscaping Plan
+      - As-Built Drawings
+      - Other
+      required: true
+    - id: 12
+      name: drawing_count
+      label: Number of Drawing Sheets
+      hint: Total sheets in submission
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: drawing_scale
+      label: Primary Drawing Scale
+      hint: Most common scale used
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submission_purpose
+      label: Purpose of Submission
+      hint: Why are you submitting these drawings
+      type: select_one
+      options:
+      - Initial Review
+      - Revised Drawings
+      - Final Approval
+      - As-Built Record
+      - Permit Application
+      - Bid Package
+      - Other
+      required: true
+    - id: 15
+      name: revision_number
+      label: Revision Number
+      hint: If applicable, enter revision number
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: previous_submission_date
+      label: Previous Submission Date
+      hint: If this is a resubmission
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: consultant_involved
+      label: Were External Consultants Involved
+      hint: Additional engineering firms or specialists
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: consultant_details
+      label: Consultant Details
+      hint: List consultant firms and their roles
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: special_requirements
+      label: Special Requirements or Notes
+      hint: Any special considerations for review
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: expedited_review
+      label: Is Expedited Review Requested
+      hint: Additional fees may apply
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: file_format
+      label: Drawing File Format
+      hint: Format of submitted files
+      type: select_multiple
+      options:
+      - PDF
+      - AutoCAD DWG
+      - MicroStation DGN
+      - Revit
+      - Other CAD format
+      required: true
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Equipment Inventory Record Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: serial_number
+      label: Serial Number
+      hint: Enter equipment serial number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: model_number
+      label: Model Number
+      hint: Enter equipment model number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - Computer
+      - Printer
+      - Other
+      required: false
+    - id: 5
+      name: purchase_date
+      label: Purchase Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: purchase_value
+      label: Purchase Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - Warehouse
+      - Office
+      - Other
+      required: false
+    - id: 8
+      name: status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Lost
+      required: false
+    - id: 9
+      name: assigned_employee
+      label: Assigned Employee
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: maintenance_schedule
+      label: Maintenance Schedule
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-Annually
+      required: false
+    - id: 15
+      name: asset_manager_comments
+      label: Asset Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: equipment_owner
+      label: Equipment Owner
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

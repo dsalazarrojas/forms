@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: meters_to_inches_converter
+    pages:
+    - id: 1
+      name: input_meters
+      label: enter_meters
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: input_inches
+      label: enter_inches
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: result_meters
+      label: convert_meters
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: result_inches
+      label: convert_inches
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: note
+      label: additional_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: options
+      label: units
+      hint: null
+      type: select_multiple
+      options:
+      - Meter (meters)
+      - Inch (inches)
+      required: false

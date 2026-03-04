@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: One On One Leadership Development Meeting
+    pages:
+    - id: 1
+      name: one_on_one_meeting
+      label: One On One Meeting
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: meeting_focus
+      label: Meeting Focus
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: meeting_focus_note
+      label: Meeting Notes
+      hint: This is where you can take notes during the meeting
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: meeting_focus_date
+      label: Meeting Focus Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: meeting_focus_time
+      label: Meeting Focus Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: evaluation_score
+      label: Evaluation Score
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: evaluation_scale
+      label: Evaluation Scale
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

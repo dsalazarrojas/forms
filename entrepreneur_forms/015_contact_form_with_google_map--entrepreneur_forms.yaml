@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Form With Google Map
+    pages:
+    - id: 1
+      name: header
+      label: -- Contact and Location --
+      hint: Use this form to contact us or find our location on the map
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: Full name for correspondence
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: Best email to reach you
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: message
+      label: Message
+      hint: Brief description of your request
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: visit_interest
+      label: Interested in visiting the location
+      hint: Do you plan to visit our office or store
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 6
+      name: preferred_visit_date
+      label: Preferred visit date
+      hint: If visiting, provide a preferred date
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone number
+      hint: Optional phone number for scheduling visits
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: map_note
+      label: Map location displayed
+      hint: Use the embedded map to confirm directions
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: additional_details
+      label: Additional details
+      hint: Any other information to help schedule a visit
+      type: text
+      options: []
+      required: false

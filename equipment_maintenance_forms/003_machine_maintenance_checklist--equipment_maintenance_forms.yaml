@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Machine Maintenance Checklist
+    pages:
+    - id: 1
+      name: equipment_maintenance_checklist_1
+      label: Maintenance Checklists
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: equipment_maintenance_checklist_2
+      label: Inspections
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: equipment_maintenance_checklist_3
+      label: Replacements
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: equipment_maintenance_checklist_4
+      label: Last Inspected
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: equipment_maintenance_checklist_5
+      label: Next Inspected
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: equipment_maintenance_checklist_6
+      label: Maintenance Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: equipment_maintenance_checklist_7
+      label: Technicians Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: equipment_maintenance_checklist_8
+      label: Supervisor Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: equipment_maintenance_checklist_9
+      label: Last Done By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: equipment_maintenance_checklist_10
+      label: Last Done On
+      hint: null
+      type: time
+      options: []
+      required: true

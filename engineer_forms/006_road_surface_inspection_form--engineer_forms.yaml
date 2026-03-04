@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: road_surface_inspection_form
+    pages:
+    - id: 1
+      name: road_surface_condition
+      label: Road Surface Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: road_surface_type
+      label: Road Surface Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: road_surface_material
+      label: Road Surface Material
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: road_surface_length
+      label: Road Surface Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: road_surface_width
+      label: Road Surface Width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: road_surface_depth
+      label: Road Surface Depth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: road_surface_condition_notes
+      label: Road Surface Condition Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: road_surface_inspector_signature
+      label: Road Surface Inspector Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: road_surface_inspection_date
+      label: Road Surface Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: road_surface_inspection_time
+      label: Road Surface Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: false

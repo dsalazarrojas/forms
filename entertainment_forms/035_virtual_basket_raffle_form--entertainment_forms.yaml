@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Basket Raffle Form
+    pages:
+    - id: 1
+      name: home_page
+      label: Home
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: basket_details
+      label: Basket Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John Doe''}'
+      - '{''id'': 2, ''label'': ''Jane Doe''}'
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: prize
+      label: Prize
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: participants
+      label: Participants
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''John Doe''}'
+      - '{''id'': 2, ''label'': ''Jane Doe''}'
+      - '{''id'': 3, ''label'': ''Bob Smith''}'
+      required: false
+    - id: 13
+      name: total_participants
+      label: Total Participants
+      hint: null
+      type: number
+      options: []
+      required: false

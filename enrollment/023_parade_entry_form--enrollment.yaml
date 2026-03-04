@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parade Entry Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Please enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: entry_type
+      label: Entry Type
+      hint: null
+      type: select_multiple
+      options:
+      - Parade Entry
+      - Parade Entry
+      - Entry
+      required: true
+    - id: 5
+      name: entry_fee
+      label: Entry Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: Please enter your contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: theme
+      label: Theme
+      hint: null
+      type: select_one
+      options:
+      - Classic
+      - Modern
+      - Retro
+      required: true
+    - id: 10
+      name: custom_template
+      label: Custom Template
+      hint: null
+      type: select_one
+      options:
+      - Default
+      - Custom
+      required: false
+    - id: 11
+      name: custom_template_url
+      label: Custom Template URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: custom_template_image
+      label: Custom Template Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: entry_fees
+      label: Entry Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: entry_fees_note
+      label: Note on Entry Fees
+      hint: null
+      type: text
+      options: []
+      required: false

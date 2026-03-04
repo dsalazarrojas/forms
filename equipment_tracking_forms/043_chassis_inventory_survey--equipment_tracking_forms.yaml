@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chassis Inventory Survey
+    pages:
+    - id: 1
+      name: section_inventory_info
+      label: -- Inventory Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: survey_date
+      label: Survey Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: surveyor_name
+      label: Surveyor Name
+      hint: Person conducting survey
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: location
+      label: Inventory Location
+      hint: Yard, facility, or depot
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_chassis
+      label: -- Chassis Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: chassis_id
+      label: Chassis ID or Serial Number
+      hint: Unique identifier
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: chassis_type
+      label: Chassis Type
+      hint: What type of chassis
+      type: select_one
+      options:
+      - Dry Van
+      - Refrigerated
+      - Flatbed
+      - Tanker
+      - Specialized
+      - Other
+      required: true
+    - id: 8
+      name: make_model
+      label: Make and Model
+      hint: Manufacturer and model year
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: year_manufactured
+      label: Year Manufactured
+      hint: Production year
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: section_condition
+      label: -- Condition Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: overall_condition
+      label: Overall Condition
+      hint: General state of chassis
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Needs Repair
+      required: true
+    - id: 12
+      name: tires_condition
+      label: Tire Condition
+      hint: Status of tires
+      type: select_one
+      options:
+      - New
+      - Good
+      - Fair
+      - Worn
+      - Replacement Needed
+      required: true
+    - id: 13
+      name: brakes_condition
+      label: Brake System Condition
+      hint: Functionality of brakes
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Needs Maintenance
+      required: true
+    - id: 14
+      name: lights_condition
+      label: Lights and Electrical
+      hint: Status of all lights
+      type: select_one
+      options:
+      - All Working
+      - Some Issues
+      - Multiple Issues
+      - Needs Repair
+      required: false
+    - id: 15
+      name: section_status
+      label: -- Operational Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: operational_status
+      label: Operational Status
+      hint: Can this chassis be used
+      type: select_one
+      options:
+      - In Service
+      - Available
+      - Under Maintenance
+      - Needs Repair
+      - Out of Service
+      required: true
+    - id: 17
+      name: last_maintenance_date
+      label: Last Maintenance Date
+      hint: When was last serviced
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: next_maintenance_due
+      label: Next Maintenance Due Date
+      hint: When is next service due
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: section_issues
+      label: -- Known Issues --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: known_issues
+      label: Known Issues or Damage
+      hint: List any problems
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: repair_needed
+      label: Repairs Needed
+      hint: What needs to be fixed
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: estimated_repair_cost
+      label: Estimated Repair Cost
+      hint: Approximate cost in dollars
+      type: number
+      options: []
+      required: false

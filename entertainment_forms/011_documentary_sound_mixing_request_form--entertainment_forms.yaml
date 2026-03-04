@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Documentary Sound Mixing Request Form
+    pages:
+    - id: 1
+      name: sound_mixing_request_form
+      label: Sound Mixing Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: artist
+      label: Artist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: artist_email
+      label: Artist Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: sound_mixing_service
+      label: Sound Mixing Service
+      hint: null
+      type: select_multiple
+      options:
+      - Service 1
+      - Service 2
+      - Service 3
+      required: false
+    - id: 5
+      name: mix_deadline
+      label: Mix Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: mix_budget
+      label: Mix Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: mix_type
+      label: Mix Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: mix_description
+      label: Mix Description
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Engagement Survey
+    pages:
+    - id: 1
+      name: customer_service_experience
+      label: Customer Service Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction_level
+      label: satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: communication_effectiveness
+      label: Communication Effectiveness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: responsiveness
+      label: Respond to Inquiries
+      hint: Responds within a reasonable time frame
+      type: select_one
+      options:
+      - Very Quickly
+      - Quickly
+      - Somewhat Quickly
+      - Slowly
+      required: false
+    - id: 5
+      name: resolution
+      label: Resolution of Concerns
+      hint: null
+      type: select_multiple
+      options:
+      - Very Satisfactory
+      - Satisfactory
+      - Somewhat Satisfactory
+      - Not Satisfactory
+      required: false
+    - id: 6
+      name: follow_up
+      label: Follow-up
+      hint: Follows up to ensure customer is satisfied
+      type: select_one
+      options:
+      - Very Often
+      - Often
+      - Rarely
+      - Never
+      required: false
+    - id: 7
+      name: employee_attitude
+      label: Employee Attitude
+      hint: null
+      type: select_multiple
+      options:
+      - Very Positive
+      - Positive
+      - Somewhat Positive
+      - Negative
+      required: false
+    - id: 8
+      name: knowledge_base
+      label: Knowledge Base
+      hint: Has a thorough knowledge of their products and services
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Somewhat High
+      - Low
+      required: false
+    - id: 9
+      name: customer_service_representatives
+      label: Customer Service Representatives
+      hint: null
+      type: select_one
+      options:
+      - Very Friendly
+      - Friendly
+      - Somewhat Friendly
+      - Unfriendly
+      required: false
+    - id: 10
+      name: resolution_method
+      label: resolution-method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: time_of_resolution
+      label: Time of Resolution
+      hint: How long did it take to resolve your issue
+      type: select_one
+      options:
+      - 1 minute
+      - 5 minutes
+      - 10 minutes
+      - 1 hour
+      - 1 day
+      - 2 days
+      - More than 2 days
+      required: false
+    - id: 12
+      name: resolution_method_time
+      label: Time of resolution method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Live Chat
+      - Ticket
+      required: false
+    - id: 13
+      name: resolution_method_contact
+      label: Resolution method contact
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Live Chat
+      - Ticket
+      required: false
+    - id: 14
+      name: follow_up_time
+      label: Follow-up time
+      hint: How often do you receive follow-ups
+      type: select_one
+      options:
+      - After every interaction
+      - After every 2 interactions
+      - After every 3 interactions
+      - Never
+      required: false

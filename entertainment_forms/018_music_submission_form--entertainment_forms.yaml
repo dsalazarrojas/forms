@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music Submission Form
+    pages:
+    - id: 1
+      name: artist_name
+      label: Artist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: music_genre
+      label: Music Genre
+      hint: null
+      type: select_one
+      options:
+      - Hip Hop
+      - Pop
+      - Electronic
+      - Rock
+      - Classical
+      required: false
+    - id: 3
+      name: music_file
+      label: Music File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chiller Form
+    pages:
+    - id: 1
+      name: inspector_name
+      label: Inspector Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: chiller_id
+      label: Chiller Unit ID
+      hint: Example - CHL-001
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: header_operating_conditions
+      label: -- Operating Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: suction_pressure
+      label: Suction Pressure (PSI)
+      hint: Enter the current suction pressure
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: discharge_pressure
+      label: Discharge Pressure (PSI)
+      hint: Enter the current discharge pressure
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: oil_pressure
+      label: Oil Pressure (PSI)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: water_inlet_temp
+      label: Water Inlet Temperature (F)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: water_outlet_temp
+      label: Water Outlet Temperature (F)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: header_maintenance_checks
+      label: -- Maintenance Checks --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: leak_check
+      label: Leak Check Performed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - N/A
+      required: true
+    - id: 12
+      name: oil_level_check
+      label: Oil Level Satisfactory
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: refrigerant_level
+      label: Refrigerant Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Normal
+      - High
+      required: true
+    - id: 14
+      name: general_condition
+      label: Overall Unit Condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 15
+      name: comments
+      label: Additional Comments or Observations
+      hint: null
+      type: text
+      options: []
+      required: false

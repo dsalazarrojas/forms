@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brow Lamination Course Registration
+    pages:
+    - id: 1
+      name: student_name
+      label: Student name
+      hint: Full name of registrant
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact email
+      hint: For course communications
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: certification_needed
+      label: Certification needed
+      hint: Require certification upon completion
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 4
+      name: course_date
+      label: Course date
+      hint: Scheduled date for training
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: prior_experience
+      label: Prior experience
+      hint: Years of experience in brow services
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment method
+      hint: How the student will pay for the course
+      type: select_one
+      options:
+      - Credit card
+      - Bank transfer
+      - Invoice
+      required: true
+    - id: 7
+      name: dietary_requirements
+      label: Dietary requirements
+      hint: For in person training catering
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: Emergency contact
+      hint: Name and phone number
+      type: text
+      options: []
+      required: true

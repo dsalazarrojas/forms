@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Diversity And Equity In Research Survey
+    pages:
+    - id: 1
+      name: survey_form
+      label: Survey Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: demographic_data
+      label: Demographic Data
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: diversity_and_equity_questions
+      label: Questions
+      hint: Please answer the following questions about diversity and equity in research
+        environments.
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: select_one
+      label: Select One
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 11
+      name: select_multiple
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 12
+      name: integer_field
+      label: Integer Field
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: decimal_field
+      label: Decimal Field
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: decimal_range_field
+      label: Decimal Range Field
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: select_one_with_none
+      label: Select One with None
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Option 1
+      - Option 2
+      required: true
+    - id: 16
+      name: select_multiple_with_none
+      label: Select Multiple with None
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Option 1
+      - Option 2
+      required: false
+    - id: 17
+      name: date_field
+      label: Date Field
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: date_range_field
+      label: Date Range Field
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: time_field
+      label: Time Field
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: select_multiple_field
+      label: Select Multiple Field
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: select_one_with_none_and_description
+      label: Select One with None and Description
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 22
+      name: select_multiple_with_none_and_description
+      label: Select Multiple with None and Description
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Option 1
+      - Option 2
+      required: false
+    - id: 23
+      name: integer_field_with_range
+      label: Integer Field with Range
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: decimal_field_with_range
+      label: Decimal Field with Range
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: select_one_with_label_description
+      label: Select One with Label and Description
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true

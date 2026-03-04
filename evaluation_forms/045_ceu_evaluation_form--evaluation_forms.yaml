@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: CEU Course Evaluation Form
+    pages:
+    - id: 1
+      name: ceu_header_section
+      label: -- Continuing Education Unit (CEU) Evaluation --
+      hint: Your feedback ensures the high quality of our professional development
+        programs.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name_ceu
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: course_title_ceu
+      label: Course Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: instructor_name_ceu
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: completion_date_ceu
+      label: Date of Completion
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: content_relevance_rating
+      label: Relevance of course content to your profession
+      hint: null
+      type: select_one
+      options:
+      - Not Relevant
+      - Slightly Relevant
+      - Relevant
+      - Highly Relevant
+      required: true
+    - id: 7
+      name: instructor_effectiveness_rating
+      label: Instructor Effectiveness and Knowledge
+      hint: null
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 8
+      name: learning_objectives_met
+      label: Were the stated learning objectives achieved?
+      hint: null
+      type: select_one
+      options:
+      - All objectives met
+      - Most objectives met
+      - Some objectives met
+      - Objectives not met
+      required: true
+    - id: 9
+      name: course_material_quality
+      label: Quality of course materials and handouts
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: true
+    - id: 10
+      name: pace_of_instruction
+      label: Pace of the course
+      hint: null
+      type: select_one
+      options:
+      - Too Slow
+      - Just Right
+      - Too Fast
+      required: true
+    - id: 11
+      name: key_takeaway_ceu
+      label: What was your most significant takeaway from this course?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: difficulty_level_ceu
+      label: Level of course difficulty
+      hint: null
+      type: select_one
+      options:
+      - Easy
+      - Appropriate for level
+      - Challenging
+      - Overly Complex
+      required: true
+    - id: 13
+      name: recommend_course_check
+      label: Would you recommend this CEU course to others?
+      hint: null
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - false
+      required: true
+    - id: 14
+      name: future_course_topics
+      label: Suggested topics for future CEU courses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: certificate_issuance_ack
+      label: I request the issuance of my CEU Certificate
+      hint: null
+      type: select_one
+      options:
+      - true
+      - 'False'
+      required: true

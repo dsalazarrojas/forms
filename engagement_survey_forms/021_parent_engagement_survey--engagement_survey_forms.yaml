@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: parent_engagement_survey
+    pages:
+    - id: 1
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_name
+      label: parent_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: survey_question_1
+      label: How often do you visit your child's classroom?
+      hint: null
+      type: select_one
+      options:
+      - School events
+      - Weekly
+      - Monthly
+      - Rarely
+      required: true
+    - id: 4
+      name: survey_question_2
+      label: What activities do you participate in at school?
+      hint: null
+      type: select_multiple
+      options:
+      - PTA
+      - School events
+      - Parent-teacher conferences
+      - Parent volunteer work
+      - Other
+      required: true
+    - id: 5
+      name: school_hours
+      label: School hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: survey_question_3
+      label: How many hours per week do you spend with your child's teacher?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: survey_question_4
+      label: How many times have you attended school events this year?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: survey_question_5
+      label: What is your preferred method of communication?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text
+      - In person
+      required: true
+    - id: 9
+      name: survey_question_6
+      label: How do you prefer to contact the teacher?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text
+      - In person
+      required: true
+    - id: 10
+      name: survey_question_7
+      label: How often do you check your email for updates from the teacher?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: email_frequency
+      label: How often do you check your email for updates from the teacher?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: true
+    - id: 14
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: preferred_time
+      label: Preferred time to call or meet
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: survey_question_8
+      label: What time of day do you prefer to be called or met?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: survey_question_9
+      label: What is your role at the school?
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Teacher
+      - Administrator
+      - Student
+      required: true
+    - id: 18
+      name: survey_question_10
+      label: What do you do?
+      hint: null
+      type: select_one
+      options:
+      - PTA member
+      - Parent volunteer
+      - Teacher
+      - School staff
+      required: true
+    - id: 19
+      name: survey_question_11
+      label: How can we contact you?
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text
+      - In person
+      required: true
+    - id: 20
+      name: survey_question_12
+      label: How do you prefer to be reached?
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text
+      - In person
+      required: true
+    - id: 21
+      name: survey_question_13
+      label: How often do you meet with teachers or school staff?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 22
+      name: survey_question_14
+      label: How often do you receive emails from teachers or staff?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 23
+      name: survey_question_15
+      label: What time of day is best to meet?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: survey_question_16
+      label: What time of day is best to call?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: survey_question_17
+      label: What is the best time to meet or call?
+      hint: null
+      type: time
+      options: []
+      required: false

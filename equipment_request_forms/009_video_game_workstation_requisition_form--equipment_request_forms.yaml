@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Video Game Workstation Requisition Form
+    pages:
+    - id: 1
+      name: video_game_workstation_requisition_form
+      label: Video Game Workstation Requisition Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - Department of Information Technology
+      - Department of Human Resources
+      - Department of Management
+      - Department of Finance
+      - Department of Marketing
+      - Department of Sales
+      - Department of Operations
+      - Department of Customer Support
+      - Department of Production
+      - Department of Quality Assurance
+      required: true
+    - id: 3
+      name: equipment_type
+      label: equipment_type
+      hint: null
+      type: select_multiple
+      options:
+      - Video Game Console
+      - Video Game Chair
+      - Gaming Keyboard
+      - Gaming Mouse
+      - Gaming Monitor
+      - Gaming Headset
+      - Gaming Controller
+      - Gaming Desk
+      required: true
+    - id: 4
+      name: equipment_quantity
+      label: equipment_quantity
+      hint: Number of units of equipment
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: request_date
+      label: request_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: priority_level
+      label: priority_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 7
+      name: departmental_contact
+      label: departmental_contact
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: equipment_status
+      label: equipment_status
+      hint: null
+      type: select_multiple
+      options:
+      - Available
+      - In use
+      - Reserved
+      - Lost
+      - Broken
+      required: true
+    - id: 9
+      name: comments
+      label: comments
+      hint: Any additional information about this request.
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: approved_by_manager
+      label: approved_by_manager
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Declined
+      - Pending Review
+      required: true

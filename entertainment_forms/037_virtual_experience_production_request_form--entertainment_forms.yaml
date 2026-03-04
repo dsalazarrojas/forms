@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Experience Production Request Form
+    pages:
+    - id: 1
+      name: virtual_experience_production_request_form_1
+      label: virtual_experience_production_request_form_1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: production_requirements
+      label: production_requirements_label
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: production_schedule
+      label: production_schedule_label
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: production_notes
+      label: production_notes_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_name
+      label: contact_name_label
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: contact_email_label
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: contact_phone_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: production_team
+      label: production_team_label
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: production_type
+      label: production_type_label
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: production_type_other
+      label: production_type_other_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_notes
+      label: additional_notes_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: date_of_event
+      label: date_of_event_label
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: time_of_event
+      label: time_of_event_label
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: venue
+      label: venue_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: event_description
+      label: event_description_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: event_link
+      label: event_link_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: event_image_url
+      label: event_image_url_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: event_video_url
+      label: event_video_url_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: event_audio_url
+      label: event_audio_url_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: event_file_url
+      label: event_file_url_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: event_additional_notes
+      label: event_additional_notes_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: submit_button
+      label: submit_button_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: terms_of_service
+      label: terms_of_service_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: terms_of_service_agreement
+      label: terms_of_service_agreement_label
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: submit
+      label: submit_label
+      hint: null
+      type: text
+      options: []
+      required: false

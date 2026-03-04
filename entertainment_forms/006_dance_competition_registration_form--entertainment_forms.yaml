@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dance Competition Registration Form
+    pages:
+    - id: 1
+      name: dancer_info
+      label: Dancer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Dancer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: competition_name
+      label: Competition Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: competition_date
+      label: Competition Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: genre
+      label: Dance Genre
+      hint: null
+      type: select_multiple
+      options:
+      - Ballroom
+      - Hip-Hop
+      - Latin
+      - Tap
+      required: false
+    - id: 9
+      name: style
+      label: Dance Style
+      hint: null
+      type: select_one
+      options:
+      - Ballet
+      - Contemporary
+      - Hip-Hop
+      - Jazz
+      - Modern
+      - Tap
+      required: false
+    - id: 10
+      name: music
+      label: Music Style
+      hint: null
+      type: select_one
+      options:
+      - Electronic
+      - Hip-Hop
+      - Jazz
+      - Latin
+      - Other
+      - Rhythm and Blues
+      required: false
+    - id: 11
+      name: registration_number
+      label: Registration Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: division
+      label: Division
+      hint: null
+      type: select_one
+      options:
+      - Junior
+      - Senior
+      - Adult
+      required: false
+    - id: 14
+      name: entry_fee
+      label: Entry Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: entry_fee_discount
+      label: Entry Fee Discount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Online Payment
+      - PayPal
+      - Other
+      required: false
+    - id: 17
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: dancer_agreement
+      label: Dancer Agreement
+      hint: null
+      type: select_one
+      options:
+      - I have read and understand the competition rules
+      - I have not read and do not understand the competition rules
+      required: false
+    - id: 19
+      name: guardian_info
+      label: Guardian Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: parent_info
+      label: Parent Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_info
+      label: Medical Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medical_cert
+      label: Medical Certificate
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false

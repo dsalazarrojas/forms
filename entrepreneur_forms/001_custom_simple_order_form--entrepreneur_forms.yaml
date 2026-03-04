@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Simple Order Form
+    pages:
+    - id: 1
+      name: product_id
+      label: Product Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: delivery_instructions
+      label: Delivery Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: product_ids
+      label: Product Ids
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 5
+      name: product_quantities
+      label: Product Quantities
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false

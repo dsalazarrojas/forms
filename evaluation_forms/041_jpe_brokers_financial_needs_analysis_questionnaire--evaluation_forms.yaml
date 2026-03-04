@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: jpe_brokers_financial_needs_analysis_questionnaire
+    pages:
+    - id: 1
+      name: form_top_of_form
+      label: top_of_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: Your Name (e.g John Doe)
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: e.g johndoe@example.com
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: e.g 1 123 123 1234
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: financial_needs
+      label: financial_needs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: financial_needs_other
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: financial_needs_other_value
+      label: financial_needs_other_value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_of_birth
+      label: date_of_birth
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: employment_status
+      label: employment_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: income
+      label: income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: income_other
+      label: income_other
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: income_other_value
+      label: income_other_value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: employment_income
+      label: employment_income
+      hint: null
+      type: select_multiple
+      options:
+      - Full-time
+      - Part-time
+      - Freelance
+      - Self-employed
+      - Unemployed
+      - Retired
+      required: false
+    - id: 15
+      name: employment_income_value
+      label: employment_income_value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: employment_status_value
+      label: employment_status_value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: employment_status_other
+      label: employment_status_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: income_value
+      label: income_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: income_value_other
+      label: income_value_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: employment_income_other
+      label: employment_income_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: income_other_value
+      label: income_other_value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: employment_income_other_value
+      label: employment_income_other_value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: employment_income_frequency
+      label: employment_income_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: employment_income_frequency_value
+      label: employment_income_frequency_value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: employment_income_frequency_other
+      label: employment_income_frequency_other
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kahlo Home Evaluation Form
+    pages:
+    - id: 1
+      name: home_evaluation_form
+      label: Home Evaluation Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Commercial
+      - Mixed Use
+      - Other
+      required: false
+    - id: 5
+      name: property_location
+      label: Property Location
+      hint: null
+      type: select_multiple
+      options:
+      - Downtown
+      - Uptown
+      - Suburbs
+      - Rural
+      required: true
+    - id: 6
+      name: evaluation_type
+      label: Evaluation Type
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Commercial
+      - Mixed Use
+      - Other
+      required: true
+    - id: 7
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_time
+      label: Evaluation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: evaluation_notes
+      label: Evaluation Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - User1
+      - User2
+      - User3
+      required: false
+    - id: 11
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: false
+    - id: 12
+      name: review_note
+      label: Review Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: submitted_by_name
+      label: Submitted By Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitted_by_number
+      label: Submitted By Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: reviewer_note
+      label: Reviewer Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: reviewer_number
+      label: Reviewer Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: property_owner_note
+      label: Property Owner Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: property_owner_name
+      label: Property Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: property_owner_number
+      label: Property Owner Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_time
+      label: Follow Up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_status
+      label: Follow Up Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Scheduled
+      - Completed
+      required: false
+    - id: 25
+      name: follow_up_note
+      label: Follow Up Note
+      hint: null
+      type: note
+      options: []
+      required: false

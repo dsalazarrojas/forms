@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Software Budget Estimation Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: software_project_info
+      label: Software Project Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: software_requirements
+      label: Software Requirements
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: software_technology
+      label: Software Technology
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_timeline
+      label: Project Timeline
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_multiple
+      options:
+      - In Progress
+      - On Hold
+      - Completed
+      - Cancelled
+      required: true
+    - id: 9
+      name: budget_estimation
+      label: Budget Estimation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: estimation_method
+      label: Estimation Method
+      hint: null
+      type: select_one
+      options:
+      - Bottom-up Estimation
+      - Three Point Estimation
+      - Expert Judgment
+      required: true
+    - id: 11
+      name: estimation_date
+      label: Estimation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: project_lead
+      label: Project Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer
+      label: Customer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: budget_owners
+      label: Budget Owners
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: budget_owners_email
+      label: Budget Owners Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: budget_owners_phone
+      label: Budget Owners Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: budget_owners_department
+      label: Budget Owners Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: vendor_info
+      label: Vendor Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: vendor_address
+      label: Vendor Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true

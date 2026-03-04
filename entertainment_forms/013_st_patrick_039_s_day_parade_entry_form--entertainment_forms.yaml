@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: st_patricks_day_parade_entry_form
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parade_details
+      label: Parade Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: performer_details
+      label: Performer Details
+      hint: Please include all necessary information about your performance
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: sponsor_details
+      label: Sponsor Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: review
+      label: Review
+      hint: A brief description of your entry in 500 characters or less
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: agreement
+      label: Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false

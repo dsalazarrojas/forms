@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brand Reveal Cocktail RSVP
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: attendee_email
+      label: Email Address
+      hint: For event confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: attendee_phone
+      label: Phone Number
+      hint: For day-of contact
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: plus_one_name
+      label: Plus One Name
+      hint: Name of your guest if applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attendance_confirmation
+      label: Attendance Confirmation
+      hint: Will you be attending
+      type: select_one
+      options:
+      - Yes, Excited to Attend
+      - No, Cannot Make It
+      - Maybe, Will Confirm Soon
+      required: true
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: Date of cocktail reveal
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: event_time
+      label: Event Time
+      hint: Start time
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: cocktail_preference
+      label: Signature Cocktail Preference
+      hint: What is your preferred cocktail style
+      type: select_one
+      options:
+      - Classic Martini
+      - Mojito
+      - Old Fashioned
+      - Margarita
+      - Cosmopolitan
+      - Gin and Tonic
+      - Whiskey Sour
+      - Non-Alcoholic Mocktail
+      required: true
+    - id: 9
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any food allergies or restrictions
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergy
+      - Shellfish Allergy
+      - Kosher
+      - Halal
+      required: true
+    - id: 10
+      name: dress_code_acknowledgment
+      label: Dress Code
+      hint: The dress code is cocktail attire
+      type: select_one
+      options:
+      - I Will Dress Accordingly
+      - I Have Questions About Dress Code
+      required: true
+    - id: 11
+      name: transportation_plan
+      label: Transportation Plan
+      hint: How will you get to the venue
+      type: select_one
+      options:
+      - Driving Myself
+      - Ride Share or Taxi
+      - Public Transportation
+      - Walking
+      - Carpooling
+      required: true
+    - id: 12
+      name: parking_needed
+      label: Parking Needed
+      hint: Do you need parking information
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: brand_connection
+      label: Connection to Brand
+      hint: How are you connected to the brand
+      type: select_one
+      options:
+      - Customer
+      - Business Partner
+      - Media
+      - Industry Professional
+      - Friend of Founder
+      - Other
+      required: true
+    - id: 14
+      name: social_media_handle
+      label: Social Media Handle
+      hint: Your Instagram or Twitter handle
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: photo_consent
+      label: Photo Consent
+      hint: Can we post photos of you on social media
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, Please Do Not Post
+      required: true
+    - id: 16
+      name: song_requests
+      label: Song Requests
+      hint: Any songs you would like to hear
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: special_occasion
+      label: Celebrating a Special Occasion
+      hint: Is this event part of a special celebration for you
+      type: select_one
+      options:
+      - false
+      - Birthday
+      - Anniversary
+      - Promotion
+      - Other
+      required: true
+    - id: 18
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information to share
+      type: text
+      options: []
+      required: false

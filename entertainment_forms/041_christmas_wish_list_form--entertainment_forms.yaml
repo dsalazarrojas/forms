@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Wish List Form
+    pages:
+    - id: 1
+      name: child_info
+      label: -- Child Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: child_name
+      label: Child's Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: grade
+      label: Grade in School
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: parent_guardian_info
+      label: -- Parent/Guardian Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: parent_name
+      label: Parent/Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: parent_email
+      label: Parent/Guardian Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: parent_phone
+      label: Parent/Guardian Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: interest_section
+      label: -- Child Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: hobbies
+      label: Main Hobbies or Interests
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Sports
+      - Arts and crafts
+      - Reading
+      - Gaming
+      - Music
+      - Building and construction
+      - Science and nature
+      - Outdoor activities
+      - Collecting
+      required: true
+    - id: 11
+      name: favorite_books
+      label: Favorite Book Series or Genre
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: favorite_shows
+      label: Favorite TV Shows or Movies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: wish_list
+      label: -- Christmas Wish List --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: wish_one
+      label: Wish Item 1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: wish_one_price
+      label: Approximate Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: wish_two
+      label: Wish Item 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: wish_two_price
+      label: Approximate Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: wish_three
+      label: Wish Item 3
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: wish_three_price
+      label: Approximate Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: additional_wishes
+      label: Additional Wish Items (Optional)
+      hint: Comma-separated list
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: special_message
+      label: Special Message or Thank You
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Equipment Order Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - 1 - Computer
+      - 2 - Printer
+      - 3 - Monitor
+      - 4 - Other
+      required: false
+    - id: 3
+      name: equipment_quantity
+      label: Equipment Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - 1 - Ordered
+      - 2 - In Progress
+      - 3 - Delivered
+      - 4 - Returned
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - Other
+      required: false

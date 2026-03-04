@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: SAS Observation And Coaching Form
+    pages:
+    - id: 1
+      name: observation
+      label: Observation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: coaching
+      label: Coaching
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: observation_type
+      label: Observation Type
+      hint: null
+      type: select_one
+      options:
+      - Observation
+      - Coaching
+      required: false
+    - id: 5
+      name: sales_performance
+      label: Sales Performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: coaching_goal
+      label: Coaching Goal
+      hint: null
+      type: select_one
+      options:
+      - Improve Sales Performance
+      - Improve Sales Strategy
+      - Improve Customer Service
+      required: false
+    - id: 7
+      name: coaching_goal_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: progress_tracking
+      label: Progress Tracking
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: coaching_frequency
+      label: Coaching Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: next_coaching_session
+      label: Next Coaching Session
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: coaching_notes
+      label: Coaching Notes
+      hint: null
+      type: text
+      options: []
+      required: false

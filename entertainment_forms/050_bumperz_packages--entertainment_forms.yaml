@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bumperz Packages
+    pages:
+    - id: 1
+      name: inquiry_date
+      label: Inquiry Date
+      hint: When requesting information
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: customer_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_type
+      label: Event Type
+      hint: What event do you need
+      type: select_one
+      options:
+      - Birthday Party
+      - Corporate Event
+      - Wedding
+      - Festival
+      - Promotional Event
+      - Carnival
+      - Other
+      required: true
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: When is your event
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: event_location
+      label: Event Location
+      hint: Where will it be held
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_duration
+      label: Event Duration
+      hint: How long is the event
+      type: select_one
+      options:
+      - Half Day
+      - Full Day
+      - Multiple Days
+      - Specific Hours
+      required: false
+    - id: 9
+      name: expected_attendance
+      label: Expected Attendance
+      hint: Number of guests
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: age_group
+      label: Primary Age Group
+      hint: Who will attend
+      type: select_one
+      options:
+      - Children Only
+      - Teens
+      - Adults
+      - Mixed Ages
+      - Families
+      required: true
+    - id: 11
+      name: package_type
+      label: Package Type of Interest
+      hint: Which bumperz package
+      type: select_one
+      options:
+      - Standard Package
+      - Deluxe Package
+      - Premium Package
+      - Custom Package
+      required: true
+    - id: 12
+      name: bumpercar_count
+      label: Number of Bumper Cars Needed
+      hint: Quantity
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: additional_attractions
+      label: Additional Attractions Interested In
+      hint: Other entertainment options
+      type: select_multiple
+      options:
+      - Inflatable Rentals
+      - Games and Prizes
+      - Music and DJ
+      - Lighting System
+      - Safety Equipment
+      - Staff Support
+      required: false
+    - id: 14
+      name: venue_setup
+      label: Venue Setup Requirements
+      hint: Space and logistics
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: special_requests
+      label: Special Requests or Customization
+      hint: Custom themes or features
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: insurance_coverage
+      label: Insurance Coverage Needed
+      hint: Liability coverage
+      type: select_one
+      options:
+      - true
+      - false
+      - Already Provided
+      required: false
+    - id: 17
+      name: safety_concerns
+      label: Safety or Accessibility Concerns
+      hint: Any special needs
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: budget_range
+      label: Budget Range
+      hint: Approximate budget
+      type: select_one
+      options:
+      - Under 500
+      - 500 - 1000
+      - 1000 - 2500
+      - 2500 - 5000
+      - Over 5000
+      required: false
+    - id: 19
+      name: staffing_needs
+      label: Staffing or Operator Support
+      hint: Do you need operators
+      type: select_one
+      options:
+      - Yes, Full Staff
+      - Yes, Limited Staff
+      - Self-Operate
+      - Not Sure
+      required: false
+    - id: 20
+      name: rental_history
+      label: Previous Rental Experience
+      hint: Have you rented before
+      type: select_one
+      options:
+      - Yes, Multiple Times
+      - Yes, Once
+      - No, First Time
+      required: false
+    - id: 21
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: How to reach you
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text Message
+      - No Preference
+      required: false
+    - id: 22
+      name: additional_info
+      label: Additional Information
+      hint: Any other details
+      type: text
+      options: []
+      required: false

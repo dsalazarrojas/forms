@@ -1,0 +1,121 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Short Film Feedback Survey
+    pages:
+    - id: 1
+      name: intro
+      label: Intro
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: film_title
+      label: film_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: director
+      label: director
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: rating
+      label: rating
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very Good''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Bad''}'
+      required: true
+    - id: 5
+      name: note
+      label: note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: watch_again
+      label: watch_again
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: watched_at
+      label: Watched at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: watch_time
+      label: Watch time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: watch_location
+      label: Watch location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: watched_at
+      label: Watched at
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Cinema 1''}'
+      - '{''id'': 2, ''label'': ''Cinema 2''}'
+      required: false
+    - id: 14
+      name: festival
+      label: Festival
+      hint: null
+      type: text
+      options: []
+      required: false

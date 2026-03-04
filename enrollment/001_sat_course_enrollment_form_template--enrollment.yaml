@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: sat-course-enrollment-form-template
+    pages:
+    - id: 1
+      name: user
+      label: user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: course
+      label: course
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - paypal
+      - Other
+      required: true
+    - id: 6
+      name: payment_token
+      label: payment_token
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Other
+      required: false
+    - id: 7
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: sat_score
+      label: sat_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false

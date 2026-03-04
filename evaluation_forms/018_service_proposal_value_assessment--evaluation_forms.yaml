@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: service_proposal_value_assessment_form
+    pages:
+    - id: 1
+      name: service_proposal_form
+      label: Service Proposal Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: services
+      label: Services
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''None''}'
+      - '{''id'': 2, ''name'': ''Software Development''}'
+      - '{''id'': 3, ''name'': ''Consulting''}'
+      - '{''id'': 4, ''name'': ''Training''}'
+      - '{''id'': 5, ''name'': ''Other''}'
+      required: false
+    - id: 3
+      name: service_details
+      label: Service Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: expected_benefits
+      label: Expected Benefits
+      hint: Select one that applies
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Financial Savings''}'
+      - '{''id'': 2, ''name'': ''Improved Efficiency''}'
+      - '{''id'': 3, ''name'': ''Reduced Risk''}'
+      required: false
+    - id: 5
+      name: expected_costs
+      label: Expected Costs
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: total_value
+      label: Total Value
+      hint: Enter a number with two decimal places
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: overall_rating
+      label: Overall Rating
+      hint: Select one that applies
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''High''}'
+      - '{''id'': 2, ''name'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''Low''}'
+      required: false

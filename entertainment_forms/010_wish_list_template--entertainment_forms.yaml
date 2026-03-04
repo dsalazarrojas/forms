@@ -1,0 +1,30 @@
+inputSchema:
+  type: object
+  properties:
+    title: wish_list_template
+    pages:
+    - id: 1
+      name: wish_list
+      label: wish_list
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: sub_category
+      label: sub_category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

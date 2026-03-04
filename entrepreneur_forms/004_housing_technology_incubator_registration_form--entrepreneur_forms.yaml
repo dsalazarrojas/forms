@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Housing Technology Incubator Registration Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_info
+      label: Company Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: startup_info
+      label: Startup Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tech_stack
+      label: Tech Stack
+      hint: null
+      type: select_multiple
+      options:
+      - AWS
+      - Azure
+      - Google Cloud
+      - Microsoft Azure
+      - MongoDB
+      - MySQL
+      - Python
+      - React
+      - React Native
+      - TensorFlow
+      required: true
+    - id: 6
+      name: funding_info
+      label: Funding Info
+      hint: null
+      type: select_one
+      options:
+      - Self funded
+      - Angel investors
+      - Venture capital
+      - Government grants
+      - Crowdfunding
+      - Incubator funding
+      required: true
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - San Francisco, CA
+      - New York, NY
+      - Chicago, IL
+      - Los Angeles, CA
+      required: true
+    - id: 8
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: agreement
+      label: Agreement
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 14
+      name: agreement_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: signature
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - Handwritten signature
+      - Digital signature
+      required: true
+    - id: 16
+      name: signature_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: startup_info_file
+      label: Startup Info File
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: agreement_copy
+      label: Agreement Copy
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: startup_file
+      label: Startup File
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: tech_stack
+      label: Technologies
+      hint: null
+      type: select_multiple
+      options:
+      - AWS
+      - Azure
+      - Docker
+      - Google Cloud
+      - Microsoft Azure
+      - MySQL
+      - React
+      - TensorFlow
+      - Kubernetes
+      - Python
+      - MongoDB
+      - Node.js
+      - React Native
+      - PostgreSQL
+      - Angular
+      required: true
+    - id: 23
+      name: funding_info
+      label: Funding
+      hint: null
+      type: select_one
+      options:
+      - Self funded
+      - Angel investors
+      - Venture capital
+      - Government grants
+      - Crowdfunding
+      - Incubator funding
+      required: true
+    - id: 24
+      name: location
+      label: Locations
+      hint: null
+      type: select_one
+      options:
+      - San Francisco, CA
+      - New York, NY
+      - Chicago, IL
+      - Los Angeles, CA
+      required: true
+    - id: 25
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: text
+      options: []
+      required: false

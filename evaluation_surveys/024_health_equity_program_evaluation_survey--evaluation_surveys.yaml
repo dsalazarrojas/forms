@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Equity Program Evaluation Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: demographic_info
+      label: demographic_info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: health_outcomes
+      label: health_outcomes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: program_info
+      label: program_info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: data_sources
+      label: data_sources
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: data_collection
+      label: data_collection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: survey_results
+      label: survey_results
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: evaluation_method
+      label: evaluation_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: data_analysis
+      label: data_analysis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: program_capacity
+      label: program_capacity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: data_quality
+      label: data_quality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: data_security
+      label: data_security
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: data_privacy
+      label: data_privacy
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: true

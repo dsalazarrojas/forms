@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Evaluation Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: course_title
+      label: Course Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: telephone
+      label: Telephone
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: facilitator_name
+      label: Facilitator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: knowledge_of_subject_matter
+      label: Knowledge of Subject Matter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: suggestions_for_improving_the_program
+      label: What suggestions do you recommend for improving the program?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: recommend_course_to_colleagues
+      label: Would you recommend this course to your colleagues?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: true

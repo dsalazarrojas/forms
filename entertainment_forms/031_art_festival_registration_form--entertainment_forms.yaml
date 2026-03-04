@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Art Festival Registration Form
+    pages:
+      - id: 1
+        name: participant_name
+        label: Participant name
+        hint: Full name of festival participant
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: contact_email
+        label: Contact email
+        hint: For festival communications
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: role
+        label: Role at festival
+        hint: Artist vendor volunteer speaker
+        type: select_one
+        options: [Artist, Vendor, Volunteer, Speaker]
+        required: true
+      - id: 4
+        name: booth_requirements
+        label: Booth requirements
+        hint: Size power or table needs
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: performance_needs
+        label: Performance needs
+        hint: AV staging or seating requirements
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: emergency_contact
+        label: Emergency contact
+        hint: Name and phone
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: insurance_details
+        label: Insurance details
+        hint: Liability insurance if applicable
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: social_links
+        label: Social media or website
+        hint: Links for promotion
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: attendance_days
+        label: Attendance days
+        hint: Which days will you attend
+        type: select_multiple
+        options: [Day 1, Day 2, Day 3]
+        required: true
+      - id: 10
+        name: additional_comments
+        label: Additional comments
+        hint: Any other information
+        type: text
+        options: []
+        required: false

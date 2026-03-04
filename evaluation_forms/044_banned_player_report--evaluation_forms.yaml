@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Banned Player Report
+    pages:
+    - id: 1
+      name: reporter_username
+      label: Reporter Username
+      hint: Your username
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reporter_email
+      label: Reporter Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: report_date
+      label: Report Date
+      hint: Date of incident
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: report_time
+      label: Report Time
+      hint: Time of incident
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: banned_player_username
+      label: Banned Player Username
+      hint: Their username
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: player_id
+      label: Player ID
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: server_name
+      label: Server Name
+      hint: Which server
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: violation_type
+      label: Violation Type
+      hint: What rule was broken
+      type: select_one
+      options:
+      - Cheating
+      - Hacking
+      - Exploiting Bugs
+      - Harassment
+      - Hate Speech
+      - Spamming
+      - Scamming
+      - Griefing
+      - Team Killing
+      - Other
+      required: true
+    - id: 9
+      name: violation_category
+      label: Violation Category
+      hint: Severity level
+      type: select_one
+      options:
+      - Minor Infraction
+      - Moderate Violation
+      - Serious Offense
+      - Critical Violation
+      required: true
+    - id: 10
+      name: incident_description
+      label: Incident Description
+      hint: What happened
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: witnesses
+      label: Witnesses
+      hint: Others who saw it
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: evidence_type
+      label: Evidence Type
+      hint: What proof do you have
+      type: select_multiple
+      options:
+      - Screenshot
+      - Video Recording
+      - Chat Log
+      - Witness Statement
+      - Game Replay
+      - None
+      required: true
+    - id: 13
+      name: evidence_links
+      label: Evidence Links
+      hint: URLs to evidence
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: previous_violations
+      label: Previous Violations
+      hint: Has this player offended before
+      type: select_one
+      options:
+      - Yes, multiple times
+      - Yes, once before
+      - No, first offense
+      - Unknown
+      required: true
+    - id: 15
+      name: affected_players
+      label: Number of Affected Players
+      hint: How many were impacted
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: game_mode
+      label: Game Mode
+      hint: What mode was being played
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: match_id
+      label: Match ID
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: recommended_action
+      label: Recommended Action
+      hint: What should happen
+      type: select_one
+      options:
+      - Warning
+      - Temporary Ban
+      - Permanent Ban
+      - Account Review
+      - Item Removal
+      - Rank Reset
+      required: true
+    - id: 19
+      name: ban_duration
+      label: Suggested Ban Duration
+      hint: If temporary
+      type: select_one
+      options:
+      - 24 Hours
+      - 7 Days
+      - 30 Days
+      - Permanent
+      - Not Applicable
+      required: false
+    - id: 20
+      name: reporter_statement
+      label: Reporter Statement
+      hint: Additional comments
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contact_preference
+      label: Contact Preference
+      hint: How to follow up
+      type: select_one
+      options:
+      - Email
+      - In-Game Message
+      - Discord
+      - No Contact Needed
+      required: true
+    - id: 22
+      name: anonymous_report
+      label: Anonymous Report
+      hint: Hide your identity
+      type: select_one
+      options:
+      - Yes, keep anonymous
+      - No, show my name
+      required: true
+    - id: 23
+      name: truth_declaration
+      label: Truth Declaration
+      hint: Is this report accurate
+      type: select_one
+      options:
+      - Yes, completely accurate
+      - Mostly accurate
+      - Some uncertainty
+      required: true
+    - id: 24
+      name: submission_date
+      label: Submission Date
+      hint: Date of form
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Invention Contest Entry Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: idea_description
+      label: Idea Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: invention_description
+      label: Invention Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Agriculture
+      - Arts
+      - Business
+      - Communication
+      - Computers
+      - Education
+      - Engineering
+      - Entertainment
+      - Environment
+      - Finance
+      - Government
+      - Health
+      - Hospitality
+      - Internet
+      - Law
+      - Medicine
+      - Politics
+      - Sports
+      - Technology
+      - Transportation
+      required: false
+    - id: 9
+      name: image_url
+      label: Image URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: website_url
+      label: Website URL
+      hint: null
+      type: text
+      options: []
+      required: false

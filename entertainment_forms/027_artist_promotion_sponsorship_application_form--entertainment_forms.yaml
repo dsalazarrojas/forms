@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artist Promotion Sponsorship Application Form
+    pages:
+    - id: 1
+      name: artist_name
+      label: Artist or Band Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: primary_contact
+      label: Primary Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: music_genre
+      label: Music Genre or Style
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: years_active
+      label: Years Active in Industry
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: sponsorship_type
+      label: Type of Sponsorship Requested
+      hint: null
+      type: select_one
+      options:
+      - Tour Promotion
+      - Album Release
+      - Festival Appearance
+      - Equipment Sponsorship
+      - Marketing Support
+      - Other
+      required: true
+    - id: 8
+      name: project_name
+      label: Project or Campaign Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: project_details
+      label: Project Details and Scope
+      hint: What the sponsorship will support
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: campaign_duration
+      label: Campaign Duration - Months
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: start_date
+      label: Proposed Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: budget_required
+      label: Budget Required
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: budget_breakdown
+      label: Budget Breakdown by Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: social_media_following
+      label: Total Social Media Following
+      hint: Approximate combined followers
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: target_audience
+      label: Target Audience Demographics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: expected_reach
+      label: Expected Campaign Reach
+      hint: Estimated impressions or attendees
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: sponsor_benefits
+      label: Benefits to Sponsor
+      hint: Exposure, brand partnerships, etc.
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: previous_sponsors
+      label: Previous Sponsors or Partners
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: media_kit_attached
+      label: Media Kit or Press Kit Attached
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: additional_information
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false

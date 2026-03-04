@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: schedule a zoom meeting form
+    pages:
+    - id: 1
+      name: meeting_details
+      label: Meeting Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendees
+      label: Attendees
+      hint: Add coworkers or clients here
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: start_time
+      label: Start Time
+      hint: Required in 12-hour format
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: end_time
+      label: End Time
+      hint: Required in 12-hour format
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: timezone
+      label: Timezone
+      hint: Enter your timezone
+      type: select_one
+      options:
+      - America/New_York
+      - America/Los_Angeles
+      - America/Chicago
+      required: true
+    - id: 6
+      name: location
+      label: Location
+      hint: Enter your location
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: registrants
+      label: registrants
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: meeting_type
+      label: Meeting Type
+      hint: null
+      type: select_one
+      options:
+      - Conference
+      - Meeting
+      - Workshop
+      required: true
+    - id: 10
+      name: zoom_meeting_id
+      label: Zoom Meeting ID
+      hint: Enter Zoom Meeting ID
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: join_password
+      label: Join Password
+      hint: Enter Join Password
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: registrant_name
+      label: Registrant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: registrant_email
+      label: Registrant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: registrant_phone
+      label: Registrant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: registrant_address
+      label: Registrant Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: registrant_company
+      label: Registrant Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: registrant_country
+      label: Registrant Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: registrant_city
+      label: Registrant City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: registrant_state
+      label: Registrant State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: registrant_zip
+      label: Registrant Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: registrant_notes
+      label: Registrant Notes
+      hint: null
+      type: text
+      options: []
+      required: false

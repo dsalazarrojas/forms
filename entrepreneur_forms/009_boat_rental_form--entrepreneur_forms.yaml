@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boat Rental Form
+    pages:
+    - id: 1
+      name: renter_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: renter_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: renter_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: renter_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: renter_address
+      label: Home Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: renter_city_state_zip
+      label: City - State - Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: boat_selection
+      label: Which Boat Would You Like to Rent
+      hint: Select from available options
+      type: select_one
+      options:
+      - Fishing Boat - 22ft
+      - Speedboat - 26ft
+      - Sailboat - 30ft
+      - Cabin Cruiser - 32ft
+      - Luxury Yacht - 45ft
+      - Pontoon - 25ft
+      required: true
+    - id: 8
+      name: rental_start_date
+      label: Rental Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: rental_end_date
+      label: Rental End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: number_of_passengers
+      label: Number of Passengers
+      hint: Total including renter
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: captain_request
+      label: Do You Need a Captain
+      hint: null
+      type: select_one
+      options:
+      - Yes, include captain
+      - No, I will captain
+      - Need assistance with decision
+      required: true
+    - id: 12
+      name: experience_level
+      label: Boating Experience Level
+      hint: If no captain requested
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Professional
+      - Not Applicable
+      required: true
+    - id: 13
+      name: license_verification
+      label: Do you have a boating license
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Required for This Boat
+      required: true
+    - id: 14
+      name: license_number
+      label: Boating License Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: insurance_coverage
+      label: Do you have boat liability insurance
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Will Purchase Coverage
+      required: true
+    - id: 16
+      name: rental_purpose
+      label: Purpose of Rental
+      hint: What will you be doing
+      type: select_one
+      options:
+      - Fishing
+      - Leisure Cruising
+      - Water Sports
+      - Family Outing
+      - Business Event
+      - Wedding
+      - Other
+      required: true
+    - id: 17
+      name: special_requests
+      label: Special Requests or Equipment Needs
+      hint: Life jackets, fishing gear, etc
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: rental_package
+      label: Rental Package
+      hint: null
+      type: select_one
+      options:
+      - Half Day
+      - Full Day
+      - Overnight
+      - Multi-Day
+      - Weekly
+      required: true
+    - id: 19
+      name: total_rental_cost
+      label: Total Rental Cost
+      hint: Amount due
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: deposit_amount
+      label: Deposit Amount
+      hint: Refundable security deposit
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Cash
+      - Check
+      required: true
+    - id: 22
+      name: waiver_acceptance
+      label: I accept the rental terms and waiver
+      hint: null
+      type: select_one
+      options:
+      - I Accept
+      - I Do Not Accept
+      required: true
+    - id: 23
+      name: additional_comments
+      label: Additional Comments or Concerns
+      hint: null
+      type: text
+      options: []
+      required: false

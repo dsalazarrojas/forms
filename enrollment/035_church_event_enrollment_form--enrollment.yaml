@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Event Enrollment Form
+    pages:
+    - id: 1
+      name: header_event_basics
+      label: -- Event Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: selected_event
+      label: Which event are you enrolling for?
+      hint: null
+      type: select_one
+      options:
+      - VBS Summer Camp
+      - Couples Marriage Workshop
+      - New Member Class
+      - Missions Trip Orientation
+      - Church Picnic RSVP
+      required: true
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: header_participant
+      label: -- Participant Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: participant_full_name
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: participant_age
+      label: Age
+      hint: Only needed for youth events
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: For event instructions and confirmations
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: header_household
+      label: -- Additional Family Members --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: family_enrollment_count
+      label: Total number of family members attending
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: family_member_names
+      label: Names of additional family members
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: header_requirements
+      label: -- Requirements and Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: volunteer_interest
+      label: Would you like to volunteer at this event?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Sign me up
+      - No - Just attending
+      - Maybe - Send more info
+      required: true
+    - id: 14
+      name: childcare_needed
+      label: Do you require childcare during this event?
+      hint: If available for this specific event
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: true
+    - id: 15
+      name: transportation_needed
+      label: Do you need transportation to the event?
+      hint: Limited availability for local residents
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: special_needs_notes
+      label: Any special requirements or notes for organizers?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: enrollment_confirmation
+      label: I confirm my enrollment in this church event
+      hint: null
+      type: select_one
+      options:
+      - I Confirm
+      - Other
+      required: true
+    - id: 18
+      name: enrollment_date
+      label: Enrollment Date
+      hint: null
+      type: date
+      options: []
+      required: true

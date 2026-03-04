@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Banquet RSVP Form
+    pages:
+    - id: 1
+      name: guest_information_header
+      label: -- Guest Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For banquet updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: organization_affiliation
+      label: Organization or Department
+      hint: Your organization or department
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: rsvp_section_header
+      label: -- RSVP Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: attendance_confirmation
+      label: Will you attend the annual banquet
+      hint: Please confirm your attendance
+      type: select_one
+      options:
+      - Yes, I will attend
+      - No, I cannot attend
+      - Maybe - Still deciding
+      - Undecided - Will confirm later
+      required: true
+    - id: 9
+      name: number_of_guests
+      label: Number of Guests
+      hint: Total people in your party including yourself
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: guest_names
+      label: Guest Names
+      hint: Names of people in your party
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: dinner_section_header
+      label: -- Dinner Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: entrée_choice
+      label: Entrée Selection
+      hint: Choose your main course
+      type: select_one
+      options:
+      - Prime Rib
+      - Grilled Salmon
+      - Vegetarian Pasta
+      - Chicken Supreme
+      - Vegan Option
+      - Other
+      required: true
+    - id: 13
+      name: additional_entrée
+      label: Additional Entrée for Guest
+      hint: If bringing a guest, choose their entrée
+      type: select_one
+      options:
+      - Prime Rib
+      - Grilled Salmon
+      - Vegetarian Pasta
+      - Chicken Supreme
+      - Vegan Option
+      - Other
+      required: false
+    - id: 14
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: Any food allergies or preferences
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: accommodations_header
+      label: -- Special Accommodations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: seating_preference
+      label: Seating or Table Preference
+      hint: Any special seating requests
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: accessibility_needs
+      label: Accessibility or Mobility Needs
+      hint: Any accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: transportation_header
+      label: -- Transportation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: parking_assistance
+      label: Do you need parking assistance
+      hint: Can we help arrange parking
+      type: select_one
+      options:
+      - Yes, I need parking assistance
+      - No, I have parking arranged
+      - Unsure
+      required: false
+    - id: 20
+      name: transportation_needs
+      label: Any Transportation Needs
+      hint: Do you need transportation help
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: event_info_header
+      label: -- Event Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: event_date
+      label: Banquet Date
+      hint: When is the event
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: event_location
+      label: Event Location
+      hint: Where is the event being held
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: receive_updates
+      label: Keep me updated about the banquet
+      hint: Receive event reminders and updates
+      type: select_one
+      options:
+      - Yes, send updates
+      - No, do not send
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Any special requests or questions
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workers Comp Waiver Form
+    pages:
+    - id: 1
+      name: worker_comp
+      label: worker_comp
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employer_compensation
+      label: employer_compensation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: employment_status
+      label: current_employment_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: employment_type
+      label: employment_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: injury_date
+      label: injury_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: work_location
+      label: work_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: injury_description
+      label: injury_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: witness_names
+      label: witness_names
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: witness_relation
+      label: witness_relation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: witness_address
+      label: witness_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: witness_phone
+      label: witness_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: witness_email
+      label: witness_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: employer_name
+      label: employer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: employer_address
+      label: employer_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: employer_phone
+      label: employer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: employer_email
+      label: employer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: employee_address
+      label: employee_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: employee_phone
+      label: employee_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: employee_email
+      label: employee_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: waiver_date
+      label: waiver_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: waiver_signed_by
+      label: waiver_signed_by
+      hint: null
+      type: text
+      options: []
+      required: false

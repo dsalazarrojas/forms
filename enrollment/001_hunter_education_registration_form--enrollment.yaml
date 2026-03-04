@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: hunter_education_registration_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: hunter_number
+      label: Hunter Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: certificate_number
+      label: Certificate Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: utah_hunter_education_registration
+      label: Utah Hunter Education Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: field_day
+      label: Field Day
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: hunter_education_completion_status
+      label: Hunter Education Completion Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 11
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baby Care Log
+    pages:
+    - id: 1
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: baby_name
+      label: Baby Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: caregiver_name
+      label: Caregiver Name
+      hint: Who is caring for the baby today?
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: care_location
+      label: Care Location
+      hint: Home, daycare, relative's house, etc.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_feeding
+      label: -- Feeding Log --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: feeding_time_1
+      label: First Feeding Time
+      hint: What time did baby eat?
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: feeding_type_1
+      label: Feeding Type
+      hint: Breast, bottle, solids
+      type: select_one
+      options:
+      - Breastfeeding
+      - Bottle with formula
+      - Bottle with breast milk
+      - Solids
+      - Mixed
+      required: false
+    - id: 8
+      name: feeding_duration_1
+      label: Feeding Duration (in minutes)
+      hint: How long did feeding take?
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: feeding_time_2
+      label: Second Feeding Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: feeding_type_2
+      label: Feeding Type
+      hint: null
+      type: select_one
+      options:
+      - Breastfeeding
+      - Bottle with formula
+      - Bottle with breast milk
+      - Solids
+      - Mixed
+      required: false
+    - id: 11
+      name: feeding_notes
+      label: Feeding Notes
+      hint: Appetite level, preferences, reactions
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_sleeping
+      label: -- Sleep Log --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: nap_time_1
+      label: First Nap Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: nap_duration_1
+      label: First Nap Duration (in minutes)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: nap_time_2
+      label: Second Nap Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: nap_duration_2
+      label: Second Nap Duration (in minutes)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: bedtime
+      label: Bedtime
+      hint: When did baby go to sleep for the night?
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: sleep_quality
+      label: Sleep Quality
+      hint: How was the sleep?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very restless
+      required: false
+    - id: 19
+      name: section_diaper
+      label: -- Diaper Log --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: wet_diapers
+      label: Number of Wet Diapers Today
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: dirty_diapers
+      label: Number of Dirty Diapers Today
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: section_health
+      label: -- Health Observations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: temperature
+      label: Temperature (if taken)
+      hint: In Fahrenheit
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: symptoms_observed
+      label: Any Symptoms Observed?
+      hint: Rash, cough, fever, etc.
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: medications_given
+      label: Medications or Supplements Given
+      hint: What was given and at what time?
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: general_mood
+      label: Baby's General Mood
+      hint: null
+      type: select_one
+      options:
+      - Happy and content
+      - Generally happy
+      - Fussy at times
+      - Frequently fussy
+      - Very irritable
+      required: false
+    - id: 27
+      name: additional_notes
+      label: Additional Notes
+      hint: Activities, milestones, concerns
+      type: text
+      options: []
+      required: false

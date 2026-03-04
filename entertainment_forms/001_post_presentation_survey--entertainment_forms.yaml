@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post Presentation Survey
+    pages:
+    - id: 1
+      name: post_presentation_survey
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question1
+      label: what_did_you_like_most
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question2
+      label: what_did_you_like_least
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: question3
+      label: would_you_recommend_this_presentation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: question4
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false

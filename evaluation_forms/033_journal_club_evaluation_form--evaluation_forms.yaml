@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Journal Club Evaluation Form
+    pages:
+    - id: 1
+      name: paper_readability
+      label: Paper Readability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: paper_clarity
+      label: Paper Clarity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: paper_organisation
+      label: Paper Organisation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: author_contribution
+      label: Author Contribution
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: relevance
+      label: Relevance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: scientific_quality
+      label: Scientific Quality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: peer_review
+      label: Peer Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: overall_score
+      label: Overall Score
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: evaluation
+      label: Evaluation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date_time
+      label: Date-Time
+      hint: null
+      type: date
+      options: []
+      required: false

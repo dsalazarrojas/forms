@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: spa_client_intake_form
+    pages:
+    - id: 1
+      name: spa_client_form_1
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: spa_client_form_2
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: spa_client_form_3
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: spa_client_form_4
+      label: medical_conditions
+      hint: null
+      type: select_one
+      options:
+      - Medical Condition 1
+      - Medical Condition 2
+      - Medical Condition 3
+      required: true
+    - id: 5
+      name: spa_client_form_5
+      label: medication_list
+      hint: null
+      type: select_multiple
+      options:
+      - Medication 1
+      - Medication 2
+      - Medication 3
+      required: false
+    - id: 6
+      name: spa_client_form_6
+      label: therapy_goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: spa_client_form_7
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: spa_client_form_8
+      label: allergy_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: spa_client_form_9
+      label: emergency_contact
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 10
+      name: spa_client_form_10
+      label: medical_supervise
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 11
+      name: spa_client_form_11
+      label: spa_treatment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: spa_client_form_12
+      label: therapist_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: spa_client_form_13
+      label: therapist_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: spa_client_form_14
+      label: therapist_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: spa_client_form_15
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

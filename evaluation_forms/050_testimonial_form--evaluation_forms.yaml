@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Testimonial Form
+    pages:
+    - id: 1
+      name: testimonial_public
+      label: Testimonial Public
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: testimonial_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 3
+      name: testimonial_video
+      label: Video
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: testimonial_image
+      label: Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: testimonial_content
+      label: Testimonial
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: testimonial_private
+      label: Private
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: testimonial_file
+      label: Attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: testimonial_video
+      label: Video
+      hint: null
+      type: text
+      options: []
+      required: false

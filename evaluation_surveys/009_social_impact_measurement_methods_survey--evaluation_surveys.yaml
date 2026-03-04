@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Impact Measurement Methods Survey
+    pages:
+    - id: 1
+      name: survey_start
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: measurement_methods
+      label: How do you currently measure social impact?
+      hint: null
+      type: select_multiple
+      options:
+      - Method 1
+      - Method 2
+      required: false
+    - id: 3
+      name: identify_challenges
+      label: What are some of the biggest challenges you face when measuring social
+        impact?
+      hint: null
+      type: select_multiple
+      options:
+      - Challenge 1
+      - Challenge 2
+      - Challenge 3
+      required: false
+    - id: 4
+      name: gather_insights
+      label: What do you want to learn from your measurement practices?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: social_enterprise_type
+      label: What type of social enterprise is your organization?
+      hint: null
+      type: select_one
+      options:
+      - Non-profit
+      - Foundation
+      - Social Enterprise
+      required: false
+    - id: 6
+      name: organization_location
+      label: What is the primary location of your organization?
+      hint: null
+      type: select_multiple
+      options:
+      - City
+      - State
+      - Country
+      required: false
+    - id: 7
+      name: years_experience
+      label: How many years has your organization been measuring social impact?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: survey_finish
+      label: Thank you for taking the time to help us understand your measurement
+        practices!
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: What is your email address?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_name
+      label: Who is your contact person's name?
+      hint: null
+      type: text
+      options: []
+      required: false

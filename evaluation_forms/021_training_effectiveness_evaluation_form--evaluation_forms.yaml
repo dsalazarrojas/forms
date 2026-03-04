@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Training Effectiveness Evaluation Form
+    pages:
+    - id: 1
+      name: participant_id
+      label: participant_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: training_session_id
+      label: training_session_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: session_date
+      label: session_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: session_time
+      label: session_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: session_title
+      label: session_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: overall_impact
+      label: overall_impact
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: content_effectiveness
+      label: content_effectiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: session_materials
+      label: session_materials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: session_organizer
+      label: session_organizer
+      hint: null
+      type: select_one
+      options:
+      - Jim
+      - Bob
+      - Sally
+      required: false
+    - id: 11
+      name: session_facilitator
+      label: session_facilitator
+      hint: null
+      type: select_multiple
+      options:
+      - Jim
+      - Bob
+      - Sally
+      required: false
+    - id: 12
+      name: session_location
+      label: session_location
+      hint: null
+      type: select_one
+      options:
+      - New York
+      - Los Angeles
+      - Chicago
+      required: false
+    - id: 13
+      name: session_type
+      label: session_type
+      hint: null
+      type: select_one
+      options:
+      - Virtual
+      - Physical
+      - Hybrid
+      required: false
+    - id: 14
+      name: session_length
+      label: session_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: rating
+      label: rating
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 17
+      name: rating_2
+      label: rating_2
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 18
+      name: overall_rating
+      label: overall_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: recommendation
+      label: recommendation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: recommendation_2
+      label: recommendation_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: session_satisfaction
+      label: session_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 22
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 23
+      name: training_value
+      label: training_value
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 24
+      name: overall_value
+      label: overall_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: participant_feedback
+      label: participant_feedback
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Form With Wooden Theme
+    pages:
+    - id: 1
+      name: header
+      label: -- Contact Us --
+      hint: Rustic theme contact form for small businesses
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: Best email for follow up
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: business_name
+      label: Business name
+      hint: If contacting on behalf of a business
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: inquiry_type
+      label: Inquiry type
+      hint: Choose the nature of your request
+      type: select_one
+      options:
+      - General
+      - Wholesale
+      - Partnership
+      - Other
+      required: true
+    - id: 7
+      name: message
+      label: Message
+      hint: Provide details about your request
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: additional_notes
+      label: Additional notes
+      hint: Any other information to help our response
+      type: text
+      options: []
+      required: false

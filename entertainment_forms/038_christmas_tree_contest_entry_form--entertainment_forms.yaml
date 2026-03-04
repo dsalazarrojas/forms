@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Tree Contest Entry Form
+    pages:
+    - id: 1
+      name: contestant_info
+      label: -- Contestant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: tree_info
+      label: -- Tree Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: tree_type
+      label: Tree Type
+      hint: null
+      type: select_one
+      options:
+      - Real tree
+      - Artificial tree
+      - Tabletop tree
+      - Decorated object
+      required: true
+    - id: 12
+      name: tree_size
+      label: Tree Height
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: tree_location
+      label: Tree Location
+      hint: null
+      type: select_one
+      options:
+      - Residential home
+      - Business location
+      - Community space
+      - Other
+      required: true
+    - id: 14
+      name: decoration_style
+      label: Decoration Style
+      hint: null
+      type: select_one
+      options:
+      - Traditional
+      - Modern
+      - Rustic
+      - Themed
+      - Artistic
+      - Other
+      required: true
+    - id: 15
+      name: color_scheme
+      label: Color Scheme
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: tree_description
+      label: Tree Description
+      hint: Tell us about your tree
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: category_selection
+      label: -- Contest Category --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: contest_category
+      label: Which Category Are You Entering?
+      hint: null
+      type: select_one
+      options:
+      - Most Creative
+      - Most Traditional
+      - Most Colorful
+      - Best Use of Lights
+      - Best Theme
+      - People Choice
+      - Other
+      required: true
+    - id: 19
+      name: judging_criteria
+      label: What Makes Your Tree Special?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: photo_permission
+      label: Permission to Post Photos
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - false
+      required: true
+    - id: 21
+      name: media_consent
+      label: Media/Press Permission
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - false
+      required: false
+    - id: 22
+      name: prize_category
+      label: Prize Interest
+      hint: null
+      type: select_one
+      options:
+      - Any prize
+      - Specific prize
+      - Donation to charity preferred
+      required: false

@@ -1,0 +1,79 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Laser Quality Check Confirmation
+    pages:
+    - id: 1
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - Laser Cutter
+      - Laser Engraver
+      - Laser Etcher
+      - Other
+      required: false
+    - id: 2
+      name: equipment_name
+      label: Equipment Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: serial_number
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_inspection
+      label: Date of Inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: inspection_result
+      label: Inspection Result
+      hint: null
+      type: select_multiple
+      options:
+      - Passed
+      - Failed
+      - In Progress
+      required: false
+    - id: 6
+      name: remarks
+      label: Remarks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: checked_by
+      label: Checked by
+      hint: null
+      type: text
+      options: []
+      required: false

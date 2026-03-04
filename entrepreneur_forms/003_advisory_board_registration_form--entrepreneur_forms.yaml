@@ -1,0 +1,175 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advisory Board Registration Form
+    pages:
+    - id: 1
+      name: personal_information_section
+      label: Personal Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: professional_title
+      label: Professional Title
+      hint: Your current job title or position
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_organization
+      label: Company or Organization
+      hint: Current employer or affiliated organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Professional email for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Professional phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: linkedin_profile
+      label: LinkedIn Profile URL
+      hint: Share your LinkedIn profile for reference
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: expertise_areas
+      label: Areas of Expertise
+      hint: Select your primary areas of expertise
+      type: select_multiple
+      options:
+      - Finance and Investment
+      - Marketing and Sales
+      - Operations and Strategy
+      - Technology and Innovation
+      - Legal and Compliance
+      - Human Resources
+      - Product Development
+      - International Business
+      - Startup Scaling
+      - Digital Transformation
+      required: true
+    - id: 9
+      name: years_experience
+      label: Years of Relevant Experience
+      hint: How many years of experience in your field of expertise?
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: previous_advisory_experience
+      label: Previous Advisory Experience
+      hint: Have you served on advisory boards before?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: advisory_experience_details
+      label: Details of Previous Advisory Experience
+      hint: Briefly describe your previous advisory roles
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: availability_commitment
+      label: Time Availability Commitment
+      hint: How much time can you commit monthly to advisory activities?
+      type: select_one
+      options:
+      - 2-4 hours
+      - 4-8 hours
+      - 8-12 hours
+      - More than 12 hours
+      required: true
+    - id: 13
+      name: meeting_format_preference
+      label: Preferred Meeting Format
+      hint: How do you prefer to participate in advisory meetings?
+      type: select_one
+      options:
+      - In-person
+      - Virtual meetings
+      - Hybrid
+      - Phone calls
+      required: true
+    - id: 14
+      name: industries_interested
+      label: Industries of Interest
+      hint: Which industries would you like to advise?
+      type: select_multiple
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Retail
+      - Manufacturing
+      - Energy
+      - Education
+      - Food and Beverage
+      - Transportation
+      - Media and Entertainment
+      required: true
+    - id: 15
+      name: motivation_to_join
+      label: Motivation to Join Advisory Board
+      hint: Why are you interested in joining our advisory board?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: value_proposition
+      label: Value Proposition
+      hint: What unique value can you bring to our organization?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: compensation_expectations
+      label: Compensation Expectations
+      hint: What type of compensation are you seeking?
+      type: select_one
+      options:
+      - Equity only
+      - Cash only
+      - Equity and cash
+      - No compensation needed
+      - To be discussed
+      required: false
+    - id: 18
+      name: conflict_disclosure
+      label: Conflict of Interest Disclosure
+      hint: Please disclose any potential conflicts of interest
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: references_available
+      label: References Available
+      hint: Are professional references available upon request?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

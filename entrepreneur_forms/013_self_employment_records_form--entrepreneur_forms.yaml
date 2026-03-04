@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Self Employment Records Form
+    pages:
+    - id: 1
+      name: self_employment_records_form
+      label: income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: total_income
+      label: total_income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: business_use_of_form
+      label: business_use_of_form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: business_expenses
+      label: business_expenses
+      hint: null
+      type: number
+      options: []
+      required: false

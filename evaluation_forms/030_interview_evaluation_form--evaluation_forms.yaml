@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Interview Evaluation Form
+    pages:
+    - id: 1
+      name: candidate_performance
+      label: candidate_performance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: candidate_answers
+      label: candidate_answers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: interviewer_rating
+      label: interviewer_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: evaluation_date
+      label: evaluation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: evaluation_time
+      label: evaluation_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: candidate_score
+      label: candidate_score
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: nonprofit_nominee_evaluation_survey
+    pages:
+    - id: 1
+      name: evaluation_scale
+      label: evaluation_scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: leadership_scale
+      label: leadership_scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: service_scale
+      label: service_scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: impact_scale
+      label: impact_scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: leadership_characteristics
+      label: leadership_characteristics
+      hint: null
+      type: select_one
+      options:
+      - Nominee demonstrates strong leadership skills
+      - Nominee is highly organized
+      - Nominee is effective at communicating the vision of the nonprofit
+      - Nominee has a strong work ethic
+      required: false
+    - id: 6
+      name: service_characteristics
+      label: service_characteristics
+      hint: null
+      type: select_one
+      options:
+      - Nominee provides excellent service to the community
+      - Nominee is committed to social justice
+      - Nominee has a strong understanding of community needs
+      - Nominee is passionate about their work
+      required: false
+    - id: 7
+      name: impact_characteristics
+      label: impact_characteristics
+      hint: null
+      type: select_one
+      options:
+      - Nominee has a strong understanding of the community they serve
+      - Nominee is effective at managing their time
+      - Nominee is highly organized
+      - Nominee is a strong communicator
+      required: false
+    - id: 8
+      name: evaluation_comments
+      label: evaluation_comments
+      hint: Please share your evaluation of the nominee's performance
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: nominee_name
+      label: nominee_name
+      hint: Nominee name
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: nominee_organization
+      label: nominee_organization
+      hint: Nominee’s organization
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: committee_member
+      label: committee_member
+      hint: Are you a member of the selection committee?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: evaluation_score
+      label: evaluation_score
+      hint: Enter your evaluation score
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: nominee_email
+      label: nominee_email
+      hint: Nominee’s email address
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: committee_name
+      label: committee_name
+      hint: Committee name
+      type: text
+      options: []
+      required: false

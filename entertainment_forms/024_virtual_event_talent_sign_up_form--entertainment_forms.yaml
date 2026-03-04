@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Event Talent Sign Up Form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_talent_type
+      label: Event Talent Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: act_length
+      label: Act Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: performance_details
+      label: Performance Details
+      hint: null
+      type: text
+      options: []
+      required: false

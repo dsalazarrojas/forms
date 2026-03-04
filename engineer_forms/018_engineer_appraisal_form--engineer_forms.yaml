@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: engineer_appraisal_form
+    pages:
+    - id: 1
+      name: page_1
+      label: first_question
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: answer_1
+      label: answer_1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: page_2
+      label: second_question
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: answer_2
+      label: answer_2_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: page_3
+      label: third_question
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: answer_3
+      label: answer_3_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false

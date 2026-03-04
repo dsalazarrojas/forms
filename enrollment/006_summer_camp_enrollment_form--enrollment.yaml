@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Camp Enrollment Form
+    pages:
+    - id: 1
+      name: child_name
+      label: Child Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Guardian
+      required: true
+    - id: 4
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: medical_record
+      label: Medical Record
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_info
+      label: Emergency Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Bank Transfer
+      required: true
+    - id: 9
+      name: payment_info
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      required: true
+    - id: 13
+      name: payment_note
+      label: Payment Note
+      hint: null
+      type: text
+      options: []
+      required: false

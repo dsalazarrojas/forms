@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stop Motion Video Submission Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: entry_title
+      label: Entry Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: entry_description
+      label: Entry Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: file_type
+      label: File Type
+      hint: null
+      type: select_one
+      options:
+      - video
+      - image
+      required: false
+    - id: 6
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - festival
+      - school
+      - contest
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false

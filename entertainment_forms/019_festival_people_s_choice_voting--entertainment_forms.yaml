@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Festival People's Choice Voting
+    pages:
+    - id: 1
+      name: festival_people_choice_voting_form
+      label: festival_people_choice_voting_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: nominee
+      label: nominee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vote
+      label: vote
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

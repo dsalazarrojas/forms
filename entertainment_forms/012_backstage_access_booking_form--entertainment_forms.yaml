@@ -1,0 +1,205 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Backstage Access Booking Form
+    pages:
+      - id: 1
+        name: section_intro
+        label: -- Backstage Access Request --
+        hint: Apply for backstage pass and VIP access
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: full_name
+        label: Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email_address
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: phone_number
+        Label: Phone Number
+        hint: null
+        type: phone
+        options: []
+        required: true
+      - id: 5
+        name: organization
+        label: Organization/Employer
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: job_title
+        Label: Job Title
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: section_event
+        label: -- Event Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: event_name
+        label: Event Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: event_date
+        Label: Event Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 10
+        name: event_venue
+        label: Venue Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: section_access_type
+        label: -- Access Type --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: access_type
+        label: Type of Access Requested
+        hint: null
+        type: select_one
+        options:
+          - Backstage Pass
+          - VIP Pass
+          - Media Pass
+          - Crew Pass
+          - Artist Pass
+          - General Admission
+        required: true
+      - id: 13
+        name: number_of_passes
+        Label: Number of Passes Needed
+        hint: null
+        type: integer
+        options: []
+        required: true
+      - id: 14
+        name: additional_guests
+        Label: Names of Additional Guests (if applicable)
+        hint: List names of those accompanying you
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: section_purpose
+        label: -- Purpose and Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: purpose
+        label: Purpose of Backstage Access
+        hint: Performer, Media, Crew, Vendor, etc.
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: credentials
+        Label: Relevant Credentials or Affiliations
+        hint: Media outlet, production company, etc.
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: section_requirements
+        label: -- Requirements and Safety --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: waiver_agreement
+        label: I Agree to All Event Policies and Safety Guidelines
+        hint: null
+        type: select_one
+        options:
+          - I Agree
+          - I Do Not Agree
+        required: true
+      - id: 20
+        name: liability_waiver
+        Label: I Acknowledge the Liability Waiver
+        hint: null
+        type: select_one
+        options:
+          - I Agree
+          - I Do Not Agree
+        required: true
+      - id: 21
+        name: photo_release
+        Label: I Consent to Photography and Recording
+        hint: null
+        type: select_one
+        options:
+          - I Agree
+          - I Do Not Agree
+        required: true
+      - id: 22
+        name: accessibility_needs
+        Label: Accessibility or Special Needs
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: dietary_restrictions
+        label: Dietary Restrictions (if applicable)
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: additional_information
+        Label: Additional Information or Requests
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: booking_confirmation
+        label: I Confirm This Information is Accurate and Complete
+        hint: null
+        type: select_one
+        options:
+          - I Confirm
+          - I Do Not Confirm
+        required: true

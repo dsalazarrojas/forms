@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: industrial_maintenance_and_troubleshooting_checklist
+    pages:
+    - id: 1
+      name: industrial_maintenance_and_troubleshooting_checklist_page_1
+      label: industrial_maintenance_and_troubleshooting_checklist_page_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: troubleshooting_category
+      label: troubleshooting_category
+      hint: null
+      type: select_one
+      options:
+      - Equipment
+      - Electrical
+      - Mechanical
+      required: false
+    - id: 3
+      name: equipment_type
+      label: equipment_type
+      hint: null
+      type: select_multiple
+      options:
+      - Pump
+      - Compressor
+      - Generator
+      required: false
+    - id: 4
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: maintenance_date
+      label: maintenance_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false

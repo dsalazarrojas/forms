@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Television Broadcasting Engineer Job Application
+    pages:
+    - id: 1
+      name: job_application_form
+      label: Job Application Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: work_history
+      label: Work History
+      hint: List your work history in reverse chronological order.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: education
+      label: Education
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''High School'', ''label'': ''High School''}'
+      - '{''value'': "Bachelor''s Degree", ''label'': "Bachelor''s Degree"}'
+      - '{''value'': "Master''s Degree", ''label'': "Master''s Degree"}'
+      - '{''value'': ''Doctoral Degree'', ''label'': ''Doctoral Degree''}'
+      required: false
+    - id: 5
+      name: resume
+      label: Resume
+      hint: Upload resume or paste resume URL
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: references
+      label: References
+      hint: List 2 professional references with their name, email, and relationship.
+      type: text
+      options: []
+      required: false

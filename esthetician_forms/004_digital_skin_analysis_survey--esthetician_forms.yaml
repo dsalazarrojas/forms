@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Skin Analysis Survey
+    pages:
+    - id: 1
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_description
+      label: form description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_name
+      label: client name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: birthdate
+      label: birth date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 6
+      name: skin_type
+      label: skin type
+      hint: null
+      type: select_multiple
+      options:
+      - Dry
+      - Oily
+      - Sensitive
+      - Normal
+      - Combination
+      - Other
+      required: true
+    - id: 7
+      name: skin_tone
+      label: skin tone
+      hint: null
+      type: select_one
+      options:
+      - Fair
+      - Medium
+      - Dark
+      - Other
+      required: false
+    - id: 8
+      name: preferred_skincare_product
+      label: preferred skincare product
+      hint: null
+      type: select_one
+      options:
+      - Product 1
+      - Product 2
+      - Product 3
+      required: false
+    - id: 9
+      name: skin_condition
+      label: skin condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up
+      label: follow up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false

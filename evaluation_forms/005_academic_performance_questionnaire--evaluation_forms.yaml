@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Performance Questionnaire
+    pages:
+    - id: 1
+      name: form_header
+      label: -- Academic Performance Questionnaire --
+      hint: This questionnaire collects information about your academic performance
+        and study habits.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: academic_level
+      label: Current academic level
+      hint: null
+      type: select_one
+      options:
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      - Graduate
+      required: true
+    - id: 5
+      name: major_field
+      label: Major or field of study
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: current_gpa
+      label: Current cumulative GPA
+      hint: Enter your GPA on a 4.0 scale
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: course_load
+      label: How many courses are you currently enrolled in
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: study_hours_weekly
+      label: On average, how many hours per week do you spend studying outside of
+        class
+      hint: null
+      type: select_one
+      options:
+      - Less than 5 hours
+      - 5-10 hours
+      - 11-15 hours
+      - 16-20 hours
+      - More than 20 hours
+      required: true
+    - id: 9
+      name: class_attendance
+      label: How would you rate your class attendance this semester
+      hint: null
+      type: select_one
+      options:
+      - Excellent - rarely miss class
+      - Good - miss occasionally
+      - Fair - miss somewhat often
+      - Poor - miss frequently
+      required: true
+    - id: 10
+      name: academic_challenges
+      label: What academic challenges are you currently facing (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Time management
+      - Course difficulty
+      - Lack of motivation
+      - Test anxiety
+      - Writing skills
+      - Math or quantitative skills
+      - Language barriers
+      required: false
+    - id: 11
+      name: support_services_used
+      label: Which academic support services have you used (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Tutoring center
+      - Writing center
+      - Academic advising
+      - Study groups
+      - Office hours
+      - Online learning resources
+      - None
+      required: false
+    - id: 12
+      name: academic_satisfaction
+      label: How satisfied are you with your overall academic performance
+      hint: null
+      type: select_one
+      options:
+      - Very dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very satisfied
+      required: true
+    - id: 13
+      name: improvement_plan
+      label: Do you have a plan to improve your academic performance
+      hint: null
+      type: select_one
+      options:
+      - Yes - I have a specific plan
+      - Somewhat - I have some ideas
+      - No - I am not sure where to start
+      required: true
+    - id: 14
+      name: additional_support_needed
+      label: What additional support would help you improve academically
+      hint: Please describe any resources or help you need
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: Any additional comments about your academic experience
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Story Evaluation Scorecard
+    pages:
+    - id: 1
+      name: scorecard_criteria
+      label: Story Evaluation Criteria
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: evaluation_scores
+      label: Evaluations
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 3
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: scorecard_score
+      label: Overall Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: evaluation_comments
+      label: Additional Evaluation Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: evaluator_comments
+      label: Evaluator Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: evaluated_by
+      label: Evaluated By
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: created_by
+      label: Created By
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: email
+      options: []
+      required: false

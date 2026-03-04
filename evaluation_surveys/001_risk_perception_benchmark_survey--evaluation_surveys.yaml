@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Risk Perception Benchmark Survey
+    pages:
+    - id: 1
+      name: risk_perception_benchmark_survey
+      label: Risk Perception Benchmark Survey
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: evaluation_context
+      label: Evaluation Context
+      hint: Please provide a description of the evaluation context
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: risk_factors
+      label: Risk Factors
+      hint: null
+      type: select_multiple
+      options:
+      - Risk Factor 1
+      - Risk Factor 2
+      - Risk Factor 3
+      required: false
+    - id: 4
+      name: risk_factors_selected
+      label: Selected Risk Factors
+      hint: null
+      type: select_one
+      options:
+      - Risk Factor 1
+      - Risk Factor 2
+      - Risk Factor 3
+      required: false
+    - id: 5
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: risk_level_description
+      label: Risk Level Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: risk_level_category
+      label: Risk Level Category
+      hint: null
+      type: select_one
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: false
+    - id: 8
+      name: risk_level_scale
+      label: Risk Level Scale
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: risk_level_category_2
+      label: Risk Level Category 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: risk_level_category_2_description
+      label: Risk Level Category 2 Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: risk_level_category_2_scale
+      label: Risk Level Category 2 Scale
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: risk_level_category_2_category
+      label: Risk Level Category 2 Category
+      hint: null
+      type: select_one
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: false

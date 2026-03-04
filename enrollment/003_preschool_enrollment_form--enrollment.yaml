@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Preschool enrollment form
+    pages:
+    - id: 1
+      name: parent_info
+      label: Parent Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: child_info
+      label: Child Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: parent_relationships
+      label: Parent Relationships
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_info
+      label: Medical Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_info
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: signature
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false

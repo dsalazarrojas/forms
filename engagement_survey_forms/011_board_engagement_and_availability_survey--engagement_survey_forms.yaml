@@ -1,0 +1,219 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Board Engagement And Availability Survey
+    pages:
+      - id: 1
+        name: board_member_name
+        label: Board Member Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: survey_date
+        label: Survey Date
+        hint: Today's date
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: board_position
+        label: Your Board Position
+        hint: Select your role
+        type: select_one
+        options:
+          - Board Chair
+          - Vice Chair
+          - Secretary
+          - Treasurer
+          - Board Member
+          - Committee Chair
+        required: true
+      - id: 4
+        name: tenure_on_board
+        label: Tenure on Board
+        hint: How long have you served?
+        type: select_one
+        options:
+          - Less than 1 year
+          - 1-2 years
+          - 3-5 years
+          - 6-10 years
+          - More than 10 years
+        required: true
+      - id: 5
+        name: meeting_attendance_rate
+        label: Meeting Attendance Rate
+        hint: Approximate attendance percentage
+        type: select_one
+        options:
+          - 100%
+          - 90-99%
+          - 75-89%
+          - 50-74%
+          - Below 50%
+        required: true
+      - id: 6
+        name: availability_weekdays
+        label: Weekday Availability
+        hint: Select your available times
+        type: select_multiple
+        options:
+          - Monday Morning
+          - Monday Afternoon
+          - Tuesday Morning
+          - Tuesday Afternoon
+          - Wednesday Morning
+          - Wednesday Afternoon
+          - Thursday Morning
+          - Thursday Afternoon
+          - Friday Morning
+          - Friday Afternoon
+        required: true
+      - id: 7
+        name: availability_evenings
+        label: Evening Availability
+        hint: Select available evenings
+        type: select_multiple
+        options:
+          - Monday Evening
+          - Tuesday Evening
+          - Wednesday Evening
+          - Thursday Evening
+          - Friday Evening
+          - Not Available Evenings
+        required: false
+      - id: 8
+        name: availability_weekends
+        label: Weekend Availability
+        hint: Are you available on weekends?
+        type: select_one
+        options:
+          - Saturday Morning
+          - Saturday Afternoon
+          - Sunday Morning
+          - Sunday Afternoon
+          - Not Available Weekends
+        required: false
+      - id: 9
+        name: preferred_meeting_frequency
+        label: Preferred Meeting Frequency
+        hint: How often should meetings occur?
+        type: select_one
+        options:
+          - Weekly
+          - Bi-Weekly
+          - Monthly
+          - Quarterly
+          - As Needed
+        required: true
+      - id: 10
+        name: preferred_meeting_duration
+        label: Preferred Meeting Duration
+        hint: Ideal meeting length
+        type: select_one
+        options:
+          - 1 hour
+          - 2 hours
+          - 3 hours
+          - Half day
+          - Full day
+        required: true
+      - id: 11
+        name: preferred_meeting_format
+        label: Preferred Meeting Format
+        hint: How do you prefer to meet?
+        type: select_one
+        options:
+          - In-Person Only
+          - Virtual Only
+          - Hybrid (Both Options)
+        required: true
+      - id: 12
+        name: committee_interest
+        label: Committee Interest
+        hint: Select committees of interest
+        type: select_multiple
+        options:
+          - Executive Committee
+          - Finance Committee
+          - Governance Committee
+          - Audit Committee
+          - Fundraising Committee
+          - Program Committee
+          - None at this time
+        required: false
+      - id: 13
+        name: engagement_level
+        label: Current Engagement Level
+        hint: How engaged do you feel?
+        type: select_one
+        options:
+          - Very Engaged
+          - Engaged
+          - Moderately Engaged
+          - Somewhat Disengaged
+          - Disengaged
+        required: true
+      - id: 14
+        name: communication_preference
+        label: Preferred Communication Method
+        hint: How should we contact you?
+        type: select_one
+        options:
+          - Email
+          - Phone Call
+          - Text Message
+          - Video Call
+          - Postal Mail
+        required: true
+      - id: 15
+        name: barriers_to_engagement
+        label: Barriers to Engagement
+        hint: Select any challenges you face
+        type: select_multiple
+        options:
+          - Time Constraints
+          - Scheduling Conflicts
+          - Lack of Information
+          - Unclear Expectations
+          - Personal Commitments
+          - Work Commitments
+          - None
+        required: false
+      - id: 16
+        name: additional_support_needed
+        label: Additional Support Needed
+        hint: How can we support you?
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: willingness_to_increase_involvement
+        label: Willingness to Increase Involvement
+        hint: Would you take on more responsibility?
+        type: select_one
+        options:
+          - Yes, definitely
+          - Possibly
+          - No, current level is appropriate
+        required: true
+      - id: 18
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback about your availability
+        type: text
+        options: []
+        required: false

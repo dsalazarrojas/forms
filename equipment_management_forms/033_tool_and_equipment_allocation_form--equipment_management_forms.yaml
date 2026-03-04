@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: tool_and_equipment_allocation_form
+    pages:
+    - id: 1
+      name: tool_and_equipment
+      label: Tool And Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project
+      label: Project
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: due_back
+      label: Due Back
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: tool_and_equipment
+      label: Tool And Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

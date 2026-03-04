@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Executive Director Evaluation Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: evaluation_form_completed_by
+      label: Evaluation Form Completed By
+      hint: null
+      type: select_one
+      options:
+      - Executive Director
+      - Assistant to the Executive Director
+      - Department Director
+      - Manager
+      - Staff
+      required: true
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rating_1_to_5
+      label: Rating 1 to 5
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: feedback_details_1_to_5
+      label: Feedback Details 1 to 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: evaluation_form_completed
+      label: Evaluation Form Completed
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: department_name
+      label: Department Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: department_head_name
+      label: Department Head Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: department_head_title
+      label: Department Head Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: department_head_email
+      label: Department Head Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: department_head_phone
+      label: Department Head Phone
+      hint: null
+      type: text
+      options: []
+      required: false

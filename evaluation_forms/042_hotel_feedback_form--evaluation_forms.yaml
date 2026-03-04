@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Feedback Form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: room_type
+      label: Room Type
+      hint: null
+      type: select_multiple
+      options:
+      - One star
+      - Two stars
+      - Three stars
+      - Four stars
+      - Five stars
+      required: false
+    - id: 5
+      name: service
+      label: Service
+      hint: null
+      type: select_one
+      options:
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 6
+      name: cleanliness
+      label: Cleanliness
+      hint: null
+      type: select_one
+      options:
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: facilities
+      label: Facilities
+      hint: null
+      type: select_multiple
+      options:
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 9
+      name: price
+      label: Price
+      hint: null
+      type: select_one
+      options:
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

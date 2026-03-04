@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Halloween Cosplay Contest Entry Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: character_designs
+      label: Character Designs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: cosplay_costume
+      label: Cosplay Costume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: cosplay_costume_description
+      label: Cosplay Costume Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: photo_upload
+      label: Photo Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: entry_name
+      label: Entry Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: entry_description
+      label: Entry Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: entry_category
+      label: Entry Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: entry_tags
+      label: Entry Tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: entry_tags_list
+      label: Entry Tags List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: entry_date
+      label: Entry Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: entry_time
+      label: Entry Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: entry_note
+      label: Entry Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: entry_email
+      label: Entry Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: entry_phone
+      label: Entry Phone
+      hint: null
+      type: text
+      options: []
+      required: false

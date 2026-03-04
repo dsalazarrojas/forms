@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Estimate Form
+    pages:
+    - id: 1
+      name: job_estimate_form_first_page
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_estimate_form_services
+      label: services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: job_estimate_form_services_list
+      label: services_list
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_estimate_form_services_list_item
+      label: services_list_item
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: job_estimate_form_services_list_item_type
+      label: services_list_item_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: job_estimate_form_services_list_item_description
+      label: services_list_item_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: job_estimate_form_services_list_item_cost
+      label: services_list_item_cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: job_estimate_form_services_list_item_start_date
+      label: services_list_item_start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: job_estimate_form_services_list_item_end_date
+      label: services_list_item_end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: job_estimate_form_services_list_item_status
+      label: services_list_item_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 11
+      name: job_estimate_form_services_list_item_notes
+      label: services_list_item_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: job_estimate_form_services_list_item_email
+      label: services_list_item_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: job_estimate_form_services_list_item_phone
+      label: services_list_item_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: job_estimate_form_second_page
+      label: second_page
+      hint: null
+      type: text
+      options: []
+      required: false

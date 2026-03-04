@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Self Review Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: position_title
+      label: Position Title
+      hint: Your current role
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: manager_name
+      label: Direct Manager Name
+      hint: Name of your supervisor
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: review_period
+      label: Reporting Period
+      hint: Date range for this review
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: time_in_position
+      label: Time in Current Position
+      hint: How long you have held this role
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6-12 months
+      - 1-2 years
+      - 2-5 years
+      - More than 5 years
+      required: true
+    - id: 8
+      name: key_accomplishments
+      label: Key Accomplishments This Year
+      hint: Major achievements and milestones
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: goals_achieved
+      label: Goals Achieved
+      hint: Annual objectives you completed
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: goals_achievement_percentage
+      label: Percentage of Goals Achieved
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: performance_self_rating
+      label: Self-assessment of overall performance
+      hint: null
+      type: select_one
+      options:
+      - Exceeds expectations
+      - Meets expectations
+      - Meets most expectations
+      - Below expectations
+      required: true
+    - id: 12
+      name: work_quality
+      label: Quality of work produced
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      required: true
+    - id: 13
+      name: productivity_efficiency
+      label: Productivity and efficiency
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      required: true
+    - id: 14
+      name: reliability
+      label: Reliability and dependability
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      required: true
+    - id: 15
+      name: teamwork
+      label: Teamwork and collaboration
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      required: true
+    - id: 16
+      name: communication
+      label: Communication skills
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      required: true
+    - id: 17
+      name: initiative
+      label: Initiative and proactivity
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      required: true
+    - id: 18
+      name: key_strengths
+      label: Your Key Strengths
+      hint: What you do particularly well
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: areas_development
+      label: Areas for Development
+      hint: Skills to improve or learn
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: challenges_faced
+      label: Challenges You Faced
+      hint: Obstacles encountered during year
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: how_overcome
+      label: How You Overcame Challenges
+      hint: Solutions and approaches used
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: professional_development
+      label: Professional Development Activities
+      hint: Courses, training, certifications completed
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: learning_goals
+      label: Learning Goals for Next Year
+      hint: Skills or knowledge to acquire
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: career_goals
+      label: Career Goals and Aspirations
+      hint: Where you want to go professionally
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: manager_support
+      label: Support needed from manager
+      hint: Resources or help required
+      type: text
+      options: []
+      required: false

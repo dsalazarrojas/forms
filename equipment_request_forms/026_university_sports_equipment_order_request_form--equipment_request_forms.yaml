@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Sports Equipment Order Request Form
+    pages:
+    - id: 1
+      name: user
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_type
+      label: Equipment Type
+      hint: Select one or more equipment types
+      type: select_multiple
+      options:
+      - Tennis Racket
+      - Basketball Hoop
+      - Volleyball Net
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: Enter the quantity
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: pickup_date
+      label: Pickup Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false

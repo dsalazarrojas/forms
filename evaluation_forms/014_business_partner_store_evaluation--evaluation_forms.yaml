@@ -1,0 +1,214 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Partner Store Evaluation
+    pages:
+      - id: 1
+        name: section_evaluation_info
+        label: -- Evaluation Information --
+        type: note
+        required: false
+      - id: 2
+        name: evaluator_name
+        label: Evaluator Name
+        hint: Your full name
+        type: text
+        required: true
+      - id: 3
+        name: evaluation_date
+        label: Evaluation Date
+        hint: Date of the store visit
+        type: date
+        required: true
+      - id: 4
+        name: store_name
+        label: Store Name
+        hint: Partner store being evaluated
+        type: text
+        required: true
+      - id: 5
+        name: store_location
+        label: Store Location
+        hint: City and address
+        type: text
+        required: true
+      - id: 6
+        name: store_manager
+        label: Store Manager Name
+        hint: Manager on duty during visit
+        type: text
+        required: false
+      - id: 7
+        name: section_store_appearance
+        label: -- Store Appearance and Cleanliness --
+        type: note
+        required: false
+      - id: 8
+        name: store_cleanliness
+        label: Store Cleanliness and Organization
+        hint: Rate the overall cleanliness
+        type: select_one
+        options:
+          - Poor
+          - Fair
+          - Good
+          - Very Good
+          - Excellent
+        required: true
+      - id: 9
+        name: product_display
+        label: Product Display and Merchandising
+        hint: Rate how products are displayed
+        type: select_one
+        options:
+          - Poor
+          - Fair
+          - Good
+          - Very Good
+          - Excellent
+        required: true
+      - id: 10
+        name: signage_quality
+        label: Signage Quality and Visibility
+        hint: Rate store signage
+        type: select_one
+        options:
+          - Poor
+          - Fair
+          - Good
+          - Very Good
+          - Excellent
+        required: true
+      - id: 11
+        name: section_customer_service
+        label: -- Customer Service --
+        type: note
+        required: false
+      - id: 12
+        name: staff_professionalism
+        label: Staff Professionalism and Courtesy
+        hint: Rate staff interactions
+        type: select_one
+        options:
+          - Poor
+          - Fair
+          - Good
+          - Very Good
+          - Excellent
+        required: true
+      - id: 13
+        name: product_knowledge
+        label: Staff Product Knowledge
+        hint: Rate staff expertise
+        type: select_one
+        options:
+          - Poor
+          - Fair
+          - Good
+          - Very Good
+          - Excellent
+        required: true
+      - id: 14
+        name: customer_waiting_time
+        label: Customer Wait Times
+        hint: Rate service speed
+        type: select_one
+        options:
+          - Unacceptable
+          - Slow
+          - Reasonable
+          - Good
+          - Excellent
+        required: true
+      - id: 15
+        name: section_inventory
+        label: -- Inventory and Stocking --
+        type: note
+        required: false
+      - id: 16
+        name: product_availability
+        label: Product Availability
+        hint: Rate stock levels
+        type: select_one
+        options:
+          - Poor
+          - Fair
+          - Good
+          - Very Good
+          - Excellent
+        required: true
+      - id: 17
+        name: stock_rotation
+        label: Stock Rotation and Expiration Dates
+        hint: Rate inventory management
+        type: select_one
+        options:
+          - Poor
+          - Fair
+          - Good
+          - Very Good
+          - Excellent
+        required: true
+      - id: 18
+        name: section_compliance
+        label: -- Compliance and Standards --
+        type: note
+        required: false
+      - id: 19
+        name: brand_compliance
+        label: Brand Standard Compliance
+        hint: Rate adherence to brand standards
+        type: select_one
+        options:
+          - Non-compliant
+          - Partially Compliant
+          - Mostly Compliant
+          - Fully Compliant
+          - Exceeds Standards
+        required: true
+      - id: 20
+        name: pricing_accuracy
+        label: Pricing Accuracy and Consistency
+        hint: Rate pricing correctness
+        type: select_one
+        options:
+          - Poor
+          - Fair
+          - Good
+          - Very Good
+          - Excellent
+        required: true
+      - id: 21
+        name: section_notes
+        label: -- Additional Notes --
+        type: note
+        required: false
+      - id: 22
+        name: strengths
+        label: Store Strengths
+        hint: What is the store doing well
+        type: text
+        required: false
+      - id: 23
+        name: improvement_areas
+        label: Areas for Improvement
+        hint: What needs improvement
+        type: text
+        required: false
+      - id: 24
+        name: action_items
+        label: Required Action Items
+        hint: Specific actions needed
+        type: text
+        required: false

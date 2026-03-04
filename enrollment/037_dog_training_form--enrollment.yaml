@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dog Training Form
+    pages:
+    - id: 1
+      name: dog_training_form_1
+      label: dog-training-form-1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: behavior_modifications_form_2
+      label: behavior-modifications
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: training_sessions_form_3
+      label: training-sessions
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: assigned_trainer_form_4
+      label: assigned-trainer
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''trainer1''}'
+      - '{''value'': ''trainer2''}'
+      required: false
+    - id: 5
+      name: session_duration_form_5
+      label: session-duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: session_notes_form_6
+      label: session-notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: owner_contact_form_7
+      label: owner-contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: owner_relationship_form_8
+      label: owner-relationship
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''good''}'
+      - '{''value'': ''bad''}'
+      required: false
+    - id: 9
+      name: dog_type_form_9
+      label: dog-type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''small''}'
+      - '{''value'': ''big''}'
+      required: false
+    - id: 10
+      name: exercise_form_10
+      label: exercise
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: exercise_duration_form_11
+      label: exercise-duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: food_form_12
+      label: food
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''kibble''}'
+      - '{''value'': ''raw''}'
+      required: false
+    - id: 13
+      name: training_area_form_13
+      label: training-area
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''house''}'
+      - '{''value'': ''yard''}'
+      required: false
+    - id: 14
+      name: dog_owner_form_14
+      label: dog-owner
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''owner1''}'
+      - '{''value'': ''owner2''}'
+      required: false
+    - id: 15
+      name: training_protocol_form_15
+      label: training-protocol
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''standard''}'
+      - '{''value'': ''modified''}'
+      required: false

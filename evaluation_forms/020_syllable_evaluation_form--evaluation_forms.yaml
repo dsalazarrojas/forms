@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Syllable Evaluation Form
+    pages:
+    - id: 1
+      name: syllable_evaluation_form
+      label: Syllable Evaluation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: syllable_rating
+      label: Syllable Rating
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 3
+      name: syllable_count
+      label: Syllable Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: recording_time
+      label: Recording Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: evaluator_comments
+      label: Evaluator Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: evaluator_rating
+      label: Evaluator Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time_submitted
+      label: Time Submitted
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: recording_device
+      label: Recording Device
+      hint: null
+      type: select_one
+      options:
+      - Smartphone
+      - Tablet
+      - Laptop
+      required: true
+    - id: 10
+      name: evaluator_name
+      label: Evaluator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: evaluator_title
+      label: Evaluator Title
+      hint: null
+      type: text
+      options: []
+      required: false

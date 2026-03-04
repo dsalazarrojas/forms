@@ -1,0 +1,121 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Clinical Faculty Evaluation Template 3
+    pages:
+      - id: 1
+        name: evaluator_name
+        label: Evaluator Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: candidate_name
+        label: Candidate or Faculty Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: evaluation_date
+        label: Date of Evaluation
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: section_performance
+        label: -- Performance Evaluation --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: clinical_knowledge
+        label: Clinical Knowledge and Expertise
+        hint: 1 - Poor to 5 - Excellent
+        type: select_one
+        options: [1, 2, 3, 4, 5]
+        required: true
+      - id: 6
+        name: communication_skills
+        label: Communication and Interpersonal Skills
+        hint: 1 - Poor to 5 - Excellent
+        type: select_one
+        options: [1, 2, 3, 4, 5]
+        required: true
+      - id: 7
+        name: teaching_ability
+        label: Teaching and Mentorship Ability
+        hint: 1 - Poor to 5 - Excellent
+        type: select_one
+        options: [1, 2, 3, 4, 5]
+        required: false
+      - id: 8
+        name: enthusiasm_rating
+        label: Enthusiasm towards the position
+        hint: 1 - Not Enthusiastic to 5 - Very Enthusiastic
+        type: select_one
+        options: [1, 2, 3, 4, 5]
+        required: true
+      - id: 9
+        name: section_strengths_weaknesses
+        label: -- Strengths and Weaknesses --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: primary_strengths
+        label: Primary Strengths identified
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: areas_for_improvement
+        label: Areas for Improvement or Weaknesses
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: section_recommendation
+        label: -- Final Recommendation --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: overall_recommendation
+        label: Overall Recommendation
+        hint: null
+        type: select_one
+        options: [Highly Recommend, Recommend, Recommend with Reservations, Do Not Recommend]
+        required: true
+      - id: 14
+        name: additional_comments
+        label: Additional Comments
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: evaluator_signature
+        label: Evaluator Signature - Type Full Name
+        hint: null
+        type: text
+        options: []
+        required: true

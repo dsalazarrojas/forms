@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dam Inspection Form
+    pages:
+    - id: 1
+      name: dam_inspection_form
+      label: Dam Inspection Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: dam_type
+      label: Dam Type
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Dam prophets''}'
+      - '{''text'': ''Dam gates''}'
+      - '{''text'': ''Dam spillway''}'
+      required: true
+    - id: 3
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: inspector_role
+      label: Inspector Role
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Engineer''}'
+      - '{''text'': ''Maintenance''}'
+      - '{''text'': ''Operations''}'
+      required: true
+    - id: 6
+      name: inspection_results
+      label: Inspection Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: dam_condition
+      label: Dam Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Good''}'
+      - '{''text'': ''Fair''}'
+      - '{''text'': ''Poor''}'
+      required: false
+    - id: 9
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Above Water''}'
+      - '{''text'': ''Below Water''}'
+      - '{''text'': ''On Water''}'
+      required: true
+    - id: 10
+      name: dam_height
+      label: Dam Height
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: dam_depth
+      label: Dam Depth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: water_level
+      label: Water Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: spillway_status
+      label: Spillway Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Closed''}'
+      - '{''text'': ''Open''}'
+      - '{''text'': ''In Use''}'
+      required: true
+    - id: 14
+      name: inspection_frequency
+      label: Inspection Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Monthly''}'
+      - '{''text'': ''Bi-Monthly''}'
+      - '{''text'': ''Quarterly''}'
+      required: true
+    - id: 15
+      name: last_inspection_date
+      label: Last Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: inspector_frequency
+      label: Inspection Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Monthly''}'
+      - '{''text'': ''Bi-Monthly''}'
+      - '{''text'': ''Quarterly''}'
+      required: false
+    - id: 17
+      name: spillway_status
+      label: Spillway Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 18
+      name: dam_condition
+      label: Dam Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: inspection_results
+      label: Inspection Results
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Free Project Proposal
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_description
+      label: project_description
+      hint: Briefly describe the project
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: project_lead
+      label: Project Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: budget
+      label: Budget
+      hint: Provide a total budget for the project
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: project_status
+      label: Project Status
+      hint: Select current project status
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: project_notes
+      label: Project Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

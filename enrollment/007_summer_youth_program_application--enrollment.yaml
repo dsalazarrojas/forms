@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Youth Program Application
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: applicant_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: applicant_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: experience
+      label: Experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: thoughts
+      label: Thoughts
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: essay
+      label: Essay
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Guardian
+      - Spouse
+      - Other
+      required: true

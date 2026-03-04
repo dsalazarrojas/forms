@@ -1,0 +1,97 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Customer Development Survey
+    pages:
+    - id: 1
+      name: customer_development_survey
+      label: Customer Development Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_development_survey_service
+      label: Which of the services do you use?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Service 1''}'
+      - '{''id'': 2, ''label'': ''Service 2''}'
+      - '{''id'': 3, ''label'': ''Service 3''}'
+      required: false
+    - id: 3
+      name: customer_development_survey_product
+      label: Which of the products do you use?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Product 1''}'
+      - '{''id'': 2, ''label'': ''Product 2''}'
+      - '{''id'': 3, ''label'': ''Product 3''}'
+      required: false
+    - id: 4
+      name: customer_development_survey_feature
+      label: Which of the features do you use?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Feature 1''}'
+      - '{''id'': 2, ''label'': ''Feature 2''}'
+      - '{''id'': 3, ''label'': ''Feature 3''}'
+      required: false
+    - id: 5
+      name: customer_development_survey_service_quality
+      label: What is the quality of the service?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 6
+      name: customer_development_survey_service_value
+      label: What is the value of the service?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 7
+      name: customer_development_survey_satisfaction
+      label: How satisfied are you with our service?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very Satisfied''}'
+      - '{''id'': 2, ''label'': ''Satisfied''}'
+      - '{''id'': 3, ''label'': ''Not Satisfied''}'
+      required: false
+    - id: 8
+      name: customer_development_survey_improvement_area
+      label: Which area would you like us to improve?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_development_survey_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

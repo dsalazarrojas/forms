@@ -1,0 +1,92 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Animation Studio Behind The Scenes Consent Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant full name
+      hint: Print full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: For consent record and follow up
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: role
+      label: Role during studio visit
+      hint: e g visitor, staff, contractor
+      type: select_one
+      options:
+      - Visitor
+      - Staff
+      - Contractor
+      - Volunteer
+      required: true
+    - id: 5
+      name: consent_photos
+      label: Consent to photos and video
+      hint: Permission to use images for publicity
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 6
+      name: consent_release
+      label: Consent release summary
+      hint: Read the release terms provided by studio
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: signature_name
+      label: Typed name for signature
+      hint: Type full name to indicate consent
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: date_signed
+      label: Date signed
+      hint: Date of consent
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: guardian_contact
+      label: Guardian contact if under 18
+      hint: Provide guardian name and phone
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Additional notes
+      hint: Any restrictions or special requests
+      type: text
+      options: []
+      required: false

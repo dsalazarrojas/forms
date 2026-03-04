@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artist Dressing Room Access Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_role
+      label: Role or Title
+      hint: Artist, Crew, Media, Other
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: artist_name
+      label: Artist or Performer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: access_date
+      label: Date of Access Needed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: access_time
+      label: Time of Access
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: duration_hours
+      label: Duration of Access - Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: access_type
+      label: Type of Access
+      hint: null
+      type: select_one
+      options:
+      - Before Performance
+      - During Performance
+      - After Performance
+      - All Day
+      required: true
+    - id: 10
+      name: number_of_people
+      label: Number of People Requiring Access
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: access_purpose
+      label: Purpose of Access
+      hint: null
+      type: select_one
+      options:
+      - Preparation
+      - Guest Visit
+      - Equipment Setup
+      - Media Interview
+      - Other
+      required: true
+    - id: 12
+      name: accompany_artist
+      label: Will Artist Accompany Group
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: security_clearance
+      label: Security Clearance Status
+      hint: null
+      type: select_one
+      options:
+      - Pre-Approved
+      - Pending Approval
+      - No Clearance
+      required: true
+    - id: 14
+      name: special_requirements
+      label: Special Requirements or Restrictions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: identification_provided
+      label: Valid Identification Provided
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: policy_acknowledged
+      label: Artist Dressing Room Policy Acknowledged
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false

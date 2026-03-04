@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chipper Inspection Checklist
+    pages:
+    - id: 1
+      name: inspection_details
+      label: -- Inspection Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: equipment_information
+      label: -- Equipment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: chipper_model
+      label: Chipper Model Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: serial_number
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: installation_date
+      label: Installation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: operating_hours
+      label: Operating Hours Since Last Service
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: chipper_type
+      label: Chipper Type
+      hint: null
+      type: select_one
+      options:
+      - Drum chipper
+      - Disc chipper
+      - Screw auger
+      - Knife-style
+      - Other
+      required: true
+    - id: 11
+      name: engine_type
+      label: Engine Type
+      hint: null
+      type: select_one
+      options:
+      - Gasoline
+      - Diesel
+      - Electric
+      - PTO powered
+      required: true
+    - id: 12
+      name: visual_inspection
+      label: -- Visual Inspection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: overall_condition
+      label: Overall Condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: rust_corrosion
+      label: Rust or Corrosion Present
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Minor
+      - Moderate
+      - Severe
+      required: true
+    - id: 15
+      name: visible_damage
+      label: Visible Damage
+      hint: Dents, cracks, bending
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: damage_details
+      label: Description of Damage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: safety_features
+      label: -- Safety Features --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: guard_integrity
+      label: Guard or Safety Screen Integrity
+      hint: null
+      type: select_one
+      options:
+      - Intact
+      - Damaged
+      - Missing
+      required: true
+    - id: 19
+      name: emergency_stop
+      label: Emergency Stop Button Functions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not present
+      required: true
+    - id: 20
+      name: blade_condition
+      label: Blade Condition
+      hint: null
+      type: select_one
+      options:
+      - Sharp and good
+      - Slightly dull
+      - Very dull
+      - Damaged
+      required: true
+    - id: 21
+      name: operational_tests
+      label: -- Operational Tests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: engine_operation
+      label: Engine Starts and Operates Normally
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not tested
+      required: true
+    - id: 23
+      name: feed_system
+      label: Feed System Functions Properly
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not tested
+      required: true
+    - id: 24
+      name: safety_recommendation
+      label: -- Safety Recommendation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: inspection_result
+      label: Inspection Result
+      hint: null
+      type: select_one
+      options:
+      - Approved - Safe to use
+      - Conditional - minor repairs needed
+      - Failed - Do not use until repairs made
+      - Needs professional service
+      required: true

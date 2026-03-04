@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Machine Calibration Report Form
+    pages:
+    - id: 1
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: technician_name
+      label: Technician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: machine_description
+      label: Machine Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: serial_number
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: maintenance_date
+      label: Maintenance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: maintenance_type
+      label: Maintenance Type
+      hint: null
+      type: select_multiple
+      options:
+      - Calibration
+      - Repair
+      - Inspection
+      - Other
+      required: false
+    - id: 7
+      name: calibration_frequency
+      label: Calibration Frequency
+      hint: null
+      type: number
+      options: []
+      required: false

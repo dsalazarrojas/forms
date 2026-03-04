@@ -1,0 +1,234 @@
+inputSchema:
+  type: object
+  properties:
+    title: Engine Performance Assessment
+    pages:
+    - id: 1
+      name: engine_performance_assessment_form
+      label: Engine Performance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: engine_type
+      label: Engine Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Gasoline''}'
+      - '{''id'': 2, ''name'': ''Diesel''}'
+      - '{''id'': 3, ''name'': ''Hybrid''}'
+      - '{''id'': 4, ''name'': ''Electric''}'
+      required: false
+    - id: 3
+      name: engine_condition
+      label: Engine Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Normal''}'
+      - '{''id'': 2, ''name'': ''Abnormal''}'
+      - '{''id'': 3, ''name'': ''Critical''}'
+      required: true
+    - id: 4
+      name: oil_level
+      label: Oil Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Low''}'
+      - '{''id'': 2, ''name'': ''Normal''}'
+      - '{''id'': 3, ''name'': ''High''}'
+      required: true
+    - id: 5
+      name: temperature
+      label: Temperature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: engine_rpm
+      label: Engine RPM
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: smoke_color
+      label: Smoke Color
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''White''}'
+      - '{''id'': 2, ''name'': ''Blue''}'
+      - '{''id'': 3, ''name'': ''Black''}'
+      required: false
+    - id: 8
+      name: vibration
+      label: Vibration
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Low''}'
+      - '{''id'': 2, ''name'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''High''}'
+      required: true
+    - id: 9
+      name: leaks
+      label: Leaks
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''None''}'
+      - '{''id'': 2, ''name'': ''Low''}'
+      - '{''id'': 3, ''name'': ''High''}'
+      required: false
+    - id: 10
+      name: engine_hours
+      label: Engine Hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: fuel_type
+      label: Fuel Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Gasoline''}'
+      - '{''id'': 2, ''name'': ''Diesel''}'
+      - '{''id'': 3, ''name'': ''Hybrid''}'
+      - '{''id'': 4, ''name'': ''Electric''}'
+      required: true
+    - id: 12
+      name: engine_oil_type
+      label: Engine Oil Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Mineral''}'
+      - '{''id'': 2, ''name'': ''Synthetic''}'
+      - '{''id'': 3, ''name'': ''Synthetic Blend''}'
+      required: true
+    - id: 13
+      name: coolant_temperature
+      label: Coolant Temperature
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: coolant_level
+      label: Coolant Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Low''}'
+      - '{''id'': 2, ''name'': ''Normal''}'
+      - '{''id'': 3, ''name'': ''High''}'
+      required: true
+    - id: 15
+      name: engine_coolant
+      label: Engine Coolant
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Good''}'
+      - '{''id'': 2, ''name'': ''Fair''}'
+      - '{''id'': 3, ''name'': ''Bad''}'
+      required: true
+    - id: 16
+      name: transmission_temperature
+      label: Transmission Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: trans_fuild
+      label: Transmission Fluid
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Fluid''}'
+      - '{''id'': 2, ''name'': ''Low''}'
+      - '{''id'': 3, ''name'': ''High''}'
+      required: false
+    - id: 18
+      name: trans_fuild_level
+      label: Transmission Fluid Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''High''}'
+      - '{''id'': 2, ''name'': ''Low''}'
+      - '{''id'': 3, ''name'': ''Fluid''}'
+      required: true
+    - id: 19
+      name: drive_type
+      label: Drive Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Front-Wheel Drive''}'
+      - '{''id'': 2, ''name'': ''Rear-Wheel Drive''}'
+      - '{''id'': 3, ''name'': ''Four-Wheel Drive''}'
+      required: true
+    - id: 20
+      name: engine_type
+      label: Engine Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Gasoline''}'
+      - '{''id'': 2, ''name'': ''Diesel''}'
+      - '{''id'': 3, ''name'': ''Hybrid''}'
+      - '{''id'': 4, ''name'': ''Electric''}'
+      required: true
+    - id: 21
+      name: engine_oil_condition
+      label: Engine Oil Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Clean''}'
+      - '{''id'': 2, ''name'': ''Dirty''}'
+      - '{''id'': 3, ''name'': ''Severe''}'
+      required: true
+    - id: 22
+      name: fuel_level
+      label: Fuel Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''High''}'
+      - '{''id'': 2, ''name'': ''Normal''}'
+      - '{''id'': 3, ''name'': ''Low''}'
+      required: true
+    - id: 23
+      name: transmission_condition
+      label: Transmission Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Good''}'
+      - '{''id'': 2, ''name'': ''Fair''}'
+      - '{''id'': 3, ''name'': ''Bad''}'
+      required: true
+    - id: 24
+      name: engine_rpm_range
+      label: Engine RPM Range
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: engine_hours_range
+      label: Engine Hours Range
+      hint: null
+      type: text
+      options: []
+      required: true

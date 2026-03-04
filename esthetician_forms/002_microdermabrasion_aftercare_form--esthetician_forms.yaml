@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Microdermabrasion Aftercare Form
+    pages:
+    - id: 1
+      name: microdermabrasion_aftercare_form
+      label: What is your skin type?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: microdermabrasion_skin_condition
+      label: skin_condition
+      hint: Select multiple conditions that apply
+      type: select_multiple
+      options:
+      - normal
+      - sensitive
+      - acne-prone
+      - oily
+      required: true
+    - id: 3
+      name: microdermabrasion_products_used
+      label: Products used
+      hint: null
+      type: select_one
+      options:
+      - microdermabrasion_1
+      - microdermabrasion_2
+      - microdermabrasion_3
+      required: true
+    - id: 4
+      name: microdermabrasion_products_used_other
+      label: other_products
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: microdermabrasion_frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - daily
+      - weekly
+      - monthly
+      required: true
+    - id: 6
+      name: microdermabrasion_adverse_effects
+      label: Adverse effects
+      hint: null
+      type: select_multiple
+      options:
+      - redness
+      - irritation
+      - infection
+      - other
+      required: true
+    - id: 7
+      name: microdermabrasion_adverse_effects_other
+      label: other_adverse_effects
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: microdermabrasion_advice
+      label: Microdermabrasion advice
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: microdermabrasion_aftercare_products
+      label: Aftercare products
+      hint: null
+      type: select_multiple
+      options:
+      - sunscreen
+      - moisturizer
+      required: false
+    - id: 10
+      name: microdermabrasion_aftercare_products_other
+      label: other_aftercare_products
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: microdermabrasion_notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: microdermabrasion_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: microdermabrasion_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: microdermabrasion_date
+      label: Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: microdermabrasion_time
+      label: Time
+      hint: "12h:MM AM/PM"
+      type: time
+      options: []
+      required: false

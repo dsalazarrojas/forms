@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Halloween Costume Contest Voting Form
+    pages:
+    - id: 1
+      name: vote_for
+      label: Vote for
+      hint: null
+      type: select_multiple
+      options:
+      - Skeleton Man
+      - Zombie Bride
+      - Witch
+      - Pirate
+      - Ghost
+      - Mummy
+      required: true
+    - id: 2
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true

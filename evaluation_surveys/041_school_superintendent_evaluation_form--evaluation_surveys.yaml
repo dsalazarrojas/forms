@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Superintendent Evaluation Form
+    pages:
+    - id: 1
+      name: school_superintendent_evaluation_form_school_superintendent_id
+      label: School Superintendent ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: school_superintendent_name
+      label: name
+      hint: Enter the school superintendent's name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: school_superintendent_position
+      label: position
+      hint: Enter the school superintendent's position
+      type: select_one
+      options:
+      - Assistant
+      - Head
+      - Principal
+      required: false
+    - id: 5
+      name: evaluation_form_comments
+      label: Comments
+      hint: Provide any additional comments
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: prophets
+      label: prophets
+      hint: null
+      type: select_multiple
+      options:
+      - John the Baptist
+      - Isaiah
+      - Jeremiah
+      required: false
+    - id: 7
+      name: school_board_rating
+      label: School Board Rating
+      hint: Rate the school board's performance
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: school_superintendent_rating
+      label: School Superintendent Rating
+      hint: Rate the school superintendent's performance
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: school_board_comments
+      label: School Board Comments
+      hint: Provide any additional comments about the prophets
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: evaluation_time
+      label: Evaluation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: evaluation_form_completion_date
+      label: Evaluation Form Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: school_superintendent_evaluation_form_school_board_id
+      label: School Board ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: school_superintendent_evaluation_form_school_superintendent_position
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: false

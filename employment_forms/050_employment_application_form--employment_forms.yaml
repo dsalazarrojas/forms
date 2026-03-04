@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employment Application Form
+    pages:
+    - id: 1
+      name: user_input
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title_description
+      label: Job Title Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Retired
+      required: true
+    - id: 9
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: select_multiple
+      options:
+      - Software Development
+      - Project Management
+      - Team Management
+      required: true
+    - id: 10
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: notice_period
+      label: Notice Period
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: salary_range
+      label: Salary Range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: desired_salary
+      label: Desired Salary
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: notice_period
+      label: Notice Period
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: notice_period_unit
+      label: Time Unit
+      hint: null
+      type: select_one
+      options:
+      - days
+      - hours
+      - minutes
+      required: true
+    - id: 16
+      name: available_shifts
+      label: Available Shifts
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 17
+      name: job_preferences
+      label: Job Preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_number
+      label: Emergency Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Spouse
+      - Partner
+      - Friend
+      required: false
+    - id: 21
+      name: job_title_id
+      label: Job Title Id
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Developer
+      - Designer
+      required: false
+    - id: 22
+      name: job_title_description_id
+      label: Job Title Description Id
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Developer
+      - Designer
+      required: false
+    - id: 23
+      name: employment_agency
+      label: Employment Agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: employment_agency_id
+      label: Employment Agency Id
+      hint: null
+      type: select_one
+      options:
+      - Agency1
+      - Agency2
+      - Agency3
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: true

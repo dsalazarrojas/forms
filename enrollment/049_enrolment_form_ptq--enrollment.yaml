@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Enrolment Form PTQ
+    pages:
+    - id: 1
+      name: training_selection
+      label: Choose a training
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: course_selection
+      label: Select courses
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: date_of_enrollment
+      label: Date of enrollment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: enrollment_start_date
+      label: Start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: enrollment_duration
+      label: Duration of the training
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: enrollment_hours
+      label: Hours of training
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: training_facility
+      label: Training facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: training_location
+      label: Location of training
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: training_time
+      label: Time of training
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: enrollment_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: enrollment_email
+      label: Email of the participant
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: enrollment_phone
+      label: Phone of the participant
+      hint: null
+      type: text
+      options: []
+      required: false

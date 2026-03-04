@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Preschool Staff Evaluation Form
+    pages:
+    - id: 1
+      name: staff_performance
+      label: Staff Performance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: staff_skills
+      label: Staff Skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: staff_attendance
+      label: Staff Attendance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: staff_comments
+      label: Staff Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: assigned_teacher
+      label: Assigned Teacher
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: staff_abilities
+      label: Staff Abilities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: staff_duties
+      label: Staff Duties
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: form_completion_date
+      label: Form Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

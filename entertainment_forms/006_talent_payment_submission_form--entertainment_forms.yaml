@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Talent Payment Submission Form
+    pages:
+    - id: 1
+      name: talent_name
+      label: talent_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_choice
+      label: payment_choice
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 3
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: payment_date
+      label: payment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: payment_time
+      label: payment_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: talent_note
+      label: talent_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false

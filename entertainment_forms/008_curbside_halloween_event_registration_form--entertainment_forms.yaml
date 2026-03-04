@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: curbside_halloween_event_registration_form
+    pages:
+    - id: 1
+      name: neighborhood_name
+      label: neighborhood_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: will_participate
+      label: will_participate
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 6
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: will_help
+      label: will_help
+      hint: null
+      type: select_multiple
+      options:
+      - will-help
+      - will_not_help
+      required: true
+    - id: 10
+      name: participant_number
+      label: participant_number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: participant_details
+      label: participant_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: participant_comments
+      label: participant_comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: organizer_comments
+      label: organizer_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: participant_attended
+      label: participant_attended
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: participant_dropped
+      label: participant_dropped
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: event_address
+      label: event_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: event_description
+      label: event_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: event_organizer
+      label: event_organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: event_organizer_phone
+      label: event_organizer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: event_organizer_email
+      label: event_organizer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: participant_age
+      label: participant_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: participant_gender
+      label: participant_gender
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: participant_type
+      label: participant_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: participant_halloween_costume
+      label: participant_halloween_costume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: participant_holiday_spirit
+      label: participant_holiday_spirit
+      hint: null
+      type: text
+      options: []
+      required: false

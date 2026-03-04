@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Equipment Loan Request Form
+    pages:
+    - id: 1
+      name: request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: borrower_name
+      label: Borrower Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: loan_date
+      label: Loan Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: equipment_requested
+      label: Equipment Requested
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Autoclave''}'
+      - '{''value'': ''Defibrillator''}'
+      - '{''value'': ''ECG Machine''}'
+      - '{''value'': ''Oxygen Tank''}'
+      required: false
+    - id: 5
+      name: equipment_location
+      label: Equipment Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Hospital''}'
+      - '{''value'': ''Clinic''}'
+      - '{''value'': ''University''}'
+      - '{''value'': ''Lab''}'
+      required: false
+    - id: 6
+      name: loan_duration
+      label: Loan Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: reason_for_loan
+      label: Reason for Loan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: loaner_name
+      label: Loaner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: loan_status
+      label: Loan Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Pending''}'
+      - '{''value'': ''Approved''}'
+      - '{''value'': ''Denied''}'
+      required: false
+    - id: 12
+      name: loaned_to
+      label: Loaned To
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Borrower''}'
+      - '{''value'': ''Loaner''}'
+      required: false
+    - id: 13
+      name: loan_returned
+      label: Loan Returned
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''On Time''}'
+      - '{''value'': ''Late''}'
+      - '{''value'': ''Not Returned''}'
+      required: false

@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospitality Part Time Employment Form
+    pages:
+    - id: 1
+      name: job_application
+      label: Job Application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Employed''}'
+      - '{''label'': ''Unemployed''}'
+      - '{''label'': ''Student''}'
+      required: false
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: work_shift
+      label: Work Shift
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Morning''}'
+      - '{''label'': ''Afternoon''}'
+      - '{''label'': ''Evening''}'
+      - '{''label'': ''Night''}'
+      required: false
+    - id: 7
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Part-time''}'
+      - '{''label'': ''Full-time''}'
+      - '{''label'': ''Contract''}'
+      required: false
+    - id: 9
+      name: job_level
+      label: Job Level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Entry Level''}'
+      - '{''label'': ''Mid-level''}'
+      - '{''label'': ''Senior''}'
+      - '{''label'': ''Manager''}'
+      required: false
+    - id: 10
+      name: available_days
+      label: Available Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: availability
+      label: Availability
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Monday''}'
+      - '{''label'': ''Tuesday''}'
+      - '{''label'': ''Wednesday''}'
+      - '{''label'': ''Thursday''}'
+      - '{''label'': ''Friday''}'
+      - '{''label'': ''Saturday''}'
+      - '{''label'': ''Sunday''}'
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

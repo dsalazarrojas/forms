@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Celebrity Meet and Greet Form
+    pages:
+    - id: 1
+      name: section_attendee_info
+      label: -- Attendee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: section_event_details
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: event_location
+      label: Event Location
+      hint: Venue or venue address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: celebrity_name
+      label: Celebrity Name
+      hint: Who will you be meeting
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_registration
+      label: -- Registration Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: number_of_guests
+      label: Number of Guests Attending
+      hint: Including yourself
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: guest_names
+      label: Names of Other Attendees
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: registration_package
+      label: Registration Package Type
+      hint: null
+      type: select_one
+      options:
+      - General Admission
+      - VIP Package
+      - Premium VIP
+      - Photo Op Package
+      - Autograph Session
+      - Combo Package
+      - Other
+      required: true
+    - id: 15
+      name: section_preferences
+      label: -- Preferences and Requests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: photo_preference
+      label: Professional or Personal Photo
+      hint: null
+      type: select_one
+      options:
+      - Professional Photo
+      - Personal Photo (own camera)
+      - Both
+      - No Photo
+      required: true
+    - id: 17
+      name: autograph_items
+      label: Items to Autograph
+      hint: Poster, photo, memorabilia, etc.
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: special_requests
+      label: Special Requests or Messages
+      hint: Something specific to say or do
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_dietary_health
+      label: -- Health and Accessibility --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: For event catering
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Mobility assistance, seating, etc.
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_payment
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: package_cost
+      label: Package Cost
+      hint: Total amount due
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      - Check
+      - Cash at Event
+      required: true
+    - id: 25
+      name: registration_confirmation
+      label: I confirm my registration and agree to event terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

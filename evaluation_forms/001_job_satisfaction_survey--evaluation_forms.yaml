@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Satisfaction Survey
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: job_satisfaction
+      label: Job Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 3
+      name: job_satisfaction_rating
+      label: Job Satisfaction Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: job_contentment
+      label: Job Contentment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: manager_support
+      label: Manager Support
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: job_satisfaction_score
+      label: Job Satisfaction Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: main_page_2
+      label: Main Page 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: open_ended_question
+      label: Open-Ended Question
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: manager_support_2
+      label: Manager Support 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: job_satisfaction_score_2
+      label: Job Satisfaction Score 2
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 11
+      name: job_contentment_2
+      label: Job Contentment 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: open_ended_question_2
+      label: Open-Ended Question 2
+      hint: null
+      type: note
+      options: []
+      required: false

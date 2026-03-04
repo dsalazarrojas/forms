@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gait Training Device Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter first name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: gait_device_type
+      label: Gait Device Type
+      hint: Enter gait device type
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Device A''}'
+      - '{''id'': 2, ''label'': ''Device B''}'
+      - '{''id'': 3, ''label'': ''Device C''}'
+      required: true
+    - id: 7
+      name: gait_device_model
+      label: Gait Device Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: reviewer
+      label: Reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: reviewer_phone
+      label: Reviewer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: reviewer_email
+      label: Reviewer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: clinic
+      label: Clinic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: therapist
+      label: Therapist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: true

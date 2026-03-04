@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supervisor And Consultant Evaluation
+    pages:
+    - id: 1
+      name: form_1
+      label: Supervisor and Consultant Evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: consultant_name
+      label: Consultant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: supervisor_comment
+      label: Supervisor Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: consultant_comment
+      label: Consultant Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: evaluation_type
+      label: Evaluation Type
+      hint: null
+      type: select_one
+      options:
+      - Formal Evaluation
+      - Informal Evaluation
+      - Ad-Hoc Evaluation
+      required: true
+    - id: 8
+      name: supervisor_rating
+      label: Supervisor Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: consultant_rating
+      label: Consultant Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: recommendation
+      label: Recommendation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: evaluation_form_rating
+      label: Evaluation Form Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: form_15
+      label: Form 15
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: submission
+      label: Submission
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      required: false
+    - id: 16
+      name: submission_2
+      label: Submission
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      required: false

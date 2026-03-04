@@ -1,0 +1,273 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Army Mental Health Evaluation Form
+    pages:
+    - id: 1
+      name: section_soldier_info
+      label: -- Soldier Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: soldier_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: soldier_rank
+      label: Rank
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: service_number
+      label: Service Number or ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: unit
+      label: Unit or Command
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: evaluation_date
+      label: Date of Evaluation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: evaluator_name
+      label: Evaluator Name
+      hint: Clinician or healthcare provider
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_presenting_issues
+      label: -- Presenting Issues --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: reason_for_evaluation
+      label: Reason for mental health evaluation
+      hint: null
+      type: select_one
+      options:
+      - Routine screening
+      - Command referral
+      - Self-referred
+      - Medical evaluation
+      - Crisis intervention
+      - Fitness for duty
+      - Other
+      required: true
+    - id: 10
+      name: primary_concern
+      label: Primary mental health concern
+      hint: null
+      type: select_one
+      options:
+      - PTSD symptoms
+      - Depression
+      - Anxiety disorder
+      - Substance use
+      - Adjustment disorder
+      - Sleep disorder
+      - Relationship conflict
+      - Work stress
+      - Other
+      required: true
+    - id: 11
+      name: symptom_duration
+      label: Duration of symptoms
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 month
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - More than 1 year
+      required: true
+    - id: 12
+      name: section_clinical_assessment
+      label: -- Clinical Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: mood_status
+      label: Current mood status
+      hint: null
+      type: select_one
+      options:
+      - Stable
+      - Slightly depressed
+      - Moderately depressed
+      - Severely depressed
+      - Elevated or manic
+      required: true
+    - id: 14
+      name: anxiety_level
+      label: Anxiety level
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Mild
+      - Moderate
+      - Severe
+      - Severe with panic
+      required: true
+    - id: 15
+      name: sleep_quality
+      label: Sleep quality and patterns
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Slightly disturbed
+      - Moderately disturbed
+      - Severely disturbed
+      - Insomnia
+      required: true
+    - id: 16
+      name: cognitive_function
+      label: Cognitive function and concentration
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Slightly impaired
+      - Moderately impaired
+      - Severely impaired
+      required: true
+    - id: 17
+      name: suicidal_ideation
+      label: Suicidal ideation or thoughts
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Passive ideation
+      - Active ideation
+      - Plan in place
+      - Active intent with plan
+      required: true
+    - id: 18
+      name: section_substance_use
+      label: -- Substance Use Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: alcohol_use
+      label: Alcohol use frequency
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Occasional
+      - Regular
+      - Frequent
+      - Daily
+      required: true
+    - id: 20
+      name: substance_abuse
+      label: Other substance use or abuse
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Occasional use
+      - Regular use
+      - Abuse pattern
+      - Dependency
+      required: true
+    - id: 21
+      name: section_functioning
+      label: -- Functional Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: occupational_functioning
+      label: Current occupational functioning
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Slightly impaired
+      - Moderately impaired
+      - Severely impaired
+      - Unable to function
+      required: true
+    - id: 23
+      name: social_functioning
+      label: Social and interpersonal functioning
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 24
+      name: section_recommendations
+      label: -- Recommendations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: recommended_treatment
+      label: Recommended treatment or intervention
+      hint: null
+      type: select_multiple
+      options:
+      - Individual counseling
+      - Group therapy
+      - Medication management
+      - Hospitalization
+      - Community resources
+      - Career counseling
+      - No treatment needed
+      required: true
+    - id: 26
+      name: fitness_for_duty
+      label: Fitness for duty assessment
+      hint: null
+      type: select_one
+      options:
+      - Fit for duty
+      - Fit with restrictions
+      - Unfit for duty
+      - Pending evaluation
+      required: true

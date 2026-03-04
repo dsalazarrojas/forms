@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: membership_form_with_sofort
+    pages:
+    - id: 1
+      name: first_page
+      label: membership_form_with_sofort
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: Enter your email
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: select_one_option
+      label: membership_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Monthly'', ''value'': ''monthly''}'
+      - '{''label'': ''Yearly'', ''value'': ''yearly''}'
+      - '{''label'': ''Quarterly'', ''value'': ''quarterly''}'
+      required: false
+    - id: 5
+      name: select_multiple_option
+      label: select_multiple_label
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option_1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option_2''}'
+      - '{''label'': ''Option 3'', ''value'': ''option_3''}'
+      - '{''label'': ''Option 4'', ''value'': ''option_4''}'
+      required: false
+    - id: 6
+      name: date
+      label: date
+      hint: MM/DD/YYY
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,376 @@
+inputSchema:
+  type: object
+  properties:
+    title: Variable Frequency Drive Application Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: site_info
+      label: Site Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vfd_details
+      label: Vfd Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_info
+      label: Project Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vfd_size_and_config
+      label: Vfd Size And Config
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: frequency_range
+      label: Frequency Range
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 7
+      name: motor_rating
+      label: Motor Rating
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: motor_rating_unit
+      label: Motor Rating Unit
+      hint: null
+      type: select_one
+      options:
+      - H
+      - L
+      - N
+      - Q
+      required: false
+    - id: 9
+      name: motor_rating_power
+      label: Motor Rating Power
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: vfd_type
+      label: Vfd Type
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 11
+      name: drive_config
+      label: Drive Config
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false
+    - id: 12
+      name: drive_rating
+      label: Drive Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: drive_rating_unit
+      label: Drive Rating Unit
+      hint: null
+      type: select_one
+      options:
+      - H
+      - L
+      - N
+      - Q
+      required: false
+    - id: 14
+      name: drive_config_type
+      label: Drive Config Type
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false
+    - id: 15
+      name: motor_rating
+      label: Motor Rating
+      hint: null
+      type: select_one
+      options:
+      - H
+      - L
+      - N
+      - Q
+      required: false
+    - id: 16
+      name: drive_winding
+      label: Drive Winding
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false
+    - id: 17
+      name: vfd_winding
+      label: Vfd Winding
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false
+    - id: 18
+      name: drive_rating
+      label: Drive Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: drive_size
+      label: Drive Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: motor_size
+      label: Motor Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: motor_winding
+      label: Motor Winding
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false
+    - id: 22
+      name: drive_winding
+      label: Drive Winding
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false
+    - id: 23
+      name: drive_winding_type
+      label: Drive Winding Type
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false
+    - id: 24
+      name: motor_rating_power
+      label: Motor Rating Power
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: motor_size
+      label: Motor Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: drive_rating
+      label: Drive Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: drive_rating_unit
+      label: Drive Rating Unit
+      hint: null
+      type: select_one
+      options:
+      - H
+      - L
+      - N
+      - Q
+      required: false
+    - id: 28
+      name: drive_winding
+      label: Drive Winding
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false
+    - id: 29
+      name: drive_size
+      label: Drive Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 30
+      name: motor_size
+      label: Motor Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 31
+      name: drive_winding_type
+      label: Drive Winding Type
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false
+    - id: 32
+      name: drive_rating
+      label: Drive Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 33
+      name: motor_rating
+      label: Motor Rating
+      hint: null
+      type: select_one
+      options:
+      - H
+      - L
+      - N
+      - Q
+      required: false
+    - id: 34
+      name: motor_winding
+      label: Motor Winding
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false
+    - id: 35
+      name: drive_winding
+      label: Drive Winding
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false
+    - id: 36
+      name: drive_winding_type
+      label: Drive Winding Type
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false
+    - id: 37
+      name: drive_rating
+      label: Drive Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 38
+      name: motor_rating
+      label: Motor Rating
+      hint: null
+      type: select_one
+      options:
+      - H
+      - L
+      - N
+      - Q
+      required: false
+    - id: 39
+      name: drive_size
+      label: Drive Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 40
+      name: motor_size
+      label: Motor Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 41
+      name: drive_winding_type
+      label: Drive Winding Type
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false

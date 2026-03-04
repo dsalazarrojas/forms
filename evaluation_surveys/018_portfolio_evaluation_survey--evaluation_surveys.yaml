@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: portfolio_evaluation_survey
+    pages:
+    - id: 1
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: job_duration
+      label: Job Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: job_performance
+      label: Job Performance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: job_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: job_recommendation
+      label: Job Recommendation
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Highly Recommended''}'
+      - '{''label'': ''Somewhat Recommended''}'
+      - '{''label'': ''Not Recommended''}'
+      required: true
+    - id: 6
+      name: employer_comments
+      label: Employer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: employer_feedback
+      label: Employer Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Highly''}'
+      - '{''label'': ''Somewhat''}'
+      - '{''label'': ''Not''}'
+      required: true
+    - id: 9
+      name: employer_name
+      label: Employer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: job_applicant_name
+      label: Job Applicant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: employer_email
+      label: Employer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: job_applicant_email
+      label: Job Applicant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: job_application_date
+      label: Job Application Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: job_start_date
+      label: Job Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: job_end_date
+      label: Job End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: job_references
+      label: Job References
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: job
+      label: Job Recomm.
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Highly Recommended''}'
+      - '{''label'': ''Somewhat Recommended''}'
+      - '{''label'': ''Not Recommended''}'
+      required: false
+    - id: 18
+      name: job_comments
+      label: Job Comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 19
+      name: employer_comments
+      label: Employer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: rating2
+      label: Rating 2_goals
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: rating3
+      label: Rating 3_goals
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: rating4
+      label: Rating 4_goals
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: employer_feedback_goals
+      label: Employer Feedback_goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: job_application_date_goals
+      label: Job Application Date_goals
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: job_start_date_goals
+      label: Job Start Date_goals
+      hint: null
+      type: date
+      options: []
+      required: false

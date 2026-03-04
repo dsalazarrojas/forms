@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Testing Survey
+    pages:
+    - id: 1
+      name: product_testing_survey_questions
+      label: Survey questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: product_rating
+      label: Product Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: product_description
+      label: Product Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product_image
+      label: Product Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: product_price
+      label: Product Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: product_recommendation
+      label: Recommendation
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Neutral
+      - Disagree
+      required: false
+    - id: 8
+      name: survey_comment
+      label: Survey Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: product_testing_satisfaction
+      label: Product Testing Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false

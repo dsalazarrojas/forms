@@ -1,0 +1,242 @@
+inputSchema:
+  type: object
+  properties:
+    title: Research Evaluation
+    pages:
+    - id: 1
+      name: business_purpose
+      label: business_purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: course_purpose
+      label: course_purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: evaluation_selection
+      label: research_selection
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 3.1, ''name'': ''good'', ''label'': ''Good''}'
+      - '{''id'': 3.2, ''name'': ''poor'', ''label'': ''Poor''}'
+      - '{''id'': 3.3, ''name'': ''average'', ''label'': ''Average''}'
+      required: false
+    - id: 4
+      name: evaluation_topic_understanding
+      label: research_topic_understanding
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 4.1, ''name'': ''clear'', ''label'': ''Clear''}'
+      - '{''id'': 4.2, ''name'': ''confusing'', ''label'': ''Confusing''}'
+      - '{''id'': 4.3, ''name'': ''neutral'', ''label'': ''Neutral''}'
+      - '{''id'': 4.4, ''name'': ''good'', ''label'': ''Good''}'
+      - '{''id'': 4.5, ''name'': ''poor'', ''label'': ''Poor''}'
+      - '{''id'': 4.6, ''name'': ''average'', ''label'': ''Average''}'
+      required: false
+    - id: 5
+      name: evaluation_technology_usage
+      label: technology_usage
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 5.1, ''name'': ''very_satisfied'', ''label'': ''Very Satisfied''}'
+      - '{''id'': 5.2, ''name'': ''somewhat_satisfied'', ''label'': ''Somewhat Satisfied''}'
+      - '{''id'': 5.3, ''name'': ''neither_satisfied'', ''label'': ''Neither Satisfied
+        Nor Dissatisfied''}'
+      - '{''id'': 5.4, ''name'': ''somewhat_dissatisfied'', ''label'': ''Somewhat
+        Dissatisfied''}'
+      - '{''id'': 5.5, ''name'': ''very_dissatisfied'', ''label'': ''Very Dissatisfied''}'
+      required: false
+    - id: 6
+      name: evaluation_media_usage
+      label: media_usage
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 6.1, ''name'': ''very_satisfied'', ''label'': ''Very Satisfied''}'
+      - '{''id'': 6.2, ''name'': ''somewhat_satisfied'', ''label'': ''Somewhat Satisfied''}'
+      - '{''id'': 6.3, ''name'': ''neither_satisfied'', ''label'': ''Neither Satisfied
+        Nor Dissatisfied''}'
+      - '{''id'': 6.4, ''name'': ''somewhat_dissatisfied'', ''label'': ''Somewhat
+        Dissatisfied''}'
+      - '{''id'': 6.5, ''name'': ''very_dissatisfied'', ''label'': ''Very Dissatisfied''}'
+      required: false
+    - id: 7
+      name: evaluation_findings_evidence
+      label: findings_evidence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_grammar
+      label: grammar_rules
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: evaluator_comments
+      label: evaluator_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: form_completion
+      label: form_completion
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 10.1, ''name'': ''completed'', ''label'': ''Completed''}'
+      - '{''id'': 10.2, ''name'': ''incomplete'', ''label'': ''Incomplete''}'
+      - '{''id'': 10.3, ''name'': ''partially_completed'', ''label'': ''Partially
+        Completed''}'
+      required: false
+    - id: 11
+      name: evaluator_experience
+      label: evaluator_experience
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 11.1, ''name'': ''good'', ''label'': ''Good''}'
+      - '{''id'': 11.2, ''name'': ''average'', ''label'': ''Average''}'
+      - '{''id'': 11.3, ''name'': ''poor'', ''label'': ''Poor''}'
+      required: false
+    - id: 12
+      name: form_relevant
+      label: form_relevant
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 12.1, ''name'': ''very_satisfied'', ''label'': ''Very Satisfied''}'
+      - '{''id'': 12.2, ''name'': ''somewhat_satisfied'', ''label'': ''Somewhat Satisfied''}'
+      - '{''id'': 12.3, ''name'': ''neither_satisfied'', ''label'': ''Neither Satisfied
+        Nor Dissatisfied''}'
+      - '{''id'': 12.4, ''name'': ''somewhat_dissatisfied'', ''label'': ''Somewhat
+        Dissatisfied''}'
+      - '{''id'': 12.5, ''name'': ''very_dissatisfied'', ''label'': ''Very Dissatisfied''}'
+      required: false
+    - id: 13
+      name: form_useful
+      label: form_useful
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 13.1, ''name'': ''very_satisfied'', ''label'': ''Very Satisfied''}'
+      - '{''id'': 13.2, ''name'': ''somewhat_satisfied'', ''label'': ''Somewhat Satisfied''}'
+      - '{''id'': 13.3, ''name'': ''neither_satisfied'', ''label'': ''Neither Satisfied
+        Nor Dissatisfied''}'
+      - '{''id'': 13.4, ''name'': ''somewhat_dissatisfied'', ''label'': ''Somewhat
+        Dissatisfied''}'
+      - '{''id'': 13.5, ''name'': ''very_dissatisfied'', ''label'': ''Very Dissatisfied''}'
+      required: false
+    - id: 14
+      name: evaluator_relevant
+      label: evaluator_relevant
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 14.1, ''name'': ''very_satisfied'', ''label'': ''Very Satisfied''}'
+      - '{''id'': 14.2, ''name'': ''somewhat_satisfied'', ''label'': ''Somewhat Satisfied''}'
+      - '{''id'': 14.3, ''name'': ''neither_satisfied'', ''label'': ''Neither Satisfied
+        Nor Dissatisfied''}'
+      - '{''id'': 14.4, ''name'': ''somewhat_dissatisfied'', ''label'': ''Somewhat
+        Dissatisfied''}'
+      - '{''id'': 14.5, ''name'': ''very_dissatisfied'', ''label'': ''Very Dissatisfied''}'
+      required: false
+    - id: 15
+      name: evaluator_useful
+      label: evaluator_useful
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 15.1, ''name'': ''very_satisfied'', ''label'': ''Very Satisfied''}'
+      - '{''id'': 15.2, ''name'': ''somewhat_satisfied'', ''label'': ''Somewhat Satisfied''}'
+      - '{''id'': 15.3, ''name'': ''neither_satisfied'', ''label'': ''Neither Satisfied
+        Nor Dissatisfied''}'
+      - '{''id'': 15.4, ''name'': ''somewhat_dissatisfied'', ''label'': ''Somewhat
+        Dissatisfied''}'
+      - '{''id'': 15.5, ''name'': ''very_dissatisfied'', ''label'': ''Very Dissatisfied''}'
+      required: false
+    - id: 16
+      name: form_completion_time
+      label: form_completion_time
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 16.1, ''name'': ''less_than_30_minutes'', ''label'': ''Less than
+        30 minutes''}'
+      - '{''id'': 16.2, ''name'': ''more_than_30_minutes'', ''label'': ''More than
+        30 minutes''}'
+      required: false
+    - id: 17
+      name: form_completion_comments
+      label: form_completion_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: form_total_points
+      label: form_total_points
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: form_total
+      label: form_total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: form_score
+      label: form_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: form_average_score
+      label: form_average_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: form_completion_rate
+      label: form_completion_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: evaluator_comments_2
+      label: evaluator_comments_2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: form_satisfaction_score
+      label: form_satisfaction_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: form_satisfaction_rate
+      label: form_satisfaction_rate
+      hint: null
+      type: number
+      options: []
+      required: false

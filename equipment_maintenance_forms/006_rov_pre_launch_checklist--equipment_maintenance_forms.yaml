@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: ROV Pre Launch Checklist
+    pages:
+    - id: 1
+      name: deployment_preparations
+      label: Deployment Preparations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_status
+      label: Equipment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 3
+      name: crew_training
+      label: Crew Training
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: emergency_procedure
+      label: Emergency Procedure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: weather_conditions
+      label: Weather Conditions
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: navigation_planning
+      label: Navigation Planning
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: communication_planning
+      label: Communication Planning
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: safety_equipment
+      label: Safety Equipment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: emergency_response
+      label: Emergency Response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: review_and_approval
+      label: Review and Approval
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

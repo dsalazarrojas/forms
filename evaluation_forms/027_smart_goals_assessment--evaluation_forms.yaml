@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: SMART Goals Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: goal_definition
+      label: Goal Definition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: smart_criteria_1
+      label: Specific
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Not applicable''}'
+      required: false
+    - id: 4
+      name: smart_criteria_2
+      label: Measurable
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Not applicable''}'
+      required: false
+    - id: 5
+      name: smart_criteria_3
+      label: Achievable
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Not applicable''}'
+      required: false
+    - id: 6
+      name: smart_criteria_4
+      label: Relevant
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Not applicable''}'
+      required: false
+    - id: 7
+      name: smart_criteria_5
+      label: Time-bound
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Not applicable''}'
+      required: false
+    - id: 8
+      name: goal_ownership
+      label: Goal Ownership
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: goal_priority
+      label: Goal Priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: target_completion_time
+      label: Target Completion Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: review_frequency
+      label: Review Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: goal_completion_status
+      label: Goal Completion Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''In Progress''}'
+      - '{''id'': 2, ''label'': ''Completed''}'
+      - '{''id'': 3, ''label'': ''Not Started''}'
+      required: false
+    - id: 14
+      name: revision_needed
+      label: Revision Needed
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,248 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Beverage Knowledge Assessment
+    pages:
+      - id: 1
+        name: section_header_participant
+        label: -- Participant Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: participant_name
+        label: Employee Name
+        hint: Full name of the person being assessed
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: employee_id
+        label: Employee ID
+        hint: Company employee number if applicable
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: department
+        label: Department or Position
+        hint: Where does this employee work?
+        type: select_one
+        options:
+          - Bar staff
+          - Server
+          - Bartender
+          - Restaurant manager
+          - Sommelier
+          - Hospitality manager
+          - Other
+        required: true
+      - id: 5
+        name: experience_level
+        label: Years of Beverage Service Experience
+        hint: null
+        type: select_one
+        options:
+          - Less than 6 months
+          - 6 months - 1 year
+          - 1-3 years
+          - 3-5 years
+          - 5-10 years
+          - Over 10 years
+        required: true
+      - id: 6
+        name: assessment_date
+        label: Assessment Date
+        hint: When is this assessment being conducted?
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: section_header_wine
+        label: -- Wine Knowledge --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: wine_regions
+        label: Identify Major Wine Regions
+        hint: Name three major wine-producing regions
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: grape_types
+        label: Name Five Red Wine Grape Varieties
+        hint: List common red grape varieties
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: wine_colors
+        label: What Are Wine Color Classifications
+        hint: Describe the color spectrum of wines
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: wine_pairing
+        label: Describe Wine and Food Pairing Principles
+        hint: How do you match wine with food?
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: section_header_spirits
+        label: -- Spirits & Liquor Knowledge --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: spirit_classifications
+        label: Define the Six Major Spirit Categories
+        hint: Name and describe each category
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: whiskey_types
+        label: Name Three Types of Whiskey
+        hint: Distinguish between whiskey varieties
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: tequila_classification
+        label: What is the Difference Between Tequila and Mezcal
+        hint: Explain the distinction
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: section_header_cocktails
+        label: -- Cocktail Knowledge --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: classic_cocktails
+        label: Name and Describe Five Classic Cocktails
+        hint: Include ingredients and preparation
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: cocktail_techniques
+        label: Explain Common Bartending Techniques
+        hint: Shake, stir, muddle, strain, etc.
+        type: text
+        options: []
+        required: true
+      - id: 19
+        name: section_header_beer
+        label: -- Beer Knowledge --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: beer_styles
+        label: List Major Beer Styles and Characteristics
+        hint: Describe different beer types
+        type: text
+        options: []
+        required: true
+      - id: 21
+        name: beer_brewing
+        label: Briefly Explain the Beer Brewing Process
+        hint: Key steps and ingredients
+        type: text
+        options: []
+        required: true
+      - id: 22
+        name: section_header_service
+        label: -- Service & Professional Knowledge --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: proper_serving
+        label: What is the Proper Serving Temperature for Different Beverages
+        hint: Specify temperatures for wine, beer, spirits
+        type: text
+        options: []
+        required: true
+      - id: 24
+        name: allergen_awareness
+        label: How Do You Handle Allergen Information for Beverages
+        hint: Describe protocols and procedures
+        type: text
+        options: []
+        required: true
+      - id: 25
+        name: responsible_service
+        label: Describe Responsible Beverage Service Practices
+        hint: Include checking ID and refusing service
+        type: text
+        options: []
+        required: true
+      - id: 26
+        name: section_header_practical
+        label: -- Practical Demonstration --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 27
+        name: cocktail_demo
+        label: Can You Prepare a Standard Cocktail on Request
+        hint: null
+        type: select_one
+        options:
+          - Yes, confidently
+          - Yes, with minor guidance
+          - Somewhat, needs practice
+          - No, requires training
+        required: true
+      - id: 28
+        name: overall_assessment
+        label: Assessor Overall Rating
+        hint: Rate the participant's knowledge
+        type: select_one
+        options:
+          - Excellent - exceeds requirements
+          - Good - meets requirements
+          - Satisfactory - adequate knowledge
+          - Needs improvement - requires training
+          - Unsatisfactory - significant gaps
+        required: true
+      - id: 29
+        name: assessor_name
+        label: Assessor Name
+        hint: Name of person conducting assessment
+        type: text
+        options: []
+        required: true
+      - id: 30
+        name: training_recommendations
+        label: Recommended Training or Development Areas
+        hint: Specific areas for improvement
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Manager Evaluation Form
+    pages:
+    - id: 1
+      name: project_manager_evaluation_form
+      label: Evaluation Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_manager_evaluation_form_evaluation_comments
+      label: Evaluation Comments
+      hint: Please provide feedback on the project manager's performance
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_manager_evaluation_form_suggestions
+      label: Suggest Improvements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_manager_evaluation_form_rating
+      label: Overall Rating
+      hint: Rate the project manager (1-10)
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: project_manager_evaluation_form_rating_reasons
+      label: Reasons for Rating
+      hint: Provide a brief explanation of the rating
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: project_manager_evaluation_form_would_recommend
+      label: Would Recommend
+      hint: Would you recommend this project manager to others?
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 7
+      name: project_manager_evaluation_form_would_recommend_reasons
+      label: Reasons for Recommendation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_manager_evaluation_form_lessons_learned
+      label: Lessons Learned
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_manager_evaluation_form_next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: project_manager_evaluation_form_additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

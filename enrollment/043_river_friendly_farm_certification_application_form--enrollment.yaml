@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: River Friendly Farm Certification Application Form
+    pages:
+    - id: 1
+      name: general_info
+      label: general_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: land_area
+      label: land_area
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: farm_type
+      label: farm_type
+      hint: null
+      type: select_one
+      options:
+      - Organic
+      - Conventional
+      - Specialty
+      - Other
+      required: false
+    - id: 7
+      name: crop_list
+      label: crop_list
+      hint: null
+      type: select_multiple
+      options:
+      - Wheat
+      - Barley
+      - Oats
+      - Rye
+      - Corn
+      - Soybean
+      - Sorghum
+      - Cotton
+      required: false
+    - id: 8
+      name: irrigation_system
+      label: irrigation_system
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Hybrid
+      required: false
+    - id: 9
+      name: well_depth
+      label: well_depth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: water_source
+      label: water_source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: certification_status
+      label: certification_status
+      hint: null
+      type: select_one
+      options:
+      - Certified
+      - Not Certified
+      required: false
+    - id: 12
+      name: certification_date
+      label: certification_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: expiration_date
+      label: expiration_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: submit_note
+      label: submit_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: submit_button
+      label: submit_button
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submit_email
+      label: submit_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: submit_phone
+      label: submit_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: review_note
+      label: review_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: review_date
+      label: review_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: review_comment
+      label: review_comment
+      hint: null
+      type: text
+      options: []
+      required: false

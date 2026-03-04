@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Complaint Form
+    pages:
+    - id: 1
+      name: employee_complaint_form
+      label: employee_complaint_form_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: employee_name_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: manager_id
+      label: manager_id_label
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_submitted
+      label: date_submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_submitted
+      label: time_submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: employee_against
+      label: employee_against
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_complaint
+      label: reason_for_complaint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: actions_taken
+      label: actions_taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: resolution_status
+      label: resolution_status
+      hint: null
+      type: text
+      options: []
+      required: false

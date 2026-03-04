@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: geotechnical_knowledge_assessment
+    pages:
+    - id: 1
+      name: geotechnical_experience
+      label: geotechnical_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: education_background
+      label: education_background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: years_of_experience
+      label: years_of_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: geotechnical_skills
+      label: geotechnical_skills
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''geotechnical_skill1'', ''label'': ''geotechnical_skill1''}'
+      - '{''value'': ''geotechnical_skill2'', ''label'': ''geotechnical_skill2''}'
+      - '{''value'': ''geotechnical_skill3'', ''label'': ''geotechnical_skill3''}'
+      required: false
+    - id: 5
+      name: technical_skills
+      label: technical_skills
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''technical_skill1'', ''label'': ''technical_skill1''}'
+      - '{''value'': ''technical_skill2'', ''label'': ''technical_skill2''}'
+      - '{''value'': ''technical_skill3'', ''label'': ''technical_skill3''}'
+      required: false
+    - id: 6
+      name: geotechnical_certifications
+      label: geotechnical_certifications
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''geotechnical_cert1'', ''label'': ''geotechnical_cert1''}'
+      - '{''value'': ''geotechnical_cert2'', ''label'': ''geotechnical_cert2''}'
+      - '{''value'': ''geotechnical_cert3'', ''label'': ''geotechnical_cert3''}'
+      required: false
+    - id: 7
+      name: geotechnical_tools
+      label: geotechnical_tools
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''geotechnical_tool1'', ''label'': ''geotechnical_tool1''}'
+      - '{''value'': ''geotechnical_tool2'', ''label'': ''geotechnical_tool2''}'
+      - '{''value'': ''geotechnical_tool3'', ''label'': ''geotechnical_tool3''}'
+      required: false
+    - id: 8
+      name: geotechnical_languages
+      label: geotechnical_languages
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''geotechnical_language1'', ''label'': ''geotechnical_language1''}'
+      - '{''value'': ''geotechnical_language2'', ''label'': ''geotechnical_language2''}'
+      - '{''value'': ''geotechnical_language3'', ''label'': ''geotechnical_language3''}'
+      required: false
+    - id: 9
+      name: geotechnical_certifications_2
+      label: geotechnical_certifications_2
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''geotechnical_cert4'', ''label'': ''geotechnical_cert4''}'
+      - '{''value'': ''geotechnical_cert5'', ''label'': ''geotechnical_cert5''}'
+      - '{''value'': ''geotechnical_cert6'', ''label'': ''geotechnical_cert6''}'
+      required: false
+    - id: 10
+      name: geotechnical_certifications_3
+      label: geotechnical_certifications_3
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''geotechnical_cert7'', ''label'': ''geotechnical_cert7''}'
+      - '{''value'': ''geotechnical_cert8'', ''label'': ''geotechnical_cert8''}'
+      - '{''value'': ''geotechnical_cert9'', ''label'': ''geotechnical_cert9''}'
+      required: false
+    - id: 11
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time_of_birth
+      label: time_of_birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: geotechnical_degree
+      label: geotechnical_degree
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''bachelor'', ''label'': ''bachelor''}'
+      - '{''value'': ''master'', ''label'': ''master''}'
+      - '{''value'': ''doctorate'', ''label'': ''doctorate''}'
+      required: false
+    - id: 17
+      name: geotechnical_institution
+      label: geotechnical_institution
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''institution1'', ''label'': ''institution1''}'
+      - '{''value'': ''institution2'', ''label'': ''institution2''}'
+      - '{''value'': ''institution3'', ''label'': ''institution3''}'
+      required: false
+    - id: 18
+      name: geotechnical_area_of_interest
+      label: geotechnical_area_of_interest
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''area1'', ''label'': ''area1''}'
+      - '{''value'': ''area2'', ''label'': ''area2''}'
+      - '{''value'': ''area3'', ''label'': ''area3''}'
+      required: false
+    - id: 19
+      name: geotechnical_achievement
+      label: geotechnical_achievement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''achievement1'', ''label'': ''achievement1''}'
+      - '{''value'': ''achievement2'', ''label'': ''achievement2''}'
+      - '{''value'': ''achievement3'', ''label'': ''achievement3''}'
+      required: false
+    - id: 20
+      name: geotechnical_contribution
+      label: geotechnical_contribution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: geotechnical_recommendation
+      label: geotechnical_recommendation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''geotechnical_rec1'', ''label'': ''geotechnical_rec1''}'
+      - '{''value'': ''geotechnical_rec2'', ''label'': ''geotechnical_rec2''}'
+      - '{''value'': ''geotechnical_rec3'', ''label'': ''geotechnical_rec3''}'
+      required: false
+    - id: 22
+      name: geotechnical_reference
+      label: geotechnical_reference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: geotechnical_additional_information
+      label: geotechnical_additional_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: geotechnical_language_proficiency
+      label: geotechnical_language_proficiency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: geotechnical_additional_comments
+      label: geotechnical_additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

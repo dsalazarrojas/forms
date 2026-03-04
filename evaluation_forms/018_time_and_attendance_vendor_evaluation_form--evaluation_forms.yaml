@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Time And Attendance Vendor Evaluation Form
+    pages:
+    - id: 1
+      name: main_page
+      label: main-page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor_name
+      label: vendor-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rating
+      label: rating
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': 1}'
+      - '{''value'': 2, ''label'': 2}'
+      - '{''value'': 3, ''label'': 3}'
+      - '{''value'': 4, ''label'': 4}'
+      - '{''value'': 5, ''label'': 5}'
+      required: false
+    - id: 4
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: time_of_day
+      label: time-of-day
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_week
+      label: time-of-week
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: time_of_month
+      label: time-of-month
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_period
+      label: evaluation-period
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: evaluation_period_start
+      label: evaluation-period-start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: evaluation_period_end
+      label: evaluation-period-end
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: vendor_relationship
+      label: vendor-relationship
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Primary''}'
+      - '{''value'': 2, ''label'': ''Secondary''}'
+      - '{''value'': 3, ''label'': ''Tertiary''}'
+      - '{''value'': 4, ''label'': ''None''}'
+      required: false
+    - id: 12
+      name: primary_contact
+      label: primary-contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: vendor_email
+      label: vendor-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: vendor_phone
+      label: vendor-phone
+      hint: null
+      type: text
+      options: []
+      required: false

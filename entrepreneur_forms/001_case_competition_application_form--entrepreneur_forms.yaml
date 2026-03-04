@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Case Competition Application Form
+    pages:
+    - id: 1
+      name: applicant_full_name
+      label: Applicant full name
+      hint: Enter first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email address
+      hint: Provide a contact email for updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone number
+      hint: Include country code if outside local area
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: university_or_company
+      label: University or company
+      hint: Name of your institution or employer
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: program_of_study_or_department
+      label: Program of study or department
+      hint: Major, faculty, or department name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_members
+      label: Team members, if applicable
+      hint: List names separated by commas or leave blank if solo
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_summary
+      label: Project summary - 250 words max
+      hint: Brief description of your proposed case approach
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: relevant_experience
+      label: Relevant experience
+      hint: Prior competitions, internships, or projects
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: availability_dates
+      label: Availability dates
+      hint: Dates you are available for the competition
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: consent_signature
+      label: Electronic consent and signature
+      hint: By entering name you confirm participation terms
+      type: text
+      options: []
+      required: true

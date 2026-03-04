@@ -1,0 +1,220 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Esthetician Room Cleaning Check Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Room Cleaning Inspection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: inspection_time
+      label: Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: room_number
+      label: Room Number or Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: staff_name
+      label: Staff Member Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: cleaning_section
+      label: -- Cleaning Checklist --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: surfaces_cleaned
+      label: All surfaces cleaned and sanitized
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 9
+      name: equipment_sanitized
+      label: Equipment sanitized between clients
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - N/A
+      required: true
+    - id: 10
+      name: floors_cleaned
+      label: Floors cleaned and disinfected
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 11
+      name: linens_changed
+      label: Linens and towels changed
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 12
+      name: trash_disposed
+      label: Trash and waste properly disposed
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 13
+      name: air_quality
+      label: Room ventilation adequate
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 14
+      name: supplies_section
+      label: -- Supplies Check --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: cleaning_supplies
+      label: Cleaning supplies well-stocked
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 16
+      name: ppe_supplies
+      label: PPE supplies available
+      hint: Gloves, masks, gowns
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 17
+      name: disinfectant_supplies
+      label: Disinfectant supplies adequate
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 18
+      name: hand_hygiene_section
+      label: -- Hand Hygiene --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: hand_sanitizer
+      label: Hand sanitizer available and accessible
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 20
+      name: handwashing_station
+      label: Handwashing station functional
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - N/A
+      required: true
+    - id: 21
+      name: issues_section
+      label: -- Issues Found --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: issues_found
+      label: Any cleaning issues found
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 23
+      name: issue_description
+      label: Describe issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: corrective_action
+      label: Corrective action taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: approval
+      label: Room Approved for Client Use
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Approved with Conditions
+      - Not Approved
+      required: true

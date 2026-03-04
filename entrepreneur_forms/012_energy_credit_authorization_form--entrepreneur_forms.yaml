@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Energy Credit Authorization Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: energy_account_details
+      label: Energy Account Details
+      hint: null
+      type: select_multiple
+      options:
+      - Electricity
+      - Gas
+      - Both
+      required: true
+    - id: 3
+      name: account_id
+      label: Account ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: account_address
+      label: Account Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: account_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: account_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: account_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: authorized_user
+      label: Authorized User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: authorized_date
+      label: Authorized Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: authorized_time
+      label: Authorized Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: authorized_reason
+      label: Authorized Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: authorized_by
+      label: Authorized By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: authorized_signature
+      label: Authorized Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: energy_credit_details
+      label: Energy Credit Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: energy_credit_application
+      label: Energy Credit Application
+      hint: null
+      type: select_one
+      options:
+      - Credit
+      - Rebate
+      - Incentive
+      required: true
+    - id: 17
+      name: energy_credit_amount
+      label: Energy Credit Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: energy_credit_start_date
+      label: Energy Credit Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: energy_credit_end_date
+      label: Energy Credit End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: energy_credit_frequency
+      label: Energy Credit Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: energy_credit_notes
+      label: Energy Credit Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_submitted
+      label: Form Submitted
+      hint: null
+      type: text
+      options: []
+      required: false

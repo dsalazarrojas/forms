@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Form With HeaderFooter Customized
+    pages:
+    - id: 1
+      name: section_visitor_info
+      label: -- Visitor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: visitor_full_name
+      label: Your Full Name
+      hint: Enter your name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: visitor_email_address
+      label: Your Email Address
+      hint: Primary email for contact
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: visitor_phone_number
+      label: Your Phone Number
+      hint: Mobile or home phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_entertainment_interests
+      label: -- Entertainment Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: preferred_entertainment_type
+      label: Preferred Entertainment Type
+      hint: Select one or more
+      type: select_multiple
+      options:
+      - Movies/Cinema
+      - Live Concerts
+      - Theater/Broadway
+      - Theme Parks
+      - Gaming Events
+      - Other
+      required: true
+    - id: 7
+      name: favorite_genre
+      label: Favorite Genre
+      hint: e.g., Action, Comedy, Drama
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_discount_details
+      label: -- Discount Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: inquiry_subject
+      label: Subject
+      hint: What is your message about?
+      type: select_one
+      options:
+      - Discount Code Request
+      - Promotional Inquiry
+      - Group Booking Inquiry
+      - Feedback/Love
+      - Other
+      required: true
+    - id: 10
+      name: detailed_message
+      label: Your Detailed Message
+      hint: Please provide more information
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we reach back out?
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      required: true
+    - id: 12
+      name: submission_date
+      label: Date of Submission
+      hint: Today's date
+      type: date
+      options: []
+      required: true

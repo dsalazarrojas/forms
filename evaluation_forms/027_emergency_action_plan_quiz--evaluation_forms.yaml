@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Action Plan Quiz
+    pages:
+    - id: 1
+      name: emergency_action_plan_quiz_first_responder
+      label: First Responder
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: emergency_action_plan_quiz_fire
+      label: Fire
+      hint: null
+      type: select_one
+      options:
+      - fire alarm
+      - fire drill
+      - fire extinguisher
+      - fire sprinkler system
+      required: false
+    - id: 3
+      name: emergency_action_plan_quiz_alarm
+      label: Alarm
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: emergency_action_plan_quiz_alarmsound
+      label: Alarm Sound
+      hint: null
+      type: select_multiple
+      options:
+      - Strobe
+      - Horn
+      - Bell
+      - None
+      - Siren
+      required: false
+    - id: 5
+      name: emergency_action_plan_quiz_alarmsource
+      label: Alarm Source
+      hint: null
+      type: select_multiple
+      options:
+      - Fire alarm
+      - Smoke detector
+      - Horn
+      - Strobe
+      - None
+      required: false
+    - id: 6
+      name: emergency_action_plan_quiz_alarmprocedure
+      label: Alarm Procedure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_action_plan_quiz_emergencycontact
+      label: Emergency Contact
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Fire Department
+      - '911'
+      - Other
+      required: false
+    - id: 8
+      name: emergency_action_plan_quiz_emergencycontact_other
+      label: Other Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_action_plan_quiz_emergencycontact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_action_plan_quiz_fireevacuation
+      label: Fire Evacuation
+      hint: null
+      type: select_multiple
+      options:
+      - Stairwell
+      - Elevator
+      - Hallway
+      - Other
+      required: false
+    - id: 11
+      name: emergency_action_plan_quiz_fireevacuation_other
+      label: Other Fire Evacuation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_action_plan_quiz_firefighting
+      label: Fire Fighting
+      hint: null
+      type: select_multiple
+      options:
+      - Fire extinguisher
+      - Fire blanket
+      - Fire hydrant
+      - Other
+      required: false
+    - id: 13
+      name: emergency_action_plan_quiz_firefighting_other
+      label: Other Fire Fighting
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_action_plan_quiz_assembling
+      label: Assembling
+      hint: null
+      type: select_multiple
+      options:
+      - At the assembly point
+      - Near the assembly point
+      - In the hallway
+      - Other
+      required: false
+    - id: 15
+      name: emergency_action_plan_quiz_assembling_other
+      label: Other Assembling
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_action_plan_quiz_accountable
+      label: Accountable
+      hint: null
+      type: select_multiple
+      options:
+      - Manager
+      - Assistant Manager
+      - Other
+      required: false
+    - id: 17
+      name: emergency_action_plan_quiz_accountable_other
+      label: Other Accountable
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_action_plan_quiz_accountable_name
+      label: Accountable Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_action_plan_quiz_alarmcheck
+      label: Alarm Check
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: emergency_action_plan_quiz_alarmcheck_other
+      label: Other Alarm Check
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emergency_action_plan_quiz_alarmcheck_frequency
+      label: Alarm Check Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: emergency_action_plan_quiz_alarmandexit
+      label: Alarm and Exit
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 23
+      name: emergency_action_plan_quiz_alarmandexit_other
+      label: Other Alarm and Exit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_action_plan_quiz_exitroute
+      label: Exit Route
+      hint: null
+      type: select_multiple
+      options:
+      - North
+      - South
+      - East
+      - West
+      - Other
+      required: false
+    - id: 25
+      name: emergency_action_plan_quiz_exitroute_other
+      label: Other Exit Route
+      hint: null
+      type: text
+      options: []
+      required: false

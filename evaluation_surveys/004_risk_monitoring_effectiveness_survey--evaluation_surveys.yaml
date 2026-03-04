@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Risk Monitoring Effectiveness Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_id
+      label: Organization
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: monitoring_method
+      label: Monitoring Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: risk_type
+      label: Risk Type
+      hint: null
+      type: select_one
+      options:
+      - Risk Type 1
+      - Risk Type 2
+      - Risk Type 3
+      required: true
+    - id: 5
+      name: risk_frequency
+      label: Risk Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: risk_impact
+      label: Risk Impact
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 7
+      name: risk_score
+      label: Risk Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: risk_comment
+      label: Risk Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: action_plan
+      label: Action Plan
+      hint: null
+      type: select_multiple
+      options:
+      - Action 1
+      - Action 2
+      - Action 3
+      required: true
+    - id: 10
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 11
+      name: mitigation_action
+      label: Mitigation Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: monitoring_frequency
+      label: Monitoring Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 13
+      name: review_cycle
+      label: Review Cycle
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 14
+      name: risk_owner
+      label: Risk Owner
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: risk_owner_email
+      label: Risk Owner Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: risk_owner_phone
+      label: Risk Owner Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: attachment_uploads
+      label: Attachment Uploads
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: risk_monitoring_effectiveness
+      label: Risk Monitoring Effectiveness
+      hint: null
+      type: select_one
+      options:
+      - Not Effective
+      - Somewhat Effective
+      - Very Effective
+      required: true
+    - id: 22
+      name: risk_monitoring_process
+      label: Risk Monitoring Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: risk_reporting
+      label: Risk Reporting
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: true
+    - id: 24
+      name: risk_review_cycle
+      label: Risk Review Cycle
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: true
+    - id: 25
+      name: risk_rating
+      label: Risk Rating
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true

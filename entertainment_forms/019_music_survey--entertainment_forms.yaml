@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: music_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: music_genre
+      label: Music Genre
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: artists_list
+      label: Artists List
+      hint: null
+      type: select_multiple
+      options:
+      - artist1
+      - artist2
+      - artist3
+      required: false
+    - id: 4
+      name: frequency_of_use
+      label: Frequency Of Use
+      hint: null
+      type: select_one
+      options:
+      - often
+      - occasionally
+      - rarely
+      - never
+      required: false
+    - id: 5
+      name: age_of_user
+      label: Age Of User
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: favorite_band
+      label: Favorite Band
+      hint: null
+      type: select_one
+      options:
+      - band1
+      - band2
+      - band3
+      required: false
+    - id: 7
+      name: favorite_song
+      label: Favorite Song
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: music_format
+      label: Music Format
+      hint: null
+      type: select_one
+      options:
+      - mp3
+      - wav
+      - flac
+      required: false
+    - id: 9
+      name: social_media
+      label: Social Media
+      hint: null
+      type: select_multiple
+      options:
+      - social1
+      - social2
+      - social3
+      required: false
+    - id: 10
+      name: user_location
+      label: User Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: music_streaming
+      label: Music Streaming
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: music_purchase
+      label: Music Purchase
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: music_share
+      label: Music Share
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: music_recommend
+      label: Music Recommend
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: music_survey_time
+      label: Music Survey Time
+      hint: null
+      type: time
+      options: []
+      required: false
