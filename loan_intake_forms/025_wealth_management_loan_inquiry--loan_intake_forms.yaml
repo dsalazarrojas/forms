@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wealth Management Loan Inquiry
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: employment_length
+      label: Employment Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: annual_income
+      label: Annual Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: loan_term
+      label: Loan Term
+      hint: null
+      type: select_one
+      options:
+      - 12 months
+      - 24 months
+      - 36 months
+      - 48 months
+      - 60 months
+      required: false
+    - id: 8
+      name: credit_score
+      label: Credit Score
+      hint: null
+      type: select_multiple
+      options:
+      - 600-699
+      - 700-759
+      - 760-799
+      - 800-809
+      - 810-839
+      - 840-889
+      - 890-939
+      - 940-989
+      - 990-1049
+      - 1050-1099
+      required: false
+    - id: 9
+      name: purpose_loan
+      label: Purpose Loan
+      hint: null
+      type: select_one
+      options:
+      - House Purchase
+      - Vehicle Purchase
+      - Education
+      - Other (please specify)
+      required: false
+    - id: 10
+      name: loan_term_frequency
+      label: Loan Term Frequency
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: employment_type
+      label: Employment Type
+      hint: null
+      type: select_one
+      options:
+      - Employee
+      - Freelance
+      - Owner/Operator
+      - Other (please specify)
+      required: false
+    - id: 12
+      name: loan_purpose_other
+      label: Other Loan Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

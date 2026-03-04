@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Application Form
+    pages:
+    - id: 1
+      name: holiday_applicant_form
+      label: Holiday Applicant Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: holiday_dates
+      label: holiday_dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: holiday_start_date
+      label: holiday_start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: holiday_end_date
+      label: holiday_end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: holiday_type
+      label: holiday_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: holiday_reason
+      label: Holiday Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: holiday_location
+      label: Holiday Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: holiday_duration
+      label: Holiday Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: holiday_status
+      label: Holiday Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 10
+      name: holiday_comments
+      label: Holiday Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: holiday_manager
+      label: Holiday Manager
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: holiday_approver
+      label: Holiday Approver
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: holiday_manager_comments
+      label: Holiday Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: holiday_approver_comments
+      label: Holiday Approver Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: holiday_request_date
+      label: Holiday Request Date
+      hint: null
+      type: time
+      options: []
+      required: false

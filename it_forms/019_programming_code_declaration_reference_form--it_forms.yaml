@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: programming_code_declaration_reference_form
+    pages:
+    - id: 1
+      name: programming_code_declaration
+      label: programming code declaration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: code_repository
+      label: code repository
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: code_reviewers
+      label: code reviewers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: proctors
+      label: proctors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: review_date
+      label: review date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: code_review
+      label: code review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: code_review_comments
+      label: code review comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: code_reviewers_email
+      label: code reviewers email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: code_reviewers_phone
+      label: code reviewers phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: code_reviewers_comment
+      label: code reviewers comment
+      hint: null
+      type: text
+      options: []
+      required: false

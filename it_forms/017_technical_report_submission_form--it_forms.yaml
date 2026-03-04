@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Technical Report Submission Form
+    pages:
+    - id: 1
+      name: technical_report
+      label: Technical Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: author_details
+      label: Author Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Laboratory Access Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: laboratory_facility_name
+      label: Laboratory Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: laboratory_facility_location
+      label: Laboratory Facility Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: purpose_of_visit
+      label: Purpose of Visit
+      hint: Please select the purpose of your visit.
+      type: select_one
+      options:
+      - Lab Work
+      - Other
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: category
+      label: Category
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: true
+    - id: 12
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: approver
+      label: Approver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Platform Access Form
+    pages:
+    - id: 1
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: access_level
+      label: Access Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Basic''}'
+      - '{''id'': 2, ''name'': ''Advanced''}'
+      - '{''id'': 3, ''name'': ''Full''}'
+      required: false
+    - id: 3
+      name: marketing_platform
+      label: Marketing Platform
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

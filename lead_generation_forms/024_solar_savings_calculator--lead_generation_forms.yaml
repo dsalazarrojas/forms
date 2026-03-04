@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Solar Savings Calculator
+    pages:
+    - id: 1
+      name: user_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: system_size
+      label: System Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: solar_cost
+      label: Solar Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: savings_estimate
+      label: Savings Estimate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: system_age
+      label: System Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: solar_panels
+      label: Solar Panels
+      hint: null
+      type: select_one
+      options:
+      - Monocrystalline
+      - Polycrystalline
+      - Thin Film
+      required: false
+    - id: 9
+      name: roof_type
+      label: Roof Type
+      hint: null
+      type: select_multiple
+      options:
+      - Flat Roof
+      - Gable Roof
+      - Hip Roof
+      - Dormer Roof
+      - Gambrel Roof
+      required: false
+    - id: 10
+      name: roof_direction
+      label: Roof Direction
+      hint: null
+      type: select_one
+      options:
+      - South
+      - East
+      - North
+      - West
+      - Other
+      required: false

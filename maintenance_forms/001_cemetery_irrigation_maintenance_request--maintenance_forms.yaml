@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cemetery Irrigation Maintenance Request
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: Date of maintenance request submission
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: requester_name
+      label: Requester Name
+      hint: Full name of person submitting request
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Requester Email
+      hint: Email address for follow-up communication
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_phone
+      label: Requester Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: cemetery_section
+      label: Cemetery Section
+      hint: Section or area of the cemetery
+      type: select_one
+      options:
+      - Section A - North Garden
+      - Section B - East Meadow
+      - Section C - South Chapel
+      - Section D - West Hills
+      - Section E - Memorial Garden
+      - Section F - Heritage Area
+      - Other
+      required: true
+    - id: 6
+      name: specific_location
+      label: Specific Location Details
+      hint: Plot numbers, landmarks, or specific identifiers
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: issue_type
+      label: Issue Type
+      hint: Select the type of irrigation issue
+      type: select_one
+      options:
+      - Broken sprinkler head
+      - Leaking pipe or valve
+      - Clogged irrigation line
+      - Controller malfunction
+      - Low water pressure
+      - Overwatering issue
+      - Timer not working
+      - Other
+      required: true
+    - id: 8
+      name: issue_description
+      label: Issue Description
+      hint: Detailed description of the problem
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: urgency_level
+      label: Urgency Level
+      hint: How quickly does this need attention
+      type: select_one
+      options:
+      - Critical - Immediate attention required
+      - High - Within 24 hours
+      - Medium - Within 3-5 days
+      - Low - Schedule when convenient
+      required: true
+    - id: 10
+      name: visible_damage
+      label: Is There Visible Water Damage
+      hint: Select if water pooling or damage is visible
+      type: select_one
+      options:
+      - Yes - Active leaking
+      - Yes - Water pooling
+      - Yes - Dry/dead vegetation
+      - No visible damage
+      required: true
+    - id: 11
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we contact you about this request
+      type: select_one
+      options:
+      - Email
+      - Phone call
+      - Text message
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: photo_upload
+      label: Photo Upload
+      hint: Upload photos of the issue if available
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: access_instructions
+      label: Access Instructions
+      hint: Special instructions for maintenance crew access
+      type: text
+      options: []
+      required: false

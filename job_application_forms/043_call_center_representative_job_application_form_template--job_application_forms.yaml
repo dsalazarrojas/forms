@@ -1,0 +1,241 @@
+inputSchema:
+  type: object
+  properties:
+    title: Call Center Representative Job Application Form Template
+    pages:
+    - id: 1
+      name: personal_info_header
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Current Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: position_header
+      label: -- Position Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: position_applied
+      label: Position Applied For
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: employment_type
+      label: Employment Type Preferred
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Contract
+      - Flexible
+      required: true
+    - id: 14
+      name: availability_start
+      label: When Can You Start?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: shift_preference
+      label: Shift Preference
+      hint: null
+      type: select_one
+      options:
+      - Day shift
+      - Evening shift
+      - Night shift
+      - Flexible
+      required: true
+    - id: 16
+      name: experience_header
+      label: -- Work Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: call_center_experience
+      label: Call Center Experience
+      hint: null
+      type: select_one
+      options:
+      - No experience
+      - Less than 1 year
+      - 1-2 years
+      - 2-5 years
+      - More than 5 years
+      required: true
+    - id: 18
+      name: customer_service_experience
+      label: Customer Service Experience
+      hint: null
+      type: select_one
+      options:
+      - No experience
+      - Less than 1 year
+      - 1-2 years
+      - 2-5 years
+      - More than 5 years
+      required: true
+    - id: 19
+      name: previous_employment
+      label: Describe Your Most Recent Employment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: skills_header
+      label: -- Skills and Qualifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: key_skills
+      label: Key Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Customer communication
+      - Problem solving
+      - Computer proficiency
+      - Multitasking
+      - Attention to detail
+      - Time management
+      - Sales skills
+      required: true
+    - id: 22
+      name: languages
+      label: Languages Spoken
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - Mandarin
+      - Other
+      required: false
+    - id: 23
+      name: education_header
+      label: -- Education --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: highest_education
+      label: Highest Education Level
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - Associate Degree
+      - Bachelor Degree
+      - Master Degree
+      - Other
+      required: true
+    - id: 25
+      name: availability_header
+      label: -- Availability and Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: background_check
+      label: Can You Pass a Background Check?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 27
+      name: transportation
+      label: Do You Have Reliable Transportation?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 28
+      name: motivation
+      label: Why Do You Want to Work as a Call Center Representative?
+      hint: null
+      type: text
+      options: []
+      required: true

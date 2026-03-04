@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pharmacy Staff Leave Month Selection
+    pages:
+    - id: 1
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: leave_request
+      label: Leave Request
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''leave_month''}'
+      - '{''value'': ''leave_type''}'
+      required: false
+    - id: 3
+      name: leave_month
+      label: Leave Month
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''January''}'
+      - '{''value'': ''February''}'
+      - '{''value'': ''March''}'
+      - '{''value'': ''April''}'
+      - '{''value'': ''May''}'
+      - '{''value'': ''June''}'
+      - '{''value'': ''July''}'
+      - '{''value'': ''August''}'
+      - '{''value'': ''September''}'
+      - '{''value'': ''October''}'
+      - '{''value'': ''November''}'
+      - '{''value'': ''December''}'
+      required: false
+    - id: 4
+      name: leave_type
+      label: Leave Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Vacation''}'
+      - '{''value'': ''Sick''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: leave_duration
+      label: Leave Duration
+      hint: null
+      type: number
+      options: []
+      required: false

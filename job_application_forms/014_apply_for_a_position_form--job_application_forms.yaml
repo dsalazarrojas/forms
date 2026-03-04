@@ -1,0 +1,271 @@
+inputSchema:
+  type: object
+  properties:
+    title: Apply For A Position Form
+    pages:
+    - id: 1
+      name: application_date
+      label: Application Date
+      hint: Date of application submission
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: Primary email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: Full mailing address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: Zip Code
+      hint: Postal or zip code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: position_title
+      label: Position Title
+      hint: Specific position you are applying for
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: department
+      label: Department
+      hint: Department of interest
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: employment_type
+      label: Employment Type
+      hint: Type of employment sought
+      type: select_one
+      options:
+      - Full-Time
+      - Part-Time
+      - Contract
+      - Temporary
+      - Internship
+      - Freelance
+      required: true
+    - id: 13
+      name: available_start_date
+      label: Available Start Date
+      hint: When can you start working
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: desired_salary
+      label: Desired Salary
+      hint: Expected salary or hourly rate
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: education_level
+      label: Education Level
+      hint: Highest level of education
+      type: select_one
+      options:
+      - High School
+      - Associate Degree
+      - Bachelor's Degree
+      - Master's Degree
+      - Doctorate
+      - Other
+      required: true
+    - id: 16
+      name: school_name
+      label: School Name
+      hint: Name of school or university
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: major
+      label: Major
+      hint: Field of study or major
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: graduation_year
+      label: Graduation Year
+      hint: Year of graduation
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: years_of_experience
+      label: Years of Experience
+      hint: Total years of relevant experience
+      type: select_one
+      options:
+      - No Experience
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - More than 10 years
+      required: true
+    - id: 20
+      name: current_employer
+      label: Current Employer
+      hint: Current or most recent employer
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: current_position
+      label: Current Position
+      hint: Current or most recent job title
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: key_skills
+      label: Key Skills
+      hint: Select your key skills
+      type: select_multiple
+      options:
+      - Communication
+      - Leadership
+      - Problem Solving
+      - Teamwork
+      - Time Management
+      - Technical Skills
+      - Customer Service
+      - Project Management
+      required: true
+    - id: 23
+      name: why_interested
+      label: Why Interested
+      hint: Why are you interested in this position
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: strengths
+      label: Strengths
+      hint: What are your greatest strengths
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: weaknesses
+      label: Weaknesses
+      hint: Areas you are working to improve
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: work_authorization
+      label: Work Authorization
+      hint: Are you authorized to work in this country
+      type: select_one
+      options:
+      - true
+      - false
+      - Will Require Sponsorship
+      required: true
+    - id: 27
+      name: background_check
+      label: Background Check
+      hint: Willing to undergo background check
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 28
+      name: references_available
+      label: References Available
+      hint: Can you provide professional references
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 29
+      name: how_heard
+      label: How Heard
+      hint: How did you hear about this position
+      type: select_one
+      options:
+      - Company Website
+      - Job Board
+      - Social Media
+      - Employee Referral
+      - Career Fair
+      - Newspaper
+      - Other
+      required: false
+    - id: 30
+      name: referral_name
+      label: Referral Name
+      hint: If referred by employee - their name
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information to share
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: certify_accuracy
+      label: Certify Accuracy
+      hint: I certify all information is accurate
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

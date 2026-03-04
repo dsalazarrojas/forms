@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: weekly_audio_visual_checklist
+    pages:
+    - id: 1
+      name: check_rooms
+      label: Check Rooms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: issue_tracker
+      label: Issue Tracker
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: rooms_status
+      label: Rooms Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sign_offs
+      label: Sign Offs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

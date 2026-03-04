@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational App Testing Request Form
+    pages:
+    - id: 1
+      name: tester_application
+      label: Tester Application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: testing_goals
+      label: Testing Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_qualification
+      label: Participant Qualification
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: testing_pilot
+      label: Testing Pilot
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: testing_duration
+      label: Testing Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: testing_start_date
+      label: Testing Start Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: testing_end_date
+      label: Testing End Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: testing_frequency
+      label: Testing Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 9
+      name: tester_contact_info
+      label: Tester Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: testing_goals_other
+      label: Other Testing Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: testing_pilot_comment
+      label: Testing Pilot Comment
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cleaning JOB APPLICATION
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact email
+      hint: Best email for follow up
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Current address
+      hint: City and state or region
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: position_applied
+      label: Position applied for
+      hint: e.g., Residential cleaner, Commercial cleaner
+      type: select_one
+      options:
+      - Residential cleaner
+      - Commercial cleaner
+      - Window cleaner
+      - Floor technician
+      required: true
+    - id: 6
+      name: available_start_date
+      label: Available start date
+      hint: When you can begin work
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: available_days
+      label: Preferred working days
+      hint: Select all days you can work
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 8
+      name: prior_experience_years
+      label: Years of cleaning experience
+      hint: Round down to whole years
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: able_to_lift
+      label: Able to lift 25 pounds
+      hint: Physical requirement for the position
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: references
+      label: References
+      hint: Provide names and contact numbers for two references
+      type: text
+      options: []
+      required: false

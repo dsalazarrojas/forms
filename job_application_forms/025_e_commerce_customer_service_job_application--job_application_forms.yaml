@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: e_commerce_customer_service_job_application
+    pages:
+    - id: 1
+      name: job_application
+      label: Job Application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_description
+      label: job_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_status
+      label: job_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: salary_range
+      label: Salary Range
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''0 - 20,000'', ''label'': ''0 - 20,000''}'
+      - '{''id'': 2, ''name'': ''20,001 - 40,000'', ''label'': ''20,001 - 40,000''}'
+      - '{''id'': 3, ''name'': ''40,001 - 60,000'', ''label'': ''40,001 - 60,000''}'
+      - '{''id'': 4, ''name'': ''60,001 - 80,000'', ''label'': ''60,001 - 80,000''}'
+      required: false
+    - id: 6
+      name: education
+      label: education
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''High School'', ''label'': ''High School''}'
+      - '{''id'': 2, ''name'': "Bachelor''s Degree", ''label'': "Bachelor''s Degree"}'
+      - '{''id'': 3, ''name'': "Master''s Degree", ''label'': "Master''s Degree"}'
+      required: false
+    - id: 7
+      name: work_experience
+      label: work_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: availability
+      label: availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: notice_period
+      label: notice_period
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: upload_resume
+      label: Upload Resume
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: upload_cover_letter
+      label: Upload Cover Letter
+      hint: null
+      type: note
+      options: []
+      required: false

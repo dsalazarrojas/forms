@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: legal_consultation_appointment_checklist_form_template
+    pages:
+    - id: 1
+      name: client_meeting
+      label: Client Meeting
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: legal_issues_discussed
+      label: legal_issues_discussed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: case_status
+      label: case status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Active
+      - Closed
+      required: false
+    - id: 5
+      name: client_contact_info
+      label: client contact info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: next_steps
+      label: next steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: legal_advice_given
+      label: legal advice given
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: client_agreement
+      label: client agreement
+      hint: null
+      type: select_multiple
+      options:
+      - Client agrees to attend the meeting
+      - Client agrees to provide information
+      - Client disagrees to attend the meeting
+      - Client disagrees to provide information
+      required: false
+    - id: 9
+      name: meeting_notes
+      label: meeting notes
+      hint: null
+      type: note
+      options: []
+      required: false

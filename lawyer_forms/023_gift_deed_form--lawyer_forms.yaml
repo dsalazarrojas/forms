@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gift Deed Form
+    pages:
+    - id: 1
+      name: donor_details
+      label: donor details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: property_type
+      label: Property type
+      hint: null
+      type: select_one
+      options:
+      - Residential Property
+      - Commercial Property
+      - Vacant Land
+      required: false
+    - id: 3
+      name: property_value
+      label: property value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: gift_date
+      label: gift date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gift_recipient
+      label: gift recipient
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: gift_details
+      label: gift details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: donor_signature
+      label: donor signature
+      hint: null
+      type: select_one
+      options:
+      - Donor Signature
+      - Other
+      required: false

@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: roof_maintenance_checklist_form
+    pages:
+    - id: 1
+      name: roof_condition
+      label: Roof Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: roof_type
+      label: Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: roof_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: roof_damage
+      label: Damage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: roof_leakage
+      label: Leaks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: repair_history
+      label: Repair History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: maintenance_frequency
+      label: Maintenance Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: last_inspection_date
+      label: Last Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: next_inspection_date
+      label: Next Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: roof_materials
+      label: Materials
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: inspection_result
+      label: Inspection Result
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: action_plan
+      label: Action Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_inspector
+      label: Assigned Inspector
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: assigned_inspector_notes
+      label: Assigned Inspector Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: property_manager_notes
+      label: Property Manager Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: inspection_status
+      label: Inspection Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

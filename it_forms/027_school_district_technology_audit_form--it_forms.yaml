@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: School District Technology Audit Form
+    pages:
+    - id: 1
+      name: school_district
+      label: School District
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: audit_type
+      label: Audit Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: technology_area
+      label: Technology Area
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: technology_type
+      label: Technology Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: devices_count
+      label: Devices Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: software_count
+      label: Software Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: budgeted_items_count
+      label: Budgeted Items Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: actual_cost
+      label: Actual Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: budgeted_cost
+      label: Budgeted Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: technology_status
+      label: Technology Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: technology_status_note
+      label: Technology Status Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: last_updated
+      label: Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false

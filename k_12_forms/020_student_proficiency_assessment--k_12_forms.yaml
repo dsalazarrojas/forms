@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Proficiency Assessment
+    pages:
+    - id: 1
+      name: student_proficiency
+      label: Student Proficiency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: subject_area
+      label: Subject Area
+      hint: null
+      type: select_one
+      options:
+      - English Language Arts
+      - Science
+      - Mathematics
+      - Social Studies
+      - Physical Education
+      - Health
+      - Foreign Language
+      - Physical Education
+      required: false
+    - id: 4
+      name: skill_assessed
+      label: Skill Assessed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: rating_scale
+      label: Rating Scale
+      hint: null
+      type: select_one
+      options:
+      - '5'
+      - '4'
+      - '3'
+      - '2'
+      - '1'
+      required: false
+    - id: 6
+      name: overall_performance
+      label: Overall Performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: improvement_plans
+      label: Improvement Plans
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: recorded_by
+      label: Recorded By
+      hint: null
+      type: text
+      options: []
+      required: false

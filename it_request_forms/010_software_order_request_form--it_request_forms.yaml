@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: software_order_request_form
+    pages:
+    - id: 1
+      name: software_order_request_form_page_1
+      label: Software Order Request Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requestor_name
+      label: Requestor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requestor_email
+      label: Requestor Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requestor_phone
+      label: Requestor Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: software_name
+      label: Software Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: software_category
+      label: Software Category
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: software_version
+      label: Software Version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: reason_for_request
+      label: Reason for Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: requestor_department
+      label: Requestor Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: budgeted_cost
+      label: Budgeted Cost
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: actual_cost
+      label: Actual Cost
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - approved
+      - declined
+      required: true
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: departmental_approval
+      label: Departmental Approval
+      hint: null
+      type: select_one
+      options:
+      - it
+      - operations
+      - procurement
+      required: true
+    - id: 18
+      name: technical_approval
+      label: Technical Approval
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - approved
+      - declined
+      required: true
+    - id: 19
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: request_time
+      label: Request Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 21
+      name: form_submitter
+      label: Form Submitter
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - another_option
+      required: true
+    - id: 22
+      name: comments_awaiting_approval
+      label: Comments Awaiting Approval
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: comments_after_approval
+      label: Comments After Approval
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true

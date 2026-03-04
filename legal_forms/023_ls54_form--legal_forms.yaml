@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: LS54 Form
+    pages:
+    - id: 1
+      name: legal_forms
+      label: Legal Forms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: section_195_1
+      label: Section 195.1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: government_agencies
+      label: Government Agencies
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: companies
+      label: Companies
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: help_comply
+      label: Help Comply
+      hint: A LS54 form template is designed to help government agencies and companies
+        comply with Section 195.1 of the New York State Labor Law.
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_ids
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false

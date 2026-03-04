@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Log Management Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - IT
+      - Security
+      - Other
+      required: true
+    - id: 3
+      name: frequency_of_log_management
+      label: Frequency of log management
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 4
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: log_management_savings
+      label: Log Management Savings
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: log_management_cost
+      label: Log Management Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: log_management_pain_point
+      label: Log Management Pain Point
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: comment
+      label: Comment
+      hint: null
+      type: note
+      options: []
+      required: false

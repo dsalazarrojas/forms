@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: cyber_security_quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: security_practices
+      label: Security Practices
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: common_threats
+      label: Common Threats
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: password_security
+      label: Password Security
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: risk_management
+      label: Risk Management
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: incident_reporting
+      label: Incident Reporting
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: security_concept
+      label: Security Concept
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: security_controls
+      label: Security Controls
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: network_security
+      label: Network Security
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: data_security
+      label: Data Security
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: security_training
+      label: Security Training
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: security_equipment
+      label: Security Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

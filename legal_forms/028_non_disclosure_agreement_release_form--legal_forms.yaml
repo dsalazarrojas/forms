@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Non-Disclosure Agreement Release Form
+    pages:
+    - id: 1
+      name: non_disclosure_agreement_release_form
+      label: Non Disclosure Agreement Release Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: release_confidential_information
+      label: Release Confidential Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_release
+      label: Reason For Release
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: non_disclosure_obligation
+      label: Non Disclosure Obligation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: sign_date
+      label: Sign Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: signee_signature
+      label: Signee Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reviewer_signature
+      label: Reviewer Signature
+      hint: null
+      type: text
+      options: []
+      required: false

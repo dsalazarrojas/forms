@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: software_tool_release_it_professional_feedback_form
+    pages:
+    - id: 1
+      name: release_date
+      label: Release Date
+      hint: Release date of the software tool
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: release_version
+      label: Release Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback_on_feature_improvements
+      label: Feedback on Feature Improvements
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Somewhat Good
+      - Neutral
+      - Somewhat Bad
+      - Very Bad
+      required: false
+    - id: 4
+      name: issues_encountered
+      label: Issues Encountered
+      hint: null
+      type: select_multiple
+      options:
+      - Technical Issues
+      - Functional Issues
+      - User Interface Issues
+      - Other
+      required: false
+    - id: 5
+      name: satisfaction_rating
+      label: Satisfaction Rating
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 6
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

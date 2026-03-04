@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Learner Suspension Notification
+    pages:
+    - id: 1
+      name: suspension_periods
+      label: Suspension Periods
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: suspension_start_date
+      label: Suspension Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: suspension_end_date
+      label: Suspension End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_suspension
+      label: Reason for Suspension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: notification_to_parents
+      label: Notification to Parents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: follow_up_steps
+      label: Follow-up Steps
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: follow_up_steps_follow_up_method
+      label: Follow-up Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: follow_up_steps_follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: suspension_resolution
+      label: Suspension Resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: school_phone
+      label: School Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: school_email
+      label: School Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: it_services_fee_schedule_request
+    pages:
+    - id: 1
+      name: form_title
+      label: IT Services Fee Schedule Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: it_provider
+      label: IT Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_name
+      label: Service Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_description
+      label: Service Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_price
+      label: Service Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: service_time
+      label: Preferred Service Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: service_day
+      label: Service Day
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 12
+      name: service_duration
+      label: Service Duration
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

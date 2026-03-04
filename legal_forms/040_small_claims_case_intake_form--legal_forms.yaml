@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Small Claims Case Intake Form
+    pages:
+    - id: 1
+      name: claimant_info
+      label: Claimant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: defendant_info
+      label: Defendant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: case_details
+      label: Case Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: case_type
+      label: Case Type
+      hint: null
+      type: select_one
+      options:
+      - Small Claims
+      - Other
+      required: false
+    - id: 5
+      name: court_location
+      label: Court Location
+      hint: null
+      type: select_multiple
+      options:
+      - Court 1
+      - Court 2
+      - Court 3
+      required: false
+    - id: 6
+      name: court_date
+      label: Court Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: court_time
+      label: Court Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: case_status
+      label: Case Status
+      hint: null
+      type: select_one
+      options:
+      - Filing Started
+      - In Progress
+      - Resolved
+      required: false
+    - id: 9
+      name: assigned_clerk
+      label: Assigned Clerk
+      hint: null
+      type: select_one
+      options:
+      - Clerk A
+      - Clerk B
+      - Clerk C
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: case_number
+      label: Case Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: case_name
+      label: Case Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: case_description
+      label: Case Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: plaintiff_name
+      label: Plaintiff Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: defendant_name
+      label: Defendant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: court_case_number
+      label: Court Case Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: case_type_other
+      label: Other Case Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: case_type_other_description
+      label: Other Case Type Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: case_category
+      label: Case Category
+      hint: null
+      type: select_multiple
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: false
+    - id: 22
+      name: case_category_description
+      label: Case Category Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: jurisdiction
+      label: Jurisdiction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: jurisdiction_description
+      label: Jurisdiction Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: CMMC Level 2 Resource Request Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Requestor Name
+      hint: Full name of the person submitting this request
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requestor_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requestor_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: organization_name
+      label: Organization Name
+      hint: Contracting firm or company name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: cmmc_level_current
+      label: Current CMMC Maturity Level
+      hint: What level is your organization currently at?
+      type: select_one
+      options:
+      - Level 1 - Foundational
+      - Level 2 - Advanced
+      - Level 3 - Expert
+      - Not Yet Assessed
+      required: true
+    - id: 6
+      name: cmmc_assessment_date
+      label: Planned CMMC Assessment Date
+      hint: When do you need to complete your Level 2 assessment?
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: resource_type
+      label: Type of Resource Needed
+      hint: Select the primary resource you need
+      type: select_one
+      options:
+      - Consulting Services
+      - Assessment Support
+      - Implementation Guidance
+      - Documentation Review
+      - Training
+      - Tool/Software License
+      - Other
+      required: true
+    - id: 8
+      name: specific_need
+      label: Specific Need or Challenge
+      hint: Describe what you need help with
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: implementation_areas
+      label: CMMC Implementation Areas
+      hint: Select all areas where you need support
+      type: select_multiple
+      options:
+      - Access Control
+      - Asset Management
+      - Audit and Accountability
+      - Awareness and Training
+      - Configuration Management
+      - Identification and Authentication
+      - Incident Response
+      - Maintenance
+      - Media Protection
+      - Penetration Testing
+      - Security Planning
+      - System and Communications Protection
+      - System Development and Deployment
+      required: false
+    - id: 10
+      name: team_size
+      label: Team Size
+      hint: How many people will be involved in implementation?
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: budget_range
+      label: Estimated Budget Range
+      hint: null
+      type: select_one
+      options:
+      - Under $5,000
+      - $5,000 - $15,000
+      - $15,000 - $30,000
+      - $30,000 - $50,000
+      - Over $50,000
+      - Not Sure
+      required: false
+    - id: 12
+      name: timeline_flexibility
+      label: How flexible is your timeline?
+      hint: null
+      type: select_one
+      options:
+      - Very tight - need immediate help
+      - Tight - within 1-2 months
+      - Moderate - 2-3 months
+      - Flexible - 3-6 months
+      - Very flexible - 6+ months
+      required: false
+    - id: 13
+      name: existing_security_programs
+      label: Do you have existing security programs in place?
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Minimal
+      - Some programs
+      - Most programs
+      - Comprehensive programs
+      required: false
+    - id: 14
+      name: regulatory_compliance
+      label: Other Compliance Requirements
+      hint: Select if applicable
+      type: select_multiple
+      options:
+      - NIST SP 800-171
+      - NIST SP 800-53
+      - DFARS requirements
+      - ISO 27001
+      - SOC 2
+      - Other
+      - None
+      required: false
+    - id: 15
+      name: primary_contact
+      label: Primary Point of Contact
+      hint: Who should we contact for this request?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Both
+      required: false
+    - id: 17
+      name: additional_requirements
+      label: Additional Requirements or Notes
+      hint: Any other important information about your request
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: priority_level
+      label: Priority Level
+      hint: How urgent is this request?
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Critical
+      required: true

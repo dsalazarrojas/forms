@@ -1,0 +1,108 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Tool Access Request Form
+    pages:
+    - id: 1
+      name: access_request_header
+      label: -- Access request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: Name of employee requesting access
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Requester email
+      hint: Corporate email for notifications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: tool_name
+      label: Tool name
+      hint: Name of the accounting tool
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: access_level_requested
+      label: Access level requested
+      hint: Select required permission level
+      type: select_one
+      options:
+        - Read only
+        - Edit
+        - Approve
+        - Admin
+      required: true
+    - id: 6
+      name: business_justification
+      label: Business justification
+      hint: Explain why access is required
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: manager_approval_required
+      label: Manager approval required
+      hint: Has manager approved this request
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: true
+    - id: 8
+      name: manager_name
+      label: Manager name
+      hint: Manager approving the request
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: requested_start_date
+      label: Requested start date
+      hint: When access should begin
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: systems_to_integrate
+      label: Systems to integrate
+      hint: Any integrations needed for this user
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: training_completed
+      label: Training completed
+      hint: Has user completed required training
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: true
+    - id: 12
+      name: additional_notes
+      label: Additional notes
+      hint: Any other details relevant to the request
+      type: text
+      options: []
+      required: false

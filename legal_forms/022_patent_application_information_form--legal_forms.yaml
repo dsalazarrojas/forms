@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patent Application Information Form
+    pages:
+    - id: 1
+      name: inventor_name
+      label: Inventor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: application_type
+      label: Application Type
+      hint: null
+      type: select_one
+      options:
+      - Patent
+      - Provisional Patent
+      - Utility Patent
+      - Design Patent
+      required: false
+    - id: 3
+      name: inventor_address
+      label: Inventor Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patent_title
+      label: Patent Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patent_description
+      label: Patent Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patent_filing_date
+      label: Patent Filing Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: inventor_email
+      label: Inventor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: inventor_phone
+      label: Inventor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patent_status
+      label: Patent Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Pending
+      - Published
+      - Granted
+      - Abandoned
+      required: false
+    - id: 10
+      name: applicant_name
+      label: Applicant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: applicant_address
+      label: Applicant Address
+      hint: null
+      type: text
+      options: []
+      required: false

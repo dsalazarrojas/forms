@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Elementary School Message Recap
+    pages:
+    - id: 1
+      name: teacher_notes
+      label: Teacher Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: subject
+      label: Subject
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: to_who
+      label: To Whom
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: staff_notes
+      label: Staff Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_attendance
+      label: Student Attendance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: parent_attendance
+      label: Parent Attendance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: staff_attendance
+      label: Staff Attendance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

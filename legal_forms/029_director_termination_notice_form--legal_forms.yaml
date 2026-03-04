@@ -1,0 +1,83 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Director Termination Notice Form
+    pages:
+    - id: 1
+      name: director_name
+      label: Director Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: director_email
+      label: Director Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: notice_details
+      label: Notice Details
+      hint: Please provide a reason for termination.
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: effective_date
+      label: Effective Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: termination_reason
+      label: Termination Reason
+      hint: null
+      type: select_one
+      options:
+      - Poor performance
+      - Conflict of interest
+      - Retirement
+      - Redundancy
+      required: true
+    - id: 7
+      name: termination_date
+      label: Termination Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: termination_notice
+      label: Termination Notice
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: reviewed_by
+      label: Reviewed By
+      hint: null
+      type: text
+      options: []
+      required: false

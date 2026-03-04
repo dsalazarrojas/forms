@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Maintenance Renewal Agreement
+    pages:
+    - id: 1
+      name: user_input_1
+      label: User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: support_term
+      label: Support Term
+      hint: null
+      type: select_one
+      options:
+      - 12 months
+      - 24 months
+      - 36 months
+      - 48 months
+      required: false
+    - id: 4
+      name: support_level
+      label: Support Level
+      hint: null
+      type: select_multiple
+      options:
+      - Basic
+      - Premium
+      - Advanced
+      required: false
+    - id: 5
+      name: renewal_date
+      label: Renewal Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: renewal_status
+      label: Renewal Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: agreement_accepted
+      label: Agree to terms
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: agreement_date
+      label: Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: false

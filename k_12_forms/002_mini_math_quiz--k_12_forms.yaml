@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mini Math Quiz
+    pages:
+    - id: 1
+      name: quiz_start
+      label: take_the_quiz
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: math_question_1
+      label: math_question_1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: math_question_2
+      label: math_question_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: math_question_3
+      label: math_question_3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: math_question_4
+      label: math_question_4
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: math_question_5
+      label: math_question_5
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: math_question_6
+      label: math_question_6
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: math_question_7
+      label: math_question_7
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: math_question_8
+      label: math_question_8
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: submit
+      label: submit_button
+      hint: null
+      type: note
+      options: []
+      required: false

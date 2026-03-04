@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Interaction Details Request Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_email
+      label: company_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: company_url
+      label: company_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_phone
+      label: company_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_description
+      label: company_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: requested_by_name
+      label: Requested by Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: requested_by_title
+      label: Requested by Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: requested_by_company
+      label: Requested by Company
+      hint: null
+      type: select_one
+      options:
+      - Company 1
+      - Company 2
+      - Company 3
+      required: false
+    - id: 9
+      name: requested_by_date
+      label: Requested by Date
+      hint: null
+      type: date
+      options: []
+      required: false

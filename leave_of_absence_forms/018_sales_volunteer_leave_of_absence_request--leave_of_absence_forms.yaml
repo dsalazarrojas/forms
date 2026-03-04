@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Volunteer Leave Of Absence Request
+    pages:
+    - id: 1
+      name: sales_volunteer_leave_of_absence_request
+      label: Sales Volunteer Leave of Absence Request
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_start_date
+      label: volunteer_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: volunteer_end_date
+      label: volunteer_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_leave
+      label: reason_for_leave
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sales_volunteer_leave_of_absence_request_form_confirmation
+      label: sales_volunteer_leave_of_absence_request_form_confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: volunteer_leave_notice_period
+      label: volunteer_leave_notice_period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: sales_volunteer_leave_request_status
+      label: sales_volunteer_leave_request_status
+      hint: 'null'
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Rejected
+      required: false
+    - id: 8
+      name: sales_volunteer_leave_request_reason
+      label: sales_volunteer_leave_request_reason
+      hint: 'null'
+      type: select_multiple
+      options:
+      - Family
+      - Sickness
+      - Personal
+      - Other
+      required: false
+    - id: 9
+      name: sales_volunteer_leave_request_notes
+      label: sales_volunteer_leave_request_notes
+      hint: 'null'
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: sales_volunteer_leave_request_email
+      label: sales_volunteer_leave_request_email
+      hint: 'null'
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: sales_volunteer_leave_request_phone
+      label: sales_volunteer_leave_request_phone
+      hint: 'null'
+      type: text
+      options: []
+      required: false

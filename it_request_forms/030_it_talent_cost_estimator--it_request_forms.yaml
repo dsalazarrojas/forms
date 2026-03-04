@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: IT Talent Cost Estimator
+    pages:
+    - id: 1
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: duration
+      label: Duration
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: role_description
+      label: Role Description
+      hint: Briefly describe the job role
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: location_description
+      label: Location Description
+      hint: Briefly describe the location of the job
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: labor_cost
+      label: Labor Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: overhead_cost
+      label: Overhead Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: tax_rate
+      label: Tax Rate
+      hint: Tax rate to apply to labor and overhead
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: total_cost
+      label: Total Cost
+      hint: Total cost with tax applied
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: output_file
+      label: Output File
+      hint: Specify the filename to save the generated estimate
+      type: text
+      options: []
+      required: false

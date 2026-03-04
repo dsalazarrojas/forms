@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maternity Leave Of Absence Request (IT Employee)
+    pages:
+    - id: 1
+      name: general_info
+      label: General information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: expected_start_date
+      label: expected_start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: expected_end_date
+      label: expected_end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: leave_duration
+      label: leave_duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: manager_approval
+      label: manager_approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: manager_comments
+      label: manager_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: it_manager
+      label: it_manager
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: team_coverage
+      label: team_coverage
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: coverage_details
+      label: coverage_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: request_type
+      label: request_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: approval_status
+      label: approval_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: attachments
+      label: attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: approval_email
+      label: approval_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: approval_message
+      label: approval_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: approval_date
+      label: approval_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: approval_time
+      label: approval_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: approval_by
+      label: approval_by
+      hint: null
+      type: text
+      options: []
+      required: false

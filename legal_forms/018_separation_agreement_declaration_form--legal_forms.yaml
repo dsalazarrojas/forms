@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Separation Agreement Declaration Form
+    pages:
+    - id: 1
+      name: partner_names
+      label: partner_names
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: asset_values
+      label: asset_values
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: asset_description
+      label: asset_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: asset_division
+      label: asset_division
+      hint: null
+      type: select_one
+      options:
+      - Assets acquired before the separation date will go to [Party A]
+      - Assets acquired after the separation date will go to [Party A]
+      - Assets acquired before the separation date will go to [Party B]
+      - Assets acquired after the separation date will go to [Party B]
+      - Both parties agree that the assets will be split 50/50
+      - Other (please specify)
+      required: false
+    - id: 5
+      name: child_custody
+      label: child_custody
+      hint: null
+      type: select_one
+      options:
+      - '[''Party A will have sole custody'']'
+      - '[''Party B will have sole custody'']'
+      - Joint custody, but [Party A will have primary physical custody]
+      - Joint custody, but [Party B will have primary physical custody]
+      - Joint custody
+      required: false
+    - id: 6
+      name: property_values
+      label: property_values
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: property_description
+      label: property_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: property_division
+      label: property_division
+      hint: null
+      type: select_one
+      options:
+      - Both parties agree that the property will be split 50/50
+      - Other (please specify)
+      required: false

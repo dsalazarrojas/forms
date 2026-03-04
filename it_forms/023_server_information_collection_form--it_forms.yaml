@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Server Information Collection Form
+    pages:
+    - id: 1
+      name: page_1
+      label: Page 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_2
+      label: Server Details
+      hint: null
+      type: select_one
+      options:
+      - Physical Server
+      - Virtual Server
+      - Cloud Server
+      required: false
+    - id: 3
+      name: server_type_id
+      label: Server Type
+      hint: Type of server
+      type: select_one
+      options:
+      - Physical Server
+      - Virtual Server
+      - Cloud Server
+      required: false
+    - id: 4
+      name: server_name
+      label: Server Name
+      hint: Server name as it appears in the inventory
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: server_ip
+      label: Server IP
+      hint: Server IP address
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: server_os
+      label: Server OS
+      hint: Server OS version
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: server_version
+      label: Server Version
+      hint: Server software version
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: server_location
+      label: Server Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: page_2_note
+      label: Note
+      hint: Any additional notes about this server
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: page_2_phone
+      label: Phone
+      hint: Server phone number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: page_2_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: page_2_company
+      label: Company
+      hint: The company that owns this server
+      type: select_multiple
+      options:
+      - Company 1
+      - Company 2
+      - Company 3
+      required: false
+    - id: 13
+      name: page_2_status
+      label: Server Status
+      hint: Server status (active/inactive)
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: page_3
+      label: Page 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: server_model
+      label: Server Model
+      hint: Server model
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: server_ram
+      label: Server RAM
+      hint: Server RAM in GB
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: server_storage
+      label: Server Storage
+      hint: Server storage in GB
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: server_cores
+      label: Server Cores
+      hint: Server cores
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: page_4
+      label: Page 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: server_cpu
+      label: Server CPU
+      hint: Server CPU
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: server_date
+      label: Server Date
+      hint: Server date
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: server_time
+      label: Server Time
+      hint: Server time
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: page_5
+      label: Page 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: server_vendor
+      label: Server Vendor
+      hint: Server vendor
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

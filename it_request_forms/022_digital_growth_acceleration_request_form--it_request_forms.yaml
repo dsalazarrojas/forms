@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Growth Acceleration Request Form
+    pages:
+    - id: 1
+      name: it_request_forms
+      label: IT Request Forms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: growth_acceleration_form
+      label: Growth Acceleration Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: growth_projects
+      label: Growth Projects
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: projects
+      label: Projects
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - In Progress
+      - Completed
+      - Cancelled
+      required: true
+    - id: 8
+      name: project_priority
+      label: Project Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 9
+      name: project_deadline
+      label: Project Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_owner
+      label: Project Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: project_sponsor
+      label: Project Sponsor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: project_funding
+      label: Project Funding
+      hint: null
+      type: text
+      options: []
+      required: false

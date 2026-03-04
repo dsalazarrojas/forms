@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: writ_of_garnishment_request_form
+    pages:
+    - id: 1
+      name: case_details
+      label: Case Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: garnisher_name
+      label: Garnisher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: creditor_name
+      label: Creditor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: garnishment_date
+      label: Garnishment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: account_type
+      label: Account Type
+      hint: null
+      type: select_one
+      options:
+      - Checking
+      - Savings
+      - Credit
+      - Other
+      required: true
+    - id: 7
+      name: account_owner
+      label: Account Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: current_balance
+      label: Current Balance
+      hint: null
+      type: number
+      options: []
+      required: false

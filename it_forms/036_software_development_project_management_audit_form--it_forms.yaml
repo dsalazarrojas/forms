@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Software Development Project Management Audit Form
+    pages:
+    - id: 1
+      name: software_development_project_management_audit_form_data
+      label: Software Development Project Management Audit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_leader_name
+      label: Project Leader
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_lead_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: project_lead_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: software_development_project_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: software_development_project_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: software_development_project_management_method
+      label: Management Method
+      hint: null
+      type: select_one
+      options:
+      - Agile
+      - Waterfall
+      - Hybrid
+      required: false
+    - id: 8
+      name: software_development_project_team
+      label: Team
+      hint: null
+      type: select_multiple
+      options:
+      - Engineering
+      - Quality
+      - Assurance
+      - Project Management
+      required: false
+    - id: 9
+      name: software_development_project_report_status
+      label: Report Status
+      hint: null
+      type: text
+      options: []
+      required: false

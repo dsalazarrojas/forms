@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Referral Form
+    pages:
+    - id: 1
+      name: form_name
+      label: Form Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sales_person
+      label: Sales Person
+      hint: null
+      type: select_one
+      options:
+      - Jim
+      - Jane
+      - Joe
+      - John
+      required: false
+    - id: 6
+      name: number_of_people_informed
+      label: Number of People Informed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: number_informed_at_work
+      label: Number Informed at Work
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: number_informed_outside_work
+      label: Number Informed Outside of Work
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: number_informed_by_email
+      label: Number Informed by Email
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: number_informed_by_phone
+      label: Number Informed by Phone
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false

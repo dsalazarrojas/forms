@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advertising Agency Job Application Form
+    pages:
+    - id: 1
+      name: personal_information_section
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your legal full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: Current residential address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Valid email for communication
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: position_application_section
+      label: -- Position Application --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: position_applied_for
+      label: Position Applied For
+      hint: What position are you applying for
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: department_interest
+      label: Department Interest
+      hint: Which department are you most interested in
+      type: select_one
+      options:
+      - Creative
+      - Account Management
+      - Media Planning
+      - Strategy
+      - Digital Marketing
+      - Production
+      - Other
+      required: true
+    - id: 10
+      name: availability_start_date
+      label: Availability Start Date
+      hint: When can you start working
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: education_background_section
+      label: -- Education Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: highest_education_level
+      label: Highest Education Level
+      hint: What is your highest level of education
+      type: select_one
+      options:
+      - High School
+      - Associate Degree
+      - Bachelor's Degree
+      - Master's Degree
+      - Doctorate
+      - Other
+      required: true
+    - id: 13
+      name: field_of_study
+      label: Field of Study
+      hint: What was your major or field of study
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: university_college
+      label: University College
+      hint: Name of the institution you attended
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: work_experience_section
+      label: -- Work Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: previous_employer
+      label: Previous Employer
+      hint: Name of your most recent employer
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: previous_position
+      label: Previous Position
+      hint: Your previous job title
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: years_experience
+      label: Years of Experience
+      hint: How many years of relevant experience do you have
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: portfolio_attachments
+      label: Portfolio Attachments
+      hint: Link to or description of your portfolio
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: application_declaration
+      label: Application Declaration
+      hint: I declare that the information provided is accurate
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

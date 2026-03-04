@@ -1,0 +1,357 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Case Outcome Report Form
+    pages:
+      - id: 1
+        name: report_header
+        label: Case Outcome Report Form
+        hint: Document resolved case outcomes
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: report_id
+        label: Report ID Number
+        hint: Unique identifier
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: report_date
+        label: Report Date
+        hint: Date of report
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: case_info
+        label: Case Information
+        hint: Case details
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: case_number
+        label: Case Number
+        hint: Case identifier
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: case_type
+        label: Case Type
+        hint: Case category
+        type: select_one
+        options:
+          - Civil litigation
+          - Criminal
+          - Family law
+          - Probate
+          - Juvenile
+          - Administrative
+          - Appeals
+          - Other
+        required: true
+      - id: 7
+        name: case_title
+        label: Case Title
+        hint: Case name
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: filing_date
+        label: Original Filing Date
+        hint: When case began
+        type: date
+        options: []
+        required: true
+      - id: 9
+        name: closure_date
+        label: Case Closure Date
+        hint: When case ended
+        type: date
+        options: []
+        required: true
+      - id: 10
+        name: case_duration
+        label: Total Case Duration
+        hint: Time from filing to closure
+        type: select_one
+        options:
+          - Less than 30 days
+          - 30 to 90 days
+          - 3 to 6 months
+          - 6 months to 1 year
+          - 1 to 2 years
+          - Over 2 years
+        required: true
+      - id: 11
+        name: court_info
+        label: Court Information
+        hint: Court details
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: court_name
+        label: Court Name
+        hint: Specific court
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: judge_assigned
+        label: Judge Assigned
+        hint: Presiding judge
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: case_outcome
+        label: Case Outcome
+        hint: Final disposition
+        type: select_one
+        options:
+          - Judgment for plaintiff
+          - Judgment for defendant
+          - Settled
+          - Dismissed
+          - Dismissed with prejudice
+          - Withdrawn
+          - Default judgment
+          - Summary judgment
+          - Appeal pending
+          - Other
+        required: true
+      - id: 15
+        name: outcome_details
+        label: Detailed Outcome Description
+        hint: Comprehensive explanation
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: settlement_info
+        label: Settlement Information
+        hint: If applicable
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: settlement_reached
+        label: Was Settlement Reached
+        hint: Settlement status
+        type: select_one
+        options:
+          - Yes - full settlement
+          - Yes - partial settlement
+          - No
+          - Not applicable
+        required: true
+      - id: 18
+        name: settlement_amount
+        label: Settlement Amount
+        hint: If disclosed
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: settlement_terms
+        label: Key Settlement Terms
+        hint: Important conditions
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: judgment_info
+        label: Judgment Information
+        hint: If applicable
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: judgment_amount
+        label: Judgment Amount
+        hint: Monetary award
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: judgment_type
+        label: Type of Judgment
+        hint: Judgment category
+        type: select_one
+        options:
+          - Monetary damages
+          - Injunctive relief
+          - Declaratory judgment
+          - Specific performance
+          - Custody determination
+          - Property division
+          - Other
+          - Not applicable
+        required: false
+      - id: 23
+        name: damages_awarded
+        label: Damages Awarded
+        hint: Damage types
+        type: select_multiple
+        options:
+          - None
+          - Compensatory damages
+          - Actual damages
+          - Punitive damages
+          - Nominal damages
+          - Statutory damages
+          - Attorney fees
+          - Court costs
+          - Other
+        required: false
+      - id: 24
+        name: party_info
+        label: Party Information
+        hint: Involved parties
+        type: note
+        options: []
+        required: false
+      - id: 25
+        name: plaintiff_outcome
+        label: Plaintiff Outcome
+        hint: Result for plaintiff
+        type: select_one
+        options:
+          - Fully successful
+          - Partially successful
+          - Unsuccessful
+          - Not applicable
+        required: true
+      - id: 26
+        name: defendant_outcome
+        label: Defendant Outcome
+        hint: Result for defendant
+        type: select_one
+        options:
+          - Fully successful
+          - Partially successful
+          - Unsuccessful
+          - Not applicable
+        required: true
+      - id: 27
+        name: appeals_info
+        label: Appeals Information
+        hint: Appeal status
+        type: note
+        options: []
+        required: false
+      - id: 28
+        name: appeal_filed
+        label: Was Appeal Filed
+        hint: Appeal status
+        type: select_one
+        options:
+          - Yes - by plaintiff
+          - Yes - by defendant
+          - Yes - by both parties
+          - No
+          - Appeal period pending
+        required: true
+      - id: 29
+        name: appeal_deadline
+        label: Appeal Deadline
+        hint: Last day to appeal
+        type: date
+        options: []
+        required: false
+      - id: 30
+        name: case_impact
+        label: Case Impact Assessment
+        hint: Broader implications
+        type: text
+        options: []
+        required: false
+      - id: 31
+        name: precedent_value
+        label: Does This Case Set Precedent
+        hint: Legal precedent
+        type: select_one
+        options:
+          - Yes - binding precedent
+          - Yes - persuasive precedent
+          - No - case specific
+          - Too early to determine
+        required: false
+      - id: 32
+        name: compliance_status
+        label: Compliance Status
+        hint: Order compliance
+        type: select_one
+        options:
+          - Fully complied
+          - Partially complied
+          - Not yet complied
+          - Compliance ongoing
+          - Enforcement needed
+          - Not applicable
+        required: false
+      - id: 33
+        name: lessons_learned
+        label: Lessons Learned
+        hint: Key takeaways
+        type: text
+        options: []
+        required: false
+      - id: 34
+        name: recommendations
+        label: Recommendations for Future Cases
+        hint: Suggestions
+        type: text
+        options: []
+        required: false
+      - id: 35
+        name: attorney_info
+        label: Attorney Information
+        hint: Counsel details
+        type: note
+        options: []
+        required: false
+      - id: 36
+        name: reporting_attorney
+        label: Reporting Attorney Name
+        hint: Attorney submitting report
+        type: text
+        options: []
+        required: true
+      - id: 37
+        name: attorney_firm
+        label: Law Firm Name
+        hint: Firm name
+        type: text
+        options: []
+        required: false
+      - id: 38
+        name: bar_number
+        label: Bar Number
+        hint: Attorney ID
+        type: text
+        options: []
+        required: false
+      - id: 39
+        name: attorney_signature_date
+        label: Attorney Signature Date
+        hint: Date signed
+        type: date
+        options: []
+        required: true

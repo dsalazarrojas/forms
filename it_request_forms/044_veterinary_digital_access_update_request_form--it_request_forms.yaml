@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Digital Access Update Request Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: staff_member
+      label: Staff Member
+      hint: null
+      type: select_one
+      options:
+      - Dr. Smith
+      - Dr. Jones
+      - Dr. Johnson
+      required: false
+    - id: 3
+      name: role
+      label: Role
+      hint: Please select a role
+      type: select_one
+      options:
+      - Admin
+      - Staff
+      - Both
+      required: false
+    - id: 4
+      name: access_level
+      label: Access Level
+      hint: Select all applicable levels
+      type: select_multiple
+      options:
+      - View Only
+      - Edit
+      - Delete
+      required: false
+    - id: 5
+      name: reason_for_change
+      label: Reason For Change
+      hint: Briefly explain the reason for the change
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: current_access_level
+      label: Current Access Level
+      hint: null
+      type: select_one
+      options:
+      - View Only
+      - Edit
+      - Delete
+      required: false
+    - id: 7
+      name: new_access_level
+      label: New Access Level
+      hint: null
+      type: select_one
+      options:
+      - View Only
+      - Edit
+      - Delete
+      required: false
+    - id: 8
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false

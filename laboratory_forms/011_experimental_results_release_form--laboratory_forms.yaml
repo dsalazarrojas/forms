@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: experimental_results_release_form
+    pages:
+    - id: 1
+      name: form_recipient_name
+      label: Form Recipient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: recipient_email
+      label: recipient_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: form_purpose
+      label: Form Purpose
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Test''}'
+      - '{''id'': 2, ''label'': ''Other''}'
+      - '{''id'': 3, ''label'': ''Training''}'
+      required: false
+    - id: 4
+      name: recipient_phone
+      label: Recipient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: form_signature
+      label: Form Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: form_signature_at
+      label: Form Signed At
+      hint: null
+      type: time
+      options: []
+      required: false

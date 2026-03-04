@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Buyer Broker Compensation Agreement
+    pages:
+    - id: 1
+      name: broker_name
+      label: Broker Name or Firm
+      hint: Name of the real estate brokerage
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: broker_license_number
+      label: Broker License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: broker_email
+      label: Broker Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: broker_phone
+      label: Broker Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: buyer_name
+      label: Buyer Name(s)
+      hint: Full name of the buyer or buyers
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: buyer_email
+      label: Buyer Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: buyer_phone
+      label: Buyer Phone Number
+      hint: Your contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: agreement_date
+      label: Agreement Date
+      hint: When is this agreement effective?
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: agreement_duration
+      label: Agreement Duration
+      hint: How long is the agreement valid?
+      type: select_one
+      options:
+      - Until property found
+      - 3 months
+      - 6 months
+      - 12 months
+      - Other period
+      - No specific end date
+      required: true
+    - id: 10
+      name: compensation_type
+      label: Compensation Type
+      hint: How will the broker be compensated?
+      type: select_one
+      options:
+      - Buyer agent commission from seller proceeds
+      - Flat fee from buyer
+      - Hourly rate
+      - Percentage of purchase price
+      - Combination method
+      - Other arrangement
+      required: true
+    - id: 11
+      name: commission_percentage
+      label: Commission Percentage or Flat Fee
+      hint: Amount or percentage of compensation
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: compensation_source
+      label: Source of Compensation
+      hint: null
+      type: select_one
+      options:
+      - Seller side commission split
+      - Buyer pays broker directly
+      - Split arrangement between buyer and seller
+      - MLS listing information
+      - Other source
+      required: true
+    - id: 13
+      name: property_search_scope
+      label: Scope of Property Search
+      hint: What geographic area or property types?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: exclusion_properties
+      label: Are Any Properties Excluded From Agreement?
+      hint: Properties buyer cannot use broker for
+      type: select_one
+      options:
+      - No exclusions
+      - Yes, certain properties excluded
+      - Yes, certain sellers excluded
+      - Yes, other exclusions
+      required: true
+    - id: 15
+      name: excluded_properties_list
+      label: List of Excluded Properties or Sellers
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: services_provided
+      label: Services Provided by Broker
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Property search and recommendations
+      - Property showings and viewings
+      - Negotiation services
+      - Inspection coordination
+      - Financing advice
+      - Document preparation
+      - Closing coordination
+      - Post-closing support
+      required: true
+    - id: 17
+      name: liability_disclaimer
+      label: Acknowledgment of Liability Limits
+      hint: null
+      type: select_one
+      options:
+      - I agree to liability limits
+      - I need to discuss liability
+      - I disagree with liability terms
+      required: true
+    - id: 18
+      name: confidentiality_agreement
+      label: Confidentiality and Fair Dealing Agreement
+      hint: Commitment to ethical standards
+      type: select_one
+      options:
+      - I agree to confidentiality terms
+      - I need clarification
+      - I disagree
+      required: true
+    - id: 19
+      name: early_termination_allowed
+      label: Early Termination Allowed
+      hint: Can agreement be ended before expiration?
+      type: select_one
+      options:
+      - Yes, by mutual agreement
+      - Yes, with notice period
+      - Only for cause
+      - No early termination
+      required: true
+    - id: 20
+      name: agreement_confirmation
+      label: I Understand and Agree to Terms
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I need to review with attorney
+      - I disagree
+      required: true

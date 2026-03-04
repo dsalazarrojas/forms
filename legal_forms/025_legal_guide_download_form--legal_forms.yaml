@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legal Guide Download Form
+    pages:
+    - id: 1
+      name: legal_guide_download_form_title
+      label: Legal Guide Download Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: legal_guide_download_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: legal_guide_download_form_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: legal_guide_download_form_legal_area_of_practice
+      label: Legal Area of Practice
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: legal_guide_download_form_industry
+      label: Industry
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: legal_guide_download_form_industry_specific
+      label: Industry Specific
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: legal_guide_download_form_legal_resource_type
+      label: Type of Legal Resource
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: legal_guide_download_form_legal_resource_language
+      label: Legal Resource Language
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

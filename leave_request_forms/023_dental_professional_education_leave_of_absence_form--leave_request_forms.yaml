@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dental Professional Education Leave Of Absence Form
+    pages:
+    - id: 1
+      name: education_leave_request
+      label: Education Leave Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reason_for_leave
+      label: reason_for_leave
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: duration_of_leave
+      label: duration_of_leave
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: from_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: to_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: leave_type
+      label: leave_type
+      hint: null
+      type: select_multiple
+      options:
+      - Education Leave of Absence
+      - Personal Leave
+      - Sick Leave
+      required: true
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone_number
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: dental_program
+      label: program
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: education_provider
+      label: education_provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: approval_status
+      label: approval_status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Approved
+      - Declined
+      required: false
+    - id: 18
+      name: approved_by
+      label: approved_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: approved_at
+      label: approved_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: comments_approved
+      label: comments_approved
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: comments_denied
+      label: comments_denied
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: comments_pending
+      label: comments_pending
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: leave_request_id
+      label: leave_request_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: created_at
+      label: created_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: updated_at
+      label: updated_at
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Referral Service Login Assistance Request
+    pages:
+    - id: 1
+      name: page_one
+      label: Referral Service Login Assistance Request
+      hint: Describe your issue with the referral platform
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: referral_platform
+      label: Referral Platform
+      hint: null
+      type: select_one
+      options:
+      - Google Referral Platform
+      - Microsoft Referral Platform
+      - Other
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Provide your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: Date of issue
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time
+      label: Time
+      hint: Time of issue
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: Any comments about the issue
+      type: note
+      options: []
+      required: false

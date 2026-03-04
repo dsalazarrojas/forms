@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payment Card Reader Request Form
+    pages:
+    - id: 1
+      name: payment_card_reader_request_form_page_1
+      label: What type of reader do you have?
+      hint: null
+      type: select_one
+      options:
+      - Payment Card Reader
+      - Mobile Payment Reader
+      - Contactless Payment Reader
+      required: false
+    - id: 2
+      name: payment_card_reader_request_form_page_1_reader_type
+      label: Reader Type
+      hint: null
+      type: select_multiple
+      options:
+      - Card Swipe Reader
+      - Contactless Card Reader
+      - Card Insertion Reader
+      required: false
+    - id: 3
+      name: payment_card_reader_request_form_page_1_location
+      label: location
+      hint: null
+      type: select_one
+      options:
+      - New York
+      - London
+      - Chicago
+      required: false
+    - id: 4
+      name: payment_card_reader_request_form_page_1_issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_card_reader_request_form_page_1_issue_date
+      label: Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: payment_card_reader_request_form_page_1_issue_time
+      label: Issue Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: payment_card_reader_request_form_page_1_device_id
+      label: Device ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_card_reader_request_form_page_1_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - In Progress
+      - Resolved
+      required: false

@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: probate_petition_form
+    pages:
+    - id: 1
+      name: first_page
+      label: probate_petition_form_first_page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: petitioners_info
+      label: petitioners_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: petitioners_contact
+      label: petitioners_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: probate_petition
+      label: probate_petition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: estate_description
+      label: estate_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: assets
+      label: assets
+      hint: null
+      type: select_one
+      options:
+      - assets_option_1
+      - assets_option_2
+      - assets_option_3
+      required: false
+    - id: 7
+      name: beneficiaries
+      label: beneficiaries
+      hint: null
+      type: select_multiple
+      options:
+      - beneficiaries_option_1
+      - beneficiaries_option_2
+      - beneficiaries_option_3
+      required: false
+    - id: 8
+      name: assets_verified
+      label: assets_verified
+      hint: null
+      type: select_one
+      options:
+      - assets_verified_option_1
+      - assets_verified_option_2
+      required: false
+    - id: 9
+      name: court_case_number
+      label: court_case_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: filing_date
+      label: filing_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: filing_time
+      label: filing_time
+      hint: null
+      type: time
+      options: []
+      required: false

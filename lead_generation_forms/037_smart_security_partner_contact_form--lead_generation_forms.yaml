@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Security Partner Contact Form
+    pages:
+    - id: 1
+      name: smart_security_partner_contact_form_page_1
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: smart_security_partner_contact_form_page_2
+      label: Company Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: smart_security_partner_contact_form_page_3
+      label: Inquiry Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: smart_security_partner_contact_form_page_4
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: smart_security_partner_contact_form_page_5
+      label: Submission Time
+      hint: null
+      type: select_one
+      options:
+      - 1 hour ago
+      - 2-4 hours ago
+      - 5-24 hours ago
+      - More than 24 hours ago
+      required: true
+    - id: 6
+      name: smart_security_partner_contact_form_page_6
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: true
+    - id: 7
+      name: smart_security_partner_contact_form_page_7
+      label: Inquiry Type
+      hint: null
+      type: select_multiple
+      options:
+      - New
+      - Existing
+      required: true
+    - id: 8
+      name: smart_security_partner_contact_form_page_8
+      label: Follow Up
+      hint: null
+      type: select_multiple
+      options:
+      - Follow Up
+      - 'False'
+      required: true
+    - id: 9
+      name: smart_security_partner_contact_form_page_9
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: smart_security_partner_contact_form_page_10
+      label: submission
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: smart_security_partner_contact_form_page_11
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: smart_security_partner_contact_form_page_12
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

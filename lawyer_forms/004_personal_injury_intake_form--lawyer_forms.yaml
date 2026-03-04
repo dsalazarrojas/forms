@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: personal-injury-intake-form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: injury_info
+      label: Injury Info
+      hint: Please describe the injury
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: witness_info
+      label: Witness Info
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: medical_info
+      label: Medical Info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_bills
+      label: Medical Bills
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: medical_treatment
+      label: Medical Treatment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: witness_statement
+      label: Witness Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: witness_name
+      label: Witness Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: witness_contact
+      label: Witness Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: witness_info
+      label: Witness Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: client_info
+      label: Client Info
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 13
+      name: witness_count
+      label: Witness Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: medical_record
+      label: Medical Record
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_date
+      label: Contact Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: contact_time
+      label: Contact Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: case_status
+      label: Case Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

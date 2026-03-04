@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Covid 19 Pandemic Assistance Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: Enter your address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: Enter your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: employment_status
+      label: Employment Status
+      hint: Enter your employment status
+      type: select_one
+      options:
+      - active
+      - inactive
+      - unemployed
+      - student
+      required: true
+    - id: 8
+      name: employment_type
+      label: Employment Type
+      hint: Enter your employment type
+      type: select_multiple
+      options:
+      - full-time
+      - part-time
+      - contract
+      - freelance
+      - student
+      required: true
+    - id: 9
+      name: work_hours
+      label: Work Hours
+      hint: Enter your work hours
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: job_title
+      label: Job Title
+      hint: Enter your job title
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: job_description
+      label: Job Description
+      hint: Enter your job description
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: work_experience
+      label: Work Experience
+      hint: Enter your work experience
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_first_name
+      label: Emergency Contact First Name
+      hint: Enter the emergency contact first name
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_last_name
+      label: Emergency Contact Last Name
+      hint: Enter the emergency contact last name
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Enter the emergency contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_relation
+      label: Emergency Contact Relation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_address
+      label: Emergency Contact Address
+      hint: Enter the emergency contact address
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: job_reference_number
+      label: Job Reference Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      required: false
+    - id: 20
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_multiple
+      options:
+      - full-time
+      - part-time
+      - contract
+      - freelance
+      - student
+      required: false
+    - id: 21
+      name: work_hours_per_week
+      label: Work Hours Per Week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: job_title_other
+      label: Job Title Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: job_description_other
+      label: Job Description Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: work_experience_other
+      label: Work Experience Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: emergency_contact_note
+      label: Emergency Contact Note
+      hint: Enter any additional emergency contact information
+      type: note
+      options: []
+      required: false

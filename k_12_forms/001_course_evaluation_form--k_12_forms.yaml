@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Course Evaluation Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - 9th-10th
+      - 11th-12th
+      required: false
+    - id: 3
+      name: course_title
+      label: Course Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: semester
+      label: Semester
+      hint: null
+      type: select_one
+      options:
+      - Fall
+      - Spring
+      - Summer
+      required: false
+    - id: 5
+      name: rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recommendation
+      label: Would you recommend this course?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: suggestions
+      label: What could we do to improve the course?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: rating_comments
+      label: Comments on rating
+      hint: null
+      type: text
+      options: []
+      required: false

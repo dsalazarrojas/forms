@@ -1,0 +1,80 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Trace System Malfunction Report Form
+    pages:
+    - id: 1
+      name: system_malfunction_form
+      label: System Malfunction Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: system_description
+      label: System Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: system_category
+      label: System Category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Category 1'', ''value'': ''Category 1''}'
+      - '{''label'': ''Category 2'', ''value'': ''Category 2''}'
+      - '{''label'': ''Category 3'', ''value'': ''Category 3''}'
+      required: false
+    - id: 4
+      name: malfunction_date
+      label: Malfunction Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: malfunction_time
+      label: Malfunction Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: malfunction_description
+      label: Malfunction Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: affected_area
+      label: Affected Area
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Area 1'', ''value'': ''Area 1''}'
+      - '{''label'': ''Area 2'', ''value'': ''Area 2''}'
+      - '{''label'': ''Area 3'', ''value'': ''Area 3''}'
+      required: false
+    - id: 8
+      name: affected_equipment
+      label: Affected Equipment
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Equipment 1'', ''value'': ''Equipment 1''}'
+      - '{''label'': ''Equipment 2'', ''value'': ''Equipment 2''}'
+      required: false

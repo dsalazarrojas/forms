@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Production Readiness Assessment
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: production_readiness
+      label: Production Readiness
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: risk_factors
+      label: Risk Factors
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Risk Factor 1'', ''label'': ''Risk Factor 1''}'
+      - '{''id'': 2, ''name'': ''Risk Factor 2'', ''label'': ''Risk Factor 2''}'
+      - '{''id'': 3, ''name'': ''Risk Factor 3'', ''label'': ''Risk Factor 3''}'
+      required: true
+    - id: 4
+      name: go_live_review
+      label: Go Live Review
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: review_duration
+      label: Review Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: risk_factors_10
+      label: Risk Factors 10
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Risk Factor 10 1'', ''label'': ''Risk Factor 10 1''}'
+      - '{''id'': 2, ''name'': ''Risk Factor 10 2'', ''label'': ''Risk Factor 10 2''}'
+      - '{''id'': 3, ''name'': ''Risk Factor 10 3'', ''label'': ''Risk Factor 10 3''}'
+      required: false
+    - id: 10
+      name: risk_factors_11
+      label: Risk Factors 11
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Risk Factor 11 1'', ''label'': ''Risk Factor 11 1''}'
+      - '{''id'': 2, ''name'': ''Risk Factor 11 2'', ''label'': ''Risk Factor 11 2''}'
+      required: false
+    - id: 11
+      name: risk_factors_12
+      label: Risk Factors 12
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Risk Factor 12 1'', ''label'': ''Risk Factor 12 1''}'
+      - '{''id'': 2, ''name'': ''Risk Factor 12 2'', ''label'': ''Risk Factor 12 2''}'
+      required: false
+    - id: 12
+      name: risk_factors_13
+      label: Risk Factors 13
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Risk Factor 13 1'', ''label'': ''Risk Factor 13 1''}'
+      - '{''id'': 2, ''name'': ''Risk Factor 13 2'', ''label'': ''Risk Factor 13 2''}'
+      required: false
+    - id: 13
+      name: risk_factors_14
+      label: Risk Factors 14
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Risk Factor 14 1'', ''label'': ''Risk Factor 14 1''}'
+      - '{''id'': 2, ''name'': ''Risk Factor 14 2'', ''label'': ''Risk Factor 14 2''}'
+      required: false
+    - id: 14
+      name: risk_factors_15
+      label: Risk Factors 15
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Risk Factor 15 1'', ''label'': ''Risk Factor 15 1''}'
+      - '{''id'': 2, ''name'': ''Risk Factor 15 2'', ''label'': ''Risk Factor 15 2''}'
+      required: false
+    - id: 15
+      name: risk_factors_16
+      label: Risk Factors 16
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Risk Factor 16 1'', ''label'': ''Risk Factor 16 1''}'
+      - '{''id'': 2, ''name'': ''Risk Factor 16 2'', ''label'': ''Risk Factor 16 2''}'
+      required: false
+    - id: 16
+      name: risk_factors_17
+      label: Risk Factors 17
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Risk Factor 17 1'', ''label'': ''Risk Factor 17 1''}'
+      - '{''id'': 2, ''name'': ''Risk Factor 17 2'', ''label'': ''Risk Factor 17 2''}'
+      required: false
+    - id: 17
+      name: risk_factors_18
+      label: Risk Factors 18
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Risk Factor 18 1'', ''label'': ''Risk Factor 18 1''}'
+      - '{''id'': 2, ''name'': ''Risk Factor 18 2'', ''label'': ''Risk Factor 18 2''}'
+      required: false
+    - id: 18
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: go_live_reviewer
+      label: Go Live Reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: reviewer_title
+      label: Reviewer Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: review_duration
+      label: Review Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: submit_review
+      label: Submit Review
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Submit Review'', ''label'': ''Submit Review''}'
+      - '{''id'': 2, ''name'': ''Do Not Submit Review'', ''label'': ''Do Not Submit
+        Review''}'
+      required: true

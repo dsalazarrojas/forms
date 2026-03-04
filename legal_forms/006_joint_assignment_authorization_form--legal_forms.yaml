@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: joint_assignment_authorization_form
+    pages:
+    - id: 1
+      name: employee_a
+      label: employee_a
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: employee_b
+      label: employee_b
+      hint: null
+      type: select_one
+      options:
+      - option_a
+      - option_b
+      required: false
+    - id: 3
+      name: task_name
+      label: task_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: effective_date
+      label: effective_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: transfer_details
+      label: transfer_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - option_a
+      - option_b
+      required: false
+    - id: 9
+      name: signature
+      label: signature
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: signature_date
+      label: signature_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: category
+      label: category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: category_code
+      label: category_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: category_name
+      label: category_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: comments
+      label: comments
+      hint: Add comments if necessary
+      type: text
+      options: []
+      required: false

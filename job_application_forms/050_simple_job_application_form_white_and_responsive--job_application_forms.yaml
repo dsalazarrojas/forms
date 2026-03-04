@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Simple Job Application Form White And Responsive
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: position
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: experience
+      label: Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: education
+      label: Education
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''high_school'', ''label'': ''High School''}'
+      - '{''id'': 2, ''name'': ''college'', ''label'': ''College''}'
+      - '{''id'': 3, ''name'': ''graduate'', ''label'': ''Graduate''}'
+      required: false
+    - id: 8
+      name: skills
+      label: Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Law Firm Confidentiality Audit Form
+    pages:
+    - id: 1
+      name: law_firm_confidentiality_audit_form
+      label: legal_forms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: document_name
+      label: document_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: document_type
+      label: document_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: department
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: date_completed
+      label: date_completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: reviewer_name
+      label: reviewer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reviewer_department
+      label: reviewer_department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: reviewer_position
+      label: reviewer_position
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: document_status
+      label: document_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 10
+      name: follow_up_actions
+      label: follow_up_actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: next_follow_up_date
+      label: next_follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_status
+      label: follow_up_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 13
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: document_number
+      label: document_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: date_reviewed
+      label: date_reviewed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: reviewer_comments
+      label: reviewer_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: next_reviewer_name
+      label: next_reviewer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_status_note
+      label: follow_up_status_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: reviewer_signature
+      label: reviewer_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: departmental_reviewer_signature
+      label: departmental_reviewer_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: document_reviewer_comments
+      label: document_reviewer_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_date_next_reviewer
+      label: follow_up_date_next_reviewer
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_status_next_reviewer
+      label: follow_up_status_next_reviewer
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 25
+      name: follow_up_notes
+      label: follow_up_notes
+      hint: null
+      type: text
+      options: []
+      required: false

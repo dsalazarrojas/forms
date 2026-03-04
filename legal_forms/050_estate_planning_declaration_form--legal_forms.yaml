@@ -1,0 +1,39 @@
+inputSchema:
+  type: object
+  properties:
+    title: Estate Planning Declaration Form
+    pages:
+    - id: 1
+      name: estate_planning_declaration_form
+      label: Estate Planning Declaration Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: asset_distribution
+      label: Asset Distribution
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: care_preferred_provider
+      label: Care Preferred Provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: care_alternate_provider
+      label: Care Alternate Provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Legal Aid Referral Form
+    pages:
+    - id: 1
+      name: section_client_info
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Full Name
+      hint: Name of person seeking legal aid
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: Client's email
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_address
+      label: Address
+      hint: Client's address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: section_referral_info
+      label: -- Referral Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: referred_by
+      label: Who Referred This Client
+      hint: Name of person making referral
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: referrer_role
+      label: Role of Person Making Referral
+      hint: Social worker, counselor, attorney, etc
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: referral_date
+      label: Date of Referral
+      hint: When was client referred
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: section_case_info
+      label: -- Case Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: legal_issue_type
+      label: Type of Legal Issue
+      hint: What area of law is needed
+      type: select_one
+      options:
+      - Family Law
+      - Housing
+      - Immigration
+      - Consumer Rights
+      - Employment
+      - Criminal
+      - Estate Planning
+      - Bankruptcy
+      - Other
+      required: true
+    - id: 13
+      name: case_description
+      label: Description of Legal Issue
+      hint: Explain the client's legal problem
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is this case
+      type: select_one
+      options:
+      - Immediate - Within Days
+      - High - Within Weeks
+      - Moderate - Within Months
+      - Low - No Immediate Deadline
+      required: true
+    - id: 15
+      name: section_financial
+      label: -- Financial Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: income_level
+      label: Approximate Monthly Income
+      hint: Client's income
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: household_size
+      label: Household Size
+      hint: Number of people in household
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: qualifies_for_aid
+      label: Qualifies for Legal Aid Based on Income
+      hint: Meets poverty guidelines
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Uncertain
+      required: true
+    - id: 19
+      name: section_barriers
+      label: -- Access and Barriers --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: language_needs
+      label: Language Assistance Needed
+      hint: Interpreter or translated materials
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Other Language
+      - None Needed
+      required: false
+    - id: 21
+      name: accessibility_needs
+      label: Accessibility Accommodations
+      hint: Any special needs
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: referred_attorney_notes
+      label: Additional Notes or Concerns
+      hint: Any other important information
+      type: text
+      options: []
+      required: false

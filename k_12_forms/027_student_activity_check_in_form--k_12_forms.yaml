@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Activity Check In Form
+    pages:
+    - id: 1
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_name
+      label: event_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: student_count
+      label: student_count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: staff_name
+      label: staff_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: student_ids
+      label: student_ids
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: event_location
+      label: event_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: staff_email
+      label: staff_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: staff_phone
+      label: staff_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: staff_ids
+      label: staff_ids
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: staff_notes
+      label: staff_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: staff_name2
+      label: staff_name2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: student_count2
+      label: student_count2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: staff_count
+      label: staff_count
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: student_ids2
+      label: student_ids2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: staff_ids2
+      label: staff_ids2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: event_id
+      label: event_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: staff_id
+      label: staff_id
+      hint: null
+      type: text
+      options: []
+      required: false

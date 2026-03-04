@@ -1,0 +1,40 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Security Incident Response Log
+    pages:
+    - id: 1
+      name: initial_reporting
+      label: Initial Reporting
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - Incident Type 1
+      - Incident Type 2
+      - Incident Type 3
+      required: false
+    - id: 3
+      name: incident_description
+      label: Incident Description
+      hint: Provide a clear and concise description of the security event
+      type: text
+      options: []
+      required: false

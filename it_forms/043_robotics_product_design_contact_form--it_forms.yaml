@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: robotics_product_design_contact_form
+    pages:
+    - id: 1
+      name: form_info
+      label: form_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_info_1
+      label: project_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: application_type
+      label: application_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''label'': ''option_1'', ''value'': ''option_1''}'
+      - '{''id'': 11, ''label'': ''option_2'', ''value'': ''option_2''}'
+      - '{''id'': 12, ''label'': ''option_3'', ''value'': ''option_3''}'
+      required: false
+    - id: 4
+      name: form_info_2
+      label: project_requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: robot_type
+      label: robot_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 20, ''label'': ''option_1'', ''value'': ''option_1''}'
+      - '{''id'': 21, ''label'': ''option_2'', ''value'': ''option_2''}'
+      - '{''id'': 22, ''label'': ''option_3'', ''value'': ''option_3''}'
+      required: false
+    - id: 6
+      name: project_duration
+      label: project_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: project_deadline
+      label: project_deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: form_info_3
+      label: project_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_info_4
+      label: robot_status
+      hint: null
+      type: text
+      options: []
+      required: false

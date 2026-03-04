@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: loanVerificationForm
+    pages:
+    - id: 1
+      name: loan_request_date
+      label: Loan Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customerName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: loan_amount
+      label: loanAmount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: loan_term
+      label: loanTerm
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: loan_type
+      label: loanType
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Personal''}'
+      - '{''option2'': ''Business''}'
+      required: false
+    - id: 6
+      name: loan_status
+      label: loanStatus
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: contact_method
+      label: contactMethod
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''phone''}'
+      - '{''option2'': ''email''}'
+      - '{''option3'': ''mail''}'
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: loan_agreement_signed
+      label: loanAgreementSigned
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': True}'
+      - '{''option2'': False}'
+      required: false
+    - id: 10
+      name: contact_details
+      label: contactDetails
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: employment_status
+      label: employmentStatus
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: income_source
+      label: incomeSource
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: income_verification_documents
+      label: incomeVerificationDocuments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: loan_officer_notes
+      label: loanOfficerNotes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: customer_signature
+      label: customerSignature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: customer_signature_date
+      label: customerSignatureDate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: loan_officer_signature
+      label: loanOfficerSignature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: loan_officer_signature_date
+      label: loanOfficerSignatureDate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: loan_status_comments
+      label: loanStatusComments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: customer_notes
+      label: customerNotes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: loan_requesting_party
+      label: loanRequestingParty
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: loan_requesting_party_address
+      label: loanRequestingPartyAddress
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: loan_requesting_party_phone
+      label: loanRequestingPartyPhone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: loan_requesting_party_email
+      label: loanRequestingPartyEmail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: loan_requesting_party_business_phone
+      label: loanRequestingPartyBusinessPhone
+      hint: null
+      type: text
+      options: []
+      required: false

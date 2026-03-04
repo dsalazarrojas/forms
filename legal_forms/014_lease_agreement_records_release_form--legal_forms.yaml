@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: lease-agreement-records-release-form
+    pages:
+    - id: 1
+      name: tenant_info
+      label: tenant-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: agreement_records
+      label: agreement-records
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 3
+      name: permissions
+      label: permissions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: date_signed
+      label: date-signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: signed_by
+      label: signed-by
+      hint: null
+      type: note
+      options: []
+      required: false

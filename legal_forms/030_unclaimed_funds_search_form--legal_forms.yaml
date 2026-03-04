@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: unclaimed funds search form
+    pages:
+    - id: 1
+      name: searchrequest
+      label: Search Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: authorizationdetails
+      label: Authorization Details
+      hint: Name and contact information of person requesting the search
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: dateofsearch
+      label: Date of Search
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: searchresults
+      label: Search Results
+      hint: Details of search results including date of search, name of search, and
+        location
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: searchstatus
+      label: Search Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: searchstatusoptions
+      label: Search Status Options
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Open
+      - Unknown
+      required: true
+    - id: 7
+      name: followupschedule
+      label: Followup Schedule
+      hint: Date and time to follow up if search results not found
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: followupscheduletime
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: customercontact
+      label: Customer Contact
+      hint: Phone number and/or email of the customer
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: customeremail
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: customerphone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false

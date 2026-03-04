@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Post Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: position
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager
+      label: Manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: manager_phone
+      label: Manager's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager_email
+      label: Manager's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: team
+      label: Team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: team_members
+      label: Team Members
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: team_lead_phone
+      label: Team Lead's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: team_lead_email
+      label: Team Lead's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: partner
+      label: Partner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: partner_phone
+      label: Partner's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: partner_email
+      label: Partner's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: partner_department
+      label: Partner's Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: partner_title
+      label: Partner's Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: request
+      label: Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: request_time
+      label: Request Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

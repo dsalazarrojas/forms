@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: district_court_juror_questionnaire
+    pages:
+    - id: 1
+      name: juror_selection_process
+      label: Juror Selection Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: juror_demographics
+      label: juror_demographics
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: juror_questionnaire
+      label: juror_questionnaire
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: juror_conflicts
+      label: juror_conflicts
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: juror_scheduling
+      label: juror_scheduling
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: juror_availability
+      label: juror_availability
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: juror_committees
+      label: juror_committees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: juror_committee
+      label: juror_committee
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: juror_important_dates
+      label: juror_important_dates
+      hint: null
+      type: select_multiple
+      options:
+      - Very Important
+      - Not Important
+      required: false
+    - id: 10
+      name: juror_notes
+      label: juror_notes
+      hint: null
+      type: note
+      options: []
+      required: false

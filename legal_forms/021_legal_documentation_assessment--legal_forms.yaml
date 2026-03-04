@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legal Documentation Assessment
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Will''}'
+      - '{''id'': 2, ''label'': ''Living Will''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      - '{''id'': 4, ''label'': ''Power of Attorney''}'
+      - '{''id'': 5, ''label'': ''Trust''}'
+      - '{''id'': 6, ''label'': ''Other (please specify)''}'
+      required: true
+    - id: 7
+      name: document_date
+      label: Document Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: document_number
+      label: Document Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: document_location
+      label: Document Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: document_description
+      label: Document Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: witness
+      label: Witnessed By
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Not Witnessed''}'
+      - '{''id'': 2, ''label'': True}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 12
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports League Expansion Application Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: division_name
+      label: Division Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: expansion_history
+      label: Expansion History
+      hint: Briefly describe your league's expansion history.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: team_formation
+      label: Team Formation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: division_location
+      label: Division Location
+      hint: null
+      type: select_multiple
+      options:
+      - Downtown
+      - Uptown
+      - Downtown East
+      required: false
+    - id: 6
+      name: division_location_hint
+      label: Division Location (if no team already exists, choose all applicable areas)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: number_of_teams
+      label: Number of Teams
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: expansion_planned_date
+      label: Expansion Planned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: expansion_planned_time
+      label: Expansion Planned Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: team_league_id
+      label: Team League ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: team_league_name
+      label: Team League Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: team_league_location
+      label: Team League Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: expansion_reason
+      label: Expansion Reason
+      hint: null
+      type: select_one
+      options:
+      - Financial
+      - Market demand
+      - Other (please specify)
+      required: false
+    - id: 14
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false

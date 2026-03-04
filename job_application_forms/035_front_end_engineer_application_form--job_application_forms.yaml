@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Front End Engineer Application Form
+    pages:
+    - id: 1
+      name: job_application_form
+      label: Job Application Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: work_experience
+      label: work experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: portfolio_links
+      label: portfolio links
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: candidate_info
+      label: candidate info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: resume
+      label: resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_position
+      label: job position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employment_status
+      label: employment status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Workforce Development Program Application
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_address
+      label: Participant Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: career_goal
+      label: Participant Career Goal
+      hint: What career goal would you like to achieve?
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: program_type
+      label: Program Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: program_start_date
+      label: Program Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: training_provider
+      label: Training Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: eligibility_criteria
+      label: Eligibility Criteria
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: program_length
+      label: Program Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: participant_status
+      label: Participant Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: program_status
+      label: Program Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: true
+    - id: 14
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: true

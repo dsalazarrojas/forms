@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physiotherapist Job Application Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: experience
+      label: experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: education
+      label: Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: certifications
+      label: Certifications
+      hint: null
+      type: select_multiple
+      options:
+      - Certified
+      - Licensed
+      - Registered
+      required: false
+    - id: 5
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: license
+      label: License
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 7
+      name: availability
+      label: Availability
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: skills
+      label: Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Manual
+      - Sports
+      - Orthopedic
+      required: true
+    - id: 9
+      name: language
+      label: Language
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: why_physio
+      label: Why Physio
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: work_environment
+      label: Work Environment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: salary
+      label: Salary
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: other_info
+      label: Other Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: references
+      label: References
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: references_2
+      label: References2
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Not Available
+      required: true
+    - id: 19
+      name: other_references
+      label: Other References
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: uploaded_documents
+      label: Uploaded Documents
+      hint: null
+      type: select_multiple
+      options:
+      - Resume
+      - Cover Letter
+      - References
+      required: true
+    - id: 21
+      name: uploaded_documents_2
+      label: Uploaded Documents2
+      hint: null
+      type: select_multiple
+      options:
+      - Resume
+      - Cover Letter
+      required: true
+    - id: 22
+      name: uploaded_documents_3
+      label: Uploaded Documents3
+      hint: null
+      type: select_multiple
+      options:
+      - References
+      - Other
+      required: true
+    - id: 23
+      name: uploaded_documents_4
+      label: Uploaded Documents4
+      hint: null
+      type: select_multiple
+      options:
+      - ID and Proof of Education
+      - ID and Proof of Licensure
+      required: true
+    - id: 24
+      name: uploaded_documents_5
+      label: Uploaded Documents5
+      hint: null
+      type: select_multiple
+      options:
+      - ID and Proof of Licensure
+      - Other
+      required: true
+    - id: 25
+      name: uploaded_documents_6
+      label: Uploaded Documents6
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

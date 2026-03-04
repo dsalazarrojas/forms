@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: it consultation form
+    pages:
+    - id: 1
+      name: client_information
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_details
+      label: Service Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_description
+      label: Service Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: client_questions
+      label: Client Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: service_cost
+      label: Service Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: service_duration
+      label: Service Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: service_status
+      label: Service Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

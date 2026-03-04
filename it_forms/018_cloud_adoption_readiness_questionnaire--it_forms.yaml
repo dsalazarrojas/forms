@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cloud Adoption Readiness Questionnaire
+    pages:
+    - id: 1
+      name: section_respondent
+      label: -- Organization Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: respondent_name
+      label: Respondent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: respondent_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: organization_size
+      label: Organization Size - Employees
+      hint: null
+      type: select_one
+      options:
+      - 1-50
+      - 51-250
+      - 251-1000
+      - 1001-5000
+      - 5000+
+      required: true
+    - id: 7
+      name: industry
+      label: Industry - Sector
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_current_state
+      label: -- Current IT Infrastructure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: current_infrastructure
+      label: Percentage of infrastructure currently in cloud
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: primary_data_center
+      label: Current primary data center location
+      hint: On-premises, private cloud, public cloud
+      type: select_one
+      options:
+      - On-premises
+      - Private cloud
+      - Public cloud
+      - Hybrid
+      - Other
+      required: true
+    - id: 11
+      name: cloud_services_used
+      label: Cloud services currently in use
+      hint: null
+      type: select_multiple
+      options:
+      - SaaS applications
+      - IaaS infrastructure
+      - PaaS platforms
+      - Serverless
+      - Containerization
+      - None yet
+      required: true
+    - id: 12
+      name: section_strategy
+      label: -- Cloud Strategy --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: cloud_goals
+      label: Primary goals for cloud adoption
+      hint: null
+      type: select_multiple
+      options:
+      - Cost reduction
+      - Scalability
+      - Flexibility
+      - Innovation
+      - Disaster recovery
+      - Compliance
+      required: true
+    - id: 14
+      name: target_cloud_provider
+      label: Target cloud provider or platform
+      hint: AWS, Azure, Google Cloud, multi-cloud, etc
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: adoption_timeline
+      label: Desired cloud adoption timeline
+      hint: null
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6-12 months
+      - 1-2 years
+      - 2+ years
+      - TBD
+      required: true
+    - id: 16
+      name: section_readiness
+      label: -- Organizational Readiness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: cloud_skills
+      label: Current cloud skill level in organization
+      hint: null
+      type: select_one
+      options:
+      - Advanced
+      - Intermediate
+      - Basic
+      - Minimal
+      - None
+      required: true
+    - id: 18
+      name: training_needed
+      label: Training needed for cloud adoption
+      hint: null
+      type: select_one
+      options:
+      - Extensive
+      - Significant
+      - Moderate
+      - Minimal
+      - None
+      required: true
+    - id: 19
+      name: executive_support
+      label: Level of executive support for cloud initiatives
+      hint: null
+      type: select_one
+      options:
+      - Strong commitment
+      - Good support
+      - Neutral
+      - Some resistance
+      - Strong resistance
+      required: true
+    - id: 20
+      name: section_risks
+      label: -- Risk and Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: compliance_requirements
+      label: Applicable compliance requirements
+      hint: null
+      type: select_multiple
+      options:
+      - GDPR
+      - HIPAA
+      - PCI-DSS
+      - SOC 2
+      - Industry-specific
+      - None
+      required: false
+    - id: 22
+      name: main_concerns
+      label: Main concerns about cloud adoption
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: readiness_score
+      label: Overall cloud readiness rating
+      hint: Rate from 1 (not ready) to 5 (very ready)
+      type: number
+      options: []
+      required: true

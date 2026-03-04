@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: sensor_inspection_and_maintenance_checklist
+    pages:
+    - id: 1
+      name: sensor_inspection_and_maintenance_checklist_page
+      label: inspections
+      hint: Inspection details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inspection_results
+      label: results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: maintenance_actions
+      label: actions
+      hint: Maintenance actions taken
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sensor_description
+      label: sensor_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: maintenance_type
+      label: maintenance_type
+      hint: Maintenance Type
+      type: select_one
+      options:
+      - type1
+      - type2
+      - type3
+      required: true
+    - id: 6
+      name: maintenance_status
+      label: maintenance_status
+      hint: Maintenance Status
+      type: select_one
+      options:
+      - status1
+      - status2
+      - status3
+      required: true
+    - id: 7
+      name: date_inspected
+      label: date_inspected
+      hint: Date Inspected
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_inspected
+      label: time_inspected
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: inspected_by
+      label: inspected_by
+      hint: Tech/Inspector Name
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: inspected_by_email
+      label: inspected_by_email
+      hint: Tech/Inspector Email
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: inspected_by_phone
+      label: inspected_by_phone
+      hint: Tech/Inspector Phone
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: sensor_serial_number
+      label: sensor_serial_number
+      hint: Sensor Serial Number
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: notes
+      hint: Additional notes
+      type: note
+      options: []
+      required: false

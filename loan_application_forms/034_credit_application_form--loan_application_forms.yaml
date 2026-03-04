@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Credit Application Form
+    pages:
+    - id: 1
+      name: personal_info
+      label: Personal Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: income
+      label: income
+      hint: null
+      type: select_one
+      options:
+      - Income
+      - Salary
+      - Employment
+      - Disability
+      - Other
+      required: false
+    - id: 3
+      name: income_value
+      label: income value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: loan_term
+      label: Loan Term
+      hint: null
+      type: select_multiple
+      options:
+      - 1 year
+      - 2 years
+      - 3 years
+      required: false
+    - id: 6
+      name: loan_type
+      label: Loan Type
+      hint: null
+      type: select_one
+      options:
+      - Installment loan
+      - Revolving loan
+      - Credit card loan
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

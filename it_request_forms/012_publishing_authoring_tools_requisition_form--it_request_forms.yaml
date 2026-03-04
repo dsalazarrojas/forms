@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Publishing Authoring Tools Requisition Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Publishing Authoring Tools Requisition Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - IT Request Forms
+      - Other
+      required: true
+    - id: 3
+      name: description
+      label: description
+      hint: Please enter a detailed description of your software request.
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: priority
+      label: Priority Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Medium
+      required: true
+    - id: 5
+      name: team
+      label: team
+      hint: null
+      type: select_one
+      options:
+      - Publishing
+      - Content
+      - Both
+      required: true
+    - id: 6
+      name: assigned_tool
+      label: Assigned Tool
+      hint: Enter the name of the tool the user is assigned to.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: output_file
+      label: Output File
+      hint: Enter the name of the output file (optional).
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_submitted
+      label: Time Submitted
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Laboratory Equipment Maintenance Checklist Form
+    pages:
+    - id: 1
+      name: lab_equipment_maintenance_checklist
+      label: equipment_maintenance_checklist
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: laboratory_equipment_id
+      label: laboratory_equipment_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: maintenance_checklist_item_id
+      label: maintenance_checklist_item
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: maintenance_type_id
+      label: maintenance_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: date_of_last_maintenance
+      label: date_of_last_maintenance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: last_maintenance_by
+      label: last_maintenance_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: maintenance_status
+      label: maintenance_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: maintenance_frequency
+      label: maintenance_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

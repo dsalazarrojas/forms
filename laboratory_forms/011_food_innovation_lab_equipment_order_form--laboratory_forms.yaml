@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Innovation Lab Equipment Order Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_fax
+      label: Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Lab Supplies
+      - Lab Equipment
+      - Other
+      required: false
+    - id: 7
+      name: contact_building
+      label: Building
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_floor
+      label: Floor
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: contact_room
+      label: Room
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_lab
+      label: Lab
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: equipment_name
+      label: Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: equipment_quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: equipment_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: equipment_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: equipment_priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 17
+      name: equipment_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Ordered
+      - Shipped
+      - In Stock
+      required: false
+    - id: 18
+      name: equipment_requester
+      label: Requester
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: equipment_date_requested
+      label: Date Requested
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: equipment_ship_date
+      label: Ship Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: equipment_ship_status
+      label: Ship Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - In Transit
+      - Shipped
+      - In Stock
+      required: false
+    - id: 22
+      name: equipment_ship_comments
+      label: Ship Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: reviewer_name
+      label: Reviewer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: equipment_requested_by
+      label: Requested By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: reviewer_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false

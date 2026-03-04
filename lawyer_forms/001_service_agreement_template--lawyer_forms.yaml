@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Agreement Template
+    pages:
+    - id: 1
+      name: service_agreement_template
+      label: service_agreement_template
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_details
+      label: service_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: service_type
+      label: service_type
+      hint: null
+      type: select_one
+      options:
+      - Service A
+      - Service B
+      - Service C
+      required: true
+    - id: 6
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: terms_and_conditions
+      label: terms_and_conditions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: service_agreement_template
+      label: service_agreement_template
+      hint: null
+      type: time
+      options: []
+      required: false

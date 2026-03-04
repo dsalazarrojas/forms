@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kindergarten Afternoon Arrangement Form
+    pages:
+    - id: 1
+      name: pickup_permissions
+      label: Pickup Permissions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pickup_time
+      label: Pickup Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: schedule
+      label: Schedule
+      hint: null
+      type: select_one
+      options:
+      - 09:00
+      - '660'
+      - '720'
+      - '780'
+      - '840'
+      - '900'
+      - '960'
+      - '1020'
+      - '1080'
+      required: false
+    - id: 5
+      name: after_school_care_start
+      label: After-School Care Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: after_school_care_end
+      label: After-School Care End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: pickup_permission
+      label: Pickup Permission
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: special_instructions_2
+      label: Special Instructions 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: special_instructions_3
+      label: Special Instructions 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: special_instructions_4
+      label: Special Instructions 4
+      hint: null
+      type: text
+      options: []
+      required: false

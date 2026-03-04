@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trade Skill Enhancement Leave Of Absence Form
+    pages:
+    - id: 1
+      name: main
+      label: Main
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee
+      label: Employee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: leave_start_date
+      label: Leave Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: leave_end_date
+      label: Leave End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: skill_level
+      label: Skill Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 6
+      name: manager
+      label: Manager
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Signal Configuration Survey
+    pages:
+    - id: 1
+      name: signal_configuration_survey
+      label: Signal Configuration Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: signal_configuration_signal_types
+      label: Signal Types
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: signal_configuration_signal_frequency
+      label: Signal Frequency
+      hint: null
+      type: select_one
+      options:
+      - Every minute
+      - Every 5 minutes
+      - Every 10 minutes
+      - Every 15 minutes
+      - Every 30 minutes
+      - Every 60 minutes
+      required: false
+    - id: 4
+      name: signal_configuration_device_type
+      label: Device Type
+      hint: null
+      type: select_one
+      options:
+      - Device 1
+      - Device 2
+      - Device 3
+      - Device 4
+      - Device 5
+      required: false
+    - id: 5
+      name: signal_configuration_signal_status
+      label: Signal Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 6
+      name: signal_configuration_signal_priority
+      label: Signal Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false

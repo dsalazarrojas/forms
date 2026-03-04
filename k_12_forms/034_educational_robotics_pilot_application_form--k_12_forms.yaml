@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Robotics Pilot Application Form
+    pages:
+    - id: 1
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_email
+      label: school_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: school_address
+      label: School Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: number_of_students
+      label: Number of Students
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: number_of_teachers
+      label: Number of Teachers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: robotics_equipment
+      label: Robotics Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: pilot_year
+      label: Pilot Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: application_status
+      label: Application Status
+      hint: null
+      type: select_one
+      options:
+      - Awaiting review
+      - Accepted
+      - Rejected
+      - Not submitted
+      required: false

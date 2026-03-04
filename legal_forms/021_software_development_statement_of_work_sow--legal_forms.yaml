@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Software Development Statement Of Work (SOW)
+    pages:
+    - id: 1
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_scope
+      label: Project Scope
+      hint: This is the high-level summary of the project requirements
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: deliverables
+      label: Deliverables
+      hint: null
+      type: select_multiple
+      options:
+      - Software Requirements
+      - System and Functional Specifications
+      - Test Plan
+      - Acceptance Criteria
+      required: false
+    - id: 4
+      name: timelines
+      label: Timelines
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: approval_date
+      label: Approval Date
+      hint: YYYYMMDD format
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: select_one
+      options:
+      - Client
+      - Project Manager
+      - Team Lead
+      - Quality Manager
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: file
+      label: File
+      hint: null
+      type: text
+      options: []
+      required: false

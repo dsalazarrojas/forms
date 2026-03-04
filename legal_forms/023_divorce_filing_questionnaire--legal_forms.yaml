@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: divorce_filing_questionnaire
+    pages:
+    - id: 1
+      name: filing_part_1
+      label: Filing Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: filing_part_1_filing_type
+      label: Filing Type
+      hint: null
+      type: select_one
+      options:
+      - Divorce
+      - Legal Separation
+      - Annulment
+      required: false
+    - id: 3
+      name: filing_part_1_filing_courts
+      label: Filing Courts
+      hint: null
+      type: select_multiple
+      options:
+      - Family Court
+      - District Court
+      - Supreme Court
+      required: false
+    - id: 4
+      name: filing_part_1_filing_location
+      label: Filing Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: filing_part_2
+      label: Divorce Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: divorce_part_2_filing_part_2_divorce_type
+      label: Divorce Type
+      hint: null
+      type: select_one
+      options:
+      - Uncontested
+      - Contested
+      required: false
+    - id: 7
+      name: divorce_part_2_filing_part_2_number_of_children
+      label: Number of Children
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: marriage_part_3
+      label: Marriage Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: marriage_part_3_marriage_date
+      label: Marriage Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: marriage_part_3_marriage_location
+      label: Marriage Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: spouse_part_4
+      label: Spouse Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: spouse_part_4_spouse_1_name
+      label: Spouse 1 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: spouse_part_4_spouse_2_name
+      label: Spouse 2 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: spouse_part_4_spouse_1_address
+      label: Spouse 1 Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: spouse_part_4_spouse_2_address
+      label: Spouse 2 Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: property_part_5
+      label: Property Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: property_part_5_property_type
+      label: Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - Primary Residence
+      - Secondary Residence
+      - Real Property
+      - Other
+      required: false
+    - id: 18
+      name: property_part_5_property_value
+      label: Property Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: property_part_5_property_value_currency
+      label: Property Value Currency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: property_part_5_is_property_purchased
+      label: Is Property Purchased
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: property_part_5_property_debt
+      label: Property Debt
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: property_part_5_property_other_debt
+      label: Other Property Debt
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: asset_part_6
+      label: Asset Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: asset_part_6_employed
+      label: Employed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: asset_part_6_net_worth
+      label: Net Worth
+      hint: null
+      type: number
+      options: []
+      required: false

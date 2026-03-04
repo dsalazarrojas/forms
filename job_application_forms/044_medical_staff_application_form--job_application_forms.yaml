@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Staff Application Form
+    pages:
+    - id: 1
+      name: main_information
+      label: Main Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_staff
+      label: Medical Staff
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: education
+      label: Education
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_specialties
+      label: Medical Specialties
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: language
+      label: Language
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: work_history
+      label: Work History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_license
+      label: Medical License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: certification
+      label: Certification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: personal_statement
+      label: Personal Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_staff_application_form_attachments
+      label: Medical Staff Application Form Attachments
+      hint: null
+      type: text
+      options: []
+      required: false

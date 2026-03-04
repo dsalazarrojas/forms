@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legal Case Summary Report Form
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: case_parties
+      label: case_parties
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: case_courts
+      label: case_courts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: case_judgement
+      label: case_judgement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: case_status
+      label: case_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: case_date
+      label: case_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: case_time
+      label: case_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: case_number
+      label: case_number
+      hint: null
+      type: text
+      options: []
+      required: false

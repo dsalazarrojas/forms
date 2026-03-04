@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legal Case File Error Incident Report
+    pages:
+    - id: 1
+      name: case_number
+      label: Case Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: case_name
+      label: Case Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: error_description
+      label: Error Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: case_firm
+      label: Case Firm
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: case_manager
+      label: Case Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: error_level
+      label: Error Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 8
+      name: error_cause
+      label: Error Cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: corrective_action
+      label: Corrective Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false

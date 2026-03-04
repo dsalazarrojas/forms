@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Loan Selection Form
+    pages:
+    - id: 1
+      name: loan_selection_form_first_page
+      label: loan_selection_form_first_page
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: loan_chooser_1
+      label: loan_chooser_1
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''Option 1''}'
+      - '{''label'': ''Option 2'', ''value'': ''Option 2''}'
+      - '{''label'': ''Option 3'', ''value'': ''Option 3''}'
+      required: false
+    - id: 3
+      name: loan_chooser_2
+      label: loan_chooser_2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''Option 1''}'
+      - '{''label'': ''Option 2'', ''value'': ''Option 2''}'
+      - '{''label'': ''Option 3'', ''value'': ''Option 3''}'
+      required: false
+    - id: 4
+      name: loan_type
+      label: loan_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''Option 1''}'
+      - '{''label'': ''Option 2'', ''value'': ''Option 2''}'
+      - '{''label'': ''Option 3'', ''value'': ''Option 3''}'
+      required: false
+    - id: 5
+      name: loan_amount
+      label: loan_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: loan_term
+      label: loan_term
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''Option 1''}'
+      - '{''label'': ''Option 2'', ''value'': ''Option 2''}'
+      - '{''label'': ''Option 3'', ''value'': ''Option 3''}'
+      required: false
+    - id: 7
+      name: loan_interest_rate
+      label: loan_interest_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: loan_status
+      label: loan_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''Option 1''}'
+      - '{''label'': ''Option 2'', ''value'': ''Option 2''}'
+      - '{''label'': ''Option 3'', ''value'': ''Option 3''}'
+      required: false
+    - id: 9
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''Option 1''}'
+      - '{''label'': ''Option 2'', ''value'': ''Option 2''}'
+      - '{''label'': ''Option 3'', ''value'': ''Option 3''}'
+      required: false
+    - id: 15
+      name: submitted
+      label: submitted
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''Option 1''}'
+      - '{''label'': ''Option 2'', ''value'': ''Option 2''}'
+      - '{''label'': ''Option 3'', ''value'': ''Option 3''}'
+      required: false
+    - id: 16
+      name: submitted_user
+      label: submitted_user
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''Option 1''}'
+      - '{''label'': ''Option 2'', ''value'': ''Option 2''}'
+      - '{''label'': ''Option 3'', ''value'': ''Option 3''}'
+      required: false
+    - id: 17
+      name: submitted_date
+      label: submitted_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: submitted_time
+      label: submitted_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: assigned_user_name
+      label: assigned_user_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitted_user_name
+      label: submitted_user_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitted_user_email
+      label: submitted_user_email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitted_user_phone
+      label: submitted_user_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitted_user_note
+      label: submitted_user_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: assigned_user_email
+      label: assigned_user_email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_user_phone
+      label: assigned_user_phone
+      hint: null
+      type: text
+      options: []
+      required: false

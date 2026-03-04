@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Arbitration Process Absence Form
+    pages:
+    - id: 1
+      name: section_party_identification
+      label: -- Party Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: absentee_name
+      label: Full Name of Absentee
+      hint: Person unable to attend arbitration
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: case_number
+      label: Case Number
+      hint: Reference for the arbitration case
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: party_role
+      label: Role in Arbitration
+      hint: null
+      type: select_one
+      options:
+      - Claimant
+      - Respondent
+      - Witness
+      - Legal representative
+      - Other
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: section_absence_details
+      label: -- Absence Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: scheduled_hearing_date
+      label: Scheduled Hearing Date
+      hint: Date of the hearing being missed
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: scheduled_time
+      label: Scheduled Hearing Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: absence_reason
+      label: Reason for Absence
+      hint: Why cannot you attend?
+      type: select_one
+      options:
+      - Medical emergency
+      - Family emergency
+      - Work conflict
+      - Travel conflict
+      - Incarceration
+      - Death in family
+      - Other emergency
+      required: true
+    - id: 11
+      name: reason_explanation
+      label: Detailed Explanation
+      hint: Provide additional context if needed
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: supporting_documentation
+      label: Supporting Documentation Available
+      hint: Medical certificate, travel documents, etc
+      type: select_one
+      options:
+      - true
+      - false
+      - Will provide later
+      required: false
+    - id: 13
+      name: section_reschedule
+      label: -- Rescheduling Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: reschedule_requested
+      label: Request hearing be rescheduled
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Prefer remote attendance
+      required: true
+    - id: 15
+      name: available_dates
+      label: Dates when you will be available
+      hint: Next 2-3 suitable dates
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: representation_alternative
+      label: Alternative representation available
+      hint: Another person authorized to represent you
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: false
+    - id: 17
+      name: representative_name
+      label: Name of Alternative Representative
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submission_date
+      label: Date of This Notification
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: notification_received_by
+      label: Submitted To (Arbitrator or Coordinator Name)
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Appeal Form
+    pages:
+    - id: 1
+      name: appellant_name
+      label: Full Name of Appellant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: case_reference_number
+      label: Original Case Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: decision_date
+      label: Date of Original Decision
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: presiding_official
+      label: Presiding Judge or Officer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: appeal_reasons_header
+      label: -- Grounds for Appeal --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: primary_reason_for_appeal
+      label: Statement of Reason for Appeal
+      hint: Clearly state why you are requesting reconsideration
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: legal_grounds
+      label: Specific Legal Grounds for Appeal
+      hint: Reference specific laws or procedures if known
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: evidence_description
+      label: Description of New Evidence (if any)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: desired_relief
+      label: Desired Outcome or Relief
+      hint: What decision are you seeking?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: legal_representation
+      label: Name of Legal Representative (if any)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: representation_contact
+      label: Representative Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: filing_date
+      label: Date of Filing
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: digital_signature_confirmation
+      label: I certify that the information provided is true and correct
+      hint: null
+      type: select_multiple
+      options:
+      - I certify
+      - Other
+      required: true

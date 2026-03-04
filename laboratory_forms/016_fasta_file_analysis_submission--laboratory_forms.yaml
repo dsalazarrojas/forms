@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: FASTA File Analysis Submission
+    pages:
+    - id: 1
+      name: fasta_file
+      label: FASTA File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sample_id
+      label: Sample ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: lab_id
+      label: Lab ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: file_format
+      label: File Format
+      hint: null
+      type: select_one
+      options:
+      - fasta
+      - other
+      - unspecified
+      required: false
+    - id: 5
+      name: file_size
+      label: File Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: file_name
+      label: File Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: analysis_type
+      label: Analysis Type
+      hint: null
+      type: select_multiple
+      options:
+      - sequencing
+      - alignment
+      - other
+      - unspecified
+      required: false
+    - id: 9
+      name: analysis_type_details
+      label: Analysis Type Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: analysis_request
+      label: Analysis Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: upload_results
+      label: Upload Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

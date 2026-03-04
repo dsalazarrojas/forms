@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Profile And Confidentiality Agreement
+    pages:
+    - id: 1
+      name: company_info
+      label: Company Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''CEO''}'
+      - '{''value'': ''Manager''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: confidentiality
+      label: Confidentiality Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: confidentiality_agreed
+      label: Agree
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 12
+      name: confidentiality_terms
+      label: Terms And Conditions
+      hint: null
+      type: note
+      options: []
+      required: false

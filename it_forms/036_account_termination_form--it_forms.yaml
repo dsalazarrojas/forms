@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Account Termination Form
+    pages:
+    - id: 1
+      name: section_account_holder
+      label: -- Account Holder Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: account_holder_name
+      label: Account Holder Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address Associated with the Account
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: employee_id
+      label: Employee ID (if internal account)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_account_details
+      label: -- Account Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: account_username
+      label: Account Username or ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: account_type
+      label: Account Type
+      hint: null
+      type: select_one
+      options:
+      - Email account
+      - System or application login
+      - VPN access
+      - Cloud service account
+      - Database access
+      - Other
+      required: true
+    - id: 10
+      name: platform_or_system
+      label: Platform or System Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_termination_details
+      label: -- Termination Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: reason_for_termination
+      label: Reason for Account Termination
+      hint: null
+      type: select_one
+      options:
+      - Employee resignation
+      - Employee termination
+      - Role change
+      - Account consolidation
+      - Security concern
+      - End of contract
+      - Other
+      required: true
+    - id: 13
+      name: last_day_of_access
+      label: Last Day Access is Required
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: data_backup_required
+      label: Is Data Backup Required Before Termination
+      hint: null
+      type: select_one
+      options:
+      - Yes - Please back up all data
+      - Yes - Back up selected data only
+      - No - Data can be deleted
+      required: true
+    - id: 15
+      name: data_transfer_to
+      label: Transfer Data To (if applicable)
+      hint: Name or email of person to receive backed-up data
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_approval
+      label: -- Approval --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: requestor_name
+      label: Requested By
+      hint: Name of person submitting this termination request
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Denied
+      required: true
+    - id: 19
+      name: additional_instructions
+      label: Additional Instructions
+      hint: null
+      type: text
+      options: []
+      required: false

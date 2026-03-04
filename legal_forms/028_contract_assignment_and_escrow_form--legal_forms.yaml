@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contract Assignment And Escrow Form
+    pages:
+    - id: 1
+      name: assignor_name
+      label: Assignor Name
+      hint: Party transferring rights
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: assignor_type
+      label: Assignor Type
+      hint: Entity type
+      type: select_one
+      options:
+      - Corporation
+      - LLC
+      - Partnership
+      - Individual
+      - Other
+      required: true
+    - id: 3
+      name: assignee_name
+      label: Assignee Name
+      hint: Party receiving rights
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: assignee_type
+      label: Assignee Type
+      hint: Entity type
+      type: select_one
+      options:
+      - Corporation
+      - LLC
+      - Partnership
+      - Individual
+      - Other
+      required: true
+    - id: 5
+      name: assignment_date
+      label: Assignment Date
+      hint: Date of assignment
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: original_contract_title
+      label: Original Contract Title
+      hint: Name of contract
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: original_contract_date
+      label: Original Contract Date
+      hint: Original execution date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: contract_number
+      label: Contract Number
+      hint: Reference number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: rights_assigned
+      label: Rights Assigned
+      hint: What rights are being transferred?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: obligations_assigned
+      label: Obligations Assigned
+      hint: What obligations are transferred?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: assignment_consideration
+      label: Assignment Consideration
+      hint: Payment or value exchanged
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: escrow_required
+      label: Escrow Required
+      hint: Is escrow needed?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: escrow_agent_name
+      label: Escrow Agent Name
+      hint: Escrow company or person
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: escrow_amount
+      label: Escrow Amount
+      hint: Amount held in escrow
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: escrow_conditions
+      label: Escrow Conditions
+      hint: Conditions for release
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: escrow_release_date
+      label: Escrow Release Date
+      hint: Expected release date
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: consent_obtained
+      label: Consent Obtained
+      hint: Has consent been obtained from all parties?
+      type: select_one
+      options:
+      - Yes, from all parties
+      - Yes, from some parties
+      - false
+      - Not required
+      required: true
+    - id: 18
+      name: legal_review_status
+      label: Legal Review Status
+      hint: Has legal reviewed?
+      type: select_one
+      options:
+      - Completed
+      - In progress
+      - Not started
+      required: true
+    - id: 19
+      name: governing_law
+      label: Governing Law
+      hint: Which state law applies?
+      type: select_one
+      options:
+      - California
+      - New York
+      - Texas
+      - Delaware
+      - Other
+      required: true
+    - id: 20
+      name: effective_date
+      label: Effective Date
+      hint: When does assignment take effect?
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: termination_conditions
+      label: Termination Conditions
+      hint: When can this be terminated?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: assignor_signature
+      label: Assignor Signature
+      hint: Type name as signature
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: assignee_signature
+      label: Assignee Signature
+      hint: Type name as signature
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: witness_signature
+      label: Witness Signature
+      hint: Witness name
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notarization_required
+      label: Notarization Required
+      hint: Is notarization needed?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

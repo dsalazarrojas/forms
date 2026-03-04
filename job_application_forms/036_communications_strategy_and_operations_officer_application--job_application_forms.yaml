@@ -1,0 +1,256 @@
+inputSchema:
+  type: object
+  properties:
+    title: Communications Strategy And Operations Officer Application
+    pages:
+    - id: 1
+      name: application_information
+      label: Application Information
+      hint: Details about your job application
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: application_date
+      label: Application Date
+      hint: Date of this application
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: position_id
+      label: Position ID
+      hint: Job reference number if available
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: personal_information
+      label: Personal Information
+      hint: Your contact details
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: full_name
+      label: Full Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: Your phone number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: location
+      label: Location
+      hint: Your city and state
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: linkedin_profile
+      label: LinkedIn Profile
+      hint: URL to your LinkedIn profile
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: portfolio_website
+      label: Portfolio Website
+      hint: URL to your portfolio or website
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: education
+      label: Education
+      hint: Your educational background
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: highest_degree
+      label: Highest Degree
+      hint: Your highest level of education
+      type: select_one
+      options:
+      - High School Diploma
+      - Associates Degree
+      - Bachelors Degree
+      - Masters Degree
+      - Doctorate
+      - Other
+      required: true
+    - id: 13
+      name: field_of_study
+      label: Field of Study
+      hint: Your major or field of study
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: university_name
+      label: University Name
+      hint: Name of your university or institution
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: graduation_year
+      label: Graduation Year
+      hint: Year of graduation
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: experience
+      label: Experience
+      hint: Your professional experience
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: years_of_experience
+      label: Years of Experience
+      hint: Total years of relevant experience
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-7 years
+      - 7-10 years
+      - 10+ years
+      required: true
+    - id: 18
+      name: current_employer
+      label: Current Employer
+      hint: Name of your current employer
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: current_title
+      label: Current Title
+      hint: Your current job title
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: relevant_skills
+      label: Relevant Skills
+      hint: Select your relevant skills
+      type: select_multiple
+      options:
+      - Strategic Planning
+      - Communications Strategy
+      - Operations Management
+      - Project Management
+      - Team Leadership
+      - Budget Management
+      - Data Analysis
+      - Stakeholder Management
+      - Crisis Communications
+      - Digital Marketing
+      - Content Strategy
+      - Media Relations
+      required: true
+    - id: 21
+      name: key_accomplishments
+      label: Key Accomplishments
+      hint: Describe your key accomplishments
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: why_interested
+      label: Why Interested
+      hint: Why are you interested in this position
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: salary_expectations
+      label: Salary Expectations
+      hint: Your expected salary range in USD
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: availability
+      label: Availability
+      hint: When can you start
+      type: select_one
+      options:
+      - Immediately
+      - 2 Weeks Notice
+      - 1 Month
+      - 2 Months
+      - Negotiable
+      required: true
+    - id: 25
+      name: work_authorization
+      label: Work Authorization
+      hint: Are you authorized to work in this country
+      type: select_one
+      options:
+      - Yes - Citizen
+      - Yes - Permanent Resident
+      - Yes - Work Visa
+      - No - Require Sponsorship
+      required: true
+    - id: 26
+      name: references_available
+      label: References Available
+      hint: Can you provide professional references
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 27
+      name: resume_attached
+      label: Resume Attached
+      hint: Have you attached your resume
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 28
+      name: cover_letter_attached
+      label: Cover Letter Attached
+      hint: Have you attached a cover letter
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 29
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information to share
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: application_certification
+      label: Application Certification
+      hint: I certify that all information provided is accurate
+      type: select_one
+      options:
+      - Yes - I Certify
+      - 'No'
+      required: true

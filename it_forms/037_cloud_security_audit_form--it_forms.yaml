@@ -1,0 +1,238 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cloud Security Audit Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: Company name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: audit_date
+      label: Audit Date
+      hint: Date of security audit
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: auditor_name
+      label: Auditor Name
+      hint: Person conducting audit
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_environment
+      label: -- Cloud Environment Details --
+      hint: Your cloud infrastructure information
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: cloud_providers
+      label: Cloud Providers in Use
+      hint: null
+      type: select_multiple
+      options:
+      - AWS
+      - Microsoft Azure
+      - Google Cloud
+      - IBM Cloud
+      - Oracle Cloud
+      - Other
+      required: true
+    - id: 6
+      name: number_accounts
+      label: Number of Cloud Accounts
+      hint: Total number of accounts
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: services_in_use
+      label: Cloud Services in Use
+      hint: null
+      type: select_multiple
+      options:
+      - Compute (VMs)
+      - Storage
+      - Databases
+      - Networking
+      - Containerization
+      - Serverless
+      - Machine learning
+      - Analytics
+      required: true
+    - id: 8
+      name: section_access
+      label: -- Access Control Assessment --
+      hint: Evaluate access management
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: iam_implementation
+      label: Identity and Access Management (IAM) Implementation
+      hint: null
+      type: select_one
+      options:
+      - Fully implemented
+      - Partially implemented
+      - Minimal implementation
+      - Not implemented
+      required: true
+    - id: 10
+      name: mfa_usage
+      label: Multi-Factor Authentication (MFA) in Use
+      hint: null
+      type: select_one
+      options:
+      - Mandatory for all users
+      - Mandatory for privileged users
+      - Optional
+      - Not implemented
+      required: true
+    - id: 11
+      name: rbac_implementation
+      label: Role-Based Access Control (RBAC)
+      hint: null
+      type: select_one
+      options:
+      - Fully implemented
+      - Partially implemented
+      - Minimal implementation
+      - Not implemented
+      required: true
+    - id: 12
+      name: privileged_access
+      label: Privileged Access Management
+      hint: null
+      type: select_one
+      options:
+      - Strong controls
+      - Adequate controls
+      - Weak controls
+      - No controls
+      required: true
+    - id: 13
+      name: section_encryption
+      label: -- Encryption Assessment --
+      hint: Encryption of data
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: encryption_in_transit
+      label: Encryption In Transit
+      hint: null
+      type: select_one
+      options:
+      - Always enforced
+      - Usually enforced
+      - Sometimes enforced
+      - Not enforced
+      required: true
+    - id: 15
+      name: encryption_at_rest
+      label: Encryption At Rest
+      hint: null
+      type: select_one
+      options:
+      - Always enforced
+      - Usually enforced
+      - Sometimes enforced
+      - Not enforced
+      required: true
+    - id: 16
+      name: key_management
+      label: Key Management Service
+      hint: null
+      type: select_one
+      options:
+      - Centralized KMS in use
+      - Cloud provider default
+      - Self-managed
+      - Not implemented
+      required: true
+    - id: 17
+      name: section_compliance
+      label: -- Compliance and Monitoring --
+      hint: Compliance with standards
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: compliance_standards
+      label: Compliance Standards Required
+      hint: null
+      type: select_multiple
+      options:
+      - PCI DSS
+      - HIPAA
+      - GDPR
+      - SOC 2
+      - ISO 27001
+      - NIST
+      - Industry-specific
+      - None
+      required: true
+    - id: 19
+      name: audit_logging
+      label: Audit Logging Enabled
+      hint: null
+      type: select_one
+      options:
+      - Fully enabled
+      - Mostly enabled
+      - Partially enabled
+      - Not enabled
+      required: true
+    - id: 20
+      name: log_retention
+      label: Log Retention Period
+      hint: How long logs are kept
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: security_monitoring
+      label: Security Monitoring in Place
+      hint: null
+      type: select_one
+      options:
+      - Advanced monitoring
+      - Standard monitoring
+      - Basic monitoring
+      - No monitoring
+      required: true
+    - id: 22
+      name: section_findings
+      label: -- Audit Findings --
+      hint: Issues and vulnerabilities found
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: critical_findings
+      label: Number of Critical Findings
+      hint: Critical severity issues
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: high_findings
+      label: Number of High Severity Findings
+      hint: High severity issues
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: remediation_required
+      label: Remediation Actions Required
+      hint: Summary of required actions
+      type: text
+      options: []
+      required: false

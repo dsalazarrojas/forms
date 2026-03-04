@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cancer Treatment Leave Request
+    pages:
+    - id: 1
+      name: employee_info_section
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: Your official company identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: employee_dept
+      label: Department
+      hint: Which department do you work in
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Position
+      hint: Your current job title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: employee_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: employee_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: leave_details_section
+      label: -- Leave Details --
+      hint: Specify the parameters of your request
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: leave_type
+      label: Requested Leave Type
+      hint: How will this leave be structured
+      type: select_one
+      options:
+      - Full-time Leave
+      - Intermittent Leave
+      - Reduced Schedule
+      - Remote Work Only
+      - Other
+      required: true
+    - id: 11
+      name: leave_start_date
+      label: Expected Leave Start Date
+      hint: When will your absence begin
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: return_date
+      label: Expected Return to Work Date
+      hint: Estimated date of your return
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: total_work_days
+      label: Total Number of Work Days
+      hint: Estimated count of work days affected
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: medical_doc_section
+      label: -- Medical Documentation --
+      hint: Verification of the request
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: leave_nature
+      label: Nature of Leave Requirement
+      hint: General category of the medical need
+      type: select_one
+      options:
+      - Surgery Recovery
+      - Chemotherapy Cycle
+      - Radiation Treatment
+      - Chronic Condition Management
+      - Other
+      required: true
+    - id: 16
+      name: documentation_status
+      label: Documentation Provided
+      hint: Proof of medical necessity
+      type: select_one
+      options:
+      - Yes, I am attaching medical certification
+      - No, I will provide it within 15 days
+      - No, I have questions about privacy
+      required: true
+    - id: 17
+      name: planning_section
+      label: -- Planning --
+      hint: Coordination of your workload
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: urgent_projects
+      label: Any urgent projects to transition
+      hint: Briefly describe tasks that need coverage
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_method_during_leave
+      label: Preferred communication method during leave
+      hint: How should HR reach out to you if needed
+      type: select_one
+      options:
+      - Personal Email
+      - Phone
+      - No Contact
+      - Through Manager Only
+      required: true
+    - id: 20
+      name: policy_understanding
+      label: I understand the leave policies
+      hint: Confirmation of reading the company handbook
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 21
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

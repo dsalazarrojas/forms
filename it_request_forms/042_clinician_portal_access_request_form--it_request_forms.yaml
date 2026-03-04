@@ -1,0 +1,286 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clinician Portal Access Request Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Clinician Portal Access Request
+      hint: Use this form to request access to the clinician portal and related systems
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Work Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Emergency
+      - ICU
+      - Medical-Surgical
+      - Pediatrics
+      - Obstetrics
+      - Oncology
+      - Cardiology
+      - Orthopedics
+      - Neurology
+      - Primary Care
+      - Surgery
+      - Other
+      required: true
+    - id: 9
+      name: role
+      label: Your Role
+      hint: null
+      type: select_one
+      options:
+      - Physician
+      - Nurse Practitioner
+      - Physician Assistant
+      - Nurse
+      - Therapist
+      - Pharmacist
+      - Medical Assistant
+      - Administrative
+      - Other
+      required: true
+    - id: 10
+      name: manager_name
+      label: Manager or Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: access_type
+      label: Type of Access Requested
+      hint: null
+      type: select_one
+      options:
+      - New Access
+      - Additional Access
+      - Access Modification
+      - Access Renewal
+      - Temporary Access
+      - Access Termination
+      required: true
+    - id: 13
+      name: systems_requested
+      label: Systems or Applications
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Electronic Health Records (EHR)
+      - Patient Portal
+      - Scheduling System
+      - Lab Results
+      - Imaging System
+      - Pharmacy System
+      - Billing System
+      - Clinical Documentation
+      - Telehealth Platform
+      - Reporting Dashboard
+      - Other
+      required: true
+    - id: 14
+      name: access_level
+      label: Access Level Needed
+      hint: null
+      type: select_one
+      options:
+      - Read Only
+      - Read and Write
+      - Full Access
+      - Administrative
+      - Custom
+      required: true
+    - id: 15
+      name: patient_population
+      label: Patient Population Access Needed
+      hint: null
+      type: select_one
+      options:
+      - All Patients
+      - My Patients Only
+      - Department Patients
+      - Specific Panel
+      - Other
+      required: true
+    - id: 16
+      name: justification
+      label: Business Justification for Access
+      hint: Why do you need this access
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: start_date
+      label: Access Start Date Needed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: end_date
+      label: Access End Date
+      hint: If temporary
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: urgency
+      label: Request Urgency
+      hint: null
+      type: select_one
+      options:
+      - Routine
+      - Urgent
+      - Critical
+      required: true
+    - id: 20
+      name: hipaa_training_complete
+      label: HIPAA Training Completed
+      hint: null
+      type: select_one
+      options:
+      - Yes Current
+      - Yes Expired
+      - No Pending
+      - Not Applicable
+      required: true
+    - id: 21
+      name: security_training_complete
+      label: Security Awareness Training Completed
+      hint: null
+      type: select_one
+      options:
+      - Yes Current
+      - Yes Expired
+      - No Pending
+      - Not Applicable
+      required: true
+    - id: 22
+      name: confidentiality_agreement
+      label: Confidentiality Agreement Signed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending
+      required: true
+    - id: 23
+      name: previous_access
+      label: Have You Had Portal Access Before
+      hint: null
+      type: select_one
+      options:
+      - Yes Current
+      - Yes Previous
+      - false
+      required: false
+    - id: 24
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: requester_signature
+      label: Requester Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: requester_signature_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 27
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending Review
+      required: false
+    - id: 28
+      name: manager_signature
+      label: Manager Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: it_approval
+      label: IT Approval
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending Review
+      required: false
+    - id: 30
+      name: it_signature
+      label: IT Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: false

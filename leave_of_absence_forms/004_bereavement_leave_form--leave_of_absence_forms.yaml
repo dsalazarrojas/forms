@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bereavement Leave Form
+    pages:
+    - id: 1
+      name: request_info_header
+      label: -- Request Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department_selection
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Sales and Marketing
+      - Human Resources
+      - Engineering and Tech
+      - Operations and Logistics
+      - Finance
+      - Other
+      required: true
+    - id: 5
+      name: absence_details_header
+      label: -- Absence Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: deceased_relationship_text
+      label: Relationship to the Deceased
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: start_date_leave
+      label: Start Date of Leave
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: end_date_leave
+      label: End Date of Leave
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: reentry_date
+      label: Return to Work Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: leave_reason_description
+      label: Additional Details or Reason
+      hint: Optional - any further information regarding your request
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_support_header
+      label: -- Contact and Support --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: work_email_address
+      label: Work Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: mobile_phone_number
+      label: Mobile Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: availability_status
+      label: Availability for Urgent Inquiries
+      hint: Will you be reachable for critical work questions
+      type: select_one
+      options:
+      - Yes - Reachable via phone
+      - Yes - Reachable via email only
+      - No - I will be completely offline
+      required: true
+    - id: 15
+      name: counseling_support_interest
+      label: Grief Counseling Support
+      hint: Would you like HR to send information about our Employee Assistance Program
+      type: select_one
+      options:
+      - Yes - Please send information
+      - No - Thank you
+      required: true
+    - id: 16
+      name: certification_statement
+      label: Certification of Request
+      hint: null
+      type: select_one
+      options:
+      - I certify that this request is made in accordance with company policy
+      - Other
+      required: true

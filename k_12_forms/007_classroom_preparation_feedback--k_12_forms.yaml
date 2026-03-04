@@ -1,0 +1,180 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Classroom Preparation Feedback
+    pages:
+      - id: 1
+        name: classroom_number
+        label: Classroom Number or Name
+        hint: Identify the classroom being evaluated
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: evaluator_name
+        label: Evaluator Name
+        hint: Name of the person conducting the evaluation
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: evaluation_date
+        label: Evaluation Date
+        hint: Date of the classroom preparation check
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: grade_level
+        label: Grade Level
+        hint: Grade level assigned to this classroom
+        type: select_one
+        options:
+          - Kindergarten
+          - Grade 1-2
+          - Grade 3-5
+          - Grade 6-8
+          - Grade 9-12
+        required: true
+      - id: 5
+        name: teacher_assigned
+        label: Teacher Assigned
+        hint: Name of the teacher assigned to this classroom
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: furniture_condition
+        label: Furniture Condition
+        hint: Rate the condition of desks, chairs, and tables
+        type: select_one
+        options:
+          - Excellent - All furniture in great condition
+          - Good - Minor wear, fully functional
+          - Fair - Some repairs needed
+          - Poor - Significant damage or missing items
+        required: true
+      - id: 7
+        name: cleanliness_rating
+        label: Cleanliness Rating
+        hint: Rate the overall cleanliness of the classroom
+        type: select_one
+        options:
+          - Excellent - Spotless and well-maintained
+          - Good - Clean and tidy
+          - Fair - Needs some cleaning
+          - Poor - Requires thorough cleaning
+        required: true
+      - id: 8
+        name: supplies_availability
+        label: Supplies Availability
+        hint: Are necessary classroom supplies available and organized
+        type: select_one
+        options:
+          - Fully Stocked - All supplies available
+          - Adequate - Most supplies available
+          - Limited - Some supplies missing
+          - Insufficient - Many supplies needed
+        required: true
+      - id: 9
+        name: technology_readiness
+        label: Technology Readiness
+        hint: Is classroom technology set up and functional
+        type: select_one
+        options:
+          - Fully Ready - All technology working
+          - Mostly Ready - Minor issues
+          - Partially Ready - Some issues to address
+          - Not Ready - Significant technology problems
+        required: true
+      - id: 10
+        name: safety_equipment_check
+        label: Safety Equipment Check
+        hint: Are safety equipment and supplies in place
+        type: select_one
+        options:
+          - Complete - All safety equipment present
+          - Mostly Complete - Minor items missing
+          - Incomplete - Several items missing
+          - Inadequate - Safety concerns exist
+        required: true
+      - id: 11
+        name: lighting_adequacy
+        label: Lighting Adequacy
+        hint: Is classroom lighting sufficient and functional
+        type: select_one
+        options:
+          - Excellent - All lights working, well-lit
+          - Good - Adequate lighting
+          - Fair - Some lights not working
+          - Poor - Insufficient lighting
+        required: true
+      - id: 12
+        name: temperature_comfort
+        label: Temperature Comfort
+        hint: Is the classroom temperature comfortable
+        type: select_one
+        options:
+          - Very Comfortable - Ideal temperature
+          - Comfortable - Acceptable range
+          - Somewhat Uncomfortable - Too hot or cold
+          - Uncomfortable - Needs immediate adjustment
+        required: true
+      - id: 13
+        name: instructional_materials
+        label: Instructional Materials
+        hint: Are whiteboards, projectors, and teaching aids ready
+        type: select_one
+        options:
+          - Fully Prepared - All materials ready
+          - Mostly Prepared - Minor items needed
+          - Partially Prepared - Several items needed
+          - Unprepared - Many materials missing
+        required: true
+      - id: 14
+        name: issues_identified
+        label: Issues Identified
+        hint: List any issues that need to be addressed
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: priority_level
+        label: Priority Level
+        hint: How urgent are the identified issues
+        type: select_one
+        options:
+          - High - Immediate action required
+          - Medium - Address within one week
+          - Low - Address when convenient
+          - None - No issues identified
+        required: true
+      - id: 16
+        name: improvement_suggestions
+        label: Improvement Suggestions
+        hint: Recommendations for improving classroom readiness
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: classroom_ready_for_use
+        label: Is Classroom Ready for Use
+        hint: Can this classroom be used for instruction
+        type: select_one
+        options:
+          - Yes - Fully ready
+          - Yes - With minor adjustments
+          - No - Needs significant preparation
+          - No - Cannot be used until issues resolved
+        required: true

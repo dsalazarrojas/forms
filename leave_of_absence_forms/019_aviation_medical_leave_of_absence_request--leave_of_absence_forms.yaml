@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aviation Medical Leave Of Absence Request
+    pages:
+    - id: 1
+      name: section_employee_info
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: employee_email
+      label: Employee Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Select your primary work group
+      type: select_one
+      options:
+      - Flight Operations (Pilots/Crew)
+      - Ground Operations (Ramp/Gate)
+      - Maintenance (MX)
+      - Corporate and Administration
+      - Customer Service
+      required: true
+    - id: 6
+      name: position_title
+      label: Position Title
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_leave_details
+      label: -- Leave of Absence Details --
+      hint: Specify the duration and type of leave
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: leave_start_date
+      label: Leave Start Date
+      hint: First day of absence
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: leave_end_date
+      label: Leave End Date (Estimated)
+      hint: Last day of absence
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: leave_type
+      label: Type of Medical Leave
+      hint: null
+      type: select_one
+      options:
+      - Short-term Medical Leave
+      - Long-term Medical Leave
+      - FMLA (Family and Medical Leave Act)
+      - Personal Medical Procedure
+      - Recovery from Injury
+      required: true
+    - id: 11
+      name: medical_certification
+      label: Medical Certification Attached?
+      hint: Do you have a physician's note?
+      type: select_one
+      options:
+      - Yes, Attached
+      - No, I will provide it later
+      required: true
+    - id: 12
+      name: physician_name
+      label: Treating Physician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: return_date_estimate
+      label: Expected Return to Duty Date
+      hint: Date you expect to be cleared for work
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: section_review
+      label: -- Review and Approval --
+      hint: For supervisor and HR use
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: supervisor_name
+      label: Direct Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: additional_notes
+      label: Additional Notes
+      hint: Provide any extra information here
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: employee_acknowledgment
+      label: Acknowledgment
+      hint: I confirm this information is accurate
+      type: select_one
+      options:
+      - Yes, I agree
+      - Other
+      required: true

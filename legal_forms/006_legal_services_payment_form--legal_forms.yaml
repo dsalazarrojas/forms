@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legal Services Payment Form
+    pages:
+    - id: 1
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_type
+      label: service_type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Court Fee''}'
+      - '{''name'': ''Consultation''}'
+      - '{''name'': ''Document Review''}'
+      - '{''name'': ''Document Preparation''}'
+      - '{''name'': ''Document Review Plus''}'
+      - '{''name'': ''Document Preparation Plus''}'
+      required: false
+    - id: 3
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Check''}'
+      - '{''value'': ''Online Payment''}'
+      - '{''value'': ''Bank Transfer''}'
+      - '{''value'': ''Cash''}'
+      required: false
+    - id: 4
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Paid''}'
+      - '{''value'': ''Unpaid''}'
+      - '{''value'': ''Pending''}'
+      required: false
+    - id: 8
+      name: client_email
+      label: client_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: client_phone
+      label: client_phone
+      hint: null
+      type: text
+      options: []
+      required: false

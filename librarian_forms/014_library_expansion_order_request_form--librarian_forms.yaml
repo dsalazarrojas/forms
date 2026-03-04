@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: library_expansion_order_request_form
+    pages:
+    - id: 1
+      name: branch
+      label: Branch
+      hint: Branch where expansion is needed
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: delivery_needs
+      label: Delivery Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: expansion_materials
+      label: Expansion Materials
+      hint: null
+      type: select_one
+      options:
+      - Expansion Materials 1
+      - Expansion Materials 2
+      - Expansion Materials 3
+      required: true

@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Posting Request Form
+    pages:
+    - id: 1
+      name: job_requesting_form
+      label: Job Requesting Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_position
+      label: job-position
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 3
+      name: job_description
+      label: job-description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_requirements
+      label: job-requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_qualifications
+      label: job-qualifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_posting_url
+      label: job-posting-url
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: job_requestor
+      label: job-requestor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: job_posting_requester_email
+      label: job-posting-requester-email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: job_requester_email
+      label: job-requester-email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: job_posting_requester_phone
+      label: job-posting-requester-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: job_requester_phone
+      label: job-requester-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: job_agree_to_posting
+      label: job-agree-to-posting
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: job_agree_to_share_data
+      label: job-agree-to-share-data
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: job_agree_to_terms
+      label: job-agree-to-terms
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: job_terms
+      label: job-terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: job_requester_notes
+      label: job-requester-notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: job_posting_requester_comments
+      label: job-posting-requester-comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: job_agree_to_share_comments
+      label: job-agree-to-share-comments
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 19
+      name: job_requester_agree_to_share
+      label: job-requester-agree-to-share
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 20
+      name: job_agree_to_share_what
+      label: job-agree-to-share-what
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 21
+      name: job_requester_agree_to_share_what
+      label: job-requester-agree-to-share-what
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 22
+      name: job_requester_agree_to_share_with
+      label: job-requester-agree-to-share-with
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 23
+      name: job_posting_requester_agree_to_share_with
+      label: job-posting-requester-agree-to-share-with
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 24
+      name: job_requester_agree_to_share_with_what
+      label: job-requester-agree-to-share-with-what
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 25
+      name: job_posting_requester_agree_to_share_with_what
+      label: job-posting-requester-agree-to-share-with-what
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

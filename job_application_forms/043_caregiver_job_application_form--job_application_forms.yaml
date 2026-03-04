@@ -1,0 +1,241 @@
+inputSchema:
+  type: object
+  properties:
+    title: Caregiver Job Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Include area code
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: position_applying
+      label: Position Applying For
+      hint: Caregiver, home health aide, nursing assistant, etc.
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: employment_type_desired
+      label: Type of Employment Desired
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Temporary
+      - On-call
+      - Contract
+      required: true
+    - id: 11
+      name: start_date
+      label: Desired Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: education_level
+      label: Highest Level of Education
+      hint: null
+      type: select_one
+      options:
+      - High School Diploma
+      - Some College
+      - Associate Degree
+      - Bachelor's Degree
+      - Master's Degree
+      - Vocational Training
+      required: true
+    - id: 13
+      name: certifications_licenses
+      label: Certifications and Licenses
+      hint: CNA, HHA, CPR, First Aid, etc.
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: years_caregiving_experience
+      label: Years of Caregiving Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: types_care_experience
+      label: Types of Care Experience
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Elderly care
+      - Disability care
+      - Pediatric care
+      - Dementia care
+      - Palliative care
+      - Post-operative care
+      - Mental health support
+      - Home-based care
+      - Facility-based care
+      required: true
+    - id: 16
+      name: employment_history
+      label: Employment History
+      hint: List previous caregiving positions and employers
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: work_references
+      label: Work References
+      hint: Names and contact info of 2-3 references
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: skills_strengths
+      label: Key Skills and Strengths
+      hint: What are your caregiving strengths?
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: language_proficiency
+      label: Languages Spoken
+      hint: List all fluent languages
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: shift_preferences
+      label: Shift Preferences
+      hint: Preferred work schedule
+      type: select_multiple
+      options:
+      - Day shift
+      - Evening shift
+      - Night shift
+      - Overnight
+      - Weekends
+      - Weekdays only
+      - Flexible schedule
+      required: true
+    - id: 21
+      name: driving_license
+      label: Valid Driver's License and Transportation
+      hint: null
+      type: select_one
+      options:
+      - Yes - own vehicle
+      - Yes - public transportation
+      - Yes - other transportation
+      - No - transportation assistance needed
+      required: true
+    - id: 22
+      name: background_check_consent
+      label: Consent to Background Check
+      hint: Required for employment
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 23
+      name: criminal_history
+      label: Any Criminal Convictions?
+      hint: Excluding minor traffic violations
+      type: select_one
+      options:
+      - 'No'
+      - Yes - please explain
+      required: true
+    - id: 24
+      name: health_screening
+      label: Health Screening and Physical Clearance
+      hint: May be required by employer
+      type: select_one
+      options:
+      - I understand and consent
+      - I have health concerns
+      - I do not consent
+      required: true
+    - id: 25
+      name: child_abuse_background
+      label: No Child Abuse History
+      hint: Must declare if applicable
+      type: select_one
+      options:
+      - No history of abuse or neglect
+      - Have concerns - need to discuss
+      required: true
+    - id: 26
+      name: flexibility_adaptability
+      label: Flexibility and Adaptability
+      hint: Ability to work in different settings?
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: why_caregiving
+      label: Why Do You Want to Work in Caregiving?
+      hint: Motivation and passion for the work
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: cover_letter
+      label: Cover Letter or Personal Statement
+      hint: Additional information about yourself
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,99 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Travel Delay Absence Form
+    pages:
+    - id: 1
+      name: travel_delay_absence_form_travel_delay
+      label: travel delay
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_delay_absence_form_start_date
+      label: start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: travel_delay_absence_form_end_date
+      label: end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: travel_delay_absence_form_reason
+      label: reason
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''travel disruption'', ''value'': ''travel disruption''}'
+      - '{''id'': 2, ''label'': ''other'', ''value'': ''other''}'
+      required: true
+    - id: 5
+      name: travel_delay_absence_form_travel_date
+      label: travel date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: travel_delay_absence_form_return_date
+      label: return date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: travel_delay_absence_form_location
+      label: location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''airport'', ''value'': ''airport''}'
+      - '{''id'': 2, ''label'': ''other'', ''value'': ''other''}'
+      required: true
+    - id: 8
+      name: travel_delay_absence_form_comment
+      label: comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: travel_delay_absence_form_employee_id
+      label: employee id
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''select one'', ''value'': ''select one''}'
+      - '{''id'': 2, ''label'': ''select two'', ''value'': ''select two''}'
+      required: true
+    - id: 10
+      name: travel_delay_absence_form_travel_details
+      label: travel details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: travel_delay_absence_form_travel_document
+      label: travel document
+      hint: null
+      type: text
+      options: []
+      required: false

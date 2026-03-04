@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Compliance Statement Filing Application Form
+    pages:
+    - id: 1
+      name: section_entity_information
+      label: -- Legal Entity Information --
+      hint: Please provide the legal name and contact details of the entity filing
+        the statement.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: legal_entity_name
+      label: Legal Entity Name
+      hint: Full legal name of the entity filing the compliance statement.
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: registration_id_number
+      label: Entity Registration ID
+      hint: As listed in your registration documents.
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: head_office_address
+      label: Head Office Address
+      hint: Full street address of the entity.
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: head_office_contact_email
+      label: Head Office Contact Email
+      hint: example@entity.com
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: head_office_contact_phone
+      label: Head Office Contact Phone
+      hint: (###)
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: entity_type
+      label: Entity Type
+      hint: Select the legal form of the entity.
+      type: select_one
+      options:
+      - Public Limited Company
+      - Private Limited Company
+      - Partnership
+      - Sole Proprietorship
+      - Non-Profit Organization
+      - Government Agency
+      - Other
+      required: true
+    - id: 8
+      name: section_statement_filing_details
+      label: -- Statement Filing Details --
+      hint: Provide the specific information regarding the compliance statement.
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: filing_period_start
+      label: Filing Period Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: filing_period_end
+      label: Filing Period End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: filing_type
+      label: Filing Type
+      hint: Is this a first-time filing or an update?
+      type: select_one
+      options:
+      - Initial Filing
+      - Periodic Renewal
+      - Corrected Filing
+      - Final Statement
+      required: true
+    - id: 12
+      name: compliance_regulations_addressed
+      label: Compliance Regulations Addressed
+      hint: List the primary regulations or standards covered by this statement.
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: confirmation_of_compliance
+      label: Confirmation of Compliance
+      hint: Does the entity confirm full compliance with the stated regulations?
+      type: select_one
+      options:
+      - Yes - Full Compliance
+      - No - Partial Compliance (Requires Explanation)
+      required: true
+    - id: 14
+      name: explanation_for_partial_compliance
+      label: Explanation for Partial Compliance
+      hint: Provide details if "No" was selected above.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_authorization
+      label: -- Authorization --
+      hint: Confirmation of the filing application.
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: authorized_officer_full_name
+      label: Authorized Officer Full Name
+      hint: Person responsible for the accuracy of this statement.
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: authorized_officer_position
+      label: Authorized Officer Position
+      hint: Professional title or role.
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: filing_declaration_consent
+      label: Filing Declaration Consent
+      hint: I declare that the information provided in this application is true and
+        correct to the best of my knowledge.
+      type: select_one
+      options:
+      - I Declare
+      - Other
+      required: true
+    - id: 19
+      name: filing_timestamp
+      label: Filing Timestamp
+      hint: null
+      type: text
+      options: []
+      required: false

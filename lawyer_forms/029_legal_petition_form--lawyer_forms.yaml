@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legal Petition Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: petitioner
+      label: Petitioner
+      hint: Name, address, contact
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: case_details
+      label: Case Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: case_number
+      label: Case Number
+      hint: Case number or reference
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: legal_basis
+      label: Legal Basis
+      hint: null
+      type: select_one
+      options:
+      - Civil
+      - Criminal
+      - Other
+      - Unknown
+      required: false
+    - id: 6
+      name: petition_type
+      label: Petition Type
+      hint: Type of petition
+      type: select_multiple
+      options:
+      - Injunction
+      - Writ of Habeas Corpus
+      - Writ of Mandamus
+      - Other
+      required: false
+    - id: 7
+      name: court
+      label: Court
+      hint: Court name or location
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_info
+      label: Contact Information
+      hint: Name, address, phone, email
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: legal_representative
+      label: Legal Representative
+      hint: Name, firm, or organization
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: signature
+      label: Signature
+      hint: Date, name, and title of representative
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: date_served
+      label: Date Served
+      hint: Date served
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: served_by
+      label: Served By
+      hint: Name of server or process server
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date_received
+      label: Date Received
+      hint: Date received
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: received_by
+      label: Received By
+      hint: Name of receiver or clerk
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: case_manager
+      label: Case Manager
+      hint: Name or title
+      type: text
+      options: []
+      required: false

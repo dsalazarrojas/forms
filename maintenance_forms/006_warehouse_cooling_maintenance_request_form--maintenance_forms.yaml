@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Warehouse Cooling Maintenance Request Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: cooling_equipment
+      label: Cooling Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: maintenance_priority
+      label: Maintenance Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: maintenance_type
+      label: Maintenance Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: scheduled_date
+      label: Scheduled Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: actual_start_date
+      label: Actual Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: actual_end_date
+      label: Actual End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: form_comments
+      label: Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: facility
+      label: Facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: equipment_number
+      label: Equipment Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: equipment_status
+      label: Equipment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: equipment_condition
+      label: Equipment Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: scheduled_start_date
+      label: Scheduled Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: scheduled_end_date
+      label: Scheduled End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: actual_start_time
+      label: Actual Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: actual_end_time
+      label: Actual End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: submitted_by_role
+      label: Submitted By Role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

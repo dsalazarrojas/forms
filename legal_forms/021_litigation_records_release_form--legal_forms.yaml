@@ -1,0 +1,80 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Litigation Records Release Form
+    pages:
+    - id: 1
+      name: legal_professional
+      label: Legal Professional
+      hint: null
+      type: select_one
+      options:
+      - Attorney
+      - Paralegal
+      - Litigation Consultant
+      - Other
+      required: false
+    - id: 2
+      name: client
+      label: Client
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_released
+      label: Date Released
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: release_to
+      label: Release To
+      hint: null
+      type: select_multiple
+      options:
+      - Attorney
+      - Law Firm
+      - Client
+      - Other
+      required: false
+    - id: 5
+      name: records_released
+      label: Records Released
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reason_released
+      label: Reason Released
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email_client
+      label: Email Client
+      hint: null
+      type: email
+      options: []
+      required: false

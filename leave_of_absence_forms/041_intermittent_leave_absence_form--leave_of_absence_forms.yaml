@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Intermittent Leave Absence Form
+    pages:
+    - id: 1
+      name: user_input_page
+      label: User Input Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reason_for_leave
+      label: Reason for Leave
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: leave_start_date
+      label: Leave Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: leave_end_date
+      label: Leave End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: leave_type
+      label: Leave Type
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 8
+      name: shift
+      label: Shift
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 11
+      name: employee_confirmation
+      label: Employee Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: manager_confirmation
+      label: Manager Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false

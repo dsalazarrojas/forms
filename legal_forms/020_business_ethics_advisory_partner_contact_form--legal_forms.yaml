@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Ethics Advisory Partner Contact Form
+    pages:
+    - id: 1
+      name: inquiry_section
+      label: -- Inquiry Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inquiry_type
+      label: Type of Inquiry
+      hint: What is the nature of your ethics inquiry?
+      type: select_one
+      options:
+      - Code of Ethics Review
+      - Compliance Question
+      - Whistleblower Support
+      - Training Request
+      - Audit Assistance
+      - Partnership Inquiry
+      - Other
+      required: true
+    - id: 3
+      name: urgency_level
+      label: Urgency Level
+      hint: How quickly do you need a response?
+      type: select_one
+      options:
+      - Critical (within 24 hours)
+      - High (within 3 days)
+      - Medium (within 1 week)
+      - Low (flexible)
+      required: true
+    - id: 4
+      name: contact_section
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: contact_name
+      label: Contact Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: organization_name
+      label: Organization Name
+      hint: Your company or organization
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: your_title
+      label: Your Title
+      hint: Your position or role
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: company_section
+      label: -- Organization Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: company_size
+      label: Organization Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-50
+      - 51-200
+      - 201-500
+      - 501-1000
+      - 1000+
+      required: false
+    - id: 12
+      name: industry_sector
+      label: Industry Sector
+      hint: What industry are you in?
+      type: select_one
+      options:
+      - Finance
+      - Healthcare
+      - Technology
+      - Manufacturing
+      - Retail
+      - Government
+      - Non-Profit
+      - Education
+      - Other
+      required: false
+    - id: 13
+      name: headquarters_location
+      label: Headquarters Location
+      hint: City and country
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: issue_section
+      label: -- Issue Description --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: issue_description
+      label: Describe the ethics issue or inquiry
+      hint: Provide details about the situation
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: affected_parties
+      label: Parties affected by this issue
+      hint: Who is involved in this situation?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: relevant_policies
+      label: Relevant policies or regulations
+      hint: What policies apply?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: actions_taken
+      label: Actions already taken
+      hint: What steps have been taken so far?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: solutions_section
+      label: -- Expected Solutions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: desired_outcome
+      label: Desired outcome or solution
+      hint: What resolution are you seeking?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: services_needed
+      label: Services needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Consulting
+      - Training
+      - Auditing
+      - Policy Development
+      - Investigation Support
+      - Legal Review
+      required: false
+    - id: 22
+      name: timeline_section
+      label: -- Timeline and Budget --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: resolution_timeline
+      label: Desired resolution timeline
+      hint: When do you need this resolved?
+      type: select_one
+      options:
+      - Immediately
+      - Within 1 week
+      - Within 1 month
+      - Within 3 months
+      - No specific deadline
+      required: false
+    - id: 24
+      name: budget_range
+      label: Budget range for this engagement
+      hint: What is your budget?
+      type: select_one
+      options:
+      - Less than $5,000
+      - $5,000 - $10,000
+      - $10,000 - $25,000
+      - $25,000 - $50,000
+      - More than $50,000
+      required: false
+    - id: 25
+      name: additional_info
+      label: Additional information
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false

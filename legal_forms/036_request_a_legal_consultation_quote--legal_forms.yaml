@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Request A Legal Consultation Quote
+    pages:
+    - id: 1
+      name: legal_consultation_details
+      label: Legal Consultation Quote
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attorney_name
+      label: Attorney Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: priority
+      label: Urgency Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: consultation_date
+      label: Consultation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: consultation_time
+      label: Consultation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: message
+      label: Special Requests
+      hint: Any specific questions or requests for the consultation
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submission_form_id
+      label: Submission Form ID
+      hint: ID of the submission
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: created_at
+      label: Created At
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submission_id
+      label: Submission ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: jotform_page_id
+      label: JotForm Page ID
+      hint: null
+      type: text
+      options: []
+      required: false

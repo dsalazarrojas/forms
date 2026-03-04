@@ -1,0 +1,295 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commercial Exchange Agreement
+    pages:
+    - id: 1
+      name: agreement_date
+      label: Agreement Date
+      hint: Date of agreement
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: agreement_number
+      label: Agreement Number
+      hint: Reference number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: section_header_party_a
+      label: -- Party A Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: party_a_name
+      label: Party A Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: party_a_address
+      label: Party A Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: party_a_contact
+      label: Party A Contact
+      hint: Contact person name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: party_a_email
+      label: Party A Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: party_a_phone
+      label: Party A Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_header_party_b
+      label: -- Party B Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: party_b_name
+      label: Party B Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: party_b_address
+      label: Party B Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: party_b_contact
+      label: Party B Contact
+      hint: Contact person name
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: party_b_email
+      label: Party B Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: party_b_phone
+      label: Party B Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: section_header_exchange_details
+      label: -- Exchange Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: exchange_type
+      label: Exchange Type
+      hint: Type of exchange
+      type: select_one
+      options:
+      - Goods for Goods
+      - Goods for Services
+      - Services for Services
+      - Services for Goods
+      - Mixed Exchange
+      required: true
+    - id: 17
+      name: party_a_provides
+      label: Party A Provides
+      hint: Description of goods or services
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: party_a_value
+      label: Party A Value
+      hint: Estimated value
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: party_b_provides
+      label: Party B Provides
+      hint: Description of goods or services
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: party_b_value
+      label: Party B Value
+      hint: Estimated value
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: exchange_timeline
+      label: Exchange Timeline
+      hint: When will exchange occur
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: delivery_method
+      label: Delivery Method
+      hint: How will items be delivered
+      type: select_one
+      options:
+      - Pickup
+      - Standard Shipping
+      - Express Shipping
+      - Digital Delivery
+      - On-Site Service
+      - Other
+      required: true
+    - id: 23
+      name: section_header_terms
+      label: -- Terms and Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: payment_required
+      label: Additional Payment Required
+      hint: Is cash payment needed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: payment_amount
+      label: Payment Amount
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: warranty_included
+      label: Warranty Included
+      hint: Is warranty provided
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: warranty_terms
+      label: Warranty Terms
+      hint: Describe warranty
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: return_policy
+      label: Return Policy
+      hint: Are returns accepted
+      type: select_one
+      options:
+      - Yes Within 30 Days
+      - Yes Within 14 Days
+      - Yes Within 7 Days
+      - No Returns
+      - Case by Case
+      required: true
+    - id: 29
+      name: dispute_resolution
+      label: Dispute Resolution
+      hint: How will disputes be handled
+      type: select_one
+      options:
+      - Negotiation
+      - Mediation
+      - Arbitration
+      - Litigation
+      required: true
+    - id: 30
+      name: governing_law
+      label: Governing Law
+      hint: Which state laws apply
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: section_header_signatures
+      label: -- Signatures --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: party_a_signature
+      label: Party A Signature
+      hint: Authorized signature
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: party_a_signature_date
+      label: Party A Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true
+    - id: 34
+      name: party_b_signature
+      label: Party B Signature
+      hint: Authorized signature
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: party_b_signature_date
+      label: Party B Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true
+    - id: 36
+      name: witness_name
+      label: Witness Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: witness_signature
+      label: Witness Signature
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: additional_terms
+      label: Additional Terms
+      hint: Any other conditions
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,39 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legal Associate Employment Contract Review Form
+    pages:
+    - id: 1
+      name: contract_review_form
+      label: Contract Review Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: concerns
+      label: Concerns
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: employment_contract
+      label: Employment Contract
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: agreement_evaluations
+      label: Agreement Evaluations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

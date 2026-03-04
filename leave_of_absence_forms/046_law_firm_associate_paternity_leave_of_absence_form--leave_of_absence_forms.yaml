@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Law Firm Associate Paternity Leave Of Absence Form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: leave_type
+      label: Leave Type
+      hint: null
+      type: select_one
+      options:
+      - Paternity Leave
+      - Maternity Leave
+      - Other Leave
+      required: false
+    - id: 6
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: employee_approval
+      label: Employee Approval
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: leave_request_date
+      label: Leave Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: return_to_work_date
+      label: Return to Work Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: reason_for_leave
+      label: Reason for Leave
+      hint: null
+      type: select_multiple
+      options:
+      - Personal reasons
+      - Medical reasons
+      - Other
+      required: false
+    - id: 11
+      name: leave_status
+      label: Leave Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Declined
+      - Denied
+      required: false

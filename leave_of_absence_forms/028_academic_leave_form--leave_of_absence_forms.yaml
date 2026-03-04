@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Leave Form
+    pages:
+    - id: 1
+      name: personal_information
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student full name
+      hint: Enter the student's legal full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student identification number
+      hint: Institutional ID or registration number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Contact email
+      hint: Preferred email for updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: program_of_study
+      label: Program or major
+      hint: Department and program name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: leave_start_date
+      label: Leave start date
+      hint: Anticipated first day of leave
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: leave_end_date
+      label: Leave end date
+      hint: Expected return date if known
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: leave_reason
+      label: Primary reason for leave
+      hint: Provide a brief description of the circumstances
+      type: select_one
+      options:
+      - Medical
+      - Personal
+      - Family
+      - Academic
+      - Other
+      required: true
+    - id: 9
+      name: supporting_documents
+      label: Supporting documents
+      hint: List documents or indicate if attaching via portal
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consent_and_signature
+      label: Consent confirmation
+      hint: I confirm the information provided is accurate
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true

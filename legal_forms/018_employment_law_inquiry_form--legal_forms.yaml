@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: employment_law_inquiry_form
+    pages:
+    - id: 1
+      name: form_data
+      label: form_data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employment_issue
+      label: employment_issue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employment_status
+      label: employment_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Employed''}'
+      - '{''label'': ''Self-Employed''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: employment_type
+      label: employment_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''W-2''}'
+      - '{''label'': ''Non-W-2''}'
+      required: false
+    - id: 6
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''submit''}'
+      - Other
+      required: false
+    - id: 11
+      name: confirm_submit
+      label: confirm_submit
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''submit''}'
+      - Other
+      required: false

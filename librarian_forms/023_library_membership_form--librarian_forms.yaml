@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Library Membership Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: Enter your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: sign_up_date
+      label: Sign up date
+      hint: Enter the date you signed up
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: membership_type
+      label: Membership type
+      hint: Enter your membership type
+      type: select_one
+      options:
+      - Student
+      - Member
+      - Other
+      required: true
+    - id: 8
+      name: member_card_id
+      label: Member card ID
+      hint: Enter your library card ID
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: screen_capture_feedback_form
+    pages:
+    - id: 1
+      name: screen_capture
+      label: Screen Capture
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: upload_files
+      label: Upload Files
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1}'
+      - '{''value'': 2}'
+      - '{''value'': 3}'
+      required: false
+    - id: 4
+      name: context
+      label: Context
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: ratings
+      label: Ratings
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1}'
+      - '{''value'': 2}'
+      - '{''value'': 3}'
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

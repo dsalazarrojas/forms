@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Web Development Payment Form
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: Project name is required
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''One-time''}'
+      - '{''id'': 2, ''name'': ''Recurring''}'
+      required: false
+    - id: 3
+      name: payment_amount
+      label: Payment Amount
+      hint: Payment amount is required
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Bank Transfer''}'
+      - '{''id'': 2, ''name'': ''PayPal''}'
+      - '{''id'': 3, ''name'': ''Credit Card''}'
+      required: false
+    - id: 5
+      name: request_description
+      label: Request Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: estimated_project_duration
+      label: Estimated Project Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: requested_start_date
+      label: Requested Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: requested_end_date
+      label: Requested End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: client_address
+      label: Client Address
+      hint: null
+      type: text
+      options: []
+      required: false

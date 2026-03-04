@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Entity Certificate Of Termination Filing
+    pages:
+    - id: 1
+      name: business_information
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_type
+      label: Business Type
+      hint: Structure of entity
+      type: select_one
+      options:
+      - Corporation
+      - LLC
+      - Partnership
+      - Non-Profit
+      - Sole Proprietor
+      required: true
+    - id: 4
+      name: tax_id
+      label: Tax ID or EIN
+      hint: Federal tax ID
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: state_filed
+      label: State of Formation
+      hint: Where was business filed
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: file_date
+      label: Original File Date
+      hint: When was business registered
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: registration_number
+      label: Registration or Charter Number
+      hint: State registration number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: termination_details
+      label: -- Termination Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: termination_date
+      label: Termination or Dissolution Date
+      hint: When is business terminating
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: termination_reason
+      label: Reason for Termination
+      hint: Why is business closing?
+      type: select_one
+      options:
+      - Business Closed Voluntarily
+      - Business Sold or Merged
+      - Business Bankruptcy
+      - Administrative Reasons
+      - Failure to Renew
+      - Other
+      required: true
+    - id: 11
+      name: dissolution_type
+      label: Type of Dissolution
+      hint: Method of dissolution
+      type: select_one
+      options:
+      - Voluntary Dissolution
+      - Involuntary Dissolution
+      - Administrative Dissolution
+      - Merger Dissolution
+      required: true
+    - id: 12
+      name: principal_contact
+      label: -- Principal Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: contact_name
+      label: Principal Contact Name
+      hint: Person authorized to file
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: contact_title
+      label: Contact Title
+      hint: Position in company
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: contact_email
+      label: Contact Email
+      hint: Business email
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: address_section
+      label: -- Business Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: business_address
+      label: Business Address
+      hint: Last known business address
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: state
+      label: State
+      hint: State code
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: zip_code
+      label: Zip Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: certification
+      label: -- Certification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: confirm_accuracy
+      label: I Confirm This Information is Accurate
+      hint: Do you confirm accuracy?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: signature_date
+      label: Signature Date
+      hint: Date of filing
+      type: date
+      options: []
+      required: true

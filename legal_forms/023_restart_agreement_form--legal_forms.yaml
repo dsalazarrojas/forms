@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restart Agreement Form
+    pages:
+    - id: 1
+      name: agreement_id
+      label: agreement id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - Member 1
+      - Member 2
+      - Member 3
+      - Member 4
+      required: true
+    - id: 3
+      name: agreement_start_date
+      label: agreement start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: select_one
+      options:
+      - Team Lead 1
+      - Team Lead 2
+      - Team Lead 3
+      required: true
+    - id: 5
+      name: approval_date
+      label: approval date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: agreement_type
+      label: agreement type
+      hint: null
+      type: select_one
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      required: true
+    - id: 9
+      name: restart_reason
+      label: restart reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: agreement_status
+      label: agreement status
+      hint: null
+      type: select_one
+      options:
+      - Status 1
+      - Status 2
+      - Status 3
+      required: true
+    - id: 11
+      name: follow_up
+      label: follow-up
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: team_members_2
+      label: Team Members 2
+      hint: null
+      type: select_multiple
+      options:
+      - Member 1
+      - Member 2
+      - Member 3
+      - Member 4
+      required: true
+    - id: 13
+      name: team_lead_2
+      label: Team Lead 2
+      hint: null
+      type: select_one
+      options:
+      - Team Lead 1
+      - Team Lead 2
+      - Team Lead 3
+      required: true
+    - id: 14
+      name: approval_date_2
+      label: approval date 2
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: file_upload_2
+      label: File Upload 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: comments_2
+      label: comments 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: agreement_status_2
+      label: agreement status 2
+      hint: null
+      type: select_one
+      options:
+      - Status 1
+      - Status 2
+      - Status 3
+      required: true
+    - id: 18
+      name: restart_reason_2
+      label: reason 2
+      hint: null
+      type: text
+      options: []
+      required: true

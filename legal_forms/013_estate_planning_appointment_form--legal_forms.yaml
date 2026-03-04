@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Estate Planning Appointment Form
+    pages:
+    - id: 1
+      name: schedule_consultation
+      label: Schedule a Consultation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: contact_info
+      label: Client Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: professional_info
+      label: Professional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false

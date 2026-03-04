@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payday Loan Disclosure Form
+    pages:
+    - id: 1
+      name: loan_application_form
+      label: Loan Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: borrower_name
+      label: Borrower Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: loan_term
+      label: Loan Term
+      hint: null
+      type: select_one
+      options:
+      - 6 months
+      - 12 months
+      - 24 months
+      - 36 months
+      required: false
+    - id: 6
+      name: loan_frequency
+      label: Loan Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: false
+    - id: 7
+      name: loan_term_duration
+      label: Loan Term Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: loan_type
+      label: Loan Type
+      hint: null
+      type: select_one
+      options:
+      - Personal Loan
+      - Auto Loan
+      - Mortgage
+      required: false
+    - id: 9
+      name: borrower_signature
+      label: Borrower Signature
+      hint: null
+      type: text
+      options: []
+      required: false

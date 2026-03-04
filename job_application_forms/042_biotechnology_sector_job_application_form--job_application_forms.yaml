@@ -1,0 +1,550 @@
+inputSchema:
+  type: object
+  properties:
+    title: Biotechnology Sector Job Application Form
+    pages:
+    - id: 1
+      name: personal_information
+      label: Personal Information
+      hint: Enter your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Professional email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: linkedin_profile
+      label: LinkedIn Profile
+      hint: URL to your profile
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: position_information
+      label: Position Information
+      hint: About the position
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: position_applied_for
+      label: Position Applied For
+      hint: Which position
+      type: select_one
+      options:
+      - Research Scientist
+      - Lab Technician
+      - Quality Control Analyst
+      - Manufacturing Associate
+      - Clinical Research Coordinator
+      - Regulatory Affairs Specialist
+      - Process Development Scientist
+      - Quality Assurance Specialist
+      - Research Associate
+      - Other
+      required: true
+    - id: 13
+      name: location_preference
+      label: Location Preference
+      hint: Preferred work location
+      type: select_one
+      options:
+      - Main Campus
+      - Research Facility A
+      - Manufacturing Site
+      - Remote
+      - Any Location
+      required: true
+    - id: 14
+      name: availability
+      label: Availability
+      hint: When can you start
+      type: select_one
+      options:
+      - Immediately
+      - 2 Weeks
+      - 1 Month
+      - 2 Months
+      - Flexible
+      required: true
+    - id: 15
+      name: employment_type
+      label: Employment Type
+      hint: Preferred type
+      type: select_one
+      options:
+      - Full-Time
+      - Part-Time
+      - Contract
+      - Temporary
+      - Internship
+      required: true
+    - id: 16
+      name: salary_expectations
+      label: Salary Expectations
+      hint: Expected range
+      type: select_one
+      options:
+      - $40,000 - $60,000
+      - $60,000 - $80,000
+      - $80,000 - $100,000
+      - $100,000 - $120,000
+      - $120,000 - $150,000
+      - $150,000+
+      - Negotiable
+      required: true
+    - id: 17
+      name: education
+      label: Education
+      hint: Your educational background
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: highest_degree
+      label: Highest Degree
+      hint: Highest earned
+      type: select_one
+      options:
+      - High School Diploma
+      - Associate Degree
+      - Bachelor's Degree
+      - Master's Degree
+      - PhD
+      - MD
+      - Other
+      required: true
+    - id: 19
+      name: degree_field
+      label: Field of Study
+      hint: Your major
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: university
+      label: University
+      hint: Institution name
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: graduation_year
+      label: Graduation Year
+      hint: Year graduated
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: gpa
+      label: GPA
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: relevant_coursework
+      label: Relevant Coursework
+      hint: List relevant courses
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: work_experience
+      label: Work Experience
+      hint: Your employment history
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: years_of_experience
+      label: Years of Experience
+      hint: In biotech or related field
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - 10+ years
+      required: true
+    - id: 26
+      name: current_employer
+      label: Current Employer
+      hint: Where do you work
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: current_position
+      label: Current Position
+      hint: Your title
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: previous_experience
+      label: Previous Experience
+      hint: Describe relevant experience
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: biotech_experience
+      label: Biotechnology Experience
+      hint: Describe your biotech background
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: technical_skills
+      label: Technical Skills
+      hint: Your technical competencies
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: laboratory_skills
+      label: Laboratory Skills
+      hint: Select your lab skills
+      type: select_multiple
+      options:
+      - Cell Culture
+      - PCR
+      - Western Blotting
+      - ELISA
+      - Flow Cytometry
+      - Chromatography
+      - Spectroscopy
+      - Microscopy
+      - Aseptic Technique
+      - HPLC
+      - Other
+      required: true
+    - id: 32
+      name: equipment_proficiency
+      label: Equipment Proficiency
+      hint: Equipment you can operate
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: software_skills
+      label: Software Skills
+      hint: Select software you know
+      type: select_multiple
+      options:
+      - Microsoft Office
+      - LIMS
+      - Electronic Lab Notebook
+      - Statistical Software
+      - Data Analysis Tools
+      - Programming Languages
+      - Other
+      required: false
+    - id: 34
+      name: certifications
+      label: Certifications
+      hint: List any certifications
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: regulatory_knowledge
+      label: Regulatory Knowledge
+      hint: Select areas you know
+      type: select_multiple
+      options:
+      - GMP
+      - GLP
+      - GCP
+      - FDA Regulations
+      - ISO Standards
+      - OSHA Safety
+      - None
+      required: true
+    - id: 36
+      name: research_interests
+      label: Research Interests
+      hint: Your areas of interest
+      type: select_multiple
+      options:
+      - Drug Discovery
+      - Process Development
+      - Quality Control
+      - Clinical Research
+      - Manufacturing
+      - Regulatory Affairs
+      - Analytical Development
+      - Other
+      required: true
+    - id: 37
+      name: publications
+      label: Publications
+      hint: List any publications
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: patents
+      label: Patents
+      hint: List any patents
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: references
+      label: References
+      hint: Professional references
+      type: note
+      options: []
+      required: false
+    - id: 40
+      name: reference_1_name
+      label: Reference 1 Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 41
+      name: reference_1_title
+      label: Reference 1 Title
+      hint: Professional title
+      type: text
+      options: []
+      required: true
+    - id: 42
+      name: reference_1_organization
+      label: Reference 1 Organization
+      hint: Company or institution
+      type: text
+      options: []
+      required: true
+    - id: 43
+      name: reference_1_email
+      label: Reference 1 Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 44
+      name: reference_1_phone
+      label: Reference 1 Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 45
+      name: reference_2_name
+      label: Reference 2 Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 46
+      name: reference_2_email
+      label: Reference 2 Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 47
+      name: documents
+      label: Documents
+      hint: Upload required documents
+      type: note
+      options: []
+      required: false
+    - id: 48
+      name: resume_attached
+      label: Resume Attached
+      hint: Have you attached your resume
+      type: select_one
+      options:
+      - true
+      - Will Submit Separately
+      required: true
+    - id: 49
+      name: cover_letter_attached
+      label: Cover Letter Attached
+      hint: Have you attached a cover letter
+      type: select_one
+      options:
+      - true
+      - false
+      - Will Submit Separately
+      required: true
+    - id: 50
+      name: additional_documents
+      label: Additional Documents
+      hint: List any other documents
+      type: text
+      options: []
+      required: false
+    - id: 51
+      name: additional_questions
+      label: Additional Questions
+      hint: Answer all questions
+      type: note
+      options: []
+      required: false
+    - id: 52
+      name: why_interested
+      label: Why Are You Interested in This Position
+      hint: Brief explanation
+      type: text
+      options: []
+      required: true
+    - id: 53
+      name: greatest_strength
+      label: What Is Your Greatest Strength
+      hint: Brief explanation
+      type: text
+      options: []
+      required: true
+    - id: 54
+      name: greatest_challenge
+      label: Describe a Challenge You Overcame
+      hint: Brief explanation
+      type: text
+      options: []
+      required: true
+    - id: 55
+      name: how_heard_about_position
+      label: How Did You Hear About This Position
+      hint: Help us improve recruiting
+      type: select_one
+      options:
+      - Company Website
+      - Job Board
+      - LinkedIn
+      - Colleague Referral
+      - Recruiter
+      - Career Fair
+      - Other
+      required: true
+    - id: 56
+      name: referral_name
+      label: Referral Name
+      hint: If referred by someone
+      type: text
+      options: []
+      required: false
+    - id: 57
+      name: work_authorization
+      label: Work Authorization
+      hint: Are you authorized to work
+      type: select_one
+      options:
+      - Yes - US Citizen
+      - Yes - Permanent Resident
+      - Yes - Work Visa Holder
+      - No - Require Sponsorship
+      required: true
+    - id: 58
+      name: sponsorship_needed
+      label: Will You Need Sponsorship
+      hint: Now or in the future
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 59
+      name: background_check_consent
+      label: Background Check Consent
+      hint: Do you consent to background check
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - I Do Not Consent
+      required: true
+    - id: 60
+      name: drug_screening_consent
+      label: Drug Screening Consent
+      hint: Do you consent to drug screening
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - I Do Not Consent
+      required: true
+    - id: 61
+      name: equal_opportunity
+      label: Equal Opportunity
+      hint: Voluntary disclosure
+      type: select_one
+      options:
+      - Prefer Not to Answer
+      - true
+      - false
+      required: false
+    - id: 62
+      name: application_statement
+      label: Application Statement
+      hint: Confirm your application
+      type: select_one
+      options:
+      - I certify all information is accurate
+      - I understand false information may disqualify me
+      required: true
+    - id: 63
+      name: application_date
+      label: Application Date
+      hint: Date of application
+      type: date
+      options: []
+      required: true

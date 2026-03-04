@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Attorney Leave Of Absence Form
+    pages:
+    - id: 1
+      name: attorney_information
+      label: -- Attorney Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attorney_name
+      label: Attorney Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: bar_number
+      label: Bar Number
+      hint: State bar number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: position_title
+      label: Position Title
+      hint: Current role at firm
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: office_location
+      label: Office Location
+      hint: Which office are you based in?
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: leave_request_information
+      label: -- Leave Request Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: leave_start_date
+      label: Leave Start Date
+      hint: When will your leave begin?
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: leave_end_date
+      label: Leave End Date
+      hint: When will you return?
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: total_leave_days
+      label: Total Leave Days
+      hint: Number of business days
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: leave_type
+      label: Type of Leave
+      hint: What type of leave?
+      type: select_one
+      options:
+      - Vacation
+      - Medical
+      - Family
+      - Maternity/Paternity
+      - Sabbatical
+      - Unpaid
+      - Other
+      required: true
+    - id: 11
+      name: leave_reason
+      label: Reason for Leave
+      hint: Brief reason for absence
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: case_coverage
+      label: -- Case Coverage --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: active_cases
+      label: Active Cases and Matters
+      hint: List active cases needing coverage
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: coverage_attorney
+      label: Coverage Attorney
+      hint: Who will handle your cases?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: client_notification
+      label: Client Notification
+      hint: Will clients be notified?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - In Progress
+      required: true
+    - id: 16
+      name: pending_deadlines
+      label: Pending Deadlines
+      hint: Any urgent deadlines during leave?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: court_appearances
+      label: Court Appearances During Leave
+      hint: Any scheduled court appearances?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergencies
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: office_access
+      label: Office Access During Leave
+      hint: Will you have limited office access?
+      type: select_one
+      options:
+      - Full Access
+      - Limited Access
+      - No Access
+      required: true
+    - id: 22
+      name: approval_information
+      label: -- Approval Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: managing_partner_approval
+      label: Managing Partner Name
+      hint: Partner approving the leave
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: prior_approval
+      label: Prior Approval
+      hint: Has leave been discussed?
+      type: select_one
+      options:
+      - Approved
+      - Pending Approval
+      - Conditional Approval
+      required: true
+    - id: 25
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other relevant information?
+      type: text
+      options: []
+      required: false

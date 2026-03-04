@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Laboratory Supply Order Form
+    pages:
+    - id: 1
+      name: lab_supply_order_form
+      label: school_laboratory_supply_order_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_category
+      label: equipment_category
+      hint: null
+      type: select_one
+      options:
+      - Microscopes
+      - Pipettes
+      - Test Tubes
+      - Lab Coats
+      required: false
+    - id: 3
+      name: quantity
+      label: total_quantity_ordered
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: lab_supplies_ordered
+      label: lab_supplies_ordered_list
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_frequency
+      label: order_frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 6
+      name: date_ordered
+      label: date_ordered
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_ordered
+      label: time_ordered
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false

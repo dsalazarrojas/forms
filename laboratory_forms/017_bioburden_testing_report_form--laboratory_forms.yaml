@@ -1,0 +1,292 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bioburden Testing Report Form
+    pages:
+      - id: 1
+        name: laboratory_information
+        label: Laboratory Information
+        hint: Enter lab details
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: lab_name
+        label: Laboratory Name
+        hint: Name of testing laboratory
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: lab_id
+        label: Laboratory ID
+        hint: Lab identification number
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: lab_address
+        label: Laboratory Address
+        hint: Complete address
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: report_date
+        label: Report Date
+        hint: Date of report generation
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: report_number
+        label: Report Number
+        hint: Unique report identifier
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: sample_information
+        label: Sample Information
+        hint: Enter sample details
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: sample_id
+        label: Sample ID
+        hint: Sample identification number
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: sample_description
+        label: Sample Description
+        hint: Description of sample received
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: sample_type
+        label: Sample Type
+        hint: Category of sample
+        type: select_one
+        options:
+          - Medical Device
+          - Raw Material
+          - Finished Product
+          - Environmental Sample
+          - Water Sample
+          - Surface Sample
+          - Other
+        required: true
+      - id: 11
+        name: sample_quantity
+        label: Sample Quantity
+        hint: Amount of sample received
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: receipt_date
+        label: Receipt Date
+        hint: Date sample was received
+        type: date
+        options: []
+        required: true
+      - id: 13
+        name: receipt_condition
+        label: Receipt Condition
+        hint: Condition of sample on arrival
+        type: select_one
+        options:
+          - Acceptable
+          - Compromised Packaging
+          - Temperature Excursion
+          - Damaged
+          - Other
+        required: true
+      - id: 14
+        name: client_information
+        label: Client Information
+        hint: Enter client details
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: client_name
+        label: Client Name
+        hint: Name of requesting client
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: client_company
+        label: Company
+        hint: Client company name
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: client_email
+        label: Email Address
+        hint: Contact email
+        type: email
+        options: []
+        required: true
+      - id: 18
+        name: testing_information
+        label: Testing Information
+        hint: Enter test details
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: test_requested
+        label: Test Requested
+        hint: Type of bioburden test
+        type: select_one
+        options:
+          - Total Aerobic Bioburden
+          - Total Yeast and Mold
+          - Combined Bioburden
+          - Specific Organism Testing
+          - Sterility Testing
+        required: true
+      - id: 20
+        name: test_method
+        label: Test Method
+        hint: Method used for analysis
+        type: select_one
+        options:
+          - USP 61 Plate Count
+          - USP 61 Membrane Filtration
+          - USP 71 Sterility Test
+          - ISO 11737-1
+          - Custom Method
+        required: true
+      - id: 21
+        name: test_start_date
+        label: Test Start Date
+        hint: When testing began
+        type: date
+        options: []
+        required: true
+      - id: 22
+        name: test_completion_date
+        label: Test Completion Date
+        hint: When testing ended
+        type: date
+        options: []
+        required: true
+      - id: 23
+        name: test_results
+        label: Test Results
+        hint: Enter test results
+        type: note
+        options: []
+        required: false
+      - id: 24
+        name: bioburden_result
+        label: Bioburden Result
+        hint: Colony forming units per unit
+        type: text
+        options: []
+        required: true
+      - id: 25
+        name: organisms_detected
+        label: Organisms Detected
+        hint: List identified organisms
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: specification_limit
+        label: Specification Limit
+        hint: Acceptable limit
+        type: text
+        options: []
+        required: true
+      - id: 27
+        name: result_interpretation
+        label: Result Interpretation
+        hint: Pass or fail determination
+        type: select_one
+        options:
+          - Pass - Meets Specification
+          - Fail - Exceeds Specification
+          - Indeterminate
+        required: true
+      - id: 28
+        name: analyst_information
+        label: Analyst Information
+        hint: Enter analyst details
+        type: note
+        options: []
+        required: false
+      - id: 29
+        name: analyst_name
+        label: Analyst Name
+        hint: Name of testing analyst
+        type: text
+        options: []
+        required: true
+      - id: 30
+        name: analyst_signature
+        label: Analyst Signature
+        hint: Analyst confirms results
+        type: select_one
+        options:
+          - Results Verified and Accurate
+          - Testing Completed per SOP
+        required: true
+      - id: 31
+        name: qa_review
+        label: QA Review
+        hint: Quality assurance review
+        type: note
+        options: []
+        required: false
+      - id: 32
+        name: qa_reviewer
+        label: QA Reviewer Name
+        hint: Name of QA reviewer
+        type: text
+        options: []
+        required: true
+      - id: 33
+        name: qa_review_date
+        label: QA Review Date
+        hint: Date of QA review
+        type: date
+        options: []
+        required: true
+      - id: 34
+        name: qa_approval
+        label: QA Approval
+        hint: QA approval status
+        type: select_one
+        options:
+          - Approved
+          - Approved with Notes
+          - Pending Review
+          - Rejected
+        required: true
+      - id: 35
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other relevant information
+        type: text
+        options: []
+        required: false

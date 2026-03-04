@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Transportation Form
+    pages:
+    - id: 1
+      name: student_name
+      label: student name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_email
+      label: student email
+      hint: Emacs address of student
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: student_phone
+      label: student phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: guardian_name
+      label: guardian name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: guardian_email
+      label: guardian email
+      hint: Emacs address of guardian
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: guardian_phone
+      label: guardian phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_date_of_birth
+      label: student date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: guardian_date_of_birth
+      label: guardian date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: student_address
+      label: student address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_city
+      label: student city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: student_state
+      label: student state
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: student_zip
+      label: student zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: student_grade
+      label: student grade
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: mode_of_transportation
+      label: mode of transportation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: school_name
+      label: school name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: school_email
+      label: school email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: school_phone
+      label: school phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: teacher_name
+      label: teacher name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: teacher_email
+      label: teacher email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: teacher_phone
+      label: teacher phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: school_address
+      label: school address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: school_city
+      label: school city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: school_state
+      label: school state
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: school_zip
+      label: school zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

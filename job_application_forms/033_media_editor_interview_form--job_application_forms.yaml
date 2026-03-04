@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Media Editor Interview Form
+    pages:
+    - id: 1
+      name: media_editor_application
+      label: Media Editor Application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: creative_teams
+      label: Teams
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Agency''}'
+      - '{''value'': ''In-House''}'
+      required: false
+    - id: 3
+      name: agencies
+      label: Agencies
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Local''}'
+      - '{''value'': ''National''}'
+      required: false
+    - id: 4
+      name: ideal_for
+      label: Ideal For
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Creative Teams''}'
+      - '{''value'': ''Agencies''}'
+      required: true
+    - id: 5
+      name: consistent_candidate_screening
+      label: Consistent Candidate Screening
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: organized_data_collection
+      label: Organized Data Collection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: jotform
+      label: Jotform
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 8
+      name: media_editor_application_description
+      label: Media Editor Application Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: media_type
+      label: Media Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Image''}'
+      - '{''value'': ''Video''}'
+      required: true
+    - id: 10
+      name: media_length
+      label: Media Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: media_size
+      label: Media Size
+      hint: null
+      type: text
+      options: []
+      required: false

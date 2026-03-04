@@ -1,0 +1,400 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Company Deregistration Form
+    pages:
+      - id: 1
+        name: company_name
+        label: Company Name
+        hint: Full legal name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: company_registration_number
+        label: Company Registration Number
+        hint: Official registration ID
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: tax_id_ein
+        label: Tax ID / EIN
+        hint: Tax identification number
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: incorporation_date
+        label: Date of Incorporation
+        hint: When company was formed
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: incorporation_state
+        label: State/Country of Incorporation
+        hint: Where incorporated
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: registered_address
+        label: Registered Office Address
+        hint: Official address
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: principal_business_address
+        label: Principal Business Address
+        hint: Main business location
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: company_type
+        label: Type of Company Entity
+        hint: Business structure
+        type: select_one
+        options:
+          - Corporation (C-Corp)
+          - Corporation (S-Corp)
+          - Limited Liability Company (LLC)
+          - Limited Partnership (LP)
+          - Limited Liability Partnership (LLP)
+          - Sole Proprietorship
+          - Nonprofit Corporation
+          - Other
+        required: true
+      - id: 9
+        name: business_activity
+        label: Primary Business Activity
+        hint: Main business purpose
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: deregistration_reason
+        label: Reason for Deregistration
+        hint: Why deregistering?
+        type: select_one
+        options:
+          - Business closure
+          - Merger with another company
+          - Acquisition
+          - Dissolution by shareholders
+          - Bankruptcy
+          - No longer conducting business
+          - Moving to different jurisdiction
+          - Other
+        required: true
+      - id: 11
+        name: deregistration_details
+        label: Please provide more details about the reason
+        hint: Explanation
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: effective_date
+        label: Proposed Effective Date of Deregistration
+        hint: When should it take effect?
+        type: date
+        options: []
+        required: true
+      - id: 13
+        name: section_shareholders
+        label: -- Shareholder/Member Information --
+        hint: Ownership details
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: shareholder_approval
+        label: Have shareholders approved this deregistration?
+        hint: Approval status
+        type: select_one
+        options:
+          - Yes, unanimous consent
+          - Yes, majority vote
+          - Yes, required percentage met
+          - No approval required
+          - No, pending
+        required: true
+      - id: 15
+        name: approval_date
+        label: Date of Shareholder Approval
+        hint: When approved
+        type: date
+        options: []
+        required: false
+      - id: 16
+        name: shareholder_percentage
+        label: What percentage of shareholders approved?
+        hint: Approval percentage
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: section_liabilities
+        label: -- Liabilities and Debts --
+        hint: Financial obligations
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: outstanding_liabilities
+        label: Does the company have outstanding liabilities?
+        hint: Debts or obligations
+        type: select_one
+        options:
+          - No, all paid
+          - Yes, being settled
+          - Yes, will be settled before deregistration
+          - Yes, transferring to another entity
+        required: true
+      - id: 19
+        name: liabilities_details
+        label: If yes, please provide details
+        hint: Description of liabilities
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: creditor_notification
+        label: Have creditors been notified?
+        hint: Creditor communication
+        type: select_one
+        options:
+          - Yes, all notified
+          - Yes, some notified
+          - No, will notify
+          - Not applicable
+        required: true
+      - id: 21
+        name: section_assets
+        label: -- Assets and Distribution --
+        hint: Asset handling
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: company_assets
+        label: Does the company have remaining assets?
+        hint: Asset status
+        type: select_one
+        options:
+          - No, all distributed
+          - Yes, being distributed
+          - Yes, will be distributed
+          - Yes, transferring to another entity
+        required: true
+      - id: 23
+        name: assets_details
+        label: If yes, please provide details
+        hint: Description of assets
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: section_legal
+        label: -- Legal Matters --
+        hint: Legal status
+        type: note
+        options: []
+        required: false
+      - id: 25
+        name: pending_litigation
+        label: Is there any pending litigation involving the company?
+        hint: Lawsuits or legal actions
+        type: select_one
+        options:
+          - No
+          - Yes, as plaintiff
+          - Yes, as defendant
+          - Yes, both
+        required: true
+      - id: 26
+        name: litigation_details
+        label: If yes, please provide details
+        hint: Case information
+        type: text
+        options: []
+        required: false
+      - id: 27
+        name: regulatory_compliance
+        label: Is the company in compliance with all regulations?
+        hint: Regulatory status
+        type: select_one
+        options:
+          - Yes, fully compliant
+          - Mostly compliant, minor issues
+          - No, outstanding compliance issues
+        required: true
+      - id: 28
+        name: compliance_details
+        label: If not fully compliant, please explain
+        hint: Compliance issues
+        type: text
+        options: []
+        required: false
+      - id: 29
+        name: section_tax
+        label: -- Tax Status --
+        hint: Tax matters
+        type: note
+        options: []
+        required: false
+      - id: 30
+        name: tax_returns_filed
+        label: Have all tax returns been filed?
+        hint: Tax filing status
+        type: select_one
+        options:
+          - Yes, all filed
+          - Yes, through current year
+          - No, some outstanding
+        required: true
+      - id: 31
+        name: taxes_paid
+        label: Have all taxes been paid?
+        hint: Tax payment status
+        type: select_one
+        options:
+          - Yes, all paid
+          - Yes, through current year
+          - No, some outstanding
+        required: true
+      - id: 32
+        name: tax_clearance
+        label: Do you have a tax clearance certificate?
+        hint: Tax clearance
+        type: select_one
+        options:
+          - Yes, attached
+          - Applied for, pending
+          - No, will obtain
+          - Not required
+        required: true
+      - id: 33
+        name: section_employees
+        label: -- Employee Matters --
+        hint: Employee status
+        type: note
+        options: []
+        required: false
+      - id: 34
+        name: employee_status
+        label: What is the status of employees?
+        hint: Employee situation
+        type: select_one
+        options:
+          - No employees
+          - All terminated
+          - Being terminated
+          - Transferring to another entity
+        required: true
+      - id: 35
+        name: employee_obligations
+        label: Are all employee obligations satisfied?
+        hint: Wages, benefits, etc.
+        type: select_one
+        options:
+          - Yes, all satisfied
+          - Yes, will be satisfied
+          - No, outstanding obligations
+        required: true
+      - id: 36
+        name: section_declaration
+        label: -- Declaration --
+        hint: Legal declaration
+        type: note
+        options: []
+        required: false
+      - id: 37
+        name: declaration_accuracy
+        label: I declare that the information provided is true and accurate
+        hint: Accuracy declaration
+        type: select_one
+        options:
+          - Yes, I Declare
+          - No, I Cannot Declare
+        required: true
+      - id: 38
+        name: declaration_authority
+        label: I have authority to submit this deregistration
+        hint: Authority confirmation
+        type: select_one
+        options:
+          - Yes, I Have Authority
+          - No, I Do Not Have Authority
+        required: true
+      - id: 39
+        name: authorized_person_name
+        label: Name of Authorized Person
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 40
+        name: authorized_person_title
+        label: Title of Authorized Person
+        hint: Position
+        type: text
+        options: []
+        required: true
+      - id: 41
+        name: authorized_signature
+        label: Authorized Signature
+        hint: Electronic signature
+        type: text
+        options: []
+        required: true
+      - id: 42
+        name: submission_date
+        label: Submission Date
+        hint: Today's date
+        type: date
+        options: []
+        required: true
+      - id: 43
+        name: section_attachments
+        label: -- Required Attachments --
+        hint: Documents to include
+        type: note
+        options: []
+        required: false
+      - id: 44
+        name: attachment_checklist
+        label: Documents being submitted (check all that apply)
+        hint: Attachment list
+        type: select_multiple
+        options:
+          - Certificate of Incorporation
+          - Shareholder resolution
+          - Tax clearance certificate
+          - Financial statements
+          - Asset distribution plan
+          - Debt settlement affidavit
+          - Board resolution
+          - Other
+        required: false
+      - id: 45
+        name: additional_documents
+        label: List any additional documents
+        hint: Other attachments
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chef Job Application Form
+    pages:
+    - id: 1
+      name: section_personal_applicant
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_full_name_chef
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email_chef
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone_chef
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: applicant_residential_address
+      label: Current Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_professional_id
+      label: -- Professional Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: target_chef_position
+      label: Position Applied For
+      hint: null
+      type: select_one
+      options:
+      - Executive Chef
+      - Sous Chef
+      - Chef de Partie
+      - Line Cook
+      - Pastry Chef
+      - Prep Cook
+      required: true
+    - id: 8
+      name: total_culinary_experience_years
+      label: Years of Professional Culinary Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: primary_cuisine_specialization
+      label: Primary Cuisine Specializations
+      hint: null
+      type: select_multiple
+      options:
+      - French
+      - Italian
+      - Asian Fusion
+      - Modern American
+      - Pastry / Desserts
+      - Farm-to-Table
+      required: true
+    - id: 10
+      name: culinary_education_credentials
+      label: Culinary Education / Degree
+      hint: List school and degree attained
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: food_safety_certifications
+      label: Food Safety Certifications
+      hint: e.g. ServSafe Manager
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_availability_logistics
+      label: -- Availability and Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: earliest_start_date_avail
+      label: Earliest Available Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: expected_salary_annual_hourly
+      label: Expected Salary / Wage ($)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: work_eligibility_status
+      label: Legally authorized to work in this country
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: professional_references_summary
+      label: Professional References
+      hint: Name, Title, and Phone Number
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: culinary_portfolio_url
+      label: Link to Portfolio or LinkedIn
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: application_certification_statement
+      label: I certify all information provided is accurate
+      hint: null
+      type: select_one
+      options:
+      - I Certify
+      - Other
+      required: true
+    - id: 19
+      name: application_submission_date_log
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

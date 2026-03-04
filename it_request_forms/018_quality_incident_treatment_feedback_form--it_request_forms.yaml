@@ -1,0 +1,102 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Quality Incident Treatment Feedback Form
+    pages:
+    - id: 1
+      name: quality_incident_treatment_form
+      label: quality_incident_treatment_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_type
+      label: incident_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Critical''}'
+      - '{''id'': 2, ''name'': ''Major''}'
+      - '{''id'': 3, ''name'': ''Minor''}'
+      required: false
+    - id: 3
+      name: incident_date
+      label: incident_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: incident_time
+      label: incident_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: incident_details
+      label: incident_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: treatment
+      label: treatment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: quality_incident
+      label: quality_incident
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Quality Incident 1''}'
+      - '{''id'': 2, ''name'': ''Quality Incident 2''}'
+      - '{''id'': 3, ''name'': ''Quality Incident 3''}'
+      required: false
+    - id: 9
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''John''}'
+      - '{''id'': 2, ''name'': ''Jane''}'
+      - '{''id'': 3, ''name'': ''Joe''}'
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: attachment
+      label: attachment
+      hint: null
+      type: text
+      options: []
+      required: false

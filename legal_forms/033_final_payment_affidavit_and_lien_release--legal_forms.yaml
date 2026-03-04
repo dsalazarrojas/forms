@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Final Payment Affidavit And Lien Release
+    pages:
+    - id: 1
+      name: form_title
+      label: Final Payment Affidavit And Lien Release
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - Construction
+      - Property
+      - Other
+      required: false
+    - id: 3
+      name: project_address
+      label: Project Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contract_date
+      label: Contract Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: final_payment_date
+      label: Final Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: amount_paid
+      label: Amount Paid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Check
+      - Credit Card
+      - Other
+      required: false
+    - id: 8
+      name: contractor_name
+      label: Contractor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notary_seal
+      label: Notary Seal
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: witness_signatures
+      label: Witness Signatures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: final_payment_confirmed
+      label: Final Payment Confirmed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: lien_released
+      label: Lien Released
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: lien_released_date
+      label: Lien Released Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: witness_signature
+      label: Witness Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: witness_signature_date
+      label: Witness Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: notary_seal_date
+      label: Notary Seal Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: final_payment_amount
+      label: Final Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: contractor_signature
+      label: Contractor Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contractor_signature_date
+      label: Contractor Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: owner_signature
+      label: Owner Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: owner_signature_date
+      label: Owner Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false

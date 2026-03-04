@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: AI EBook Creation Guide
+    pages:
+    - id: 1
+      name: brief_header
+      label: -- EBook Brief --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: submitter_name
+      label: Submitter name
+      hint: Optional contact name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Contact email
+      hint: Used to follow up on the brief
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: ebook_topic
+      label: Ebook topic
+      hint: Main subject or theme
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: target_audience
+      label: Target audience
+      hint: Primary audience and level of expertise
+      type: select_one
+      options:
+      - Beginners
+      - Intermediate
+      - Advanced
+      - Executives
+      required: true
+    - id: 6
+      name: desired_length
+      label: Desired length
+      hint: Approximate word count or page count
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: key_points
+      label: Key points to cover
+      hint: Bullet list of topics to include
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: tone_and_style
+      label: Tone and style preferences
+      hint: e.g., conversational formal technical
+      type: select_one
+      options:
+      - Conversational
+      - Formal
+      - Technical
+      - Marketing
+      required: false
+    - id: 9
+      name: additional_resources
+      label: Additional resources or references
+      hint: Links or attachments to include
+      type: note
+      options: []
+      required: false

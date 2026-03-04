@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Military Leave Absence Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reason_for_leave
+      label: reason_for_leave
+      hint: Provide details about the reason for leave
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: from_date
+      label: From Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: to_date
+      label: To Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: duration_of_leave
+      label: Duration of Leave
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: military_leave_type
+      label: Military Leave Type
+      hint: null
+      type: select_one
+      options:
+      - Army
+      - Navy
+      - Air Force
+      required: false
+    - id: 7
+      name: leave_approver
+      label: Leave Approver
+      hint: null
+      type: select_multiple
+      options:
+      - CO
+      - XO
+      - OIC
+      required: false
+    - id: 8
+      name: military_unit
+      label: Military Unit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: military_unit_address
+      label: Military Unit Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: leave_requester
+      label: Leave Requester
+      hint: null
+      type: select_multiple
+      options:
+      - Commanding Officer
+      - Officer In Charge
+      - Department Head
+      required: false

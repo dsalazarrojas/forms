@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: inventory_and_meter_readings_form
+    pages:
+    - id: 1
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: meter_value
+      label: Meter Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: issue
+      label: Issue
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Maintenance''}'
+      - '{''label'': ''Repair''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Tool 1''}'
+      - '{''label'': ''Tool 2''}'
+      - '{''label'': ''Tool 3''}'
+      required: false
+    - id: 9
+      name: location_name
+      label: Location Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: inventory_value
+      label: Inventory Value
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Solicitor's Instruction Sheet
+    pages:
+    - id: 1
+      name: solicitor_instruction_sheet
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: Client name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: solicitor_name
+      label: Solicitor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: solicitor_phone
+      label: Solicitor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: client_email
+      label: Client Email
+      hint: Client email
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: document_type
+      label: Document Type
+      hint: Type of document
+      type: select_multiple
+      options:
+      - Document 1
+      - Document 2
+      - Document 3
+      required: false
+    - id: 7
+      name: instruction
+      label: Instructions
+      hint: Provide clear and concise instructions
+      type: note
+      options: []
+      required: false

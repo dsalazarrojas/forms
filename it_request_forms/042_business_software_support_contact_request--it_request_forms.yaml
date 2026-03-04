@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Software Support Contact Request
+    pages:
+    - id: 1
+      name: section_contact_info
+      label: -- Contact Information --
+      type: note
+      required: false
+    - id: 2
+      name: submitter_name
+      label: Your Name
+      hint: Your full name
+      type: text
+      required: true
+    - id: 3
+      name: submitter_email
+      label: Email Address
+      hint: Your email
+      type: email
+      required: true
+    - id: 4
+      name: submitter_phone
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      required: false
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Your organization
+      type: text
+      required: true
+    - id: 6
+      name: section_account_info
+      label: -- Account Information --
+      type: note
+      required: false
+    - id: 7
+      name: account_number
+      label: Account Number
+      hint: Your customer or account ID
+      type: text
+      required: false
+    - id: 8
+      name: product_name
+      label: Product or Software Name
+      hint: Which product are you contacting about
+      type: text
+      required: true
+    - id: 9
+      name: license_type
+      label: License Type
+      hint: Type of license you have
+      type: select_one
+      options:
+      - Free
+      - Starter
+      - Professional
+      - Enterprise
+      - Trial
+      - Other
+      required: false
+    - id: 10
+      name: section_issue_details
+      label: -- Issue Details --
+      type: note
+      required: false
+    - id: 11
+      name: issue_category
+      label: Issue Category
+      hint: Type of problem you are experiencing
+      type: select_one
+      options:
+      - Technical Bug
+      - Feature Request
+      - Account Issue
+      - Billing Question
+      - Password Reset
+      - Integration Help
+      - Performance Issue
+      - Other
+      required: true
+    - id: 12
+      name: priority_level
+      label: Priority Level
+      hint: How urgent is this issue
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Critical
+      required: true
+    - id: 13
+      name: issue_description
+      label: Detailed Issue Description
+      hint: Please describe the problem in detail
+      type: text
+      required: true
+    - id: 14
+      name: error_message
+      label: Error Message or Code
+      hint: Any error messages you received
+      type: text
+      required: false
+    - id: 15
+      name: steps_to_reproduce
+      label: Steps to Reproduce the Issue
+      hint: How can support reproduce this
+      type: text
+      required: false
+    - id: 16
+      name: section_environment
+      label: -- Environment Information --
+      type: note
+      required: false
+    - id: 17
+      name: operating_system
+      label: Operating System
+      hint: Windows, macOS, Linux, etc.
+      type: text
+      required: false
+    - id: 18
+      name: browser_used
+      label: Browser Used
+      hint: Chrome, Firefox, Safari, etc.
+      type: text
+      required: false
+    - id: 19
+      name: affected_modules
+      label: Affected Modules or Features
+      hint: Which parts of the software are affected
+      type: text
+      required: false
+    - id: 20
+      name: section_impact
+      label: -- Business Impact --
+      type: note
+      required: false
+    - id: 21
+      name: business_impact
+      label: Business Impact of Issue
+      hint: How does this affect your operations
+      type: text
+      required: false
+    - id: 22
+      name: number_of_users_affected
+      label: Number of Users Affected
+      hint: How many people are impacted
+      type: number
+      required: false
+    - id: 23
+      name: section_preferences
+      label: -- Support Preferences --
+      type: note
+      required: false
+    - id: 24
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we reach you
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Video Call
+      - Chat
+      required: false
+    - id: 25
+      name: attachments_available
+      label: Screenshots or Log Files Available
+      hint: Do you have documentation to share
+      type: select_one
+      options:
+      - true
+      - false
+      required: false

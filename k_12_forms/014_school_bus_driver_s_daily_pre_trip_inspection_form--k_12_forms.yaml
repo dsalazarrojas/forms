@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Bus Drivers Daily Pre Trip Inspection Form
+    pages:
+    - id: 1
+      name: vehicle_status
+      label: Vehicle Status
+      hint: null
+      type: select_multiple
+      options:
+      - Vehicle is ready for use
+      - Vehicle not ready for use
+      required: false
+    - id: 2
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_license
+      label: Vehicle License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: route_number
+      label: Route Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: driver_name
+      label: Driver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: driver_license
+      label: Driver License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: bus_number
+      label: Bus Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: bus_type
+      label: Bus Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 11
+      name: vehicle_equipment
+      label: Vehicle Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Air compressor and pressure gauge
+      - Fire extinguisher
+      - First aid kit
+      - First aid kit contents
+      - Headset
+      - Mirrors
+      - Safety glasses
+      - Safety vest
+      - Seat belts
+      - Wheelchairs
+      - Fire extinguisher (in vehicle)
+      - First aid kit (in vehicle)
+      - Reflective vest
+      - Reflective triangles
+      - Reflective triangles
+      required: false
+    - id: 12
+      name: driver_signature
+      label: Driver Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: inspector_signature
+      label: Inspector Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_defect
+      label: Vehicle Defect
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

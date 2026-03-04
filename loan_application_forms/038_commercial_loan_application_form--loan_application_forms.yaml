@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commercial Loan Application Form
+    pages:
+    - id: 1
+      name: section_business_details
+      label: -- Business Entity Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_legal_name
+      label: Legal Name of Business
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_structure
+      label: Business Structure
+      hint: null
+      type: select_one
+      options:
+      - Sole Proprietorship
+      - Partnership
+      - LLC
+      - C-Corp
+      - S-Corp
+      - Non-Profit
+      required: true
+    - id: 4
+      name: tax_id_number
+      label: Federal Tax ID (EIN)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_address
+      label: Business Address
+      hint: Street, City, State, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: years_in_business
+      label: Years in Operation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: annual_revenue
+      label: Estimated Annual Gross Revenue
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: section_loan_request
+      label: -- Loan Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: requested_loan_amount
+      label: Requested Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: loan_purpose
+      label: Purpose of Loan
+      hint: e.g., Expansion, Working Capital, Inventory, Equipment
+      type: select_one
+      options:
+      - Working Capital
+      - Real Estate Purchase
+      - Equipment Financing
+      - Debt Refinancing
+      - Business Expansion
+      - Inventory Purchase
+      required: true
+    - id: 11
+      name: collateral_offered
+      label: Description of Collateral
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_applicant_contact
+      label: -- Authorized Representative --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: applicant_name
+      label: Full Name of Applicant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: applicant_title
+      label: Title/Position in Business
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: applicant_email
+      label: Business Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: applicant_phone
+      label: Business Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: section_declarations
+      label: -- Declarations and Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: bankruptcy_disclosure
+      label: Has the business or any principal ever filed for bankruptcy?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: credit_check_authorization
+      label: I authorize the lender to perform a credit check
+      hint: null
+      type: select_one
+      options:
+      - I Authorize
+      - Other
+      required: true
+    - id: 20
+      name: application_date
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: true

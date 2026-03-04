@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telemarketing Report
+    pages:
+    - id: 1
+      name: lead_source
+      label: Lead Source
+      hint: null
+      type: select_one
+      options:
+      - Lead Source
+      - Source 1
+      - Source 2
+      - Source 3
+      required: false
+    - id: 2
+      name: lead_name
+      label: Lead Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: lead_number
+      label: Lead Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: lead_status
+      label: Lead Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Lost
+      required: false
+    - id: 5
+      name: campaign_id
+      label: Campaign ID
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: campaign_name
+      label: Campaign Name
+      hint: null
+      type: select_one
+      options:
+      - Campaign 1
+      - Campaign 2
+      - Campaign 3
+      required: false
+    - id: 7
+      name: lead_time
+      label: Lead Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: lead_date
+      label: Lead Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: lead_agent
+      label: Lead Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: lead_source_type
+      label: Lead Source Type
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Other
+      required: false
+    - id: 11
+      name: lead_source_value
+      label: Lead Source Value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: campaign_type
+      label: Campaign Type
+      hint: null
+      type: select_multiple
+      options:
+      - Lead
+      - Non Lead
+      - Telemarketing
+      required: false
+    - id: 13
+      name: campaign_status
+      label: Campaign Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Lost
+      required: false
+    - id: 14
+      name: lead_value
+      label: Lead Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: lead_value_type
+      label: Lead Value Type
+      hint: null
+      type: select_one
+      options:
+      - Amount
+      - Qualified
+      - Converted
+      required: false
+    - id: 16
+      name: lead_agent_note
+      label: Lead Agent Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: lead_agent_comment
+      label: Lead Agent Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: lead_agent_name
+      label: Lead Agent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: lead_agent_title
+      label: Lead Agent Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: lead_agent_email
+      label: Lead Agent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: lead_agent_phone
+      label: Lead Agent Phone
+      hint: null
+      type: text
+      options: []
+      required: false

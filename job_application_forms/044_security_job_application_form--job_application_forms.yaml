@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Security Job Application Form
+    pages:
+    - id: 1
+      name: application_information
+      label: Application Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: name
+      label: contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: military_service
+      label: Military Service
+      hint: null
+      type: select_multiple
+      options:
+      - Military Service 1
+      - Military Service 2
+      - Military Service 3
+      required: false
+    - id: 6
+      name: education
+      label: Education
+      hint: null
+      type: select_one
+      options:
+      - Education 1
+      - Education 2
+      - Education 3
+      required: false
+    - id: 7
+      name: employment_history
+      label: Employment History
+      hint: null
+      type: select_multiple
+      options:
+      - Employment History 1
+      - Employment History 2
+      - Employment History 3
+      required: false
+    - id: 8
+      name: criminal_record
+      label: Criminal Record
+      hint: null
+      type: select_multiple
+      options:
+      - Criminal Record 1
+      - Criminal Record 2
+      - Criminal Record 3
+      required: false

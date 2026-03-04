@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Archived Website Request
+    pages:
+    - id: 1
+      name: section_contact_info
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: visitor_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: visitor_email
+      label: Email Address
+      hint: We will use this to send you the information you need
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: visitor_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_page_info
+      label: -- Page Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: original_page_title
+      label: What page were you looking for
+      hint: Include the page title or URL if you remember it
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: page_content_type
+      label: Type of Content
+      hint: null
+      type: select_one
+      options:
+      - Product or service information
+      - Documentation or help
+      - News or blog post
+      - Contact or directory
+      - Pricing information
+      - Tutorial or guide
+      - Other
+      required: false
+    - id: 8
+      name: content_description
+      label: Describe the content you were looking for
+      hint: What information or service did you need
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: approximate_visit_date
+      label: Approximately when did you last visit this page
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: how_did_you_find_us
+      label: How did you find this page
+      hint: null
+      type: select_one
+      options:
+      - Search engine result
+      - Direct link
+      - Bookmark
+      - Social media
+      - Email link
+      - Other website
+      - Can not remember
+      required: false
+    - id: 11
+      name: section_redirection
+      label: -- Redirection Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: current_location_known
+      label: Do you know if this content exists on the new site
+      hint: null
+      type: select_one
+      options:
+      - Yes, I found it
+      - No, I could not find it
+      - Not sure
+      required: true
+    - id: 13
+      name: current_page_url
+      label: URL of current page on new site
+      hint: If you found similar content elsewhere
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: priority_level
+      label: How urgent is this request
+      hint: null
+      type: select_one
+      options:
+      - Low - general interest
+      - Medium - needed soon
+      - High - needed immediately
+      required: false
+    - id: 15
+      name: additional_comments
+      label: Additional Comments or Notes
+      hint: Any other information that might help us locate what you need
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_preference
+      label: Preferred contact method
+      hint: How would you like us to reach you
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Either
+      required: true

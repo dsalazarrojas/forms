@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Loan Agreement Delivery Form
+    pages:
+    - id: 1
+      name: borrower_info
+      label: Borrower Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: loan_terms
+      label: Loan Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: loan_terms
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: loan_interest
+      label: Loan Interest Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: loan_duration
+      label: Loan Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: loan_frequency
+      label: Loan Frequency
+      hint: null
+      type: select_one
+      options:
+      - 6 Months
+      - 12 Months
+      - 24 Months
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Cash App
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_agreed
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_agreed
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false

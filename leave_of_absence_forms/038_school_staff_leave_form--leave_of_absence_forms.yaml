@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Staff Leave Form
+    pages:
+    - id: 1
+      name: request_info
+      label: Request Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_absence
+      label: Date of Absence
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_absence
+      label: Reason for Absence
+      hint: Please provide a valid reason for the absence.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: employee_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: supervisor_confirmation
+      label: Supervisor Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: supervisor_email
+      label: Supervisor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: supervisor_phone
+      label: Supervisor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: school_admin_confirmation
+      label: School Admin Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: school_admin_name
+      label: School Admin Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: school_admin_email
+      label: School Admin Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: school_admin_phone
+      label: School Admin Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: false
+    - id: 19
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: leave_type
+      label: Leave Type
+      hint: null
+      type: select_one
+      options:
+      - Medical Leave
+      - Annual Leave
+      - Other
+      required: false
+    - id: 21
+      name: leave_reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: leave_start_date
+      label: Leave Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: leave_end_date
+      label: Leave End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: leave_hours_absorbed
+      label: Leave Hours Absorbed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: leave_days_absorbed
+      label: Leave Days Absorbed
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Support Team
+    pages:
+    - id: 1
+      name: header
+      label: -- IT Support Request --
+      hint: Submit an IT support request to our team
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: Full name of the person requesting support
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Requester email
+      hint: Email for ticket updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Department of the requester
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: issue_summary
+      label: Issue summary
+      hint: Brief description of the problem
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: issue_severity
+      label: Issue severity
+      hint: How critical is the issue
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Critical
+      required: true
+    - id: 7
+      name: affected_systems
+      label: Affected systems
+      hint: Which systems or applications are impacted
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: steps_to_reproduce
+      label: Steps to reproduce
+      hint: Provide reproducible steps if applicable
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: attachment_note
+      label: Attach logs or screenshots via email
+      hint: Use email for large attachments
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: preferred_contact_method
+      label: Preferred contact method
+      hint: How would you like the support team to reach you
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Chat
+      required: false
+    - id: 11
+      name: contact_phone
+      label: Contact phone
+      hint: Phone number for urgent communication
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_information
+      label: Additional information
+      hint: Any other context to help resolve the issue
+      type: text
+      options: []
+      required: false

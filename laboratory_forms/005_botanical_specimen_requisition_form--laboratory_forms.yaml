@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Botanical Specimen Requisition Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Full name of the person requesting specimens
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_title
+      label: Requester Title
+      hint: Your professional title or position
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: institution_name
+      label: Institution Name
+      hint: Name of your university, museum, or research institution
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: institution_address
+      label: Institution Address
+      hint: Complete mailing address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: requester_email
+      label: Requester Email
+      hint: Institutional email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: requester_phone
+      label: Requester Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: request_date
+      label: Request Date
+      hint: Date of this requisition request
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: research_project_title
+      label: Research Project Title
+      hint: Title of your research project or study
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: research_description
+      label: Research Description
+      hint: Brief description of your research objectives
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: specimen_type_requested
+      label: Specimen Type Requested
+      hint: Select the type of botanical specimens needed
+      type: select_multiple
+      options:
+      - Herbarium sheets
+      - Seed samples
+      - Tissue samples
+      - Live plant material
+      - Wood samples
+      - Pollen samples
+      - Fossil specimens
+      - Type specimens
+      required: true
+    - id: 11
+      name: taxonomic_groups
+      label: Taxonomic Groups of Interest
+      hint: Select relevant plant families or genera
+      type: select_multiple
+      options:
+      - Angiosperms (flowering plants)
+      - Gymnosperms (conifers)
+      - Ferns and allies
+      - Bryophytes (mosses)
+      - Lichens
+      - Fungi
+      - Algae
+      required: true
+    - id: 12
+      name: geographic_region
+      label: Geographic Region of Interest
+      hint: Select regions relevant to your research
+      type: select_multiple
+      options:
+      - North America
+      - South America
+      - Europe
+      - Africa
+      - Asia
+      - Australia and Oceania
+      - Arctic regions
+      - Tropical regions
+      required: false
+    - id: 13
+      name: specimen_quantity
+      label: Approximate Quantity Needed
+      hint: Estimated number of specimens required
+      type: select_one
+      options:
+      - 1-10 specimens
+      - 11-50 specimens
+      - 51-100 specimens
+      - 101-500 specimens
+      - More than 500 specimens
+      required: true
+    - id: 14
+      name: loan_duration
+      label: Requested Loan Duration
+      hint: How long do you need the specimens
+      type: select_one
+      options:
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - 1-2 years
+      - Permanent transfer request
+      required: true
+    - id: 15
+      name: destructive_sampling
+      label: Destructive Sampling Required
+      hint: Will your research require destructive analysis of specimens
+      type: select_one
+      options:
+      - Yes, full destruction
+      - Yes, partial sampling
+      - No, non-destructive only
+      required: true
+    - id: 16
+      name: shipping_method
+      label: Preferred Shipping Method
+      hint: How should specimens be delivered
+      type: select_one
+      options:
+      - Standard postal service
+      - Express courier
+      - Institutional courier
+      - Personal pickup
+      required: true
+    - id: 17
+      name: special_handling
+      label: Special Handling Requirements
+      hint: Do specimens require special storage or handling
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: funding_source
+      label: Funding Source
+      hint: Grant or funding agency supporting this research
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: previous_loans
+      label: Previous Loans from This Institution
+      hint: Have you borrowed specimens from us before
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: return_assurance
+      label: Return Assurance
+      hint: I agree to return specimens in good condition by the agreed date
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 21
+      name: requester_signature
+      label: Requester Signature
+      hint: Type your full name as electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: supervisor_name
+      label: Supervisor or Department Head Name
+      hint: Name of your supervising professor or department head
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information for the curator
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: MAG Troubleshooting Request
+    pages:
+    - id: 1
+      name: page_1
+      label: Page 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: device_details
+      label: Device Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: issue_category
+      label: Issue Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: urgency_level
+      label: Urgency Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 5
+      name: file_attach
+      label: File Attachments
+      hint: null
+      type: text
+      options: []
+      required: false

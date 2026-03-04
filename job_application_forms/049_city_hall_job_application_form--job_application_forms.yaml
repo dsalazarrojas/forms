@@ -1,0 +1,283 @@
+inputSchema:
+  type: object
+  properties:
+    title: City Hall Job Application Form
+    pages:
+    - id: 1
+      name: section_header_job_info
+      label: -- Position Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: position_title
+      label: Position Title You Are Applying For
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Administrative Services
+      - Community Services
+      - Finance
+      - Planning and Development
+      - Public Safety
+      - Public Works
+      - Human Resources
+      - Information Technology
+      - Parks and Recreation
+      - Other
+      required: true
+    - id: 4
+      name: section_header_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: mailing_address
+      label: Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_header_education
+      label: -- Education --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: highest_education
+      label: Highest Level of Education Completed
+      hint: null
+      type: select_one
+      options:
+      - High school diploma or equivalent
+      - Some college
+      - Associate degree
+      - Bachelor degree
+      - Master degree
+      - Doctoral degree
+      - Professional certificate
+      - Other
+      required: true
+    - id: 15
+      name: education_field
+      label: Field of Study
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: university_name
+      label: Name of Last School or University
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_header_experience
+      label: -- Professional Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: years_experience
+      label: Years of Professional Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: relevant_experience
+      label: Relevant Experience for This Position
+      hint: Describe your background and relevant skills
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: current_employment
+      label: Currently Employed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: current_employer
+      label: Current or Most Recent Employer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: current_title
+      label: Current or Most Recent Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: employment_duration
+      label: Years in Current or Most Recent Position
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: section_header_skills
+      label: -- Skills and Competencies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: key_skills
+      label: Key Skills and Competencies
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: technical_skills
+      label: Technical or Software Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: certifications
+      label: Professional Certifications or Licenses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: section_header_references
+      label: -- References --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: reference_1_name
+      label: Reference 1 Name
+      hint: Former supervisor or manager
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: reference_1_phone
+      label: Reference 1 Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: reference_1_email
+      label: Reference 1 Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 32
+      name: reference_1_relationship
+      label: Reference 1 Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: section_header_legal
+      label: -- Legal and Acknowledgments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: background_check_consent
+      label: Consent to Background Check
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 35
+      name: legal_eligibility
+      label: I Am Legally Eligible to Work in This Country
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 36
+      name: truthfulness_agreement
+      label: All Information Provided is True and Accurate
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true

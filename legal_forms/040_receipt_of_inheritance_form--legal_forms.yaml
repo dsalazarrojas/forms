@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Receipt of Inheritance Form
+    pages:
+    - id: 1
+      name: inheritance_form_description
+      label: Inheritance Form Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inheritance_from
+      label: Inheritance From
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inherited_from
+      label: Inherited From
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: inherited_items_received
+      label: Inherited Items Received
+      hint: List the items received as inheritance
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: inherited_value
+      label: Inherited Value
+      hint: Enter the value of the items received
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: receipt_date
+      label: Receipt Date
+      hint: Enter the date of the receipt of the inheritance
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: receipt_time
+      label: Receipt Time
+      hint: Enter the time of the receipt of the inheritance
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: received_by
+      label: Received By
+      hint: Enter the name of the person receiving the inheritance
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: received_value
+      label: Received Value
+      hint: Enter the value of the items received
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: tax_reported
+      label: Tax Reported
+      hint: Enter the tax reported as part of the inheritance
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: tax_identified
+      label: Tax Identified
+      hint: Check if the tax reported
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: tax_identified_by
+      label: Tax Identified By
+      hint: Enter the person who identified the tax
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: tax_date
+      label: Tax Date
+      hint: Enter the tax date
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: tax_time
+      label: Tax Time
+      hint: Enter the tax time
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: notes
+      label: Notes
+      hint: Any additional notes regarding the inheritance
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: email_address
+      label: Email Address
+      hint: Enter the email address of the recipient
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: phone_number
+      label: Phone Number
+      hint: Enter the phone number of the recipient
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_information
+      label: Additional Information
+      hint: Add any additional information about the inheritance
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: declaration_date
+      label: Declaration Date
+      hint: Enter the declaration date
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: declaration_time
+      label: Declaration Time
+      hint: Enter the declaration time
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: declaration_by
+      label: Declaration By
+      hint: Enter the name of the person declaring the inheritance
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: declaration_location
+      label: Declaration Location
+      hint: Enter the location of the declaration
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: witnessed_by
+      label: Witnessed By
+      hint: Check if the declaration was witnessed
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: witness1_name
+      label: Witness1 Name
+      hint: Enter the name of the witness 1
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: witness1_relation
+      label: Witness1 Relation
+      hint: Enter the relation of the witness 1
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: witness2_name
+      label: Witness2 Name
+      hint: Enter the name of the witness 2
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: witness2_relation
+      label: Witness2 Relation
+      hint: Enter the relation of the witness 2
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: witness3_name
+      label: Witness3 Name
+      hint: Enter the name of the witness 3
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: witness3_relation
+      label: Witness3 Relation
+      hint: Enter the relation of the witness 3
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: witnessed_by_name
+      label: Witnessed By
+      hint: Enter the name of the person who witnessed the declaration
+      type: text
+      options: []
+      required: false

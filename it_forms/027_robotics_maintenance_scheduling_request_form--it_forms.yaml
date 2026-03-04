@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Robotics Maintenance Scheduling Request Form
+    pages:
+    - id: 1
+      name: maintenance_details
+      label: Maintenance Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_dates
+      label: Preferred Maintenance Times
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: submitter_info
+      label: Submitter Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: robot_info
+      label: Robot Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: equipment_support
+      label: Equipment Support
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submitter_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: submitter_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,29 @@
+inputSchema:
+  type: object
+  properties:
+    title: Significant Contracts Declaration
+    pages:
+    - id: 1
+      name: contract_type
+      label: contract_type
+      hint: null
+      type: select_multiple
+      options:
+      - Contract Type 1
+      - Contract Type 2
+      - Contract Type 3
+      required: false
+    - id: 2
+      name: contract_date
+      label: contract_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: contract_amount
+      label: contract_amount
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Affidavit Submission Form
+    pages:
+    - id: 1
+      name: submitter_info_header
+      label: -- Submitter Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name (Affiant)
+      hint: Person making the statement.
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: Residential Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: case_info_header
+      label: -- Case Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: case_number
+      label: Case / Reference Number
+      hint: If applicable.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: court_name
+      label: Court / Jurisdiction
+      hint: Where is this being filed?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: affidavit_details_header
+      label: -- Affidavit Content --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: affidavit_type
+      label: Type of Affidavit
+      hint: Select the purpose.
+      type: select_one
+      options:
+      - Affidavit of Identity
+      - Affidavit of Support
+      - Affidavit of Residence
+      - Affidavit of Service
+      - General Affidavit
+      required: true
+    - id: 11
+      name: statement_text
+      label: Sworn Statement
+      hint: Enter the full text of your statement here.
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: file_upload_link
+      label: Supporting Documents Link
+      hint: Upload scans if needed (Drive/Dropbox).
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: notarization_header
+      label: -- Notarization Info --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: notary_name
+      label: Notary Public Name
+      hint: If already notarized.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: commission_expiry
+      label: Commission Expiry Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: oath_affirmation
+      label: Oath
+      hint: I swear or affirm that the contents of this affidavit are true and correct.
+      type: select_one
+      options:
+      - I Swear/Affirm
+      - Other
+      required: true
+    - id: 17
+      name: signature_date
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true

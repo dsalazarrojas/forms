@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Flood Disclosure Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_details
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: flood_zones
+      label: Flood Zones
+      hint: null
+      type: select_multiple
+      options:
+      - Zone 1
+      - Zone 2
+      - Zone 3
+      - Zone 4
+      - Zone 5
+      required: false
+    - id: 4
+      name: flood_risk
+      label: Flood Risk
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      required: false
+    - id: 5
+      name: flood_elevation
+      label: Flood Elevation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: flood_date
+      label: Flood Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In Person
+      required: false
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false

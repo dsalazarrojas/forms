@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parent Agreement Form
+    pages:
+    - id: 1
+      name: parent_information
+      label: Parent Information
+      hint: null
+      type: select_multiple
+      options:
+      - Parent's Name
+      - Parent's Address
+      - Parent's Phone
+      required: false
+    - id: 2
+      name: caregiver_information
+      label: Caregiver Information
+      hint: null
+      type: select_multiple
+      options:
+      - Caregiver's Name
+      - Caregiver's Address
+      - Caregiver's Phone
+      required: false
+    - id: 3
+      name: emergency_procedures
+      label: Emergency Procedures
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: daily_schedule
+      label: Daily Schedule
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - Payment Method 1
+      - Payment Method 2
+      required: false
+    - id: 6
+      name: billing_schedules
+      label: Billing Schedules
+      hint: null
+      type: select_one
+      options:
+      - Schedule 1
+      - Schedule 2
+      required: false
+    - id: 7
+      name: additional_fees
+      label: Additional Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: parent_signature
+      label: Parent Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: caregiver_signature
+      label: Caregiver Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_name
+      label: Emergency Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_address
+      label: Emergency Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_relationship
+      label: Emergency Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_procedure
+      label: Emergency Procedure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: billing_method
+      label: Billing Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: payment_term
+      label: Payment Term
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: billing_schedule
+      label: Billing Schedule
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: fee
+      label: Fee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: fee_schedule
+      label: Fee Schedule
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: text
+      options: []
+      required: false

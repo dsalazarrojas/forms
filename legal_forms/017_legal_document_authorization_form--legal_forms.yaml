@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: legal_document_authorization_form
+    pages:
+    - id: 1
+      name: form_header
+      label: Legal Document Authorization Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: legal_document
+      label: Legal Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_issue
+      label: Date of Issue
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: document_number
+      label: Document Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: authorized_party
+      label: Authorized Party
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: authorization_details
+      label: Authorization Details
+      hint: Provide additional information about the authorization request.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_of_expiration
+      label: Date of Expiration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: document_status
+      label: Document Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: authorized_by
+      label: Authorized By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

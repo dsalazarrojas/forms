@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: it_security_incident_investigation_request_form
+    pages:
+    - id: 1
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: security_incident
+      label: Security Incident
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: impact
+      label: Impact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Phishing''}'
+      - '{''id'': 2, ''label'': ''Malware''}'
+      - '{''id'': 3, ''label'': ''Ransomware''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: true
+    - id: 8
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Resolved''}'
+      required: true
+    - id: 10
+      name: incident_reporter_name
+      label: Incident Reporter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: incident_reporter_email
+      label: Incident Reporter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: incident_reporter_phone
+      label: Incident Reporter Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: incident_reporter_role
+      label: Incident Reporter Role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: incident_reporter_department
+      label: Incident Reporter Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: incident_reporter_team
+      label: Incident Reporter Team
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: incident_reporter_comments
+      label: Incident Reporter Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: incident_assignee_name
+      label: Incident Assignee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: incident_assignee_role
+      label: Incident Assignee Role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: incident_assignee_department
+      label: Incident Assignee Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: incident_assignee_team
+      label: Incident Assignee Team
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: incident_reported_by
+      label: Reported By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: incident_status_comments
+      label: Incident Status Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: incident_last_updated
+      label: Last Updated
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: incident_created
+      label: Created
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: incident_last_status_update
+      label: Last Status Update
+      hint: null
+      type: date
+      options: []
+      required: true

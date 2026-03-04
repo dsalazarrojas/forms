@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: mathematics_diagnostic_assessment_form
+    pages:
+    - id: 1
+      name: intro
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_id
+      label: student_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: grade_level
+      label: grade_level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Pre-Algebra'', ''value'': ''pre-algebra''}'
+      - '{''id'': 2, ''label'': ''Algebra'', ''value'': ''algebra''}'
+      - '{''id'': 3, ''label'': ''Geometry'', ''value'': ''geometry''}'
+      - '{''id'': 4, ''label'': ''Calculus'', ''value'': ''calculus''}'
+      required: false
+    - id: 4
+      name: score_1
+      label: score_1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: score_2
+      label: score_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: score_3
+      label: score_3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: score_4
+      label: score_4
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: math_background
+      label: math_background
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: teacher_comments
+      label: teacher_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Submit'', ''value'': ''submit''}'
+      - '{''id'': 2, ''label'': ''Not Submit'', ''value'': ''not_submit''}'
+      required: true

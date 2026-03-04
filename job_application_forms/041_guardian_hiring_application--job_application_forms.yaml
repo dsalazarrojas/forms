@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guardian Hiring Application
+    pages:
+    - id: 1
+      name: applicant_details
+      label: Applicant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: experience
+      label: Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 0-1 year
+      - 1-2 years
+      - 2-5 years
+      - 5-10 years
+      - 10+ years
+      required: true
+    - id: 3
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: references
+      label: References
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: references_details
+      label: References Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: skills
+      label: Skills
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: education
+      label: Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: education_level_1
+      label: Level of Education
+      hint: null
+      type: select_one
+      options:
+      - Bachelor
+      - Associate
+      - Master
+      - PhD
+      - Diploma
+      required: false
+    - id: 9
+      name: education_level_2
+      label: Other Education Level
+      hint: null
+      type: select_multiple
+      options:
+      - Other Level 1
+      - Other Level 2
+      - Other Level 3
+      required: false
+    - id: 10
+      name: education_institution
+      label: Institution
+      hint: null
+      type: select_one
+      options:
+      - University of Xyz
+      - College of Aab
+      - School of Z
+      required: false
+    - id: 11
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employer A
+      - Employer B
+      - Employer C
+      required: false
+    - id: 12
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 0-1 year
+      - 1-2 years
+      - 2-5 years
+      - 5-10 years
+      - 10+ years
+      required: false

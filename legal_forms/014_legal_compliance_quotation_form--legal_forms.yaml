@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legal Compliance Quotation Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: service_info
+      label: Service Information
+      hint: null
+      type: select_multiple
+      options:
+      - Client Agreement
+      - Client Contract
+      - Document Signing
+      required: true
+    - id: 3
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: quote_details
+      label: Quote Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: signature
+      label: Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: quote_terms
+      label: Quote Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: billing
+      label: Billing Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_info
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: quote_footer
+      label: Quote Footer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: terms_conditions
+      label: Terms and Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: signature_block
+      label: Signature Block
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: client_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: client_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: client_notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: billing_terms
+      label: Billing Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: quote_number
+      label: Quote Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: quote_date
+      label: Quote Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: quote_price
+      label: Quote Price
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: client_company
+      label: Client Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: quote_terms_accepted
+      label: Quote Terms Accepted
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 25
+      name: quote_signed
+      label: Quote Signed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

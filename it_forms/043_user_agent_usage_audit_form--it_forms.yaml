@@ -1,0 +1,246 @@
+inputSchema:
+  type: object
+  properties:
+    title: User Agent Usage Audit Form
+    pages:
+    - id: 1
+      name: user_agent_usage_audit_form
+      label: User Agent Usage Audit Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: browser_session_duration
+      label: Browser Session Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: browser_type
+      label: Browser Type
+      hint: null
+      type: select_one
+      options:
+      - Chrome
+      - Firefox
+      - Edge
+      - Safari
+      required: true
+    - id: 4
+      name: browser_version
+      label: Browser Version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: device_model
+      label: Device Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: device_os
+      label: Device OS
+      hint: null
+      type: select_one
+      options:
+      - Windows
+      - Android
+      - iOS
+      - Linux
+      required: true
+    - id: 7
+      name: device_type
+      label: Device Type
+      hint: null
+      type: select_multiple
+      options:
+      - Desktop
+      - Mobile
+      - Tablet
+      - Watch
+      required: true
+    - id: 8
+      name: browser_language
+      label: Browser Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - Chinese
+      required: true
+    - id: 9
+      name: geo_location
+      label: Geo Location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: user_browser
+      label: User Browser
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: user_device
+      label: User Device
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: user_agent
+      label: User Agent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: notes_for_submitter
+      label: Notes for submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: browser_plugins
+      label: Browser Plugins
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: geo_timezone
+      label: Geo Timezone
+      hint: null
+      type: select_one
+      options:
+      - GMT+0
+      - PST
+      - PST-08:00
+      - PST-07:00
+      - UTC+0
+      - UTC+8
+      - UTC+1
+      - UTC-5
+      - UTC+13
+      - UTC-11
+      - UTC-4
+      - UTC-8
+      - UTC+2
+      - UTC+5
+      - UTC+10
+      - UTC-10
+      - UTC+9
+      - UTC-7
+      - UTC+12
+      - UTC+11
+      - UTC-6
+      - UTC-3
+      - UTC-2
+      - UTC+14
+      - UTC-5
+      - UTC+6
+      - UTC+3
+      - UTC-9
+      - UTC+4
+      - UTC-8
+      - UTC-12
+      - UTC-1
+      - UTC+13
+      - UTC-10
+      - UTC-4
+      required: false
+    - id: 20
+      name: geo_city
+      label: Geo City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: geo_country
+      label: Geo Country
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - Mexico
+      - Germany
+      - Australia
+      - China
+      - Japan
+      - South Korea
+      - India
+      - France
+      - United Kingdom
+      required: true
+    - id: 22
+      name: user_ip
+      label: User IP
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: device_ip
+      label: Device IP
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: notes_for_it
+      label: Notes for IT
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_notes
+      label: Notes for Submitter
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agent Linking Guide Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Requester Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requester_department
+      label: Requester Department
+      hint: Enter your department
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requester_phone
+      label: Requester Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: agent_linking_request_date
+      label: Request Date
+      hint: Enter the date of this request
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: agent_details_header
+      label: -- Agent Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: agent_name
+      label: Agent Name
+      hint: Enter the name of the agent to be linked
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: agent_id
+      label: Agent ID
+      hint: Enter the unique identifier for the agent
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: agent_department
+      label: Agent Department
+      hint: Enter the department of the agent
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: agent_role
+      label: Agent Role
+      hint: Enter the role of the agent
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: linking_reason_header
+      label: -- Linking Reason --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: reason_for_linking
+      label: Reason for Linking
+      hint: Why do you need to link to this agent?
+      type: select_one
+      options:
+      - Shared Client Management
+      - Collaborative Projects
+      - Information Sharing
+      - System Integration
+      - Access Authorization
+      - Other
+      required: true
+    - id: 13
+      name: specific_systems_access_needed
+      label: Specific Systems Access Needed
+      hint: Which systems require linking or access?
+      type: select_multiple
+      options:
+      - CRM System
+      - Ticketing System
+      - Database Access
+      - Communication Platform
+      - Document Repository
+      - Project Management Tool
+      - Financial System
+      - Other
+      required: true
+    - id: 14
+      name: access_level_required
+      label: Access Level Required
+      hint: What level of access is needed?
+      type: select_one
+      options:
+      - Read Only
+      - Read and Write
+      - Edit and Modify
+      - Full Administrative
+      - Custom Permissions
+      required: true
+    - id: 15
+      name: duration_of_access
+      label: Duration of Access
+      hint: How long is the linking/access needed?
+      type: select_one
+      options:
+      - Temporary (Less than 1 month)
+      - Short-term (1-6 months)
+      - Long-term (6-12 months)
+      - Permanent
+      - Project-based
+      required: true
+    - id: 16
+      name: security_clearance_header
+      label: -- Security Clearance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: security_clearance_required
+      label: Security Clearance Required
+      hint: Does this linking require special security clearance?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: clearance_level
+      label: Clearance Level
+      hint: If yes, specify the clearance level required
+      type: select_one
+      options:
+      - Basic
+      - Confidential
+      - Secret
+      - Top Secret
+      - Other
+      required: false
+    - id: 19
+      name: compliance_requirements
+      label: Compliance Requirements
+      hint: Are there any compliance requirements for this linking?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: approval_authority
+      label: Approval Authority
+      hint: Who has the authority to approve this linking request?
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: approval_status
+      label: Approval Status
+      hint: What is the current status of this request?
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      - Under Review
+      required: true
+    - id: 22
+      name: additional_notes
+      label: Additional Notes
+      hint: Any additional information about this linking request
+      type: text
+      options: []
+      required: false

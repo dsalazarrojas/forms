@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Loan Application Intake Form
+    pages:
+    - id: 1
+      name: application_type
+      label: application-type
+      hint: Select the type of loan application
+      type: select_one
+      options:
+      - Application
+      - Refinance
+      required: false
+    - id: 2
+      name: loan_purpose
+      label: loan-purpose
+      hint: null
+      type: select_multiple
+      options:
+      - Home improvement
+      - Education
+      - Car
+      - Other
+      required: true
+    - id: 3
+      name: applicant_name
+      label: applicant-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: loan_amount
+      label: loan-amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: loan_term
+      label: loan-term
+      hint: Select the loan term
+      type: select_one
+      options:
+      - 6 months
+      - 1 year
+      - 5 years
+      required: true
+    - id: 6
+      name: loan_interest_rate
+      label: loan-interest-rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: credit_score
+      label: credit-score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: annual_income
+      label: annual-income
+      hint: null
+      type: number
+      options: []
+      required: true

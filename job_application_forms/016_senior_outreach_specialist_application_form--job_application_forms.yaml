@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Senior Outreach Specialist Application Form
+    pages:
+    - id: 1
+      name: applicant_info
+      label: Apply as
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: work_history
+      label: Work history (Years)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: work_type
+      label: Type of work
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Freelance
+      required: true
+    - id: 8
+      name: work_experience
+      label: Relevant work experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: skills
+      label: Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Programming
+      - Writing
+      - Design
+      required: true
+    - id: 10
+      name: education
+      label: Education
+      hint: null
+      type: select_multiple
+      options:
+      - Bachelor
+      - Master
+      - Doctorate
+      required: true
+    - id: 11
+      name: portfolio
+      label: Portfolio
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: references
+      label: References
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: agree_terms
+      label: I agree with the terms
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 15
+      name: signature
+      label: Applicant's Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

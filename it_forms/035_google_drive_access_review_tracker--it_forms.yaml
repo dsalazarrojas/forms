@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: google_drive_access_review_tracker
+    pages:
+    - id: 1
+      name: account_details
+      label: account_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: access_level
+      label: access_level
+      hint: null
+      type: select_one
+      options:
+      - admin
+      - edit
+      - read
+      - none
+      required: false
+    - id: 3
+      name: access_group
+      label: access_group
+      hint: null
+      type: select_multiple
+      options:
+      - IT
+      - security
+      - admin
+      - management
+      required: false
+    - id: 4
+      name: access_date
+      label: access_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: access_time
+      label: access_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: reviewer_comments
+      label: reviewer_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: reviewer_name
+      label: reviewer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reviewer_email
+      label: reviewer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: reviewer_phone
+      label: reviewer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reviewer_title
+      label: reviewer_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: approver_name
+      label: approver_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: approver_email
+      label: approver_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: approver_phone
+      label: approver_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: access_review_status
+      label: access_review_status
+      hint: null
+      type: select_multiple
+      options:
+      - pending
+      - approved
+      - denied
+      - withdrawn
+      required: true
+    - id: 15
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: reviewer_signature
+      label: reviewer_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: approver_signature
+      label: approver_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: access_reviewed
+      label: access_reviewed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: form_id
+      label: form_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: reviewer_id
+      label: reviewer_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: approver_id
+      label: approver_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: reviewer_ip
+      label: reviewer_ip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reviewer_country
+      label: reviewer_country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: reviewer_region
+      label: reviewer_region
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: reviewer_city
+      label: reviewer_city
+      hint: null
+      type: text
+      options: []
+      required: false

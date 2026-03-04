@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legal Client Intake Form
+    pages:
+    - id: 1
+      name: legal_client_intake_form_step1
+      label: First Steps
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: legal_client_intake_form_step2
+      label: First Steps
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: legal_client_intake_form_step3
+      label: Next Steps
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: legal_client_intake_form_step4
+      label: Next Steps
+      hint: Please provide a detailed description
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: legal_client_intake_form_step5
+      label: Next Steps
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: legal_client_intake_form_step6
+      label: Last Steps
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: legal_client_intake_form_step7
+      label: Last Steps
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: legal_client_intake_form_step8
+      label: Last Steps
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: legal_client_intake_form_step9
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: legal_client_intake_form_step10
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false

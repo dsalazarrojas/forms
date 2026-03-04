@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legislative Request Form Template
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Requestor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - Law Office
+      - Government Agency
+      - Advocacy Group
+      required: false
+    - id: 5
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: request_details
+      label: Request Details
+      hint: Please describe the request
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: requestor_message
+      label: Requestor Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: request_status
+      label: Request Status
+      hint: null
+      type: select_one
+      options:
+      - Draft
+      - Approved
+      - Rejected
+      - Completed
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - ChatJimmy
+      - Other
+      required: false
+    - id: 13
+      name: assigned_user
+      label: Assigned User
+      hint: This field is not currently available
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: created_on
+      label: Created On
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: updated_on
+      label: Updated On
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

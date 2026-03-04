@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lead Preparer Agreement Form
+    pages:
+    - id: 1
+      name: lead_preparer_agreement_form
+      label: lead_preparer_agreement_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client
+      label: Client
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_start_date
+      label: project_start_date
+      hint: yyyy-mm-dd
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: project_end_date
+      label: project_end_date
+      hint: yyyy-mm-dd
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: responsibilities
+      label: responsibilities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: lead_preparer_agreement_form_acceptance
+      label: Lead Preparer Agreement Form Acceptance
+      hint: null
+      type: select_one
+      options:
+      - I accept the lead preparer agreement form
+      - I do not accept the lead preparer agreement form
+      required: false
+    - id: 7
+      name: lead_preparer_agreement_form_responsibilities
+      label: Lead Preparer Agreement Form Responsibilities
+      hint: null
+      type: select_multiple
+      options:
+      - Responsibilities for the project will be handled by the lead preparer
+      - Responsibilities for the project will be handled by the client
+      - Project responsibilities will be divided among multiple parties
+      required: false
+    - id: 8
+      name: lead_preparer_agreement_form_timelines
+      label: Lead Preparer Agreement Form Timelines
+      hint: null
+      type: select_one
+      options:
+      - Agreed to start project on <date>
+      - Agreed to finish project on <date>
+      - Agreed to start and finish project on <date>
+      required: false
+    - id: 9
+      name: lead_preparer_agreement_form_notes
+      label: Lead Preparer Agreement Form Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: lead_preparer_agreement_form_email
+      label: Lead Preparer Agreement Form Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: lead_preparer_agreement_form_phone
+      label: Lead Preparer Agreement Form Phone
+      hint: null
+      type: text
+      options: []
+      required: false

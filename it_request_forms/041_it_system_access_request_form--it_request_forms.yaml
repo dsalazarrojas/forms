@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: IT System Access Request Form
+    pages:
+    - id: 1
+      name: employee_requester
+      label: Requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: it_system_requested
+      label: IT System
+      hint: null
+      type: select_one
+      options:
+      - IT Security and Compliance
+      - IT Security
+      - IT Compliance
+      required: false
+    - id: 3
+      name: access_level
+      label: Access Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      - Medium
+      required: false
+    - id: 4
+      name: access_duration
+      label: Access Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: it_contact_person
+      label: IT Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: request_comments
+      label: Request Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Managed Security Services Pricing Request Form
+    pages:
+    - id: 1
+      name: managed_security_services_pricing_request_form
+      label: Managed Security Services Pricing Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: services_requested
+      label: Services Requested
+      hint: null
+      type: select_multiple
+      options:
+      - Penetration Testing
+      - Vulnerability Assessment
+      - Compliance Audit
+      - Security Consulting
+      required: false
+    - id: 7
+      name: security_level
+      label: Security Level
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Premium
+      - Enterprise
+      required: false
+    - id: 8
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false

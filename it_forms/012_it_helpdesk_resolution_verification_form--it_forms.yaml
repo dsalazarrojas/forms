@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: IT Helpdesk Resolution Verification Form
+    pages:
+    - id: 1
+      name: submitted_resolution_form
+      label: submitted_resolution_form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: issue_category
+      label: issue_category
+      hint: null
+      type: select_one
+      options:
+      - category1
+      - category2
+      required: false
+    - id: 3
+      name: resolution_satisfied
+      label: resolution_satisfied
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 4
+      name: resolution_description
+      label: resolution_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: resolution_comments
+      label: resolution_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: resolution_outcome
+      label: resolution_outcome
+      hint: null
+      type: select_one
+      options:
+      - resolved
+      - unresolved
+      - pending
+      required: false

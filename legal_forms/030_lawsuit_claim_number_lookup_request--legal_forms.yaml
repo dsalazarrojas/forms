@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: lawsuit_claim_number_lookup_request
+    pages:
+    - id: 1
+      name: claim_number
+      label: Claim Number
+      hint: Enter claim number
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: case_number
+      label: Case Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: requesting_firm
+      label: Requesting Firm
+      hint: Enter requesting firm name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: case_description
+      label: Case Description
+      hint: Describe the case
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: supporting_documents
+      label: Supporting Documents
+      hint: Upload supporting documents
+      type: select_multiple
+      options:
+      - Proof of Service
+      - Proof of Payment
+      - Proof of Loss
+      required: true
+    - id: 6
+      name: contact_name
+      label: Contact Name
+      hint: Enter contact name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: Enter phone number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: Address
+      hint: Enter address
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: city
+      label: City
+      hint: Enter city
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: state
+      label: State
+      hint: Enter state
+      type: select_one
+      options:
+      - AK
+      - AL
+      - AR
+      - CA
+      - CO
+      - CT
+      - DC
+      - DE
+      - FL
+      - GA
+      - IA
+      - ID
+      - IL
+      - IN
+      - KS
+      - KY
+      - LA
+      - MA
+      - MD
+      - ME
+      - MI
+      - MN
+      - MO
+      - MS
+      - MT
+      - NC
+      - ND
+      - NE
+      - NH
+      - NJ
+      - NM
+      - NV
+      - NY
+      - OH
+      - OK
+      - OR
+      - PA
+      - RI
+      - SC
+      - SD
+      - TN
+      - TX
+      - UT
+      - VA
+      - VT
+      - WA
+      - WI
+      - WV
+      - WY
+      required: true
+    - id: 12
+      name: zip_code
+      label: Zip Code
+      hint: Enter zip code
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date
+      label: Date
+      hint: Enter date
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time
+      label: Time
+      hint: Enter time
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: Additional comments
+      type: text
+      options: []
+      required: false

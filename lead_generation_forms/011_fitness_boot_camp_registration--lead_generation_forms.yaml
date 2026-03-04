@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: fitness_boot_camp_registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: birth_date
+      label: Birthdate
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_phone
+      label: Emergency contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_relation
+      label: Relation with emergency contact
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Child
+      - Spouse
+      required: false
+    - id: 9
+      name: emergency_contact_relation_other
+      label: Relation with emergency contact other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_other_relation
+      label: Emergency contact other relation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_other_info
+      label: Emergency contact other info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_conditions
+      label: Medical conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_devices
+      label: Medical devices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_procedures
+      label: Medical procedures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_notes
+      label: Medical notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: first_day
+      label: First day
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 18
+      name: start_time
+      label: Start time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 19
+      name: end_time
+      label: End time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: boot_camp_id
+      label: Boot camp id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: boot_camp_name
+      label: Boot camp name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: boot_camp_location
+      label: Boot camp location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: boot_camp_type
+      label: Boot camp type
+      hint: null
+      type: select_one
+      options:
+      - Weight Loss
+      - Fitness Class
+      - Wellness
+      required: true
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

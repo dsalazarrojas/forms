@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Electronic Signature Authorization Form
+    pages:
+    - id: 1
+      name: form_data
+      label: form data
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name_of_person_authorizing
+      label: name of person authorizing
+      hint: Name of person authorizing this form for their own signature
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: name_of_signatory
+      label: name of signatory
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: signature_method
+      label: signature method
+      hint: null
+      type: select_one
+      options:
+      - Electronic Signature
+      - Digital Signature
+      - Physical Signature
+      required: true
+    - id: 5
+      name: documents_list
+      label: documents to sign
+      hint: null
+      type: select_multiple
+      options:
+      - Document 1
+      - Document 2
+      - Document 3
+      required: true
+    - id: 6
+      name: document_ids
+      label: document ids
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: date_signed
+      label: date signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_signed
+      label: time signed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: electronic_signature_url
+      label: electronic signature url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: signature_image
+      label: signature image
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: signature_image_url
+      label: signature image url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: electronic_signature
+      label: electronic signature
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: signature_date
+      label: signature date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: signature_time
+      label: signature time
+      hint: null
+      type: time
+      options: []
+      required: false

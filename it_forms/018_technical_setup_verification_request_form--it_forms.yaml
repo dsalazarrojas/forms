@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Technical Setup Verification Request Form
+    pages:
+    - id: 1
+      name: technical_setup_verification_request_form_1
+      label: Technical Setup Verification Request
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: contact_info_1
+      label: Contact Information
+      hint: Please provide your contact info
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: documentation_uploads_1
+      label: Documentation Uploads
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: scheduling_1
+      label: Scheduling
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: technical_setup_verification_1
+      label: Technical Setup Verification
+      hint: null
+      type: text
+      options: []
+      required: false

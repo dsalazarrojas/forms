@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artistic Sabbatical Leave Of Absence Form
+    pages:
+    - id: 1
+      name: employee_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID or Staff Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department or Division
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: position_title
+      label: Position or Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: supervisor_name
+      label: Direct Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: start_date
+      label: Requested Sabbatical Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: end_date
+      label: Requested Sabbatical End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: sabbatical_duration_months
+      label: Sabbatical Duration - Months
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: sabbatical_type
+      label: Type of Sabbatical
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Partially Paid
+      required: true
+    - id: 11
+      name: creative_project
+      label: Creative Project or Purpose
+      hint: Describe the project or artistic pursuit
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: project_scope
+      label: Project Scope and Goals
+      hint: What do you hope to accomplish
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: location
+      label: Sabbatical Location or Setting
+      hint: Where will you be during sabbatical
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: year_of_previous_sabbatical
+      label: Year of Last Sabbatical (if any)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: coverage_plan
+      label: Coverage or Succession Plan During Absence
+      hint: How will your work be covered
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: return_commitment
+      label: Commitment to Return After Sabbatical
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - Possibly
+      - Uncertain
+      required: true
+    - id: 17
+      name: contact_during_sabbatical
+      label: Contact Method During Sabbatical
+      hint: Email, phone, emergency contact only
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: budget_needed
+      label: Budget or Financial Support Requested
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: additional_support
+      label: Additional Support or Resources Needed
+      hint: Equipment, sabbatical grant info, etc.
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: approval_status
+      label: Supervisor Preliminary Approval
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Under Review
+      - Needs Discussion
+      required: true

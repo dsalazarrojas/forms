@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tech Product Release Lead Generation Form
+    pages:
+    - id: 1
+      name: lead_generation_form
+      label: Lead Generation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lead_details
+      label: Lead Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: lead_segment
+      label: Lead Segment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: lead_follow_up
+      label: Lead Follow-up
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: tech_product_release_date
+      label: Tech Product Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: marketing_team
+      label: Marketing Team
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Team A''}'
+      - '{''value'': ''Team B''}'
+      - '{''value'': ''Team C''}'
+      required: false
+    - id: 7
+      name: product_manager
+      label: Product Manager
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''John Doe''}'
+      - '{''value'': ''Jane Doe''}'
+      - '{''value'': ''Bob Smith''}'
+      required: false
+    - id: 8
+      name: tech_product_name
+      label: Tech Product Name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Copyright Permission Form
+    pages:
+    - id: 1
+      name: copyright_requester_name
+      label: Copyright Requester Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: copyright_holder_name
+      label: Copyright Holder Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: purpose_of_request
+      label: Purpose Of Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_preference
+      label: Contact Preference
+      hint: null
+      type: select_one
+      options:
+      - By phone
+      - By email
+      - By mail
+      required: true
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: copyright_permission_form
+      label: Copyright Permission Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: copyright_license
+      label: Copyright License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: copyright_info
+      label: Copyright Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: copyright_agreement
+      label: Copyright Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

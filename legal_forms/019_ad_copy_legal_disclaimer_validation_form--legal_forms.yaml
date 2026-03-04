@@ -1,0 +1,149 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Ad Copy Legal Disclaimer Validation Form
+    pages:
+    - id: 1
+      name: campaign_header
+      label: -- Campaign and Content Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: campaign_name
+      label: Marketing Campaign Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: ad_copy_title
+      label: Ad Copy / Headline
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: content_channel
+      label: Media Channel
+      hint: null
+      type: select_one
+      options:
+      - Social Media (Meta / TikTok / etc)
+      - Search Engine (Google Ads)
+      - Television / Video
+      - Print Media
+      - Radio / Podcast
+      required: true
+    - id: 5
+      name: disclaimer_header
+      label: -- Legal Disclaimer Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: disclaimer_text
+      label: Full Disclaimer Text
+      hint: Provide the exact wording of the legal disclaimer
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: placement_description
+      label: Disclaimer Placement and Visibility
+      hint: Describe where and how the disclaimer appears
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: validation_check_header
+      label: -- Compliance Checklist --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: font_size_validation
+      label: Font size meets minimum legibility requirements
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 10
+      name: duration_validation
+      label: Exposure duration is sufficient for reading (if video/radio)
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Not Applicable
+      required: true
+    - id: 11
+      name: regulatory_standard
+      label: Applicable Regulatory Standard
+      hint: null
+      type: select_multiple
+      options:
+      - FTC Guidelines
+      - FDA Regulations
+      - FINRA / Financial Services
+      - CCPA / Privacy
+      - Local State Laws
+      required: true
+    - id: 12
+      name: risk_level
+      label: Estimated Legal Risk Level
+      hint: null
+      type: select_one
+      options:
+      - Low - Standard Disclaimer
+      - Medium - Specific Claims Made
+      - High - Highly Regulated Industry
+      required: true
+    - id: 13
+      name: reviewer_notes
+      label: Legal Reviewer Internal Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: validation_status
+      label: Final Validation Status
+      hint: null
+      type: select_one
+      options:
+      - Approved as is
+      - Approved with Changes
+      - Rejected - Needs Major Revision
+      required: true
+    - id: 15
+      name: reviewer_name
+      label: Reviewer Name / Legal Counsel
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: review_date
+      label: Date of Review
+      hint: null
+      type: date
+      options: []
+      required: true

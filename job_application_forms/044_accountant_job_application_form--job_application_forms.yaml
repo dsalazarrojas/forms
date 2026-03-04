@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accountant Job Application Form
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Current Address
+      hint: City and state
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_qualifications
+      label: -- Qualifications and Education --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: highest_education
+      label: Highest Level of Education
+      hint: null
+      type: select_one
+      options:
+      - Associate degree
+      - Bachelor degree
+      - Master degree
+      - Doctorate
+      - Professional certification only
+      - Other
+      required: true
+    - id: 8
+      name: degree_field
+      label: Degree Field of Study
+      hint: e.g., Accounting, Finance, Business Administration
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: certifications
+      label: Professional Certifications
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - CPA (Certified Public Accountant)
+      - CMA (Certified Management Accountant)
+      - CIA (Certified Internal Auditor)
+      - EA (Enrolled Agent)
+      - CFA (Chartered Financial Analyst)
+      - None
+      - Other
+      required: true
+    - id: 10
+      name: years_of_experience
+      label: Total Years of Accounting Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_experience
+      label: -- Professional Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: current_employer
+      label: Current or Most Recent Employer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: current_title
+      label: Current or Most Recent Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: accounting_areas
+      label: Areas of Accounting Experience
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - General ledger
+      - Accounts payable
+      - Accounts receivable
+      - Tax preparation
+      - Audit
+      - Payroll
+      - Financial reporting
+      - Budgeting and forecasting
+      - Cost accounting
+      required: true
+    - id: 15
+      name: software_proficiency
+      label: Software Proficiency
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - QuickBooks
+      - SAP
+      - Oracle
+      - Microsoft Excel (advanced)
+      - Xero
+      - Sage
+      - NetSuite
+      - Other
+      required: true
+    - id: 16
+      name: section_availability
+      label: -- Availability and Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: position_type
+      label: Position Type Desired
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Contract
+      - Temporary
+      required: true
+    - id: 18
+      name: available_start_date
+      label: Earliest Available Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: salary_expectation
+      label: Salary Expectation (Annual)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: willing_to_relocate
+      label: Are You Willing to Relocate
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Depends on location
+      required: true
+    - id: 21
+      name: work_authorization
+      label: Are You Authorized to Work in This Country
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Require sponsorship
+      required: true
+    - id: 22
+      name: additional_info
+      label: Additional Information or Cover Letter
+      hint: null
+      type: text
+      options: []
+      required: false

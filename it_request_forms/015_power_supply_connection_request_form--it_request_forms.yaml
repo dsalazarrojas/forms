@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Power Supply Connection Request Form
+    pages:
+    - id: 1
+      name: power_supply_connection_request_form_data
+      label: Power Supply Connection Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: connection_id
+      label: Connection ID
+      hint: The ID of your connection
+      type: select_one
+      options:
+      - '1234'
+      - '5678'
+      - '9012'
+      required: false
+    - id: 3
+      name: user_email
+      label: user email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: user_phone
+      label: user phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: connection_location
+      label: connection location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: power_supply_type
+      label: power supply type
+      hint: null
+      type: select_multiple
+      options:
+      - AC
+      - DC
+      - DC/AC
+      required: false
+    - id: 7
+      name: power_connection_date
+      label: power connection date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: power_connection_time
+      label: power connection time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submitter_comments
+      label: submitter comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: approver_name
+      label: approver name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: approver_comments
+      label: approver comments
+      hint: null
+      type: note
+      options: []
+      required: false

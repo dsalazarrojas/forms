@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: nursing_home_care_giver_job_application_form
+    pages:
+    - id: 1
+      name: contact
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: previous_employment
+      label: Previous Employment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: education
+      label: Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reference
+      label: Reference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''email'', ''label'': ''Email''}'
+      - '{''value'': ''phone'', ''label'': ''Phone''}'
+      - '{''value'': ''address'', ''label'': ''Address''}'
+      - '{''value'': ''fax'', ''label'': ''Fax''}'
+      required: false
+    - id: 6
+      name: available_to_start
+      label: Available to Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''associate'', ''label'': ''Associate''}'
+      - '{''value'': ''bachelor'', ''label'': ''Bachelor''}'
+      - '{''value'': ''master'', ''label'': ''Master''}'
+      - '{''value'': ''doctorate'', ''label'': ''Doctorate''}'
+      required: false
+    - id: 9
+      name: available_hours
+      label: Available Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: shift_preferences
+      label: Shift Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''morning'', ''label'': ''Morning''}'
+      - '{''value'': ''afternoon'', ''label'': ''Afternoon''}'
+      - '{''value'': ''evening'', ''label'': ''Evening''}'
+      - '{''value'': ''night'', ''label'': ''Night''}'
+      required: false
+    - id: 11
+      name: salary_requirements
+      label: Salary Requirements
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: available_date
+      label: Available Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: available_weekends
+      label: Available Weekends
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 14
+      name: available_holidays
+      label: Available Holidays
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 15
+      name: job_position
+      label: Job Position
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''nursing_home_caregiver'', ''label'': ''Nursing Home Caregiver''}'
+      - '{''value'': ''caregiver'', ''label'': ''Caregiver''}'
+      - '{''value'': ''healthcare_assistant'', ''label'': ''Healthcare Assistant''}'
+      - '{''value'': ''nurse_aide'', ''label'': ''Nurse Aide''}'
+      required: false
+    - id: 16
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''full_time'', ''label'': ''Full Time''}'
+      - '{''value'': ''part_time'', ''label'': ''Part Time''}'
+      - '{''value'': ''contract'', ''label'': ''Contract''}'
+      required: false
+    - id: 17
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''single'', ''label'': ''Single''}'
+      - '{''value'': ''married'', ''label'': ''Married''}'
+      - '{''value'': ''in_a_relationship'', ''label'': ''In a Relationship''}'
+      required: false
+    - id: 18
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''male'', ''label'': ''Male''}'
+      - '{''value'': ''female'', ''label'': ''Female''}'
+      required: false
+    - id: 19
+      name: available_to_work
+      label: Available To Work
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: job_references
+      label: Job References
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: job_references_1
+      label: Reference 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: job_references_2
+      label: Reference 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: job_references_3
+      label: Reference 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: job_references_4
+      label: Reference 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

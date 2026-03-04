@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: After School Routine Checklist
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: Enter the student's full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: Enter the name of the responsible adult
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_completed
+      label: Date Completed
+      hint: Select the date when this checklist was filled out
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: school_program_name
+      label: School or Program Name
+      hint: Enter the name of the school or after-school program
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: routine_section_header
+      label: -- Daily Routine Activities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: homework_completion_status
+      label: Homework Completion Status
+      hint: Indicate whether homework was completed today
+      type: select_one
+      options:
+      - Completed
+      - Partially Completed
+      - Not Started
+      - N/A
+      required: true
+    - id: 7
+      name: snack_consumed
+      label: Snack Consumed
+      hint: Did the student have an after-school snack?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: physical_activity_minutes
+      label: Physical Activity Minutes
+      hint: How many minutes of physical activity did the student engage in?
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: free_time_activities
+      label: Free Time Activities
+      hint: What activities did the student engage in during free time?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: screen_time_hours
+      label: Screen Time Hours
+      hint: How many hours of screen time did the student have today?
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: bedtime_routine_followed
+      label: Bedtime Routine Followed
+      hint: Was the bedtime routine followed as planned?
+      type: select_one
+      options:
+      - 'Yes'
+      - Mostly
+      - Partially
+      - 'No'
+      required: true
+    - id: 12
+      name: additional_notes
+      label: Additional Notes
+      hint: Any additional observations or notes about today's routine
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: tutor_teacher_signature
+      label: Tutor or Teacher Signature
+      hint: Digital signature of the person completing this checklist
+      type: text
+      options: []
+      required: false

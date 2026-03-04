@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: custody_agreement_release_form
+    pages:
+    - id: 1
+      name: parent_name
+      label: parent_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: current_custodian
+      label: current_custodian
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: new_custodian
+      label: new_custodian
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: date_of_birth
+      hint: The child's date of birth
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: state
+      label: state
+      hint: null
+      type: select_one
+      options:
+      - Arizona
+      - California
+      - New York
+      - Florida
+      - Texas
+      required: false
+    - id: 8
+      name: zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: date
+      hint: The date the agreement is made
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: custodian
+      label: custodian
+      hint: null
+      type: text
+      options: []
+      required: false

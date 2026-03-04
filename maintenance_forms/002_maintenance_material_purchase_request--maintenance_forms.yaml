@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maintenance Material Purchase Request
+    pages:
+    - id: 1
+      name: request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: staff_name
+      label: Staff Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: purchase_request
+      label: Purchase Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Done
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_submitted
+      label: Form Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: form_completed
+      label: Form Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: form_approved
+      label: Form Approved
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: form_rejected
+      label: Form Rejected
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: form_deleted
+      label: Form Deleted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: form_version
+      label: Form Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: form_status
+      label: Form Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

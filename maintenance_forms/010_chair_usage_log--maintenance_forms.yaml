@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chair Usage Log
+    pages:
+    - id: 1
+      name: log_date
+      label: Date of Entry
+      hint: When is the chair being used
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: log_time
+      label: Time of Use
+      hint: When chair was used
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: chair_id
+      label: Chair Identifier
+      hint: Serial number or ID code
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: chair_location
+      label: Chair Location
+      hint: Room, office, or area
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: facility_name
+      label: Facility or Organization Name
+      hint: School, office, or institution
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: user_name
+      label: Person Using Chair
+      hint: Name of user or employee
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: usage_duration
+      label: Duration of Use
+      hint: How long was chair used in minutes
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: intended_use
+      label: Intended Use of Chair
+      hint: What activity is the chair used for
+      type: select_one
+      options:
+      - Workspace Seating
+      - Conference Room
+      - Reception Area
+      - Nursing/Medical
+      - Therapy
+      - Classroom
+      - Other
+      required: true
+    - id: 9
+      name: chair_condition_before
+      label: Chair Condition Before Use
+      hint: Condition at start of session
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Damaged
+      required: true
+    - id: 10
+      name: chair_condition_after
+      label: Chair Condition After Use
+      hint: Condition at end of session
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Damaged
+      required: true
+    - id: 11
+      name: functionality_check
+      label: All Functions Working Properly
+      hint: Wheels, adjustments, tilt, etc.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partially
+      required: true
+    - id: 12
+      name: issues_observed
+      label: Issues or Problems Observed
+      hint: Describe any damage or malfunction
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: cleaning_required
+      label: Chair Requires Cleaning
+      hint: Does the chair need to be cleaned
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: maintenance_needed
+      label: Maintenance Needed
+      hint: Repairs or service required
+      type: select_one
+      options:
+      - None
+      - Minor Repairs
+      - Major Repairs
+      - Replacement Recommended
+      required: false
+    - id: 15
+      name: maintenance_details
+      label: Maintenance Details
+      hint: Describe maintenance needed
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: safety_concerns
+      label: Safety Concerns
+      hint: Any safety issues identified
+      type: select_one
+      options:
+      - None
+      - Minor
+      - Major
+      - Critical
+      required: true
+    - id: 17
+      name: safety_details
+      label: Safety Concern Details
+      hint: Describe safety issues
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: action_taken
+      label: Action Taken
+      hint: What was done to address issues
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_required
+      label: Follow-up Maintenance Required
+      hint: Will additional action be needed
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Pending
+      required: false
+    - id: 20
+      name: inspector_name
+      label: Inspector or Reporting Person
+      hint: Name of person logging usage
+      type: text
+      options: []
+      required: true

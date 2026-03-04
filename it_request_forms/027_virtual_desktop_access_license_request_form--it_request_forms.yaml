@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Desktop Access License Request Form
+    pages:
+    - id: 1
+      name: request_info
+      label: Request Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: license_info
+      label: License Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: supporting_info
+      label: Supporting Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submitter_info
+      label: Submitter Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submitter_info
+      label: Submitter Info
+      hint: null
+      type: text
+      options: []
+      required: false

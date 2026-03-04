@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adhesion Agreement Form
+    pages:
+    - id: 1
+      name: parties_information
+      label: Parties information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: provider_name
+      label: Provider name
+      hint: Company providing goods or services
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_name
+      label: Customer name
+      hint: Party accepting terms
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: effective_date
+      label: Effective date
+      hint: Date agreement takes effect
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: terms_summary
+      label: Terms summary
+      hint: Brief overview of material terms
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: acknowledgment_of_terms
+      label: Acknowledgment of terms
+      hint: Confirm you accept the contract terms
+      type: select_one
+      options:
+      - I accept
+      - Other
+      required: true
+    - id: 7
+      name: dispute_resolution
+      label: Dispute resolution clause
+      hint: Brief description of process
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: termination_conditions
+      label: Termination conditions
+      hint: Conditions under which contract may end
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature_provider
+      label: Provider signature name
+      hint: Typed name for provider signatory
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: signature_customer
+      label: Customer signature name
+      hint: Typed name for customer signatory
+      type: text
+      options: []
+      required: true

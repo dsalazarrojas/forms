@@ -1,0 +1,177 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Add On Permission Request Form
+    pages:
+    - id: 1
+      name: request_header
+      label: -- Add-On Permission Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Email Address
+      hint: Your corporate email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_department
+      label: Department
+      hint: Your department or division
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: requester_position
+      label: Position/Title
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: add_on_name
+      label: Name of Add-On/Extension
+      hint: What is the name of the add-on you're requesting?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: add_on_publisher
+      label: Publisher/Developer
+      hint: Who developed this add-on?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: add_on_version
+      label: Version Number
+      hint: What version of the add-on are you requesting?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: browser_type
+      label: Browser Type
+      hint: Which browser does this add-on work with?
+      type: select_one
+      options: ["Chrome", "Firefox", "Safari", "Edge", "Opera", "Other"]
+      required: true
+    - id: 10
+      name: business_justification
+      label: Business Justification
+      hint: Why do you need this add-on for your work?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: security_impact
+      label: Security Impact Assessment
+      hint: How might this add-on affect system security?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: functionality_needed
+      label: Specific Functionality Needed
+      hint: What specific features of the add-on do you need?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: alternative_solutions
+      label: Alternative Solutions Tried
+      hint: What alternatives have you tried before requesting this add-on?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: installation_scope
+      label: Installation Scope
+      hint: Where should this add-on be installed?
+      type: select_one
+      options: ["My workstation only", "Department computers", "Organization-wide", "Specific project machines"]
+      required: true
+    - id: 15
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is this request?
+      type: select_one
+      options: ["Low - Within 30 days", "Medium - Within 14 days", "High - Within 7 days", "Critical - Within 24 hours"]
+      required: true
+    - id: 16
+      name: estimated_duration
+      label: Estimated Duration of Use
+      hint: How long do you expect to use this add-on?
+      type: select_one
+      options: ["One-time use", "Short-term (less than 3 months)", "Medium-term (3-12 months)", "Long-term (more than 1 year)"]
+      required: true
+    - id: 17
+      name: data_access_required
+      label: Data Access Required
+      hint: What type of data does this add-on need to access?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: compliance_review_needed
+      label: Compliance Review Needed
+      hint: Does this add-on require compliance review?
+      type: select_one
+      options: ["Yes", "No", "Unsure"]
+      required: true
+    - id: 19
+      name: vendor_privacy_policy
+      label: Vendor Privacy Policy Review
+      hint: Have you reviewed the vendor's privacy policy?
+      type: select_one
+      options: ["Yes", "No", "N/A"]
+      required: false
+    - id: 20
+      name: approval_requested
+      label: Approval Requested
+      hint: Do you request approval for this add-on?
+      type: select_one
+      options: ["Yes, please approve", "No, just informational"]
+      required: true
+    - id: 21
+      name: supervisor_approval
+      label: Supervisor Approval
+      hint: Has your supervisor approved this request?
+      type: select_one
+      options: ["Yes", "No", "Pending"]
+      required: true
+    - id: 22
+      name: request_date
+      label: Request Date
+      hint: Date of this request
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: requester_signature
+      label: Requester Signature
+      hint: Electronic signature to confirm request
+      type: text
+      options: []
+      required: true

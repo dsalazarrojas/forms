@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: museum_visit_leave_form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: museum_name
+      label: Museum Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''pending''}'
+      - '{''id'': 2, ''name'': ''approved''}'
+      - '{''id'': 3, ''name'': ''rejected''}'
+      required: true
+    - id: 7
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comment
+      label: Comment
+      hint: null
+      type: note
+      options: []
+      required: false

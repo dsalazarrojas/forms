@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mortgage Calculator Lead Form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: mortgage_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: home_price
+      label: Home Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: interest_rate
+      label: Interest Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: loan_term
+      label: Loan Term
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Bi-Weekly
+      - Weekly
+      required: false
+    - id: 7
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: contact_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_zip
+      label: Zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: lead_source
+      label: Lead Source
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

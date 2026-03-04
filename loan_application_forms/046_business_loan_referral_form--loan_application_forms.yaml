@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Loan Referral Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Loan Referral --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: referrer_name
+      label: Referrer name
+      hint: Name of person making the referral
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: referred_business_name
+      label: Referred business name
+      hint: Name of the business being referred
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: Email for the referred party
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: loan_amount_estimate
+      label: Loan amount estimate
+      hint: Approximate amount the referred party is seeking
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_referral
+      label: Reason for referral
+      hint: Why this business is a good candidate
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: urgency
+      label: Urgency
+      hint: How soon should the lender contact the referred party
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 8
+      name: additional_notes
+      label: Additional notes
+      hint: Any additional context about the referral
+      type: text
+      options: []
+      required: false

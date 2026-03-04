@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Model Innovation Partner Contact Form
+    pages:
+    - id: 1
+      name: contact_name
+      label: Contact Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: Email address for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_website
+      label: Company Website
+      hint: Full website URL
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1 to 10
+      - 11 to 50
+      - 51 to 200
+      - 201 to 500
+      - 500 plus
+      required: true
+    - id: 8
+      name: industry
+      label: Industry
+      hint: Primary industry
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Manufacturing
+      - Retail
+      - Education
+      - Energy
+      - Professional services
+      - Other
+      required: true
+    - id: 9
+      name: partnership_type
+      label: Partnership Type Interested In
+      hint: What type of partnership are you seeking
+      type: select_one
+      options:
+      - Strategic alliance
+      - Joint venture
+      - Technology partnership
+      - Distribution partnership
+      - Co-development
+      - Licensing agreement
+      - Reseller agreement
+      - Other
+      required: true
+    - id: 10
+      name: partnership_goals
+      label: Partnership Goals
+      hint: What do you hope to achieve through partnership
+      type: select_multiple
+      options:
+      - Market expansion
+      - Technology access
+      - Resource sharing
+      - Cost reduction
+      - Innovation acceleration
+      - Revenue growth
+      - Brand enhancement
+      - Risk sharing
+      required: true
+    - id: 11
+      name: value_proposition
+      label: Your Value Proposition
+      hint: What value do you bring to a partnership
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: target_markets
+      label: Target Markets
+      hint: Which markets are you targeting
+      type: select_multiple
+      options:
+      - North America
+      - Europe
+      - Asia Pacific
+      - Latin America
+      - Middle East
+      - Africa
+      - Global
+      required: true
+    - id: 13
+      name: innovation_focus
+      label: Innovation Focus Areas
+      hint: Select all areas of focus
+      type: select_multiple
+      options:
+      - Digital transformation
+      - Sustainability
+      - Customer experience
+      - Operational efficiency
+      - Product development
+      - Business model redesign
+      - Platform development
+      - Data analytics
+      required: true
+    - id: 14
+      name: timeline
+      label: Partnership Timeline
+      hint: When do you want to establish partnership
+      type: select_one
+      options:
+      - Immediate
+      - Within 1 month
+      - Within 3 months
+      - Within 6 months
+      - Exploring options
+      required: true
+    - id: 15
+      name: investment_capacity
+      label: Investment Capacity
+      hint: What can you invest in partnership
+      type: select_one
+      options:
+      - Under $50K
+      - $50K to $100K
+      - $100K to $500K
+      - $500K to $1M
+      - Over $1M
+      - Non-financial resources
+      required: false
+    - id: 16
+      name: decision_making_authority
+      label: Decision Making Authority
+      hint: Are you the decision maker
+      type: select_one
+      options:
+      - Yes - final decision maker
+      - Yes - recommend to leadership
+      - No - influence decisions
+      - No - gathering information
+      required: true
+    - id: 17
+      name: previous_partnerships
+      label: Previous Partnership Experience
+      hint: Have you had partnerships before
+      type: select_one
+      options:
+      - Yes - multiple successful
+      - Yes - some experience
+      - Yes - limited experience
+      - No - first partnership
+      required: true
+    - id: 18
+      name: proposal_summary
+      label: Partnership Proposal Summary
+      hint: Briefly describe your partnership proposal
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we contact you
+      type: select_one
+      options:
+      - Email
+      - Phone call
+      - Video conference
+      - In-person meeting
+      required: true
+    - id: 20
+      name: availability
+      label: Availability for Discussion
+      hint: When are you available to talk
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_information
+      label: Additional Information
+      hint: Any other relevant details
+      type: text
+      options: []
+      required: false

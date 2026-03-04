@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Knowledge Base Item Update Request Form
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page_label
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: text_field
+      label: text_field_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_field
+      label: date_field_label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_field
+      label: time_field_label
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: email_field
+      label: email_field_label
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_field
+      label: phone_field_label
+      hint: null
+      type: text
+      options: []
+      required: false

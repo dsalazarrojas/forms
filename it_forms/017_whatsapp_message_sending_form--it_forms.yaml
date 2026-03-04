@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: WhatsApp Message Sending Form
+    pages:
+    - id: 1
+      name: message_request
+      label: Whats up
+      hint: Please enter a message request
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: schedule_outreach
+      label: Schedule Outreach
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: false
+    - id: 3
+      name: outreach_date
+      label: Outreach Date
+      hint: Select a date
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: outreach_time
+      label: Outreach Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: message_type
+      label: Message Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: false
+    - id: 6
+      name: recipient_phone
+      label: Recipient Phone
+      hint: Enter phone number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: sender_phone
+      label: Sender Phone
+      hint: Enter phone number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: message_body
+      label: Message Body
+      hint: Enter the message request
+      type: text
+      options: []
+      required: false

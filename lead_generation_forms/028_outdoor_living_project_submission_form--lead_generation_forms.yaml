@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Outdoor Living Project Submission Form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_location
+      label: Project Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Living Room Patio''}'
+      - '{''label'': ''Kitchen Outdoor Kitchen''}'
+      required: true
+    - id: 4
+      name: project_size
+      label: Project Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: lead_source
+      label: Lead Source
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Social Media''}'
+      - '{''label'': ''Email Marketing''}'
+      required: true
+    - id: 7
+      name: lead_contact_details
+      label: Contact Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: project_deadline
+      label: Project Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: project_notes
+      label: Project Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

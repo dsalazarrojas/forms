@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Credit Agreement Form
+    pages:
+    - id: 1
+      name: customer_id
+      label: Customer Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: credit_agreement_date
+      label: Credit Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: total_amount
+      label: Total Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - First Payment
+      - Second Payment
+      - Third Payment
+      required: false
+    - id: 12
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: false
+    - id: 13
+      name: interest_rate
+      label: Interest Rate
+      hint: null
+      type: select_one
+      options:
+      - 10%
+      - 12%
+      - 15%
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: signed_by
+      label: Signed By
+      hint: null
+      type: text
+      options: []
+      required: false

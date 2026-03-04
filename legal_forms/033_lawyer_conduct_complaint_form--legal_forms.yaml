@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lawyer Conduct Complaint Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: lawyer_name
+      label: Lawyer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: complaint_description
+      label: Complaint Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: complaint_date
+      label: Complaint Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: complaint_details
+      label: Complaint Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: evidence_attachments
+      label: Evidence Attachments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: lawyer_conduct_type
+      label: Lawyer Conduct Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: case_status
+      label: Case Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 9
+      name: complaint_type
+      label: Complaint Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: complaint_submitted_by
+      label: Complaint Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: lawyer_conduct_level
+      label: Lawyer Conduct Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 12
+      name: complaint_resolution
+      label: Complaint Resolution
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: follow_up_status
+      label: Follow-Up Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 14
+      name: follow_up_comments
+      label: Follow-up Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: case_manager
+      label: Case Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: case_manager_notes
+      label: Case Manager Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: complaint_id
+      label: Complaint ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: form_version
+      label: Form Version
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: completed_date
+      label: Completed Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: submitted_by_name
+      label: Submitted By Name
+      hint: null
+      type: text
+      options: []
+      required: true

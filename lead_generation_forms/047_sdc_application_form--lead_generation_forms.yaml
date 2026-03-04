@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: SDC Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: insurance_type
+      label: Insurance Type
+      hint: null
+      type: select_one
+      options:
+      - Life
+      - Health
+      - Auto
+      - Home
+      - Other
+      required: false
+    - id: 6
+      name: policy_type
+      label: Policy Type
+      hint: null
+      type: select_multiple
+      options:
+      - Term
+      - Whole
+      - Annuity
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: date_of_application
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: date_of_issue
+      label: Date of Issue
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: policy_number
+      label: Policy Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: business_entity
+      label: Business Entity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: business_entity_type
+      label: Business Entity Type
+      hint: null
+      type: select_one
+      options:
+      - Sole
+      - Corp
+      - LLC
+      - DBA
+      - Other
+      required: false
+    - id: 15
+      name: employee_relationship
+      label: Employee Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Owner
+      - Employee
+      - Partner
+      required: false
+    - id: 16
+      name: policy_status
+      label: Policy Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 17
+      name: policy_effective_date
+      label: Policy Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: policy_expiration_date
+      label: Policy Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: policy_issuer
+      label: Policy Issuer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: policy_issuer_address
+      label: Policy Issuer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: policy_issuer_phone
+      label: Policy Issuer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: policy_issuer_email
+      label: Policy Issuer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: policy_issuer_notes
+      label: Policy Issuer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: policy_holder_name
+      label: Policy Holder Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: policy_holder_phone
+      label: Policy Holder Phone
+      hint: null
+      type: text
+      options: []
+      required: false

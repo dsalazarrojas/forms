@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Labor Application Form
+    pages:
+    - id: 1
+      name: job_application_info
+      label: Job application information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: work_history
+      label: Work experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: education
+      label: Education
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_details
+      label: Job details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_info
+      label: Contact information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_preferences
+      label: Job preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: availability
+      label: Availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: work_status
+      label: Work status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: job_type
+      label: Job type
+      hint: null
+      type: select_one
+      options:
+      - Administrative
+      - Clerical
+      - Industrial
+      - Other
+      required: true
+    - id: 10
+      name: employment_type
+      label: Employment type
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Intern
+      - Contract
+      required: true
+    - id: 11
+      name: employment_status
+      label: Employment status
+      hint: null
+      type: select_multiple
+      options:
+      - Employed
+      - Unemployed
+      - Self-Employed
+      required: true
+    - id: 12
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: job_title
+      label: Job title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: job_description
+      label: Job description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: work_address
+      label: Work address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: job_hours
+      label: Job hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: job_salary
+      label: Job salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: job_location
+      label: Job location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: job_type
+      label: Job type
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Seasonal
+      required: true
+    - id: 22
+      name: job_employment_type
+      label: Job employment type
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Self-Employed
+      required: true
+    - id: 23
+      name: job_availability
+      label: Job availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: job_start_date
+      label: Job start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: job_end_date
+      label: Job end date
+      hint: null
+      type: date
+      options: []
+      required: false

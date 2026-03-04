@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dentist Job Application Form
+    pages:
+    - id: 1
+      name: basic_info
+      label: Basic Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: experience
+      label: Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: education
+      label: Education
+      hint: null
+      type: select_multiple
+      options:
+      - Dental
+      - English
+      - Leadership
+      - Team Management
+      required: false
+    - id: 6
+      name: skills
+      label: Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Dental
+      - English
+      - Leadership
+      - Team Management
+      required: false
+    - id: 7
+      name: certifications
+      label: Certifications
+      hint: null
+      type: select_multiple
+      options:
+      - ADA
+      - CE
+      required: false
+    - id: 8
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_multiple
+      options:
+      - Emergency Contact Info
+      - Relationship
+      - Contact Info
+      required: false
+    - id: 10
+      name: upload_files
+      label: Upload Files
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: upload_documents
+      label: Upload Documents
+      hint: null
+      type: select_one
+      options:
+      - Documents
+      - CV
+      - ID
+      required: false

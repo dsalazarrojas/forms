@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: patent_application_approval_form
+    pages:
+    - id: 1
+      name: application_form
+      label: Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patent_details
+      label: Patent Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: inventor_info
+      label: Inventor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patent_type
+      label: Patent Type
+      hint: null
+      type: select_one
+      options:
+      - Application
+      - Utility
+      - Design
+      - Provisional
+      required: false
+    - id: 5
+      name: application_status
+      label: Application Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      required: false
+    - id: 6
+      name: application_number
+      label: Application Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: filing_date
+      label: Filing Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: filing_location
+      label: Filing Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: inventor_name
+      label: Inventor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patentee_name
+      label: Patentee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: zip
+      label: ZIP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: patent_fees
+      label: Patent Fees
+      hint: Enter patent fees in USD.
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: payment_due_date
+      label: Payment Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      required: false
+    - id: 23
+      name: payment_confirmation
+      label: Payment Confirmation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: Any additional information about this patent application.
+      type: note
+      options: []
+      required: false

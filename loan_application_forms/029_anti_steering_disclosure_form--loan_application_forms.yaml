@@ -1,0 +1,74 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Anti Steering Disclosure Form
+    pages:
+    - id: 1
+      name: section_disclosure
+      label: -- Disclosure Information --
+      hint: Provide details of loan options presented to borrower
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: borrower_name
+      label: Borrower name
+      hint: Full name of applicant
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: loan_officer
+      label: Loan officer name
+      hint: Staff member who discussed options
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: loan_options_presented
+      label: Loan options presented
+      hint: Brief description of alternatives discussed
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: borrower_acknowledgement
+      label: Borrower acknowledgement
+      hint: Confirmation that options were explained
+      type: select_one
+      options:
+        - Acknowledged
+        - Did not acknowledge
+      required: true
+    - id: 6
+      name: borrower_preference
+      label: Borrower preference
+      hint: Which option borrower selected
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_recorded
+      label: Date recorded
+      hint: Date of disclosure discussion
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: additional_notes
+      label: Additional notes
+      hint: Any other commentary or observations
+      type: text
+      options: []
+      required: false

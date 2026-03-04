@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: it_service_request_form_2
+    pages:
+    - id: 1
+      name: customer_contact
+      label: customer_contact
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: category
+      label: select_category
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: problem_description
+      label: problem_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: further_explanation
+      label: further_explanation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: category_other
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments_other
+      label: comments_other
+      hint: null
+      type: note
+      options: []
+      required: false

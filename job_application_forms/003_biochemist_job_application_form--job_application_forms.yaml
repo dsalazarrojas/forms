@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Biochemist Job Application Form
+    pages:
+    - id: 1
+      name: personal_info_header
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: applicant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: applicant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: academic_header
+      label: -- Academic Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: highest_degree
+      label: Highest Degree Earned
+      hint: null
+      type: select_one
+      options:
+      - Bachelor of Science
+      - Master of Science
+      - Ph.D.
+      - Post-Doctoral
+      required: true
+    - id: 8
+      name: university_name
+      label: University Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: overall_gpa
+      label: Overall GPA
+      hint: e.g. 3.8
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: professional_header
+      label: -- Professional Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: years_experience
+      label: Years of Experience in Biochemistry
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: current_employer
+      label: Current or Most Recent Employer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: technical_skills
+      label: Technical Skills - Lab Techniques
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - PCR
+      - Chromatography
+      - Mass Spectrometry
+      - Cell Culture
+      - Protein Purification
+      required: true
+    - id: 14
+      name: research_summary
+      label: Brief Summary of Research Interests
+      hint: Max 500 characters
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: availability_date
+      label: Available Start Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Case Settlement Discharge Form
+    pages:
+    - id: 1
+      name: settlement_header_section
+      label: -- Settlement Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: settlement_date
+      label: Settlement Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: form_completion_date
+      label: Form Completion Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: case_identification_section
+      label: -- Case Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: case_number
+      label: Case Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: case_title
+      label: Case Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: court_name
+      label: Court Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: judge_assigned
+      label: Assigned Judge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: parties_section
+      label: -- Parties to the Settlement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: plaintiff_name
+      label: Plaintiff Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: plaintiff_attorney
+      label: Plaintiff Attorney Name and Bar Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: defendant_name
+      label: Defendant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: defendant_attorney
+      label: Defendant Attorney Name and Bar Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: settlement_terms_section
+      label: -- Settlement Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: settlement_amount
+      label: Total Settlement Amount (dollars)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: payment_schedule
+      label: Payment Schedule or Lump Sum
+      hint: Describe payment terms
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: settlement_conditions
+      label: Special Conditions or Contingencies
+      hint: Describe any conditions of settlement
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: non_disclosure_agreement
+      label: Non-Disclosure Agreement Included?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partial
+      required: true
+    - id: 19
+      name: non_admission_liability
+      label: Non-Admission of Liability?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Defendant admits liability
+      required: true
+    - id: 20
+      name: discharge_section
+      label: -- Discharge of Claims --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: claims_released
+      label: All Claims Released?
+      hint: null
+      type: select_one
+      options:
+      - Yes, all claims fully released
+      - No, partial release
+      - Other
+      required: true
+    - id: 22
+      name: claims_description
+      label: Description of Released Claims
+      hint: Specify what is being released
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: retained_claims
+      label: Any Claims Retained by Plaintiff?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: effectiveness_date
+      label: Effective Date of Settlement
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: settlement_notes
+      label: Additional Notes or Special Terms
+      hint: null
+      type: text
+      options: []
+      required: false

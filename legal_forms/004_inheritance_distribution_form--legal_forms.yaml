@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inheritance Distribution Form
+    pages:
+    - id: 1
+      name: family_member1_name
+      label: family_member1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: family_member1_share_percentage
+      label: family_member1_share
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: family_member2_name
+      label: family_member2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: family_member2_share_percentage
+      label: family_member2_share
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: estate_description
+      label: estate
+      hint: Brief description of the estate
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: executor_name
+      label: executor
+      hint: Name of the executor
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: executor_relationship
+      label: relationship
+      hint: Relationship to the deceased
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_death
+      label: date_of_death
+      hint: Date of death
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: total_estate_value
+      label: total_estate_value
+      hint: Total value of the estate
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: family_member1_share_value
+      label: family_member1_share_value
+      hint: Value of family_member1's share
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: family_member2_share_value
+      label: family_member2_share_value
+      hint: Value of family_member2's share
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: family_member1_share
+      label: family_member1_share
+      hint: null
+      type: select_multiple
+      options:
+      - '0'
+      - '50'
+      - '100'
+      required: false
+    - id: 13
+      name: family_member2_share
+      label: family_member2_share
+      hint: null
+      type: select_multiple
+      options:
+      - '0'
+      - '50'
+      - '100'
+      required: false
+    - id: 14
+      name: estate_distribution_method
+      label: distribution_method
+      hint: How the estate will be distributed
+      type: select_one
+      options:
+      - equal
+      - per stirpes
+      - as described in the will
+      required: false
+    - id: 15
+      name: executor_inheritance
+      label: executor_inheritance
+      hint: Executor's inheritance
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: executor_fees
+      label: executor_fees
+      hint: Executor's fees
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: total_fees
+      label: total_fees
+      hint: Total fees
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: family_member1_inheritance
+      label: family_member1_inheritance
+      hint: Inheritance for family_member1
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: family_member1_fees
+      label: family_member1_fees
+      hint: Fees for family_member1
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: family_member2_inheritance
+      label: family_member2_inheritance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: family_member2_fees
+      label: family_member2_fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: other_inheritance
+      label: other_inheritance
+      hint: Other heirs (e.g., children, charities)
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: other_fees
+      label: other_fees
+      hint: Fees for other heirs
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: other_inheritance_value
+      label: other_inheritance_value
+      hint: Value of other heirs' shares
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: review_date
+      label: review_date
+      hint: Date for final review
+      type: date
+      options: []
+      required: false

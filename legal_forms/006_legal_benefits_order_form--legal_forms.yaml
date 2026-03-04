@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legal Benefits Order Form
+    pages:
+    - id: 1
+      name: main_info
+      label: LegalBenefitsOrderForm
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_info
+      label: BusinessInformation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: request_info
+      label: RequestInformation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: benefit_choice
+      label: ChooseBenefit
+      hint: null
+      type: select_multiple
+      options:
+      - '{''Business Benefits'': None}'
+      - Employee Benefits
+      - Family and Medical Leave
+      required: false
+    - id: 5
+      name: request_date
+      label: RequestDate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: signature
+      label: Signature
+      hint: Please sign below
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: business_benefits
+      label: BusinessBenefits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: employee_benefits
+      label: EmployeeBenefits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: family_and_medical
+      label: FamilyAndMedical
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: employee_benefit_choices
+      label: EmployeeBenefitChoices
+      hint: null
+      type: select_one
+      options:
+      - None
+      - None
+      - '[None]'
+      required: false

@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Library Reservation Form
+    pages:
+    - id: 1
+      name: library_reservation_form
+      label: library_reservation_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: book_selection
+      label: book_selection
+      hint: Select a book
+      type: select_one
+      options:
+      - Book A
+      - Book B
+      - Book C
+      required: false
+    - id: 3
+      name: date_selected
+      label: date_selected
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_selected
+      label: time_selected
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: librarian_details
+      label: librarian_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: name
+      label: name
+      hint: Name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: Email
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: Phone
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: message
+      label: message
+      hint: Message
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: confirm
+      label: confirm
+      hint: Confirm
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: confirm_message
+      label: confirm_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: reservation_date
+      label: reservation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: reservation_time
+      label: reservation_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: reservation_status
+      label: reservation_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Reservated
+      - Cancelled
+      required: false
+    - id: 15
+      name: reservation_comments
+      label: reservation_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: librarian_notes
+      label: librarian_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: form_completion
+      label: form_completion
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      required: false
+    - id: 19
+      name: form_comments
+      label: form_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: librarian_comments
+      label: librarian_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_comments
+      label: form_comments
+      hint: null
+      type: text
+      options: []
+      required: false

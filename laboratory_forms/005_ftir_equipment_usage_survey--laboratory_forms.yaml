@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: FTIR Equipment Usage Survey
+    pages:
+    - id: 1
+      name: instrument_used
+      label: Instrument Used
+      hint: null
+      type: select_one
+      options:
+      - FT-IR
+      - Raman
+      - NMR
+      - Other
+      required: false
+    - id: 2
+      name: satisfaction_scale
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: training_needs
+      label: Training Needs
+      hint: null
+      type: select_multiple
+      options:
+      - Basic
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 4
+      name: improvement_feedback
+      label: Improvement Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: submission_tracking
+      label: Submission Tracking
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: training_needs_additional
+      label: Additional Training Needs
+      hint: null
+      type: select_one
+      options:
+      - None
+      - 'True'
+      required: false
+    - id: 7
+      name: satisfaction_scale_2
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: form_submit
+      label: Form Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: instrument_usage_frequency
+      label: Instrument Usage Frequency
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '5'
+      - '10'
+      required: false
+    - id: 11
+      name: training_needs_2
+      label: Training Needs 2
+      hint: null
+      type: select_multiple
+      options:
+      - Basic
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 12
+      name: satisfaction_scale_3
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: instrument_used_additional
+      label: Additional Instrument Used
+      hint: null
+      type: select_one
+      options:
+      - None
+      - FT-IR
+      - Raman
+      - NMR
+      required: false
+    - id: 14
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: form_status
+      label: Form Status
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      required: false
+    - id: 17
+      name: instrument_usage_frequency_2
+      label: Instrument Usage Frequency 2
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '5'
+      - '10'
+      required: false
+    - id: 18
+      name: submission_user
+      label: Submission User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: form_submit
+      label: Form Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: false
+    - id: 21
+      name: training_needs_3
+      label: Training Needs 3
+      hint: null
+      type: select_multiple
+      options:
+      - Basic
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 22
+      name: submission_time_2
+      label: Submission Time 2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: instrument_used_2
+      label: Instrument Used 2
+      hint: null
+      type: select_one
+      options:
+      - FT-IR
+      - Raman
+      - NMR
+      required: false
+    - id: 24
+      name: form_status_2
+      label: Form Status 2
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      required: false
+    - id: 25
+      name: submission_user_2
+      label: Submission User 2
+      hint: null
+      type: text
+      options: []
+      required: false

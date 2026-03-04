@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Membership Interest Repurchase Agreement Form
+    pages:
+    - id: 1
+      name: agreement_title
+      label: Membership Interest Repurchase Agreement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: member_info
+      label: Member Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: repurchase_price
+      label: Repurchase Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: repurchase_terms
+      label: Repurchase Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: member_status
+      label: Member Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Inactive''}'
+      - '{''id'': 3, ''label'': ''Unknown''}'
+      required: true
+    - id: 7
+      name: signature
+      label: Sign
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: member_name
+      label: Member Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: member_title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: agreement_status
+      label: Agreement Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Draft''}'
+      - '{''id'': 2, ''label'': ''Published''}'
+      - '{''id'': 3, ''label'': ''Cancelled''}'
+      required: false
+    - id: 11
+      name: reason_for_repurchase
+      label: Reason for Repurchase
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: repurchase_details
+      label: Repurchase Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: repurchase_date
+      label: Repurchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: repurchase_terms_2
+      label: Repurchase Terms 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: repurchase_price_2
+      label: Repurchase Price 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: purchase_date_2
+      label: Purchase Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: agreement_terms
+      label: Agreement Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: repurchase_notes
+      label: Repurchase Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: member_status_2
+      label: Member Status 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Inactive''}'
+      - '{''id'': 3, ''label'': ''Unknown''}'
+      required: false
+    - id: 20
+      name: member_signature
+      label: Member Sign
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: agreement_signature
+      label: Agreement Sign
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: reason_for_termination
+      label: Reason for Termination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: termination_date
+      label: Termination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: repurchase_agreement_status
+      label: Repurchase Agreement Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Draft''}'
+      - '{''id'': 2, ''label'': ''Published''}'
+      - '{''id'': 3, ''label'': ''Cancelled''}'
+      required: false
+    - id: 25
+      name: repurchase_agreement_note
+      label: Repurchase Agreement Note
+      hint: null
+      type: text
+      options: []
+      required: false

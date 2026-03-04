@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Access Security Assessment
+    pages:
+    - id: 1
+      name: remote_access_practices
+      label: Remote Access Practices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: remote_access_duration
+      label: Remote Access Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: remote_access_location
+      label: Remote Access Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: remote_access_frequency
+      label: Remote Access Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Every day
+      - Every 2 days
+      - Every 3 days
+      - Every week
+      - Every 2 weeks
+      - Every month
+      - Every 2 months
+      - Every 3 months
+      - Every 4 months
+      - Every 5 months
+      - Every 6 months
+      - Every 7 months
+      - Every 8 months
+      - Every 9 months
+      - Every 10 months
+      - Every 11 months
+      - Every 12 months
+      required: false
+    - id: 5
+      name: risk_evaluation
+      label: Risk Evaluation
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      required: false
+    - id: 6
+      name: risk_assessment_status
+      label: Risk Assessment Status
+      hint: null
+      type: select_multiple
+      options:
+      - No risk assessed
+      - Risk assessed
+      - Risk not assessed
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: reviewer_notes
+      label: Reviewer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: reviewer
+      label: Reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Photography Contract Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: Provide contact information for all parties involved
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: services
+      label: Services
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: date_and_time
+      label: Date and Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: photographer_contact_info
+      label: Photographer Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: client_agreement
+      label: Client Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: client_review
+      label: Client Review
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: client_acceptance
+      label: Client Acceptance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: photographer_acceptance
+      label: Photographer Acceptance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: photographer_notes
+      label: Photographer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: payment_timeline
+      label: Payment Timeline
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contract_signature_blocks
+      label: Contract Signature Blocks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contract_footer
+      label: Contract Footer
+      hint: null
+      type: text
+      options: []
+      required: false

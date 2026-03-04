@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Software User Registration
+    pages:
+    - id: 1
+      name: onboard_new_user
+      label: Onboard New User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: user_type
+      label: User Type
+      hint: null
+      type: select_one
+      options:
+      - User
+      - Admin
+      - Billing
+      required: false
+    - id: 6
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - Chat
+      - Email
+      - Phone
+      required: false
+    - id: 11
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_multiple
+      options:
+      - Jimmy
+      - Sarah
+      - John
+      required: false
+    - id: 12
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_multiple
+      options:
+      - Jimmy
+      - Sarah
+      - John
+      required: false
+    - id: 15
+      name: submit_time
+      label: Submit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: submit_at
+      label: Submit At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: created_on
+      label: Created On
+      hint: null
+      type: time
+      options: []
+      required: false

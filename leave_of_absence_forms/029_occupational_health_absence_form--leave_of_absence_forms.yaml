@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Occupational Health Absence Form
+    pages:
+    - id: 1
+      name: first_day_request
+      label: First Day Request
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: last_day_request
+      label: Last Day Request
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_absence
+      label: Reason For Absence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: physician_certification
+      label: Physician Certification
+      hint: Upload a physician certification
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: return_to_work_certification
+      label: Return to Work Certification
+      hint: Upload a return to work certification
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: supervisor_confirmation
+      label: Supervisor Confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: employee_acknowledgement
+      label: Employee Acknowledgement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: manager_acknowledgement
+      label: Manager Acknowledgement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: physician_confirmation
+      label: Physician Confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 10
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: physician_name
+      label: Physician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: physician_email
+      label: Physician Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: job_title_2
+      label: Job Title 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: physician_phone
+      label: Physician Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: absencename
+      label: Absence Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: absencetype
+      label: Absence Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: absencestatus
+      label: Absence Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 24
+      name: absence_start_date
+      label: Absence Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: absence_end_date
+      label: Absence End Date
+      hint: null
+      type: date
+      options: []
+      required: false

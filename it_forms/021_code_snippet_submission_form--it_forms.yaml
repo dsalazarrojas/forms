@@ -1,0 +1,226 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Code Snippet Submission Form
+    pages:
+      - id: 1
+        name: section_contributor
+        label: -- Contributor Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: contributor_name
+        label: Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: username
+        label: Username or Handle
+        hint: GitHub or other profile name
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: organization
+        label: Organization or Affiliation
+        hint: Company or institution
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: experience_level
+        label: Experience Level
+        hint: null
+        type: select_one
+        options:
+          - Beginner
+          - Intermediate
+          - Advanced
+          - Expert
+        required: true
+      - id: 7
+        name: section_snippet
+        label: -- Code Snippet Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: snippet_title
+        label: Snippet Title
+        hint: Brief descriptive title
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: snippet_description
+        label: Snippet Description
+        hint: What does this code do
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: programming_language
+        label: Programming Language
+        hint: null
+        type: select_one
+        options:
+          - Python
+          - JavaScript
+          - Java
+          - C++
+          - C-sharp
+          - Ruby
+          - PHP
+          - Go
+          - Rust
+          - TypeScript
+          - Other
+        required: true
+      - id: 11
+        name: code_snippet
+        label: Code Snippet
+        hint: Paste your code here
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: section_metadata
+        label: -- Metadata --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: use_case
+        label: Primary Use Case
+        hint: What is this snippet used for
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: dependencies
+        label: Dependencies or Requirements
+        hint: External libraries or frameworks needed
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: version
+        label: Language or Framework Version
+        hint: Version compatibility info
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: complexity
+        label: Code Complexity Level
+        hint: null
+        type: select_one
+        options:
+          - Simple
+          - Moderate
+          - Complex
+        required: false
+      - id: 17
+        name: section_license
+        label: -- Licensing --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: license_type
+        label: License Type
+        hint: How can this code be used
+        type: select_one
+        options:
+          - MIT
+          - Apache 2.0
+          - GPL
+          - BSD
+          - CC0 (Public Domain)
+          - Other
+          - No License
+        required: true
+      - id: 19
+        name: attribution_required
+        label: Attribution Required
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: false
+      - id: 20
+        name: section_category
+        label: -- Category and Tags --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: snippet_category
+        label: Snippet Category
+        hint: null
+        type: select_one
+        options:
+          - Algorithm
+          - Data Structure
+          - UI Component
+          - Utility Function
+          - API Integration
+          - Database Query
+          - Error Handling
+          - Other
+        required: true
+      - id: 22
+        name: tags
+        label: Tags or Keywords
+        hint: Comma-separated tags for searchability
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: section_additional
+        label: -- Additional Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 24
+        name: performance_notes
+        label: Performance Notes
+        hint: Any performance characteristics or optimizations
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: testing_notes
+        label: Testing and Validation
+        hint: How has this been tested
+        type: text
+        options: []
+        required: false

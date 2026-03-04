@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: evidence_chain_of_custody_tracking_form
+    pages:
+    - id: 1
+      name: witness_identification
+      label: Witness Identification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: evidence_description
+      label: Evidence Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: chain_of_custody
+      label: Chain of Custody
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: collector
+      label: Collector
+      hint: Name and Title of Person Collecting Evidence
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: collector_organization
+      label: Collector Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: collection_date_time
+      label: Collection Date/Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: storage_location
+      label: Storage Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: transporter
+      label: Transporter
+      hint: Name and Title of Person Transporting Evidence
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: transporter_organization
+      label: Transporter Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: transport_date_time
+      label: Transport Date/Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: storage_date_time
+      label: Storage Date/Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: custody_transfer
+      label: Custody Transfer
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: transferor
+      label: Transferor
+      hint: Name and Title of Person Transferring Evidence
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: transferee
+      label: Transferee
+      hint: Name and Title of Person Receiving Evidence
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: transfer_location
+      label: Transfer Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: transfer_date_time
+      label: Transfer Date/Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: case_number
+      label: Case Number
+      hint: Case Number
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: case_officer
+      label: Case Officer
+      hint: Officer in Charge of Case
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: evidence_type
+      label: Evidence Type
+      hint: Type of Evidence
+      type: select_one
+      options:
+      - Photographs
+      - Fingerprints
+      - Video
+      - Audio
+      - Documents
+      - Other
+      required: false
+    - id: 21
+      name: evidence_description_details
+      label: Evidence Description Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: collector_signature
+      label: Collector Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: transporters_signature
+      label: Transporter Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: case_officer_signature
+      label: Case Officer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: remarks_2
+      label: Remarks 2
+      hint: null
+      type: text
+      options: []
+      required: false

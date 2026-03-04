@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Services Medical Course Leave Of Absence Form
+    pages:
+    - id: 1
+      name: emergency_services_medical_course_leave_request
+      label: Request Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: leave_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: leave_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: leave_type
+      label: Leave Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''medical''}'
+      - '{''value'': ''other''}'
+      - '{''value'': ''emergency''}'
+      - '{''value'': ''personal''}'
+      required: true
+    - id: 6
+      name: reason_for_leave
+      label: Reason For Leave
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: instructor_approval_date
+      label: Instructor Approval Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: instructor_comment
+      label: Instructor Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''student''}'
+      - '{''value'': ''program_staff''}'
+      required: true
+    - id: 12
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: course_section
+      label: Section
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: course_status
+      label: Course Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''active''}'
+      - '{''value'': ''completed''}'
+      - '{''value'': ''inactive''}'
+      - '{''value'': ''pending''}'
+      required: true
+    - id: 15
+      name: leave_start_date
+      label: Leave Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: leave_end_date
+      label: Leave End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: student_grade
+      label: Student Grade
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: student_section
+      label: Section
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: program
+      label: Program
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''A''}'
+      - '{''value'': ''B''}'
+      required: true
+    - id: 21
+      name: student_program
+      label: Program
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: student_course
+      label: Student Course
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: student_semester
+      label: Semester
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: student_year
+      label: Year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false

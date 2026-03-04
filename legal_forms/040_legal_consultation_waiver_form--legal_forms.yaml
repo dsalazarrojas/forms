@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legal Consultation Waiver Form
+    pages:
+    - id: 1
+      name: client_identification
+      label: Client Identification
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: waiver_text
+      label: Waiver Text
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_confirmation
+      label: Client Confirmation
+      hint: null
+      type: select_one
+      options:
+      - I have read and understand the waiver text above
+      - Other
+      required: true
+    - id: 4
+      name: legal_professional_identification
+      label: Legal Professional Identification
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: legal_professional_confirmation
+      label: Legal Professional Confirmation
+      hint: null
+      type: select_one
+      options:
+      - I have read and understand the waiver text above
+      - Other
+      required: true
+    - id: 6
+      name: legal_professional_confirmation_hints
+      label: Legal Professional Confirmation Hints
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: legal_professional_confirmation_hints_options
+      label: Legal Professional Confirmation Hints Options
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: legal_professional_confirmation_hints_notes
+      label: Legal Professional Confirmation Hints Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: legal_professional_confirmation_hints_notes_options
+      label: Legal Professional Confirmation Hints Notes Options
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: legal_professional_confirmation_date
+      label: Legal Professional Confirmation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: legal_professional_confirmation_time
+      label: Legal Professional Confirmation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: legal_professional_confirmation_email
+      label: Legal Professional Confirmation Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: legal_professional_confirmation_phone
+      label: Legal Professional Confirmation Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: legal_professional_confirmation_notes
+      label: Legal Professional Confirmation Notes
+      hint: null
+      type: note
+      options: []
+      required: false

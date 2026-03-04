@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: System Access Approval Form
+    pages:
+    - id: 1
+      name: system_access_approval_form_page_1
+      label: System Access Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: system_access_requester
+      label: requester
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: system_access_requester_department
+      label: requester_department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: system_access_requester_job_title
+      label: requester_job_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: system_access_requester_email
+      label: requester_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: system_access_requester_phone
+      label: requester_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: system_access_request_date
+      label: Access Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: system_access_requested_by
+      label: Requested By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: system_access_request_status
+      label: Request Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Approved
+      - Denied
+      - Expired
+      - Completed
+      required: true
+    - id: 10
+      name: system_access_request_notes
+      label: Request Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: system_access_justification
+      label: Justification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: system_access_approver
+      label: Approver
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: system_access_approver_department
+      label: Approver Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: system_access_approver_phone
+      label: Approver Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: system_access_approver_email
+      label: Approver Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: system_access_approver_notes
+      label: Approver Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: system_access_approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: system_access_expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: system_access_requesting_manager_notes
+      label: Requesting Manager Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: system_access_approving_manager_notes
+      label: Approving Manager Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: system_access_requesting_manager_email
+      label: Requesting Manager Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 22
+      name: system_access_approving_manager
+      label: Approving Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: system_access_requesting_manager_department
+      label: Requesting Manager Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: system_access_approving_manager_phone
+      label: Approving Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: system_access_reviewed_by
+      label: Reviewed By
+      hint: null
+      type: text
+      options: []
+      required: true

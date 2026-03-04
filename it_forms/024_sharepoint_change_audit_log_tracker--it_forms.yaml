@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: SharePoint Change Audit Log Tracker
+    pages:
+    - id: 1
+      name: sharepoint_change_audit_log_tracker_it_forms
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: change_type
+      label: change_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: change_details
+      label: change_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: related_user
+      label: related_user
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: related_user_name
+      label: related_user_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: approver
+      label: approver
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: approver_name
+      label: approver_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: approver_email
+      label: approver_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: change_date
+      label: change_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: change_time
+      label: change_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: approval_status
+      label: approval_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: approval_status_name
+      label: approval_status_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: approval_date
+      label: approval_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: approval_time
+      label: approval_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: approval_comments
+      label: approval_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: form_version
+      label: form_version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: related_site_url
+      label: related_site_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: approval_user
+      label: approval_user
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: approval_user_name
+      label: approval_user_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: approval_user_email
+      label: approval_user_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: change_request_type
+      label: change_request_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: change_request_number
+      label: change_request_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: related_ticket_number
+      label: related_ticket_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: comments_for_change_request
+      label: comments_for_change_request
+      hint: null
+      type: text
+      options: []
+      required: false

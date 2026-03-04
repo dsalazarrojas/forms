@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Licensing Contract Form
+    pages:
+    - id: 1
+      name: licensor_name
+      label: Licensor Name
+      hint: Full name or company granting license
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: licensor_email
+      label: Licensor Email
+      hint: Email address of licensor
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: licensor_address
+      label: Licensor Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: licensee_name
+      label: Licensee Name
+      hint: Full name or company receiving license
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: licensee_email
+      label: Licensee Email
+      hint: Email address of licensee
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: licensee_address
+      label: Licensee Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contract_date
+      label: Contract Date
+      hint: Date of this agreement
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: content_description
+      label: Content Description
+      hint: Describe the content being licensed
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: content_title
+      label: Content Title
+      hint: Title of the licensed content
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: content_type
+      label: Content Type
+      hint: Format of the content
+      type: select_one
+      options:
+      - Written Article
+      - Photograph
+      - Illustration
+      - Video
+      - Audio Recording
+      - Software
+      - Design
+      - Multiple Types
+      required: true
+    - id: 11
+      name: license_type
+      label: License Type
+      hint: What type of license is granted?
+      type: select_one
+      options:
+      - Exclusive License
+      - Non-Exclusive License
+      - Sole License
+      - Limited License
+      - Unlimited License
+      required: true
+    - id: 12
+      name: license_scope
+      label: License Scope
+      hint: What rights are granted?
+      type: select_one
+      options:
+      - Reproduction Only
+      - Distribution Only
+      - Public Display
+      - Derivative Works
+      - All Rights
+      required: true
+    - id: 13
+      name: territory
+      label: Territory
+      hint: Where is the license valid?
+      type: select_one
+      options:
+      - Local
+      - Regional
+      - National
+      - International
+      - Worldwide
+      required: true
+    - id: 14
+      name: license_duration
+      label: License Duration
+      hint: How long is the license valid?
+      type: select_one
+      options:
+      - 6 Months
+      - 1 Year
+      - 3 Years
+      - 5 Years
+      - Perpetual
+      required: true
+    - id: 15
+      name: start_date
+      label: License Start Date
+      hint: When does the license begin?
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: end_date
+      label: License End Date
+      hint: When does the license end?
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: license_fee
+      label: License Fee
+      hint: Total fee for the license
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: payment_terms
+      label: Payment Terms
+      hint: How will payment be made?
+      type: select_one
+      options:
+      - Upfront Payment
+      - Installment Plan
+      - Royalty Based
+      - Revenue Share
+      required: true
+    - id: 19
+      name: royalty_percentage
+      label: Royalty Percentage
+      hint: If applicable, what percentage?
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: attribution_required
+      label: Attribution Required
+      hint: Must credit be given to licensor?
+      type: select_one
+      options:
+      - Yes, Full Attribution
+      - Yes, Partial Attribution
+      - No Attribution Required
+      required: true
+    - id: 21
+      name: modification_rights
+      label: Modification Rights
+      hint: Can the content be modified?
+      type: select_one
+      options:
+      - No Modifications
+      - Minor Edits Only
+      - Significant Edits Allowed
+      - Full Modification Rights
+      required: true
+    - id: 22
+      name: sublicensing_allowed
+      label: Sublicensing Allowed
+      hint: Can licensee sublicense the content?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: termination_clause
+      label: Termination Clause
+      hint: Conditions for termination
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: additional_terms
+      label: Additional Terms
+      hint: Any other terms or conditions
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: licensor_signature_date
+      label: Licensor Signature Date
+      hint: Date of licensor signature
+      type: date
+      options: []
+      required: true
+    - id: 26
+      name: licensee_signature_date
+      label: Licensee Signature Date
+      hint: Date of licensee signature
+      type: date
+      options: []
+      required: true

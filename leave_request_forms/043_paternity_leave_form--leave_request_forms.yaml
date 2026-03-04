@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: paternity leave form
+    pages:
+    - id: 1
+      name: fathers_name
+      label: Fathers Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: fathers_surname
+      label: Fathers Surname
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: fathers_date_of_birth
+      label: Fathers Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: leave_start_date
+      label: Leave Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: leave_end_date
+      label: Leave End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: total_leave_days
+      label: Total Leave Days
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - Emergency Contact
+      - Family Member
+      - Friend
+      - Other
+      required: false
+    - id: 11
+      name: declaration_declaration
+      label: Declaration Declaration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: declaration_date
+      label: Declaration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: upload_document_1
+      label: Upload Document 1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: upload_document_2
+      label: Upload Document 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: upload_document_3
+      label: Upload Document 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: declaration_signed
+      label: Declaration Signed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 17
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

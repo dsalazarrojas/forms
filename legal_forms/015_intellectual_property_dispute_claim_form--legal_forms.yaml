@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Intellectual Property Dispute Claim Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Intellectual Property Dispute Claim Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: case_type
+      label: Case Type
+      hint: null
+      type: select_one
+      options:
+      - Case Type
+      - Dispute Type
+      required: false
+    - id: 3
+      name: party_one_name
+      label: party_one_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: party_one_address
+      label: party_one_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: party_two_name
+      label: party_two_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: party_two_address
+      label: party_two_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: dispute_description
+      label: dispute_description
+      hint: Please describe your claim in detail
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: intellectual_property_type
+      label: intellectual_property_type
+      hint: null
+      type: select_multiple
+      options:
+      - Patent
+      - Copyright
+      - Trademark
+      - Trade Secret
+      - Trade Dress
+      - Right of Publicity
+      required: false
+    - id: 9
+      name: date_of_filing
+      label: date_of_filing
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_of_filing
+      label: time_of_filing
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: form_submit
+      label: form_submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false

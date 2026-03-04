@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Schedule A Demo Session
+    pages:
+    - id: 1
+      name: demo_details
+      label: Demo Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: demo_type
+      label: What type of demo
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Discovery''}'
+      - '{''value'': ''Product Tour''}'
+      - '{''value'': ''Sales Enablement''}'
+      required: false
+    - id: 3
+      name: lead_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: demo_date
+      label: Demo Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: demo_time
+      label: Demo Time
+      hint: "12:00 AM"
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: demo_duration
+      label: Demo Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: demo_note
+      label: Demo Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: lead_status
+      label: Lead Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Not Qualified''}'
+      - '{''value'': ''Qualified''}'
+      - '{''value'': ''Lead Added''}'
+      required: false
+    - id: 13
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_note
+      label: Follow-up Note
+      hint: null
+      type: note
+      options: []
+      required: false

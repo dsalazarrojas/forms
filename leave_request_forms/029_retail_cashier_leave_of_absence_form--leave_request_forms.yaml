@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Cashier Leave Of Absence Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Retail Cashier Leave Of Absence Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_leave
+      label: Reason For Leave
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: return_to_work_date
+      label: Return To Work Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: hours_absent
+      label: Hours Absent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: manager_review_status
+      label: Manager Review Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: false
+    - id: 9
+      name: manager_comment
+      label: Manager Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: false

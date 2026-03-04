@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Acquisition Letter Of Intent Submission
+    pages:
+    - id: 1
+      name: applicant_information
+      label: -- Applicant information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant name
+      hint: Full name of submitting party
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company name
+      hint: Company representing the applicant
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: Email for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact phone
+      hint: Phone number for quick contact
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: target_entity
+      label: Target entity
+      hint: Company or asset proposed for acquisition
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: proposed_terms_summary
+      label: Proposed terms summary
+      hint: Brief summary of proposed consideration and terms
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: indicative_timeline
+      label: Indicative timeline
+      hint: Expected timeline for due diligence and closing
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: confidentiality_requirements
+      label: Confidentiality requirements
+      hint: Any confidentiality clauses or NDA status
+      type: select_one
+      options:
+      - NDA in place
+      - Confidentiality requested
+      - No confidentiality required
+      required: false
+    - id: 10
+      name: financing_arrangements
+      label: Financing arrangements
+      hint: High level description of financing source
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: signature
+      label: Signature
+      hint: Type full name to sign letter of intent
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: date_submitted
+      label: Date submitted
+      hint: Date of LOI submission
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: additional_documents
+      label: Additional documents
+      hint: Attachments such as financials or NDAs
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Industrial Communication Setup Request Form
+    pages:
+    - id: 1
+      name: industrial_communication_setup_request_form_1
+      label: What is your request about
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: equipment_id
+      label: equipment id
+      hint: Enter equipment ID
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: equipment_type
+      label: equipment type
+      hint: Enter equipment type
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: communication_method
+      label: communication method
+      hint: Select a communication method
+      type: select_one
+      options:
+      - Fiber Optic
+      - Wired Ethernet
+      - Wireless
+      required: false
+    - id: 6
+      name: connection_type
+      label: connection type
+      hint: Select a connection type
+      type: select_multiple
+      options:
+      - Wired
+      - Wireless
+      required: false
+    - id: 7
+      name: date_of_request
+      label: date of request
+      hint: YYYY-MM-dd
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_request
+      label: time of request
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: Enter email address
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: Enter phone number
+      type: text
+      options: []
+      required: false

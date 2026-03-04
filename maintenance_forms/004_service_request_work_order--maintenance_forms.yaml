@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Request Work Order
+    pages:
+    - id: 1
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - Service Call
+      - Preventative Maintenance
+      - Emergency
+      - Planned Maintenance
+      required: false
+    - id: 2
+      name: priority_level
+      label: Priority Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 3
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: request_time
+      label: Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - Maintenance Team
+      - Property Manager
+      - Service Provider
+      required: false
+    - id: 8
+      name: service_request_status
+      label: Service Request Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - In Progress
+      - Completed
+      - Cancelled
+      required: false
+    - id: 9
+      name: service_request_id
+      label: Service Request ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: scheduled_visit_date
+      label: Scheduled Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: scheduled_visit_time
+      label: Scheduled Visit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: service_provider
+      label: Service Provider
+      hint: null
+      type: select_one
+      options:
+      - ABC
+      - DEF
+      - GHI
+      required: false
+    - id: 13
+      name: service_request_notes
+      label: Service Request Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: service_request_attachments
+      label: Service Request Attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: service_request_comments
+      label: Service Request Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,133 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Playwright Script Upload Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Playwright Script Upload Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: script_type
+      label: Script Type
+      hint: null
+      type: select_one
+      options:
+      - Automation
+      - UI
+      - End-to-End
+      required: true
+    - id: 3
+      name: script_name
+      label: Script Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: script_description
+      label: Script Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: script_context
+      label: Script Context
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: context_file
+      label: Context File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: upload_script
+      label: Upload Script
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: script_requester
+      label: Requester
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: script_reviewer
+      label: Reviewer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: script_review_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Not Approved
+      required: true
+    - id: 11
+      name: script_request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: script_request_time
+      label: Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: script_requester_email
+      label: Requester Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: script_context_description
+      label: Context Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: script_upload_url
+      label: Upload Url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: script_upload_comment
+      label: Upload Comment
+      hint: null
+      type: text
+      options: []
+      required: false

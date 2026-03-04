@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Financing Assistance Application
+    pages:
+    - id: 1
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Single Family
+      - Condo
+      - Townhome
+      - Duplex
+      - Triplex
+      - Fourplex
+      - Other
+      required: false
+    - id: 2
+      name: loan_purpose
+      label: Loan Purpose
+      hint: null
+      type: select_one
+      options:
+      - Cash-Out
+      - Home Equity
+      - Home Improvement
+      - Consolidate
+      - Purchase
+      - Re-finance
+      required: false
+    - id: 3
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: credit_score
+      label: Credit Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: income
+      label: Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Self-Employed
+      - Retired
+      - Disabled
+      required: false
+    - id: 7
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: property_financing_request
+      label: Property Financing Request
+      hint: null
+      type: text
+      options: []
+      required: false

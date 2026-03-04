@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Symposium Leave Of Absence Request
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_requester_name
+      label: Requester Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_requester_email
+      label: Requester Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: form_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: form_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: form_reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_number_of_days
+      label: Number of days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: form_additional_information
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: form_manager
+      label: Manager
+      hint: null
+      type: select_one
+      options:
+      - Manager 1
+      - Manager 2
+      - Manager 3
+      required: false
+    - id: 10
+      name: form_approval
+      label: Approval
+      hint: null
+      type: select_multiple
+      options:
+      - Approve
+      - Approve
+      - Approve
+      required: false
+    - id: 11
+      name: form_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false

@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blood Draw Log Form
+    pages:
+    - id: 1
+      name: log_intro
+      label: -- Blood Draw Log Entry --
+      hint: Record blood draw details for documentation
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: visit_date
+      label: Visit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: visit_time
+      label: Visit Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: phlebotomist_name
+      label: Phlebotomist Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: draw_location
+      label: Blood Draw Location
+      hint: null
+      type: select_one
+      options:
+      - Left arm
+      - Right arm
+      - Left hand
+      - Right hand
+      - Other
+      required: true
+    - id: 9
+      name: draw_site_condition
+      label: Venipuncture Site Condition
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Difficult access
+      - Scarred
+      - Bruised
+      - Edematous
+      required: true
+    - id: 10
+      name: number_of_attempts
+      label: Number of Needle Sticks
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: tube_type
+      label: Collection Tube Type
+      hint: null
+      type: select_multiple
+      options:
+      - EDTA (lavender)
+      - SST (gold)
+      - Heparin (green)
+      - Citrate (blue)
+      - Other
+      required: true
+    - id: 12
+      name: total_volume
+      label: Total Blood Volume Collected (mL)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: specimen_quality
+      label: Specimen Quality
+      hint: null
+      type: select_one
+      options:
+      - Adequate
+      - Hemolyzed
+      - Clotted
+      - Insufficient
+      - Contaminated
+      required: true
+    - id: 14
+      name: tests_ordered
+      label: Tests Ordered
+      hint: List all tests on this specimen
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: specimen_labeling
+      label: Specimen Properly Labeled
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: patient_reaction
+      label: Patient Reaction to Draw
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Mild dizziness
+      - Vasovagal response
+      - Other complication
+      required: false
+    - id: 17
+      name: complications
+      label: Complications Noted
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: specimen_storage
+      label: Specimen Storage Instructions Followed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: log_date
+      label: Log Entry Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Board Consent For Stock Options
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: Full legal name of the company
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_state
+      label: State of Incorporation
+      hint: State where company is incorporated
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: meeting_date
+      label: Board Meeting Date
+      hint: Date of board approval
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: meeting_type
+      label: Meeting Type
+      hint: Type of board meeting
+      type: select_one
+      options:
+      - Regular Meeting
+      - Special Meeting
+      - Written Consent
+      required: true
+    - id: 5
+      name: board_member_present
+      label: Board Members Present
+      hint: List of attending board members
+      type: select_multiple
+      options:
+      - Chairperson
+      - Vice Chairperson
+      - Secretary
+      - Treasurer
+      - Director 1
+      - Director 2
+      - Director 3
+      - Independent Director
+      required: true
+    - id: 6
+      name: quorum_met
+      label: Quorum Met
+      hint: Was quorum achieved?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: option_grant_recipient
+      label: Option Grant Recipient
+      hint: Name of option recipient
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: recipient_title
+      label: Recipient Title
+      hint: Job title or position
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: number_of_options
+      label: Number of Options
+      hint: Total number of stock options granted
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: option_type
+      label: Option Type
+      hint: Type of stock options
+      type: select_one
+      options:
+      - Incentive Stock Options (ISO)
+      - Non-Qualified Stock Options (NSO)
+      - Restricted Stock Units (RSU)
+      required: true
+    - id: 11
+      name: exercise_price
+      label: Exercise Price Per Share
+      hint: Price per share in dollars
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: grant_date
+      label: Grant Date
+      hint: Effective date of grant
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: vesting_schedule
+      label: Vesting Schedule
+      hint: Select vesting terms
+      type: select_one
+      options:
+      - 4 Year with 1 Year Cliff
+      - 4 Year Equal Monthly
+      - 3 Year with 1 Year Cliff
+      - 5 Year with 1 Year Cliff
+      - Custom Schedule
+      required: true
+    - id: 14
+      name: vesting_commencement
+      label: Vesting Commencement Date
+      hint: When does vesting begin?
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: expiration_date
+      label: Option Expiration Date
+      hint: When do options expire?
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: total_shares_authorized
+      label: Total Shares Authorized
+      hint: Total shares under the plan
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: shares_remaining
+      label: Shares Remaining in Pool
+      hint: Available shares after this grant
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: acceleration_clause
+      label: Acceleration Clause
+      hint: Does this grant include acceleration?
+      type: select_one
+      options:
+      - Single Trigger
+      - Double Trigger
+      - None
+      required: false
+    - id: 19
+      name: board_approval_resolution
+      label: Board Approval Resolution Number
+      hint: Official resolution number
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: secretary_certification
+      label: Secretary Certification
+      hint: Secretary name for certification
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: certification_date
+      label: Certification Date
+      hint: Date of certification
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mediation Session Booking Form
+    pages:
+    - id: 1
+      name: session_request_details
+      label: Session Request Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_info
+      label: Client Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: case_type
+      label: Case Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: mediation_location
+      label: Mediation Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: session_length
+      label: Session Length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: confirmation_date
+      label: Confirmation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: confirmation_time
+      label: Confirmation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: cancellation_date
+      label: Cancellation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: cancellation_time
+      label: Cancellation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_session
+      label: Follow Up Session
+      hint: null
+      type: select_multiple
+      options:
+      - Follow up session
+      - No follow-up session
+      required: false
+    - id: 15
+      name: follow_up_contact_info
+      label: Follow Up Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_session_date
+      label: Follow Up Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_session_time
+      label: Follow Up Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_location
+      label: Follow Up Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_length
+      label: Follow Up Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: mediator_info
+      label: Mediator Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: mediator_name
+      label: Mediator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: mediator_email
+      label: Mediator Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: mediator_phone
+      label: Mediator Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true

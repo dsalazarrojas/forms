@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Estate Planning Client Questionnaire
+    pages:
+    - id: 1
+      name: estate_plan_id
+      label: Estate Plan ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: estate_address
+      label: Estate Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: estate_value
+      label: Estate Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: beneficiaries
+      label: Beneficiaries
+      hint: List all beneficiaries for estate plan
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: legal_rep
+      label: Legal Representative
+      hint: List legal representative
+      type: select_one
+      options:
+      - Jane Doe
+      - John Smith
+      required: false
+    - id: 7
+      name: assets
+      label: Assets
+      hint: List all assets for estate plan
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: liabilities
+      label: Liabilities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: estate_plan_comments
+      label: Estate Plan Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: legal_issues
+      label: Legal Issues
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: estate_plan_completion_date
+      label: Estate Plan Completion Date
+      hint: Date estate plan was completed
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: estate_plan_revision_date
+      label: Estate Plan Revision Date
+      hint: Date estate plan was revised
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: estate_plan_status
+      label: Estate Plan Status
+      hint: Status of estate plan
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: estate_plan_type
+      label: Estate Plan Type
+      hint: Type of estate plan
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: estate_plan_notes
+      label: Estate Plan Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: client_relationships
+      label: Client Relationships
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: client_documents
+      label: Client Documents
+      hint: List all documents for client
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: client_address
+      label: Client Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: legal_issues_notes
+      label: Legal Issues Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: estate_plan_issues
+      label: Estate Plan Issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: estate_plan_notes
+      label: Estate Plan Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: estate_plan_comments
+      label: Estate Plan Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: review_notes
+      label: Review Notes
+      hint: null
+      type: note
+      options: []
+      required: false

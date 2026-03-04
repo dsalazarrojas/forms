@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: it_license_purchase_request_form
+    pages:
+    - id: 1
+      name: form_header
+      label: form_header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requestor
+      label: requestor_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: requestor_email
+      label: requestor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: requestor_phone
+      label: requestor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: license_product
+      label: license_product
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: license_quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: license_type
+      label: license_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: business_unit
+      label: business_unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: request_date
+      label: request_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: request_time
+      label: request_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: approval_date
+      label: approval_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: approval_time
+      label: approval_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Preparation Promotion Form
+    pages:
+    - id: 1
+      name: tax_preparation_promotion_form
+      label: Tax Preparation Promotion Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tax_type
+      label: What type of tax service are you looking for?
+      hint: null
+      type: select_one
+      options:
+      - Income Tax
+      - Estate Tax
+      - Tax Planning
+      - Other
+      required: false
+    - id: 6
+      name: schedule_call
+      label: Schedule a call with our team
+      hint: "Select a time in 24 hour format e.g 12:00 PM"
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: tax_preparation_promotion_form_uploads
+      label: Uploads
+      hint: null
+      type: note
+      options: []
+      required: false

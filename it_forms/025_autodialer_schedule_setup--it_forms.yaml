@@ -1,0 +1,436 @@
+inputSchema:
+  type: object
+  properties:
+    title: Autodialer Schedule Setup
+    pages:
+    - id: 1
+      name: introduction
+      label: Autodialer Schedule Setup
+      hint: Configure your outbound campaign schedule
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: campaign_info
+      label: Campaign Information
+      hint: Basic campaign details
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: campaign_name
+      label: Campaign Name
+      hint: Name for this campaign
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: campaign_description
+      label: Campaign Description
+      hint: Purpose of campaign
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: campaign_type
+      label: Campaign Type
+      hint: What type of campaign
+      type: select_one
+      options:
+      - Sales
+      - Customer Service
+      - Survey
+      - Appointment Reminder
+      - Collections
+      - Lead Follow-Up
+      - Other
+      required: true
+    - id: 6
+      name: campaign_priority
+      label: Campaign Priority
+      hint: Priority level
+      type: select_one
+      options:
+      - Low
+      - Normal
+      - High
+      - Urgent
+      required: true
+    - id: 7
+      name: requester_info
+      label: Requester Information
+      hint: Who is requesting
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: email
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - Sales
+      - Customer Service
+      - Support
+      - Marketing
+      - Collections
+      - Operations
+      - Other
+      required: true
+    - id: 13
+      name: team_name
+      label: Team Name
+      hint: Your team
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: schedule_info
+      label: Schedule Information
+      hint: When should calls run
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: start_date
+      label: Campaign Start Date
+      hint: When to begin
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: end_date
+      label: Campaign End Date
+      hint: When to end
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: start_time
+      label: Daily Start Time
+      hint: When to start calling
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: end_time
+      label: Daily End Time
+      hint: When to stop calling
+      type: time
+      options: []
+      required: true
+    - id: 19
+      name: timezone
+      label: Timezone
+      hint: Which timezone
+      type: select_one
+      options:
+      - Eastern
+      - Central
+      - Mountain
+      - Pacific
+      - Alaska
+      - Hawaii
+      required: true
+    - id: 20
+      name: days_of_week
+      label: Days of Week
+      hint: Which days to call
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 21
+      name: exclude_holidays
+      label: Exclude Holidays
+      hint: Skip on holidays
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: calling_parameters
+      label: Calling Parameters
+      hint: Call settings
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: max_calls_per_hour
+      label: Maximum Calls Per Hour
+      hint: Limit per hour
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: max_calls_per_day
+      label: Maximum Calls Per Day
+      hint: Limit per day
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: retry_attempts
+      label: Retry Attempts
+      hint: How many retries
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - No Retry
+      required: true
+    - id: 26
+      name: retry_interval
+      label: Retry Interval
+      hint: Time between retries
+      type: select_one
+      options:
+      - 1 hour
+      - 4 hours
+      - 24 hours
+      - 3 days
+      - 1 week
+      required: false
+    - id: 27
+      name: call_abandon_rate
+      label: Target Abandon Rate
+      hint: Maximum abandon percentage
+      type: select_one
+      options:
+      - 1 percent
+      - 2 percent
+      - 3 percent
+      - 5 percent
+      required: true
+    - id: 28
+      name: contact_list
+      label: Contact List
+      hint: List details
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: list_name
+      label: Contact List Name
+      hint: Name of list
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: list_source
+      label: List Source
+      hint: Where is list from
+      type: select_one
+      options:
+      - CRM Import
+      - Manual Upload
+      - API Integration
+      - Previous Campaign
+      - Other
+      required: true
+    - id: 31
+      name: total_contacts
+      label: Total Contacts
+      hint: Number of contacts
+      type: number
+      options: []
+      required: false
+    - id: 32
+      name: list_upload_date
+      label: List Upload Date
+      hint: When uploaded
+      type: date
+      options: []
+      required: false
+    - id: 33
+      name: data_compliance
+      label: Data Compliance
+      hint: Compliance confirmation
+      type: select_one
+      options:
+      - DNC Compliant
+      - TCPA Compliant
+      - Both
+      - Review Needed
+      required: true
+    - id: 34
+      name: script_info
+      label: Script Information
+      hint: Call script details
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: script_name
+      label: Script Name
+      hint: Which script to use
+      type: text
+      options: []
+      required: true
+    - id: 36
+      name: script_approved
+      label: Script Approved
+      hint: Is script approved
+      type: select_one
+      options:
+      - true
+      - No Pending
+      - Needs Review
+      required: true
+    - id: 37
+      name: voicemail_detection
+      label: Voicemail Detection
+      hint: Enable AMD
+      type: select_one
+      options:
+      - Enabled
+      - Disabled
+      required: true
+    - id: 38
+      name: voicemail_action
+      label: Voicemail Action
+      hint: What to do on VM
+      type: select_one
+      options:
+      - Leave Message
+      - Hang Up
+      - Transfer to Agent
+      required: true
+    - id: 39
+      name: agent_info
+      label: Agent Information
+      hint: Agent assignment
+      type: note
+      options: []
+      required: false
+    - id: 40
+      name: agent_assignment
+      label: Agent Assignment
+      hint: How to assign
+      type: select_one
+      options:
+      - Round Robin
+      - Specific Agents
+      - Any Available
+      - Skills Based
+      required: true
+    - id: 41
+      name: specific_agents
+      label: Specific Agents
+      hint: List agent names
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: max_agents
+      label: Maximum Agents
+      hint: Max concurrent agents
+      type: number
+      options: []
+      required: false
+    - id: 43
+      name: reporting
+      label: Reporting
+      hint: Report settings
+      type: note
+      options: []
+      required: false
+    - id: 44
+      name: report_frequency
+      label: Report Frequency
+      hint: How often
+      type: select_one
+      options:
+      - Real-Time
+      - Daily
+      - Weekly
+      - End of Campaign
+      required: true
+    - id: 45
+      name: report_recipients
+      label: Report Recipients
+      hint: Who gets reports
+      type: text
+      options: []
+      required: false
+    - id: 46
+      name: kpis
+      label: Key Metrics to Track
+      hint: Important KPIs
+      type: select_multiple
+      options:
+      - Call Volume
+      - Connection Rate
+      - Conversion Rate
+      - Average Handle Time
+      - Abandon Rate
+      - Revenue Generated
+      required: false
+    - id: 47
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other details
+      type: text
+      options: []
+      required: false
+    - id: 48
+      name: approval_needed
+      label: Approval Required
+      hint: Does this need approval
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 49
+      name: submitter_signature
+      label: Submitter Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 50
+      name: submission_date
+      label: Submission Date
+      hint: Today date
+      type: date
+      options: []
+      required: true

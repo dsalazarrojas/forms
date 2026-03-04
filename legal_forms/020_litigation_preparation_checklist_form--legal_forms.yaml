@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Litigation Preparation Checklist Form
+    pages:
+    - id: 1
+      name: case_details
+      label: Case Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: parties_involved
+      label: Parties Involved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: discovery_phase
+      label: Discovery Phase
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: court_procedures
+      label: Court Procedures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: document_review
+      label: Document Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: witness_preparation
+      label: Witness Preparation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: witness_statements
+      label: Witness Statements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: exhibit_management
+      label: Exhibit Management
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: trial_preparation
+      label: Trial Preparation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: post_trial
+      label: Post Trial
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: miscellaneous
+      label: Miscellaneous
+      hint: null
+      type: text
+      options: []
+      required: false

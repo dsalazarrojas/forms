@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Occupancy Agreement
+    pages:
+    - id: 1
+      name: tenant_name
+      label: Tenant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: landlord_name
+      label: Landlord Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: move_in_date
+      label: Move-in Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: move_out_date
+      label: Move-out Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: lease_duration
+      label: Lease Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: rent_amount
+      label: Rent Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: rent_frequencies
+      label: Rent Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Monthly''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Quarterly''}'
+      required: true
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Bank Transfer''}'
+      - '{''id'': 2, ''label'': ''Cash''}'
+      required: true
+    - id: 9
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: unit_number
+      label: Unit Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: move_in_condition
+      label: Move-in Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: move_out_condition
+      label: Move-out Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: landlord_signature
+      label: Landlord Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 15
+      name: tenant_signature
+      label: Tenant Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 16
+      name: witness_signature
+      label: Witness Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: witness_name
+      label: Witness Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: landlord_company
+      label: Landlord Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: landlord_phone
+      label: Landlord Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: tenant_phone
+      label: Tenant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Residential''}'
+      - '{''id'': 2, ''label'': ''Commercial''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 22
+      name: rent_start
+      label: Rent Start
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''First of Month''}'
+      - '{''id'': 2, ''label'': ''Last of Month''}'
+      required: true
+    - id: 23
+      name: rent_end
+      label: Rent End
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Last of Month''}'
+      - '{''id'': 2, ''label'': ''First of Month''}'
+      required: true
+    - id: 24
+      name: rent_frequency_unit
+      label: Rent Frequency Unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: agreement
+      label: Agreement
+      hint: null
+      type: text
+      options: []
+      required: false

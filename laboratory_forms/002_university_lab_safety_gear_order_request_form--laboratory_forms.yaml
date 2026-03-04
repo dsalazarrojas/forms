@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: university_lab_safety_gear_order_request_form
+    pages:
+    - id: 1
+      name: user_department
+      label: user_department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: equipment_type
+      label: equipment_type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: date_requested
+      label: date_requested
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: department_comments
+      label: department_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: order_comments
+      label: order_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: status
+      label: status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: form_id
+      label: form_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submit_date
+      label: submit_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: review_date
+      label: review_date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guardian Beneficiary Form
+    pages:
+    - id: 1
+      name: guardian_nominator_name
+      label: Guardian Nominator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: relationship_to_minor_child
+      label: Relationship To Minor Child
+      hint: null
+      type: select_one
+      options:
+      - Mom
+      - Dad
+      - Grandparent
+      - Other
+      required: true
+    - id: 3
+      name: guardian_nominator_address
+      label: Guardian Nominator Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: dependent_child_name
+      label: Dependent Child Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: dependent_child_dob
+      label: Dependent Child DOB
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: nominee_beneficiary_name
+      label: Nominee Beneficiary Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: nominee_beneficiary_address
+      label: Nominee Beneficiary Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: guardian_nominator_signature
+      label: Guardian Nominator Signature
+      hint: null
+      type: select_multiple
+      options:
+      - Signature
+      - Other
+      required: true
+    - id: 11
+      name: witness_signature
+      label: Witness Signature
+      hint: null
+      type: select_multiple
+      options:
+      - Signature
+      - Other
+      required: false
+    - id: 12
+      name: witness_name
+      label: Witness Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: witness_relationship
+      label: Witness Relationship
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: issue_record_request_form
+    pages:
+    - id: 1
+      name: form_name
+      label: form_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_date
+      label: form_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: form_category
+      label: form_category
+      hint: null
+      type: select_one
+      options:
+      - IT Request Forms
+      - IT Forms
+      required: false
+    - id: 4
+      name: form_description
+      label: form_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: form_version
+      label: form_version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_status
+      label: form_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: form_comments
+      label: form_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_issuer_name
+      label: form_issuer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_issuer_email
+      label: form_issuer_email
+      hint: null
+      type: email
+      options: []
+      required: false

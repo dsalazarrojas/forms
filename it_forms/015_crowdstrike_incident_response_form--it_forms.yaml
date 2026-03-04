@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: CrowdStrike Incident Response Form
+    pages:
+    - id: 1
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - Phishing
+      - Malware
+      - Ransomware
+      - DDOS
+      required: false
+    - id: 3
+      name: incident_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: incident_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: incident_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: affected_assets
+      label: Affected Assets
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: incident_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - In Progress
+      - Resolved
+      required: false
+    - id: 9
+      name: incident_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Security
+      - Network
+      - System
+      - Unknown
+      required: false
+    - id: 10
+      name: incident_priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 11
+      name: incident_impact
+      label: Impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_reported_by
+      label: Reported By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_reported_date
+      label: Reported Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: incident_response
+      label: Response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: incident_notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: incident_assets
+      label: Assets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: incident_assets_list
+      label: Asset List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: incident_assets_type
+      label: Asset Type
+      hint: null
+      type: select_one
+      options:
+      - Server
+      - Laptop
+      - Desktop
+      - Mobile
+      required: false
+    - id: 19
+      name: incident_assets_status
+      label: Asset Status
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Offline
+      - Unknown
+      required: false

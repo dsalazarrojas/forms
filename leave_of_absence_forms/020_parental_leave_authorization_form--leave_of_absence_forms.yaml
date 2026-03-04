@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parental Leave Authorization Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_leave
+      label: Reason for Leave
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: number_of_days_off
+      label: Number of Days Off
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: manager_approvals
+      label: Manager Approvals
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Leave of Absence
+      - Vacation
+      - Business
+      required: false
+    - id: 8
+      name: department_head_approvals
+      label: Department Head Approvals
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Leave of Absence
+      - Vacation
+      - Business
+      required: false
+    - id: 9
+      name: company_policies
+      label: Company Policies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: find-a-trusted-real-estate-agent
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferred_location
+      label: Preferred Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: home_type
+      label: Home Type
+      hint: null
+      type: select_multiple
+      options:
+      - House
+      - Condo
+      - Townhouse
+      - Apartment
+      required: false
+    - id: 7
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: desired_moving_date
+      label: Desired Moving Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_available
+      label: Time Available
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: preferred_agent_type
+      label: Preferred Agent Type
+      hint: null
+      type: select_multiple
+      options:
+      - Real Estate Agent
+      - Property Manager
+      - Broker
+      required: false
+    - id: 11
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - French
+      - Spanish
+      - German
+      - Chinese
+      required: false
+    - id: 12
+      name: real_estate_license
+      label: Real Estate License
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: lead_source
+      label: Lead Source
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Offline
+      required: true
+    - id: 14
+      name: marketing_source
+      label: Marketing Source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text
+      required: false

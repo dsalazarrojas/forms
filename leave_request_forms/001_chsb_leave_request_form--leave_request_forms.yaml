@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: CHSB Leave Request Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: Your unique employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: leave_type
+      label: Type of Leave
+      hint: Select the appropriate leave category
+      type: select_one
+      options:
+      - Vacation
+      - Sick Leave
+      - Personal Leave
+      - Bereavement
+      - Unpaid Leave
+      required: true
+    - id: 5
+      name: start_date
+      label: Leave Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: end_date
+      label: Leave End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: total_days
+      label: Total Number of Days
+      hint: Automatically calculated
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_leave
+      label: Reason for Leave
+      hint: Brief explanation of the reason for your leave
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_during_absence
+      label: Contact Number During Absence
+      hint: Phone number where you can be reached if needed
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: supervisor_approval
+      label: Supervisor Name
+      hint: Your direct supervisor who will approve this request
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: coverage_plan
+      label: Coverage Plan During Absence
+      hint: How will your responsibilities be covered?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submission_date
+      label: Request Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

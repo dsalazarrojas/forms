@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legal Advice Inquiry Lead Generation Form
+    pages:
+    - id: 1
+      name: lead_generation_form
+      label: Legal Advice Inquiry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lead_generation_form_client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: lead_generation_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: lead_generation_form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: legal_advice_inquiry_lead_generation_form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: lead_generation_form_lead_type
+      label: Lead Type
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Follow-up
+      - Referral
+      required: false
+    - id: 7
+      name: lead_generation_form_lead_source
+      label: Lead Source
+      hint: null
+      type: select_multiple
+      options:
+      - Website
+      - Social Media
+      - Word of Mouth
+      required: false
+    - id: 8
+      name: lead_generation_form_urgency_level
+      label: Urgency Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 9
+      name: lead_generation_form_priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 10
+      name: legal_advice_inquiry_lead_generation_form_follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: legal_advice_inquiry_lead_generation_form_follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: lead_generation_form_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: lead_generation_form_lead_status
+      label: Lead Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Qualified
+      - Qualified to Convert
+      - Qualified to Reject
+      - Qualified to Dismiss
+      - Qualified to Follow-up
+      required: false

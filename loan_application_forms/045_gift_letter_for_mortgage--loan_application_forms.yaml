@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gift Letter For Mortgage
+    pages:
+    - id: 1
+      name: donor_details
+      label: Donor Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: Donors Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: donor_donor_type
+      label: DonorType
+      hint: null
+      type: select_one
+      options:
+      - Primary Buyer
+      - Other
+      required: false
+    - id: 4
+      name: donor_relationship
+      label: Relationship To Borrower
+      hint: null
+      type: select_multiple
+      options:
+      - Primary Residence
+      - Primary Residence
+      - Primary Vacation
+      - Primary Investment Property
+      - Primary Other
+      required: false
+    - id: 5
+      name: donor_address
+      label: Donors Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: gift_amount
+      label: Gift Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: gift_date
+      label: Gift Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: donor_institution
+      label: Donors Institution or Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: borrower_details
+      label: Borrowers Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: borrower_name
+      label: Borrowers Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: gift_purpose
+      label: Gift Purpose
+      hint: null
+      type: select_multiple
+      options:
+      - Primary Residence
+      - Vacation Home
+      - Investment Property
+      - Other
+      required: false
+    - id: 12
+      name: mortgage_amount
+      label: Amount of the Mortgage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: property_type
+      label: Type of Property
+      hint: null
+      type: select_multiple
+      options:
+      - Primary Residence
+      - Vacation Home
+      - Investment Property
+      - Other
+      required: false
+    - id: 14
+      name: property_address
+      label: Address of Property
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: lender_details
+      label: Lender Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: lender_name
+      label: Lenders Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: loan_term
+      label: Loan Term
+      hint: null
+      type: select_one
+      options:
+      - 30 Years
+      - 15 Years
+      - 5 Years
+      required: false
+    - id: 19
+      name: loan_type
+      label: Loan Type
+      hint: null
+      type: select_one
+      options:
+      - Fixed Rate
+      - Variable Rate
+      - Hybrid
+      - Interest Only
+      required: false
+    - id: 20
+      name: collateral_type
+      label: Collateral Type
+      hint: null
+      type: select_one
+      options:
+      - Primary Residence
+      - Vacation Home
+      - Investment Property
+      - Other
+      required: false
+    - id: 21
+      name: date_of_maturity
+      label: Date of Maturity
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: maturity_date
+      label: Maturity Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: lender_interest_rate
+      label: Lender Interest Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: borrower_income
+      label: Borrowers Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: loan_status
+      label: Loan Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Paid Off
+      required: false

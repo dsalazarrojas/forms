@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: security_incident_response_service_request
+    pages:
+    - id: 1
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_risk
+      label: Incident Risk
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: incident_risk_level
+      label: Incident Risk Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_uptime
+      label: Incident Uptime
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Closed
+      - Pending
+      required: false
+    - id: 7
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: incident_reported_by
+      label: Incident Reported By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_reported_by_email
+      label: Incident Reported By Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: incident_reported_by_phone
+      label: Incident Reported By Phone
+      hint: null
+      type: text
+      options: []
+      required: false

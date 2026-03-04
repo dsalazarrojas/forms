@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Server Application Registration
+    pages:
+    - id: 1
+      name: new_application_name
+      label: New Application Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: server_type
+      label: Server Type
+      hint: Select one of the options below
+      type: select_one
+      options:
+      - Application Server
+      - Load Balancer
+      - Database Server
+      required: false
+    - id: 3
+      name: server_requirements
+      label: Server Requirements
+      hint: Select multiple requirements
+      type: select_multiple
+      options:
+      - CPU
+      - Disk Space
+      - Memory
+      - Network Interface
+      required: false
+    - id: 4
+      name: deployment_environment
+      label: Deployment Environment
+      hint: null
+      type: select_multiple
+      options:
+      - Cloud
+      - On-Premises
+      - Hybrid
+      required: false
+    - id: 5
+      name: cpu
+      label: CPU
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: disk_space
+      label: Disk Space
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: memory
+      label: Memory
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: network_interface
+      label: Network Interface
+      hint: null
+      type: select_one
+      options:
+      - 1000Mbit
+      - 10000Mbit
+      - 100000Mbit
+      required: false
+    - id: 9
+      name: database
+      label: Database
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

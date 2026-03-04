@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Permanent Guardianship Form
+    pages:
+    - id: 1
+      name: permanent_guardianship_form_data
+      label: Permanent Guardianship Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guardian_info
+      label: Guardian Info
+      hint: null
+      type: select_multiple
+      options:
+      - Guardian 1
+      - Guardian 2
+      required: false
+    - id: 3
+      name: court_order
+      label: Court Order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: permanent_guardian_name
+      label: Permanent Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: permanent_guardian_address
+      label: Permanent Guardian Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: mailing_address
+      label: Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_phone_number
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: permanent_guardian_relationship
+      label: Permanent Guardian Relationship
+      hint: null
+      type: select_one
+      options:
+      - Spouse
+      - Parent
+      - Sibling
+      - Other
+      required: false
+    - id: 11
+      name: permanent_guardianship_type
+      label: Permanent Guardianship Type
+      hint: null
+      type: select_one
+      options:
+      - Full
+      - Limited
+      - Temporary
+      required: false
+    - id: 12
+      name: permanent_guardianship_reason
+      label: Permanent Guardianship Reason
+      hint: null
+      type: select_multiple
+      options:
+      - Court Order
+      - Voluntary
+      - Other
+      required: false
+    - id: 13
+      name: permanent_guardianship_duration
+      label: Permanent Guardianship Duration
+      hint: null
+      type: select_one
+      options:
+      - Permanent
+      - Until Removed
+      - Until Revocation
+      required: false
+    - id: 14
+      name: permanent_guardianship_termination_date
+      label: Permanent Guardianship Termination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: permanent_guardian_signature
+      label: Permanent Guardian Signature
+      hint: null
+      type: select_one
+      options:
+      - Notary Seal
+      - Signature
+      required: false

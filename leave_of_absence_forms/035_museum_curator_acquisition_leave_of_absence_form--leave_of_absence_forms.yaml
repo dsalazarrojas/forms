@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Museum Curator Acquisition Leave Of Absence Form
+    pages:
+    - id: 1
+      name: leave_request
+      label: What is your leave request for?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: leave_type
+      label: What type of leave?
+      hint: null
+      type: select_multiple
+      options:
+      - Academic
+      - Personal
+      - Family
+      - Bereavement
+      - Jury Duty
+      - Military
+      - Other
+      required: false
+    - id: 3
+      name: start_date
+      label: Start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: end_date
+      label: End date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: reason
+      label: Reason for leave
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: approval_status
+      label: Status of approval
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      - Denied
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: curator_name
+      label: Curator name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: curator_contact
+      label: Curator contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: institution
+      label: Institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: coverage_plan
+      label: Coverage Plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: approval_time
+      label: Approval Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: approval_status_date
+      label: Approval Status Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: curator_signature
+      label: Curator Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: approver_signature
+      label: Approver Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: approver_name
+      label: Approver Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: approver_contact
+      label: Approver Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: approver_department
+      label: Approver Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: approver_institution
+      label: Approver Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: approver_signature_date
+      label: Approver Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lead Information And Promotion Code Form
+    pages:
+    - id: 1
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: lead_source
+      label: lead source
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: promotion_code
+      label: promotion code
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''code_1'', ''value'': 1}'
+      - '{''label'': ''code_2'', ''value'': 2}'
+      - '{''label'': ''code_3'', ''value'': 3}'
+      - '{''label'': ''code_4'', ''value'': 4}'
+      - '{''label'': ''code_5'', ''value'': 5}'
+      - '{''label'': ''other'', ''value'': 1}'
+      - '{''label'': ''none'', ''value'': 2}'
+      - '{''label'': ''not_provided'', ''value'': 3}'
+      - '{''label'': ''custom'', ''value'': 4}'
+      - '{''label'': ''custom_2'', ''value'': 5}'
+      - '{''label'': ''custom_3'', ''value'': 6}'
+      - '{''label'': ''custom_4'', ''value'': 7}'
+      required: false

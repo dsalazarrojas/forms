@@ -1,0 +1,29 @@
+inputSchema:
+  type: object
+  properties:
+    title: intellectual_property_release_form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: intellectual_property_licence
+      label: Intellectual Property Licence
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Licence''}'
+      - '{''label'': ''Licence''}'
+      - '{''label'': ''Licence''}'
+      required: false
+    - id: 3
+      name: licence_duration
+      label: Licence Duration
+      hint: null
+      type: number
+      options: []
+      required: false

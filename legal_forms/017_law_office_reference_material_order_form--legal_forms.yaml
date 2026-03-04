@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: law_office_reference_material_order_form
+    pages:
+    - id: 1
+      name: form_title
+      label: Law Office Reference Material Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Legal Forms
+      - Other
+      required: true
+    - id: 3
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true

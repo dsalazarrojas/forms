@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Resolution Time Feedback Survey
+    pages:
+    - id: 1
+      name: user_response_time
+      label: How long did you wait for the support team to respond?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: resolution_time
+      label: How long did the support team take to resolve your issue?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: user_satisfaction
+      label: How satisfied are you with the support team's response time?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: support_team_size
+      label: Size of support team
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: resolution_method
+      label: Which method of resolution was used?
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Chat
+      - Email and phone
+      - Email and phone and Chat
+      required: true
+    - id: 6
+      name: resolution_date
+      label: Resolution Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: resolution_time
+      label: Resolution Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: response_time
+      label: Response Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: support_team_member
+      label: Which support team member was handling your request?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: feedback
+      label: Do you have any additional feedback?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: user_phone
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: support_email
+      label: Support Email
+      hint: null
+      type: email
+      options: []
+      required: false

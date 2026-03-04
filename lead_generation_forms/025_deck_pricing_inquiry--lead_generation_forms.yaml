@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Deck Pricing Inquiry
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_size
+      label: Project Size
+      hint: Select the approximate square footage of the project
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: true
+    - id: 5
+      name: deck_type
+      label: Deck Type
+      hint: null
+      type: select_multiple
+      options:
+      - Deck only
+      - Deck + Pergola
+      - Deck + Pergola + Roof
+      required: true
+    - id: 6
+      name: timelines
+      label: Timelines
+      hint: Select the desired start time for the project
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: preferred_design
+      label: Preferred Design
+      hint: null
+      type: select_one
+      options:
+      - Modern
+      - Traditional
+      - Rustic
+      required: true

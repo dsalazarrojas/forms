@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Analytical Chemist Job Application Form
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Enter a valid email address for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Enter your primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: current_address
+      label: Current Address
+      hint: Enter your current residential address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_education
+      label: -- Educational Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: highest_degree
+      label: Highest Degree Earned
+      hint: Select your highest level of education
+      type: select_one
+      options:
+      - Bachelor's Degree
+      - Master's Degree
+      - Doctoral Degree (PhD)
+      - Postdoctoral
+      required: true
+    - id: 8
+      name: degree_field
+      label: Field of Study
+      hint: Enter your major or field of specialization
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: university_name
+      label: University or Institution Name
+      hint: Enter the name of the institution
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: graduation_year
+      label: Year of Graduation
+      hint: Enter the year you graduated
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_experience
+      label: -- Professional Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: years_of_experience
+      label: Years of Experience in Analytical Chemistry
+      hint: Enter total years of relevant experience
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: current_employer
+      label: Current or Most Recent Employer
+      hint: Enter the name of your current or most recent employer
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: current_job_title
+      label: Current or Most Recent Job Title
+      hint: Enter your current or most recent position
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: section_skills
+      label: -- Technical Skills --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: analytical_techniques
+      label: Analytical Techniques Proficiency
+      hint: Select all techniques you are proficient in
+      type: select_multiple
+      options:
+      - HPLC
+      - GC-MS
+      - LC-MS
+      - NMR Spectroscopy
+      - UV-Vis Spectroscopy
+      - FTIR Spectroscopy
+      - Atomic Absorption Spectroscopy
+      - ICP-MS
+      required: true
+    - id: 17
+      name: software_proficiency
+      label: Software Proficiency
+      hint: Select all software you are proficient in
+      type: select_multiple
+      options:
+      - ChemStation
+      - MassHunter
+      - Empower
+      - Chromeleon
+      - LabSolutions
+      - Python
+      - R
+      required: true
+    - id: 18
+      name: regulatory_experience
+      label: Regulatory Experience
+      hint: Select all regulatory frameworks you have experience with
+      type: select_multiple
+      options:
+      - FDA
+      - GMP
+      - GLP
+      - ISO 17025
+      - EPA
+      - ICH Guidelines
+      required: false
+    - id: 19
+      name: section_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: certifications
+      label: Professional Certifications
+      hint: List any relevant professional certifications
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: publications
+      label: Publications or Research
+      hint: Briefly describe any relevant publications or research
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: expected_salary
+      label: Expected Salary Range
+      hint: Enter your salary expectations
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: available_start_date
+      label: Available Start Date
+      hint: Select the earliest date you can start
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: willing_to_relocate
+      label: Willing to Relocate
+      hint: Indicate if you are willing to relocate for this position
+      type: select_one
+      options:
+      - true
+      - false
+      - Negotiable
+      required: true
+    - id: 25
+      name: cover_letter
+      label: Cover Letter or Additional Comments
+      hint: Enter any additional information you would like to share
+      type: text
+      options: []
+      required: false

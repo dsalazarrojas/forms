@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: School District Calendar Voting Form
+    pages:
+    - id: 1
+      name: school_district_calendar_voting_form
+      label: School District Calendar Voting Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - K-12
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - Chatjimmy
+      - Other
+      required: false
+    - id: 6
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: description_long
+      label: Description (Long)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: category_long
+      label: Category (Long)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: description_short
+      label: Description (Short)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_ids
+      label: Form IDs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: category_ids
+      label: Category IDs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: description_ids
+      label: Description IDs
+      hint: null
+      type: text
+      options: []
+      required: false

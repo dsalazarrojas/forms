@@ -1,0 +1,534 @@
+inputSchema:
+  type: object
+  properties:
+    title: Biotech Research Publication Employment Form
+    pages:
+    - id: 1
+      name: personal_information
+      label: Personal Information
+      hint: Enter your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Professional email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State or Province
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: linkedin_profile
+      label: LinkedIn Profile
+      hint: URL to your LinkedIn profile
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: position_information
+      label: Position Information
+      hint: About the position you are applying for
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: position_title
+      label: Position Title
+      hint: Which position are you applying for
+      type: select_one
+      options:
+      - Research Scientist
+      - Senior Research Scientist
+      - Principal Scientist
+      - Research Associate
+      - Postdoctoral Fellow
+      - Lab Manager
+      - Scientific Writer
+      - Publication Manager
+      - Other
+      required: true
+    - id: 13
+      name: department
+      label: Department of Interest
+      hint: Preferred department
+      type: select_one
+      options:
+      - Research and Development
+      - Clinical Development
+      - Regulatory Affairs
+      - Quality Assurance
+      - Manufacturing
+      - Medical Affairs
+      - Publications
+      - Other
+      required: true
+    - id: 14
+      name: availability
+      label: Availability
+      hint: When can you start
+      type: select_one
+      options:
+      - Immediately
+      - 2 Weeks Notice
+      - 1 Month Notice
+      - 2 Months Notice
+      - Flexible
+      required: true
+    - id: 15
+      name: employment_type
+      label: Employment Type
+      hint: Preferred employment type
+      type: select_one
+      options:
+      - Full-Time
+      - Part-Time
+      - Contract
+      - Temporary
+      - Flexible
+      required: true
+    - id: 16
+      name: salary_expectations
+      label: Salary Expectations
+      hint: Expected salary range
+      type: select_one
+      options:
+      - $50,000 - $75,000
+      - $75,000 - $100,000
+      - $100,000 - $125,000
+      - $125,000 - $150,000
+      - $150,000 - $200,000
+      - $200,000+
+      - Negotiable
+      required: true
+    - id: 17
+      name: education
+      label: Education
+      hint: Your educational background
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: highest_degree
+      label: Highest Degree
+      hint: Highest degree earned
+      type: select_one
+      options:
+      - High School Diploma
+      - Bachelor's Degree
+      - Master's Degree
+      - PhD
+      - MD
+      - MD/PhD
+      - Other Professional Degree
+      required: true
+    - id: 19
+      name: degree_field
+      label: Field of Study
+      hint: Your major or field
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: university_name
+      label: University Name
+      hint: Where did you earn your degree
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: graduation_year
+      label: Graduation Year
+      hint: Year of graduation
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: additional_certifications
+      label: Additional Certifications
+      hint: List any relevant certifications
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: research_experience
+      label: Research Experience
+      hint: Your research background
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: years_of_experience
+      label: Years of Research Experience
+      hint: Total years in research
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - 10+ years
+      required: true
+    - id: 25
+      name: research_areas
+      label: Research Areas
+      hint: Select your areas of expertise
+      type: select_multiple
+      options:
+      - Molecular Biology
+      - Cell Biology
+      - Genetics
+      - Biochemistry
+      - Immunology
+      - Pharmacology
+      - Oncology
+      - Neuroscience
+      - Microbiology
+      - Bioinformatics
+      - Other
+      required: true
+    - id: 26
+      name: current_position
+      label: Current Position
+      hint: Your current role
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: current_organization
+      label: Current Organization
+      hint: Where do you work now
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: publication_experience
+      label: Publication Experience
+      hint: Your publication record
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: number_of_publications
+      label: Number of Publications
+      hint: Total peer-reviewed publications
+      type: select_one
+      options:
+      - None
+      - 1-5
+      - 6-10
+      - 11-20
+      - 21-50
+      - 50+
+      required: true
+    - id: 30
+      name: first_author_publications
+      label: First Author Publications
+      hint: Number as first author
+      type: number
+      options: []
+      required: false
+    - id: 31
+      name: corresponding_author_publications
+      label: Corresponding Author Publications
+      hint: Number as corresponding author
+      type: number
+      options: []
+      required: false
+    - id: 32
+      name: key_publications
+      label: Key Publications
+      hint: List your most relevant publications
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: publication_types
+      label: Types of Publications
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Original Research Articles
+      - Review Articles
+      - Book Chapters
+      - Conference Proceedings
+      - Case Reports
+      - Editorials
+      - Patents
+      - Other
+      required: true
+    - id: 34
+      name: journals_published
+      label: Journals Published In
+      hint: List key journals
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: writing_experience
+      label: Scientific Writing Experience
+      hint: Describe your writing background
+      type: text
+      options: []
+      required: true
+    - id: 36
+      name: technical_skills
+      label: Technical Skills
+      hint: Your technical competencies
+      type: note
+      options: []
+      required: false
+    - id: 37
+      name: laboratory_techniques
+      label: Laboratory Techniques
+      hint: Select techniques you are proficient in
+      type: select_multiple
+      options:
+      - PCR
+      - Western Blotting
+      - ELISA
+      - Cell Culture
+      - Flow Cytometry
+      - Microscopy
+      - Chromatography
+      - Spectroscopy
+      - CRISPR
+      - Next-Generation Sequencing
+      - Other
+      required: false
+    - id: 38
+      name: software_proficiency
+      label: Software Proficiency
+      hint: Select software you can use
+      type: select_multiple
+      options:
+      - Microsoft Office
+      - GraphPad Prism
+      - SPSS
+      - R
+      - Python
+      - SAS
+      - ImageJ
+      - EndNote
+      - LaTeX
+      - Other
+      required: false
+    - id: 39
+      name: references
+      label: References
+      hint: Professional references
+      type: note
+      options: []
+      required: false
+    - id: 40
+      name: reference_1_name
+      label: Reference 1 Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 41
+      name: reference_1_title
+      label: Reference 1 Title
+      hint: Professional title
+      type: text
+      options: []
+      required: true
+    - id: 42
+      name: reference_1_organization
+      label: Reference 1 Organization
+      hint: Company or institution
+      type: text
+      options: []
+      required: true
+    - id: 43
+      name: reference_1_email
+      label: Reference 1 Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 44
+      name: reference_1_phone
+      label: Reference 1 Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 45
+      name: reference_1_relationship
+      label: Reference 1 Relationship
+      hint: How do they know you
+      type: text
+      options: []
+      required: true
+    - id: 46
+      name: reference_2_name
+      label: Reference 2 Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 47
+      name: reference_2_email
+      label: Reference 2 Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 48
+      name: reference_2_relationship
+      label: Reference 2 Relationship
+      hint: How do they know you
+      type: text
+      options: []
+      required: true
+    - id: 49
+      name: additional_documents
+      label: Additional Documents
+      hint: Documents to attach
+      type: note
+      options: []
+      required: false
+    - id: 50
+      name: cv_attached
+      label: CV or Resume Attached
+      hint: Have you attached your CV
+      type: select_one
+      options:
+      - true
+      - Will Submit Separately
+      required: true
+    - id: 51
+      name: cover_letter_attached
+      label: Cover Letter Attached
+      hint: Have you attached a cover letter
+      type: select_one
+      options:
+      - true
+      - false
+      - Will Submit Separately
+      required: true
+    - id: 52
+      name: publication_samples_attached
+      label: Publication Samples Attached
+      hint: Writing samples
+      type: select_one
+      options:
+      - true
+      - false
+      - Available Upon Request
+      required: false
+    - id: 53
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else you want to share
+      type: text
+      options: []
+      required: false
+    - id: 54
+      name: how_heard_about_position
+      label: How Did You Hear About This Position
+      hint: Help us improve recruiting
+      type: select_one
+      options:
+      - Company Website
+      - Job Board
+      - LinkedIn
+      - Colleague Referral
+      - Academic Advisor
+      - Conference
+      - Other
+      required: true
+    - id: 55
+      name: referral_name
+      label: Referral Name
+      hint: If referred by someone
+      type: text
+      options: []
+      required: false
+    - id: 56
+      name: equal_opportunity
+      label: Equal Opportunity Statement
+      hint: Voluntary disclosure
+      type: select_one
+      options:
+      - Prefer Not to Answer
+      - true
+      - false
+      required: false
+    - id: 57
+      name: work_authorization
+      label: Work Authorization
+      hint: Are you authorized to work
+      type: select_one
+      options:
+      - Yes - US Citizen
+      - Yes - Permanent Resident
+      - Yes - Work Visa Holder
+      - No - Require Sponsorship
+      required: true
+    - id: 58
+      name: application_statement
+      label: Application Statement
+      hint: Confirm your application
+      type: select_one
+      options:
+      - I certify all information is accurate
+      - I understand false information may disqualify me
+      required: true
+    - id: 59
+      name: application_date
+      label: Application Date
+      hint: Date of application
+      type: date
+      options: []
+      required: true

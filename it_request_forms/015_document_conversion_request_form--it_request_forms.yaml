@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Document Conversion Request Form
+    pages:
+    - id: 1
+      name: conversion_request
+      label: conversion_request
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_one
+      options:
+      - Scan
+      - Email
+      - File
+      required: false
+    - id: 3
+      name: conversion_type
+      label: conversion_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: document_name
+      label: Document Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: conversion_name
+      label: Conversion Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: conversion_description
+      label: Conversion Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false

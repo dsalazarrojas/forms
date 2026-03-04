@@ -1,0 +1,89 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Civil Litigation Information Form
+    pages:
+      - id: 1
+        name: client_name
+        label: Client name
+        hint: Full legal name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: contact_details
+        label: Contact details
+        hint: Email and phone
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: opposing_party
+        label: Opposing party name
+        hint: If known
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: case_summary
+        label: Case summary
+        hint: Brief description of issue and timeline
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: relief_sought
+        label: Relief or remedy sought
+        hint: Damages injunction specific performance
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: documents_available
+        label: Documents available
+        hint: Evidence contracts correspondence
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: deadline_or_limitation
+        label: Important deadlines or limitation periods
+        hint: Dates for statute of limitations or filings
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: legal_representation
+        label: Current legal representation
+        hint: Represented by counsel or self represented
+        type: select_one
+        options:
+          - Represented
+          - Self represented
+          - Seeking representation
+        required: true
+      - id: 9
+        name: confidentiality_note
+        label: Confidentiality and privacy note
+        hint: Information will be handled securely
+        type: note
+        options: []
+        required: true
+      - id: 10
+        name: submission_date
+        label: Submission date
+        hint: Date of intake
+        type: date
+        options: []
+        required: true

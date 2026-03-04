@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: digital_transformation_certification_application_form
+    pages:
+    - id: 1
+      name: candidate_details
+      label: Candidate Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: motivation
+      label: Motivation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: training_provider
+      label: Training Provider
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Training Provider 1''}'
+      - '{''name'': ''Training Provider 2''}'
+      - '{''name'': ''Training Provider 3''}'
+      - '{''name'': ''Training Provider 4''}'
+      - '{''name'': ''Training Provider 5''}'
+      - '{''name'': ''Training Provider 6''}'
+      required: false
+    - id: 4
+      name: experience
+      label: Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: certification_date
+      label: Certification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

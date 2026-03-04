@@ -1,0 +1,233 @@
+inputSchema:
+  type: object
+  properties:
+    title: Seasonal Maintenance Checklist Form
+    pages:
+    - id: 1
+      name: seasonal_maintenance_checklist_form
+      label: Seasonal maintenance checklist form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: seasonal_tasks
+      label: Select seasonal tasks
+      hint: null
+      type: select_multiple
+      options:
+      - Spring
+      - Fall
+      - Summer
+      - Winter
+      - Others
+      required: false
+    - id: 3
+      name: seasonal_tasks_selected
+      label: Select seasonal tasks
+      hint: Select all relevant tasks
+      type: select_multiple
+      options:
+      - Spring
+      - Fall
+      - Summer
+      - Winter
+      - Others
+      required: false
+    - id: 4
+      name: spring_tasks
+      label: Spring tasks
+      hint: null
+      type: select_multiple
+      options:
+      - Spring cleanup
+      - Spring maintenance
+      - Others
+      required: false
+    - id: 5
+      name: spring_tasks_selected
+      label: Select spring tasks
+      hint: Select all relevant spring tasks
+      type: select_multiple
+      options:
+      - Spring cleanup
+      - Spring maintenance
+      - Others
+      required: false
+    - id: 6
+      name: fall_tasks
+      label: Fall tasks
+      hint: null
+      type: select_multiple
+      options:
+      - Fall cleanup
+      - Fall maintenance
+      - Others
+      required: false
+    - id: 7
+      name: fall_tasks_selected
+      label: Select fall tasks
+      hint: Select all relevant fall tasks
+      type: select_multiple
+      options:
+      - Fall cleanup
+      - Fall maintenance
+      - Others
+      required: false
+    - id: 8
+      name: summer_tasks
+      label: Summer tasks
+      hint: null
+      type: select_multiple
+      options:
+      - Summer cleanup
+      - Summer maintenance
+      - Others
+      required: false
+    - id: 9
+      name: summer_tasks_selected
+      label: Select summer tasks
+      hint: Select all relevant summer tasks
+      type: select_multiple
+      options:
+      - Summer cleanup
+      - Summer maintenance
+      - Others
+      required: false
+    - id: 10
+      name: winter_tasks
+      label: Winter tasks
+      hint: null
+      type: select_multiple
+      options:
+      - Winter cleanup
+      - Winter maintenance
+      - Others
+      required: false
+    - id: 11
+      name: winter_tasks_selected
+      label: Select winter tasks
+      hint: Select all relevant winter tasks
+      type: select_multiple
+      options:
+      - Winter cleanup
+      - Winter maintenance
+      - Others
+      required: false
+    - id: 12
+      name: others_tasks
+      label: Others
+      hint: null
+      type: select_multiple
+      options:
+      - Others
+      - Other
+      required: false
+    - id: 13
+      name: maintenance_checklist_date
+      label: Maintenance checklist date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: maintenance_checklist_time
+      label: Maintenance checklist time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: property_address
+      label: Property address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: property_owner
+      label: Property owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: property_owner_phone
+      label: Property owner phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: property_owner_email
+      label: Property owner email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: property_notes
+      label: Property notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: property_notes
+      label: Property notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: maintenance_checklist_notes
+      label: Maintenance checklist notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: maintenance_checklist_notes
+      label: Maintenance checklist notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: seasonal_maintenance_checklist_status
+      label: Seasonal maintenance checklist status
+      hint: null
+      type: select_one
+      options:
+      - Not started
+      - Started
+      - Completed
+      required: false
+    - id: 24
+      name: seasonal_maintenance_checklist_due_date
+      label: Due date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: seasonal_maintenance_checklist_due_time
+      label: Due time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 26
+      name: seasonal_maintenance_checklist_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: seasonal_maintenance_checklist_completed
+      label: Completed
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Casting Fill Out Form
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your legal first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Include area code
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_physical_attributes
+      label: -- Physical Attributes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: height
+      label: Height
+      hint: In feet and inches (e.g. 5'10")
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: eye_color
+      label: Eye Color
+      hint: null
+      type: select_one
+      options:
+      - Brown
+      - Blue
+      - Green
+      - Hazel
+      - Black
+      - Other
+      required: true
+    - id: 9
+      name: hair_color
+      label: Hair Color
+      hint: Natural hair color
+      type: select_one
+      options:
+      - Black
+      - Brown
+      - Blonde
+      - Red
+      - Gray
+      - Other
+      required: true
+    - id: 10
+      name: distinguishing_features
+      label: Distinguishing Features
+      hint: Tattoos, scars, birthmarks, etc.
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_experience
+      label: -- Acting Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: years_of_experience
+      label: Years of Acting Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: previous_roles
+      label: Previous Roles
+      hint: List any films, TV shows, or theater productions
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: training_background
+      label: Training Background
+      hint: Acting classes, workshops, certifications
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: union_affiliation
+      label: Union Affiliation
+      hint: SAG-AFTRA, Actors Equity, etc.
+      type: select_one
+      options:
+      - SAG-AFTRA
+      - Actors Equity
+      - None
+      - Other
+      required: false
+    - id: 16
+      name: section_role_interest
+      label: -- Role Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: character_name
+      label: Character Name Being Cast
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: interested_in_role
+      label: Are you interested in this role?
+      hint: null
+      type: select_one
+      options:
+      - Yes, very interested
+      - Interested
+      - Not sure
+      - false
+      required: true
+    - id: 19
+      name: scheduling_availability
+      label: Scheduling Availability
+      hint: Filming dates and shooting schedule
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_media
+      label: -- Media & References --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: headshot_file
+      label: Headshot Photo
+      hint: Professional headshot required
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: resume_file
+      label: Acting Resume
+      hint: Include training and experience
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: agent_name
+      label: Agent/Manager Name
+      hint: If represented
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: agent_contact
+      label: Agent/Manager Contact Information
+      hint: Phone number and email
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: terms_accepted
+      label: I agree to the casting terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

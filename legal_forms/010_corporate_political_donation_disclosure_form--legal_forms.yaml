@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Political Donation Disclosure Form
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donor_details
+      label: Donor Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donation_details
+      label: Donation Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_donation
+      label: Date of Donation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: amount_donation
+      label: Amount of Donation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: frequency_donation
+      label: Frequency of Donation
+      hint: null
+      type: select_one
+      options:
+      - Quarterly
+      - Monthly
+      - Bi-Monthly
+      required: true
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Check
+      - Bank Transfer
+      - Credit Card
+      required: true
+    - id: 8
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: amount_received
+      label: Amount Received
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Approved
+      - Declined
+      required: true
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Review Required
+      - Review Pending
+      - Approved
+      - Declined
+      required: true
+    - id: 14
+      name: reviewed_by
+      label: Reviewed By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: created_date
+      label: Created Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: updated_date
+      label: Updated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: last_updated_by
+      label: Last Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: last_updated_date
+      label: Last Updated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false

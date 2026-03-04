@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teaching Job Application For JIS
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: position
+      label: Position Applied
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: marital_status
+      label: Marital Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Widowed
+      - Divorced
+      required: true
+    - id: 7
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: personal_message
+      label: Personal Message
+      hint: null
+      type: text
+      options: []
+      required: false

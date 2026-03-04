@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Release Tag Creation Request Form
+    pages:
+    - id: 1
+      name: request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: environment
+      label: Environment
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Test''}'
+      - '{''id'': 2, ''label'': ''Preprod''}'
+      - '{''id'': 3, ''label'': ''Production''}'
+      required: false
+    - id: 3
+      name: release_version
+      label: Release Version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: release_tag
+      label: Release Tag
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: requestor
+      label: Requestor
+      hint: null
+      type: text
+      options: []
+      required: false

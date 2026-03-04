@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gift Letter For Mortgage
+    pages:
+    - id: 1
+      name: homebuyer_name
+      label: Homebuyer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_donation
+      label: Date of Donation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gift_amount
+      label: Gift Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: purpose_of_gift
+      label: Purpose of Gift
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: donor_address
+      label: Donor Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: homebuyer_address
+      label: Homebuyer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_gift
+      label: Date of Gift
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: relationship_to_homebuyer
+      label: Relationship to Homebuyer
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Spouse
+      - Child
+      - Parent
+      - Other
+      required: true
+    - id: 10
+      name: donor_income
+      label: Donor Income
+      hint: null
+      type: select_one
+      options:
+      - Less than 20,000
+      - 20,001 - 40,000
+      - 40,001 - 60,000
+      - 60,001 - 80,000
+      - 80,001 - 100,000
+      - More than 100,000
+      required: true
+    - id: 11
+      name: gift_funds
+      label: Gift Funds
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Real estate
+      - Personal property
+      - Other
+      required: false
+    - id: 12
+      name: donor_signature
+      label: Donor Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: homebuyer_signature
+      label: Homebuyer Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: donor_acknowledgement
+      label: Donor Acknowledgement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: homebuyer_acknowledgement
+      label: Homebuyer Acknowledgement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: acknowledgement_to_courts
+      label: Acknowledgement to Courts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: donor_acknowledgement_2
+      label: Donor Acknowledgement 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: homebuyer_acknowledgement_2
+      label: Homebuyer Acknowledgement 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: other_terms
+      label: Other Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: other_terms_acknowledgement
+      label: Other Terms Acknowledgement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: terms_and_conditions_acknowledgement
+      label: Terms and Conditions Acknowledgement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: date_of_transfer
+      label: Date of Transfer
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: other_donors
+      label: Other Donors
+      hint: null
+      type: text
+      options: []
+      required: false

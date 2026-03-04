@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: public_transport_maintenance_quote_request
+    pages:
+    - id: 1
+      name: transport_vehicle
+      label: Transport Vehicle
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: vehicle_type
+      label: vehicle_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: vehicle_registration
+      label: vehicle_registration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: vehicle_condition
+      label: vehicle_condition
+      hint: null
+      type: select_multiple
+      options:
+      - Bus
+      - Train
+      - Other
+      required: true
+    - id: 5
+      name: maintenance_details
+      label: maintenance_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: quote_date
+      label: quote_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: quote_time
+      label: quote_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: agency_name
+      label: agency_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: agency_contractor
+      label: agency_contractor
+      hint: null
+      type: select_one
+      options:
+      - Agency
+      - Contractor
+      required: true
+    - id: 13
+      name: agency_notes
+      label: agency_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: agency_contact_name
+      label: agency_contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: agency_phone
+      label: agency_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: agency_email
+      label: agency_email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: agency_address
+      label: agency_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: agency_comments
+      label: agency_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: quote_total_cost
+      label: quote_total_cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: quote_status
+      label: quote_status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - In progress
+      - Closed
+      required: true
+    - id: 21
+      name: agency_status
+      label: agency_status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Accepted
+      - Rejected
+      - Approved
+      required: false
+    - id: 22
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

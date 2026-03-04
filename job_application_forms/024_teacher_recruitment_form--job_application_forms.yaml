@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Recruitment Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: years_of_experience
+      label: Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: null
+      type: select_one
+      options:
+      - Professor
+      - Teacher
+      - Tutor
+      required: false
+    - id: 8
+      name: teaching_level
+      label: Teaching Level
+      hint: null
+      type: select_multiple
+      options:
+      - High School
+      - College
+      - University
+      required: true
+    - id: 9
+      name: subjects_taught
+      label: Subjects Taught
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: about
+      label: About
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: uploaded_documents
+      label: Uploaded Documents
+      hint: null
+      type: select_multiple
+      options:
+      - CV
+      - Resume
+      - Transcript
+      required: true
+    - id: 12
+      name: preferred_location
+      label: Preferred Location
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Onsite
+      required: true
+    - id: 13
+      name: salary_expected
+      label: Salary Expected
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: notice_period
+      label: Notice Period
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: notice_unit
+      label: Notice Unit
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Investment Opportunity Inquiry Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: investment_type
+      label: investment_type
+      hint: null
+      type: select_multiple
+      options:
+      - Investment Type 1
+      - Investment Type 2
+      - Investment Type 3
+      required: false
+    - id: 6
+      name: investment_amount
+      label: investment_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: investment_frequency
+      label: investment_frequency
+      hint: null
+      type: select_one
+      options:
+      - Frequency 1
+      - Frequency 2
+      - Frequency 3
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advance On Inheritance Form
+    pages:
+    - id: 1
+      name: request_header
+      label: -- Inheritance Advance Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester full name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: beneficiary_relationship
+      label: Relationship to beneficiary
+      hint: Explain relation to estate owner
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requested_amount
+      label: Requested advance amount
+      hint: Enter amount requested
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: reason_for_request
+      label: Reason for advance request
+      hint: Provide justification for early distribution
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: supporting_documents
+      label: Supporting documents provided
+      hint: List documents attached
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: repayment_terms_agreed
+      label: Repayment terms agreed if applicable
+      hint: Outline any repayment arrangements
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: legal_representative
+      label: Legal representative contact
+      hint: Attorney name and phone
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature_date
+      label: Signature date
+      hint: Date of request
+      type: date
+      options: []
+      required: true

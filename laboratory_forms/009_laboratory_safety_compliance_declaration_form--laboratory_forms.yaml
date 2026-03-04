@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Laboratory Safety Compliance Declaration Form
+    pages:
+    - id: 1
+      name: declaration
+      label: laboratory-safety-compliance-declaration-form-label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: contact-person-label
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: emergency_contact
+      label: emergency-contact-label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: laboratory_safety_compliance_declaration_form
+      label: laboratory-safety-compliance-declaration-form-label
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''value1''}'
+      - '{''value'': ''value2''}'
+      - '{''value'': ''value3''}'
+      required: false
+    - id: 5
+      name: laboratory_safety_compliance_declaration_form_2
+      label: laboratory-safety-compliance-declaration-form-2-label
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''value1''}'
+      - '{''value'': ''value2''}'
+      - '{''value'': ''value3''}'
+      - '{''value'': ''value4''}'
+      required: true
+    - id: 6
+      name: laboratory_safety_compliance_declaration_form_3
+      label: laboratory-safety-compliance-declaration-form-3-label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: laboratory_safety_compliance_declaration_form_4
+      label: laboratory-safety-compliance-declaration-form-4-label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: laboratory_safety_compliance_declaration_form_5
+      label: laboratory-safety-compliance-declaration-form-5-label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: laboratory_safety_compliance_declaration_form_6
+      label: laboratory-safety-compliance-declaration-form-6-label
+      hint: null
+      type: time
+      options: []
+      required: false

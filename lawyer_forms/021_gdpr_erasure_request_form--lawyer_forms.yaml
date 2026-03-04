@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: GDPR Erasure Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reason_for_erasure
+      label: Reason For Erasure
+      hint: Please provide the reason for the erasure request.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: data_to_erase
+      label: Data To Erase
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consent
+      label: Consent
+      hint: I confirm that I have read and understood the Erasure Request Form and
+        the information provided.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: confirm_data_erased
+      label: Confirm Data Erased
+      hint: null
+      type: text
+      options: []
+      required: false

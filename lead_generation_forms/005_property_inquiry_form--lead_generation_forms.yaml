@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Inquiry Form
+    pages:
+    - id: 1
+      name: property_inquiry_form
+      label: Property Inquiry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_type
+      label: What type of property do you want to inquire about?
+      hint: null
+      type: select_one
+      options:
+      - House
+      - Apartment
+      - Condo
+      - Townhouse
+      - Land
+      - Townhouse with land
+      required: false
+    - id: 3
+      name: number_of_bedrooms
+      label: Number of Bedrooms
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      required: false
+    - id: 4
+      name: number_of_bathrooms
+      label: Number of Bathrooms
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 5
+      name: square_footage
+      label: Square Footage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: property_price
+      label: Property Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR System Migration Application Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: migration_requests
+      label: HR System Migration Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: objectives
+      label: Objectives
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: timelines
+      label: Timelines
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: it_teams_involved
+      label: IT Teams Involved
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: hr_teams_involved
+      label: HR Teams Involved
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: system_requirements
+      label: System Requirements
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: migration_plan
+      label: Migration Plan
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: attachments
+      label: Attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false

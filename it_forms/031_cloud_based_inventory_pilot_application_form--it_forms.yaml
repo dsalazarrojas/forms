@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cloud Based Inventory Pilot Application Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: Official company name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Contact Person Name
+      hint: Primary contact for pilot program
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_company
+      label: -- Company Information --
+      hint: Details about your organization
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: industry
+      label: Industry
+      hint: Primary business sector
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_one
+      options:
+      - Startup (1-50 employees)
+      - Small (51-200 employees)
+      - Medium (201-1000 employees)
+      - Large (1001-5000 employees)
+      - Enterprise (5000+ employees)
+      required: true
+    - id: 8
+      name: headquarters_location
+      label: Headquarters Location
+      hint: City and country
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_inventory
+      label: -- Current Inventory System --
+      hint: Your existing inventory setup
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: current_system
+      label: Current Inventory Management System
+      hint: What system you are currently using
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: system_type
+      label: System Type
+      hint: null
+      type: select_one
+      options:
+      - On-premises software
+      - Legacy system
+      - Cloud-based SaaS
+      - Spreadsheet-based
+      - Custom built
+      - Other
+      required: true
+    - id: 12
+      name: sku_count
+      label: Approximate Number of SKUs
+      hint: How many products you manage
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: locations_count
+      label: Number of Inventory Locations
+      hint: Warehouses, stores, facilities
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: section_goals
+      label: -- Pilot Program Goals --
+      hint: What you hope to achieve
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: primary_objectives
+      label: Primary Objectives for Cloud Inventory
+      hint: null
+      type: select_multiple
+      options:
+      - Real-time inventory visibility
+      - Reduce inventory costs
+      - Improve accuracy
+      - Enable scalability
+      - Better reporting and analytics
+      - Improve collaboration
+      - Disaster recovery capability
+      - Multi-location management
+      required: true
+    - id: 16
+      name: pain_points
+      label: Current System Pain Points
+      hint: What problems do you want to solve
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: section_requirements
+      label: -- Requirements and Integration --
+      hint: Technical and business requirements
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: required_features
+      label: Required Features
+      hint: null
+      type: select_multiple
+      options:
+      - Real-time tracking
+      - Barcode scanning
+      - Mobile app
+      - API integrations
+      - Automated reordering
+      - Multi-language support
+      - Custom reports
+      - User management
+      required: true
+    - id: 19
+      name: integrations_needed
+      label: Systems to Integrate With
+      hint: ERP, accounting, e-commerce, etc.
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: data_migration
+      label: Data Migration Requirements
+      hint: How much historical data to migrate
+      type: select_one
+      options:
+      - Minimal historical data
+      - 1 year of data
+      - 3 years of data
+      - Full historical data
+      - Not applicable
+      required: true
+    - id: 21
+      name: section_timeline
+      label: -- Pilot Timeline --
+      hint: Your availability for the pilot
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: pilot_duration
+      label: Desired Pilot Duration
+      hint: How long you want to test
+      type: select_one
+      options:
+      - 1 month
+      - 2-3 months
+      - 4-6 months
+      - 6+ months
+      - Flexible
+      required: true
+    - id: 23
+      name: start_date
+      label: Preferred Start Date
+      hint: When you want to begin pilot
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: team_availability
+      label: Team Availability for Implementation
+      hint: null
+      type: select_one
+      options:
+      - Full-time dedicated team
+      - Part-time resources
+      - Limited resources
+      - External consultant needed
+      required: true
+    - id: 25
+      name: additional_information
+      label: Additional Information or Questions
+      hint: Anything else to tell us
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,112 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Engagement In Sports
+    pages:
+      - id: 1
+        name: full_name
+        label: Resident Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: age_group
+        label: Age Group
+        hint: Select your current age range
+        type: select_one
+        options:
+          - Under 18
+          - 18-30
+          - 31-50
+          - 51-65
+          - 65+
+        required: true
+      - id: 3
+        name: preferred_sports
+        label: Interested Sports Activities
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Soccer
+          - Basketball
+          - Tennis
+          - Swimming
+          - Pickleball
+          - Yoga
+          - Hiking
+        required: true
+      - id: 4
+        name: activity_level
+        label: Current Activity Level
+        hint: How often do you participate in sports?
+        type: select_one
+        options:
+          - Daily
+          - Weekly
+          - Monthly
+          - Rarely
+        required: false
+      - id: 5
+        name: availability
+        label: General Availability
+        hint: When are you most likely to participate?
+        type: select_multiple
+        options:
+          - Weekday Mornings
+          - Weekday Afternoons
+          - Weekday Evenings
+          - Weekend Mornings
+          - Weekend Afternoons
+        required: true
+      - id: 6
+        name: volunteer_interest
+        label: Are you interested in volunteering?
+        hint: Helping with events, coaching, or logistics
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Maybe
+        required: true
+      - id: 7
+        name: volunteer_role
+        label: Preferred Volunteer Role
+        hint: If you selected Yes or Maybe
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: coaching_experience
+        label: Do you have previous coaching experience?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: false
+      - id: 9
+        name: facilities_feedback
+        label: Feedback on Local Sports Facilities
+        hint: What improvements would you like to see?
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: contact_email
+        label: Contact Email
+        hint: To receive updates about community sports
+        type: email
+        options: []
+        required: true

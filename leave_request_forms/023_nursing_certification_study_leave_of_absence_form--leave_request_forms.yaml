@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nursing Certification Study Leave Of Absence Form
+    pages:
+    - id: 1
+      name: user
+      label: User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: shift
+      label: Shift
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''morning'', ''label'': ''Morning''}'
+      - '{''value'': ''afternoons'', ''label'': ''Afternoons''}'
+      - '{''value'': ''nights'', ''label'': ''Nights''}'
+      required: true
+    - id: 6
+      name: certification_type
+      label: Certification Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: study_hours
+      label: Study Hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: supervisor_approval
+      label: Supervisor Approval
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''approved'', ''label'': ''Approved''}'
+      - '{''value'': ''pending'', ''label'': ''Pending''}'
+      - '{''value'': ''denied'', ''label'': ''Denied''}'
+      required: true
+    - id: 9
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''approved'', ''label'': ''Approved''}'
+      - '{''value'': ''pending'', ''label'': ''Pending''}'
+      - '{''value'': ''denied'', ''label'': ''Denied''}'
+      required: true
+    - id: 10
+      name: department_head_approval
+      label: Department Head Approval
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''approved'', ''label'': ''Approved''}'
+      - '{''value'': ''pending'', ''label'': ''Pending''}'
+      - '{''value'': ''denied'', ''label'': ''Denied''}'
+      required: true
+    - id: 11
+      name: leave_date_approved
+      label: Leave Date Approved
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: leave_reason
+      label: Leave Reason
+      hint: null
+      type: text
+      options: []
+      required: true

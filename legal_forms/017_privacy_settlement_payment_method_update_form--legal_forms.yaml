@@ -1,0 +1,99 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Privacy Settlement Payment Method Update Form
+    pages:
+    - id: 1
+      name: claimant_request
+      label: Claimant Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: verification_details
+      label: Verification Details
+      hint: Please provide detailed information about your request
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - I accept
+      - I do not accept
+      - I need help understanding this
+      required: true
+    - id: 4
+      name: e_signature
+      label: E-Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: verification_document
+      label: Verification Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: upload_proof
+      label: Upload Proof
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: proof_verification
+      label: Proof Verification
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: reason_for_change
+      label: Reason for Change
+      hint: Please provide a valid reason
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: new_payment_method
+      label: New Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Account
+      - PayPal
+      required: true
+    - id: 10
+      name: new_payment_method_details
+      label: New Payment Method Details
+      hint: Please enter details about your new payment method
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: submit_request
+      label: Submit Request
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: process_automation_consulting_partner_contact_form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_info
+      label: Company Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: interests
+      label: Interests
+      hint: null
+      type: select_multiple
+      options:
+      - Automation
+      - Artificial Intelligence
+      - Data Analytics
+      - Process Automation
+      required: true
+    - id: 5
+      name: requirements
+      label: Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: send_to
+      label: Send To
+      hint: null
+      type: select_one
+      options:
+      - Jim
+      - Jimmy
+      - John
+      - Jane
+      required: true
+    - id: 8
+      name: follow_up
+      label: Follow up
+      hint: null
+      type: number
+      options: []
+      required: false

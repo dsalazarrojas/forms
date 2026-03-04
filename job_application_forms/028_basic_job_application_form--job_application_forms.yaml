@@ -1,0 +1,252 @@
+inputSchema:
+  type: object
+  properties:
+    title: Basic Job Application Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: section_header_2
+      label: -- Address Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: street_address
+      label: Street address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP/Postal code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_header_3
+      label: -- Position Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: position_applied
+      label: Position applied for
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: available_start_date
+      label: Available start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: employment_type
+      label: Type of employment seeking
+      hint: null
+      type: select_one
+      options:
+      - Full-Time
+      - Part-Time
+      - Temporary
+      - Internship
+      - Seasonal
+      required: true
+    - id: 16
+      name: section_header_4
+      label: -- Education --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: highest_education
+      label: Highest level of education
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - Some College
+      - Associate Degree
+      - Bachelor Degree
+      - Master Degree
+      - Ph.D.
+      - Other
+      required: true
+    - id: 18
+      name: school_name
+      label: School/University attended
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: field_of_study
+      label: Field of study or major
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: graduation_date
+      label: Graduation date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: section_header_5
+      label: -- Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: years_experience
+      label: Years of relevant experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: previous_employers
+      label: List previous employers (last 3)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: section_header_6
+      label: -- Skills and Qualifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: key_skills
+      label: Key skills relevant to position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: certifications
+      label: Professional certifications or licenses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: software_skills
+      label: Software or technical skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: section_header_7
+      label: -- Document Upload --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: resume_cv
+      label: Resume or CV file
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: cover_letter
+      label: Cover letter (optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: section_header_8
+      label: -- Final Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: willing_background_check
+      label: Willing to undergo background check?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 33
+      name: application_agreement
+      label: I certify all information is accurate and complete
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true

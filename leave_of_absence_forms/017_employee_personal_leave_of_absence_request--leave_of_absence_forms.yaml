@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Personal Leave Of Absence Request
+    pages:
+    - id: 1
+      name: leave_request
+      label: Leave Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: leave_type
+      label: leavetype
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Vacation''}'
+      - '{''id'': 2, ''label'': ''sickleave''}'
+      - '{''id'': 3, ''label'': ''bereavement''}'
+      - '{''id'': 4, ''label'': ''juryduty''}'
+      - '{''id'': 5, ''label'': ''other''}'
+      required: false
+    - id: 3
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: duration_days
+      label: duration_days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: employee_name
+      label: employeename
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: leave_request_status
+      label: leavestatus
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''pending''}'
+      - '{''id'': 2, ''label'': ''approved''}'
+      - '{''id'': 3, ''label'': ''rejected''}'
+      - '{''id'': 4, ''label'': ''cancelled''}'
+      - '{''id'': 5, ''label'': ''declined''}'
+      required: false
+    - id: 10
+      name: approver
+      label: approver
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''manager''}'
+      - '{''id'': 2, ''label'': ''director''}'
+      required: false
+    - id: 11
+      name: approver_name
+      label: approvername
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: leave_request_date
+      label: leaverequestdate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: manager_name
+      label: managername
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: department_name
+      label: departname
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: manager_email
+      label: manageremail
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: manager_phone
+      label: managernumber
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: approver_email
+      label: approveremail
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: approver_phone
+      label: approvernnumber
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: leave_request_notes
+      label: leaverequestnotes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: approver_comments
+      label: approvercomments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: approval_date
+      label: approvaldate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: approved_by
+      label: approvedby
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''manager''}'
+      - '{''id'': 2, ''label'': ''director''}'
+      required: false
+    - id: 23
+      name: approval_time
+      label: approvaltime
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: approver_time
+      label: approvern
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: leave_request_reason
+      label: leaverequestreason
+      hint: null
+      type: text
+      options: []
+      required: false

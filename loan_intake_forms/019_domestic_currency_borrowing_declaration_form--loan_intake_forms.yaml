@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Domestic Currency Borrowing Declaration Form
+    pages:
+    - id: 1
+      name: domestic_currency_borrowing
+      label: domestic_currency_borrowing
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: borrower_name
+      label: borrower_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: borrowing_date
+      label: borrowing_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: borrowing_amount
+      label: borrowing_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: borrower_contact_info
+      label: borrower_contact_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: purpose_of_borrowing
+      label: purpose_of_borrowing
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: collateral
+      label: collateral
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: collateral_amount
+      label: collateral_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: interest_rate
+      label: interest_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: loan_agreement_signed
+      label: loan_agreement_signed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false

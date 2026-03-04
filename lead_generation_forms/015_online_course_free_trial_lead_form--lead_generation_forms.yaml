@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Course Free Trial Lead Form
+    pages:
+    - id: 1
+      name: user_input
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: course_interest
+      label: What course are you interested in?
+      hint: null
+      type: select_one
+      options:
+      - Art
+      - Business
+      - Computer Science
+      - Education
+      - Health
+      - History
+      - Math
+      - Science
+      - Social Science
+      - Technology
+      required: false
+    - id: 7
+      name: preferred_language
+      label: What language is your preferred course language?
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - French
+      - Spanish
+      - Chinese
+      - Japanese
+      - Korean
+      - German
+      - Portuguese
+      - Italian
+      - Dutch
+      required: false
+    - id: 8
+      name: follow_up_email
+      label: How would you like to be contacted?
+      hint: null
+      type: select_one
+      options:
+      - Yes, email me for follow-up
+      - 'False'
+      - Yes, phone me for follow-up
+      required: false

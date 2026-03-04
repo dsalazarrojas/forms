@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legal Counsel Claim Submission
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address_line_1
+      label: Address Line 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address_line_2
+      label: Address Line 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: state
+      label: State
+      hint: null
+      type: select_multiple
+      options:
+      - AK
+      - AL
+      - AR
+      - AZ
+      - CA
+      - CO
+      - CT
+      - FL
+      - GA
+      - IL
+      - IN
+      - LA
+      - MA
+      - MD
+      - MI
+      - MS
+      - MO
+      - MT
+      - NC
+      - NV
+      - NY
+      - OH
+      - OK
+      - OR
+      - PA
+      - SC
+      - SD
+      - TN
+      - TX
+      - UT
+      - VA
+      - WA
+      - WV
+      - WY
+      required: false
+    - id: 8
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: claim_type
+      label: Claim Type
+      hint: null
+      type: select_one
+      options:
+      - Claimant
+      - Defendant
+      - Attorney
+      required: true
+    - id: 10
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false

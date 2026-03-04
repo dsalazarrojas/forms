@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Surgery Recovery Leave Of Absence Request
+    pages:
+    - id: 1
+      name: surgery_recovery_leave_of_absence_request_form
+      label: Surgery Recovery Leave Of Absence Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: surgery_type
+      label: Surgery Type
+      hint: null
+      type: select_one
+      options:
+      - Hip replacement
+      - Knee replacement
+      - Other
+      required: false
+    - id: 7
+      name: recovery_period
+      label: Recovery Period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: return_to_work_date
+      label: Return To Work Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: reason_for_absence
+      label: Reason For Absence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - Approve
+      - Disapprove
+      required: true
+    - id: 11
+      name: supervisor_approval
+      label: Supervisor Approval
+      hint: null
+      type: select_one
+      options:
+      - Approve
+      - Disapprove
+      required: true
+    - id: 12
+      name: hr_approval
+      label: HR Approval
+      hint: null
+      type: select_one
+      options:
+      - Approve
+      - Disapprove
+      required: true
+    - id: 13
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false

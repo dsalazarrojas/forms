@@ -1,0 +1,115 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Tool Access Request Form
+    pages:
+    - id: 1
+      name: requester_full_name
+      label: Requester Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: work_email
+      label: Work Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: tool_requested
+      label: Tool Requested
+      hint: Select the software system
+      type: select_one
+      options:
+      - NetSuite
+      - QuickBooks Online
+      - SAP
+      - Sage Intacct
+      - BlackLine
+      required: true
+    - id: 5
+      name: access_type
+      label: Access Type
+      hint: null
+      type: select_one
+      options:
+      - New Account
+      - Change Permissions
+      - Password Reset
+      - Deactivate Account
+      required: true
+    - id: 6
+      name: requested_access_level
+      label: Requested Access Level
+      hint: null
+      type: select_one
+      options:
+      - Standard User
+      - Power User
+      - Read-Only
+      - Admin
+      required: true
+    - id: 7
+      name: business_justification_for_access
+      label: Business Justification for Access
+      hint: Why is this access required?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: access_start_date
+      label: Access Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: access_expiry_date
+      label: Access Expiry Date
+      hint: Leave blank for permanent access
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: manager_approval_name
+      label: Manager Approval Name
+      hint: Name of authorizing manager
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: security_policy_header
+      label: -- IT Security Policy --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: policy_agreement
+      label: I agree to use the tool in compliance with security policies
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true

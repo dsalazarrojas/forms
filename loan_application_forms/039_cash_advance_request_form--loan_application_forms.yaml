@@ -1,0 +1,373 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cash Advance Request Form
+    pages:
+    - id: 1
+      name: request_header
+      label: Cash Advance Request Form
+      hint: Request an advance on salary or wages
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: request_id
+      label: Request ID Number
+      hint: Reference number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: request_date
+      label: Request Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: employee_info
+      label: Employee Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: employee_name
+      label: Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: employee_id
+      label: Employee ID Number
+      hint: Employee number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: position_title
+      label: Position Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: hire_date
+      label: Hire Date
+      hint: When you started
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: employment_status
+      label: Employment Status
+      hint: Current status
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Temporary
+      - Contract
+      - Seasonal
+      required: true
+    - id: 11
+      name: manager_name
+      label: Manager or Supervisor Name
+      hint: Direct supervisor
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: manager_email
+      label: Manager Email
+      hint: Supervisor email
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: advance_details
+      label: Advance Details
+      hint: Request specifics
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: advance_amount
+      label: Amount Requested
+      hint: Dollar amount
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: advance_reason
+      label: Reason for Request
+      hint: Why you need advance
+      type: select_one
+      options:
+      - Medical emergency
+      - Family emergency
+      - Travel expenses
+      - Relocation costs
+      - Education expenses
+      - Unexpected bills
+      - Other personal emergency
+      - Other
+      required: true
+    - id: 16
+      name: reason_details
+      label: Detailed Explanation
+      hint: More information
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: repayment_preference
+      label: Preferred Repayment Method
+      hint: How to repay
+      type: select_one
+      options:
+      - Single payroll deduction
+      - Multiple payroll deductions
+      - Direct repayment
+      - Other arrangement
+      required: true
+    - id: 18
+      name: repayment_terms
+      label: Repayment Terms
+      hint: Payback plan
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: number_of_deductions
+      label: Number of Pay Periods
+      hint: How many deductions
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: deduction_amount
+      label: Amount Per Deduction
+      hint: Per pay period
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: first_deduction_date
+      label: First Deduction Date
+      hint: When to start
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: previous_advances
+      label: Have You Had Previous Advances
+      hint: Prior history
+      type: select_one
+      options:
+      - No - first request
+      - Yes - one previous
+      - Yes - multiple
+      required: true
+    - id: 23
+      name: previous_advance_dates
+      label: Previous Advance Dates
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: outstanding_balance
+      label: Outstanding Balance from Previous Advances
+      hint: If any
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: salary_info
+      label: Salary Information
+      hint: Compensation details
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: gross_salary
+      label: Gross Monthly Salary
+      hint: Before deductions
+      type: number
+      options: []
+      required: true
+    - id: 27
+      name: net_salary
+      label: Net Monthly Salary
+      hint: After deductions
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: pay_frequency
+      label: Pay Frequency
+      hint: How often paid
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Semi-monthly
+      - Monthly
+      required: true
+    - id: 29
+      name: next_pay_date
+      label: Next Pay Date
+      hint: Upcoming payday
+      type: date
+      options: []
+      required: false
+    - id: 30
+      name: urgency
+      label: Urgency of Request
+      hint: How soon needed
+      type: select_one
+      options:
+      - Emergency - within 24 hours
+      - Urgent - within 3 days
+      - Soon - within 1 week
+      - Normal - within 2 weeks
+      required: true
+    - id: 31
+      name: needed_by_date
+      label: Date Needed By
+      hint: Deadline
+      type: date
+      options: []
+      required: true
+    - id: 32
+      name: supporting_documents
+      label: Supporting Documents
+      hint: Documentation
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: documents_attached
+      label: Documents Attached
+      hint: What you included
+      type: select_multiple
+      options:
+      - None
+      - Medical bills
+      - Travel itinerary
+      - Invoice or bill
+      - Emergency documentation
+      - Other proof
+      required: false
+    - id: 34
+      name: document_list
+      label: List of Attached Documents
+      hint: If any
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: authorization
+      label: Authorization
+      hint: Agreements
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: repayment_authorization
+      label: I Authorize Payroll Deduction for Repayment
+      hint: Deduction permission
+      type: select_one
+      options:
+      - Yes - I authorize
+      - No - other arrangement
+      required: true
+    - id: 37
+      name: terms_understood
+      label: I Understand the Terms and Conditions
+      hint: Agreement acknowledgment
+      type: select_one
+      options:
+      - Yes - I understand
+      - No - need explanation
+      required: true
+    - id: 38
+      name: accuracy_confirmation
+      label: I Confirm All Information Is Accurate
+      hint: Truthfulness
+      type: select_one
+      options:
+      - Yes - all accurate
+      - Yes - to best of knowledge
+      - No - some incorrect
+      required: true
+    - id: 39
+      name: employee_signature
+      label: Employee Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true
+    - id: 40
+      name: approval_section
+      label: Approval Section
+      hint: For management use
+      type: note
+      options: []
+      required: false
+    - id: 41
+      name: manager_approval
+      label: Manager Approval Status
+      hint: Decision
+      type: select_one
+      options:
+      - Approved
+      - Approved with modifications
+      - Denied
+      - Pending review
+      required: false
+    - id: 42
+      name: manager_comments
+      label: Manager Comments
+      hint: Notes
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: manager_signature_date
+      label: Manager Signature Date
+      hint: Date approved
+      type: date
+      options: []
+      required: false
+    - id: 44
+      name: hr_approval
+      label: HR Approval Status
+      hint: HR decision
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending
+      - Not required
+      required: false
+    - id: 45
+      name: finance_approval
+      label: Finance Approval Status
+      hint: Finance decision
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending
+      - Not required
+      required: false

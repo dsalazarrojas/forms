@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Review Absence Form
+    pages:
+    - id: 1
+      name: performance_review_absence_form
+      label: Performance Review Absence Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: absence_date
+      label: Absence Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: absence_hours
+      label: Absence Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: absence_description
+      label: Absence Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: absence_start_time
+      label: Absence Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: absence_end_time
+      label: Absence End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: absence_start_date
+      label: Absence Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: absence_end_date
+      label: Absence End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: absence_length
+      label: Absence Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: absence_type
+      label: Absence Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: absence_reason
+      label: Absence Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: supervisor_approval
+      label: Supervisor Approval
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Director
+      - HR
+      required: false

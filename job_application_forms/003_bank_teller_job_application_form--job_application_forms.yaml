@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bank Teller Job Application Form
+    pages:
+    - id: 1
+      name: section_personal_information
+      label: -- Personal Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your legal full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Provide a current email for contact
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Include country code if applicable
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: residential_address
+      label: Residential Address
+      hint: Street address, city, state, postal code
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: position_applied_for
+      label: Position Applied For
+      hint: Specify the role you are applying to
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: desired_salary
+      label: Desired Salary
+      hint: Annual amount in local currency
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: available_start_date
+      label: Available Start Date
+      hint: When could you begin employment
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: education_level
+      label: Highest Education Level
+      hint: Select your highest completed qualification
+      type: select_one
+      options:
+      - High school diploma
+      - Associate degree
+      - Bachelor degree
+      - Master degree
+      - Doctorate
+      required: true
+    - id: 10
+      name: previous_experience
+      label: Previous Work Experience
+      hint: Brief summary of relevant experience
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: references
+      label: Professional References
+      hint: Names and contact details of two references
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: resume_link
+      label: Resume or CV Link
+      hint: Provide a link to an online resume or portfolio
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: authorization_note
+      label: Authorization to Verify Information
+      hint: By submitting you consent to background checks where permitted
+      type: note
+      options: []
+      required: true

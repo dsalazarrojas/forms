@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Security Plan Deviation Request Form
+    pages:
+    - id: 1
+      name: requester
+      label: Requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: requester_email
+      label: Requester's Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requester_phone
+      label: Requester's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: risk_context
+      label: Risk Context
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reviewer
+      label: Reviewer
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''IT'', ''label'': ''IT''}'
+      - '{''id'': 2, ''name'': ''Operations'', ''label'': ''Operations''}'
+      - '{''id'': 3, ''name'': ''Management'', ''label'': ''Management''}'
+      required: true
+    - id: 6
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false

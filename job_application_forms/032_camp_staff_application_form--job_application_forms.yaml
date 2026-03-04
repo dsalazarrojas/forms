@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Staff Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Full Name
+      hint: Legal name for employment records
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Email used for recruitment correspondence
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: position_applied_for
+      label: Position Applied For
+      hint: Role or duties applicant is seeking
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: availability_dates
+      label: Availability Dates
+      hint: Dates or range the applicant is available
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: prior_experience
+      label: Prior Experience
+      hint: Summary of relevant experience
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: references
+      label: References
+      hint: Names and contact details for references
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: certifications
+      label: Certifications or Qualifications
+      hint: First aid, lifeguard or other credentials
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: background_check_consent
+      label: Consent for Background Check
+      hint: Applicant consent to perform background checks
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information for hiring team
+      type: text
+      options: []
+      required: false

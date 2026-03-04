@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Archaeologist Job Application Form
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: current_address
+      label: Current Address
+      hint: Full mailing address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: willing_to_relocate
+      label: Willing to relocate?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 7
+      name: section_education
+      label: -- Education and Credentials --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: highest_degree
+      label: Highest Degree Earned
+      hint: null
+      type: select_one
+      options:
+      - Bachelor's degree
+      - Master's degree
+      - PhD
+      - Other
+      required: true
+    - id: 9
+      name: degree_field
+      label: Field of Study
+      hint: Archaeology or related field
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: university_name
+      label: University or Institution Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: graduation_year
+      label: Graduation Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: certifications
+      label: Professional Certifications
+      hint: List any relevant certifications
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_experience
+      label: -- Professional Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: years_experience
+      label: Years of Archaeological Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: primary_specializations
+      label: Primary Specializations
+      hint: null
+      type: select_multiple
+      options:
+      - Historical archaeology
+      - Prehistoric archaeology
+      - Bioarchaeology
+      - Geoarchaeology
+      - Marine archaeology
+      - Industrial archaeology
+      - Laboratory analysis
+      required: true
+    - id: 16
+      name: field_experience_types
+      label: Types of Field Experience
+      hint: null
+      type: select_multiple
+      options:
+      - Excavation
+      - Survey
+      - Cultural resource management
+      - Monitoring
+      - Sampling
+      required: true
+    - id: 17
+      name: geographic_expertise
+      label: Geographic Areas of Expertise
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_technical_skills
+      label: -- Technical Skills --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: gis_proficiency
+      label: GIS Software Proficiency
+      hint: null
+      type: select_one
+      options:
+      - Expert
+      - Proficient
+      - Basic
+      - No experience
+      required: false
+    - id: 20
+      name: documentation_software
+      label: Experience with Documentation Software
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 21
+      name: section_availability
+      label: -- Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: available_start_date
+      label: Available Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: field_season_available
+      label: Available for field seasons?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Flexible
+      required: true

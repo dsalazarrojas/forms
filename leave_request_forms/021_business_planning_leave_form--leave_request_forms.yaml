@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Planning Leave Form
+    pages:
+    - id: 1
+      name: section_employee_info
+      label: -- Employee Information --
+      type: note
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: Your full name
+      type: text
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: Your unique employee number
+      type: text
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department or team
+      type: text
+      required: true
+    - id: 5
+      name: manager_name
+      label: Manager Name
+      hint: Your direct supervisor
+      type: text
+      required: true
+    - id: 6
+      name: section_leave_details
+      label: -- Leave Details --
+      type: note
+      required: false
+    - id: 7
+      name: leave_start_date
+      label: Leave Start Date
+      hint: First day of requested leave
+      type: date
+      required: true
+    - id: 8
+      name: leave_end_date
+      label: Leave End Date
+      hint: Last day of requested leave
+      type: date
+      required: true
+    - id: 9
+      name: number_of_days
+      label: Number of Days Requested
+      hint: Total working days of leave
+      type: number
+      required: true
+    - id: 10
+      name: leave_type
+      label: Type of Leave
+      hint: Category of leave
+      type: select_one
+      options:
+      - Paid Time Off
+      - Unpaid Leave
+      - Sabbatical
+      - Business Planning Leave
+      - Professional Development
+      required: true
+    - id: 11
+      name: section_planning_purpose
+      label: -- Planning Purpose --
+      type: note
+      required: false
+    - id: 12
+      name: planning_objectives
+      label: Business Planning Objectives
+      hint: What will you accomplish during this leave
+      type: text
+      required: true
+    - id: 13
+      name: planning_focus_areas
+      label: Planning Focus Areas
+      hint: Select all relevant areas
+      type: select_multiple
+      options:
+      - Strategic Planning
+      - Financial Analysis
+      - Market Research
+      - Product Development
+      - Organizational Structure
+      - Growth Strategy
+      required: true
+    - id: 14
+      name: expected_outcomes
+      label: Expected Outcomes
+      hint: What will you deliver after this leave
+      type: text
+      required: false
+    - id: 15
+      name: section_coverage
+      label: -- Coverage Plan --
+      type: note
+      required: false
+    - id: 16
+      name: coverage_arrangements
+      label: Coverage Arrangements During Leave
+      hint: How will your work be covered
+      type: text
+      required: true
+    - id: 17
+      name: backup_contact
+      label: Backup Contact Person
+      hint: Who should handle urgent matters
+      type: text
+      required: true
+    - id: 18
+      name: backup_contact_details
+      label: Backup Contact Phone or Email
+      hint: How to reach the backup contact
+      type: text
+      required: false
+    - id: 19
+      name: section_approval
+      label: -- Approval Status --
+      type: note
+      required: false
+    - id: 20
+      name: manager_approval
+      label: Manager Approval
+      hint: Has your manager approved this leave
+      type: select_one
+      options:
+      - Approved
+      - Pending Approval
+      - Needs Discussion
+      - Not Approved
+      required: false
+    - id: 21
+      name: approval_date
+      label: Approval Date
+      hint: When was this leave approved
+      type: date
+      required: false

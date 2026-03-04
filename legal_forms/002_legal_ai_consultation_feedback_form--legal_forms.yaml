@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legal AI Consultation Feedback Form
+    pages:
+    - id: 1
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: feedback_details
+      label: Feedback Details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: expected_solution
+      label: Expected Solution
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: actual_solutions
+      label: Actual Solutions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: true
+    - id: 7
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: attachments
+      label: Attachments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: more_information
+      label: More Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: more_attachments
+      label: More Attachments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Industrial Software Integration Registration Form
+    pages:
+    - id: 1
+      name: main_info
+      label: Company Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Write in full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: software_name
+      label: Software Name
+      hint: Enter software name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: environment_name
+      label: Environment Name
+      hint: Enter name of environment where software will be used
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: integration_requirements
+      label: Integration Requirements
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: technical_environment
+      label: Technical Environment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: integration_technology
+      label: Integration Technology
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: company_email
+      label: Email
+      hint: Enter company email
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: integration_contact
+      label: Integration Contact
+      hint: Enter integration contact name and email
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: integration_contact_email
+      label: Contact Email
+      hint: Enter contact email
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: integration_contact_phone
+      label: Contact Phone
+      hint: Enter contact phone
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: software_version
+      label: Software Version
+      hint: Enter software version
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: integration_status
+      label: Integration Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 16
+      name: integration_notes
+      label: Integration Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: software_license
+      label: Software License
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: integration_comments
+      label: Integration Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: technical_notes
+      label: Technical Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: technical_requirements
+      label: Technical Requirements
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: integration_technology_version
+      label: Integration Technology Version
+      hint: Enter integration technology version
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: integration_type
+      label: Integration Type
+      hint: Enter integration type
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: integration_url
+      label: Integration URL
+      hint: Enter integration url
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: technical_support
+      label: Technical Support
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

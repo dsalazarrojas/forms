@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Application Form For Qualified Drivers
+    pages:
+    - id: 1
+      name: job_application_form_for_qualified_drivers_page
+      label: Driver Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: driver_education
+      label: Driver Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: driver_training
+      label: Driver Training
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: driver_employment_history
+      label: Driver Employment History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: driver_employment_history_length
+      label: How Long Were You Employed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: driver_education_level
+      label: Educational Level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High School Diploma''}'
+      - '{''label'': ''Some College''}'
+      - '{''label'': "Bachelor''s"}'
+      - '{''label'': "Master''s"}'
+      - '{''label'': ''Doctoral''}'
+      required: true
+    - id: 7
+      name: driver_license
+      label: Driving License
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 8
+      name: driver_experience
+      label: Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: driver_reference
+      label: Reference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: driver_employment_history_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: driver_employment_history_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: driver_employment_history_employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Inactive''}'
+      - '{''label'': ''Retired''}'
+      required: false

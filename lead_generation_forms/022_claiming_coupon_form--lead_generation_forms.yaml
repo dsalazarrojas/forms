@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Claiming Coupon Form
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Where we will send your coupon code
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: For order updates
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: industry
+      label: Industry
+      hint: Select your industry
+      type: select_one
+      options:
+      - Retail
+      - Technology
+      - Healthcare
+      - Finance
+      - Education
+      - Manufacturing
+      - Hospitality
+      - Professional Services
+      - Other
+      required: false
+    - id: 7
+      name: coupon_type
+      label: Select Your Coupon
+      hint: Choose your discount offer
+      type: select_one
+      options:
+      - 10 percent off first order
+      - 25 percent off first order
+      - 15 dollars off 50 dollars or more
+      - Free shipping
+      - Buy 2 get 1 free
+      - Free gift with purchase
+      required: true
+    - id: 8
+      name: interest_level
+      label: How Interested Are You in Our Products
+      hint: Select your interest level
+      type: select_one
+      options:
+      - Very interested
+      - Somewhat interested
+      - Neutral
+      - Just browsing
+      required: true
+    - id: 9
+      name: purchase_timeframe
+      label: When Do You Plan to Make a Purchase
+      hint: Select your timeframe
+      type: select_one
+      options:
+      - Within 24 hours
+      - Within a week
+      - Within a month
+      - Just saving for later
+      - Not sure
+      required: true
+    - id: 10
+      name: budget_range
+      label: What Is Your Typical Order Budget
+      hint: Select your budget range
+      type: select_one
+      options:
+      - Under 50 dollars
+      - 50 to 100 dollars
+      - 100 to 250 dollars
+      - 250 to 500 dollars
+      - Over 500 dollars
+      required: false
+    - id: 11
+      name: product_interest
+      label: Which Products Interest You
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Product line A
+      - Product line B
+      - Product line C
+      - Services
+      - Bundles
+      - New arrivals
+      - Sale items
+      required: false
+    - id: 12
+      name: how_heard
+      label: How Did You Find Us
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Google search
+      - Social media
+      - Friend referral
+      - Email campaign
+      - Online ad
+      - Blog or article
+      - In-store visit
+      - Other
+      required: true
+    - id: 13
+      name: referral_name
+      label: Who Referred You
+      hint: Friend or colleague name
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: mailing_list
+      label: Join Our Mailing List
+      hint: Get exclusive deals and updates
+      type: select_one
+      options:
+      - Yes, please
+      - No, thank you
+      required: true
+    - id: 15
+      name: contact_preference
+      label: Preferred Contact Method
+      hint: For follow-up
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text message
+      - No contact needed
+      required: true
+    - id: 16
+      name: special_occasion
+      label: Is There a Special Occasion
+      hint: Birthday, anniversary, holiday
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Anything else you would like to share
+      type: text
+      options: []
+      required: false

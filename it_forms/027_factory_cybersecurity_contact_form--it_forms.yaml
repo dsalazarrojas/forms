@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory Cybersecurity Contact Form
+    pages:
+    - id: 1
+      name: report_security_issue
+      label: Report Security Issue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: submit_incident_details
+      label: Incident Details
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: share_file
+      label: Share File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: select_one_issue_type
+      label: Select One Issue Type
+      hint: null
+      type: select_one
+      options:
+      - Security Incident
+      - Compliance Issue
+      - Data Protection
+      - Other
+      required: false
+    - id: 5
+      name: select_multiple_issue_categories
+      label: Select Multiple Issue Categories
+      hint: null
+      type: select_multiple
+      options:
+      - Security
+      - Compliance
+      - Data Protection
+      - Other
+      required: false
+    - id: 6
+      name: share_phone
+      label: Share Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: share_email
+      label: Share Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Librarian Job Application Form
+    pages:
+    - id: 1
+      name: section_applicant_info
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Legal name as on records
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: Contact for application updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: Best phone number to reach you
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: current_employer
+      label: Current employer
+      hint: Institution or organization
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: qualifications
+      label: Qualifications and certifications
+      hint: Degrees and relevant credentials
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: experience_summary
+      label: Summary of relevant experience
+      hint: Brief description of library experience
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: references
+      label: References
+      hint: Names and contact details for references
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: cover_letter
+      label: Cover letter summary
+      hint: Short summary or paste of cover letter
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: portfolio_or_publications
+      label: Portfolio or publications
+      hint: List or links to examples of work
+      type: text
+      options: []
+      required: false

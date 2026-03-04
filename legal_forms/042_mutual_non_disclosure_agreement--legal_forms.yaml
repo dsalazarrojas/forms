@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mutual Non-Disclosure Agreement
+    pages:
+    - id: 1
+      name: agreement_type
+      label: Select Agreement Type
+      hint: null
+      type: select_one
+      options:
+      - Non-Disclosure Agreement
+      - Non-Compete Agreement
+      - Confidentiality Agreement
+      required: false
+    - id: 2
+      name: non_disclosure_duration
+      label: Non-Disclosure Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: non_disclosure_start_date
+      label: Non-Disclosure Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: non_disclosure_end_date
+      label: Non-Disclosure End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: confidential_information
+      label: Confidential Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: non_disclosure_scope
+      label: Non-Disclosure Scope
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: non_disclosure_purpose
+      label: Non-Disclosure Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: non_disclosure_obligations
+      label: Non-Disclosure Obligations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: confidential_matters
+      label: Confidential Matters
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: non_disclosure_terms
+      label: Non-Disclosure Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: agreement_terms
+      label: Agreement Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: signatories
+      label: Signatories
+      hint: null
+      type: select_multiple
+      options:
+      - Signatory 1
+      - Signatory 2
+      - Signatory 3
+      - Signatory 4
+      - Signatory 5
+      required: false
+    - id: 13
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: signature_time
+      label: Signature Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: signature_location
+      label: Signature Location
+      hint: null
+      type: text
+      options: []
+      required: false

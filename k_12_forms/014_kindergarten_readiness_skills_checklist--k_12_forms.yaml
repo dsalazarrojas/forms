@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kindergarten Readiness Skills Checklist
+    pages:
+    - id: 1
+      name: preschooler_info
+      label: Preschooler Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: social_skills
+      label: Social Skills
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: language_skills
+      label: Language Skills
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: fine_motor_skills
+      label: Fine Motor Skills
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: gross_motor_skills
+      label: Gross Motor Skills
+      hint: null
+      type: select_one
+      options:
+      - Riding a bike
+      - Dancing
+      - Jumping
+      - Playing ball
+      required: true
+    - id: 6
+      name: emotional_skills
+      label: Emotional Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Calm
+      - Angry
+      - Happy
+      - Sad
+      - Frustrated
+      required: true
+    - id: 7
+      name: math_skills
+      label: Math Skills
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: reading_skills
+      label: Reading Skills
+      hint: null
+      type: select_one
+      options:
+      - Reading
+      - Non-Reader
+      required: true
+    - id: 9
+      name: writing_skills
+      label: Writing Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Writing
+      - Non-Writer
+      required: true
+    - id: 10
+      name: science_skills
+      label: Science Skills
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: social_emotional_skills
+      label: Social-Emotional Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Self-Aware
+      - Self-Regulation
+      - Social Skills
+      required: true
+    - id: 12
+      name: physical_skills
+      label: Physical Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Dancing
+      - Jumping
+      - Running
+      required: true
+    - id: 13
+      name: art_creativity_skills
+      label: Art-Creativity Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Artistic
+      - Musical
+      - Dramatic
+      required: false
+    - id: 14
+      name: self_concept_skills
+      label: Self-Concept Skills
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: communication_skills
+      label: Communication Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Verbal
+      - Nonverbal
+      required: true

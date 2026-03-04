@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Debt Bankruptcy Discharge Eligibility Intake Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: tax_id_number
+      label: Tax ID Number
+      hint: Enter your tax ID number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: case_type
+      label: Case Type
+      hint: Select the type of case
+      type: select_one
+      options:
+      - 'Bankruptcy: Chapter 13'
+      - 'Bankruptcy: Chapter 11'
+      - Other
+      - Unknown
+      required: false
+    - id: 5
+      name: bankruptcy_status
+      label: Bankruptcy Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Dismissed
+      - Discharge Granted
+      - Discharge Denied
+      required: false
+    - id: 6
+      name: tax_year
+      label: Tax Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: tax_debt_amount
+      label: Tax Debt Amount
+      hint: Enter the total tax debt
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: case_opening_date
+      label: Case Opening Date
+      hint: Select the date of case opening
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: case_type_other
+      label: Other Case Type
+      hint: If other select 'other'
+      type: select_one
+      options:
+      - Other
+      - Unknown
+      required: false
+    - id: 11
+      name: case_status
+      label: Case Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Closed
+      - Dismissed
+      - Discharge Granted
+      - Discharge Denied
+      required: false
+    - id: 12
+      name: income_verification_method
+      label: Income Verification Method
+      hint: null
+      type: select_one
+      options:
+      - Income Verification
+      - Other
+      required: false

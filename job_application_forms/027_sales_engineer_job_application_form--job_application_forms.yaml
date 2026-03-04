@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Engineer Job Application Form
+    pages:
+    - id: 1
+      name: job_applicant_info
+      label: job_applicant_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''John Doe''}'
+      - '{''id'': 2, ''name'': ''Jane Doe''}'
+      - '{''id'': 3, ''name'': ''Jim Doe''}'
+      required: false
+    - id: 3
+      name: work_history
+      label: work_history
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''1-5 years''}'
+      - '{''id'': 2, ''name'': ''5-10 years''}'
+      - '{''id'': 3, ''name'': ''10+ years''}'
+      required: true
+    - id: 4
+      name: education
+      label: education
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': "Bachelor''s"}'
+      - '{''id'': 2, ''name'': "Master''s"}'
+      - '{''id'': 3, ''name'': ''PhD''}'
+      required: true
+    - id: 5
+      name: skills
+      label: skills
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Sales''}'
+      - '{''id'': 2, ''name'': ''Technical''}'
+      - '{''id'': 3, ''name'': ''Communication''}'
+      required: true
+    - id: 6
+      name: resume
+      label: resume
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: background_check
+      label: background_check
+      hint: Please enter a background check number
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: job_title
+      label: job_title
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Sales Engineer''}'
+      - '{''id'': 2, ''name'': ''Software Engineer''}'
+      - '{''id'': 3, ''name'': ''Mechanical Engineer''}'
+      required: true
+    - id: 9
+      name: job_description
+      label: job_description
+      hint: Please provide a brief description of the job position
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: job_location
+      label: job_location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''USA''}'
+      - '{''id'': 2, ''name'': ''Canada''}'
+      - '{''id'': 3, ''name'': ''Mexico''}'
+      required: true
+    - id: 11
+      name: job_type
+      label: job_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Full-time''}'
+      - '{''id'': 2, ''name'': ''Part-time''}'
+      - '{''id'': 3, ''name'': ''Remote''}'
+      required: false
+    - id: 12
+      name: job_status
+      label: job_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Active''}'
+      - '{''id'': 2, ''name'': ''Inactive''}'
+      - '{''id'': 3, ''name'': ''Onboarding''}'
+      required: true
+    - id: 13
+      name: job_start_date
+      label: job_start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: job_end_date
+      label: job_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: contact
+      label: contact
+      hint: Please enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: company_website
+      label: company_website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: job_salary
+      label: job_salary
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: job_salary_frequency
+      label: job_salary_frequency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: benefits
+      label: benefits
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      - '{''id'': 3, ''name'': ''Not Specified''}'
+      required: true
+    - id: 21
+      name: job_status_update
+      label: job_status_update
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: job_status_update_frequency
+      label: job_status_update_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: job_status_update_date
+      label: job_status_update_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_confirmation
+      label: submission_confirmation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: true

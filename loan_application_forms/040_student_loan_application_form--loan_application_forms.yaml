@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Loan Application Form
+    pages:
+    - id: 1
+      name: student_loan_application_form
+      label: Student Loan Application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: loan_term
+      label: Loan Term
+      hint: null
+      type: select_one
+      options:
+      - 2 year
+      - 4 year
+      - 6 year
+      required: false
+    - id: 4
+      name: monthly_payment
+      label: Monthly Payment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: interest_rate
+      label: Interest Rate
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Law Intake Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Client Phone Number
+      hint: A phone number in the format XXX-XXX-XXXX
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: Physical mailing address of the client
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Client's date of birth in YYYY-MM-DD format
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Self-Employed
+      - Unemployed
+      required: false
+    - id: 7
+      name: family_member_1
+      label: Family Member 1
+      hint: List the names of all family members in the household
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Joe
+      required: false
+    - id: 8
+      name: family_member_2
+      label: Family Member 2
+      hint: List the names of all family members in the household
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Joe
+      required: false

@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cable Service Free Trial Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: street_address
+      label: Street Address
+      hint: Your home address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State
+      hint: Your state or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: ZIP Code
+      hint: Your postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: service_availability_check
+      label: Service Availability Check
+      hint: We will verify service availability at your address
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: trial_package_interest
+      label: Trial Package Interest
+      hint: Which package interests you
+      type: select_one
+      options:
+      - Basic cable - 50 channels
+      - Standard - 100 channels
+      - Premium - 200 channels
+      - Ultimate - 300 plus channels
+      - Sports package
+      - Movie package
+      required: true
+    - id: 11
+      name: internet_bundle
+      label: Internet Bundle Interest
+      hint: Would you like to add high-speed internet
+      type: select_one
+      options:
+      - No thanks, cable only
+      - Yes, 100 Mbps
+      - Yes, 500 Mbps
+      - Yes, 1 Gbps
+      - Maybe, need more info
+      required: false
+    - id: 12
+      name: phone_bundle
+      label: Home Phone Bundle
+      hint: Would you like to add home phone service
+      type: select_one
+      options:
+      - No thanks
+      - Yes, basic line
+      - Yes, with unlimited calling
+      - Maybe, need more info
+      required: false
+    - id: 13
+      name: current_provider
+      label: Current TV Provider
+      hint: Who is your current provider if any
+      type: select_one
+      options:
+      - Comcast Xfinity
+      - DirecTV
+      - Dish Network
+      - Spectrum
+      - Cox
+      - None
+      - Other
+      required: false
+    - id: 14
+      name: satisfaction_with_current
+      label: Satisfaction with Current Service
+      hint: How satisfied are you with current provider
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 15
+      name: reason_for_switching
+      label: Reason for Considering Switch
+      hint: Why are you looking for new service
+      type: select_multiple
+      options:
+      - Better price
+      - More channels
+      - Better customer service
+      - Faster internet
+      - Better picture quality
+      - Contract ended
+      - Moving to new home
+      - Other
+      required: false
+    - id: 16
+      name: preferred_installation_date
+      label: Preferred Installation Date
+      hint: When would you like installation
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: preferred_contact_time
+      label: Preferred Contact Time
+      hint: When is best to contact you
+      type: select_one
+      options:
+      - Morning 8am-12pm
+      - Afternoon 12pm-5pm
+      - Evening 5pm-8pm
+      - Anytime
+      required: false
+    - id: 18
+      name: trial_terms_acceptance
+      label: Trial Terms Acceptance
+      hint: Free trial converts to paid subscription after trial period
+      type: select_one
+      options:
+      - I understand and accept
+      - Need more information
+      - Do not accept
+      required: true
+    - id: 19
+      name: marketing_consent
+      label: Marketing Communications
+      hint: May we send you promotional offers
+      type: select_one
+      options:
+      - Yes, email and phone
+      - Email only
+      - No thanks
+      required: false
+    - id: 20
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: Where did you learn about this offer
+      type: select_one
+      options:
+      - Online advertisement
+      - Social media
+      - Friend or family
+      - Mailer
+      - Phone call
+      - Website search
+      - Other
+      required: false
+    - id: 21
+      name: additional_questions
+      label: Additional Questions
+      hint: Any questions or special requests
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: parental_leave_request_form
+    pages:
+    - id: 1
+      name: parental_leave_request_form_page_1
+      label: request_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parental_leave_request_form_page_1
+      label: leave_reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parental_leave_request_form_page_1
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: parental_leave_request_form_page_1
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: parental_leave_request_form_page_1
+      label: parental_leave_duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: parental_leave_request_form_page_1
+      label: leave_type
+      hint: null
+      type: select_one
+      options:
+      - Parental Leave
+      - Adoption Leave
+      required: true
+    - id: 7
+      name: parental_leave_request_form_page_1
+      label: leave_type_details
+      hint: Select the type of parental leave you are requesting.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: parental_leave_request_form_page_1
+      label: leave_request_status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - In Progress
+      - Approved
+      required: true
+    - id: 9
+      name: parental_leave_request_form_page_1
+      label: manager_approval
+      hint: null
+      type: select_one
+      options:
+      - Approve
+      - Disapprove
+      required: true
+    - id: 10
+      name: parental_leave_request_form_page_1
+      label: request_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: parental_leave_request_form_page_1
+      label: request_date_note
+      hint: Select the date and time of the request.
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: parental_leave_request_form_page_1
+      label: manager_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: parental_leave_request_form_page_1
+      label: employee_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: parental_leave_request_form_page_1
+      label: manager_approval_note
+      hint: Add any additional comments for the request.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: parental_leave_request_form_page_1
+      label: approval_status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Disapproved
+      required: true
+    - id: 16
+      name: parental_leave_request_form_page_1
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: parental_leave_request_form_page_1
+      label: attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: parental_leave_request_form_page_1
+      label: attachment_name
+      hint: Attach a file for your manager to review.
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: parental_leave_request_form_page_1
+      label: attachment_comment
+      hint: Add any comments for the attachment.
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Workshop Leave Request Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID or Number
+      hint: Your employee identification
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_email
+      label: Email Address
+      hint: Your work email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: employee_phone
+      label: Phone Number
+      hint: Your contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department or Division
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: manager_name
+      label: Manager Name
+      hint: Name of your direct supervisor
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: workshop_title
+      label: Workshop or Training Title
+      hint: Name of the workshop you plan to attend
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: workshop_description
+      label: Brief Description of Workshop
+      hint: What is this workshop about?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: workshop_organizer
+      label: Workshop Organizer or Provider
+      hint: Organization hosting the workshop
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: workshop_date_start
+      label: Workshop Start Date
+      hint: When does the workshop begin?
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: workshop_date_end
+      label: Workshop End Date
+      hint: When does the workshop end?
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: total_days_needed
+      label: Total Days of Leave Requested
+      hint: Number of working days needed
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: location
+      label: Workshop Location
+      hint: Where will the workshop be held?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: travel_required
+      label: Will Travel Be Required?
+      hint: null
+      type: select_one
+      options:
+      - Yes, domestic travel
+      - Yes, international travel
+      - No travel required
+      required: true
+    - id: 15
+      name: business_justification
+      label: Business Justification
+      hint: Why is attending this workshop important?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: expected_outcomes
+      label: Expected Learning Outcomes
+      hint: What will you gain from this workshop?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: cost_estimate
+      label: Estimated Cost
+      hint: Workshop fee plus travel if applicable
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: cost_covered_by
+      label: How Will the Cost Be Covered?
+      hint: null
+      type: select_one
+      options:
+      - Employee development budget
+      - Department budget
+      - Employee paying personally
+      - External sponsor
+      - Need approval for budget
+      required: true
+    - id: 19
+      name: work_coverage
+      label: Coverage Plan for Responsibilities
+      hint: Who will cover your duties while away?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: manager_approval
+      label: Manager Approval
+      hint: This will be sent to your manager for approval
+      type: note
+      options: []
+      required: false

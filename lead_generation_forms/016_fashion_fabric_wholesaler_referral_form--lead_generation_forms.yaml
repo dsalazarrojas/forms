@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fashion Fabric Wholesaler Referral Form
+    pages:
+    - id: 1
+      name: referral_source
+      label: Referral source
+      hint: Where did you meet our brand?
+      type: select_one
+      options:
+      - Designer
+      - Brand
+      - Manufacturer
+      - Online
+      - Social Media
+      - Trade Show
+      - Other
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Company Email Address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: Business phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: fabric_type
+      label: Type of Fabric
+      hint: Cotton, polyester, etc.
+      type: select_multiple
+      options:
+      - Cotton
+      - Polyester
+      - Synthetic
+      - Other
+      required: false
+    - id: 6
+      name: company_details
+      label: Company details
+      hint: Provide more about your company
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: Company Location (City, State, Country)
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_info
+      label: How would you like to be followed up with?
+      hint: Phone, email, or mail
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Mail
+      required: false
+    - id: 9
+      name: message
+      label: Message
+      hint: Additional notes or message
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

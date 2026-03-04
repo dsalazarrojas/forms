@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tech Industry Developer Job Application
+    pages:
+    - id: 1
+      name: personal_info
+      label: personal-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: resume_upload
+      label: resume-upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: work_experience
+      label: work-experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tech_skills
+      label: tech-skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: education
+      label: education
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: languages
+      label: languages-spoken
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: job_role
+      label: desired-role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: availability
+      label: availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: preferred_work
+      label: preferred-work
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: resume_file
+      label: resume-file
+      hint: null
+      type: text
+      options: []
+      required: false

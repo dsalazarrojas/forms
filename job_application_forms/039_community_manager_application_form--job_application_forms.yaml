@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Manager Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Full Legal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Primary Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Primary Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: linkedin_url
+      label: LinkedIn Profile URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: experience_years
+      label: Total Years of Professional Community Management Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: platform_expertise
+      label: Core Platform Expertise
+      hint: Platforms you have managed at a professional level
+      type: select_multiple
+      options:
+      - Discord and Slack Communities
+      - Facebook Groups and Instagram
+      - Reddit and Large Forums
+      - Professional HOA and Local Community
+      - Discourse and Open-source Forums
+      required: true
+    - id: 7
+      name: conflict_resolution_approach
+      label: Briefly describe your approach to conflict resolution
+      hint: Dealing with difficult members or disputes
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: role_interest
+      label: Why are you interested in this Community Manager role?
+      hint: What motivates you?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: budget_experience
+      label: Do you have experience managing community or project budgets?
+      hint: null
+      type: select_one
+      options:
+      - Yes, extensive experience
+      - Yes, limited experience
+      - No prior experience
+      required: true
+    - id: 10
+      name: interview_availability
+      label: General Weekly Availability for a Virtual Interview
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      required: true
+    - id: 11
+      name: salary_expectations
+      label: Annual Salary Expectations (USD)
+      hint: Range or fixed amount
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: resume_portfolio_link
+      label: Link to Resume or Online Portfolio
+      hint: Portfolio showcasing past community growth
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: reference_permission
+      label: May we contact your previous community references?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: application_date
+      label: Date of Application Submission
+      hint: null
+      type: date
+      options: []
+      required: true

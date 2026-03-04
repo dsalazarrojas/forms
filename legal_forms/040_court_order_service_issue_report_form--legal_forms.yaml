@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Court Order Service Issue Report Form
+    pages:
+    - id: 1
+      name: case_number
+      label: Case Number
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: case_manager_name
+      label: Case Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: case_manager_name_2
+      label: Case Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_issue
+      label: Date of Issue
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: issue_date
+      label: Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: issue_date_type
+      label: Issue Date Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: service_id
+      label: Service ID
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: issue_type
+      label: Issue Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: issue_date_range
+      label: Issue Date Range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: issue_date_range_type
+      label: Issue Date Range Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: issue_date
+      label: Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: resolution_date
+      label: Resolution Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: case_notes
+      label: Case Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: resolution
+      label: Resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: resolution_date_type
+      label: Resolution Date Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: case_manager_name_3
+      label: Case Manager 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: issue_date_2
+      label: Issue Date 2
+      hint: null
+      type: date
+      options: []
+      required: false

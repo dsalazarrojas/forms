@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: League Team Scheduling Preferences Survey
+    pages:
+    - id: 1
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: team_size
+      label: Team Size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: preferred_days
+      label: Preferred Days
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 4
+      name: preferred_times
+      label: Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: blackout_dates
+      label: Blackout Dates
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: conflict_dates
+      label: Conflict Dates
+      hint: null
+      type: select_multiple
+      options:
+      - March 1, 2023
+      - March 2, 2023
+      - March 3, 2023
+      required: false
+    - id: 7
+      name: conflict_reason
+      label: Conflict Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: preferred_days_conflict
+      label: Preferred Days Conflict
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 9
+      name: preferred_times_conflict
+      label: Preferred Time Conflict
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: blackout_dates_conflict
+      label: Blackout Dates Conflict
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: team_notes
+      label: Team Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: email_address
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: availability
+      label: Availability
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: conflict_availability
+      label: Conflict Availability
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: availability_conflict
+      label: Availability Conflict
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: team_scheduling_preferences
+      label: Team Scheduling Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Flexible
+      - Semi-Rigid
+      - Rigid
+      required: true
+    - id: 19
+      name: schedule_preferences
+      label: Schedule Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Early
+      - Late
+      - Flexible
+      required: true
+    - id: 20
+      name: schedule_preferences_conflict
+      label: Schedule Preferences Conflict
+      hint: null
+      type: select_multiple
+      options:
+      - Early
+      - Late
+      - Flexible
+      required: false
+    - id: 21
+      name: availability_note
+      label: Availability Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: conflict_note
+      label: Conflict Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: availability_notes
+      label: Availability Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: conflict_availability_notes
+      label: Conflict Availability Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: team_scheduling_notes
+      label: Team Scheduling Notes
+      hint: null
+      type: note
+      options: []
+      required: false

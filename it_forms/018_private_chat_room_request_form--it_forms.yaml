@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: private_chat_room_request_form
+    pages:
+    - id: 1
+      name: participants
+      label: Participants
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: purpose
+      label: Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: access_preferences
+      label: Access Preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Allow access for all users''}'
+      - '{''label'': ''Restrict access to specific users''}'
+      - '{''label'': ''Restrict access to specific groups''}'
+      required: false
+    - id: 4
+      name: participants_list
+      label: Participants List
+      hint: List of participants
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: access_level
+      label: Access Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 6
+      name: access_level_list
+      label: Access Level List
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 7
+      name: access_preferences_list
+      label: Access Preferences List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false

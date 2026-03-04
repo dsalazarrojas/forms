@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Memorandum Of Understanding (MOU) Form
+    pages:
+    - id: 1
+      name: partnership_details
+      label: partnership_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: timelines
+      label: timelines
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: approvals
+      label: approvals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: partnership_type
+      label: partnership_type
+      hint: null
+      type: select_one
+      options:
+      - Partnership with school
+      - Partnership with non-profit
+      - Partnership with business
+      - Partnership with public agency
+      required: false
+    - id: 5
+      name: agreement_start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: agreement_end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: review_frequency
+      label: review_frequency
+      hint: null
+      type: select_one
+      options:
+      - Quarterly
+      - Semi-annually
+      - Annually
+      required: false
+    - id: 8
+      name: agreement_status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Draft
+      - Approved
+      - Rejected
+      required: false
+    - id: 9
+      name: agreement_version
+      label: agreement_version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: agreement_version_number
+      label: agreement_version_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: agreement_version_comment
+      label: agreement_version_comment
+      hint: null
+      type: text
+      options: []
+      required: false

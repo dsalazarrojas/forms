@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: office_and_hangar_sublease_form
+    pages:
+    - id: 1
+      name: sublease_request
+      label: office_and_hangar_sublease_request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: rental_term
+      label: rental_term
+      hint: null
+      type: select_one
+      options:
+      - Weeks
+      - Months
+      - Years
+      required: true
+    - id: 5
+      name: sublease_start_date
+      label: sublease_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: sublease_end_date
+      label: sublease_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: sublease_rental_term
+      label: sublease_rental_term
+      hint: null
+      type: select_one
+      options:
+      - Weeks
+      - Months
+      - Years
+      required: true
+    - id: 8
+      name: tenant_name
+      label: tenant_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: property_manager
+      label: property_manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: tenant_signature
+      label: tenant_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: manager_signature
+      label: manager_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: approval
+      label: approval
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      required: true
+    - id: 16
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: approval_date
+      label: approval_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: approval_time
+      label: approval_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: approval_reason
+      label: approval_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: approval_signature
+      label: approval_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: tenant_acknowledgement
+      label: tenant_acknowledgement
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 23
+      name: manager_acknowledgement
+      label: manager_acknowledgement
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 24
+      name: sublease_agreement
+      label: sublease_agreement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

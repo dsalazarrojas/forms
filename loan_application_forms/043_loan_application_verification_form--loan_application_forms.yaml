@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: loan_application_verification_form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_address
+      label: Applicant Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Employed''}'
+      - '{''id'': 2, ''label'': ''Self-Employed''}'
+      - '{''id'': 3, ''label'': ''Retired''}'
+      required: true
+    - id: 7
+      name: employer_name
+      label: Employer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: employment_start_date
+      label: Employment Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: annual_income
+      label: Annual Income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: monthly_income
+      label: Monthly Income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: bank_name
+      label: Bank Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: loan_type
+      label: Loan Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Personal Loan''}'
+      - '{''id'': 2, ''label'': ''Mortgage Loan''}'
+      - '{''id'': 3, ''label'': ''Auto Loan''}'
+      required: true
+    - id: 14
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: loan_term
+      label: Loan Term
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: collateral_type
+      label: Collateral Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Vehicle''}'
+      - '{''id'': 2, ''label'': ''Real Estate''}'
+      - '{''id'': 3, ''label'': ''Equipment''}'
+      required: true
+    - id: 17
+      name: collateral_value
+      label: Collateral Value
+      hint: null
+      type: number
+      options: []
+      required: true

@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Twitch Mod Application
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: experience
+      label: Experience
+      hint: Tell us about your previous experience with similar platforms.
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: availability
+      label: Availability
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: why_twitch
+      label: Why Twitch
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: availability_time
+      label: Availability Time
+      hint: null
+      type: select_multiple
+      options:
+      - Monday to Friday
+      - Weekends only
+      - 24/7
+      required: true
+    - id: 6
+      name: why_twitch_2
+      label: Why Twitch 2
+      hint: null
+      type: select_one
+      options:
+      - Chat moderation
+      - Streaming
+      - Game development
+      required: true
+    - id: 7
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_other_info
+      label: Other info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

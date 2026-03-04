@@ -1,0 +1,308 @@
+inputSchema:
+  type: object
+  properties:
+    title: Biotinylation And Proteins Research Form
+    pages:
+    - id: 1
+      name: section_researcher_info
+      label: -- Researcher Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: researcher_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: researcher_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: researcher_email
+      label: Email Address
+      hint: Professional email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: researcher_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: researcher_title
+      label: Professional Title
+      hint: Your position or role
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_institution
+      label: -- Institution Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: institution_name
+      label: Institution Name
+      hint: University or research organization
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: department
+      label: Department or Lab
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: institution_type
+      label: Institution Type
+      hint: What type of organization
+      type: select_one
+      options:
+      - University
+      - Research Institute
+      - Biotech Company
+      - Pharmaceutical Company
+      - Hospital or Clinic
+      - Government Lab
+      - Other
+      required: true
+    - id: 11
+      name: section_research_focus
+      label: -- Research Focus --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: biotinylation_experience
+      label: Experience with Biotinylation
+      hint: Years working with biotinylation
+      type: select_one
+      options:
+      - No Experience
+      - Less than 1 Year
+      - 1-3 Years
+      - 3-5 Years
+      - 5-10 Years
+      - Over 10 Years
+      required: true
+    - id: 13
+      name: protein_types_studied
+      label: Types of Proteins You Study
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Enzymes
+      - Antibodies
+      - Hormones
+      - Structural Proteins
+      - Membrane Proteins
+      - Transport Proteins
+      - Signal Proteins
+      - Other
+      required: true
+    - id: 14
+      name: research_objectives
+      label: Current Research Objectives
+      hint: Describe your research goals
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: section_biotinylation_methods
+      label: -- Biotinylation Methods and Expertise --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: biotinylation_methods
+      label: Biotinylation Methods You Use
+      hint: Select all techniques employed
+      type: select_multiple
+      options:
+      - Streptavidin-Biotin Coupling
+      - Enzyme-Assisted Biotinylation
+      - Chemical Biotinylation
+      - Enzymatic Labeling
+      - In Vitro Biotinylation
+      - In Vivo Biotinylation
+      - Other Methods
+      required: true
+    - id: 17
+      name: detection_methods
+      label: Detection Methods Used
+      hint: How do you detect biotinylated proteins
+      type: select_multiple
+      options:
+      - Streptavidin-FITC
+      - ELISA
+      - Western Blotting
+      - Pull-Down Assays
+      - Immunofluorescence
+      - Mass Spectrometry
+      - Flow Cytometry
+      - Other
+      required: true
+    - id: 18
+      name: sample_preparation
+      label: Sample Preparation Techniques
+      hint: Methods for preparing samples
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_applications
+      label: -- Applications and Outcomes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: application_areas
+      label: Application Areas
+      hint: What is your research used for
+      type: select_multiple
+      options:
+      - Diagnostic Development
+      - Therapeutic Development
+      - Biomarker Discovery
+      - Protein Interaction Studies
+      - Drug Targeting
+      - Immunotherapy
+      - Basic Research
+      required: true
+    - id: 21
+      name: key_findings
+      label: Key Findings or Results
+      hint: Describe important results
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_publications
+      label: -- Publications and Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: publication_count
+      label: Number of Publications on Biotinylation
+      hint: Approximately how many
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: recent_publications
+      label: Recent Publications
+      hint: List 2-3 recent papers
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: citation_impact
+      label: Citation Impact or H-Index
+      hint: If available
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: section_collaboration
+      label: -- Collaboration Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: collaboration_interest
+      label: Interested in Collaboration
+      hint: Open to collaborative projects
+      type: select_one
+      options:
+      - Yes, Very Interested
+      - Interested
+      - Maybe
+      - Not Interested
+      required: true
+    - id: 28
+      name: collaboration_type
+      label: Type of Collaboration Sought
+      hint: What kind of partnership
+      type: select_multiple
+      options:
+      - Joint Research Project
+      - Method Development
+      - Protocol Sharing
+      - Funding Opportunity
+      - Equipment Access
+      - Data Sharing
+      - Consulting
+      required: false
+    - id: 29
+      name: research_gaps
+      label: Research Gaps or Challenges
+      hint: What problems need solving
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: collaboration_expertise
+      label: Expertise You Can Offer
+      hint: What can you contribute
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: section_resources
+      label: -- Resources and Equipment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: available_equipment
+      label: Available Laboratory Equipment
+      hint: List key instruments
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: funding_status
+      label: Current Funding Status
+      hint: Are you currently funded
+      type: select_one
+      options:
+      - Fully Funded
+      - Partially Funded
+      - Seeking Funding
+      - No Current Funding
+      required: false
+    - id: 34
+      name: funding_sources
+      label: Current Funding Sources
+      hint: Grants or funding agencies
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: additional_comments
+      label: Additional Comments or Information
+      hint: Share anything else relevant
+      type: text
+      options: []
+      required: false

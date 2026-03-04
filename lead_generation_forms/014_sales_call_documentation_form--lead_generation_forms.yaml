@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Call Documentation Form
+    pages:
+    - id: 1
+      name: sales_call_form
+      label: Sales Call Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: call_date_time
+      label: Call Date Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: call_location
+      label: Call Location
+      hint: null
+      type: select_one
+      options:
+      - New York
+      - Los Angeles
+      - Chicago
+      required: false
+    - id: 5
+      name: sales_professional
+      label: Sales Professional
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Bob
+      required: false
+    - id: 6
+      name: lead_status
+      label: Lead Status
+      hint: null
+      type: select_one
+      options:
+      - Lead
+      - No Lead
+      - Unknown
+      required: false
+    - id: 7
+      name: lead_source
+      label: Lead Source
+      hint: null
+      type: select_one
+      options:
+      - Referral
+      - Advertisement
+      - Social Media
+      required: false
+    - id: 8
+      name: call_result
+      label: Call Result
+      hint: null
+      type: select_multiple
+      options:
+      - Agreed to meet
+      - Disqualified
+      - Unknown
+      required: false
+    - id: 9
+      name: follow_up_actions
+      label: Follow up Actions
+      hint: null
+      type: select_multiple
+      options:
+      - Schedule follow-up call
+      - Send follow-up email
+      - Unknown
+      required: false
+    - id: 10
+      name: follow_up_next_call
+      label: Follow up Next Call
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_next_call_phone
+      label: Follow up Next Call Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_next_call_email
+      label: Follow up Next Call Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: lead_owner
+      label: Lead Owner
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Bob
+      required: false
+    - id: 14
+      name: sales_process
+      label: Sales Process
+      hint: null
+      type: select_one
+      options:
+      - Salesforce
+      - Manual Process
+      - Unknown
+      required: false
+    - id: 15
+      name: lead_status_update
+      label: Lead Status Update
+      hint: null
+      type: select_multiple
+      options:
+      - Updated
+      - Unchanged
+      - Unknown
+      required: false
+    - id: 16
+      name: follow_up_next_call_status
+      label: Follow up Next Call Status
+      hint: null
+      type: select_multiple
+      options:
+      - Completed
+      - In Progress
+      - Unknown
+      required: false
+    - id: 17
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: created_at_datetime
+      label: Created At Datetime
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: updated_at_datetime
+      label: Updated At Datetime
+      hint: null
+      type: date
+      options: []
+      required: false

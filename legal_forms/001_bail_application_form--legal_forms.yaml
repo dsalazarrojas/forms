@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bail Application Form
+    pages:
+    - id: 1
+      name: defendant_full_name
+      label: Defendant Full Name
+      hint: Enter legal name as it appears on official documents
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: defendant_date_of_birth
+      label: Defendant Date of Birth
+      hint: MM/DD/YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: defendant_address
+      label: Defendant Current Address
+      hint: Full street address, city, state, and ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: defendant_phone
+      label: Defendant Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: defendant_email
+      label: Defendant Email Address
+      hint: Active email for court notifications
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: arresting_agency
+      label: Arresting Agency
+      hint: Police department or agency that made the arrest
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: arrest_date
+      label: Date of Arrest
+      hint: Date when defendant was taken into custody
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: charges
+      label: Charges Filed
+      hint: List all criminal charges
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: case_number
+      label: Case Number
+      hint: Court docket or case reference number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: bail_amount_requested
+      label: Bail Amount Requested
+      hint: Proposed bail amount in dollars
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: bail_type
+      label: Type of Bail Requested
+      hint: Select the preferred bail arrangement
+      type: select_one
+      options:
+      - Cash Bond
+      - Surety Bond
+      - Property Bond
+      - Personal Recognizance
+      - Unsecured Bond
+      required: true
+    - id: 12
+      name: employment_status
+      label: Employment Status
+      hint: Current employment situation
+      type: select_one
+      options:
+      - Employed Full-Time
+      - Employed Part-Time
+      - Self-Employed
+      - Unemployed
+      - Student
+      - Retired
+      required: true
+    - id: 13
+      name: employer_name
+      label: Employer Name
+      hint: Current employer or most recent if unemployed
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: monthly_income
+      label: Monthly Income
+      hint: Gross monthly income before taxes
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: prior_criminal_history
+      label: Prior Criminal History
+      hint: Any previous arrests or convictions
+      type: select_one
+      options:
+      - None
+      - Misdemeanors Only
+      - Felonies
+      - Pending Cases
+      required: true
+    - id: 16
+      name: flight_risk_factors
+      label: Flight Risk Assessment
+      hint: Factors that may indicate flight risk
+      type: select_multiple
+      options:
+      - No ties to community
+      - Multiple addresses
+      - International connections
+      - Previous failure to appear
+      - No employment
+      - None of the above
+      required: true
+    - id: 17
+      name: community_ties
+      label: Community Ties
+      hint: Connections to the local community
+      type: select_multiple
+      options:
+      - Family resides locally
+      - Long-term residence
+      - Local employment
+      - Property ownership
+      - Community involvement
+      - Religious affiliation
+      required: true
+    - id: 18
+      name: release_conditions
+      label: Proposed Release Conditions
+      hint: Conditions defendant agrees to follow
+      type: select_multiple
+      options:
+      - Regular check-ins with pretrial services
+      - Travel restrictions
+      - No contact with victims
+      - Drug testing
+      - Curfew compliance
+      - Electronic monitoring
+      - Surrender passport
+      required: false
+    - id: 19
+      name: attorney_name
+      label: Attorney Name
+      hint: Legal representative handling the case
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: attorney_contact
+      label: Attorney Contact Information
+      hint: Phone number and email
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information for the court
+      type: text
+      options: []
+      required: false

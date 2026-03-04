@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guest Service Training Leave Of Absence Request
+    pages:
+    - id: 1
+      name: employee
+      label: Employee
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''John Doe''}'
+      - '{''id'': 2, ''name'': ''Jane Doe''}'
+      required: true
+    - id: 2
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: training_type
+      label: Training Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Service Skills''}'
+      - '{''id'': 2, ''name'': ''Product Knowledge''}'
+      - '{''id'': 3, ''name'': ''Food and Beverage''}'
+      required: true
+    - id: 4
+      name: supervisor_approval
+      label: Supervisor Approval
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Approve''}'
+      - '{''id'': 2, ''name'': ''Reject''}'
+      required: true
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: reason_for_leaving
+      label: Reason for Leaving
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: team
+      label: Team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: approval
+      label: Approval
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Approve''}'
+      - '{''id'': 2, ''name'': ''Reject''}'
+      required: true
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: leave_status
+      label: Leave Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Pending''}'
+      - '{''id'': 2, ''name'': ''Approved''}'
+      - '{''id'': 3, ''name'': ''Rejected''}'
+      required: true
+    - id: 15
+      name: status_date
+      label: Status Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: leave_days
+      label: Leave Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: leave_hours
+      label: Leave Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: training_location
+      label: Training Location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Activity Log
+    pages:
+    - id: 1
+      name: service_activity_log
+      label: Service Activity Log
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: activity_date
+      label: Activity Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: activity_description
+      label: Activity Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: activity_outcome
+      label: Activity Outcome
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Cancelled
+      - Deferred
+      required: false
+    - id: 5
+      name: follow_ups
+      label: Follow-ups
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: next_follow_up_date
+      label: Next Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 8
+      name: service_name
+      label: Service Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: service_type
+      label: Service Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: service_location
+      label: Service Location
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Radiation Dosimetry Information Request
+    pages:
+    - id: 1
+      name: radiation_exposure
+      label: What is your radiation exposure?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: dose_amount
+      label: Dose Amount (mSv)
+      hint: Please enter value in mSv
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: location
+      label: Location
+      hint: Please enter location
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_exposure
+      label: Date of Exposure
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Please enter date of birth
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_email
+      label: Contact EMail
+      hint: Please enter EMail
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: Please enter phone number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: hospital_name
+      label: Hospital Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: hospital_address
+      label: Hospital Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: radiation_type
+      label: Radiation Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_department
+      label: Contact Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: date_received
+      label: Date Received
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: date_of_notification
+      label: Date of Notification
+      hint: null
+      type: date
+      options: []
+      required: true

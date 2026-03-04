@@ -1,0 +1,81 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Library Computer Error Incident Report
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_incident_began
+      label: Date Incident Began
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: description_of_incident
+      label: Description Of Incident
+      hint: Briefly describe the incident
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: type_of_error
+      label: Type Of Error
+      hint: null
+      type: select_one
+      options:
+      - Error 1
+      - Error 2
+      - Error 3
+      required: false
+    - id: 5
+      name: location_where_occurred
+      label: Location Where Occurred
+      hint: null
+      type: select_multiple
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      required: false
+    - id: 6
+      name: urgency
+      label: Urgency
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 7
+      name: incident_follow_up
+      label: Incident Follow Up
+      hint: When will you follow up with the staff member?
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: staff_member_name
+      label: Staff Member Name
+      hint: null
+      type: text
+      options: []
+      required: false

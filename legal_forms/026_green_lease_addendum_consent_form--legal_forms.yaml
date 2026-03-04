@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Green Lease Addendum Consent Form
+    pages:
+    - id: 1
+      name: tenant_signature
+      label: Tenant Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: landlord_signature
+      label: Landlord Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tenant_consent
+      label: Tenant Consent
+      hint: null
+      type: select_one
+      options:
+      - Tenant accepts the green lease terms with the sustainability commitments listed.
+      - Tenant declines the green lease terms with the sustainability commitments
+        listed.
+      - Tenant accepts and signs the green lease terms with the sustainability commitments
+        listed below.
+      required: false
+    - id: 4
+      name: sustainability_commitments
+      label: Sustainability Commitments
+      hint: null
+      type: select_multiple
+      options:
+      - Tenant is committed to recycling all materials used during the term.
+      - Tenant is committed to reducing energy consumption during the term.
+      - Tenant is committed to using water-efficient appliances during the term.
+      required: false
+    - id: 5
+      name: landlord_consent
+      label: Landlord Consent
+      hint: null
+      type: select_one
+      options:
+      - Landlord accepts the green lease terms with the sustainability commitments
+        listed.
+      - Landlord declines the green lease terms with the sustainability commitments
+        listed.
+      - Landlord accepts and signs the green lease terms with the sustainability commitments
+        listed below.
+      required: false
+    - id: 6
+      name: lease_start_date
+      label: Lease Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: lease_end_date
+      label: Lease End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: tenant_name
+      label: Tenant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: landlord_name
+      label: Landlord Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: lease_terms
+      label: Lease Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: building_address
+      label: Building Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: unit_number
+      label: Unit Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: tenant_email
+      label: Tenant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: landlord_email
+      label: Landlord Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: building_name
+      label: Building Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: building_manager
+      label: Building Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: lease_start_time
+      label: Lease Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: lease_end_time
+      label: Lease End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: lease_length
+      label: Lease Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: rent
+      label: Rent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: utilities
+      label: Utilities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: parking
+      label: Parking
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

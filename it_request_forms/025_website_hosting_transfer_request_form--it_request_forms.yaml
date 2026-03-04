@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Hosting Transfer Request Form
+    pages:
+    - id: 1
+      name: website_transfer_details
+      label: Website Transfer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: new_host_provider
+      label: New Host Provider
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Host 1''}'
+      - '{''id'': 2, ''name'': ''Host 2''}'
+      - '{''id'': 3, ''name'': ''Host 3''}'
+      required: false
+    - id: 3
+      name: transfer_type
+      label: Transfer Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Full Transfer''}'
+      - '{''id'': 2, ''name'': ''Partial Transfer''}'
+      - '{''id'': 3, ''name'': ''Cutover''}'
+      required: false
+    - id: 4
+      name: new_url
+      label: New URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: current_url
+      label: Current URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: transfer_date
+      label: Transfer Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: transfer_time
+      label: Transfer Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: transfer_status
+      label: Transfer Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''In Progress''}'
+      - '{''id'': 2, ''name'': ''Complete''}'
+      - '{''id'': 3, ''name'': ''Cancelled''}'
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: Additional notes or comments
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

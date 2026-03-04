@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Frame Shop Referral Form
+    pages:
+    - id: 1
+      name: referrer_info_header
+      label: -- Referrer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: referrer_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: referrer_relationship
+      label: Your Relationship to the Business
+      hint: null
+      type: select_one
+      options:
+      - Existing Customer
+      - Interior Designer
+      - Artist
+      - Gallery Partner
+      - Employee
+      required: true
+    - id: 4
+      name: referrer_email
+      label: Your Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: referral_details_header
+      label: -- Referral (New Lead) Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: lead_name
+      label: Name of the Person being Referred
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: lead_email
+      label: Referral Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: lead_phone
+      label: Referral Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: framing_needs_header
+      label: -- Framing Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: framing_interest_type
+      label: What type of framing service are they interested in?
+      hint: null
+      type: select_multiple
+      options:
+      - Custom Picture Framing
+      - Canvas Stretching
+      - Mirror Framing
+      - Memorabilia Shadowbox
+      - Conservation - Museum Grade
+      - Large Format Framing
+      required: true
+    - id: 11
+      name: number_of_items
+      label: Estimated Number of Items
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: urgency_of_referral
+      label: How soon are they looking to start the project?
+      hint: null
+      type: select_one
+      options:
+      - Immediately
+      - Within 1 month
+      - Just exploring options
+      required: false
+    - id: 13
+      name: additional_context
+      label: Any additional notes about this referral?
+      hint: e.g., preferred styles, specific artwork type
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: referral_incentive_header
+      label: -- Referral Reward --
+      hint: Thank you for your referral!
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: reward_preference
+      label: Preferred Reward (If referral leads to a sale)
+      hint: null
+      type: select_one
+      options:
+      - Store Credit
+      - Discount on Next Order
+      - Gift Card
+      - No Reward Needed
+      required: true
+    - id: 16
+      name: submission_date
+      label: Referral Date
+      hint: null
+      type: date
+      options: []
+      required: true

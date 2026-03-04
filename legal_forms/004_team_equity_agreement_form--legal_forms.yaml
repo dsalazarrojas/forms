@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Equity Agreement Form
+    pages:
+    - id: 1
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: equity_percentage
+      label: Equity Percentages
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: effective_date
+      label: Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: agreement_text
+      label: Agreement Text
+      hint: null
+      type: text
+      options: []
+      required: false

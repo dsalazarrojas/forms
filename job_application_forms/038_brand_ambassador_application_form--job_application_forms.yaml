@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brand Ambassador Application Form
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_background
+      label: -- Background Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: city_state
+      label: City and State
+      hint: Your location
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: occupation
+      label: Current Occupation
+      hint: What you do professionally
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_header_brand
+      label: -- Brand Knowledge --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: brand_familiarity
+      label: Familiarity with Our Brand
+      hint: How well you know our brand
+      type: select_one
+      options:
+      - Very familiar
+      - Familiar
+      - Somewhat familiar
+      - Limited knowledge
+      - Just learning
+      required: true
+    - id: 12
+      name: brand_passion
+      label: Passion for Our Brand
+      hint: How passionate about brand
+      type: select_one
+      options:
+      - Extremely passionate
+      - Very passionate
+      - Passionate
+      - Interested
+      - Some interest
+      required: true
+    - id: 13
+      name: product_usage
+      label: Do You Use Our Products
+      hint: Personal experience with products
+      type: select_one
+      options:
+      - Yes, regular user
+      - Yes, occasional user
+      - Have tried before
+      - No experience
+      - Willing to learn
+      required: true
+    - id: 14
+      name: section_header_influence
+      label: -- Influence and Reach --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: social_media_platforms
+      label: Active Social Media Platforms
+      hint: Select your platforms
+      type: select_multiple
+      options:
+      - Instagram
+      - Facebook
+      - Twitter
+      - TikTok
+      - YouTube
+      - LinkedIn
+      - Pinterest
+      - Other
+      required: true
+    - id: 16
+      name: total_followers
+      label: Total Social Media Followers
+      hint: Combined across all platforms
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: engagement_rate
+      label: Average Engagement Rate
+      hint: Percentage or estimate
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_header_experience
+      label: -- Ambassador Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: previous_ambassador
+      label: Previous Brand Ambassador Experience
+      hint: Have you been an ambassador before
+      type: select_one
+      options:
+      - Yes, multiple times
+      - Yes, once or twice
+      - No, this is my first time
+      - Have done similar roles
+      required: true
+    - id: 20
+      name: motivation
+      label: Why You Want to Be Our Ambassador
+      hint: Tell us your motivation
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: application_consent
+      label: I agree to ambassador terms and conditions
+      hint: Check to submit application
+      type: select_one
+      options:
+      - I agree and apply
+      - I do not agree
+      required: true

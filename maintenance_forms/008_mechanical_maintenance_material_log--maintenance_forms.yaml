@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mechanical Maintenance Material Log
+    pages:
+    - id: 1
+      name: material_log_entry
+      label: Material Entry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: maintenance_entry
+      label: Maintenance Entry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: maintenance_material_used
+      label: Materials Used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: material_description
+      label: Material Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: quantity_entry
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: unit_price_entry
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: total_price_entry
+      label: Total Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: user_entry
+      label: User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes_entry
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: date_entry
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_entry
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Leave Of Absence Request (Nurse)
+    pages:
+    - id: 1
+      name: employee
+      label: Employee
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Joe
+      required: false
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_leaving
+      label: Reason For Leaving
+      hint: Please specify the reason for the leave request
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: physician_certification
+      label: Physician Certification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: nurse_manager_approval
+      label: Nurse Manager Approval
+      hint: null
+      type: select_multiple
+      options:
+      - Approve
+      - Deny
+      - Pending
+      required: false
+    - id: 7
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_return
+      label: Date Of Return
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: employee_approval
+      label: Employee Approval
+      hint: null
+      type: select_one
+      options:
+      - Approve
+      - Deny
+      - Pending
+      required: false
+    - id: 11
+      name: supervisor_approval
+      label: Supervisor Approval
+      hint: null
+      type: select_multiple
+      options:
+      - Approve
+      - Deny
+      - Pending
+      required: false
+    - id: 12
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: employee_comments
+      label: Employee Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: physician_comments
+      label: Physician Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: form_submitted
+      label: Form Submitted
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: form_approved
+      label: Form Approved
+      hint: null
+      type: select_one
+      options:
+      - Approve
+      - Deny
+      - Pending
+      required: false
+    - id: 17
+      name: form_denied
+      label: Form Denied
+      hint: null
+      type: select_one
+      options:
+      - Approve
+      - Deny
+      - Pending
+      required: false
+    - id: 18
+      name: form_return
+      label: Form Returned
+      hint: null
+      type: select_one
+      options:
+      - Approve
+      - Deny
+      - Pending
+      required: false

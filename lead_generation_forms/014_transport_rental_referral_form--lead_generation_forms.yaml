@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transport Rental Referral Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: position
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: trip_details
+      label: Trip Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: transport_type
+      label: Transport Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Car''}'
+      - '{''id'': 2, ''name'': ''Truck''}'
+      - '{''id'': 3, ''name'': ''Van''}'
+      required: true
+    - id: 9
+      name: pickup_time
+      label: Pickup Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: pickup_location
+      label: Pickup Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: drop_off_time
+      label: Drop-off Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: drop_off_location
+      label: Drop-off Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: referral
+      label: Referral
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: referred_by
+      label: Referred By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: referred_company
+      label: Referred Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: referred_phone
+      label: Referred Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: referred_email
+      label: Referred Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: referred_position
+      label: Referred Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: referred_referral
+      label: Referred Referral
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: true
+    - id: 22
+      name: notes2
+      label: Notes 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: notes3
+      label: Notes 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: notes4
+      label: Notes 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes5
+      label: Notes 5
+      hint: null
+      type: text
+      options: []
+      required: false

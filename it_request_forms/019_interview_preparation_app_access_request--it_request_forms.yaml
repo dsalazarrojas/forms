@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Interview Preparation App Access Request
+    pages:
+    - id: 1
+      name: interview_preparation_app_access_request
+      label: Request Interview Prep App Access
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: training_program
+      label: Training Program
+      hint: null
+      type: select_one
+      options:
+      - Career Center
+      - Hiring Support Team
+      - Training Program
+      required: false
+    - id: 4
+      name: purpose
+      label: Purpose of Access Request
+      hint: Why are you requesting access to the Interview Prep App?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: expected_start_date
+      label: Expected Start Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: expected_end_date
+      label: Expected End Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: expected_duration
+      label: Expected Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: training_program_manager
+      label: Training Program Manager
+      hint: Name of Training Program Manager
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: training_program_manager_email
+      label: Training Program Manager Email
+      hint: Email of Training Program Manager
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: manager_name
+      label: Manager's Name
+      hint: Name of Manager submitting request
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager_email
+      label: Manager's Email
+      hint: Email of Manager Submitting Request
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,92 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Intelligence Solutions Contact Form
+    pages:
+      - id: 1
+        name: header
+        label: -- Contact Request --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: company_name
+        label: Company name
+        hint: Organization seeking BI solutions
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: contact_name
+        label: Contact name
+        hint: Person to reach about solutions
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: contact_email
+        label: Contact email
+        hint: For proposal and scheduling
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: project_summary
+        label: Project summary
+        hint: Brief description of project needs
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: expected_start_date
+        label: Expected start date
+        hint: When the project should begin
+        type: date
+        options: []
+        required: false
+      - id: 7
+        name: budget_range
+        label: Budget range
+        hint: Estimated budget for solution
+        type: select_one
+        options:
+          - Under 10k
+          - 10k to 50k
+          - Over 50k
+        required: false
+      - id: 8
+        name: primary_challenges
+        label: Primary challenges
+        hint: Key challenges you want addressed
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: preferred_contact_method
+        label: Preferred contact method
+        hint: How would you like to be contacted
+        type: select_one
+        options:
+          - Email
+          - Phone
+          - Video call
+        required: true
+      - id: 10
+        name: additional_information
+        label: Additional information
+        hint: Any other details for the BI team
+        type: text
+        options: []
+        required: false

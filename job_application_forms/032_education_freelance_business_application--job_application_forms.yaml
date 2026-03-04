@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Education Freelance Business Application
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''High School'', ''label'': ''High School''}'
+      - '{''id'': 2, ''name'': "Bachelor''s", ''label'': ''Bachelors''}'
+      - '{''id'': 3, ''name'': "Master''s", ''label'': "Master''s"}'
+      - '{''id'': 4, ''name'': ''Phd'', ''label'': ''Phd''}'
+      required: false
+    - id: 3
+      name: job_experience
+      label: Job Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: work_type
+      label: Work Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Freelance'', ''label'': ''Freelance''}'
+      - '{''id'': 2, ''name'': ''Part-time'', ''label'': ''Part-time''}'
+      - '{''id'': 3, ''name'': ''Full-time'', ''label'': ''Full-time''}'
+      required: false
+    - id: 5
+      name: availability
+      label: Availability
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: work_schedule
+      label: Work Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_description
+      label: Job Description
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false

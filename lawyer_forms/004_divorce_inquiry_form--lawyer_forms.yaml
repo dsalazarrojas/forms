@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Divorce Inquiry Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: case_number
+      label: case_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: spouse_names
+      label: Spouse Names
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: divorce_date
+      label: Divorce Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: divorce_reason
+      label: Divorce Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: lawyer_info
+      label: Lawyer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: case_details
+      label: Case Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: court_location
+      label: Court Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: lawyer_phone
+      label: Lawyer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: other_info
+      label: Other Info
+      hint: null
+      type: text
+      options: []
+      required: false

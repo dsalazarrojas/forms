@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Landscaping Job Application Form
+    pages:
+    - id: 1
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: available_start_date
+      label: Available Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: previous_employer
+      label: Previous Employer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_duration
+      label: Job Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: reason_for_leaving
+      label: Reason for Leaving
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: will_you_have_time_to_work
+      label: Will you have time to work?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: will_you_be_able_to_relocate
+      label: Will you be able to relocate?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: do_you_have_a_license_to_work
+      label: Do you have a license to work?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: will_you_be_available_to_work
+      label: Will you be available to work?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Downtime Incident Form
+    pages:
+    - id: 1
+      name: website_downtime_start_time
+      label: Website Downtime Start Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: website_downtime_end_time
+      label: Website Downtime End Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: website_downtime_duration
+      label: Website Downtime Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: website_error_message
+      label: Website Error Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: affected_users
+      label: Affected Users
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: assigned_teammember
+      label: Assigned Team Member
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 7
+      name: resolution_status
+      label: Resolution Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: error_message
+      label: Error Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: website_downtime_impact
+      label: Website Downtime Impact
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 11
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: resolution_notes
+      label: Resolution Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: resolved_by
+      label: Resolved By
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 14
+      name: resolved_time
+      label: Resolved Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: resolved_date
+      label: Resolved Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: website_downtime_cause
+      label: Website Downtime Cause
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 17
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: incident_number
+      label: Incident Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: website_url
+      label: Website URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: website_downtime_type
+      label: Website Downtime Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 21
+      name: error_messages
+      label: Error Messages
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: website_downtime_duration
+      label: Website Downtime Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 25
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

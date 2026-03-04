@@ -1,0 +1,295 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Workshop Registration Form
+    pages:
+    - id: 1
+      name: registration_date
+      label: Registration Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Participant Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: Participant Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: mailing_address
+      label: Mailing Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: Zip Code
+      hint: Postal or zip code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date_of_birth
+      label: Date of Birth
+      hint: Date of birth
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: age_group
+      label: Age Group
+      hint: Age group
+      type: select_one
+      options:
+      - Under 18
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65 or Older
+      required: false
+    - id: 11
+      name: workshop_selection
+      label: Workshop Selection
+      hint: Select workshop to attend
+      type: select_one
+      options:
+      - Introduction to Painting
+      - Advanced Watercolor
+      - Sculpture Basics
+      - Digital Art Fundamentals
+      - Mixed Media Exploration
+      - Portrait Drawing
+      - Abstract Art
+      - Printmaking
+      required: true
+    - id: 12
+      name: workshop_date
+      label: Workshop Date
+      hint: Select preferred date
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: workshop_time
+      label: Workshop Time
+      hint: Select preferred time
+      type: select_one
+      options:
+      - Morning (9 AM - 12 PM)
+      - Afternoon (1 PM - 4 PM)
+      - Evening (6 PM - 9 PM)
+      - Full Day (9 AM - 4 PM)
+      required: true
+    - id: 14
+      name: experience_level
+      label: Experience Level
+      hint: Your skill level
+      type: select_one
+      options:
+      - Complete Beginner
+      - Some Experience
+      - Intermediate
+      - Advanced
+      - Professional
+      required: true
+    - id: 15
+      name: previous_workshops
+      label: Previous Workshops
+      hint: Have you attended workshops before
+      type: select_one
+      options:
+      - Yes - Many
+      - Yes - A Few
+      - Yes - One
+      - No - First Time
+      required: true
+    - id: 16
+      name: goals_for_workshop
+      label: Goals for Workshop
+      hint: What do you hope to learn
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: materials_included
+      label: Materials Included
+      hint: Do you need materials provided
+      type: select_one
+      options:
+      - Yes - Full Kit
+      - Yes - Partial Kit
+      - No - I Have My Own
+      required: true
+    - id: 18
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Do you need accommodations
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: accessibility_details
+      label: Accessibility Details
+      hint: Describe your needs
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: If refreshments provided
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergy
+      - Other
+      required: false
+    - id: 21
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: how_heard
+      label: How Heard
+      hint: How did you hear about us
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Friend or Family
+      - Advertisement
+      - Email Newsletter
+      - Other
+      required: false
+    - id: 24
+      name: referral_name
+      label: Referral Name
+      hint: Who referred you
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: workshop_cost
+      label: Workshop Cost
+      hint: Cost of workshop
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: materials_cost
+      label: Materials Cost
+      hint: Cost of materials
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: total_cost
+      label: Total Cost
+      hint: Total amount due
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Check
+      - Cash
+      required: true
+    - id: 29
+      name: cancellation_policy
+      label: Cancellation Policy
+      hint: I understand the cancellation policy
+      type: select_one
+      options:
+      - Yes - I Understand
+      - false
+      required: true
+    - id: 30
+      name: liability_waiver
+      label: Liability Waiver
+      hint: I agree to the liability waiver
+      type: select_one
+      options:
+      - Yes - I Agree
+      - false
+      required: true
+    - id: 31
+      name: photo_release
+      label: Photo Release
+      hint: I allow photos for promotional use
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 32
+      name: mailing_list
+      label: Mailing List
+      hint: Join our mailing list
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 33
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

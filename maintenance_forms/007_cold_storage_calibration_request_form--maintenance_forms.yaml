@@ -1,0 +1,259 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cold Storage Calibration Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Email Address
+      hint: Work email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requester_phone
+      label: Phone Number
+      hint: Direct contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department or division
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization
+      label: Organization Name
+      hint: Company or institution
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: facility_location
+      label: Facility Location
+      hint: Building and room number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: cold_storage_type
+      label: Type of Cold Storage Unit
+      hint: Select the equipment type
+      type: select_one
+      options:
+      - Walk-in Refrigerator
+      - Walk-in Freezer
+      - Reach-in Refrigerator
+      - Reach-in Freezer
+      - Laboratory Freezer
+      - Ultra-Low Freezer
+      - Blood Bank Refrigerator
+      - Pharmacy Refrigerator
+      - Cold Room
+      - Blast Chiller
+      required: true
+    - id: 8
+      name: equipment_manufacturer
+      label: Equipment Manufacturer
+      hint: Brand name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: equipment_model
+      label: Equipment Model Number
+      hint: Model identifier
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: equipment_serial
+      label: Equipment Serial Number
+      hint: Serial number if available
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: equipment_id
+      label: Internal Equipment ID
+      hint: Your asset tag or ID number
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: current_temperature_range
+      label: Current Temperature Range
+      hint: Operating temperature in °F or °C
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: calibration_type
+      label: Type of Calibration Requested
+      hint: Select calibration type
+      type: select_one
+      options:
+      - Routine Scheduled Calibration
+      - Preventive Maintenance
+      - Corrective Calibration
+      - After Repair
+      - Initial Installation
+      - Annual Recertification
+      - Emergency Calibration
+      required: true
+    - id: 14
+      name: last_calibration_date
+      label: Last Calibration Date
+      hint: When was it last calibrated
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: calibration_due_date
+      label: Calibration Due Date
+      hint: When is calibration due
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: preferred_service_date
+      label: Preferred Service Date
+      hint: When would you like service
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: preferred_time
+      label: Preferred Time of Day
+      hint: Best time for service
+      type: select_one
+      options:
+      - Morning 8AM-12PM
+      - Afternoon 12PM-5PM
+      - Evening 5PM-9PM
+      - Any Time
+      - After Hours Only
+      required: true
+    - id: 18
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is this request
+      type: select_one
+      options:
+      - Routine
+      - Standard
+      - Priority
+      - Urgent
+      - Critical Emergency
+      required: true
+    - id: 19
+      name: reason_for_calibration
+      label: Reason for Calibration Request
+      hint: Why is calibration needed
+      type: select_one
+      options:
+      - Scheduled Maintenance
+      - Temperature Drift Detected
+      - Equipment Relocation
+      - After Power Outage
+      - Regulatory Requirement
+      - Quality Control Issue
+      - New Equipment
+      - Other
+      required: true
+    - id: 20
+      name: reason_details
+      label: Reason Details
+      hint: Provide more information
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: access_instructions
+      label: Special Access Instructions
+      hint: Keys, codes, or entry procedures
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: safety_requirements
+      label: Safety Requirements
+      hint: PPE or safety protocols
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: contents_status
+      label: Will Contents Be Removed
+      hint: For service access
+      type: select_one
+      options:
+      - Yes Already Removed
+      - Yes Will Remove Before Service
+      - No Contents Will Remain
+      - Technician to Advise
+      required: true
+    - id: 24
+      name: downtime_acceptable
+      label: Is Downtime Acceptable
+      hint: Can the unit be taken offline
+      type: select_one
+      options:
+      - true
+      - false
+      - Only During Specific Hours
+      required: true
+    - id: 25
+      name: backup_storage_available
+      label: Is Backup Storage Available
+      hint: Alternative storage if needed
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: false
+    - id: 26
+      name: certification_required
+      label: Certification Documentation Required
+      hint: Type of documentation needed
+      type: select_multiple
+      options:
+      - Calibration Certificate
+      - NIST Traceability
+      - ISO Compliant Report
+      - Digital Copy
+      - Printed Copy
+      - Not Required
+      required: true
+    - id: 27
+      name: purchase_order_number
+      label: Purchase Order Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: budget_code
+      label: Budget or Cost Center Code
+      hint: For billing purposes
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: additional_notes
+      label: Additional Notes or Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

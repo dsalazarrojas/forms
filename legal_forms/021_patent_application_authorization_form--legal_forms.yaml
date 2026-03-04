@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patent Application Authorization Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: street_address
+      label: street_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: zip_code
+      label: zip_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: authorization_date
+      label: authorization_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: relationship
+      label: relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: authorization_level
+      label: authorization_level
+      hint: null
+      type: select_one
+      options:
+      - Authorized Representative
+      - Power of Attorney
+      - Other
+      - None
+      required: false
+    - id: 13
+      name: authorization_name
+      label: authorized_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: representative_name
+      label: representative_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: representative_address
+      label: representative_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: representative_phone
+      label: representative_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: representative_email
+      label: representative_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: representative_relationship
+      label: representative_relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: authorized_signature
+      label: authorized_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: representative_signature
+      label: representative_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: submit
+      label: submit
+      hint: null
+      type: select_multiple
+      options:
+      - Submit
+      - Cancel
+      required: false

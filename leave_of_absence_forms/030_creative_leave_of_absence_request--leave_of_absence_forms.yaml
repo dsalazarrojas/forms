@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Creative Leave Of Absence Request
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: leave_type
+      label: Leave Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Annual''}'
+      - '{''value'': ''Sick''}'
+      - '{''value'': ''Emergency''}'
+      - '{''value'': ''Parental''}'
+      required: true
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: reason_for_leave
+      label: Reason For Leave
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: leave_duration
+      label: Leave Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: supervisor_approval
+      label: Supervisor Approval
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Approved''}'
+      - '{''value'': ''Denied''}'
+      - '{''value'': ''Pending''}'
+      required: true
+    - id: 9
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Approved''}'
+      - '{''value'': ''Denied''}'
+      - '{''value'': ''Pending''}'
+      - '{''value'': ''No Response''}'
+      required: true
+    - id: 10
+      name: employee_acknowledgement
+      label: Employee Acknowledgement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Acknowledged''}'
+      - '{''value'': ''Not Acknowledged''}'
+      - '{''value'': ''Declined''}'
+      - '{''value'': ''No Response''}'
+      required: true
+    - id: 11
+      name: manager_acknowledgement
+      label: Manager Acknowledgement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Acknowledged''}'
+      - '{''value'': ''Not Acknowledged''}'
+      - '{''value'': ''Declined''}'
+      - '{''value'': ''No Response''}'
+      required: true
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: date_signed
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: date_reviewed
+      label: Date Reviewed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: employee_comments
+      label: Employee Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,92 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Negligence Law Evaluation Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: duty
+      label: Duty
+      hint: null
+      type: select_one
+      options:
+      - Breach of Duty
+      - No Duty
+      - Unclear Duty
+      - Implied Duty
+      - Statutory Duty
+      - No Answer
+      required: false
+    - id: 3
+      name: breach
+      label: Breach of Duty
+      hint: null
+      type: select_one
+      options:
+      - Breached Duty
+      - Not Breached Duty
+      - No Answer
+      required: false
+    - id: 4
+      name: causation
+      label: Causation
+      hint: null
+      type: select_one
+      options:
+      - Breach Caused Harm
+      - No Breach Caused Harm
+      - Unclear Causation
+      - Implied Causation
+      - Statutory Causation
+      - No Answer
+      required: false
+    - id: 5
+      name: harm
+      label: Harm
+      hint: null
+      type: select_one
+      options:
+      - Physical Harm
+      - Emotional Harm
+      - Financial Harm
+      - No Harm
+      - No Answer
+      required: false
+    - id: 6
+      name: duty_definition
+      label: Breach of Duty Definition
+      hint: Please provide a clear definition of the duty that was breached.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: causation_definition
+      label: Causation Definition
+      hint: Please provide a clear definition of the causation that was breached.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: harm_definition
+      label: Harm Definition
+      hint: Please provide a clear definition of the harm suffered.
+      type: text
+      options: []
+      required: false

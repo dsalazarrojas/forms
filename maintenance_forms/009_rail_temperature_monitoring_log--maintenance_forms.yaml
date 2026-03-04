@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rail Temperature Monitoring Log
+    pages:
+    - id: 1
+      name: rail_temperature_monitors
+      label: Rail Temperature Monitors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: rail_monitors_installed
+      label: Monitors Installed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: readings_taken
+      label: Readings Taken
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: observation_notes
+      label: Observation Notes
+      hint: null
+      type: note
+      options: []
+      required: false

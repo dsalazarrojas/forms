@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advertiser Purchase Form
+    pages:
+    - id: 1
+      name: business_information_section
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Name of your business or organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person_name
+      label: Contact Person Name
+      hint: Name of the person making the purchase
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_person_title
+      label: Contact Person Title
+      hint: Job title of the contact person
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Business email for communication
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Business phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: advertising_details_section
+      label: -- Advertising Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: ad_type_requested
+      label: Ad Type Requested
+      hint: What type of advertisement are you interested in
+      type: select_one
+      options:
+      - Banner Ad
+      - Text Ad
+      - Image Ad
+      - Video Ad
+      - Featured Listing
+      - Sponsored Content
+      - Other
+      required: true
+    - id: 9
+      name: banner_size_preference
+      label: Banner Size Preference
+      hint: If selecting banner ad, what size do you prefer
+      type: select_one
+      options:
+      - 728x90 (Leaderboard)
+      - 468x60 (Full Banner)
+      - 300x250 (Medium Rectangle)
+      - 160x600 (Wide Skyscraper)
+      - 300x600 (Half Page)
+      - Custom Size
+      required: false
+    - id: 10
+      name: placement_preference
+      label: Placement Preference
+      hint: Where would you prefer your ad to be placed
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: campaign_duration
+      label: Campaign Duration
+      hint: How long would you like your ad campaign to run
+      type: select_one
+      options:
+      - 1 Week
+      - 2 Weeks
+      - 1 Month
+      - 3 Months
+      - 6 Months
+      - 1 Year
+      - Ongoing
+      required: true
+    - id: 12
+      name: budget_range
+      label: Budget Range
+      hint: What is your budget range for this advertising purchase
+      type: select_one
+      options:
+      - Under $100
+      - $100-$500
+      - $500-$1000
+      - $1000-$2500
+      - $2500-$5000
+      - Over $5000
+      required: true
+    - id: 13
+      name: target_audience_section
+      label: -- Target Audience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: target_demographics
+      label: Target Demographics
+      hint: Who is your target audience
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: product_service_description
+      label: Product Service Description
+      hint: Brief description of your product or service
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: call_to_action
+      label: Call to Action
+      hint: What action do you want viewers to take
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: creative_content_section
+      label: -- Creative Content --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: logo_or_image_upload
+      label: Logo or Image Upload
+      hint: Upload your logo or ad image (if available)
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: special_requirements
+      label: Special Requirements
+      hint: Any special requirements for your advertisement
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: purchase_authorization
+      label: Purchase Authorization
+      hint: I am authorized to make this advertising purchase
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

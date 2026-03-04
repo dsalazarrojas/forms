@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Applicant Portal Login Assistance Request
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester name
+      hint: Full name of the applicant needing assistance
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email address
+      hint: Account email used for portal login
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone number
+      hint: Optional contact phone for support follow up
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: issue_type
+      label: Issue type
+      hint: Briefly select the kind of problem
+      type: select_one
+      options:
+      - Cannot log in
+      - Password reset
+      - Account locked
+      - Other
+      required: true
+    - id: 5
+      name: username
+      label: Username
+      hint: Portal username if known
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: preferred_contact_method
+      label: Preferred contact method
+      hint: How support should contact you
+      type: select_one
+      options:
+      - Email
+      - Phone
+      required: true
+    - id: 7
+      name: screenshot_filename
+      label: Screenshot filename
+      hint: Name of uploaded screenshot file if provided
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: description
+      label: Problem description
+      hint: Provide a short description of the issue
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: urgency
+      label: Urgency
+      hint: How urgent is this issue
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 10
+      name: internal_notes
+      label: Internal support notes
+      hint: For IT use only
+      type: note
+      options: []
+      required: false

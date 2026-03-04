@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Discretionary Trust Overview Form
+    pages:
+    - id: 1
+      name: trust_arrangement_info
+      label: Trust Arrangement Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: trust_type
+      label: trust_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: trust_type_other
+      label: trust_type_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: grantor
+      label: Grantor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: grantor_relationship
+      label: Grantor Relationship
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: beneficiary
+      label: Beneficiary
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: beneficiary_relationship
+      label: Beneficiary Relationship
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: trust_arrangement_details
+      label: Trust Arrangement Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: asset_distribution
+      label: Asset Distribution
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: asset_distribution_other
+      label: Asset Distribution Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: trust_administration
+      label: Trust Administration
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: trust_administration_other
+      label: Trust Administration Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: trust_arrangement_duration
+      label: Trust Arrangement Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: trust_arrangement_end_date
+      label: Trust Arrangement End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: trust_arrangement_start_date
+      label: Trust Arrangement Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: trust_arrangement_status
+      label: Trust Arrangement Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 17
+      name: trust_arrangement_other
+      label: Trust Arrangement Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: trust_arrangement_comments
+      label: Trust Arrangement Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: review_and_approval
+      label: Review and Approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: review_and_approval_other
+      label: Review and Approval Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: trust_documentation
+      label: Trust Documentation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: trust_documentation_other
+      label: Trust Documentation Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: trust_documentation_status
+      label: Trust Documentation Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 24
+      name: trust_documentation_status_other
+      label: Trust Documentation Status Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true

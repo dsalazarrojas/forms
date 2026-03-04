@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: health-challenge-leave-time-off-form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: doctor_certification
+      label: Doctor Certification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_records
+      label: Medical Records
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: doctor_note
+      label: Doctor's Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_status
+      label: Employee Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Inactive''}'
+      - '{''label'': ''Retired''}'
+      required: false
+    - id: 9
+      name: leave_type
+      label: Leave Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Sick Leave''}'
+      - '{''label'': ''Family Leave''}'
+      - '{''label'': ''Bereavement Leave''}'
+      - '{''label'': ''Military Leave''}'
+      - '{''label'': ''Jury Duty Leave''}'
+      - '{''label'': ''Vacation Leave''}'
+      - '{''label'': ''Parental Leave''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 10
+      name: approver_name
+      label: Approver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: approver_approvals
+      label: Approver Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Approve''}'
+      - '{''label'': ''Reject''}'
+      - '{''label'': ''Hold''}'
+      required: false
+    - id: 12
+      name: review_note
+      label: Review Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false

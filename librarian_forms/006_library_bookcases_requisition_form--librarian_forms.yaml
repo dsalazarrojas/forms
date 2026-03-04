@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Library Bookcases Requisition Form
+    pages:
+    - id: 1
+      name: requisition_details
+      label: Requisition Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: bookcases_needed
+      label: Bookcases Needed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: bookcases_type
+      label: Bookcases Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Bookcases Type 1'', ''value'': ''1''}'
+      - '{''label'': ''Bookcases Type 2'', ''value'': ''2''}'
+      - '{''label'': ''Bookcases Type 3'', ''value'': ''3''}'
+      required: true
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Accounting'', ''value'': ''Accounting''}'
+      - '{''label'': ''Administration'', ''value'': ''Administration''}'
+      - '{''label'': ''Finance'', ''value'': ''Finance''}'
+      required: false
+    - id: 6
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: department_2
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Accounting'', ''value'': ''Accounting''}'
+      - '{''label'': ''Administration'', ''value'': ''Administration''}'
+      - '{''label'': ''Finance'', ''value'': ''Finance''}'
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_person_phone
+      label: Contact Person Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_person_email
+      label: Contact Person Email
+      hint: null
+      type: email
+      options: []
+      required: false

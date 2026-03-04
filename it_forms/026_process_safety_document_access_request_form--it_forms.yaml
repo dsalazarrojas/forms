@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Process Safety Document Access Request Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Procedure'', ''value'': ''Procedure''}'
+      - '{''id'': 2, ''label'': ''Policy'', ''value'': ''Policy''}'
+      - '{''id'': 3, ''label'': ''Standard'', ''value'': ''Standard''}'
+      required: false
+    - id: 3
+      name: document_id
+      label: Document ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Engineering'', ''value'': ''Engineering''}'
+      - '{''id'': 2, ''label'': ''Maintenance'', ''value'': ''Maintenance''}'
+      - '{''id'': 3, ''label'': ''Operations'', ''value'': ''Operations''}'
+      required: false
+    - id: 5
+      name: reason_for_request
+      label: Reason for Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: document_location
+      label: Document Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Manager 1'', ''value'': ''Manager 1''}'
+      - '{''id'': 2, ''label'': ''Manager 2'', ''value'': ''Manager 2''}'
+      - '{''id'': 3, ''label'': ''Manager 3'', ''value'': ''Manager 3''}'
+      required: false
+    - id: 10
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false

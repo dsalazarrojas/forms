@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Licensing Contract Form
+    pages:
+    - id: 1
+      name: licensor_name
+      label: Licensor name
+      hint: Name of artist or rights holder
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: licensee_name
+      label: Licensee name
+      hint: Name of individual or organization licensing artwork
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: artwork_title
+      label: Artwork title
+      hint: Title of the licensed artwork
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: license_scope
+      label: License scope
+      hint: Usage rights being granted
+      type: select_one
+      options:
+      - Commercial
+      - Editorial
+      - Personal
+      - Nonexclusive
+      - Exclusive
+      required: true
+    - id: 5
+      name: territory
+      label: Territory
+      hint: Geographical scope of license
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: duration
+      label: Duration of license
+      hint: Start and end dates
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: fee
+      label: License fee
+      hint: Agreed licensing fee
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: payment_terms
+      label: Payment terms
+      hint: Payment schedule and method
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: usage_restrictions
+      label: Usage restrictions
+      hint: Any limitations or prohibited uses
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: signatures
+      label: Signatures
+      hint: Licensor and licensee signatures and dates
+      type: text
+      options: []
+      required: true

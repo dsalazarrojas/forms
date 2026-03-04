@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Device Erasure Verification Issue Report Form
+    pages:
+    - id: 1
+      name: device_erasure_verification_issue_report_form
+      label: What is the issue with the device?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: asset_id
+      label: Asset ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: device_id
+      label: Device ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: asset_name
+      label: Asset Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: device_name
+      label: Device Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: asset_type
+      label: Asset Type
+      hint: null
+      type: select_one
+      options:
+      - Laptop
+      - Desktop
+      - Mobile
+      - Tablet
+      - Other
+      required: false
+    - id: 7
+      name: asset_status
+      label: Asset Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Pending
+      - Unknown
+      required: false
+    - id: 8
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: issue_priority
+      label: Issue Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 10
+      name: issue_status
+      label: Issue Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - In Progress
+      - Done
+      - Rejected
+      - Closed
+      required: false
+    - id: 11
+      name: submitter
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: Submitter Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitter_team
+      label: Submitter Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: reviewer_department
+      label: Reviewer Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: reviewer_team
+      label: Reviewer Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: reviewer_notes
+      label: Reviewer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: submitter_company
+      label: Submitter Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_location
+      label: Submitter Location
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nda Non Disclosure Agreement Consent Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: Address
+      hint: Please enter your work address
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: Please enter your business email
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Please enter your business phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Executive''}'
+      - '{''option2'': ''Employee''}'
+      - '{''option2'': ''Officer''}'
+      required: true
+    - id: 7
+      name: company_type
+      label: Company Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Private''}'
+      - '{''option2'': ''Public''}'
+      - '{''option2'': ''Non Profit''}'
+      required: true
+    - id: 8
+      name: project_name
+      label: Project Name
+      hint: Please enter the name of the project
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_details
+      label: Project Details
+      hint: Please enter details of the project
+      type: text
+      options: []
+      required: false

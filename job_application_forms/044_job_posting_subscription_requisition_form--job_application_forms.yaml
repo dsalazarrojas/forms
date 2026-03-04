@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Posting Subscription Requisition Form
+    pages:
+    - id: 1
+      name: job_posting_subscription
+      label: Job Posting Subscription
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_location
+      label: Job Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_category
+      label: Job Category
+      hint: null
+      type: select_one
+      options:
+      - category1
+      - category2
+      - category3
+      - category4
+      required: false
+    - id: 5
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_posting_subscription_date
+      label: Job Posting Subscription Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: job_requisitioner_email
+      label: Job Requisitioner Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: job_requisitioner_phone
+      label: Job Requisitioner Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - department1
+      - department2
+      - department3
+      required: false
+    - id: 10
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - status1
+      - status2
+      - status3
+      - status4
+      - status5
+      - status6
+      required: false
+    - id: 14
+      name: job_level
+      label: Job Level
+      hint: null
+      type: select_one
+      options:
+      - level1
+      - level2
+      required: false
+    - id: 15
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - type1
+      - type2
+      - type3
+      - type4
+      required: false
+    - id: 16
+      name: job_posting_subscription_type
+      label: Job Posting Subscription Type
+      hint: null
+      type: select_one
+      options:
+      - subscription1
+      - subscription2
+      - subscription3
+      required: false
+    - id: 17
+      name: job_posting_subscription_status
+      label: Job Posting Subscription Status
+      hint: null
+      type: select_one
+      options:
+      - status1
+      - status2
+      - status3
+      required: false
+    - id: 18
+      name: job_posting_subscription_date_start
+      label: Job Posting Subscription Start Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: job_posting_subscription_date_end
+      label: Job Posting Subscription End Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: attachments
+      label: Attachments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: job_posting_requisitioner
+      label: Job Posting Requisitioner
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: job_posting_subcriptioner
+      label: Job Posting Subcriptioner
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: job_posting_subscriptioner
+      label: Job Posting Subscriptioner
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

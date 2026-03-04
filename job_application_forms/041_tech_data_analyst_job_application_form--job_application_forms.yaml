@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tech Data Analyst Job Application Form
+    pages:
+    - id: 1
+      name: first_page
+      label: Job Application Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Resume: CV/Resume'
+      - 'Resume: Cover Letter'
+      - 'Resume: Portfolio'
+      - 'Resume: References'
+      - 'Resume: Availability'
+      - 'Other: Resume'
+      required: false
+    - id: 2
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: cover_letter
+      label: Cover Letter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: portfolio
+      label: Portfolio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: references
+      label: References
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - Full-Time
+      - Part-Time
+      - Intern
+      required: true
+    - id: 17
+      name: salary_range
+      label: Salary Range
+      hint: null
+      type: select_multiple
+      options:
+      - $30-$50,000
+      - $51-$75,000
+      - $76,000-$100,000
+      - $100,000+
+      required: true
+    - id: 18
+      name: work_location
+      label: Work Location
+      hint: null
+      type: select_multiple
+      options:
+      - Remote
+      - On-site
+      - Hybrid
+      - Other
+      required: true
+    - id: 19
+      name: work_status
+      label: Work Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Part-time/Contract
+      - Retired
+      required: true
+    - id: 20
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 0-1 year
+      - 2-5 years
+      - 5-10 years
+      - 10+ years
+      required: true
+    - id: 21
+      name: education
+      label: Education
+      hint: null
+      type: select_multiple
+      options:
+      - Bachelor's Degree
+      - Master's Degree
+      - Ph.D.
+      - Other
+      required: true
+    - id: 22
+      name: skills
+      label: Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Analytical
+      - Data Analysis
+      - Data Visualization
+      - Data Mining
+      - Other
+      required: false
+    - id: 23
+      name: languages
+      label: Languages
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - Chinese
+      - Other
+      required: false
+    - id: 24
+      name: availability_date
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: job_url
+      label: Job URL
+      hint: null
+      type: text
+      options: []
+      required: false

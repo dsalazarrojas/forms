@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Leave Or Remote Work Request Form
+    pages:
+    - id: 1
+      name: leave_or_remote_work_request_form_1
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: leave_or_remote_work_request_form_2_employees_info
+      label: Employee Information
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Employee 1''}'
+      - '{''id'': 2, ''name'': ''Employee 2''}'
+      - '{''id'': 3, ''name'': ''Employee 3''}'
+      required: false
+    - id: 3
+      name: leave_or_remote_work_request_form_3_employees_name
+      label: prophets_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: leave_or_remote_work_request_form_4_employees_email
+      label: employees_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: leave_or_remote_work_request_form_5_employees_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: leave_or_remote_work_request_form_6_dates_of_absence
+      label: dates_of_absence
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: leave_or_remote_work_request_form_7_type_of_leave
+      label: type_of prophets_leave
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Sick Leave''}'
+      - '{''id'': 2, ''name'': ''Remote Work''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: false
+    - id: 8
+      name: leave_or_remote_work_request_form_8_reason
+      label: reason_for_leave
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Personal/Family Leave''}'
+      - '{''id'': 2, ''name'': ''Bereavement Leave''}'
+      - '{''id'': 3, ''name'': ''Family/Medical Leave''}'
+      required: false
+    - id: 9
+      name: approval
+      label: Approval
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Manager Approval''}'
+      - '{''id'': 2, ''name'': ''Team Lead Approval''}'
+      - '{''id'': 3, ''name'': ''Director Approval''}'
+      required: false
+    - id: 10
+      name: leave_or_remote_work_request_form_10_comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: leave_or_remote_work_request_form_11_employees_status
+      label: employee_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Active''}'
+      - '{''id'': 2, ''name'': ''Inactive''}'
+      - '{''id'': 3, ''name'': ''On Leave''}'
+      required: false
+    - id: 12
+      name: leave_or_remote_work_request_form_12_approvals_comments
+      label: prophets_comments
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Approval''}'
+      - '{''id'': 2, ''name'': ''Rejection''}'
+      - '{''id'': 3, ''name'': ''Pending''}'
+      required: false

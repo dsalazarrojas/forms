@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: IT Access Request Form V2
+    pages:
+    - id: 1
+      name: user_first_name
+      label: User First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_last_name
+      label: User Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: user_phone_number
+      label: User Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: access_requests
+      label: Access Requests
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''access_request'', ''label'': ''Access Request 1''}'
+      - '{''id'': 2, ''name'': ''access_request_2'', ''label'': ''Access Request 2''}'
+      - '{''id'': 3, ''name'': ''access_request_3'', ''label'': ''Access Request 3'',
+        ''hint'': ''Please select all applicable requests''}'
+      required: true
+    - id: 6
+      name: request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: submit_request
+      label: Submit Request
+      hint: null
+      type: text
+      options: []
+      required: false

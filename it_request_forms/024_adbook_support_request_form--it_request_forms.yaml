@@ -1,0 +1,136 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: AdBook Support Request Form
+    pages:
+    - id: 1
+      name: user_info_header
+      label: -- User Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_org
+      label: Company / Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: request_details_header
+      label: -- Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: issue_category
+      label: Support Category
+      hint: null
+      type: select_one
+      options:
+      - Account Access / Password
+      - Campaign Management
+      - Reporting / Data Discrepancy
+      - Creative Upload Issues
+      - Billing / Invoicing
+      - Feature Request / Feedback
+      required: true
+    - id: 7
+      name: urgency_level
+      label: Urgency
+      hint: null
+      type: select_one
+      options:
+      - Low - Question / General Inquiry
+      - Medium - Workflow Impeded
+      - High - Critical Issue / System Down
+      - Emergency - Immediate Attention Required
+      required: true
+    - id: 8
+      name: subject_line
+      label: Brief Subject / Issue Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: detailed_description
+      label: Detailed Description of the Issue
+      hint: Please provide steps to reproduce if it's a bug
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: ad_campaign_id
+      label: Related Campaign ID / Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: os_browser
+      label: Operating System and Browser
+      hint: e.g. Windows 11 - Chrome
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: previous_tickets
+      label: Related Previous Ticket Number
+      hint: If this is a follow-up
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: screenshot_confirmation
+      label: Do you have screenshots to provide?
+      hint: A support agent will request these in the follow-up email
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 14
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In-App Chat
+      required: true
+    - id: 15
+      name: submission_timestamp
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manufacturing Skilled Worker Job Application
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: skills
+      label: Skills
+      hint: null
+      type: select_multiple
+      options:
+      - accounting
+      - engineering
+      - programming
+      required: true
+    - id: 9
+      name: work_education
+      label: Work Education
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: available_dates
+      label: Available Dates
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      required: false
+    - id: 12
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 13
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: shift_type
+      label: Shift Type
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Night
+      required: false
+    - id: 16
+      name: job_type_details
+      label: Job Type Details
+      hint: null
+      type: text
+      options: []
+      required: false

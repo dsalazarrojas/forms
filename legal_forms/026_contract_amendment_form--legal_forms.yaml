@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contract Amendment Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Requestor Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requestor_title
+      label: Requestor Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization
+      hint: Company name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: amendment_date
+      label: Amendment Date
+      hint: Date of amendment
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: original_contract_title
+      label: Original Contract Title
+      hint: Name of original contract
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: original_contract_date
+      label: Original Contract Date
+      hint: Date of original contract
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: original_contract_number
+      label: Original Contract Number
+      hint: Contract reference number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: parties_involved
+      label: Parties Involved
+      hint: List all parties
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: amendment_type
+      label: Amendment Type
+      hint: Type of change
+      type: select_one
+      options:
+      - Price adjustment
+      - Timeline extension
+      - Scope change
+      - Terms modification
+      - Party addition or removal
+      - Correction of errors
+      - Other
+      required: true
+    - id: 10
+      name: section_affected
+      label: Section Affected
+      hint: Which section is being amended?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: current_language
+      label: Current Language
+      hint: Existing contract language
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: proposed_language
+      label: Proposed Language
+      hint: New amended language
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: reason_for_amendment
+      label: Reason for Amendment
+      hint: Why is this change needed?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: impact_assessment
+      label: Impact Assessment
+      hint: What is the impact?
+      type: select_one
+      options:
+      - No financial impact
+      - Cost increase
+      - Cost decrease
+      - Timeline impact
+      - Scope impact
+      - Multiple impacts
+      required: true
+    - id: 15
+      name: financial_impact_amount
+      label: Financial Impact Amount
+      hint: Dollar amount if applicable
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: effective_date
+      label: Effective Date
+      hint: When does amendment take effect?
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: expiration_date
+      label: Expiration Date
+      hint: New expiration if changed
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: legal_review_completed
+      label: Legal Review Completed
+      hint: Has legal reviewed?
+      type: select_one
+      options:
+      - true
+      - false
+      - In progress
+      required: true
+    - id: 19
+      name: all_parties_consent
+      label: All Parties Consent
+      hint: Do all parties agree?
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending
+      required: true
+    - id: 20
+      name: attachments
+      label: Attachments
+      hint: List attached documents
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: authorized_signature
+      label: Authorized Signature
+      hint: Type name as signature
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

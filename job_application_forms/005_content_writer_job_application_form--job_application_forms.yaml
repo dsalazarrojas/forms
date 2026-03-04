@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Writer Job Application Form
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: City and state
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: linkedin_profile
+      label: LinkedIn Profile
+      hint: URL to your LinkedIn
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: portfolio_website
+      label: Portfolio Website
+      hint: URL to your portfolio
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: position_applied
+      label: Position Applied For
+      hint: Select the role
+      type: select_one
+      options:
+      - Junior Content Writer
+      - Content Writer
+      - Senior Content Writer
+      - Technical Writer
+      - Copywriter
+      - Content Strategist
+      - Editor
+      required: true
+    - id: 8
+      name: availability
+      label: Availability
+      hint: When can you start?
+      type: select_one
+      options:
+      - Immediately
+      - 2 weeks notice
+      - 1 month notice
+      - Other
+      required: true
+    - id: 9
+      name: employment_type
+      label: Employment Type Preference
+      hint: Work arrangement
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Contract
+      - Freelance
+      required: true
+    - id: 10
+      name: years_experience
+      label: Years of Writing Experience
+      hint: Total professional experience
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: writing_specialties
+      label: Writing Specialties
+      hint: Select your areas of expertise
+      type: select_multiple
+      options:
+      - Blog Posts
+      - Technical Writing
+      - Copywriting
+      - SEO Content
+      - Social Media
+      - Whitepapers
+      - Case Studies
+      - Email Marketing
+      - Grant Writing
+      - Creative Writing
+      required: true
+    - id: 12
+      name: industry_experience
+      label: Industry Experience
+      hint: Industries you have worked in
+      type: select_multiple
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Education
+      - E-commerce
+      - Real Estate
+      - Legal
+      - Marketing
+      - Nonprofit
+      - Government
+      required: false
+    - id: 13
+      name: education_level
+      label: Highest Education Level
+      hint: Your highest degree
+      type: select_one
+      options:
+      - High School
+      - Associate Degree
+      - Bachelor's Degree
+      - Master's Degree
+      - Doctorate
+      - Other
+      required: true
+    - id: 14
+      name: degree_field
+      label: Field of Study
+      hint: Major or concentration
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: university_name
+      label: University Name
+      hint: Institution name
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: graduation_year
+      label: Graduation Year
+      hint: Year completed
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: writing_samples
+      label: Writing Samples
+      hint: Links to 2-3 writing samples
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: cover_letter
+      label: Cover Letter
+      hint: Brief statement about yourself
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: salary_expectations
+      label: Salary Expectations
+      hint: Expected annual salary or hourly rate
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: remote_work_preference
+      label: Remote Work Preference
+      hint: Work location preference
+      type: select_one
+      options:
+      - Fully Remote
+      - Hybrid
+      - On-site
+      - Flexible
+      required: true
+    - id: 21
+      name: references_available
+      label: References Available
+      hint: Can you provide references?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: additional_skills
+      label: Additional Skills
+      hint: Other relevant skills
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: how_did_you_hear
+      label: How Did You Hear About Us?
+      hint: Source of job posting
+      type: select_one
+      options:
+      - Company Website
+      - LinkedIn
+      - Indeed
+      - Glassdoor
+      - Referral
+      - Social Media
+      - Job Board
+      - Other
+      required: false
+    - id: 24
+      name: referral_name
+      label: Referral Name
+      hint: If referred, who referred you?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else you would like to share
+      type: text
+      options: []
+      required: false

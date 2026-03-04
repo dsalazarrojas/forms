@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: IT Operation Checklist
+    pages:
+    - id: 1
+      name: computer_status
+      label: Computer Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 2
+      name: server_status
+      label: Server Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 3
+      name: network_status
+      label: Network Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: user_impact
+      label: User Impact
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: tech_support_team
+      label: Tech Support Team
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: date_last_update
+      label: Date Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_last_update
+      label: Time Last Updated
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: property-climate-consultant-contact-form
+    pages:
+    - id: 1
+      name: property_owner_info
+      label: prophets info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_info
+      label: property info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: consultant_availability
+      label: consultant-availability
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: consultation_preference
+      label: consultation-preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: schedule_consultation
+      label: schedule-consultation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: message
+      label: message
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: property_climate_consultant
+      label: property-climate-consultant
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: property_owner
+      label: property-owner
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: property_management_team
+      label: property-management-team
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: property_details
+      label: property-details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: property_climate_consultant_notes
+      label: consultant-notes
+      hint: null
+      type: note
+      options: []
+      required: true

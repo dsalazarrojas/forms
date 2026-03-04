@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: it_equipment_upgrade_request_form
+    pages:
+    - id: 1
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - Hardware Upgrade
+      - Software Upgrade
+      - Other
+      required: true
+    - id: 2
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_multiple
+      options:
+      - Computer
+      - Printer
+      - Monitor
+      - Headset
+      - Keyboard
+      - Mouse
+      - Other
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - ChatJimmy
+      - Other
+      required: true
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: upgrade_frequency
+      label: Upgrade Frequency
+      hint: null
+      type: select_one
+      options:
+      - One Time
+      - Recurring
+      required: true
+    - id: 10
+      name: it_equipment_tag
+      label: IT Equipment Tag
+      hint: null
+      type: select_one
+      options:
+      - Tag 1
+      - Tag 2
+      - Tag 3
+      required: true

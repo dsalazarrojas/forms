@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Heat Transfer Unit Conversion Calculator
+    pages:
+    - id: 1
+      name: input_values_1
+      label: Heat Transfer Value 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: input_values_2
+      label: Heat Transfer Value 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: select_transfer_mode_1
+      label: Transfer Mode
+      hint: null
+      type: select_one
+      options:
+      - Conduction, Convection, Radiation
+      - Other
+      required: false
+    - id: 4
+      name: select_transfer_mode_2
+      label: Second Transfer Mode
+      hint: null
+      type: select_one
+      options:
+      - Conduction, Convection, Radiation
+      - Other
+      required: false
+    - id: 5
+      name: output_value_1
+      label: Result
+      hint: null
+      type: number
+      options: []
+      required: false

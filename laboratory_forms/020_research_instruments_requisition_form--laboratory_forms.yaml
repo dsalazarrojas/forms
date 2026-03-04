@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Research Instruments Requisition Form
+    pages:
+    - id: 1
+      name: instrument_requested
+      label: Research Instruments Requested
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: research_instrument_category
+      label: Research Instruments Category
+      hint: null
+      type: select_one
+      options:
+      - Instrumentation Services
+      - Equipment
+      - Supplies
+      required: false
+    - id: 3
+      name: research_instrument_model
+      label: Instrument Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: research_instrument_description
+      label: Research Instruments Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: research_instrument_quantity
+      label: Research Instruments Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: purchase_approved_by
+      label: Purchase Approved By
+      hint: null
+      type: select_multiple
+      options:
+      - Director
+      - Manager
+      - Researcher
+      required: false
+    - id: 7
+      name: department_requested
+      label: Department Requested
+      hint: null
+      type: select_one
+      options:
+      - Lab
+      - R&D
+      - Admin
+      required: false
+    - id: 8
+      name: research_instrument_price
+      label: Research Instruments Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: date_received
+      label: Date Received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: date_required
+      label: Date Required
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_required
+      label: Time Required
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Save for Later
+      - Cancel
+      required: false

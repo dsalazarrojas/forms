@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Model Application 2
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: model_bio
+      label: Model Bio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Fashion
+      - Art
+      - Sport
+      - Music
+      - Theater
+      - Dance
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: false
+    - id: 10
+      name: assigned_tool_other
+      label: Assigned Tool Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: output_file
+      label: Output File
+      hint: null
+      type: select_one
+      options:
+      - 049_model_application_2--job_application_forms.yaml
+      - other
+      required: false
+    - id: 13
+      name: output_file_other
+      label: Output File Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: output_file_uploads
+      label: Output File Uploads
+      hint: null
+      type: select_multiple
+      options:
+      - 049_model_application_2--job_application_forms.yaml
+      - other
+      required: false
+    - id: 15
+      name: output_file_uploads_other
+      label: Output File Uploads Other
+      hint: null
+      type: text
+      options: []
+      required: false

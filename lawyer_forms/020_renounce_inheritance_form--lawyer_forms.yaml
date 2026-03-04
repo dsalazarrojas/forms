@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Renounce Inheritance Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: First name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: Last name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: relationship_status
+      label: Relationship status
+      hint: Relationship status
+      type: select_one
+      options:
+      - '{''option1'': ''single''}'
+      - '{''option2'': ''married''}'
+      - '{''option3'': ''divorced''}'
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: Address
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: Phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of birth
+      hint: Date of birth
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: reason_for_renouncing
+      label: Reason for renouncing
+      hint: Reason for renouncing
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: signature
+      label: Signature
+      hint: Signature
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: witness_signature
+      label: Witness signature
+      hint: Witness signature
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: witness_name
+      label: Witness name
+      hint: Witness name
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: witness_address
+      label: Witness address
+      hint: Witness address
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notary_public
+      label: Notary public
+      hint: Notary public
+      type: text
+      options: []
+      required: false

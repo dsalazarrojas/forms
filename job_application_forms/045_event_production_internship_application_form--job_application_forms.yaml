@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Production Internship Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: experience_years
+      label: Experience Years
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: available_start_date
+      label: Available Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: available_end_date
+      label: Available End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: select_one
+      options:
+      - 8-16
+      - 12-24
+      - 6-24
+      - 16-32
+      - 24-48
+      - 4-24
+      - 32-48
+      - 2-16
+      required: true
+    - id: 10
+      name: available_days_per_week
+      label: Available Days per Week
+      hint: null
+      type: select_multiple
+      options:
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      - Monday
+      - Sunday to Friday
+      required: true
+    - id: 11
+      name: availability
+      label: Availability
+      hint: null
+      type: select_one
+      options:
+      - Flexible
+      - Part-time
+      - Full-time
+      required: true
+    - id: 12
+      name: notice_period
+      label: Notice Period
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: salary_range
+      label: Salary Range
+      hint: null
+      type: select_one
+      options:
+      - 20-25
+      - 25-30
+      - 25-30
+      - 30-35
+      - 35-40
+      - Below 20
+      - 40-45
+      - 45-50
+      required: true
+    - id: 14
+      name: notice_period_unit
+      label: Notice Period Unit
+      hint: null
+      type: select_one
+      options:
+      - Hour
+      - Half Day
+      - Day
+      required: false
+    - id: 15
+      name: availability_notes
+      label: Availability Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - Spouse
+      - Family Member
+      - Friend
+      - Coworker
+      required: false
+    - id: 19
+      name: skills
+      label: Relevant Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Photography
+      - Writing
+      - Graphic Design
+      - Social Media Management
+      - Event Planning
+      - Video Production
+      - Music Production
+      - Audio Production
+      required: true
+    - id: 20
+      name: languages
+      label: Languages
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - German
+      - Italian
+      - Other
+      required: false
+    - id: 21
+      name: references
+      label: References
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: availability_period
+      label: Availability Period
+      hint: null
+      type: select_one
+      options:
+      - Short-term
+      - Long-term
+      required: true
+    - id: 23
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: select_one
+      options:
+      - Intern
+      - Freelance
+      - Part-time
+      required: true
+    - id: 24
+      name: work_experience_start_date
+      label: Work Experience Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: work_experience_end_date
+      label: Work Experience End Date
+      hint: null
+      type: date
+      options: []
+      required: false

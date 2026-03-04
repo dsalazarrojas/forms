@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: refrigerator_maintenance_checklist
+    pages:
+    - id: 1
+      name: refrigerator_model
+      label: Refrigerator Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: maintenance_date
+      label: Maintenance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: defrosting_status
+      label: Defrosting Status
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: compressor_status
+      label: Compressor Status
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Bad
+      - Unknown
+      required: false
+    - id: 5
+      name: door_status
+      label: Door Status
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Bad
+      - Needs Repair
+      required: false
+    - id: 6
+      name: temperature
+      label: Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: power_status
+      label: Power Status
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Bad
+      - Unknown
+      required: false
+    - id: 8
+      name: defrost_time
+      label: Defrost Time
+      hint: null
+      type: time
+      options: []
+      required: false

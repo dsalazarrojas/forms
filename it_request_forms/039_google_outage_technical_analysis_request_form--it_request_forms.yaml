@@ -1,0 +1,251 @@
+inputSchema:
+  type: object
+  properties:
+    title: Google Outage Technical Analysis Request Form
+    pages:
+    - id: 1
+      name: google_outage_form_title
+      label: Google Outage Technical Analysis Request Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_impact
+      label: Business Impact
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - None
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_location
+      label: Business Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: start_time
+      label: Start Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: end_time
+      label: End Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: start_time_am_pm
+      label: Start Time AM/PM
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: start_time_tzone
+      label: Start Time Timezone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: end_time_am_pm
+      label: End Time AM/PM
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: end_time_tzone
+      label: End Time Timezone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: business_email
+      label: Business Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: business_phone
+      label: Business Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: tech_contact
+      label: Tech Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 22
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: business_type
+      label: Business Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: business_type_list
+      label: Business Type List
+      hint: null
+      type: select_multiple
+      options:
+      - Retail
+      - Financial
+      - Health
+      required: true
+    - id: 26
+      name: submitter_type
+      label: Submitter Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: submitter_type_list
+      label: Submitter Type List
+      hint: null
+      type: select_multiple
+      options:
+      - Internal
+      - External
+      required: false
+    - id: 28
+      name: business_sector
+      label: Business Sector
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: business_sector_list
+      label: Business Sector List
+      hint: null
+      type: select_multiple
+      options:
+      - Finance
+      - Healthcare
+      - Retail
+      required: false
+    - id: 30
+      name: business_location_type
+      label: Business Location Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: business_location_type_list
+      label: Business Location Type List
+      hint: null
+      type: select_multiple
+      options:
+      - Physical
+      - Virtual
+      required: false
+    - id: 32
+      name: manager_type
+      label: Manager Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: manager_type_list
+      label: Manager Type List
+      hint: null
+      type: select_multiple
+      options:
+      - Internal
+      - External
+      required: false

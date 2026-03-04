@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Drug Delivery Research Intake Form
+    pages:
+    - id: 1
+      name: drug_delivery_research_intake_form
+      label: Drug Delivery Research Intake Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: research_inquiries
+      hint: null
+      type: select_one
+      options:
+      - Lab
+      - University
+      - R&D Team
+      required: false
+    - id: 3
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: research_area_of_interest
+      label: research_area_of_interest
+      hint: null
+      type: select_multiple
+      options:
+      - Cancer
+      - Neurological
+      - Cardiovascular
+      - Pulmonary
+      - Infectious
+      - Metabolic
+      - Rheumatology
+      - Oncology
+      required: true
+    - id: 9
+      name: research_area_of_interest_other
+      label: research_area_of_interest_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_request
+      label: follow_up_request
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_time
+      label: follow_up_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - Jim
+      - Jen
+      - John
+      required: false
+    - id: 16
+      name: follow_up_reminders
+      label: follow_up_reminders
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 17
+      name: reminders_sent
+      label: reminders_sent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: next_follow_up
+      label: next_follow_up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: next_follow_up_time
+      label: next_follow_up_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_by
+      label: follow_up_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_notes
+      label: follow_up_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_frequency
+      label: follow_up_frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 23
+      name: follow_up_last_sent
+      label: follow_up_last_sent
+      hint: null
+      type: select_one
+      options:
+      - Yesterday
+      - Today
+      - This week
+      required: false
+    - id: 24
+      name: follow_up_sent_to
+      label: follow_up_sent_to
+      hint: null
+      type: select_multiple
+      options:
+      - Jim
+      - Jen
+      - Jane
+      required: false
+    - id: 25
+      name: follow_up_last_sent_to
+      label: follow_up_last_sent_to
+      hint: null
+      type: select_multiple
+      options:
+      - Jim
+      - Jen
+      - Jane
+      required: false

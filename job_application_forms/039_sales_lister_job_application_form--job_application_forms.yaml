@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Lister Job Application Form
+    pages:
+    - id: 1
+      name: form_info
+      label: Form Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Sales Representative'', ''value'': ''Sales Representative''}'
+      - '{''id'': 2, ''label'': ''Sales Manager'', ''value'': ''Sales Manager''}'
+      required: true
+    - id: 7
+      name: years_of_experience
+      label: Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High School Diploma'', ''value'': ''High School
+        Diploma''}'
+      - '{''id'': 2, ''label'': "Bachelor''s Degree", ''value'': "Bachelor''s Degree"}'
+      - '{''id'': 3, ''label'': ''Postgraduate Degree'', ''value'': ''Postgraduate
+        Degree''}'
+      required: false

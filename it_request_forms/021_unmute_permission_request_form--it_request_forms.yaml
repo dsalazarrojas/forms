@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Unmute Permission Request Form
+    pages:
+    - id: 1
+      name: unmute_permission_request_form_1
+      label: unmute_request
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: unmute_request_form_channel_id
+      label: channel
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: unmute_request_form_reason
+      label: reason
+      hint: Provide a clear reason for your request.
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: unmute_request_form_approvals
+      label: approvals
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: unmute_request_form_comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: unmute_request_form_moderator_notes
+      label: moderator_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: unmute_request_form_moderator_approvals
+      label: moderator_approvals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: unmute_request_form_requestor
+      label: requestor
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: unmute_request_form_requestor_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: unmute_request_form_requestor_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: unmute_request_form_channel
+      label: channel
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: unmute_request_form_requestor
+      label: requestor
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: unmute_request_form_requestee
+      label: requestee
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: unmute_request_form_requestee_id
+      label: requestee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: unmute_request_form_moderators
+      label: moderators
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: unmute_request_form_moderator
+      label: moderator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: unmute_request_form_moderator_id
+      label: moderator_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: unmute_request_form_moderator_group
+      label: moderator_group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: unmute_request_form_moderator_group_id
+      label: moderator_group_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: unmute_request_form_moderator_group_name
+      label: moderator_group_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: unmute_request_form_requestor_group
+      label: requestor_group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: unmute_request_form_requestor_group_id
+      label: requestor_group_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: unmute_request_form_requestor_group_name
+      label: requestor_group_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: unmute_request_form_requestor_group_type
+      label: requestor_group_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: unmute_request_form_moderator_requestor
+      label: moderator_requestor
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 26
+      name: unmute_request_form_requestee_type
+      label: requestee_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

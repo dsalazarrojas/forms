@@ -1,0 +1,250 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Tax Questionnaire
+    pages:
+    - id: 1
+      name: intro_section
+      label: Tax Information Questionnaire
+      hint: Please provide information about your tax situation
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_info
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: ssn_last_four
+      label: Last 4 Digits of Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: tax_year
+      label: Tax Year
+      hint: What year is this for?
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: filing_section
+      label: -- Filing Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: filing_status
+      label: Filing Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married Filing Jointly
+      - Married Filing Separately
+      - Head of Household
+      - Qualifying Widow(er)
+      required: true
+    - id: 10
+      name: dependents
+      label: Number of Dependents
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: employment_section
+      label: -- Employment and Income --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: employment_type
+      label: Employment Type
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Self-Employed
+      - Both Employed and Self-Employed
+      - Retired
+      - Unemployed
+      - Other
+      required: true
+    - id: 13
+      name: number_of_employers
+      label: How many employers in 2024?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: spouse_employment
+      label: Spouse Employment Status
+      hint: If applicable
+      type: select_one
+      options:
+      - Not Applicable
+      - Employed
+      - Self-Employed
+      - Retired
+      - Unemployed
+      required: false
+    - id: 15
+      name: business_section
+      label: -- Business and Self-Employment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: self_employed_business
+      label: Do you have self-employment income?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: business_type
+      label: Type of Business
+      hint: Consulting, freelancing, retail, etc.
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: business_start_date
+      label: When did you start the business?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: business_location
+      label: Where is your business located?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: home_office
+      label: Do you use a home office for business?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: home_office_size
+      label: Approximate home office square footage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: deductions_section
+      label: -- Deductions and Expenses --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: itemize_or_standard
+      label: Do you want to itemize deductions or take standard deduction?
+      hint: null
+      type: select_one
+      options:
+      - Standard Deduction
+      - Itemize Deductions
+      - Not Sure
+      required: true
+    - id: 24
+      name: mortgage_interest_paid
+      label: Did you pay mortgage interest?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: property_taxes_paid
+      label: Did you pay property taxes?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 26
+      name: charitable_donations_given
+      label: Did you make charitable contributions?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 27
+      name: charitable_donation_amount
+      label: Approximate amount of charitable donations
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: medical_expenses_paid
+      label: Did you pay significant medical expenses?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 29
+      name: student_loan_interest
+      label: Did you pay student loan interest?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 30
+      name: education_costs
+      label: Did you or family members have education costs?
+      hint: Tuition, books, fees
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

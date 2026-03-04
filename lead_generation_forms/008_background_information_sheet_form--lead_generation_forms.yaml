@@ -1,0 +1,208 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Background Information Sheet Form
+    pages:
+      - id: 1
+        name: section_personal
+        label: -- Personal Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: first_name
+        label: First Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: last_name
+        label: Last Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: phone
+        label: Phone Number
+        hint: null
+        type: phone
+        options: []
+        required: true
+      - id: 6
+        name: date_of_birth
+        label: Date of Birth
+        hint: null
+        type: date
+        options: []
+        required: false
+      - id: 7
+        name: street_address
+        Label: Street Address
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: city
+        label: City
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: state_province
+        label: State/Province
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: postal_code
+        label: Postal Code
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: section_professional
+        label: -- Professional Background --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: current_occupation
+        label: Current Occupation
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: company_name
+        Label: Company/Organization Name
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: years_experience
+        label: Years of Experience in Current Field
+        hint: null
+        type: integer
+        options: []
+        required: false
+      - id: 15
+        name: previous_employers
+        Label: Previous Employers or Roles
+        hint: List 2-3 most recent
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: certifications
+        label: Relevant Certifications or Credentials
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: section_education
+        label: -- Education --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: highest_degree
+        label: Highest Level of Education
+        hint: null
+        type: select_one
+        options:
+          - High School Diploma
+          - Some College
+          - Associate Degree
+          - Bachelor Degree
+          - Master Degree
+          - Doctorate
+        required: false
+      - id: 19
+        name: field_of_study
+        Label: Field of Study
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: institution_name
+        label: Name of Educational Institution
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: section_needs
+        label: -- Your Needs and Interests --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: primary_interest
+        label: Primary Area of Interest
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 23
+        name: specific_needs
+        Label: Specific Needs or Challenges
+        hint: What are you looking to solve or improve?
+        type: text
+        options: []
+        required: true
+      - id: 24
+        name: budget_range
+        label: Budget Range for Solutions
+        hint: null
+        type: select_one
+        options:
+          - Under 1000
+          - 1000 - 5000
+          - 5000 - 10000
+          - 10000 - 50000
+          - 50000+
+          - Not Sure
+        required: false
+      - id: 25
+        name: timeline
+        Label: Timeline for Implementation
+        hint: null
+        type: select_one
+        options:
+          - Immediate
+          - Within 1 month
+          - Within 3 months
+          - Within 6 months
+          - No specific timeline
+        required: false

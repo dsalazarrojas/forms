@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: witness_testimony_consent_form
+    pages:
+    - id: 1
+      name: witness_information
+      label: Witness Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: witness_statement
+      label: Witness Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_method
+      label: Contact Method
+      hint: How do you wish to be contacted for any followup questions
+      type: select_one
+      options:
+      - Phone
+      - Email
+      required: false
+    - id: 4
+      name: date_and_time_of_statement
+      label: Date and Time of Statement
+      hint: Date and time of the statement
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: witness_statement_type
+      label: Witness Statement Type
+      hint: null
+      type: select_one
+      options:
+      - Witness
+      - Affidavit
+      - Statement Under Oath
+      required: false
+    - id: 6
+      name: witness_agreement
+      label: Witness Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - I have read and understand the terms of this form.
+      - I am aware that this statement may be used as evidence
+      - I am aware that I may be required to appear in court
+      required: false
+    - id: 7
+      name: witness_declaration
+      label: Witness Declaration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: signature_date
+      label: Signature Date
+      hint: Date of signature
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: date_of_statement_signature_date
+      label: Date of Statement Signature Date
+      hint: Date of statement signature date
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: witness_signature
+      label: Witness Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: witness_statement_signature
+      label: Witness Statement Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: contact_method_signature
+      label: Contact Method Signature
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      required: false
+    - id: 14
+      name: witness_declaration_agreement_signature
+      label: Witness Declaration Agreement Signature
+      hint: null
+      type: select_multiple
+      options:
+      - I have read and understood the terms of this form.
+      - I am aware that this statement may be used as evidence.
+      - I am aware that I may be required to appear in court.
+      required: false
+    - id: 15
+      name: witness_information_signature
+      label: Witness Information Signature
+      hint: null
+      type: select_multiple
+      options:
+      - I have read and understood the terms of this form.
+      - I am aware that this statement may be used as evidence.
+      - I am aware that I may be required to appear in court.
+      required: false
+    - id: 16
+      name: witness_signature
+      label: Witness Signature
+      hint: null
+      type: select_multiple
+      options:
+      - I have read and understood the terms of this form.
+      - I am aware that this statement may be used as evidence.
+      - I am aware that I may be required to appear in court.
+      required: false
+    - id: 17
+      name: witness_declaration_agreement_signature
+      label: Witness Declaration Agreement Signature
+      hint: null
+      type: select_multiple
+      options:
+      - I have read and understood the terms of this form.
+      - I am aware that this statement may be used as evidence.
+      - I am aware that I may be required to appear in court.
+      required: false
+    - id: 18
+      name: witness_agreement_signature
+      label: Witness Agreement Signature
+      hint: null
+      type: select_multiple
+      options:
+      - I have read and understood the terms of this form.
+      - I am aware that this statement may be used as evidence.
+      - I am aware that I may be required to appear in court.
+      required: false
+    - id: 19
+      name: witness_testimony_consent_form_agreement
+      label: Witness Testimony Consent Form Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - I have read and understood the terms of this form.
+      - I am aware that this statement may be used as evidence.
+      - I am aware that I may be required to appear in court.
+      required: false
+    - id: 20
+      name: witness_statement_signature_date
+      label: Witness Statement Signature Date
+      hint: Date of statement signature date
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: witness_signature_date
+      label: Witness Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: witness_testimony_consent_form_signature_date
+      label: Witness Testimony Consent Form Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: contact_method_signature
+      label: Contact Method Signature
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      required: false
+    - id: 24
+      name: date_of_statement
+      label: Date of Statement
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: statement_type_signature
+      label: Statement Type Signature
+      hint: null
+      type: select_multiple
+      options:
+      - Witness
+      - Affidavit
+      - Statement Under Oath
+      required: false

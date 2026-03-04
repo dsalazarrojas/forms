@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Executor Estate Administration Checklist
+    pages:
+    - id: 1
+      name: estate_administration_progress
+      label: estate_administration_progress
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: current_date
+      label: current_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: estate_value
+      label: estate_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: executor_info
+      label: executor_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: estate_administration_steps
+      label: estate_administration_steps
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: key_documents
+      label: key_documents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: beneficiaries
+      label: beneficiaries
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: estate_administration_status
+      label: estate_administration_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,83 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Join Our Team Form
+    pages:
+    - id: 1
+      name: job_application_form
+      label: Job Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: Please provide your contact information
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: resume_upload
+      label: Resume
+      hint: Please upload your resume
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: cover_letter
+      label: Cover Letter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_position
+      label: Job Position
+      hint: null
+      type: select_one
+      options:
+      - Account Manager
+      - Data Analyst
+      - Marketing Manager
+      - Software Engineer
+      - Web Developer
+      required: true
+    - id: 6
+      name: job_location
+      label: Job Location
+      hint: null
+      type: select_multiple
+      options:
+      - New York
+      - San Francisco
+      - Los Angeles
+      - Chicago
+      - Houston
+      - Seattle
+      required: true
+    - id: 7
+      name: job_start_date
+      label: Job Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: job_salary
+      label: Job Salary
+      hint: null
+      type: text
+      options: []
+      required: false

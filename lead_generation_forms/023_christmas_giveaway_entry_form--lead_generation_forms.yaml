@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Giveaway Entry Form
+    pages:
+    - id: 1
+      name: personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: age_section
+      label: -- Eligibility --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: age_confirmation
+      label: I confirm I am 18 years or older
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: citizenship
+      label: Citizenship Status
+      hint: null
+      type: select_one
+      options:
+      - Citizen
+      - Permanent resident
+      - Resident alien
+      - Other
+      required: false
+    - id: 14
+      name: engagement
+      label: -- How You Heard About Us --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: referral_source
+      label: How did you hear about this giveaway?
+      hint: null
+      type: select_one
+      options:
+      - Social media
+      - Email newsletter
+      - Website
+      - Friend referral
+      - Advertisement
+      - Other
+      required: true
+    - id: 16
+      name: referred_by
+      label: Referred by (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: engagement_options
+      label: How would you like to engage with us?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Follow on social media
+      - Subscribe to newsletter
+      - Like or share post
+      - Refer friends
+      - Join loyalty program
+      required: false
+    - id: 18
+      name: preferences
+      label: -- Communication Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: email_consent
+      label: I consent to receive marketing emails
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: sms_consent
+      label: I consent to receive SMS updates
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 21
+      name: prize_preference
+      label: Prize Preference (if choices available)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: terms_acceptance
+      label: I agree to the giveaway terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true

@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Image Annotation Request Form
+    pages:
+    - id: 1
+      name: image_url
+      label: Enter Image URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: image_id
+      label: Image ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: deadline
+      label: Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: requirement
+      label: Requirement
+      hint: null
+      type: select_multiple
+      options:
+      - Label 1
+      - Label 2
+      - Label 3
+      required: true
+    - id: 5
+      name: upload_image
+      label: Upload Image
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 10
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: annotation_requirements
+      label: Annotation Requirements
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 12
+      name: annotation_deadline
+      label: Annotation Deadline
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 17
+      name: submitter_designation
+      label: Submitter Designation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitter_title
+      label: Submitter Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitter_notes
+      label: Submitter Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: vendor_url
+      label: Vendor URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: vendor_email
+      label: Vendor Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 23
+      name: vendor_phone
+      label: Vendor Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: submitter_agreement
+      label: Submitter Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: submitter_comments
+      label: Submitter Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Extended Leave Time-Off Form
+    pages:
+    - id: 1
+      name: leave_request_form
+      label: Leave Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: extended_leave_type
+      label: Extended Leave Type
+      hint: null
+      type: select_one
+      options:
+      - Annual
+      - Sick Leave
+      - Vacation
+      - Emergency Leave
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: leave_duration
+      label: Leave Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: leave_frequency
+      label: Leave Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: manager_comment
+      label: Manager Comment
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restraining Order Service Status Form
+    pages:
+    - id: 1
+      name: restraining_order_service_status
+      label: Restraining Order Service Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_filing
+      label: Date of Filing
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: service_status
+      label: Service Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Cancelled
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date_of_disposition
+      label: Date of Disposition
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_multiple
+      options:
+      - Administrative Team
+      - Law Enforcement
+      - Clerk
+      required: true
+    - id: 8
+      name: assigned_to_other
+      label: Assigned to other
+      hint: Enter other
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: service_level
+      label: Service Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 10
+      name: case_manager_email
+      label: Case Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: case_manager_phone
+      label: Case Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: case_manager_notes
+      label: Case Manager Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: client_address
+      label: Client Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: service_providers
+      label: Service Providers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: service_providers_other
+      label: Service Providers other
+      hint: Enter other
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: service_status_date
+      label: Service Status Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: service_level_date
+      label: Service Level Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: case_number
+      label: Case Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: service_level
+      label: Service Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 21
+      name: date_of_filing
+      label: Date of Filing
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: date_of_disposition_date
+      label: Date of Disposition Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: date_of_disposition
+      label: Date of Disposition
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: case_manager_notes
+      label: Case Manager Notes
+      hint: null
+      type: note
+      options: []
+      required: false

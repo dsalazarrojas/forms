@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Link Deployment Request
+    pages:
+    - id: 1
+      name: request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: site_visit
+      label: Site Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: requestor_name
+      label: Requestor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: requestor_department
+      label: Requestor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: engineer_name
+      label: Engineer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: engineer_department
+      label: Engineer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 10
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Scheduled
+      - Completed
+      - Cancelled
+      required: false
+    - id: 11
+      name: scheduled_date
+      label: Scheduled Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: scheduled_time
+      label: Scheduled Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: scheduled_location
+      label: Scheduled Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: requestor_email
+      label: Requestor
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: requestor_phone
+      label: Requestor
+      hint: null
+      type: text
+      options: []
+      required: false

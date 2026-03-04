@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Game Developer Asset Support Request Form
+    pages:
+    - id: 1
+      name: game_developer_asset_support_request_form_page_1
+      label: Game Developer Asset Support Request Form
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: asset_type
+      label: asset_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''label'': ''Texture''}'
+      - '{''id'': 11, ''label'': ''3D Model''}'
+      - '{''id'': 12, ''label'': ''Audio File''}'
+      required: false
+    - id: 3
+      name: asset_name
+      label: asset_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: asset_id
+      label: asset_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: issue_description
+      label: issue_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: game_title
+      label: game_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: game_version
+      label: game_version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: platform
+      label: platform
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 20, ''label'': ''PC''}'
+      - '{''id'': 21, ''label'': ''Console''}'
+      - '{''id'': 22, ''label'': ''Mobile''}'
+      - '{''id'': 23, ''label'': ''Browser''}'
+      required: true
+    - id: 9
+      name: asset_status
+      label: asset_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 30, ''label'': ''New''}'
+      - '{''id'': 31, ''label'': ''In Progress''}'
+      - '{''id'': 32, ''label'': ''Complete''}'
+      - '{''id'': 33, ''label'': ''Not Found''}'
+      required: true
+    - id: 10
+      name: game_dev_email
+      label: game_dev_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: game_dev_phone
+      label: game_dev_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: game_dev_name
+      label: game_dev_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: game_dev_platform
+      label: game_dev_platform
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: asset_file
+      label: asset_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: game_dev_comment
+      label: game_dev_comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: game_dev_message
+      label: game_dev_message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: game_dev_attachment
+      label: game_dev_attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: game_dev_attachment_2
+      label: game_dev_attachment_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: game_dev_attachment_3
+      label: game_dev_attachment_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: game_dev_attachment_4
+      label: game_dev_attachment_4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: game_dev_attachment_5
+      label: game_dev_attachment_5
+      hint: null
+      type: text
+      options: []
+      required: false

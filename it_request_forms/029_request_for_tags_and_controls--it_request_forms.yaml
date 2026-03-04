@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Request For Tags And Controls
+    pages:
+    - id: 1
+      name: request_for_tags
+      label: Request For Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tags
+      label: Tags
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 3
+      name: request_for_controls
+      label: Request For Controls
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: controls
+      label: Controls
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: Add any comments about the request
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - department1
+      - department2
+      - department3
+      - department4
+      - department5
+      - department6
+      - department7
+      - department8
+      required: false
+    - id: 7
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - new
+      - open
+      - closed
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 9
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false

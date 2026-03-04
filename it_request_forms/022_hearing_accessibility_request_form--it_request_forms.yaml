@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hearing Accessibility Request Form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: session_duration
+      label: Session Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: venue
+      label: Venue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: requester_name
+      label: Requester Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: requester_email
+      label: Requester Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: requester_phone
+      label: Requester Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: accessibility_request
+      label: Accessibility Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: accessibility_request_note
+      label: Accessibility Request Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: follow_up_note
+      label: Follow Up Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: event_organizer
+      label: Event Organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: accessibility_equipment
+      label: Accessibility Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: event_size
+      label: Event Size
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: event_presentation
+      label: Event Presentation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_email
+      label: Follow Up Email
+      hint: null
+      type: email
+      options: []
+      required: false

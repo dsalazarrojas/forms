@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Wallet Issue Contact Form
+    pages:
+    - id: 1
+      name: contact_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: issue_details
+      label: Issue Details
+      hint: Include screenshots of the issue
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Chat
+      required: true
+    - id: 6
+      name: device_info
+      label: Device Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: screen_shots
+      label: Screenshots
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: issue_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Card Issue
+      - Wallet Issue
+      - Other
+      required: true
+    - id: 10
+      name: issue_sub_category
+      label: Sub Category
+      hint: null
+      type: select_multiple
+      options:
+      - Card Issue Sub Category 1
+      - Card Issue Sub Category 2
+      - Wallet Issue Sub Category 1
+      - Wallet Issue Sub Category 2
+      - Other Sub Category 1
+      - Other Sub Category 2
+      required: false
+    - id: 11
+      name: issue_priority
+      label: Issue Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 12
+      name: issue_date
+      label: Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: issue_time
+      label: Issue Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: issue_status
+      label: Issue Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - In Progress
+      required: true
+    - id: 15
+      name: issue_assigned
+      label: Assigned
+      hint: null
+      type: select_one
+      options:
+      - Chatjimmy
+      - Other
+      required: false
+    - id: 16
+      name: issue_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: issue_tags
+      label: Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: issue_attachments
+      label: Attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: issue_comments_status
+      label: Comments Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      required: true
+    - id: 20
+      name: issue_resolution
+      label: Resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: issue_reopened_status
+      label: Reopened Status
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

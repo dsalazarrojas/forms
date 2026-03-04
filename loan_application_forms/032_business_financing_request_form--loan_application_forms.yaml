@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Financing Request Form
+    pages:
+    - id: 1
+      name: applicant_section
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: personal_address
+      label: Personal Address
+      hint: Your residential address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: business_section
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: business_name
+      label: Business Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: business_structure
+      label: Business Structure
+      hint: How is your business organized?
+      type: select_one
+      options:
+      - Sole Proprietorship
+      - Partnership
+      - LLC
+      - C-Corporation
+      - S-Corporation
+      required: true
+    - id: 10
+      name: industry_type
+      label: Industry Type
+      hint: What industry?
+      type: select_one
+      options:
+      - Retail
+      - Technology
+      - Manufacturing
+      - Services
+      - Healthcare
+      - Hospitality
+      - Construction
+      - Other
+      required: true
+    - id: 11
+      name: business_address
+      label: Business Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: business_established_date
+      label: Date Business Established
+      hint: When did you start?
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: number_of_employees
+      label: Number of Employees
+      hint: Current employee count
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: financing_section
+      label: -- Financing Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: amount_requested
+      label: Amount of Financing Requested
+      hint: Total amount needed
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: financing_type
+      label: Type of Financing Needed
+      hint: What kind of financing?
+      type: select_one
+      options:
+      - Startup Capital
+      - Working Capital
+      - Equipment Financing
+      - Expansion Financing
+      - Debt Consolidation
+      - Line of Credit
+      - Other
+      required: true
+    - id: 17
+      name: use_of_funds
+      label: Use of Funds
+      hint: How will the funds be used?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: repayment_timeline
+      label: Proposed Repayment Timeline
+      hint: How long to repay?
+      type: select_one
+      options:
+      - 1-2 years
+      - 3-5 years
+      - 5-10 years
+      - 10+ years
+      required: true
+    - id: 19
+      name: financial_section
+      label: -- Financial Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: annual_revenue
+      label: Annual Revenue (Last Year)
+      hint: Most recent annual revenue
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: monthly_revenue
+      label: Average Monthly Revenue
+      hint: Current monthly revenue
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: annual_profit
+      label: Annual Profit/Loss
+      hint: Last year profit or loss
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: existing_debt
+      label: Existing Business Debt
+      hint: Total outstanding business debt
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: collateral_section
+      label: -- Collateral and Security --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: collateral_offered
+      label: Collateral or Security Offered
+      hint: What assets can you offer as security?
+      type: text
+      options: []
+      required: false

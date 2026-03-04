@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Agreement Form
+    pages:
+    - id: 1
+      name: agreement_type
+      label: -- Agreement Type --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: agreement_category
+      label: Type of Business Agreement
+      hint: Select the agreement type
+      type: select_one
+      options:
+      - Service Agreement
+      - Partnership Agreement
+      - Confidentiality Agreement
+      - Vendor Agreement
+      - Employment Agreement
+      - License Agreement
+      - Non-Disclosure Agreement
+      - Other
+      required: true
+    - id: 3
+      name: agreement_date
+      label: Agreement Date
+      hint: Date agreement is being entered
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: party_one
+      label: -- First Party Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: party_one_name
+      label: First Party Name
+      hint: Full legal name of first party
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: party_one_type
+      label: First Party Type
+      hint: Individual, partnership, or corporation
+      type: select_one
+      options:
+      - Individual
+      - Partnership
+      - Corporation
+      - Limited Liability Company
+      - Other
+      required: true
+    - id: 7
+      name: party_one_address
+      label: First Party Address
+      hint: Complete legal address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: party_one_contact
+      label: First Party Contact
+      hint: Phone and email
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: party_two
+      label: -- Second Party Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: party_two_name
+      label: Second Party Name
+      hint: Full legal name of second party
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: party_two_type
+      label: Second Party Type
+      hint: Individual, partnership, or corporation
+      type: select_one
+      options:
+      - Individual
+      - Partnership
+      - Corporation
+      - Limited Liability Company
+      - Other
+      required: true
+    - id: 12
+      name: party_two_address
+      label: Second Party Address
+      hint: Complete legal address
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: party_two_contact
+      label: Second Party Contact
+      hint: Phone and email
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: terms_scope
+      label: -- Terms and Scope --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: agreement_description
+      label: Description of Agreement
+      hint: Detailed description of business terms
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: services_deliverables
+      label: Services or Deliverables
+      hint: What is being provided
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: payment_terms
+      label: Payment Terms
+      hint: How and when payment is made
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: payment_amount
+      label: Payment Amount
+      hint: Total payment or payment structure
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: effective_date
+      label: Effective Date
+      hint: When agreement becomes active
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: expiration_date
+      label: Expiration or End Date
+      hint: When agreement expires or terminates
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: confidentiality
+      label: Confidentiality Requirements
+      hint: Any confidentiality or secrecy provisions
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: liability_limitations
+      label: Liability Limitations
+      hint: Liability caps or exclusions
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: governing_law
+      label: Governing Law
+      hint: Which state or jurisdiction governs agreement
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: dispute_resolution
+      label: Dispute Resolution Method
+      hint: How disputes will be handled
+      type: select_one
+      options:
+      - Mediation
+      - Arbitration
+      - Litigation
+      - Negotiation
+      required: true
+    - id: 25
+      name: signatures
+      label: -- Signatures --
+      hint: null
+      type: note
+      options: []
+      required: false

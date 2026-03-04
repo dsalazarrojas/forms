@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: technical-training-leave-of-absence-request
+    pages:
+    - id: 1
+      name: technical_training_leave_of_absence_request
+      label: Employee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: manager_name
+      label: Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: leave_duration
+      label: Leave Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: training_type
+      label: Training Type
+      hint: null
+      type: select_one
+      options:
+      - Technical Training
+      - Non-technical Training
+      - Conference
+      - Other
+      required: false
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: training_provider
+      label: Training Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: training_location
+      label: Training Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: false
+    - id: 10
+      name: people_team_approval
+      label: People Team Approval
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: false
+    - id: 11
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: form_submitted_to
+      label: Form Submitted To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: form_status
+      label: Form Status
+      hint: null
+      type: select_multiple
+      options:
+      - Approved
+      - Denied
+      - Pending
+      - Draft
+      - Submission Required
+      required: false
+    - id: 17
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: people_team_email
+      label: People Team Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: form_notes
+      label: Form Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_comments
+      label: Submission Comments
+      hint: null
+      type: text
+      options: []
+      required: false

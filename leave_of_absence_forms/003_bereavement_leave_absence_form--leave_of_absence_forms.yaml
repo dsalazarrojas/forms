@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bereavement Leave Absence Form
+    pages:
+    - id: 1
+      name: employee_info_header
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID Number
+      hint: Enter your unique staff identification number
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: department_name
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: manager_name
+      label: Immediate Supervisor or Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: leave_request_header
+      label: -- Leave Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: relationship_to_deceased
+      label: Relationship to Deceased
+      hint: Please specify your relationship to the family member
+      type: select_one
+      options:
+      - Parent
+      - Spouse or Partner
+      - Child
+      - Sibling
+      - Grandparent
+      - Other Immediate Family
+      - Other
+      required: true
+    - id: 8
+      name: leave_start_date
+      label: Leave Start Date
+      hint: First day of absence
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: leave_end_date
+      label: Leave End Date
+      hint: Last day of absence
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: total_days_requested
+      label: Total Work Days Requested
+      hint: Number of scheduled work days missed
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: documentation_header
+      label: -- Documentation and Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: documentation_status
+      label: Documentation Provided
+      hint: Such as an obituary, death certificate, or funeral program
+      type: select_one
+      options:
+      - Yes - Attached or provided
+      - Will provide upon return
+      - Not required per policy
+      required: true
+    - id: 13
+      name: expected_return_date
+      label: Expected Return to Work Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: emergency_contact_number
+      label: Contact Number During Absence
+      hint: For urgent business matters only
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: hr_section_header
+      label: -- HR Use Only --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: approval_status
+      label: HR Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved - Paid
+      - Approved - Unpaid
+      - Denied
+      required: false
+    - id: 17
+      name: hr_review_comments
+      label: HR Reviewer Comments
+      hint: null
+      type: text
+      options: []
+      required: false

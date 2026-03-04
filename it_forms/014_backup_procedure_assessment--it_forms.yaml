@@ -1,0 +1,239 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Backup Procedure Assessment
+    pages:
+      - id: 1
+        name: section_assessment
+        label: -- Backup Procedure Assessment --
+        hint: Evaluate your organization's backup practices
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: organization_name
+        label: Organization Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: department_name
+        Label: Department Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: assessment_date
+        label: Assessment Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: assessor_name
+        Label: Assessor Name
+        hint: IT professional conducting assessment
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: section_backup_strategy
+        label: -- Backup Strategy --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: has_backup_plan
+        label: Does Organization Have Documented Backup Plan?
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - Partial
+        required: true
+      - id: 8
+        name: backup_strategy
+        Label: Primary Backup Strategy
+        hint: null
+        type: select_one
+        options:
+          - Full Daily Backups
+          - Incremental Backups
+          - Differential Backups
+          - Hybrid Approach
+          - Cloud-based
+          - Multiple Methods
+        required: true
+      - id: 9
+        name: backup_frequency
+        Label: Backup Frequency
+        hint: null
+        type: select_one
+        options:
+          - Hourly
+          - Daily
+          - Weekly
+          - Monthly
+          - On-Demand Only
+          - Inconsistent
+        required: true
+      - id: 10
+        name: backup_location
+        Label: Primary Backup Location
+        hint: null
+        type: select_one
+        options:
+          - On-Site
+          - Off-Site
+          - Cloud Storage
+          - Multiple Locations
+          - Not Specified
+        required: true
+      - id: 11
+        name: rpo_defined
+        Label: Recovery Point Objective (RPO) Defined?
+        hint: How much data loss is acceptable?
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - Not Sure
+        required: true
+      - id: 12
+        name: rto_defined
+        Label: Recovery Time Objective (RTO) Defined?
+        hint: How quickly must systems be restored?
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - Not Sure
+        required: true
+      - id: 13
+        name: section_recovery
+        label: -- Recovery Testing --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: recovery_testing
+        Label: When Was Last Recovery Test Performed?
+        hint: null
+        type: date
+        options: []
+        required: false
+      - id: 15
+        name: recovery_success_rate
+        Label: Recovery Success Rate
+        hint: Percentage of successful recovery tests
+        type: integer
+        options: []
+        required: false
+      - id: 16
+        name: restore_testing_frequency
+        Label: Backup Restoration Testing Frequency
+        hint: null
+        type: select_one
+        options:
+          - Monthly
+          - Quarterly
+          - Semi-Annually
+          - Annually
+          - Never
+          - Not Tracked
+        required: true
+      - id: 17
+        name: documented_recovery
+        Label: Documented Recovery Procedures Available?
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - Partially
+        required: true
+      - id: 18
+        name: section_security
+        label: -- Security and Compliance --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: encryption_used
+        Label: Backup Data Encrypted?
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - Only for Off-Site
+        required: true
+      - id: 20
+        name: access_controls
+        Label: Access Controls Implemented?
+        hint: Who can access backups?
+        type: select_one
+        options:
+          - Strict Role-Based Access
+          - Limited Access
+          - Open Access
+          - Not Defined
+        required: true
+      - id: 21
+        name: compliance_requirements
+        Label: Compliance Requirements Met?
+        hint: GDPR, HIPAA, SOC 2, etc.
+        type: select_one
+        options:
+          - Fully Compliant
+          - Mostly Compliant
+          - Partially Compliant
+          - Not Applicable
+        required: true
+      - id: 22
+        name: section_risks
+        label: -- Risk Assessment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: identified_risks
+        Label: Identified Risks or Gaps
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 24
+        name: improvement_recommendations
+        Label: Recommendations for Improvement
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 25
+        name: assessment_complete
+        Label: Assessment Completed Successfully
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: true

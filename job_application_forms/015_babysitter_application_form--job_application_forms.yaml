@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Babysitter Application Form
+    pages:
+    - id: 1
+      name: basic_info_header
+      label: -- Babysitter Applicant Details --
+      hint: Standard application for independent babysitters
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_age
+      label: Your Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: applicant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: availability_days
+      label: Which days are you typically available?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 7
+      name: availability_times
+      label: Preferred Working Times
+      hint: null
+      type: select_multiple
+      options:
+      - Mornings
+      - Afternoons
+      - Evenings
+      - Overnights
+      required: true
+    - id: 8
+      name: hourly_rate_expected
+      label: Requested Hourly Rate ($)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: transportation_method
+      label: Do you have your own reliable transportation?
+      hint: null
+      type: select_one
+      options:
+      - Yes, I have a car
+      - Yes, public transport
+      - No, I need a ride
+      required: true
+    - id: 10
+      name: smoking_status
+      label: Do you smoke?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 11
+      name: pet_comfort
+      label: Are you comfortable working in a home with pets?
+      hint: null
+      type: select_one
+      options:
+      - Yes, I love pets
+      - Only certain pets
+      - false
+      required: true
+    - id: 12
+      name: experience_summary
+      label: Summary of Previous Experience
+      hint: Describe the ages of children you've cared for
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: references_list
+      label: References (Name and Contact Info)
+      hint: Provide at least two references
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: additional_skills
+      label: Any additional skills?
+      hint: e.g., Tutoring, Cooking, First Aid
+      type: text
+      options: []
+      required: false

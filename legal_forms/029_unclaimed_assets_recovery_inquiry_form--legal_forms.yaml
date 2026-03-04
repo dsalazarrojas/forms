@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: unclaimed_assets_recovery_inquiry_form
+    pages:
+    - id: 1
+      name: unclaimed_assets_recovery_inquiry
+      label: Unclaimed Assets Recovery Inquiry
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: asset_details
+      label: Asset Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: unclaimed_asset_type
+      label: Unclaimed Asset Type
+      hint: null
+      type: select_one
+      options:
+      - Unclaimed Money
+      - Unclaimed Securities
+      - Unclaimed Real Estate
+      - Unclaimed Vehicles
+      - Unclaimed Goods
+      required: false
+    - id: 5
+      name: request_documents
+      label: Requested Documents
+      hint: null
+      type: select_multiple
+      options:
+      - Checkbook
+      - Deed
+      - Keys
+      - Letter of Intent
+      - Ledger
+      - Other
+      required: false
+    - id: 6
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: requested_by
+      label: Requested By
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: requested_date
+      label: Requested Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: received_date
+      label: Received Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - In Progress
+      - Completed
+      - Closed
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: false
+    - id: 15
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false

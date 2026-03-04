@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Reading Record
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: grade_level
+      label: Grade Level
+      hint: Your current grade
+      type: select_one
+      options:
+      - Kindergarten
+      - Grade 1
+      - Grade 2
+      - Grade 3
+      - Grade 4
+      - Grade 5
+      - Grade 6
+      - Grade 7
+      - Grade 8
+      - Grade 9
+      - Grade 10
+      - Grade 11
+      - Grade 12
+      required: true
+    - id: 3
+      name: teacher_name
+      label: Teacher Name
+      hint: Your teacher name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: school_name
+      label: School Name
+      hint: Name of your school
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: book_title
+      label: Book Title
+      hint: Full title of the book
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: book_author
+      label: Book Author
+      hint: Author of the book
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: book_genre
+      label: Book Genre
+      hint: Select the genre
+      type: select_one
+      options:
+      - Fiction
+      - Non-Fiction
+      - Mystery
+      - Adventure
+      - Fantasy
+      - Science Fiction
+      - Biography
+      - Historical Fiction
+      - Poetry
+      - Fairy Tale
+      required: true
+    - id: 8
+      name: reading_level
+      label: Reading Level
+      hint: Select your reading level
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 9
+      name: page_count
+      label: Number of Pages
+      hint: Total pages in book
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: start_date
+      label: Date Started Reading
+      hint: When did you start
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: finish_date
+      label: Date Finished Reading
+      hint: When did you finish
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: total_reading_time
+      label: Total Reading Time Hours
+      hint: Approximate hours spent reading
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: book_rating
+      label: How Would You Rate This Book
+      hint: Your rating
+      type: select_one
+      options:
+      - 5 Stars Excellent
+      - 4 Stars Very Good
+      - 3 Stars Good
+      - 2 Stars Fair
+      - 1 Star Poor
+      required: true
+    - id: 14
+      name: favorite_part
+      label: What Was Your Favorite Part
+      hint: Describe your favorite scene
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: favorite_character
+      label: Favorite Character
+      hint: Who was your favorite character
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: character_description
+      label: Describe Your Favorite Character
+      hint: Why did you like them
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: book_summary
+      label: Brief Summary
+      hint: Summarize the book in 3-5 sentences
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: what_learned
+      label: What Did You Learn
+      hint: What did this book teach you
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: would_recommend
+      label: Would You Recommend This Book
+      hint: Would you recommend to friends
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Not Sure
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 20
+      name: similar_books
+      label: What Other Books Does This Remind You Of
+      hint: List any similar books
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: new_words_learned
+      label: New Words You Learned
+      hint: List any new vocabulary
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: parent_signature
+      label: Parent or Guardian Signature
+      hint: Parent or guardian signs here
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: record_date
+      label: Record Date
+      hint: Date of this record
+      type: date
+      options: []
+      required: true

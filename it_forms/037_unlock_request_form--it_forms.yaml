@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Unlock Request Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: reason_input
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_input
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_input
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: notes_input
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

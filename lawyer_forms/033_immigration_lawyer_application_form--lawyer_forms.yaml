@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Immigration Lawyer Application Form
+    pages:
+    - id: 1
+      name: first_page
+      label: Client Information
+      hint: Please provide your client's details
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: middle_initials
+      label: Middle Initial
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: nationality
+      label: Nationality
+      hint: null
+      type: select_one
+      options:
+      - American
+      - British
+      - Canadian
+      - Australian
+      required: true
+    - id: 8
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: date_of_entry
+      label: Date of Entry
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: reason_for_visit
+      label: Reason for Visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: purpose_of_visit
+      label: Purpose of Visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,268 @@
+inputSchema:
+  type: object
+  properties:
+    title: Company Winding Up Petition Form
+    pages:
+    - id: 1
+      name: petitioner_full_name
+      label: Petitioner Full Name
+      hint: Legal name of person or entity filing petition
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: petitioner_type
+      label: Petitioner Type
+      hint: Type of entity filing the petition
+      type: select_one
+      options:
+      - Individual
+      - Corporation
+      - Partnership
+      - Limited Liability Company
+      - Government Entity
+      - Other
+      required: true
+    - id: 3
+      name: petitioner_address
+      label: Petitioner Address
+      hint: Full mailing address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: petitioner_email
+      label: Petitioner Email
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: petitioner_phone
+      label: Petitioner Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_name
+      label: Company Name
+      hint: Legal name of company being petitioned
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company_registration_number
+      label: Company Registration Number
+      hint: Official company registration number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: company_address
+      label: Company Registered Address
+      hint: Official registered address of company
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: debt_amount
+      label: Debt Amount Owed
+      hint: Total amount of debt in currency
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: currency
+      label: Currency
+      hint: Currency of debt amount
+      type: select_one
+      options:
+      - USD - US Dollar
+      - EUR - Euro
+      - GBP - British Pound
+      - CAD - Canadian Dollar
+      - AUD - Australian Dollar
+      - Other
+      required: true
+    - id: 11
+      name: debt_origin
+      label: Origin of Debt
+      hint: How did the debt arise
+      type: select_one
+      options:
+      - Unpaid invoice for goods
+      - Unpaid invoice for services
+      - Loan agreement
+      - Contract breach
+      - Court judgment
+      - Other
+      required: true
+    - id: 12
+      name: debt_details
+      label: Debt Details
+      hint: Describe the circumstances of the debt
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: debt_due_date
+      label: Debt Due Date
+      hint: When was the debt originally due
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: demand_letter_sent
+      label: Was demand letter sent
+      hint: Formal demand for payment sent to company
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: demand_letter_date
+      label: Demand Letter Date
+      hint: Date demand letter was sent
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: company_response
+      label: Company Response to Demand
+      hint: How did the company respond if at all
+      type: select_one
+      options:
+      - No response received
+      - Promised to pay - did not
+      - Disputed the debt
+      - Partial payment made
+      - Other
+      required: true
+    - id: 17
+      name: supporting_documents
+      label: Supporting Documents Available
+      hint: Do you have documentation to support claim
+      type: select_one
+      options:
+      - Yes - invoices and contracts
+      - Yes - court judgments
+      - Yes - correspondence
+      - Yes - other documentation
+      - No documents available
+      required: true
+    - id: 18
+      name: documents_list
+      label: List of Documents
+      hint: Describe documents you will submit
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: previous_legal_action
+      label: Previous Legal Action Taken
+      hint: Have you taken other legal steps
+      type: select_one
+      options:
+      - No - this is first action
+      - Yes - small claims court
+      - Yes - civil court
+      - Yes - arbitration
+      - Yes - mediation
+      required: true
+    - id: 20
+      name: legal_action_details
+      label: Legal Action Details
+      hint: Describe previous legal actions and outcomes
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: other_creditors
+      label: Other Creditors Known
+      hint: Are you aware of other creditors
+      type: select_one
+      options:
+      - Yes - multiple creditors
+      - Yes - one or two others
+      - No - only creditor known
+      - Unknown
+      required: true
+    - id: 22
+      name: company_solvency_status
+      label: Company Solvency Status
+      hint: Is company showing signs of insolvency
+      type: select_one
+      options:
+      - Appears insolvent
+      - Appears solvent
+      - Unknown
+      - Ceased operations
+      required: true
+    - id: 23
+      name: grounds_for_winding_up
+      label: Grounds for Winding Up
+      hint: Legal basis for winding up petition
+      type: select_one
+      options:
+      - Unable to pay debts
+      - Just and equitable
+      - Statutory demand not complied with
+      - Company resolution
+      - Other
+      required: true
+    - id: 24
+      name: legal_representation
+      label: Legal Representation
+      hint: Are you represented by legal counsel
+      type: select_one
+      options:
+      - Yes - attorney representing
+      - No - self represented
+      - Seeking representation
+      required: true
+    - id: 25
+      name: attorney_name
+      label: Attorney Name
+      hint: Name of representing attorney
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: attorney_contact
+      label: Attorney Contact
+      hint: Attorney email or phone
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: petitioner_signature
+      label: Petitioner Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true
+    - id: 29
+      name: statement_of_truth
+      label: Statement of Truth
+      hint: Declaration that information is accurate
+      type: select_one
+      options:
+      - I believe the facts stated are true
+      - I cannot confirm accuracy
+      required: true
+    - id: 30
+      name: additional_comments
+      label: Additional Information
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

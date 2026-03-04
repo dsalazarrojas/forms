@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Small Business Loan Inquiry Form
+    pages:
+    - id: 1
+      name: business_info
+      label: Business Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: loan_term
+      label: Loan Term
+      hint: Select a loan term
+      type: select_one
+      options:
+      - Six Months
+      - Twelve Months
+      - Twenty Four Months
+      required: false
+    - id: 3
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: loan_amount_hint
+      label: What is the loan amount you are seeking?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: business_owner_name
+      label: Business Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: business_address
+      label: Business Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false

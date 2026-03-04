@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Absence Compensation And Recovery Form
+    pages:
+    - id: 1
+      name: section_header_employee_info
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: supervisor_name
+      label: Supervisor or manager name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: employee_email
+      label: Employee email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: section_header_absence_details
+      label: -- Absence Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: absence_start_date
+      label: Absence start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: absence_end_date
+      label: Absence end date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: total_days_absent
+      label: Total number of days absent
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: absence_type
+      label: Type of absence
+      hint: null
+      type: select_one
+      options:
+      - Sick leave
+      - Personal leave
+      - Family or medical leave
+      - Bereavement
+      - Jury duty
+      - Other
+      required: true
+    - id: 12
+      name: absence_reason
+      label: Reason for absence
+      hint: Provide a brief description
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_header_compensation
+      label: -- Compensation Adjustment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: paid_or_unpaid
+      label: Was this absence paid or unpaid
+      hint: null
+      type: select_one
+      options:
+      - Fully paid
+      - Partially paid
+      - Unpaid
+      required: true
+    - id: 15
+      name: leave_balance_used
+      label: Leave balance used (hours or days)
+      hint: Specify whether hours or days
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: compensation_adjustment_needed
+      label: Is a compensation or pay adjustment needed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: adjustment_details
+      label: If yes, describe the adjustment needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_header_recovery
+      label: -- Recovery Plan --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: recovery_plan_required
+      label: Is a recovery or make-up plan required
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: recovery_plan_description
+      label: Describe the recovery or make-up plan
+      hint: Include tasks to be completed and timeline
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: recovery_completion_date
+      label: Expected date for recovery plan completion
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: supervisor_approval
+      label: Supervisor approval status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Pending review
+      - Denied
+      required: true
+    - id: 23
+      name: additional_notes
+      label: Additional notes or comments
+      hint: null
+      type: text
+      options: []
+      required: false

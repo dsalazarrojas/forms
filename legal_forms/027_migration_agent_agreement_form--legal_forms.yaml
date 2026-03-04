@@ -1,0 +1,117 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Migration Agent Agreement Form
+    pages:
+    - id: 1
+      name: migration_agent_agreement_form
+      label: Migration Agent Agreement Form
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: client_details
+      label: client_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: service_terms_agreement
+      label: service_terms_agreement
+      hint: We need you to confirm you've read and understood our service terms.
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: consent_to_email
+      label: consent_to_email
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
+      name: consent_to_sms
+      label: consent_to_sms
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 6
+      name: consent_to_post
+      label: consent_to_post
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: client_confirmation
+      label: client_confirmation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: migration_agent_confirmation
+      label: migration_agent_confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: agreement_reviewed
+      label: agreement_reviewed
+      hint: Check that you've reviewed the terms and conditions of use.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: agreement_signed
+      label: agreement_signed
+      hint: Check that you've read and signed the agreement.
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: signature
+      label: signature
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': "Client''s Signature", ''value'': ''client_signature''}'
+      - '{''label'': "Migration Agent''s Signature", ''value'': ''migration_agent_signature''}'
+      required: true
+    - id: 12
+      name: signature_date
+      label: signature_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: migration_agent_agreement_form_confirmation
+      label: migration_agent_agreement_form_confirmation
+      hint: null
+      type: text
+      options: []
+      required: true

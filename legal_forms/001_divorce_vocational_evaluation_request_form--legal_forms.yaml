@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Divorce Vocational Evaluation Request Form
+    pages:
+    - id: 1
+      name: divorce_vocational_evaluation_request
+      label: Request for Evaluation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: case_number
+      label: Case Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: case_type
+      label: Case Type
+      hint: null
+      type: select_one
+      options:
+      - Case Types
+      - Other
+      required: false
+    - id: 4
+      name: date_of_divorce
+      label: Date of Divorce
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: spouse1_employment_status
+      label: Spouse 1 Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Married
+      - Separated
+      - Single
+      - Widowed
+      - Divorced
+      required: false
+    - id: 6
+      name: spouse1_occupation
+      label: Spouse 1 Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: spouse1_education
+      label: Spouse 1 Education
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - Some College
+      - Bachelor's Degree
+      - Master's Degree
+      - Doctoral/Phd
+      required: false
+    - id: 8
+      name: spouse1_income
+      label: Spouse 1 Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: spouse2_employment_status
+      label: Spouse 2 Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Married
+      - Separated
+      - Single
+      - Widowed
+      - Divorced
+      required: false
+    - id: 10
+      name: spouse2_occupation
+      label: Spouse 2 Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: spouse2_education
+      label: Spouse 2 Education
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - Some College
+      - Bachelor's Degree
+      - Master's Degree
+      - Doctoral/Phd
+      required: false
+    - id: 12
+      name: children
+      label: Number of Children
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: reason_for_divorce
+      label: Reason for Divorce
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: divorce_counseling_attended
+      label: Divorce Counseling Attended
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Applicable
+      - In Progress
+      required: false
+    - id: 15
+      name: alimony
+      label: Alimony
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: date_of_marriage
+      label: Date of Marriage
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: years_married
+      label: Years Married
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: assets
+      label: Assets
+      hint: null
+      type: text
+      options: []
+      required: false

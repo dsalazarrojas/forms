@@ -1,0 +1,400 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automated Spreadsheet Creation Request
+    pages:
+    - id: 1
+      name: introduction
+      label: Automated Spreadsheet Creation Request
+      hint: Please provide detailed requirements for your spreadsheet
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_info
+      label: Requester Information
+      hint: Your contact details
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - Finance
+      - Marketing
+      - Sales
+      - Operations
+      - HR
+      - IT
+      - Executive
+      - Other
+      required: true
+    - id: 8
+      name: project_info
+      label: Project Information
+      hint: Details about the spreadsheet project
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: spreadsheet_name
+      label: Spreadsheet Name
+      hint: What should it be called
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: spreadsheet_purpose
+      label: Purpose of Spreadsheet
+      hint: What will it be used for
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: spreadsheet_type
+      label: Type of Spreadsheet
+      hint: What kind of spreadsheet
+      type: select_one
+      options:
+      - Budget Tracker
+      - Expense Report
+      - Inventory Management
+      - Sales Dashboard
+      - Project Tracker
+      - Data Analysis
+      - Report Generator
+      - Calculator
+      - Other
+      required: true
+    - id: 12
+      name: priority_level
+      label: Priority Level
+      hint: How urgent is this
+      type: select_one
+      options:
+      - Low
+      - Normal
+      - High
+      - Urgent
+      required: true
+    - id: 13
+      name: deadline
+      label: Requested Deadline
+      hint: When do you need it
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: data_requirements
+      label: Data Requirements
+      hint: What data will be included
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: data_sources
+      label: Data Sources
+      hint: Where will data come from
+      type: select_multiple
+      options:
+      - Manual Entry
+      - Database Import
+      - API Integration
+      - CSV Upload
+      - Excel Import
+      - Web Scraping
+      - Other Systems
+      required: true
+    - id: 16
+      name: expected_columns
+      label: Expected Columns
+      hint: List column names
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: expected_rows
+      label: Expected Number of Rows
+      hint: Approximate count
+      type: select_one
+      options:
+      - Under 100
+      - 100-500
+      - 500-1000
+      - 1000-5000
+      - Over 5000
+      required: false
+    - id: 18
+      name: data_validation
+      label: Data Validation Needed
+      hint: Should data be validated
+      type: select_one
+      options:
+      - Yes Required
+      - Yes Basic
+      - false
+      required: true
+    - id: 19
+      name: validation_rules
+      label: Validation Rules
+      hint: Describe any rules
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: functionality_requirements
+      label: Functionality Requirements
+      hint: What should it do
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: formulas_needed
+      label: Formulas Needed
+      hint: Describe calculations
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: macros_required
+      label: Macros or Scripts Required
+      hint: Automation needed
+      type: select_one
+      options:
+      - Yes Complex
+      - Yes Simple
+      - false
+      - Not Sure
+      required: true
+    - id: 23
+      name: automation_features
+      label: Automation Features
+      hint: What should be automated
+      type: select_multiple
+      options:
+      - Data Import
+      - Calculations
+      - Report Generation
+      - Email Notifications
+      - Data Refresh
+      - Formatting
+      - None
+      required: false
+    - id: 24
+      name: charts_graphs
+      label: Charts or Graphs Needed
+      hint: Visual elements
+      type: select_multiple
+      options:
+      - Bar Charts
+      - Line Graphs
+      - Pie Charts
+      - Scatter Plots
+      - Dashboards
+      - Pivot Tables
+      - None
+      required: false
+    - id: 25
+      name: formatting_requirements
+      label: Formatting Requirements
+      hint: Special formatting
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: user_access
+      label: User Access
+      hint: Who will use this
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: number_of_users
+      label: Number of Users
+      hint: How many people
+      type: select_one
+      options:
+      - 1-5
+      - 6-10
+      - 11-25
+      - 26-50
+      - Over 50
+      required: true
+    - id: 28
+      name: access_levels
+      label: Access Levels Needed
+      hint: Different permissions
+      type: select_one
+      options:
+      - Single Access Level
+      - Two Levels
+      - Multiple Levels
+      - Not Sure
+      required: false
+    - id: 29
+      name: sharing_requirements
+      label: Sharing Requirements
+      hint: How will it be shared
+      type: select_one
+      options:
+      - Cloud Based
+      - Email Distribution
+      - Local File
+      - Network Drive
+      required: true
+    - id: 30
+      name: platform_preference
+      label: Platform Preference
+      hint: Which software
+      type: select_one
+      options:
+      - Microsoft Excel
+      - Google Sheets
+      - LibreOffice Calc
+      - No Preference
+      required: true
+    - id: 31
+      name: version_control
+      label: Version Control Needed
+      hint: Track changes
+      type: select_one
+      options:
+      - Yes Required
+      - Yes Basic
+      - false
+      required: false
+    - id: 32
+      name: integration_requirements
+      label: Integration Requirements
+      hint: Connect to other systems
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: systems_to_integrate
+      label: Systems to Integrate
+      hint: List systems
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: api_needed
+      label: API Integration Needed
+      hint: Connect to APIs
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 35
+      name: reporting_requirements
+      label: Reporting Requirements
+      hint: What reports needed
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: sample_data
+      label: Sample Data Available
+      hint: Can you provide samples
+      type: select_one
+      options:
+      - Yes Will Provide
+      - Yes Attached
+      - false
+      required: true
+    - id: 37
+      name: existing_spreadsheet
+      label: Existing Spreadsheet
+      hint: Is there a current version
+      type: select_one
+      options:
+      - Yes Need Upgrade
+      - Yes Need Fix
+      - No New Creation
+      required: true
+    - id: 38
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other details
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: training_needed
+      label: Training Needed
+      hint: Will you need training
+      type: select_one
+      options:
+      - Yes Comprehensive
+      - Yes Basic Overview
+      - No I Am Experienced
+      required: false
+    - id: 40
+      name: maintenance_plan
+      label: Maintenance Plan
+      hint: Ongoing support needed
+      type: select_one
+      options:
+      - Yes Ongoing
+      - Yes 30 Days
+      - false
+      required: false
+    - id: 41
+      name: budget_range
+      label: Budget Range
+      hint: Estimated budget
+      type: select_one
+      options:
+      - Under $500
+      - $500-$1000
+      - $1000-$2500
+      - $2500-$5000
+      - Over $5000
+      required: false
+    - id: 42
+      name: requester_signature
+      label: Requester Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 43
+      name: request_date
+      label: Request Date
+      hint: Today date
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: it_support_authorization_form
+    pages:
+    - id: 1
+      name: employee
+      label: Employee
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: access_date
+      label: Access Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: access_time
+      label: Access Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: access_type
+      label: Access Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: access_level
+      label: Access Level
+      hint: null
+      type: text
+      options: []
+      required: false

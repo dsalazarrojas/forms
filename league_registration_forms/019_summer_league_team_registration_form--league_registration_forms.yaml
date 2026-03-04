@@ -1,0 +1,251 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer League Team Registration Form
+    pages:
+    - id: 1
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: team_contact
+      label: Team Contact
+      hint: Required for communication purposes
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: team_email
+      label: Team Email
+      hint: Optional
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: team_coaches
+      label: Team Coaches
+      hint: null
+      type: select_multiple
+      options:
+      - Coach 1
+      - Coach 2
+      - Coach 3
+      required: false
+    - id: 5
+      name: team_players
+      label: Team Players
+      hint: null
+      type: select_multiple
+      options:
+      - Player 1
+      - Player 2
+      - Player 3
+      required: false
+    - id: 6
+      name: team_division
+      label: Team Division
+      hint: null
+      type: select_one
+      options:
+      - Division 1
+      - Division 2
+      - Division 3
+      required: false
+    - id: 7
+      name: team_level
+      label: Team Level
+      hint: null
+      type: select_one
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      required: false
+    - id: 8
+      name: practice_field
+      label: Practice Field
+      hint: null
+      type: select_one
+      options:
+      - Field 1
+      - Field 2
+      - Field 3
+      required: false
+    - id: 9
+      name: division_level
+      label: Division Level
+      hint: null
+      type: select_one
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      required: false
+    - id: 10
+      name: practice_schedule
+      label: Practice Schedule
+      hint: null
+      type: select_one
+      options:
+      - Schedule 1
+      - Schedule 2
+      - Schedule 3
+      required: false
+    - id: 11
+      name: team_description
+      label: Team Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: team_image
+      label: Team Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: practice_date
+      label: Practice Date
+      hint: Required for practice schedule planning
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: practice_time
+      label: Practice Time
+      hint: Required for practice schedule planning
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: practice_duration
+      label: Practice Duration
+      hint: Required for practice schedule planning
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: division
+      label: Division
+      hint: null
+      type: select_one
+      options:
+      - Division 1
+      - Division 2
+      - Division 3
+      required: false
+    - id: 17
+      name: division_level
+      label: Division Level
+      hint: null
+      type: select_one
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      required: false
+    - id: 18
+      name: practice_field_type
+      label: Practice Field Type
+      hint: null
+      type: select_one
+      options:
+      - Field Type 1
+      - Field Type 2
+      - Field Type 3
+      required: false
+    - id: 19
+      name: division_field
+      label: Division Field
+      hint: null
+      type: select_one
+      options:
+      - Field 1
+      - Field 2
+      - Field 3
+      required: false
+    - id: 20
+      name: division_level_field
+      label: Division Level Field
+      hint: null
+      type: select_one
+      options:
+      - Field 1
+      - Field 2
+      - Field 3
+      required: false
+    - id: 21
+      name: practice_time
+      label: Practice Time
+      hint: null
+      type: select_multiple
+      options:
+      - Time 1
+      - Time 2
+      - Time 3
+      required: false
+    - id: 22
+      name: division_time
+      label: Division Time
+      hint: null
+      type: select_multiple
+      options:
+      - Time 1
+      - Time 2
+      - Time 3
+      required: false
+    - id: 23
+      name: division_field_type
+      label: Division Field Type
+      hint: null
+      type: select_one
+      options:
+      - Field Type 1
+      - Field Type 2
+      - Field Type 3
+      required: false
+    - id: 24
+      name: division_level_time
+      label: Division Level Time
+      hint: null
+      type: select_multiple
+      options:
+      - Time 1
+      - Time 2
+      - Time 3
+      required: false
+    - id: 25
+      name: division_field_time
+      label: Division Field Time
+      hint: null
+      type: select_multiple
+      options:
+      - Time 1
+      - Time 2
+      - Time 3
+      required: false
+    - id: 26
+      name: division_level_field_type
+      label: Division Level Field Type
+      hint: null
+      type: select_one
+      options:
+      - Field Type 1
+      - Field Type 2
+      - Field Type 3
+      required: false
+    - id: 27
+      name: division_level_time_field
+      label: Division Level Field Time
+      hint: null
+      type: select_multiple
+      options:
+      - Time 1
+      - Time 2
+      - Time 3
+      required: false

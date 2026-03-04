@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Indemnity Agreement Form
+    pages:
+    - id: 1
+      name: transaction_details
+      label: Transaction Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: party_a
+      label: Party A
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: party_b
+      label: Party B
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: transaction_type
+      label: Transaction Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Service''}'
+      - '{''id'': 2, ''label'': ''Product''}'
+      required: false
+    - id: 5
+      name: liability_clause
+      label: Liability Clause
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Unlimited''}'
+      - '{''id'': 2, ''label'': ''Limited''}'
+      - '{''id'': 3, ''label'': ''Specified''}'
+      required: false
+    - id: 6
+      name: indemnification_period
+      label: Indemnification Period
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: responsible_party
+      label: Responsible Party
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''A''}'
+      - '{''id'': 2, ''label'': ''B''}'
+      required: false
+    - id: 8
+      name: coverage_amount
+      label: Coverage Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: coverage_period
+      label: Coverage Period
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: notice_period
+      label: Notice Period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: notice_type
+      label: Notice Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Written Notice''}'
+      - '{''id'': 2, ''label'': ''Verbal Notice''}'
+      required: false
+    - id: 12
+      name: notice_deadline
+      label: Notice Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: liability_limit
+      label: Liability Limit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Online Payment''}'
+      - '{''id'': 2, ''label'': ''Offline Payment''}'
+      required: false
+    - id: 16
+      name: payment_deadline
+      label: Payment Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: cancellation_terms
+      label: Cancellation Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: cancellation_method
+      label: Cancellation Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Written Notification''}'
+      - '{''id'': 2, ''label'': ''Verbal Notification''}'
+      required: false
+    - id: 19
+      name: termination_clause
+      label: Termination Clause
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Unlimited''}'
+      - '{''id'': 2, ''label'': ''Specified''}'
+      required: false
+    - id: 20
+      name: termination_type
+      label: Termination Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Upon Written Notice''}'
+      - '{''id'': 2, ''label'': ''Upon Verbal Notice''}'
+      required: false
+    - id: 21
+      name: termination_date
+      label: Termination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: termination_method
+      label: Termination Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Written Agreement''}'
+      - '{''id'': 2, ''label'': ''Verbal Agreement''}'
+      required: false
+    - id: 23
+      name: termination_period
+      label: Termination Period
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: contract_type
+      label: Contract Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Exclusive''}'
+      - '{''id'': 2, ''label'': ''Non-Exclusive''}'
+      required: false
+    - id: 25
+      name: contract_period
+      label: Contract Period
+      hint: null
+      type: date
+      options: []
+      required: false

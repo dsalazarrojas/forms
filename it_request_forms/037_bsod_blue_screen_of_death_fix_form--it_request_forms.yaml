@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: BSOD (Blue Screen Of Death) Fix Form
+    pages:
+    - id: 1
+      name: ticket_number
+      label: Ticket Number
+      hint: Reference ID from crash report
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: section_diagnosis
+      label: -- Diagnosis --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: diagnosis_date
+      label: Diagnosis Date
+      hint: When was the issue diagnosed?
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: technician_name
+      label: Technician Name
+      hint: IT professional conducting diagnosis
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: error_code_found
+      label: Error Code Found
+      hint: The STOP code or error
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: root_cause
+      label: Root Cause Identified
+      hint: What was causing the crash?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: diagnosis_method
+      label: Diagnostic Method Used
+      hint: null
+      type: select_multiple
+      options:
+      - Event Viewer Review
+      - Memory Dump Analysis
+      - CHKDSK Scan
+      - Driver Check
+      - Software Conflict Investigation
+      - Hardware Testing
+      - Antivirus Scan
+      - System File Check
+      required: false
+    - id: 8
+      name: section_repair_steps
+      label: -- Repair Steps --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: repair_steps
+      label: Repair Steps Taken
+      hint: Detailed description of fixes applied
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: software_uninstalled
+      label: Software Uninstalled
+      hint: Applications removed to fix issue
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: drivers_updated
+      label: Drivers Updated
+      hint: Which drivers were updated?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: windows_updates
+      label: Windows Updates Applied
+      hint: null
+      type: select_one
+      options:
+      - Yes, all available
+      - Yes, some critical
+      - No, deferred
+      - Not applicable
+      required: false
+    - id: 13
+      name: repair_duration
+      label: Duration of Repair (in hours)
+      hint: How long did the repair take?
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: system_restored_from_backup
+      label: System Restored From Backup?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Partial restore
+      required: false
+    - id: 15
+      name: section_testing
+      label: -- Testing and Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: crash_resolved
+      label: BSOD Issue Resolved?
+      hint: null
+      type: select_one
+      options:
+      - Yes, fully resolved
+      - Yes, temporarily resolved
+      - Partial resolution
+      - Not yet resolved
+      required: true
+    - id: 17
+      name: testing_performed
+      label: Testing Performed
+      hint: How was the fix verified?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: recurrence_risk
+      label: Risk of Recurrence
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 19
+      name: section_followup
+      label: -- Follow-up --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: preventative_measures
+      label: Preventative Measures Recommended
+      hint: To prevent future crashes
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: followup_required
+      label: Follow-up Monitoring Required?
+      hint: null
+      type: select_one
+      options:
+      - Yes, frequent monitoring
+      - Yes, periodic monitoring
+      - false
+      required: false
+    - id: 22
+      name: user_trained
+      label: User Trained on Prevention?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Partial
+      required: false
+    - id: 23
+      name: completion_date
+      label: Repair Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true

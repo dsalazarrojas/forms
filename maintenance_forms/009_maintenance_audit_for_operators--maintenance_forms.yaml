@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maintenance Audit For Operators
+    pages:
+    - id: 1
+      name: equipment_type
+      label: equipment_type
+      hint: null
+      type: select_one
+      options:
+      - Equipment
+      - Machinery
+      - Vehicle
+      - Equipment
+      - Tool
+      - System
+      required: true
+    - id: 2
+      name: equipment_id
+      label: equipment_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: equipment_name
+      label: equipment_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: equipment_location
+      label: equipment_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: equipment_status
+      label: equipment_status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Maintenance Required
+      - Inactive
+      required: true
+    - id: 6
+      name: operator_name
+      label: operator_name
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: true
+    - id: 7
+      name: operator_email
+      label: operator_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: operator_phone
+      label: operator_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: maintenance_frequency
+      label: maintenance_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 10
+      name: maintenance_date
+      label: maintenance_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: next_maintenance_date
+      label: next_maintenance_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: remarks
+      label: remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: operator_note
+      label: operator_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: maintenance_note
+      label: maintenance_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: date_completed
+      label: date_completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: operator_id
+      label: operator_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: equipment_id_2
+      label: equipment_id_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: equipment_name_2
+      label: equipment_name_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: equipment_location_2
+      label: equipment_location_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: equipment_status_2
+      label: equipment_status_2
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Maintenance Required
+      - Inactive
+      required: false
+    - id: 22
+      name: operator_name_2
+      label: operator_name_2
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false
+    - id: 23
+      name: operator_email_2
+      label: operator_email_2
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: operator_phone_2
+      label: operator_phone_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: review
+      label: Review
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: next_review
+      label: Next Review
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 27
+      name: review_status
+      label: review_status
+      hint: null
+      type: select_one
+      options:
+      - Review In Progress
+      - Review Complete
+      required: false
+    - id: 28
+      name: review_date
+      label: review_date
+      hint: null
+      type: date
+      options: []
+      required: false

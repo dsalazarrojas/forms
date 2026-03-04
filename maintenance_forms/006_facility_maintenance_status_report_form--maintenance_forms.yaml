@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Maintenance Status Report Form
+    pages:
+    - id: 1
+      name: maintenance_request
+      label: Maintenance Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facility_id
+      label: Facility ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: maintenance_status
+      label: Maintenance Status
+      hint: Select the status of the maintenance request
+      type: select_one
+      options:
+      - Approved
+      - Not Started
+      - In Progress
+      - Completed
+      required: false
+    - id: 4
+      name: repair_type
+      label: Repair Type
+      hint: null
+      type: select_one
+      options:
+      - Mechanical
+      - Electrical
+      - Plumbing
+      - HVAC
+      - Other
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: Describe the issue or maintenance request
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: asset_id
+      label: Asset ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: asset_type
+      label: Asset Type
+      hint: null
+      type: select_one
+      options:
+      - Building
+      - Equipment
+      - Vehicle
+      - Other
+      required: false
+    - id: 8
+      name: date_completed
+      label: Date Completed
+      hint: Date the maintenance was completed
+      type: date
+      options: []
+      required: false

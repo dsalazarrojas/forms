@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Laboratory Result Form
+    pages:
+    - id: 1
+      name: test_result
+      label: Test Result
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: test_result_details
+      label: Test Result Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: test_date
+      label: Test Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: test_time
+      label: Test Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: test_result_status
+      label: Test Result Status
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Abnormal
+      required: false
+    - id: 6
+      name: test_result_status_details
+      label: Test Result Status Details
+      hint: Enter a more detailed status description.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: lab_contact_person
+      label: Lab Contact Person
+      hint: null
+      type: select_multiple
+      options:
+      - Dr. Smith
+      - Dr. Jones
+      - Dr. Johnson
+      required: false
+    - id: 8
+      name: lab_contact_email
+      label: Lab Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: lab_phone
+      label: Lab Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: test_order_number
+      label: Test Order Number
+      hint: null
+      type: number
+      options: []
+      required: false

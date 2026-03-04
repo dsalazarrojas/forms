@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rental Unit Management Form
+    pages:
+    - id: 1
+      name: tenant_details
+      label: Tenant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lease_timelines
+      label: Lease Timelines
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rent_records
+      label: Rent Records
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: tenant_contact
+      label: Tenant Contact
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: rent_frequency
+      label: Rent Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: rent_amount
+      label: Rent Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: lease_expiration_date
+      label: Lease Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: lease_start_date
+      label: Lease Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: rent_frequency_label
+      label: Rent Frequency Label
+      hint: null
+      type: text
+      options: []
+      required: false

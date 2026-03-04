@@ -1,0 +1,213 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Lockout Tagout Safety Checklist
+    pages:
+    - id: 1
+      name: lockout_tagout_safety_checklist
+      label: Lockout Tagout Safety Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - Lockout
+      - Tagout
+      required: true
+    - id: 2
+      name: location
+      label: facility
+      hint: null
+      type: select_one
+      options:
+      - Electrical Room
+      - Piping System
+      - Pump Room
+      required: false
+    - id: 3
+      name: lockout_tagout_inspection_date
+      label: Lockout Tagout Inspection Date
+      hint: YYYY-MM-dd
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: lockout_tagout_safety_checklist_issues
+      label: Lockout Tagout Safety Checklist Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: lockout_tagout_safety_checklist_actions
+      label: Lockout Tagout Safety Checklist Actions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: facility_inspector
+      label: Facility Inspector
+      hint: null
+      type: select_one
+      options:
+      - Lockout Tagout Inspector 1
+      - Facilities Team Member 1
+      - Other
+      required: true
+    - id: 7
+      name: facility_inspector_signature
+      label: Facility Inspector Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: lockout_tagout_safety_checklist_comments
+      label: Lockout Tagout Safety Checklist Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: issue_date
+      label: Issue Date
+      hint: YYYY-MM-dd
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: issue_type
+      label: Issue Type
+      hint: null
+      type: select_one
+      options:
+      - Safety
+      - Maintenance
+      - Other
+      required: true
+    - id: 11
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: issue_resolution
+      label: Issue Resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: lockout_tagout_safety_checklist_comments
+      label: Lockout Tagout Safety Checklist Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: lockout_tagout_inspection_frequency
+      label: Lockout Tagout Inspection Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Other
+      required: false
+    - id: 15
+      name: lockout_tagout_safety_checklist_frequency
+      label: Lockout Tagout Safety Checklist Frequency
+      hint: null
+      type: select_one
+      options:
+      - After each lockout/tagout
+      - Every 30 days
+      - Every 60 days
+      - Every 90 days
+      - Every 120 days
+      - Other
+      required: true
+    - id: 16
+      name: lockout_tagout_safety_checklist_completed
+      label: Lockout Tagout Safety Checklist Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: lockout_tagout_safety_checklist_reviewed
+      label: Lockout Tagout Safety Checklist Reviewed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: facility_manager_reviewed
+      label: Facility Manager Reviewed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: supervisor_reviewed
+      label: Supervisor Reviewed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: reviewer_signature
+      label: Reviewer Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: facility_inspector_reviewer_comments
+      label: Facility Inspector Reviewer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: supervisor_reviewer_comments
+      label: Supervisor Reviewer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: facility_inspector_reviewer_signature
+      label: Facility Inspector Reviewer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: supervisor_reviewer_signature
+      label: Supervisor Reviewer Signature
+      hint: null
+      type: text
+      options: []
+      required: false

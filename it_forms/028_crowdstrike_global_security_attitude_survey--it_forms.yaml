@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: CrowdStrike Global Security Attitude Survey
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: security_attitude_score_1
+      label: How would you rate your current security posture?
+      hint: null
+      type: select_one
+      options:
+      - Very poor
+      - Poor
+      - Neutral
+      - Good
+      - Very good
+      required: false
+    - id: 4
+      name: security_attitude_score_2
+      label: How would you rate your overall security posture?
+      hint: null
+      type: select_one
+      options:
+      - Very poor
+      - Poor
+      - Neutral
+      - Good
+      - Very good
+      required: false
+    - id: 5
+      name: security_attitude_score_3
+      label: How would you rate your overall security posture (continued)?
+      hint: null
+      type: select_one
+      options:
+      - Very poor
+      - Poor
+      - Neutral
+      - Good
+      - Very good
+      required: false
+    - id: 6
+      name: security_attitude_score_4
+      label: How would you rate your overall security posture (continued 2)?
+      hint: null
+      type: select_one
+      options:
+      - Very poor
+      - Poor
+      - Neutral
+      - Good
+      - Very good
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: security_attitude_score_5
+      label: How would you rate the importance of security?
+      hint: null
+      type: select_one
+      options:
+      - Very poor
+      - Poor
+      - Neutral
+      - Good
+      - Very good
+      required: false

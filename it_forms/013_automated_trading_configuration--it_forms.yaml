@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automated Trading Configuration
+    pages:
+    - id: 1
+      name: section_header_client
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: account_number
+      label: Trading Account Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_platform
+      label: -- Trading Platform Configuration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: trading_platform
+      label: Trading Platform
+      hint: null
+      type: select_one
+      options:
+      - MetaTrader 4
+      - MetaTrader 5
+      - Interactive Brokers
+      - thinkorswim
+      - TradingView
+      - Other
+      required: true
+    - id: 8
+      name: platform_username
+      label: Platform Username
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: api_key
+      label: API Key
+      hint: Do not share publicly
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_header_trading
+      label: -- Trading Strategy Configuration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: trading_strategy
+      label: Trading Strategy Type
+      hint: null
+      type: select_one
+      options:
+      - Scalping
+      - Day Trading
+      - Swing Trading
+      - Position Trading
+      - Algorithmic
+      - Other
+      required: true
+    - id: 12
+      name: assets_to_trade
+      label: Assets to Trade
+      hint: e.g., EUR/USD, Apple Stock, Bitcoin
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: time_frame
+      label: Primary Time Frame
+      hint: null
+      type: select_one
+      options:
+      - 1 minute
+      - 5 minutes
+      - 15 minutes
+      - 1 hour
+      - 4 hours
+      - Daily
+      - Weekly
+      required: true
+    - id: 14
+      name: entry_criteria
+      label: Entry Criteria
+      hint: What signals trigger entry?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: exit_criteria
+      label: Exit Criteria
+      hint: What signals trigger exit?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: section_header_risk
+      label: -- Risk Management Settings --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: account_balance
+      label: Account Balance
+      hint: Starting capital
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: risk_per_trade
+      label: Risk Per Trade (%)
+      hint: Maximum risk as percentage of account
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: max_daily_loss
+      label: Maximum Daily Loss Limit
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: position_size
+      label: Position Size Strategy
+      hint: null
+      type: select_one
+      options:
+      - Fixed Lot
+      - Percentage Risk
+      - Kelly Criterion
+      - Adaptive
+      required: true
+    - id: 21
+      name: stop_loss_level
+      label: Stop Loss Level (pips or percentage)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: take_profit_level
+      label: Take Profit Level (pips or percentage)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: section_header_automation
+      label: -- Automation Settings --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: automated_entry
+      label: Enable Automated Entry
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: activation_date
+      label: Configuration Activation Date
+      hint: When should this configuration start trading?
+      type: date
+      options: []
+      required: true

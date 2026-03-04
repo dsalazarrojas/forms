@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Form For Trust Building
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Your Full Name
+      hint: Enter your name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Your Email Address
+      hint: Primary email for contact
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Your Phone Number
+      hint: Mobile or landline
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_trust_indicators
+      label: -- Trust and Reputation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: how_did_you_hear_about_us
+      label: How did you hear about us?
+      hint: Select your primary source
+      type: select_one
+      options:
+      - Referral from a friend
+      - Professional Network
+      - Online Search
+      - Social Media
+      - Event/Webinar
+      - Case Study/Testimonial
+      required: true
+    - id: 7
+      name: industry_sector
+      label: Your Industry/Sector
+      hint: Select one
+      type: select_one
+      options:
+      - Technology
+      - Finance
+      - Healthcare
+      - Retail
+      - Education
+      - Other
+      required: true
+    - id: 8
+      name: what_built_your_trust
+      label: What aspect of our reputation built your trust?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Positive Customer Reviews
+      - Professional Certifications
+      - Transparency and Honesty
+      - Industry Awards
+      - Referrals/Recommendations
+      - Content/Thought Leadership
+      required: true
+    - id: 9
+      name: section_communication_details
+      label: -- Communication Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: primary_communication_goal
+      label: Primary Communication Goal
+      hint: What do you hope to achieve with this contact?
+      type: select_one
+      options:
+      - Information Gathering
+      - Consultation Request
+      - Business Partnership
+      - Media Inquiry
+      - Support/Feedback
+      required: true
+    - id: 11
+      name: detailed_message
+      label: Your Message or Inquiry
+      hint: Please provide more information
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: preferred_response_method
+      label: Preferred Response Method
+      hint: How should we reach back out?
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - LinkedIn Message
+      required: true
+    - id: 13
+      name: submission_date
+      label: Submission Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

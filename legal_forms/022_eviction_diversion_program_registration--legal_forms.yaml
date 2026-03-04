@@ -1,0 +1,91 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Eviction Diversion Program Registration
+    pages:
+    - id: 1
+      name: tenant_info
+      label: tenant_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: eviction_status
+      label: eviction_status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Scheduled
+      - Evicted
+      required: false
+    - id: 3
+      name: legal_aids_services
+      label: legal_aids_services
+      hint: null
+      type: select_one
+      options:
+      - Court-appointed attorney
+      - Private attorney
+      - Non-profit legal aid provider
+      - Other (please specify)
+      required: false
+    - id: 4
+      name: housing_agency_partners
+      label: housing_agency_partners
+      hint: null
+      type: select_multiple
+      options:
+      - Partnered with a housing agency
+      - Partnered with multiple housing agencies
+      - Not partnered with a housing agency
+      required: false
+    - id: 5
+      name: court_info
+      label: court_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: program_info
+      label: program_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: landlord_info
+      label: landlord_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: other_info
+      label: other_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submission_confirmation
+      label: submission_confirmation
+      hint: null
+      type: select_one
+      options:
+      - I confirm I've completed this form
+      - I did not complete this form
+      required: false

@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Meeting Request Form
+    pages:
+    - id: 1
+      name: meeting_details
+      label: meeting_details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: attendees
+      label: attendees
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - Jim Doe
+      required: true
+    - id: 3
+      name: purpose
+      label: purpose
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attendees_email
+      label: attendees email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: attendees_phone
+      label: attendees phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: meeting_url
+      label: meeting url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 10
+      name: assigned_tool2
+      label: assigned tool2
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 11
+      name: assigned_tool3
+      label: assigned tool3
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false

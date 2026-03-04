@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Support Cancellation Form
+    pages:
+    - id: 1
+      name: cancellation_request_date
+      label: Cancellation Request Date
+      hint: Date of cancellation request
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: requester_first_name
+      label: Requester First Name
+      hint: Legal first name of person requesting cancellation
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_last_name
+      label: Requester Last Name
+      hint: Legal last name of person requesting cancellation
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requester_email
+      label: Requester Email
+      hint: Primary email address for contact
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: requester_phone
+      label: Requester Phone
+      hint: Primary phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: requester_address
+      label: Requester Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: other_parent_first_name
+      label: Other Parent First Name
+      hint: Legal first name of other parent
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: other_parent_last_name
+      label: Other Parent Last Name
+      hint: Legal last name of other parent
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: other_parent_contact
+      label: Other Parent Contact
+      hint: Phone or email for other parent
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: child_first_name
+      label: Child First Name
+      hint: Legal first name of the child
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: child_last_name
+      label: Child Last Name
+      hint: Legal last name of the child
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: child_date_of_birth
+      label: Child Date of Birth
+      hint: Please provide the child's birth date
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: child_age
+      label: Child Age
+      hint: Current age of the child in years
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: court_case_number
+      label: Court Case Number
+      hint: Court case number for child support order
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: court_jurisdiction
+      label: Court Jurisdiction
+      hint: County or jurisdiction of the court
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: support_order_date
+      label: Support Order Date
+      hint: Date when child support order was issued
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: current_support_amount
+      label: Current Support Amount
+      hint: Current monthly child support amount
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: reason_for_cancellation
+      label: Reason for Cancellation
+      hint: Primary reason for requesting cancellation
+      type: select_one
+      options:
+      - Child reached age of majority
+      - Child emancipated
+      - Child adopted by another party
+      - Change in custody arrangement
+      - Reconciliation of parents
+      - Death of child
+      - Death of obligor parent
+      - Other
+      required: true
+    - id: 19
+      name: cancellation_details
+      label: Cancellation Details
+      hint: Provide detailed explanation for cancellation request
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: effective_date_requested
+      label: Effective Date Requested
+      hint: When should the cancellation take effect?
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: other_parent_agreement
+      label: Other Parent Agreement
+      hint: Does the other parent agree to this cancellation?
+      type: select_one
+      options:
+      - Yes, in writing
+      - Yes, verbally
+      - false
+      - Unable to contact
+      - Pending response
+      required: true
+    - id: 22
+      name: arrears_status
+      label: Arrears Status
+      hint: Are there any unpaid child support arrears?
+      type: select_one
+      options:
+      - No arrears
+      - Yes, being paid current
+      - Yes, past due
+      - Unsure
+      required: true
+    - id: 23
+      name: arrears_amount
+      label: Arrears Amount
+      hint: If applicable, total amount of arrears
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: attorney_representing
+      label: Attorney Representing
+      hint: Do you have an attorney representing you?
+      type: select_one
+      options:
+      - true
+      - No, representing myself
+      required: true
+    - id: 25
+      name: attorney_name
+      label: Attorney Name
+      hint: Name of attorney if applicable
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: attorney_contact
+      label: Attorney Contact
+      hint: Phone or email for attorney
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: supporting_documents
+      label: Supporting Documents
+      hint: List any documents you are submitting with this request
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: requester_signature
+      label: Requester Signature
+      hint: Type your full name as your electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: signature_date
+      label: Signature Date
+      hint: Date of electronic signature
+      type: date
+      options: []
+      required: true

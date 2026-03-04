@@ -1,0 +1,164 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Account Access Request Form
+    pages:
+    - id: 1
+      name: section_requester_info
+      label: -- Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+        - Administration
+        - Engineering
+        - Finance
+        - Human Resources
+        - IT
+        - Marketing
+        - Operations
+        - Sales
+        - Other
+      required: true
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: manager_name
+      label: Direct Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_access_details
+      label: -- Access Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+        - New account
+        - Additional access
+        - Modification of existing access
+        - Temporary access
+        - Access removal
+      required: true
+    - id: 10
+      name: systems_requested
+      label: Systems or Applications Requiring Access
+      hint: Select all that apply
+      type: select_multiple
+      options:
+        - Email and calendar
+        - ERP system
+        - CRM platform
+        - File share or document management
+        - VPN or remote access
+        - Database
+        - Development tools
+        - Other
+      required: true
+    - id: 11
+      name: access_level
+      label: Access Level Required
+      hint: null
+      type: select_one
+      options:
+        - Read-only
+        - Standard user
+        - Power user
+        - Administrator
+      required: true
+    - id: 12
+      name: access_start_date
+      label: Access Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: access_end_date
+      label: Access End Date (if temporary)
+      hint: Leave blank for permanent access
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: business_justification
+      label: Business Justification for Access
+      hint: Explain why this access is needed for your role
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: section_approval
+      label: -- Approval --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: manager_approval
+      label: Manager Approval Status
+      hint: null
+      type: select_one
+      options:
+        - Pending
+        - Approved
+        - Denied
+      required: true
+    - id: 17
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false

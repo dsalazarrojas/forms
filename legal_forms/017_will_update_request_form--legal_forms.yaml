@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Will Update Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter first name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: relation
+      label: Relation
+      hint: Select a relation
+      type: select_one
+      options:
+      - Aunt
+      - Brother
+      - Cousin
+      - Grandchild
+      - Grandparent
+      - Mother
+      - Other
+      - Parent
+      - Sister
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: Enter email
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: signed_authorization
+      label: Signed Authorization
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: supporting_documents
+      label: Supporting Documents
+      hint: Attach supporting documents
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

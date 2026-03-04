@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: CRM Onboarding Consulting Intake Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Primary contact person
+      hint: Name and role
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: For project communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: current_crm
+      label: Current CRM platform
+      hint: Existing system in use
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_goals
+      label: Primary goals for CRM implementation
+      hint: Select top priorities
+      type: select_multiple
+      options:
+      - Lead management
+      - Sales automation
+      - Reporting and analytics
+      - Customer support
+      required: true
+    - id: 6
+      name: number_of_users
+      label: Approximate number of CRM users
+      hint: Internal users who need access
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: desired_timeline
+      label: Desired implementation timeline
+      hint: When would you like to go live
+      type: select_one
+      options:
+      - 1 month
+      - 2 to 3 months
+      - 4 to 6 months
+      - More than 6 months
+      required: true
+    - id: 8
+      name: additional_requirements
+      label: Additional technical or integration requirements
+      hint: APIs, data migrations, or customizations
+      type: text
+      options: []
+      required: false

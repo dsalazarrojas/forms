@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Application For Appointment Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email address
+      hint: Main contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: position
+      label: Position applying for
+      hint: Select desired position
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: employment_type
+      label: Employment type
+      hint: Full-time part-time or temporary
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Temporary
+      required: true
+    - id: 6
+      name: preferred_training_date
+      label: Preferred training date
+      hint: Date for scheduled training session
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: availability_window
+      label: Availability window
+      hint: Preferred time of day
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 8
+      name: resume_filename
+      label: Resume filename
+      hint: Indicate uploaded resume file name
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: cover_letter
+      label: Cover letter summary
+      hint: Brief summary or key points
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_requests
+      label: Additional requests
+      hint: Any special accommodations or notes
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marine Boat Show Lead Generation Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email, Phone, SMS
+      - Other
+      required: true
+    - id: 5
+      name: follow_up_method
+      label: Follow up Method
+      hint: null
+      type: select_multiple
+      options:
+      - Email, Phone, SMS
+      - Other
+      required: true

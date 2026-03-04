@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Workforce Monitoring Dashboard Request
+    pages:
+    - id: 1
+      name: remote_workforce_monitoring_dashboard_request
+      label: Remote Workforce Monitoring Dashboard Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - IT Request Forms
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: required_fields
+      label: Required Fields
+      hint: Select the required fields for the remote workforce monitoring dashboard
+      type: select_multiple
+      options:
+      - dashboard_overview
+      - data_collection
+      - data_visualization
+      - data_export
+      required: false
+    - id: 5
+      name: dashboard_overview
+      label: Dashboard Overview
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: data_collection
+      label: Data Collection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: data_visualization
+      label: Data Visualization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: data_export
+      label: Data Export
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: data_security
+      label: Data Security
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

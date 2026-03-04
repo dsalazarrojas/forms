@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lab Supply Order Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_method
+      label: Payment Method
+      hint: Select payment method
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Online Payment''}'
+      - '{''id'': 2, ''name'': ''Offline Payment''}'
+      required: false
+    - id: 3
+      name: items_ordered
+      label: Items Ordered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: total_items
+      label: Total Items
+      hint: Number of items to order
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false

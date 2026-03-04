@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Solar System Inquiry
+    pages:
+    - id: 1
+      name: prospect_information
+      label: Prospect Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_details
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: energy_usage
+      label: Energy Usage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: solar_preferences
+      label: Solar Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: lead_source
+      label: Lead Source
+      hint: null
+      type: select_one
+      options:
+      - residential
+      - referral
+      - online_advertisement
+      - social_media
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email_confirmation
+      label: Confirm Email
+      hint: Please confirm your email address
+      type: text
+      options: []
+      required: false

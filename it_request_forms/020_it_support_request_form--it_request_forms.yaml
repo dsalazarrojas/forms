@@ -1,0 +1,39 @@
+inputSchema:
+  type: object
+  properties:
+    title: it_support_request_form
+    pages:
+    - id: 1
+      name: internet_connection
+      label: Internet Connection
+      hint: null
+      type: select_multiple
+      options:
+      - DSL
+      - Fiber
+      - Wireless
+      required: false
+    - id: 2
+      name: operating_system
+      label: Operating System
+      hint: null
+      type: select_one
+      options:
+      - Windows
+      - macOS
+      - Linux
+      required: false
+    - id: 3
+      name: problem_details
+      label: Problem Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

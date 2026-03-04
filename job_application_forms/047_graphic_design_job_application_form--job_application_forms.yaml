@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Graphic Design Job Application Form
+    pages:
+    - id: 1
+      name: applicant_info
+      label: applicant_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: university_info
+      label: university_info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: design_skills
+      label: design_skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: attachments
+      label: attachments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: portfolio_samples
+      label: portfolio_samples
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: links
+      label: links
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

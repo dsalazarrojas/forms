@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Non Disclosure Agreement Request Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Non Disclosure Agreement Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Legal Forms
+      - Other
+      required: false
+    - id: 3
+      name: form_description
+      label: Description
+      hint: Briefly describe this document.
+      type: text
+      options: []
+      required: false

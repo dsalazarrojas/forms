@@ -1,0 +1,38 @@
+inputSchema:
+  type: object
+  properties:
+    title: Download Budget Wedding Ideas
+    pages:
+    - id: 1
+      name: budget_wedding_ideas
+      label: What is your budget for your wedding?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: wedding_details
+      label: What are your wedding details?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_details
+      label: How do you like to be contacted?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Email''}'
+      - '{''id'': 2, ''label'': ''Phone''}'
+      - '{''id'': 3, ''label'': ''Mobile''}'
+      required: true
+    - id: 4
+      name: planning_info
+      label: Can we send you planning info?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false

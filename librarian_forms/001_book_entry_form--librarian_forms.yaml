@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Entry Form
+    pages:
+    - id: 1
+      name: book_title
+      label: Book Title
+      hint: Full title of the book
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: author_name
+      label: Author Name
+      hint: First and last name of the author
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: isbn_number
+      label: ISBN Number
+      hint: 10 or 13 digit ISBN code
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: publication_year
+      label: Publication Year
+      hint: Year the book was published
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: page_count
+      label: Number of Pages
+      hint: Total page count
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: book_category
+      label: Book Category
+      hint: Select the primary category
+      type: select_one
+      options:
+      - Fiction
+      - Non-Fiction
+      - Science
+      - History
+      - Biography
+      - Reference
+      - Children
+      required: true
+    - id: 7
+      name: publisher_name
+      label: Publisher Name
+      hint: Name of the publishing company
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: edition_number
+      label: Edition Number
+      hint: e.g., First Edition, Second Edition
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: book_condition
+      label: Book Condition
+      hint: Current physical condition
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Damaged
+      required: true
+    - id: 10
+      name: acquisition_date
+      label: Date Acquired
+      hint: When was this book added to inventory
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: cost_price
+      label: Cost Price
+      hint: Amount paid for this copy
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: cataloging_notes
+      label: Cataloging Notes
+      hint: Additional notes about the book entry
+      type: text
+      options: []
+      required: false

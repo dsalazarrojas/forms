@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Feature Details Form
+    pages:
+    - id: 1
+      name: feature_details_form
+      label: Feature Details Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: device_used
+      label: Device Used
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Desktop'', ''value'': ''desktop''}'
+      - '{''id'': 2, ''text'': ''Laptop'', ''value'': ''laptop''}'
+      - '{''id'': 3, ''text'': ''Mobile'', ''value'': ''mobile''}'
+      required: false
+    - id: 3
+      name: feature_request
+      label: Feature Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: requestor
+      label: Requestor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''text'': ''IT'', ''value'': ''it''}'
+      - '{''id'': 2, ''text'': ''Operations'', ''value'': ''operations''}'
+      - '{''id'': 3, ''text'': ''Marketing'', ''value'': ''marketing''}'
+      - '{''id'': 4, ''text'': ''Sales'', ''value'': ''sales''}'
+      required: false
+    - id: 7
+      name: feature_status
+      label: Feature Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''New'', ''value'': ''new''}'
+      - '{''id'': 2, ''text'': ''Approved'', ''value'': ''approved''}'
+      - '{''id'': 3, ''text'': ''Rejected'', ''value'': ''rejected''}'
+      - '{''id'': 4, ''text'': ''Archived'', ''value'': ''archived''}'
+      required: false
+    - id: 8
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''High'', ''value'': ''high''}'
+      - '{''id'': 2, ''text'': ''Medium'', ''value'': ''medium''}'
+      - '{''id'': 3, ''text'': ''Low'', ''value'': ''low''}'
+      required: false
+    - id: 9
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: request_time
+      label: Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: feature_request_type
+      label: Feature Request Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''text'': ''Bug'', ''value'': ''bug''}'
+      - '{''id'': 2, ''text'': ''New Feature'', ''value'': ''new_feature''}'
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: feature_id
+      label: Feature ID
+      hint: null
+      type: text
+      options: []
+      required: false

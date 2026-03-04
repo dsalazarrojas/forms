@@ -1,0 +1,269 @@
+inputSchema:
+  type: object
+  properties:
+    title: Biotech Research Collaboration Contact Form
+    pages:
+    - id: 1
+      name: section_organization_info
+      label: -- Organization Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization Name
+      hint: Name of your institution or company
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_type
+      label: Organization Type
+      hint: What type of organization
+      type: select_one
+      options:
+      - University
+      - Research Institute
+      - Biotech Company
+      - Pharmaceutical Company
+      - Hospital or Clinical Center
+      - Government Lab
+      - Other
+      required: true
+    - id: 4
+      name: organization_website
+      label: Organization Website
+      hint: URL of your organization
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_contact_person
+      label: -- Contact Person --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_first_name
+      label: First Name
+      hint: Contact person's first name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_last_name
+      label: Last Name
+      hint: Contact person's last name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_title
+      label: Job Title
+      hint: Your professional title
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_department
+      label: Department or Lab
+      hint: Your department or research area
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: contact_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_collaboration_interest
+      label: -- Collaboration Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: collaboration_type
+      label: Type of Collaboration Being Sought
+      hint: What kind of partnership are you interested in
+      type: select_multiple
+      options:
+      - Joint Research Project
+      - Material or Resource Sharing
+      - Personnel Exchange
+      - Technology Licensing
+      - Contract Research
+      - Funding Partnership
+      - Clinical Trial Collaboration
+      - Other
+      required: true
+    - id: 14
+      name: research_focus
+      label: Research Focus Areas
+      hint: Describe your research focus
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: expertise_offered
+      label: Expertise or Resources You Can Offer
+      hint: What can you contribute to collaboration
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: expertise_needed
+      label: Expertise or Resources You Need
+      hint: What are you seeking from a partner
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: section_project_details
+      label: -- Project Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: project_title
+      label: Proposed Project Title
+      hint: Working title for collaboration
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: project_description
+      label: Project Description
+      hint: Brief description of collaboration idea
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: project_timeline
+      label: Proposed Project Timeline
+      hint: Expected start date and duration
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: funding_status
+      label: Funding Status
+      hint: Is funding already secured
+      type: select_one
+      options:
+      - Fully Funded
+      - Partially Funded
+      - Seeking Funding
+      - Unfunded but Feasible
+      required: false
+    - id: 22
+      name: budget_range
+      label: Estimated Project Budget
+      hint: Approximate budget in USD
+      type: select_one
+      options:
+      - Less than 50K
+      - 50K - 250K
+      - 250K - 1M
+      - 1M - 5M
+      - Over 5M
+      - TBD
+      required: false
+    - id: 23
+      name: section_background
+      label: -- Background and Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: years_in_field
+      label: Years of Experience in Biotech
+      hint: Your professional experience
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: previous_collaborations
+      label: Previous Collaborations
+      hint: Describe relevant past partnerships
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: publications
+      label: Relevant Publications or Patents
+      hint: List key publications or patents
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: section_logistics
+      label: -- Logistics and Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: collaboration_location
+      label: Preferred Collaboration Location
+      hint: Where would work be conducted
+      type: select_one
+      options:
+      - On-Site at Our Facility
+      - On-Site at Your Facility
+      - Hybrid or Remote
+      - Flexible
+      required: false
+    - id: 29
+      name: confidentiality_agreement
+      label: Are You Willing to Sign a Confidentiality Agreement
+      hint: NDA may be required
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 30
+      name: intellectual_property
+      label: Intellectual Property Preference
+      hint: How should IP be handled
+      type: select_one
+      options:
+      - Shared Equally
+      - By Organization Ownership
+      - By Contribution
+      - To Be Determined
+      required: false
+    - id: 31
+      name: additional_notes
+      label: Additional Notes or Comments
+      hint: Share any other relevant information
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: contact_preference
+      label: Preferred Contact Method
+      hint: How should we follow up
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Video Call
+      - In-Person Meeting
+      required: true

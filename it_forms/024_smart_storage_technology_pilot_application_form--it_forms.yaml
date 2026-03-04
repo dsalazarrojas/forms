@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Storage Technology Pilot Application Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_description
+      label: Project Description
+      hint: Briefly describe your project
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_location
+      label: Project Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: team_members
+      label: Team Members
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: project_duration
+      label: Project Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Storage'', ''label'': ''Storage''}'
+      - '{''id'': 2, ''name'': ''Data'', ''label'': ''Data''}'
+      - '{''id'': 3, ''name'': ''Both'', ''label'': ''Both''}'
+      required: false
+    - id: 11
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Not Started'', ''label'': ''Not Started''}'
+      - '{''id'': 2, ''name'': ''In Progress'', ''label'': ''In Progress''}'
+      - '{''id'': 3, ''name'': ''Completed'', ''label'': ''Completed''}'
+      - '{''id'': 4, ''name'': ''Archived'', ''label'': ''Archived''}'
+      required: false

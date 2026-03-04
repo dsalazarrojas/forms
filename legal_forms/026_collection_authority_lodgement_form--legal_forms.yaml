@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Collection Authority Lodgement Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Lodgement Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: creditor_name
+      label: Creditor name
+      hint: Name of party lodging the authority
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: debtor_name
+      label: Debtor name
+      hint: Name of debtor
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: debt_amount
+      label: Debt amount
+      hint: Currency value
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: account_reference
+      label: Account reference
+      hint: Invoice or account number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: lodgement_date
+      label: Lodgement date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: supporting_documents
+      label: Supporting documents
+      hint: List attachments provided
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: legal_representation
+      label: Legal representation
+      hint: Name of legal representative if any
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact email
+      hint: For legal correspondence
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: additional_notes
+      label: Additional notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

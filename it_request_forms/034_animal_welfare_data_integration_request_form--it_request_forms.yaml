@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Welfare Data Integration Request Form
+    pages:
+    - id: 1
+      name: requester_name_full
+      label: Requester Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_org_name
+      label: Organization or Institution Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: source_data_system_name
+      label: Source Data System
+      hint: e.g. ShelterBuddy, PetPoint, Chameleon
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: target_data_destination
+      label: Target Data System or Destination
+      hint: Where should the data be sent?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: integration_type_selection
+      label: Integration Type
+      hint: null
+      type: select_one
+      options:
+      - One-way Sync - Source to Target
+      - Bi-directional Sync
+      - Batch Data Export
+      - Live API Connection
+      required: true
+    - id: 6
+      name: update_frequency_requirement
+      label: Frequency of Data Update
+      hint: null
+      type: select_one
+      options:
+      - Real-time Updates
+      - Daily Batch
+      - Weekly Batch
+      - On-demand Manual Trigger
+      required: true
+    - id: 7
+      name: data_fields_to_integrate
+      label: Data Fields to be Shared
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Animal Unique IDs
+      - Health and Medical Records
+      - Adoption and Intake Status
+      - Physical Location Data
+      - Owner and Contact Information
+      required: true
+    - id: 8
+      name: integration_purpose_summary
+      label: Reason for Data Integration
+      hint: Describe the project or operational need
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: privacy_compliance_ack
+      label: Security and Privacy Compliance Acknowledgment
+      hint: I agree to adhere to all data protection and privacy policies
+      type: select_one
+      options:
+      - I agree and acknowledge
+      - Other
+      required: true
+    - id: 10
+      name: timeline_expectation
+      label: Preferred Implementation Timeline
+      hint: e.g. Next 30 days
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: it_contact_email
+      label: Technical Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true

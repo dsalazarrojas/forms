@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Security Guard Job Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: applicant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_multiple
+      options:
+      - Security Guard
+      - Surveillance Officer
+      required: false
+    - id: 7
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: work_schedule
+      label: Work Schedule
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: experience
+      label: Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: education
+      label: Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: skills
+      label: Skills
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: referees
+      label: Referees
+      hint: null
+      type: select_multiple
+      options:
+      - Primary Referee
+      - Secondary Referee
+      required: false
+    - id: 13
+      name: upload_document
+      label: Upload Document
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false
+    - id: 15
+      name: assigned_form
+      label: Assigned Form
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 16
+      name: assigned_by
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: date_assigned
+      label: Date Assigned
+      hint: null
+      type: date
+      options: []
+      required: false

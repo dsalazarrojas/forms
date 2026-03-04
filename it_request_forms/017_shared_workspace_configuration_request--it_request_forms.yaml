@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: shared_workspace_configuration_request
+    pages:
+    - id: 1
+      name: office_location
+      label: Office Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: coworking_space
+      label: Coworking Space
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: facility_team
+      label: Facility Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: needs
+      label: Needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: date_start
+      label: Date Start
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: date_end
+      label: Date End
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time_required
+      label: Time Required
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: workspace_needs
+      label: Workspace Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: amenities
+      label: Amenities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

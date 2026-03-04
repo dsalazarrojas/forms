@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hinge Installation Request Form
+    pages:
+    - id: 1
+      name: hinge_installation_request_form_name
+      label: Hinge Installation Request Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: prophets_and_rituals
+      label: Prophets and Rituals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: hinge_model_and_year
+      label: Hinge Model and Year
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: hinge_serial_number
+      label: Hinge Serial Number
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: hinge_description
+      label: Hinge Description
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: service_request_date
+      label: Service Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: service_request_time
+      label: Service Request Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: schedule_visit
+      label: Schedule Visit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: schedule_date
+      label: Schedule Date
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: schedule_time
+      label: Schedule Time
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

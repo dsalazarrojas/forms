@@ -1,0 +1,278 @@
+inputSchema:
+  type: object
+  properties:
+    title: Career Transition Program Application
+    pages:
+    - id: 1
+      name: program_name
+      label: Program Name
+      hint: Name of the career transition program
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone
+      label: Phone Number
+      hint: Include area code
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: current_employment
+      label: Current Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed full-time
+      - Employed part-time
+      - Unemployed
+      - Self-employed
+      - Student
+      - Other
+      required: true
+    - id: 11
+      name: current_position
+      label: Current Job Title
+      hint: If employed
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: current_industry
+      label: Current Industry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: years_experience
+      label: Years of Professional Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: education_level
+      label: Highest Level of Education
+      hint: null
+      type: select_one
+      options:
+      - High School Diploma
+      - Some College
+      - Associate Degree
+      - Bachelor's Degree
+      - Master's Degree
+      - PhD or Doctorate
+      - Vocational Certification
+      - Other
+      required: true
+    - id: 15
+      name: education_field
+      label: Field of Study or Major
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: transition_reason
+      label: Why Are You Seeking Career Transition?
+      hint: Explain your motivation
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: target_career
+      label: Target Career or Field
+      hint: What field are you transitioning to?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: target_position
+      label: Target Position or Job Title
+      hint: Specific role you want
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: motivation_statement
+      label: Motivation Statement
+      hint: Why do you want this career change?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: key_skills
+      label: Key Skills and Strengths
+      hint: What are your main competencies?
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: skill_gaps
+      label: Skill Gaps You Want to Address
+      hint: What skills do you need to develop?
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: program_goals
+      label: Goals for This Program
+      hint: What do you want to achieve?
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: resume_file
+      label: Upload Your Resume
+      hint: PDF, Word, or text format
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: cover_letter
+      label: Cover Letter or Personal Statement
+      hint: Explain your background and goals
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: financial_situation
+      label: How Will You Finance Your Transition?
+      hint: null
+      type: select_one
+      options:
+      - Employer sponsorship
+      - Personal savings
+      - Loans or financial aid
+      - Scholarship or grant
+      - Family support
+      - Government assistance
+      - Other
+      required: true
+    - id: 26
+      name: time_commitment
+      label: Time You Can Commit to Program
+      hint: Hours per week available
+      type: number
+      options: []
+      required: true
+    - id: 27
+      name: program_format_preference
+      label: Preferred Program Format
+      hint: How do you want to learn?
+      type: select_one
+      options:
+      - Full-time in-person
+      - Part-time in-person
+      - Full-time online
+      - Part-time online
+      - Hybrid mix of in-person and online
+      - Flexible - no preference
+      required: true
+    - id: 28
+      name: start_date_preference
+      label: Preferred Program Start Date
+      hint: When can you begin?
+      type: date
+      options: []
+      required: false
+    - id: 29
+      name: completion_timeline
+      label: Timeline for Program Completion
+      hint: When do you want to finish?
+      type: select_one
+      options:
+      - As soon as possible
+      - Within 6 months
+      - Within 1 year
+      - Within 2 years
+      - No specific timeline
+      required: false
+    - id: 30
+      name: previous_training
+      label: Previous Training or Certifications
+      hint: Relevant courses or credentials
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: transportation
+      label: Do You Have Reliable Transportation?
+      hint: If program is in-person
+      type: select_one
+      options:
+      - Yes - own transportation
+      - Yes - public transportation available
+      - No - may need assistance
+      required: false
+    - id: 32
+      name: accessibility_needs
+      label: Accessibility or Accommodation Needs
+      hint: Special requirements?
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: references
+      label: Professional References
+      hint: Names and contact info of 2 references
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: additional_information
+      label: Additional Information
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false

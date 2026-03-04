@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Arbitration Services Inquiry Form
+    pages:
+    - id: 1
+      name: section_contact_info
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inquirer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company or Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: inquirer_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: inquirer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_dispute_info
+      label: -- Dispute Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: dispute_type
+      label: Type of Dispute
+      hint: null
+      type: select_one
+      options:
+      - Contract dispute
+      - Commercial dispute
+      - Employment dispute
+      - Construction dispute
+      - Intellectual property
+      - Insurance claim
+      - Other
+      required: true
+    - id: 8
+      name: other_party_name
+      label: Other Party Name
+      hint: Company or individual in dispute with you
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: dispute_description
+      label: Brief Description of Dispute
+      hint: What is the dispute about?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: dispute_amount
+      label: Estimated Claim Amount
+      hint: Approximate value in dispute
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: section_requirements
+      label: -- Service Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: arbitration_experience
+      label: Prior Arbitration Experience
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: true
+    - id: 13
+      name: preferred_location
+      label: Preferred Arbitration Location
+      hint: City or region
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: timeline_preference
+      label: Preferred Timeline for Resolution
+      hint: null
+      type: select_one
+      options:
+      - ASAP
+      - Within 3 months
+      - Within 6 months
+      - Within 1 year
+      - No preference
+      required: false
+    - id: 15
+      name: service_interests
+      label: Services of Interest
+      hint: null
+      type: select_multiple
+      options:
+      - Arbitrator selection
+      - Case management
+      - Hearing administration
+      - Document review
+      - Expert consultation
+      required: false
+    - id: 16
+      name: section_callback
+      label: -- Callback Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: callback_preference
+      label: Preferred Method of Contact
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text message
+      - Video call
+      required: true
+    - id: 18
+      name: best_time_contact
+      label: Best Time to Contact You
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: additional_information
+      label: Additional Information or Questions
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: legal-case-inquiry-form
+    pages:
+    - id: 1
+      name: case_details
+      label: Case Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: legal_expertise
+      label: Legal Expertise
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: legal_experts
+      label: Legal Experts
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: case_description
+      label: Case Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: case_status
+      label: Case Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: case_value
+      label: Case Value
+      hint: null
+      type: number
+      options: []
+      required: false

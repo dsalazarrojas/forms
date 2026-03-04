@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Language Resource Management Form
+    pages:
+    - id: 1
+      name: multilingual_materials
+      label: Multilingual Materials
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: ownership
+      label: Ownership
+      hint: Please provide ownership details
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: access_details
+      label: Access Details
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: usage_rules
+      label: Usage Rules
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: language_codes
+      label: Language Codes
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: material_status
+      label: Material Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: material_access
+      label: Material Access
+      hint: Please provide material access details
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: access_restrictions
+      label: Access Restrictions
+      hint: Please provide access restrictions details
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: searchable
+      label: Searchable
+      hint: Searchable
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool_id
+      label: Assigned Tool ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: language
+      label: Language
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: form_ids
+      label: Form IDs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: category_id
+      label: Category ID
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: parent_reading_activity_guide
+    pages:
+    - id: 1
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_grade
+      label: School Grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: reading_frequency
+      label: Reading Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: parent_education
+      label: Parent Education
+      hint: null
+      type: select_one
+      options:
+      - High school or less
+      - Some college
+      - Bachelor's degree
+      - Master's degree
+      - Doctoral degree
+      required: false
+    - id: 5
+      name: caregiver_name
+      label: Caregiver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: caregiver_education
+      label: Caregiver Education
+      hint: null
+      type: select_one
+      options:
+      - Some college
+      - High school or less
+      - Bachelor's degree
+      - Master's degree
+      - Doctoral degree
+      required: true
+    - id: 7
+      name: caregiver_work_experience
+      label: Caregiver Work Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: reading_frequency_caregiver
+      label: Reading Frequency Caregiver
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: parent_reading_frequency
+      label: Parent Reading Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Rarely
+      - Sometimes
+      - Often
+      - Always
+      required: false
+    - id: 10
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

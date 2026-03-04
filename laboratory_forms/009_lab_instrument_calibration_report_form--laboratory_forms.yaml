@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lab Instrument Calibration Report Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: instrument_id
+      label: Instrument ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: serial_number
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: cal_date
+      label: Calibration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: cal_due_date
+      label: Calibration Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: calibration_type
+      label: Calibration Type
+      hint: null
+      type: select_one
+      options:
+      - Calibration
+      - Re-calibration
+      - Adjustment
+      required: true
+    - id: 7
+      name: calibration_performed_by
+      label: Calibration Performed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

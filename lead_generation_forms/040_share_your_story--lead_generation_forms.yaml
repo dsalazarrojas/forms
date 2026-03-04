@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: share_your_story
+    pages:
+    - id: 1
+      name: lead_generation_form
+      label: Share Your Story
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lead_generation_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Lead Generation Forms
+      - Lead Qualification Forms
+      - Lead Nurturing Forms
+      required: false
+    - id: 3
+      name: lead_generation_form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: lead_generation_lead_email
+      label: Lead Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: lead_generation_lead_phone
+      label: Lead Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: lead_generation_form_lead_notes
+      label: Lead Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: lead_generation_form_lead_status
+      label: Lead Status
+      hint: null
+      type: select_one
+      options:
+      - New Lead
+      - Converted
+      - Dropped
+      required: false
+    - id: 8
+      name: lead_generation_form_created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: lead_generation_form_updated_at
+      label: Updated At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: lead_generation_form_assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - Chat Jimmy
+      - John Doe
+      - Jane Doe
+      required: false
+    - id: 11
+      name: lead_generation_form_category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Lead Generation Forms
+      - Lead Qualification Forms
+      - Lead Nurturing Forms
+      required: false
+    - id: 12
+      name: lead_generation_form_lead_source
+      label: Lead Source
+      hint: null
+      type: select_one
+      options:
+      - Webform
+      - API
+      - CRM
+      required: false
+    - id: 13
+      name: lead_generation_form_lead_priority
+      label: Lead Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false

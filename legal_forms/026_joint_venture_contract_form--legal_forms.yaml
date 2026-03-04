@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Joint Venture Contract Form
+    pages:
+    - id: 1
+      name: joint_venture_details
+      label: Joint Venture Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: joint_venture_members
+      label: Joint Venture Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: contract_terms
+      label: Contract Terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contract_duration
+      label: Contract Duration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: contract_amount
+      label: Contract Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: contract_start_date
+      label: Contract Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: contract_end_date
+      label: Contract End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: contract_status
+      label: Contract Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: joint_venture_parties
+      label: Joint Venture Parties
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: joint_venture_parties_other
+      label: Other Joint Venture Party
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: payment_terms_frequency
+      label: Payment Terms Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: payment_amount_frequency
+      label: Payment Amount Frequency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: payment_terms_amount_frequency
+      label: Payment Terms Amount Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: contract_type
+      label: Contract Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: contract_type_other
+      label: Other Contract Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: tax_id
+      label: Tax ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: tax_id_number
+      label: Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: tax_id_expiration
+      label: Expiration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: tax_id_status
+      label: Tax ID Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 23
+      name: joint_venture_agreement_terms
+      label: Joint Venture Agreement Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: joint_venture_dispute_terms
+      label: Joint Venture Dispute Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes_2
+      label: Notes 2
+      hint: null
+      type: note
+      options: []
+      required: false

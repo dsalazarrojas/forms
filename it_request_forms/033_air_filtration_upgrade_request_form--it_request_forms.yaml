@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Air Filtration Upgrade Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester name
+      hint: Person requesting the upgrade
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: Department or unit
+      hint: Department requesting the upgrade
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: current_system_description
+      label: Current system description
+      hint: Existing filtration setup
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: desired_improvements
+      label: Desired improvements
+      hint: What the upgrade should achieve
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: urgency
+      label: Urgency level
+      hint: Time sensitivity for the upgrade
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 6
+      name: budget_estimate
+      label: Budget estimate
+      hint: Approximate available budget for upgrade
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: preferred_timeline
+      label: Preferred timeline for completion
+      hint: Proposed start and end dates
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact email
+      hint: For follow up about the request
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: additional_notes
+      label: Additional notes
+      hint: Any other context for the upgrade
+      type: text
+      options: []
+      required: false

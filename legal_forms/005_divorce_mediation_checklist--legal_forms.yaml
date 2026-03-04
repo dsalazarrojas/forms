@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Divorce Mediation Checklist
+    pages:
+    - id: 1
+      name: first_meeting
+      label: First Meeting
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: session_details
+      label: Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: parties_agree
+      label: Parties Agree
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: communication_methods
+      label: Communication Methods
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Phone'', ''value'': ''phone''}'
+      - '{''label'': ''Email'', ''value'': ''email''}'
+      - '{''label'': ''In Person'', ''value'': ''in_person''}'
+      required: false
+    - id: 5
+      name: readiness_info
+      label: Readiness Info
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Ready'', ''value'': True}'
+      - '{''label'': ''Not Ready'', ''value'': False}'
+      required: false
+    - id: 6
+      name: priorities
+      label: Priorities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: client_info
+      label: Client Info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: mediator_info
+      label: Mediator Info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: agreements
+      label: Agreements
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Continue with Session'', ''value'': ''continue_session''}'
+      - '{''label'': ''End Session'', ''value'': ''end_session''}'
+      required: false
+    - id: 11
+      name: session_comments
+      label: Session Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: mediator_signature
+      label: Mediator Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: client_email
+      label: Client Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: parties_signed
+      label: Parties Signed
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 18
+      name: mediator_signed
+      label: Mediator Signed
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 19
+      name: session_status
+      label: Session Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 20
+      name: next_session_date
+      label: Next Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: next_session_time
+      label: Next Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: client_address
+      label: Client Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: client_city
+      label: Client City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: client_state
+      label: Client State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: client_zip
+      label: Client Zip
+      hint: null
+      type: text
+      options: []
+      required: false

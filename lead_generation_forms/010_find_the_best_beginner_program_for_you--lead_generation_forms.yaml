@@ -1,0 +1,39 @@
+inputSchema:
+  type: object
+  properties:
+    title: Find The Best Beginner Program For You
+    pages:
+    - id: 1
+      name: program_goals
+      label: What Are Your Goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: experience
+      label: What Is Your Experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: time_commitment
+      label: How Much Time Do You Have Per Week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: preferred_format
+      label: Preferred Format
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

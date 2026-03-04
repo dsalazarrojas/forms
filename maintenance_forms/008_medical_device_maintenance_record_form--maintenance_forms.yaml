@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Device Maintenance Record Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Medical Device Maintenance Record Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: device_name
+      label: Device Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: device_serial_number
+      label: Device Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_frequency
+      label: Service Frequency
+      hint: How often the equipment is serviced
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_date
+      label: Service Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: service_status
+      label: Service Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - In-Service
+      - Out-of-Service
+      - Overdue
+      - Unknown
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: date_received
+      label: Date Received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: date_serviced
+      label: Date Serviced
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: user_id
+      label: User ID
+      hint: null
+      type: text
+      options: []
+      required: false

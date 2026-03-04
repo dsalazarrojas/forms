@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lead Generating Form
+    pages:
+    - id: 1
+      name: lead_generating_form_page_1
+      label: lead_generating_form_page_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lead_generating_form_page_2
+      label: lead_generating_form
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''option_1''}'
+      - '{''value'': ''option_2''}'
+      - '{''value'': ''option_3''}'
+      required: false
+    - id: 3
+      name: lead_generating_form_page_2
+      label: lead_generating_form_page_2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: lead_generating_form_note
+      label: lead_generating_form_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: lead_generating_form_email
+      label: lead_generating_form_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: lead_generating_form_phone
+      label: lead_generating_form_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: lead_generating_form_description
+      label: lead_generating_form_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: lead_generating_form_lead
+      label: lead_generating_form_lead
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: lead_generating_form_source
+      label: lead_generating_form_source
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''lead_generation_form_source_1''}'
+      - '{''value'': ''lead_generation_form_source_2''}'
+      - '{''value'': ''lead_generation_form_source_3''}'
+      required: false
+    - id: 10
+      name: lead_generating_form_status
+      label: lead_generating_form_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''lead_generation_form_status_1''}'
+      - '{''value'': ''lead_generation_form_status_2''}'
+      - '{''value'': ''lead_generation_form_status_3''}'
+      required: false
+    - id: 11
+      name: lead_generating_form_date
+      label: lead_generating_form_date
+      hint: null
+      type: date
+      options: []
+      required: false

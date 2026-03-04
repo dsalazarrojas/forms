@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maternity Leave Time Off Form
+    pages:
+    - id: 1
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: expected_start_date
+      label: Expected Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: expected_end_date
+      label: Expected End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: pay_during_maternity
+      label: Pay During Maternity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: pay_during_maternity_options
+      label: Pay During Maternity Options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: employee_comments
+      label: Employee Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 11
+      name: approval_comments
+      label: Approval Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: employee_status
+      label: Employee Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 13
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: approval_manager_name
+      label: Approval Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: approval_manager_email
+      label: Approval Manager Email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: approval_manager_phone
+      label: Approval Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: leave_type
+      label: Leave Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: leave_start_date
+      label: Leave Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: leave_end_date
+      label: Leave End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: pay_during_leave
+      label: Pay During Leave
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: pay_during_leave_options
+      label: Pay During Leave Options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: manager_comments_2
+      label: Manager Comments 2
+      hint: null
+      type: note
+      options: []
+      required: false

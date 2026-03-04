@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Network And Internet Assessment
+    pages:
+    - id: 1
+      name: connectivity_quality
+      label: Network Quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: devices_used
+      label: Devices Used
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: issues_encountered
+      label: Issues Encountered
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

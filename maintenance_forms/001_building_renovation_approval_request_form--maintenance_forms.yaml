@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Renovation Approval Request Form
+    pages:
+    - id: 1
+      name: requestor_information
+      label: Requestor Information
+      hint: Provide your contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Select your department
+      type: select_one
+      options:
+      - Facilities
+      - Administration
+      - Operations
+      - Human Resources
+      - Finance
+      - IT
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Your work email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: renovation_details
+      label: Renovation Details
+      hint: Describe the renovation project
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: building_name
+      label: Building Name
+      hint: Which building requires renovation
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: floor_level
+      label: Floor Level
+      hint: Specify floor or area
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: renovation_type
+      label: Renovation Type
+      hint: Select the type of renovation
+      type: select_one
+      options:
+      - Structural Changes
+      - Cosmetic Updates
+      - Electrical Systems
+      - Plumbing Systems
+      - HVAC Upgrades
+      - Accessibility Improvements
+      - Other
+      required: true
+    - id: 10
+      name: project_description
+      label: Project Description
+      hint: Detailed description of proposed renovation
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: estimated_start_date
+      label: Estimated Start Date
+      hint: When should work begin
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: estimated_completion_date
+      label: Estimated Completion Date
+      hint: Expected completion date
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: budget_information
+      label: Budget Information
+      hint: Cost estimates and funding
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: estimated_cost
+      label: Estimated Cost
+      hint: Total estimated cost in dollars
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: funding_source
+      label: Funding Source
+      hint: Where will funding come from
+      type: select_one
+      options:
+      - Capital Budget
+      - Operating Budget
+      - Department Budget
+      - External Grant
+      - Other
+      required: true
+    - id: 16
+      name: approvals
+      label: Approvals
+      hint: Required approvals
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: supervisor_approval
+      label: Supervisor Approval Required
+      hint: Has your supervisor approved this request
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending
+      required: true
+    - id: 18
+      name: safety_review_required
+      label: Safety Review Required
+      hint: Does this renovation require safety inspection
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 19
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

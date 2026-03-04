@@ -1,0 +1,268 @@
+inputSchema:
+  type: object
+  properties:
+    title: Company Code Lookup Request
+    pages:
+    - id: 1
+      name: requester_full_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Email Address
+      hint: Company email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requester_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employee_id
+      label: Employee ID
+      hint: Your employee ID
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - Finance
+      - Procurement
+      - Accounting
+      - IT
+      - Operations
+      - Sales
+      - Human Resources
+      - Legal
+      - Other
+      required: true
+    - id: 6
+      name: manager_name
+      label: Manager Name
+      hint: Direct supervisor
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: request_date
+      label: Request Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: lookup_type
+      label: Type of Code Lookup
+      hint: What type of code do you need?
+      type: select_one
+      options:
+      - Vendor Code
+      - Customer Code
+      - Product/SKU Code
+      - General Ledger Code
+      - Cost Center Code
+      - Project Code
+      - Asset Code
+      - Employee Code
+      - Other
+      required: true
+    - id: 9
+      name: company_name
+      label: Company Name to Lookup
+      hint: Name of company
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: company_address
+      label: Company Address
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: tax_id_ein
+      label: Tax ID or EIN
+      hint: If available
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: duns_number
+      label: DUNS Number
+      hint: If available
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_identifiers
+      label: Additional Identifiers
+      hint: Any other identifying information
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: search_previous
+      label: Have you searched previous records?
+      hint: Prior attempts
+      type: select_one
+      options:
+      - Yes, no match found
+      - Yes, found similar but unsure
+      - No, need assistance
+      required: true
+    - id: 15
+      name: similar_codes_found
+      label: If yes, list any similar codes found
+      hint: Potential matches
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: business_purpose
+      label: Business Purpose for Lookup
+      hint: Why do you need this code?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: urgency_level
+      label: Urgency Level
+      hint: Priority
+      type: select_one
+      options:
+      - Low - Can wait 3-5 days
+      - Medium - Needed within 2 days
+      - High - Needed within 24 hours
+      - Critical - Needed immediately
+      required: true
+    - id: 18
+      name: required_by_date
+      label: Required By Date
+      hint: Deadline
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: related_transaction
+      label: Is this related to a specific transaction?
+      hint: Transaction details
+      type: select_one
+      options:
+      - false
+      - Yes, purchase order
+      - Yes, invoice
+      - Yes, contract
+      - Yes, other
+      required: true
+    - id: 20
+      name: transaction_details
+      label: If yes, provide transaction details
+      hint: PO number, invoice number, etc.
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: new_vendor_setup
+      label: Is this for a new vendor setup?
+      hint: New or existing
+      type: select_one
+      options:
+      - No, existing vendor
+      - Yes, new vendor
+      - Not sure
+      required: true
+    - id: 22
+      name: vendor_type
+      label: If new, what type of vendor?
+      hint: Vendor category
+      type: select_one
+      options:
+      - Supplier
+      - Contractor
+      - Consultant
+      - Service Provider
+      - Manufacturer
+      - Distributor
+      - Other
+      required: false
+    - id: 23
+      name: payment_terms
+      label: Expected Payment Terms
+      hint: If known
+      type: select_one
+      options:
+      - Net 15
+      - Net 30
+      - Net 45
+      - Net 60
+      - Due on Receipt
+      - Other
+      - Not sure
+      required: false
+    - id: 24
+      name: currency
+      label: Currency for Transactions
+      hint: Payment currency
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      - CAD
+      - JPY
+      - Other
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Any additional comments or information?
+      hint: Your notes
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: requester_signature
+      label: Requester Signature
+      hint: Electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: it_use_only
+      label: -- For IT/Finance Use Only --
+      hint: Internal use
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: lookup_result
+      label: Lookup Result
+      hint: Code found or assigned
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: processed_by
+      label: Processed By
+      hint: Staff name
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: processed_date
+      label: Processed Date
+      hint: Completion date
+      type: date
+      options: []
+      required: false

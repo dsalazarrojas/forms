@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Application Cloud
+    pages:
+      - id: 1
+        name: respondent
+        label: Respondent name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: cloud_service
+        label: Cloud service or product
+        hint: Name of the cloud application under review
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: environment
+        label: Environment
+        hint: Production staging development
+        type: select_one
+        options: [Production, Staging, Development, Other]
+        required: true
+      - id: 4
+        name: issues_reported
+        label: Issues reported
+        hint: Brief summary of issues observed
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: severity
+        label: Severity
+        hint: Impact level
+        type: select_one
+        options: [Low, Medium, High, Critical]
+        required: true
+      - id: 6
+        name: steps_to_reproduce
+        label: Steps to reproduce
+        hint: Repro steps for engineering
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: expected_behavior
+        label: Expected behavior
+        hint: What should happen ideally
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: actual_behavior
+        label: Actual behavior
+        hint: What happened when issue occurred
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: attachment_filename
+        label: Attachment filename
+        hint: Indicate any uploaded log or screenshot
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: contact_email
+        label: Contact email
+        hint: For engineering follow up
+        type: email
+        options: []
+        required: false

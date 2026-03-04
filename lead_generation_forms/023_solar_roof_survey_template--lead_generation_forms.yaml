@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: solar_roof_survey_template
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Please enter a valid email
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: home_address
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: survey_answer_1
+      label: Roof Type
+      hint: null
+      type: select_one
+      options:
+      - Slate
+      - Composite
+      - Asphalt Shingle
+      - Metal
+      - Clay Tile
+      - Wooden
+      required: false
+    - id: 7
+      name: survey_answer_2
+      label: Energy Use
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      - Very High
+      required: false
+    - id: 8
+      name: survey_answer_3
+      label: Roof Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 9
+      name: survey_answer_4
+      label: Roof Age
+      hint: null
+      type: select_multiple
+      options:
+      - New
+      - Old
+      - Very Old
+      required: false
+    - id: 10
+      name: survey_answer_5
+      label: Energy Efficiency
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false

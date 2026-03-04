@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Judge Agreement And Confidentiality Form
+    pages:
+    - id: 1
+      name: judge_id
+      label: judge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: agreement_date
+      label: agreement_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: court_number
+      label: court_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: court_level
+      label: court_level
+      hint: null
+      type: select_multiple
+      options:
+      - Supreme Court
+      - Federal Court
+      - District Court
+      - Bankruptcy Court
+      - Other
+      required: false
+    - id: 5
+      name: confidentiality_agreement
+      label: confidentiality_agreement
+      hint: This is a legally binding contract
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: agreement_terms
+      label: agreement_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_details
+      label: contact_details
+      hint: Provide your contact information
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: confidentiality_terms
+      label: confidentiality_terms
+      hint: null
+      type: text
+      options: []
+      required: false

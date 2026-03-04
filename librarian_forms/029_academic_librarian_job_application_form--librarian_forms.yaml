@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Librarian Job Application Form
+    pages:
+    - id: 1
+      name: applicant_details
+      label: -- Applicant Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Legal name as on official documents
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Contact email
+      hint: Preferred contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Contact phone number
+      hint: Include country or area code
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: current_employer
+      label: Current employer or affiliation
+      hint: Institution name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: qualifications
+      label: Qualifications and certifications
+      hint: Degrees and relevant training
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: experience_years
+      label: Years of library experience
+      hint: Whole number of years
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: specialization
+      label: Areas of specialization
+      hint: Special collections, digital services, instruction
+      type: select_multiple
+      options:
+      - Special collections
+      - Digital services
+      - Instruction and outreach
+      - Cataloging and metadata
+      - Research support
+      required: false
+    - id: 9
+      name: portfolio_link
+      label: Portfolio or CV link
+      hint: URL to supporting documents
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: references
+      label: References
+      hint: Provide two professional references
+      type: text
+      options: []
+      required: true

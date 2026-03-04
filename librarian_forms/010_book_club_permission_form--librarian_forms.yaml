@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Club Permission Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Full Name
+      hint: Full name of the participant
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_date_of_birth
+      label: Participant Date of Birth
+      hint: Birth date of participant
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: parent_guardian_name
+      label: Parent or Guardian Full Name
+      hint: Full name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Contact email for parent or guardian
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: home_address
+      label: Home Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state_province
+      label: State or Province
+      hint: Your state or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: postal_code
+      label: Postal Code
+      hint: Your postal or ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: book_club_name
+      label: Book Club Name
+      hint: Name of the book club
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: meeting_schedule
+      label: Meeting Schedule
+      hint: When meetings are held
+      type: select_one
+      options:
+      - Every Monday 4pm-5pm
+      - Every Wednesday 4pm-5pm
+      - Every Saturday 10am-12pm
+      - First Sunday of each month 2pm-4pm
+      - Twice monthly on Tuesdays 5pm-7pm
+      required: true
+    - id: 12
+      name: meeting_location
+      label: Meeting Location
+      hint: Where meetings are held
+      type: select_one
+      options:
+      - Main Library Conference Room
+      - Community Center Room 3
+      - School Library
+      - Online Virtual Meeting
+      - Rotating Locations
+      required: true
+    - id: 13
+      name: permission_granted
+      label: Permission to Participate
+      hint: Do you grant permission for participation
+      type: select_one
+      options:
+      - Yes I grant permission
+      - No I do not grant permission
+      required: true
+    - id: 14
+      name: transportation_permission
+      label: Permission for Transportation
+      hint: Is transportation to off-site events allowed
+      type: select_one
+      options:
+      - Yes allowed
+      - No not allowed
+      - Case by case basis
+      required: true
+    - id: 15
+      name: photo_release
+      label: Photo and Video Release
+      hint: Permission to use photos for promotional purposes
+      type: select_one
+      options:
+      - Yes granted
+      - No not granted
+      required: true
+    - id: 16
+      name: medical_conditions
+      label: Relevant Medical Conditions or Allergies
+      hint: List any conditions we should know about
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship to participant
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: liability_waiver
+      label: Liability Waiver Agreement
+      hint: I understand and accept the liability terms
+      type: select_one
+      options:
+      - Yes I accept
+      - No I do not accept
+      required: true
+    - id: 21
+      name: parent_guardian_signature
+      label: Parent or Guardian Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,134 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Systems Request Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: systems_impact
+      label: Systems Impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: Provide information about the requested change
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - Critical
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 6
+      name: systems_impacted
+      label: Systems Impacted
+      hint: Select systems impacted
+      type: select_multiple
+      options:
+      - Network
+      - Computer
+      - Other
+      required: false
+    - id: 7
+      name: impact_type
+      label: Impact Type
+      hint: null
+      type: select_one
+      options:
+      - Urgent
+      - Scheduled
+      - Unscheduled
+      required: false
+    - id: 8
+      name: customer_requestors
+      label: Customer Requestors
+      hint: List customer requestors
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: change_requestors
+      label: Change Requestors
+      hint: List change requestors
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: change_type
+      label: Change Type
+      hint: null
+      type: select_one
+      options:
+      - Hardware
+      - Software
+      - Other
+      required: false
+    - id: 11
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: systems_requesting
+      label: Systems Requesting
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: systems_requesting_date
+      label: Systems Requesting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: systems_returning_date
+      label: Systems Returning Date
+      hint: null
+      type: date
+      options: []
+      required: false

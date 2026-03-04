@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Equipment Review Form
+    pages:
+    - id: 1
+      name: reviewer_info_header
+      label: -- Reviewer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reviewer_name
+      label: Reviewer Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department or Team
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: review_date
+      label: Review Date
+      hint: Date of this review
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: equipment_header
+      label: -- Equipment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: equipment_name
+      label: Equipment Name or Description
+      hint: What equipment is being reviewed
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: equipment_type
+      label: Equipment Type
+      hint: Category of equipment
+      type: select_one
+      options:
+      - Computer or Laptop
+      - Server or Network Equipment
+      - Printer or Scanner
+      - Telephone or Communication Device
+      - Software License
+      - Other Hardware
+      required: true
+    - id: 9
+      name: equipment_id
+      label: Equipment ID or Serial Number
+      hint: Asset tracking number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: asset_location
+      label: Current Location
+      hint: Where the equipment is located
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: purchase_info_header
+      label: -- Purchase Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: purchase_date
+      label: Date of Purchase
+      hint: When was this purchased
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: purchase_cost
+      label: Original Purchase Cost
+      hint: Cost when purchased
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: warranty_status
+      label: Warranty Status
+      hint: Is warranty still active
+      type: select_one
+      options:
+      - Warranty Active
+      - Warranty Expired
+      - No Warranty
+      - Unsure
+      required: false
+    - id: 15
+      name: condition_assessment_header
+      label: -- Condition Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: overall_condition
+      label: Overall Equipment Condition
+      hint: Current physical condition
+      type: select_one
+      options:
+      - Excellent - Like new
+      - Good - Minor wear
+      - Satisfactory - Normal wear and tear
+      - Poor - Significant damage
+      - Critical - Near failure
+      required: true
+    - id: 17
+      name: functionality
+      label: Equipment Functionality
+      hint: Does it work properly
+      type: select_one
+      options:
+      - Fully Functional
+      - Mostly Functional
+      - Some Issues
+      - Major Issues
+      - Non-Functional
+      required: true
+    - id: 18
+      name: performance_issues
+      label: Any Performance or Technical Issues
+      hint: Describe any problems
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: maintenance_header
+      label: -- Maintenance History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: maintenance_records
+      label: Maintenance or Repairs Performed
+      hint: Recent maintenance or repairs
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: maintenance_needed
+      label: Maintenance Needed
+      hint: What maintenance is required
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: recommendation_header
+      label: -- Recommendations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: action_needed
+      label: Action Recommended
+      hint: What should be done with this equipment
+      type: select_one
+      options:
+      - Keep in service
+      - Continue with repairs
+      - Upgrade needed
+      - Replace soon
+      - Retire and dispose
+      - Other
+      required: true
+    - id: 24
+      name: replacement_timeframe
+      label: Timeline for Replacement if Needed
+      hint: When should replacement occur
+      type: select_one
+      options:
+      - Immediate
+      - Within 3 months
+      - Within 6 months
+      - Within 1 year
+      - Not needed
+      required: false
+    - id: 25
+      name: additional_notes
+      label: Additional Notes or Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

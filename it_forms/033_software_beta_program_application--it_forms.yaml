@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Software Beta Program Application
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: application_type
+      label: Application Type
+      hint: null
+      type: select_multiple
+      options:
+      - Testing
+      - Beta Development
+      - Other
+      required: true
+    - id: 3
+      name: experience
+      label: Experience
+      hint: Please provide the number of years of experience
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: motivation
+      label: Motivation
+      hint: Please explain why you want to join the beta program
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tester_info
+      label: Tester Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: agree
+      label: Agree
+      hint: null
+      type: select_one
+      options:
+      - I agree to participate in the beta program
+      - I do not agree
+      required: true
+    - id: 8
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false

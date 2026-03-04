@@ -1,0 +1,72 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: tech_ux_designer_employment_application
+    pages:
+    - id: 1
+      name: intro_page
+      label: Job Application
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''email'', ''value'': ''Email''}'
+      - '{''name'': ''phone'', ''value'': ''Phone''}'
+      required: false
+    - id: 3
+      name: work_history
+      label: Work Experience
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''company_1'', ''value'': ''Company 1''}'
+      - '{''name'': ''job_title_1'', ''value'': ''Job Title 1''}'
+      - '{''name'': ''location_1'', ''value'': ''Location 1''}'
+      - '{''name'': ''duration_1'', ''value'': ''Duration 1''}'
+      - '{''name'': ''company_2'', ''value'': ''Company 2''}'
+      - '{''name'': ''job_title_2'', ''value'': ''Job Title 2''}'
+      - '{''name'': ''location_2'', ''value'': ''Location 2''}'
+      - '{''name'': ''duration_2'', ''value'': ''Duration 2''}'
+      - '{''name'': ''company_3'', ''value'': ''Company 3''}'
+      - '{''name'': ''job_title_3'', ''value'': ''Job Title 3''}'
+      - '{''name'': ''location_3'', ''value'': ''Location 3''}'
+      - '{''name'': ''duration_3'', ''value'': ''Duration 3''}'
+      required: false
+    - id: 4
+      name: education
+      label: Education
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: uploaded_file
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submission
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mortgage Loan Application
+    pages:
+    - id: 1
+      name: personal_details
+      label: Personal Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: loan_interest_rate
+      label: Loan Interest Rate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: loan_tenure
+      label: Loan Tenure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: loan_term
+      label: Loan Term
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: collateral_details
+      label: Collateral Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: credit_history
+      label: Credit History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: property_details
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: bank_details
+      label: Bank Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Banker
+      - Trader
+      - Self Employed
+      - Unemployed
+      required: true
+    - id: 12
+      name: income_details
+      label: Income Details
+      hint: null
+      type: select_multiple
+      options:
+      - Salary
+      - Rent
+      - Business Income
+      - Unemployed
+      required: true
+    - id: 13
+      name: property_type
+      label: Type of Property
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      required: true
+    - id: 14
+      name: property_value
+      label: Property Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: loan_purpose
+      label: Loan Purpose
+      hint: null
+      type: select_one
+      options:
+      - Home Loan
+      - Business Loan
+      - Personal Loan
+      required: true
+    - id: 16
+      name: loan_status
+      label: Loan Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: true
+    - id: 17
+      name: loan_amount_approved
+      label: Loan Amount Approved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: loan_interest_rate_approved
+      label: Loan Interest Rate Approved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: loan_tenure_approved
+      label: Loan Tenure Approved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: loan_term_approved
+      label: Loan Term Approved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: loan_status_approved
+      label: Loan Status Approved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: date_of_application
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: time_of_application
+      label: Time of Application
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lawsuit Questionnaire
+    pages:
+    - id: 1
+      name: potential_plaintiff
+      label: Potential Plaintiff
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: plaintiff_address
+      label: Plaintiff Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: defendant
+      label: Defendant
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: defendant_address
+      label: Defendant Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: case_type
+      label: Case Type
+      hint: null
+      type: select_one
+      options:
+      - Civil
+      - Criminal
+      - Personal Injury
+      required: false
+    - id: 6
+      name: plaintiff_contact_information
+      label: Plaintiff Contact Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: plaintiff_attorney
+      label: Plaintiff Attorney
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: defendant_attorney
+      label: Defendant Attorney
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: case_status
+      label: Case Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Pending
+      - Closed
+      required: false
+    - id: 10
+      name: plaintiff_date_of_birth
+      label: Plaintiff Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: defendant_date_of_birth
+      label: Defendant Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: case_location
+      label: Case Location
+      hint: null
+      type: select_multiple
+      options:
+      - Court
+      - Outside
+      - Online
+      required: false
+    - id: 13
+      name: plaintiff_phone
+      label: Plaintiff Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: plaintiff_email
+      label: Plaintiff Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: defendant_phone
+      label: Defendant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: defendant_email
+      label: Defendant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: case_number
+      label: Case Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: case_date
+      label: Case Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: case_time
+      label: Case Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: case_description
+      label: Case Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: plaintiff_relationship
+      label: Plaintiff Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: defendant_relationship
+      label: Defendant Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: case_outcome
+      label: Case Outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

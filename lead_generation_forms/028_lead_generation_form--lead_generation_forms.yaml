@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lead Generation Form
+    pages:
+    - id: 1
+      name: lead_generation_form_first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lead_generation_form_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: lead_generation_form_email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: lead_generation_form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: lead_generation_form_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: lead_generation_form_company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: lead_generation_form_position
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: lead_generation_form_department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: lead_generation_form_job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: lead_generation_form_annual_revenue
+      label: Annual Revenue
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: lead_generation_form_annual_budget
+      label: Annual Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: lead_generation_form_industry
+      label: Industry
+      hint: null
+      type: select_one
+      options:
+      - Advertising
+      - Design
+      - Marketing
+      - Marketing
+      - Design
+      required: true
+    - id: 13
+      name: lead_generation_form_lead_source
+      label: Lead Source
+      hint: null
+      type: select_multiple
+      options:
+      - Social Media
+      - Online Ad
+      - Referral
+      required: true
+    - id: 14
+      name: lead_generation_form_lead_source_other
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: lead_generation_form_agency_experience
+      label: Agency Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: lead_generation_form_agency_services
+      label: Agency Services
+      hint: null
+      type: select_one
+      options:
+      - Marketing
+      - Advertising
+      - Design
+      required: true
+    - id: 17
+      name: lead_generation_form_agency_services_other
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: lead_generation_form_company_size
+      label: Company Size
+      hint: null
+      type: select_one
+      options:
+      - 1-10
+      - 11-50
+      - 51-100
+      required: true
+    - id: 19
+      name: lead_generation_form_industry_experience
+      label: Industry Experience
+      hint: null
+      type: select_one
+      options:
+      - 0-2 years
+      - 2-5 years
+      - 5+ years
+      required: true
+    - id: 20
+      name: lead_generation_form_lead
+      label: Lead
+      hint: null
+      type: select_one
+      options:
+      - Lead 1
+      - Lead 2
+      required: true
+    - id: 21
+      name: lead_generation_form_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

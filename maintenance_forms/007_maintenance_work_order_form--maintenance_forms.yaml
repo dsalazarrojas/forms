@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maintenance Work Order Form
+    pages:
+    - id: 1
+      name: maintenance_work_order_form_1
+      label: maintenance work order form 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: equipment_id
+      label: equipment id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: maintenance_type
+      label: maintenance type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: maintenance_type_options
+      label: maintenance type options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: equipment_description
+      label: equipment description
+      hint: briefly describe the equipment
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: work_order_date
+      label: work order date
+      hint: enter date
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: work_order_start
+      label: work order start
+      hint: select start time
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: work_order_end
+      label: work order end
+      hint: select end time
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: assigned to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: maintenance_status
+      label: maintenance status
+      hint: select status
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Request For Attorney Representation
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: name
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: message
+      label: message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: attorney_representation
+      label: attorney_representation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: lawyer_fee
+      label: lawyer_fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: legal_fee
+      label: legal_fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: case_details
+      label: case_details
+      hint: null
+      type: text
+      options: []
+      required: false

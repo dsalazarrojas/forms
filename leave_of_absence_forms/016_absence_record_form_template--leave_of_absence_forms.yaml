@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Absence Record Form Template
+    pages:
+    - id: 1
+      name: section_header_employee_info
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: supervisor_name
+      label: Supervisor name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_header_absence_record
+      label: -- Absence Record --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: absence_date_from
+      label: Absence start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: absence_date_to
+      label: Absence end date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: total_days_absent
+      label: Total days absent
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: absence_type
+      label: Type of absence
+      hint: null
+      type: select_one
+      options:
+      - Sick leave
+      - Annual leave
+      - Personal leave
+      - Bereavement leave
+      - Maternity or paternity leave
+      - Unpaid leave
+      - Other
+      required: true
+    - id: 12
+      name: absence_reason
+      label: Reason for absence
+      hint: Provide a brief description
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: documentation_provided
+      label: Has supporting documentation been provided
+      hint: e.g. medical certificate, court summons
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not required
+      required: true
+    - id: 14
+      name: section_header_approval
+      label: -- Approval --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: approved_by
+      label: Approved by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: approval_date
+      label: Date of approval
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: notes
+      label: Additional notes
+      hint: null
+      type: text
+      options: []
+      required: false

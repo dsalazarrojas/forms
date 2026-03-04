@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Religious Observation Time Off Form
+    pages:
+    - id: 1
+      name: form_1
+      label: Religious Observation Time Off Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: observance
+      label: Select An Observance
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Yom Kippur'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Rosh Hashanah'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Passover'', ''value'': 3}'
+      - '{''id'': 4, ''label'': "Tisha B''Av", ''value'': 4}'
+      - '{''id'': 5, ''label'': ''Sukkot'', ''value'': 5}'
+      - '{''id'': 6, ''label'': ''Shavuot'', ''value'': 6}'
+      - '{''id'': 7, ''label'': ''Hanukkah'', ''value'': 7}'
+      - '{''id'': 8, ''label'': ''Other'', ''value'': 8}'
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: days_off
+      label: Number of Days Off
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool_id
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''chatjimmy'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''chatjimmy'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''chatjimmy'', ''value'': 3}'
+      - '{''id'': 4, ''label'': ''chatjimmy'', ''value'': 4}'
+      - '{''id'': 5, ''label'': ''chatjimmy'', ''value'': 5}'
+      required: false
+    - id: 9
+      name: submitter_id
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''chatjimmy'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''chatjimmy'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''chatjimmy'', ''value'': 3}'
+      - '{''id'': 4, ''label'': ''chatjimmy'', ''value'': 4}'
+      - '{''id'': 5, ''label'': ''chatjimmy'', ''value'': 5}'
+      required: false

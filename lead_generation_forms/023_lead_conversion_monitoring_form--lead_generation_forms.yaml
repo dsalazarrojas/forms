@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lead Conversion Monitoring Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: lead_source
+      label: Lead Source
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: lead_source_other
+      label: Other Lead Source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: lead_status
+      label: Lead Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 10
+      name: goal_status
+      label: Goal Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 11
+      name: lead_creation_date
+      label: Lead Creation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: lead_update_date
+      label: Lead Update Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: lead_conversion_date
+      label: Lead Conversion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: lead_converted
+      label: Converted
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: lead_revenue
+      label: Revenue
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: lead_cost
+      label: Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: lead_category
+      label: Lead Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: lead_tags
+      label: Tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: lead_owner
+      label: Owner
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: lead_status_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: lead_tags_tags
+      label: Tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: lead_owner_owner
+      label: Owner
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: lead_conversion_notes
+      label: Conversion Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: lead_tags
+      label: Tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

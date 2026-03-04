@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: prospect_information_collection_form
+    pages:
+    - id: 1
+      name: prospect_name
+      label: Prospect Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company_size
+      label: Company Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: company_type
+      label: Company Type
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 8
+      name: industry
+      label: Industry
+      hint: null
+      type: select_multiple
+      options:
+      - Technology
+      - Finance
+      - Healthcare
+      - Manufacturing
+      required: false
+    - id: 9
+      name: job_function
+      label: Job Function
+      hint: null
+      type: select_one
+      options:
+      - Sales
+      - Marketing
+      - Engineering
+      required: false
+    - id: 10
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: job_title_other
+      label: Job Title Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: company_website
+      label: Company Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: job_function_other
+      label: Job Function Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: other_industry
+      label: Other Industry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: other_job_function
+      label: Other Job Function
+      hint: null
+      type: text
+      options: []
+      required: false

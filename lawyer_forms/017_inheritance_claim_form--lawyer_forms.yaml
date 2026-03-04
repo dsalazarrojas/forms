@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inheritance Claim Form
+    pages:
+    - id: 1
+      name: inheritance_claim_form_name
+      label: Inheritance Claim Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name_of_inherited_asset
+      label: Name of Inherited Asset
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: value_of_inherited_asset
+      label: Value of Inherited Asset
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: name_of_inherited_person
+      label: Name of Inherited Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: relationship_to_inherited_person
+      label: Relationship to Inherited Person
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: claimant_name
+      label: Claimant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: claimant_address
+      label: Claimant Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: claimant_contact
+      label: Claimant Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: claimant_email
+      label: Claimant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: claimant_phone
+      label: Claimant Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Library Patron Incident Report Form
+    pages:
+    - id: 1
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: patron_info
+      label: Patron Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_info
+      label: Incident Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: staff_member
+      label: Staff Member
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: library_location
+      label: Library Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Public Library''}'
+      - '{''value'': ''School Library''}'
+      - '{''value'': ''Academic Library''}'
+      required: false
+    - id: 11
+      name: library_name
+      label: Library Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Open''}'
+      - '{''value'': ''Closed''}'
+      - '{''value'': ''Follow-up Needed''}'
+      required: false
+    - id: 13
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Completed''}'
+      - '{''value'': ''Not Done''}'
+      - '{''value'': ''In Progress''}'
+      required: false
+    - id: 16
+      name: incident_reporter
+      label: Incident Reporter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: staff_member_signature
+      label: Staff Member Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: incident_reporter_signature
+      label: Incident Reporter Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: date_reported
+      label: Date Reported
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: time_reported
+      label: Time Reported
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: reporting_person
+      label: Reporting Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: reporting_unit
+      label: Reporting Unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reporting_date
+      label: Reporting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: reporting_time
+      label: Reporting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

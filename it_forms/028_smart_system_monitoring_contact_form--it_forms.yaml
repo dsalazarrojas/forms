@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart System Monitoring Contact Form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Smart System Monitoring Contact Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: select_one
+      options:
+      - Name (e.g. John Doe)
+      - Title (e.g. John Doe, CEO)
+      - Company (e.g. Acme Corporation)
+      - Job Title (e.g. IT Manager)
+      - Phone Number (e.g. 123-456-7890)
+      - Email (e.g. johndoe@example.com)
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email
+      hint: john.doe@example.com
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: 123-456-7890
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_system_type
+      label: System Type
+      hint: null
+      type: select_one
+      options:
+      - System A
+      - System B
+      - System C
+      required: true
+    - id: 8
+      name: contact_message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: system_info
+      label: System Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

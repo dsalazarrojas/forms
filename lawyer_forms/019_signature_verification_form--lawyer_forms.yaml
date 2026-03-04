@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Signature Verification Form
+    pages:
+    - id: 1
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: signature_date
+      label: Signature date
+      hint: The date of the signature
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: signature_time
+      label: Signature time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_id
+      label: customer_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: bank_name
+      label: bank_name
+      hint: The name of the bank
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: branch_code
+      label: branch_code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: signature_type
+      label: signature_type
+      hint: null
+      type: select_one
+      options:
+      - Bank Verification
+      - Non-Bank Verification
+      - Verification not required
+      required: false
+    - id: 9
+      name: document_number
+      label: document_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: document_date
+      label: document_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: document_time
+      label: document_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: customer_address
+      label: customer_address
+      hint: The address of the customer
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: branch_address
+      label: branch_address
+      hint: The address of the branch
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: document_number2
+      label: document_number2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: document_date2
+      label: document_date2
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: document_time2
+      label: document_time2
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: customer_id2
+      label: customer_id2
+      hint: Another customer id
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_id3
+      label: customer_id3
+      hint: Another customer id
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: verification_result
+      label: verification_result
+      hint: null
+      type: select_one
+      options:
+      - Valid
+      - Invalid
+      - Unknown
+      required: false
+    - id: 20
+      name: additional_comments
+      label: additional_comments
+      hint: Any additional comments about the signature
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: assigned_date
+      label: assigned_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: verification_code
+      label: verification_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: verification_code2
+      label: verification_code2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: verification_result2
+      label: verification_result2
+      hint: null
+      type: select_one
+      options:
+      - Valid
+      - Invalid
+      - Unknown
+      required: false

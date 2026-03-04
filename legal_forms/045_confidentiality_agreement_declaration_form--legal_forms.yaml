@@ -1,0 +1,275 @@
+inputSchema:
+  type: object
+  properties:
+    title: Confidentiality Agreement Declaration Form
+    pages:
+    - id: 1
+      name: declarant_name
+      label: Full Legal Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: company
+      label: Company Name
+      hint: Your employer
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: employee_id
+      label: Employee ID
+      hint: Staff number
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: declaration_type
+      label: Declaration Type
+      hint: Purpose of declaration
+      type: select_one
+      options:
+      - New Employee Onboarding
+      - Project-Specific
+      - Annual Renewal
+      - Promotion or Transfer
+      - Contractor Onboarding
+      - Other
+      required: true
+    - id: 13
+      name: information_categories
+      label: Categories of Confidential Information
+      hint: What you will access
+      type: select_multiple
+      options:
+      - Trade Secrets
+      - Customer Data
+      - Financial Information
+      - Product Designs
+      - Marketing Strategies
+      - Source Code
+      - Business Plans
+      - HR Records
+      - Legal Documents
+      - Other
+      required: true
+    - id: 14
+      name: access_level
+      label: Access Level
+      hint: Clearance level
+      type: select_one
+      options:
+      - Public
+      - Internal
+      - Confidential
+      - Highly Confidential
+      - Restricted
+      required: true
+    - id: 15
+      name: declaration_date
+      label: Declaration Date
+      hint: Date of this form
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: policy_acknowledgment
+      label: Policy Acknowledgment
+      hint: Have you read policies
+      type: select_one
+      options:
+      - Yes Read and Understood
+      - Yes But Need Clarification
+      - No Not Yet Read
+      required: true
+    - id: 17
+      name: training_completed
+      label: Confidentiality Training
+      hint: Have you completed training
+      type: select_one
+      options:
+      - Yes Completed
+      - In Progress
+      - Not Started
+      required: true
+    - id: 18
+      name: training_date
+      label: Training Completion Date
+      hint: When completed
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: obligations_understood
+      label: Obligations Understood
+      hint: Do you understand duties
+      type: select_one
+      options:
+      - Yes Fully Understood
+      - Partially Understood
+      - Need More Information
+      required: true
+    - id: 20
+      name: key_obligations
+      label: Key Obligations
+      hint: Summarize your duties
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: breach_consequences
+      label: Breach Consequences Understood
+      hint: Do you understand penalties
+      type: select_one
+      options:
+      - Yes Fully Understood
+      - Partially Understood
+      - Need Clarification
+      required: true
+    - id: 22
+      name: prior_agreements
+      label: Prior Confidentiality Agreements
+      hint: Do you have other NDAs
+      type: select_one
+      options:
+      - Yes None Conflict
+      - Yes May Conflict
+      - No Prior Agreements
+      required: true
+    - id: 23
+      name: prior_agreement_details
+      label: Prior Agreement Details
+      hint: Describe if applicable
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: outside_activities
+      label: Outside Activities Disclosure
+      hint: Any conflicting activities
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: conflict_of_interest
+      label: Conflict of Interest
+      hint: Any conflicts
+      type: select_one
+      options:
+      - No Conflicts
+      - Potential Conflict
+      - Yes Have Conflict
+      required: true
+    - id: 26
+      name: conflict_details
+      label: Conflict Details
+      hint: Describe if applicable
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: questions
+      label: Any Questions
+      hint: Do you have questions
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: declaration_statement
+      label: Declaration Statement
+      hint: I hereby declare
+      type: select_one
+      options:
+      - I Declare and Affirm
+      - I Cannot Declare
+      required: true
+    - id: 29
+      name: commitment_statement
+      label: Commitment Statement
+      hint: Do you commit
+      type: select_one
+      options:
+      - I Commit to Confidentiality
+      - I Cannot Commit
+      required: true
+    - id: 30
+      name: signature_date
+      label: Date of Declaration
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 31
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Your manager
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: supervisor_approval
+      label: Supervisor Approval
+      hint: Manager confirmation
+      type: select_one
+      options:
+      - Approved
+      - Not Approved
+      - Pending
+      required: true

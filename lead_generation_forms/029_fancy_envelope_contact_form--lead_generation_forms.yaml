@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fancy Envelope Contact Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: message
+      label: message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: website
+      label: website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: job_title
+      label: job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: company_website
+      label: company website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: lead_source
+      label: lead source
+      hint: Select one
+      type: select_one
+      options:
+      - Lead Generation
+      - Web Scraping
+      - Referral
+      required: true
+    - id: 12
+      name: company_size
+      label: company size
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Large
+      - Medium
+      - Small
+      - Extra Small
+      required: true

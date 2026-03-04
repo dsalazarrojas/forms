@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transportation Fleet Manager Job Application
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: experience
+      label: Experience
+      hint: null
+      type: select_multiple
+      options:
+      - Senior
+      - Mid-level
+      - Entry
+      required: true
+    - id: 8
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Contract
+      required: true
+    - id: 9
+      name: job_level
+      label: Job Level
+      hint: null
+      type: select_one
+      options:
+      - Senior
+      - Manager
+      - Supervisor
+      required: true
+    - id: 10
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: date_available
+      label: Date Available
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: time_available
+      label: Time Available
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: skills
+      label: Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Time Management
+      - Fleet Management
+      - Communication
+      required: true
+    - id: 14
+      name: education
+      label: Education
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - College
+      - University
+      required: true
+    - id: 15
+      name: language
+      label: Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      required: true
+    - id: 16
+      name: salary
+      label: Salary
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Freelance
+      required: true
+    - id: 18
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 19
+      name: notice_period
+      label: Notice Period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: termination_reason
+      label: Termination Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: termination_date
+      label: Termination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: notice_period_in_days
+      label: Notice Period in Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: job_application_status
+      label: Job Application Status
+      hint: null
+      type: select_one
+      options:
+      - Under Review
+      - Approved
+      - Rejected
+      required: true
+    - id: 24
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true

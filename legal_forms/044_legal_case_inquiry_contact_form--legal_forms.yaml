@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legal Case Inquiry Contact Form
+    pages:
+    - id: 1
+      name: contact_form
+      label: Legal Case Inquiry Contact Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: case_description
+      label: Case Description
+      hint: Brief description of the legal case
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: legal_area
+      label: Legal Area
+      hint: null
+      type: select_one
+      options:
+      - Civil
+      - Criminal
+      - Family Law
+      - Employment Law
+      - Other
+      required: false
+    - id: 8
+      name: case_status
+      label: Case Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Ongoing
+      - Closed
+      required: false
+    - id: 9
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In-Person
+      required: false
+    - id: 10
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - French
+      - Spanish
+      required: false
+    - id: 11
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false

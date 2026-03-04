@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: leave_application_form
+    pages:
+    - id: 1
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: department
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employee_number
+      label: employee_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: type_of_leave
+      label: type_of_leave
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Vacation''}'
+      - '{''id'': 2, ''value'': ''Sick''}'
+      - '{''id'': 3, ''value'': ''Parent''}'
+      required: false
+    - id: 6
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_leave
+      label: reason_for_leave
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: travel_destination
+      label: travel_destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: return_date
+      label: return_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: travel_duration
+      label: travel_duration
+      hint: null
+      type: number
+      options: []
+      required: false

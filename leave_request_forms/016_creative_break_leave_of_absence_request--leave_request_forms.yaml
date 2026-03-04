@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Creative Break Leave Of Absence Request
+    pages:
+    - id: 1
+      name: employee_data
+      label: Employee Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: leave_days
+      label: Leave Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_leave
+      label: Reason For Leave
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Approve'', ''value'': ''approve''}'
+      - '{''label'': ''Decline'', ''value'': ''decline''}'
+      - '{''label'': ''Hold'', ''value'': ''hold''}'
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: approval_reason
+      label: Approval Reason
+      hint: null
+      type: text
+      options: []
+      required: false

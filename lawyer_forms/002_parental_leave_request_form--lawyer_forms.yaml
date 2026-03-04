@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parental Leave Request Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: leave_start_date
+      label: Leave Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: leave_end_date
+      label: Leave End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: leave_type
+      label: Leave Type
+      hint: null
+      type: select_one
+      options:
+      - Parental Leave
+      - Family Leave
+      - Other
+      required: false
+    - id: 6
+      name: reason_for_leave
+      label: Reason for Leave
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: supervisor_comments
+      label: Supervisor Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_comments
+      label: Employee Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Declined
+      - Pending
+      required: false
+    - id: 10
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: leave_duration
+      label: Leave Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: start_date_format
+      label: Start Date Format
+      hint: null
+      type: select_multiple
+      options:
+      - MM/DD/YY
+      - MM/DD/YYYY
+      - M/D/YY
+      required: true
+    - id: 13
+      name: end_date_format
+      label: End Date Format
+      hint: null
+      type: select_multiple
+      options:
+      - MM/DD/YY
+      - MM/DD/YYYY
+      - M/D/YY
+      required: true
+    - id: 14
+      name: leave_frequency
+      label: Leave Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Full-Time
+      - Part-Time
+      - Occasional
+      required: true
+    - id: 15
+      name: leave_starting_date
+      label: Leave Starting Date
+      hint: null
+      type: date
+      options: []
+      required: false

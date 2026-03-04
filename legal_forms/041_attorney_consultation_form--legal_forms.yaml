@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Attorney Consultation Form
+    pages:
+    - id: 1
+      name: client_information
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_address
+      label: Mailing Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city_state_zip
+      label: City, State, ZIP
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: appointment_information
+      label: -- Appointment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: preferred_appointment_date
+      label: Preferred Appointment Date
+      hint: When would you like to meet?
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: preferred_appointment_time
+      label: Preferred Time
+      hint: What time works for you?
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: meeting_format
+      label: Meeting Format
+      hint: How would you prefer to meet?
+      type: select_one
+      options:
+      - In-Person
+      - Phone
+      - Video Conference
+      - No Preference
+      required: true
+    - id: 11
+      name: case_information
+      label: -- Case Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: case_type
+      label: Type of Case
+      hint: What is your legal matter?
+      type: select_one
+      options:
+      - Family Law
+      - Criminal
+      - Civil
+      - Corporate
+      - Intellectual Property
+      - Real Estate
+      - Immigration
+      - Probate
+      - Personal Injury
+      - Contract
+      - Other
+      required: true
+    - id: 13
+      name: case_description
+      label: Case Description
+      hint: Briefly describe your legal situation
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: date_issue_occurred
+      label: Date Issue Occurred
+      hint: When did the legal matter arise?
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: opposing_party
+      label: Opposing Party
+      hint: Name of other party if applicable
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: legal_representation
+      label: -- Prior Legal Representation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: prior_attorney
+      label: Prior Attorney Representation
+      hint: Have you had legal representation before?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: previous_attorney_name
+      label: Previous Attorney Name
+      hint: If yes, name of previous counsel
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: outcome_previous_case
+      label: Outcome of Previous Case
+      hint: What was the result?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: objectives_section
+      label: -- Consultation Objectives --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: consultation_objectives
+      label: What are your consultation objectives?
+      hint: What would you like to achieve?
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: documentation_available
+      label: Documentation Available
+      hint: Do you have relevant documents?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Some
+      required: true
+    - id: 23
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is your legal matter?
+      type: select_one
+      options:
+      - Very Urgent
+      - Urgent
+      - Moderately Urgent
+      - Not Urgent
+      required: true
+    - id: 24
+      name: budget_concerns
+      label: Budget or Cost Concerns
+      hint: Any specific concerns about legal fees?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_information
+      label: Additional Information
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false

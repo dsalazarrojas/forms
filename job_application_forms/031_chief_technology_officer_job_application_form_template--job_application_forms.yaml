@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chief Technology Officer Job Application Form Template
+    pages:
+    - id: 1
+      name: application_intro
+      label: -- CTO Job Application Form --
+      hint: Apply for the Chief Technology Officer position
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: linkedin_profile
+      label: LinkedIn profile URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: github_profile
+      label: GitHub or portfolio profile
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: current_title
+      label: Current or most recent title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: current_organization
+      label: Current or most recent organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: years_tech_experience
+      label: Years of technology leadership experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: years_cto_or_vp
+      label: Years as CTO or VP Engineering or equivalent
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: education_level
+      label: Highest education level
+      hint: null
+      type: select_one
+      options:
+      - Bachelor's degree
+      - Master's degree
+      - Ph.D.
+      - Bootcamp certification
+      - Other professional training
+      required: true
+    - id: 13
+      name: field_of_study
+      label: Primary field of study
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: programming_languages
+      label: Primary programming languages proficiency
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Java
+      - Python
+      - JavaScript
+      - C++
+      - Go
+      - Rust
+      - TypeScript
+      - Other
+      required: true
+    - id: 15
+      name: technology_stack
+      label: Technology stack expertise
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: cloud_platforms
+      label: Cloud platform experience
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - AWS
+      - Google Cloud
+      - Microsoft Azure
+      - Other
+      required: true
+    - id: 17
+      name: team_size_led
+      label: Largest engineering team led
+      hint: null
+      type: select_one
+      options:
+      - Under 10 people
+      - 10-25 people
+      - 25-50 people
+      - 50-100 people
+      - 100-250 people
+      - Over 250 people
+      required: true
+    - id: 18
+      name: scaling_experience
+      label: Experience scaling technology infrastructure
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: architecture_expertise
+      label: Software architecture and design patterns expertise
+      hint: Rate from 1 (Limited) to 5 (Expert)
+      type: select_one
+      options:
+      - 1 - Limited
+      - 2 - Basic
+      - 3 - Intermediate
+      - 4 - Advanced
+      - 5 - Expert
+      required: true
+    - id: 20
+      name: security_knowledge
+      label: Security and compliance knowledge
+      hint: null
+      type: select_one
+      options:
+      - 1 - Limited
+      - 2 - Basic
+      - 3 - Intermediate
+      - 4 - Advanced
+      - 5 - Expert
+      required: true
+    - id: 21
+      name: agile_methodology
+      label: Agile and development methodology experience
+      hint: null
+      type: select_one
+      options:
+      - Minimal
+      - Moderate
+      - Extensive
+      - Expert
+      required: true
+    - id: 22
+      name: startup_vs_enterprise
+      label: Startup vs enterprise experience
+      hint: null
+      type: select_multiple
+      options:
+      - Early stage startup
+      - Growth stage startup
+      - Mid-market company
+      - Enterprise
+      - All stages
+      required: true
+    - id: 23
+      name: key_achievements
+      label: Key technology achievements and accomplishments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: vision_statement
+      label: Your vision for the company's technology direction
+      hint: null
+      type: text
+      options: []
+      required: true

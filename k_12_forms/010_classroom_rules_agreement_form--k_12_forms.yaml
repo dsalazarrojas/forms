@@ -1,0 +1,240 @@
+inputSchema:
+  type: object
+  properties:
+    title: Classroom Rules Agreement Form
+    pages:
+    - id: 1
+      name: section_header_info
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: Full name of the student
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID Number
+      hint: Student identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: grade_level
+      label: Grade Level
+      hint: Current grade level
+      type: select_one
+      options:
+      - Kindergarten
+      - Grade 1
+      - Grade 2
+      - Grade 3
+      - Grade 4
+      - Grade 5
+      - Grade 6
+      - Grade 7
+      - Grade 8
+      - Grade 9
+      - Grade 10
+      - Grade 11
+      - Grade 12
+      required: true
+    - id: 5
+      name: teacher_name
+      label: Teacher Name
+      hint: Name of the classroom teacher
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: classroom_number
+      label: Classroom Number
+      hint: Room number or classroom identifier
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: school_year
+      label: School Year
+      hint: Academic year
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_header_rules
+      label: -- Classroom Rules Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: rule_respect_others
+      label: I will respect others and their property
+      hint: Student acknowledgment
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 10
+      name: rule_follow_directions
+      label: I will follow directions the first time they are given
+      hint: Student acknowledgment
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 11
+      name: rule_raise_hand
+      label: I will raise my hand and wait to be called on before speaking
+      hint: Student acknowledgment
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 12
+      name: rule_stay_seated
+      label: I will stay in my seat unless given permission to move
+      hint: Student acknowledgment
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 13
+      name: rule_complete_work
+      label: I will complete and turn in all assignments on time
+      hint: Student acknowledgment
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 14
+      name: rule_no_bullying
+      label: I will not bully, harass, or intimidate others
+      hint: Student acknowledgment
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 15
+      name: rule_keep_classroom_clean
+      label: I will help keep the classroom clean and organized
+      hint: Student acknowledgment
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 16
+      name: rule_use_technology_responsibly
+      label: I will use technology and devices responsibly and only for learning
+      hint: Student acknowledgment
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 17
+      name: rule_be_on_time
+      label: I will arrive to class on time and prepared to learn
+      hint: Student acknowledgment
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 18
+      name: rule_no_cheating
+      label: I will do my own work and not cheat or plagiarize
+      hint: Student acknowledgment
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 19
+      name: section_header_parent
+      label: -- Parent or Guardian Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: Full name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 22
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: parent_acknowledgment
+      label: I have reviewed the classroom rules with my child
+      hint: Parent acknowledgment
+      type: select_one
+      options:
+      - Yes - We have reviewed and understand
+      - Yes - I have reviewed (student reviewed independently)
+      - No - Need to schedule conference
+      required: true
+    - id: 24
+      name: parent_support_commitment
+      label: I commit to supporting these rules and communicating with the teacher
+      hint: Parent commitment
+      type: select_one
+      options:
+      - Yes - I commit to supporting classroom rules
+      - Yes - With additional communication needed
+      - No - Need to discuss concerns
+      required: true
+    - id: 25
+      name: additional_concerns
+      label: Additional Concerns or Comments
+      hint: Any concerns or comments from student or parent
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: student_signature
+      label: Student Signature (Type Full Name)
+      hint: Student electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: parent_signature
+      label: Parent or Guardian Signature (Type Full Name)
+      hint: Parent electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: agreement_date
+      label: Date of Agreement
+      hint: Date when rules were agreed upon
+      type: date
+      options: []
+      required: true

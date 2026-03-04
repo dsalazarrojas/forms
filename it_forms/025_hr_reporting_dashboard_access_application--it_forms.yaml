@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: hr_reporting_dashboard_access_application
+    pages:
+    - id: 1
+      name: employee_requester
+      label: employee_requester
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: manager_approver
+      label: manager_approver
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: manager_requester
+      label: manager_requester
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: employee_request_details
+      label: employee_request_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manager_comments
+      label: manager_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager_approval
+      label: manager_approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: date_requested
+      label: date_requested
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_requested
+      label: time_requested
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: reporting_dashboard_access
+      label: reporting_dashboard_access
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: reporting_access_level
+      label: reporting_access_level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false

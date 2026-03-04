@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agricultural Consultant Job Application Form
+    pages:
+    - id: 1
+      name: applicant_info_header
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: current_location
+      label: Current Location
+      hint: City and State/Province
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: education_header
+      label: -- Education and Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: highest_education
+      label: Highest Education Level
+      hint: null
+      type: select_one
+      options:
+      - High School Diploma
+      - Associate's Degree
+      - Bachelor's Degree
+      - Master's Degree
+      - PhD
+      - Other
+      required: true
+    - id: 8
+      name: field_of_study
+      label: Field of Study
+      hint: Major or specialization
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: years_experience
+      label: Years of Experience
+      hint: Number of years in agricultural consulting
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: areas_of_expertise
+      label: Areas of Expertise
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Crop Science
+      - Animal Husbandry
+      - Agribusiness Management
+      - Sustainable Farming
+      - Soil Science
+      - Precision Agriculture
+      - Organic Farming
+      required: true
+    - id: 11
+      name: previous_employer
+      label: Previous Employer
+      hint: Most recent employer name
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: relevant_certifications
+      label: Relevant Certifications
+      hint: List any professional certifications
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: work_preferences_header
+      label: -- Work Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: availability_start_date
+      label: Availability Start Date
+      hint: When can you start?
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: willing_to_relocate
+      label: Willing to Relocate
+      hint: Are you open to moving for this role?
+      type: select_one
+      options:
+      - true
+      - false
+      - Negotiable
+      required: true
+    - id: 16
+      name: resume_note
+      label: Resume Upload
+      hint: Please send your resume to hr@agriconsult.com
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: cover_letter
+      label: Cover Letter
+      hint: Why are you a good fit for this role?
+      type: text
+      options: []
+      required: false

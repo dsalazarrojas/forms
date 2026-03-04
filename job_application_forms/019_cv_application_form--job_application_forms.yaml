@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: CV Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant name
+      hint: Full name as on documents
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email address
+      hint: For application correspondence
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone number
+      hint: Mobile preferred
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: position_applied
+      label: Position applied for
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: education_summary
+      label: Education summary
+      hint: Highest qualification and institution
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: work_experience_years
+      label: Years of relevant experience
+      hint: Whole years
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: portfolio_link
+      label: Portfolio or linkedin link
+      hint: Optional link to work samples
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_documents
+      label: Additional documents reference
+      hint: CV cover letter or references
+      type: text
+      options: []
+      required: false

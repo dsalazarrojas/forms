@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: software_settings_form
+    pages:
+    - id: 1
+      name: form_title
+      label: software_settings_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_description
+      label: form_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: category_name
+      label: category_name
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: form_title
+      label: form_title
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: form_description_2
+      label: form_description_2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

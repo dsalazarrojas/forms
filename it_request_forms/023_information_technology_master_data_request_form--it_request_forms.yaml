@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: information_technology_master_data_request_form
+    pages:
+    - id: 1
+      name: master_data_request
+      label: Master Data Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: it_requester
+      label: it_requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: data_type
+      label: data_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Type A''}'
+      - '{''id'': 2, ''label'': ''Type B''}'
+      - '{''id'': 3, ''label'': ''Type C''}'
+      required: false
+    - id: 4
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Low''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''High''}'
+      required: false
+    - id: 6
+      name: business_impact
+      label: business_impact
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Low''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''High''}'
+      required: false
+    - id: 7
+      name: it_contact_person
+      label: it_contact_person
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: business_contact_person
+      label: business_contact_person
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

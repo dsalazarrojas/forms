@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: it_support_services_lead_generation_form
+    pages:
+    - id: 1
+      name: new_lead
+      label: New Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lead_description
+      label: Lead Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: lead_priority
+      label: Priority
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: lead_status
+      label: Lead Status
+      hint: null
+      type: select_one
+      options:
+      - Lead
+      - Not Qualified
+      - Qualified
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: service_providers
+      label: Service Providers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: follow_up_method
+      label: Follow Up Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - In App
+      - SMS
+      required: false

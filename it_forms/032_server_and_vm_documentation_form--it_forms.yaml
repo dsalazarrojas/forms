@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Server And VM Documentation Form
+    pages:
+    - id: 1
+      name: server_and_vm_documentation_form
+      label: Server And VM Documentation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: server_configurations
+      label: Server Configurations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: vm_name
+      label: Vm Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: operating_system
+      label: Operating System
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 5
+      name: vm_type
+      label: Vm Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: vm_count
+      label: Vm Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: vm_memory
+      label: Vm Memory
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: vm_cpu
+      label: Vm Cpu
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: vm_disk_space
+      label: Vm Disk Space
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: vm_network
+      label: Vm Network
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: server_ip
+      label: Server Ip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: server_port
+      label: Server Port
+      hint: null
+      type: number
+      options: []
+      required: false

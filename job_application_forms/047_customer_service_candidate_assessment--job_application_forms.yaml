@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Service Candidate Assessment
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: work_experience
+      label: How many years of experience do you have in this role?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: availability
+      label: What days are you available to work?
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 9
+      name: notice_period
+      label: How many days' notice will you be giving?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: available_days
+      label: Available days
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 11
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - Currently working
+      - Not working
+      - Looking
+      required: true
+    - id: 12
+      name: reason_leaving
+      label: Reason for leaving
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: job_satisfaction
+      label: Job satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 14
+      name: job_satisfaction_why
+      label: Why job satisfaction?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: job_satisfaction_what
+      label: What did you like most?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: job_satisfaction_what_not
+      label: What did you like least?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: work_location
+      label: Work location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: work_experience_years
+      label: How many years have you worked?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: salary_expected
+      label: Expected salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: salary_range
+      label: Salary Range
+      hint: null
+      type: select_one
+      options:
+      - Below 20,000
+      - 20,000-30,000
+      - 30,000-40,000
+      - 40,000-50,000
+      - Above 50,000
+      required: true
+    - id: 21
+      name: availability
+      label: Availability
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: job_position
+      label: Job position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: work_hours
+      label: Work hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: work_schedule
+      label: Work schedule
+      hint: null
+      type: text
+      options: []
+      required: false

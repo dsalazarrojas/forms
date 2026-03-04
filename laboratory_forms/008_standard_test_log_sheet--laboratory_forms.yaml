@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Standard Test Log Sheet
+    pages:
+    - id: 1
+      name: test_log
+      label: Test Log
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: test_date
+      label: test_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: technician
+      label: technician
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: equipment_used
+      label: equipment_used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: test_result
+      label: test_result
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: test_type
+      label: test_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: test_category
+      label: test_category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: test_frequency
+      label: test_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: test_status
+      label: test_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: result_comments
+      label: result_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: lab_technician
+      label: lab_technician
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: lab_technician_phone
+      label: lab_technician_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: test_location
+      label: test_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: test_location_map_url
+      label: test_location_map_url
+      hint: null
+      type: text
+      options: []
+      required: false

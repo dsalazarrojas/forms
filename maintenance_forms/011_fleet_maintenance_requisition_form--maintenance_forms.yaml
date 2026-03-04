@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: fleet_maintenance_requisition_form
+    pages:
+    - id: 1
+      name: form_section
+      label: Vehicle Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: maintenance_type
+      label: Maintenance Type
+      hint: null
+      type: select_one
+      options:
+      - Vehicle Maintenance
+      - Equipment Maintenance
+      - Other
+      required: false
+    - id: 5
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_multiple
+      options:
+      - Engine
+      - Transmission
+      - Electrical
+      - Steering
+      - Brakes
+      required: false
+    - id: 6
+      name: maintenance_details
+      label: Maintenance Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: scheduled_date
+      label: Scheduled Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: maintenance_requester
+      label: Maintenance Requester
+      hint: null
+      type: select_one
+      options:
+      - Maintenance Manager
+      - Mechanic
+      - Other
+      required: false
+    - id: 9
+      name: vehicle_status
+      label: Vehicle Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Sold
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

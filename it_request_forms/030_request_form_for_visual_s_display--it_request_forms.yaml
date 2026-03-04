@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Request Form For Visuals Display
+    pages:
+    - id: 1
+      name: request_form_for_visuals_display
+      label: Request Form For Visuals Display
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: visual_display_request_category
+      label: Visual Display Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: assigned_by
+      label: Assigned By
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false

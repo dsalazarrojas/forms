@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: customer_experience_platform_subscription_inquiry
+    pages:
+    - id: 1
+      name: form_header
+      label: Customer Experience Platform Subscription Inquiry
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: subscription_plan
+      label: Subscription Plan
+      hint: null
+      type: select_one
+      options:
+      - Free
+      - Premium
+      - Enterprise
+      required: true
+    - id: 8
+      name: rollout_details
+      label: Rollout Details
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: company_website
+      label: Company Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: company_description
+      label: Company Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: sales_email
+      label: Sales Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: sales_phone
+      label: Sales Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: support_email
+      label: Support Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: support_phone
+      label: Support Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 19
+      name: company_type
+      label: Company Type
+      hint: null
+      type: select_multiple
+      options:
+      - B2B
+      - B2C
+      - B2B+B2C
+      - Other
+      required: false
+    - id: 20
+      name: industry
+      label: industry
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: job_title
+      label: Job Title
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: lead_source
+      label: Lead Source
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Referral
+      - Online Ads
+      - Other
+      required: false
+    - id: 25
+      name: follow_up_prospects
+      label: Follow-up Prospects
+      hint: null
+      type: date
+      options: []
+      required: false

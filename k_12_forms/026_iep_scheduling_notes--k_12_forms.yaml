@@ -1,0 +1,68 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: IEP Scheduling Notes
+    pages:
+    - id: 1
+      name: iep_scheduling_notes_form
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: iep_meeting_attendees
+      label: Select Attendees
+      hint: List all attendees that will be participating in the IEP meeting.
+      type: select_multiple
+      options:
+      - John Doe
+      - Jane Doe
+      - Bob Smith
+      required: false
+    - id: 3
+      name: iep_meeting_purpose
+      label: Meeting Purpose
+      hint: Briefly describe the meeting purpose.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: iep_meeting_notes
+      label: Summary Notes
+      hint: Provide a detailed summary of the meeting.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: follow_up_actions
+      label: Follow-up Actions
+      hint: List any follow-up actions that will be taken after the meeting.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: iep_meeting_next_steps
+      label: Next Steps
+      hint: Describe any next steps or deadlines for the meeting.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: iep_meeting_next_meeting
+      label: Next Meeting
+      hint: null
+      type: date
+      options: []
+      required: false

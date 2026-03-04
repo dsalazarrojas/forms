@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Access Privilege Request Form
+    pages:
+    - id: 1
+      name: tenant_access_privilege_request_form
+      label: Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: select_one_requester
+      label: Select one requester
+      hint: null
+      type: select_one
+      options:
+      - Tenant
+      - Owner
+      - Admin
+      - Manager
+      required: false
+    - id: 3
+      name: access_privilege
+      label: Access Privilege
+      hint: null
+      type: select_one
+      options:
+      - Full Access
+      - Limited Access
+      - View Only
+      required: false
+    - id: 4
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: privilege_level
+      label: Privilege Level
+      hint: null
+      type: select_multiple
+      options:
+      - Full Access
+      - Limited Access
+      - View Only
+      required: false
+    - id: 8
+      name: request_status
+      label: Request Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Approved
+      - Rejected
+      - Completed
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: requester_email
+      label: Requester Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: requester_phone
+      label: Requester Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: tenant_email
+      label: Tenant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: tenant_phone
+      label: Tenant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: requester_name
+      label: Requester Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: tenant_name
+      label: Tenant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: requestor
+      label: Requestor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: approver_name
+      label: Approver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: approver_email
+      label: Approver Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: approver_phone
+      label: Approver Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: approver_notes
+      label: Approver Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: approver
+      label: Approver
+      hint: null
+      type: text
+      options: []
+      required: false

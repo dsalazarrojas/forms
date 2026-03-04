@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Leave of Absence Request Nurse
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: leave_start_date
+      label: Leave Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: leave_end_date
+      label: Leave End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_leave
+      label: Reason for Leave
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_certificate
+      label: Medical Certificate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: return_to_work_date
+      label: Return to Work Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: doctor_certificate
+      label: Doctor Certificate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: submitter
+      label: Requestor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter_title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitter_department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitter_contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitter_contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: manager_comment
+      label: Manager Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitter_comment
+      label: Requestor Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: approver
+      label: Approver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: approver_title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: approver_department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: true

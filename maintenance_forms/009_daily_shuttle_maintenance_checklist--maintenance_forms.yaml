@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Shuttle Maintenance Checklist
+    pages:
+    - id: 1
+      name: pre_trip_inspections
+      label: Pre trip inspections
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: recorded_issues
+      label: Recorded issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: readiness_to_operate
+      label: Readiness to operate
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 4
+      name: fleet
+      label: Fleet
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: campus
+      label: Campus
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: hotel
+      label: Hotel
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: shuttle_service
+      label: Shuttle service
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: Enter employee email address
+      type: email
+      options: []
+      required: false

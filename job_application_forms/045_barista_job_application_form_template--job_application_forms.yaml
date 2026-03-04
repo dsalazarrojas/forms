@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Barista Job Application Form
+    pages:
+    - id: 1
+      name: contact_info_header
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Current Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: experience_header
+      label: -- Coffee and Hospitality Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: previous_barista_exp
+      label: Have you worked as a barista before?
+      hint: null
+      type: select_one
+      options:
+      - Yes - 2+ years
+      - Yes - 1-2 years
+      - Yes - Less than 1 year
+      - No - But have other service experience
+      - No - This would be my first job
+      required: true
+    - id: 8
+      name: equipment_knowledge
+      label: Equipment you are comfortable using
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Manual Espresso Machine
+      - Semi-Automatic Espresso Machine
+      - Automatic / Super-Automatic
+      - Commercial Coffee Grinder
+      - Manual Pour-over (Hario, Chemex)
+      - POS Systems (Square, Toast, etc.)
+      required: false
+    - id: 9
+      name: hospitality_philosophy
+      label: What does "great customer service" mean to you in a coffee shop?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: favorite_coffee
+      label: What is your favorite coffee drink and why?
+      hint: No wrong answers, we just want to know your taste!
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: availability_header
+      label: -- Availability and Commitment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: desired_hours
+      label: How many hours per week are you looking for?
+      hint: null
+      type: select_one
+      options:
+      - Full-time (32-40 hours)
+      - Part-time (20-30 hours)
+      - Minimal (Under 20 hours)
+      required: true
+    - id: 13
+      name: early_bird_check
+      label: "Are you available for early morning shifts (starting 5:00 AM or 6:00"
+        AM)?
+      hint: This is a core requirement for many barista roles
+      type: select_one
+      options:
+      - Yes - Any day
+      - Yes - Weekdays only
+      - Yes - Weekends only
+      - false
+      required: true
+    - id: 14
+      name: weekend_availability
+      label: Weekend Availability
+      hint: null
+      type: select_one
+      options:
+      - Available both Saturday and Sunday
+      - Available Saturday only
+      - Available Sunday only
+      - Not available weekends
+      required: true
+    - id: 15
+      name: start_date
+      label: Earliest potential start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: application_extras_header
+      label: -- Final Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: food_handler_permit
+      label: Do you have a current Food Handler's Permit?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Current
+      - No - Willing to obtain
+      - No - Expired
+      required: true
+    - id: 18
+      name: application_source
+      label: How did you hear about this opening?
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - In-store Signage
+      - Referral from current employee
+      - Online Job Board
+      required: true
+    - id: 19
+      name: signature_acknowledgment
+      label: I certify that the information provided is accurate
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 20
+      name: submission_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: true

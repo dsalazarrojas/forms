@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Technology Deployment Partner Contact Form
+    pages:
+    - id: 1
+      name: tech_deployment_partners
+      label: tech_deployment_partners
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: areas_of_interest
+      label: areas_of_interest
+      hint: null
+      type: select_one
+      options:
+      - partner_inquiries
+      - software_vendor_services
+      - it_providers
+      required: false
+    - id: 3
+      name: regions
+      label: regions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: partner_interests
+      label: partnership_interests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

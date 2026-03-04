@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Videoconferencing Product Survey
+    pages:
+    - id: 1
+      name: product_survey
+      label: Product Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: videoconferencing_features
+      label: Videoconferencing Features
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: false
+    - id: 3
+      name: survey_questions
+      label: Survey Questions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 4''}'
+      - '{''label'': ''Option 5''}'
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: videoconferencing_issues
+      label: Videoconferencing Issues
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 6''}'
+      - '{''label'': ''Option 7''}'
+      required: false
+    - id: 8
+      name: product_improvement
+      label: Product Improvement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: product_roadmap
+      label: Product Roadmap
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 8''}'
+      - '{''label'': ''Option 9''}'
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Media Folder Creation Request
+    pages:
+    - id: 1
+      name: media_folder_creation_request
+      label: Media Folder Creation Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: media_folder_details
+      label: Media Folder Details
+      hint: Provide more information about the media folder.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: media_folder_requester
+      label: Media Folder Requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: media_folder_description
+      label: Media Folder Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: media_folder_priority
+      label: Media Folder Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Medium
+      required: true
+    - id: 6
+      name: media_folder_type
+      label: Media Folder Type
+      hint: null
+      type: select_multiple
+      options:
+      - Image
+      - Video
+      - Audio
+      required: true
+    - id: 7
+      name: media_folder_size
+      label: Media Folder Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: media_folder_status
+      label: Media Folder Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: true
+    - id: 9
+      name: media_folder_notes
+      label: Media Folder Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: media_folder_email
+      label: Media Folder Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: media_folder_phone
+      label: Media Folder Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: media_folder_location
+      label: Media Folder Location
+      hint: Provide location of the media folder.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: media_folder_date
+      label: Media Folder Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: media_folder_time
+      label: Media Folder Time
+      hint: null
+      type: time
+      options: []
+      required: false

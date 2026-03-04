@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: uplers_design_questionnaire
+    pages:
+    - id: 1
+      name: design_questionnaire
+      label: Design Questionnaire
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: uplers_team_size
+      label: Uplers Team Size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: uplers_team_size_hint
+      label: Uplers Team Size
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: uplers_project_status
+      label: Uplers Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 5
+      name: uplers_client_type
+      label: Uplers Client Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: uplers_start_date
+      label: Uplers Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: uplers_end_date
+      label: Uplers End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: uplers_budget
+      label: Uplers Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: uplers_designer
+      label: Uplers Designer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: uplers_designer_hint
+      label: Uplers Designer
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: uplers_design_system
+      label: Uplers Design System
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: uplers_technology
+      label: Uplers Technology
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: uplers_technology_hint
+      label: Uplers Technology
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: uplers_design_notes
+      label: Uplers Design Notes
+      hint: null
+      type: note
+      options: []
+      required: false

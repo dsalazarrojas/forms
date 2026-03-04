@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: High School Teacher Maternity Leave Of Absence Form
+    pages:
+    - id: 1
+      name: school_id
+      label: School
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_leave
+      label: Reason For Leave
+      hint: Please enter the reason for the request for leave
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: expected_return_date
+      label: Expected Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: department_id
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false

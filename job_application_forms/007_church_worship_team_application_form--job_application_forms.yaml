@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Worship Team Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email address
+      hint: For communications
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone number
+      hint: Mobile preferred
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: musical_role
+      label: Musical role or instrument
+      hint: Vocals guitar keys drums etc
+      type: select_one
+      options:
+      - Vocal
+      - Guitar
+      - Keys
+      - Drums
+      - Other
+      required: true
+    - id: 5
+      name: experience_years
+      label: Years of experience
+      hint: Enter whole years
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: availability
+      label: Availability for rehearsals and services
+      hint: Days and times available
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: previous_groups
+      label: Previous worship groups experience
+      hint: Brief history of experience
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: references
+      label: Musical references
+      hint: Provide two references with contact details
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: health_considerations
+      label: Health or accessibility considerations
+      hint: Optional information to assist planning
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: acknowledgement
+      label: Acknowledgement note
+      hint: Thank you for your application
+      type: note
+      options: []
+      required: true

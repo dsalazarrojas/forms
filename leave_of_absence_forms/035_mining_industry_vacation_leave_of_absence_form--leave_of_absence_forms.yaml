@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mining Industry Vacation Leave Of Absence Form
+    pages:
+    - id: 1
+      name: mining_industry_vacation_leave_form_start
+      label: Mining Industry Vacation Leave Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: mining_industry_vacation_leave_request_comments
+      label: Mining Industry Vacation Leave Request Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: approval_by
+      label: Approval By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: approved_date
+      label: Approved Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: mining_industry_vacation_leave_form_actions
+      label: Mining Industry Vacation Leave Form Actions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

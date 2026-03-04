@@ -1,0 +1,114 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: API Developer Access Application Form
+    pages:
+    - id: 1
+      name: developer_full_name
+      label: Developer Full Name
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: developer_email
+      label: Developer Email
+      hint: Professional email for API access communications
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: developer_company
+      label: Company/Organization
+      hint: Name of your company or organization
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: developer_role
+      label: Role/Position
+      hint: Your role or position in your organization
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: api_access_purpose
+      label: Purpose of API Access
+      hint: What will you be using the API for?
+      type: select_one
+      options: ["Commercial Application", "Academic Research", "Personal Project", "Internal Business Use", "Educational Purpose", "Other"]
+      required: true
+    - id: 6
+      name: project_description
+      label: Project Description
+      hint: Brief description of your project
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: expected_api_usage
+      label: Expected API Usage
+      hint: How many requests per day do you anticipate?
+      type: select_one
+      options: ["Under 1,000", "1,000-10,000", "10,000-100,000", "Over 100,000"]
+      required: true
+    - id: 8
+      name: programming_languages
+      label: Programming Languages
+      hint: Which languages will you be using to interact with the API?
+      type: select_multiple
+      options: ["Python", "JavaScript", "Java", "C#", "PHP", "Ruby", "Go", "Swift", "Kotlin", "Other"]
+      required: true
+    - id: 9
+      name: development_experience
+      label: Development Experience
+      hint: How many years of software development experience do you have?
+      type: select_one
+      options: ["Less than 1 year", "1-3 years", "4-7 years", "8-10 years", "More than 10 years"]
+      required: true
+    - id: 10
+      name: api_integration_experience
+      label: API Integration Experience
+      hint: How much experience do you have with API integrations?
+      type: select_one
+      options: ["Beginner", "Intermediate", "Advanced", "Expert"]
+      required: true
+    - id: 11
+      name: security_practices_knowledge
+      label: Security Practices Knowledge
+      hint: How familiar are you with API security best practices?
+      type: select_one
+      options: ["Beginner", "Intermediate", "Advanced", "Expert"]
+      required: true
+    - id: 12
+      name: data_handling_practices
+      label: Data Handling Practices
+      hint: How will you handle data received from the API?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: compliance_requirements_acknowledged
+      label: Compliance Requirements Acknowledged
+      hint: Do you acknowledge and agree to comply with our API terms of service and data usage policies?
+      type: select_one
+      options: ["Yes", "No"]
+      required: true
+    - id: 14
+      name: rate_limiting_acceptance
+      label: Rate Limiting Acceptance
+      hint: Do you agree to abide by the API rate limits?
+      type: select_one
+      options: ["Yes", "No"]
+      required: true

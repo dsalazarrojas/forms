@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: CRM Support Ticket Form
+    pages:
+    - id: 1
+      name: ticket_info_header
+      label: -- Ticket Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: ticket_id
+      label: Ticket ID
+      hint: Auto-assigned if blank
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: submission_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: submission_time
+      label: Time of Submission
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: submitter_header
+      label: -- Submitter Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: submitter_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: submitter_email
+      label: Your Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: submitter_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitter_type
+      label: Are you a customer or representative?
+      hint: null
+      type: select_one
+      options:
+      - Customer
+      - Company Representative
+      - Other
+      required: true
+    - id: 10
+      name: issue_header
+      label: -- Issue Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: issue_category
+      label: Issue Category
+      hint: null
+      type: select_one
+      options:
+      - Technical Issue
+      - Billing Question
+      - Feature Request
+      - Bug Report
+      - Account Issue
+      - Other
+      required: true
+    - id: 12
+      name: priority_level
+      label: Priority Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Critical
+      required: true
+    - id: 13
+      name: issue_title
+      label: Issue Title
+      hint: Brief summary of the issue
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: issue_description
+      label: Detailed Description
+      hint: Please describe the issue in detail
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: steps_to_reproduce
+      label: Steps to Reproduce (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: environment_info
+      label: -- Environment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: affected_module
+      label: Affected Module or System
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: browser_type
+      label: Browser Type (for web issues)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: resolution_header
+      label: -- Resolution --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Chat
+      required: true
+    - id: 21
+      name: follow_up_ok
+      label: May we follow up with you about this issue?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

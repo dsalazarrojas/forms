@@ -1,0 +1,102 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Estate Planning Checklist Form
+    pages:
+    - id: 1
+      name: estate_planning_checklist_form_data
+      label: Estate Planning Checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: wills
+      label: Wills
+      hint: null
+      type: select_one
+      options:
+      - Trust
+      - Living Will
+      - Joint Will
+      - Last Will
+      required: true
+    - id: 3
+      name: trusts
+      label: Trusts
+      hint: null
+      type: select_multiple
+      options:
+      - Revocable Trust
+      - Irrevocable Trust
+      - Trust A
+      - Trust B
+      required: true
+    - id: 4
+      name: beneficiaries_data
+      label: Beneficiaries
+      hint: List your beneficiaries
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: beneficiary_data
+      label: Beneficiary Information
+      hint: Enter beneficiary details
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: power_of_attorney
+      label: Power of Attorney
+      hint: null
+      type: select_one
+      options:
+      - General Power of Attorney
+      - Durable Power of Attorney
+      - Limited Power of Attorney
+      required: true
+    - id: 7
+      name: advance_directives
+      label: Advance Directives
+      hint: null
+      type: select_one
+      options:
+      - Health Care Directive
+      - Living Will Directive
+      - Do Not Resuscitate (DNR) Directive
+      required: true
+    - id: 8
+      name: guardianship_and_custody
+      label: Guardianship and Custody
+      hint: null
+      type: select_one
+      options:
+      - Guardianship
+      - Custody
+      required: true
+    - id: 9
+      name: estate_planning_checklist_form_notes
+      label: Estate Planning Checklist Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: estate_planning_checklist_form_notes2
+      label: Estate Planning Checklist Notes 2
+      hint: null
+      type: note
+      options: []
+      required: false

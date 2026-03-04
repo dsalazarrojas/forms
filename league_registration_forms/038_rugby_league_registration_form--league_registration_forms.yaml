@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: rugby_league_registration_form
+    pages:
+    - id: 1
+      name: player_info
+      label: player_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_info
+      label: Team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,95 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Predictive Maintenance Insight Report Form
+    pages:
+    - id: 1
+      name: report_name
+      label: Report Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: asset_category
+      label: Asset Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Category 1''}'
+      - '{''id'': 2, ''label'': ''Category 2''}'
+      - '{''id'': 3, ''label'': ''Category 3''}'
+      required: true
+    - id: 3
+      name: asset_type
+      label: Asset Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Type 1''}'
+      - '{''id'': 2, ''label'': ''Type 2''}'
+      - '{''id'': 3, ''label'': ''Type 3''}'
+      required: true
+    - id: 4
+      name: asset_location
+      label: Asset Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: asset_condition
+      label: Asset Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Condition 1''}'
+      - '{''id'': 2, ''label'': ''Condition 2''}'
+      - '{''id'': 3, ''label'': ''Condition 3''}'
+      required: true
+    - id: 6
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false

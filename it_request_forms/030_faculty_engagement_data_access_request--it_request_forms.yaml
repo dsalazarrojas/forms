@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Faculty Engagement Data Access Request
+    pages:
+    - id: 1
+      name: purpose
+      label: Request Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: duration
+      label: Request Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: policy_acknowledgment
+      label: Policy Acknowledgment
+      hint: null
+      type: select_one
+      options:
+      - Policy 1
+      - Policy 2
+      - Policy 3
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: faculty
+      label: Faculty
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: staff
+      label: Staff
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student
+      label: Student
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workspace Creation Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Workspace Creation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: workspace_name
+      label: Workspace Name
+      hint: Enter the name of the workspace
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: workspace_owner
+      label: Workspace Owner
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: invite_email
+      label: Invite Email
+      hint: Enter team member emails separated by comma
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: invite_email
+      label: Invite Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: access_preferences
+      label: Access Preferences
+      hint: Select access preferences for team members
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: workspace_type
+      label: Workspace Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: team_leads
+      label: Team Leads
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: department_leads
+      label: Department Leads
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

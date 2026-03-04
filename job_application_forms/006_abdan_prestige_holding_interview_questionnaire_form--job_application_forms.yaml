@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Abdan Prestige Holding Interview Questionnaire Form
+    pages:
+    - id: 1
+      name: section_header_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: candidate_full_name
+      label: Full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: candidate_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: candidate_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: nationality
+      label: Nationality
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_header_education
+      label: -- Education and Qualifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: highest_education_level
+      label: Highest level of education attained
+      hint: null
+      type: select_one
+      options:
+      - High School Diploma
+      - Diploma or Certificate
+      - Bachelor's Degree
+      - Master's Degree
+      - Doctorate
+      - Other
+      required: true
+    - id: 9
+      name: field_of_study
+      label: Field of study or major
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: institution_name
+      label: Name of educational institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_header_experience
+      label: -- Work Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: years_of_experience
+      label: Total years of relevant work experience
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1 to 3 years
+      - 3 to 5 years
+      - 5 to 10 years
+      - More than 10 years
+      required: true
+    - id: 13
+      name: current_employer
+      label: Current or most recent employer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: current_job_title
+      label: Current or most recent job title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: reason_for_leaving
+      label: Reason for leaving current or most recent position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: position_applied_for
+      label: Position you are applying for
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: expected_salary
+      label: Expected monthly salary
+      hint: Enter amount in local currency
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: available_start_date
+      label: Earliest available start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: section_header_additional
+      label: -- Additional Questions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: why_interested
+      label: Why are you interested in working at Abdan Prestige Holding
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: key_strengths
+      label: What are your key strengths relevant to this role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: willing_to_relocate
+      label: Are you willing to relocate if required
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Open to discussion
+      required: true
+    - id: 23
+      name: additional_information
+      label: Any additional information you would like to share
+      hint: null
+      type: text
+      options: []
+      required: false

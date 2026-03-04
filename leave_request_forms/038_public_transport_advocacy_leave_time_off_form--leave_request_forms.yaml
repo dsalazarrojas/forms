@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Transport Advocacy Leave Time Off Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: activity_title
+      label: Activity Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: activity_description
+      label: Activity Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: transport_type
+      label: Transport Type
+      hint: null
+      type: select_one
+      options:
+      - Public Transport
+      - Private Transport
+      - Air Transport
+      - Other
+      required: true
+    - id: 8
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: approver_name
+      label: Approver Name
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Joe
+      required: true
+    - id: 13
+      name: approver_email
+      label: Approver Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: approver_phone
+      label: Approver Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: approver_comment
+      label: Approver Comment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      - In Progress
+      required: false
+    - id: 17
+      name: approved_date
+      label: Approved Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: denied_reason
+      label: Denied Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: in_progress_details
+      label: In Progress Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: public_transport_details
+      label: Public Transport Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: private_transport_details
+      label: Private Transport Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: air_transport_details
+      label: Air Transport Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: other_transport_details
+      label: Other Transport Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: approver_signature
+      label: Approver Signature
+      hint: null
+      type: text
+      options: []
+      required: false

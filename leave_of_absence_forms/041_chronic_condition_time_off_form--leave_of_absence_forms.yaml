@@ -1,0 +1,285 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chronic Condition Time Off Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Your employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Company email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: For urgent contact
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Your work department
+      type: select_one
+      options:
+      - Human Resources
+      - Finance
+      - Marketing
+      - Sales
+      - Information Technology
+      - Operations
+      - Customer Service
+      - Administration
+      - Manufacturing
+      - Other
+      required: true
+    - id: 6
+      name: manager_name
+      label: Manager Name
+      hint: Your direct supervisor
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_employee_info
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: hire_date
+      label: Hire Date
+      hint: When did you start working here
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: employment_type
+      label: Employment Type
+      hint: Your employment status
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Temporary
+      - Contract
+      required: true
+    - id: 10
+      name: section_employment_details
+      label: -- Employment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: leave_type
+      label: Type of Leave Requested
+      hint: Select the type of leave
+      type: select_one
+      options:
+      - Intermittent Leave
+      - Reduced Schedule
+      - Continuous Leave
+      - Emergency Leave
+      required: true
+    - id: 12
+      name: chronic_condition_type
+      label: Chronic Condition Type
+      hint: General category of condition
+      type: select_one
+      options:
+      - Autoimmune Disorder
+      - Cardiovascular Condition
+      - Respiratory Condition
+      - Neurological Condition
+      - Endocrine Disorder
+      - Gastrointestinal Condition
+      - Mental Health Condition
+      - Chronic Pain
+      - Cancer Treatment
+      - Other
+      required: true
+    - id: 13
+      name: condition_duration
+      label: How Long Diagnosed
+      hint: Time since diagnosis
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6 months to 1 year
+      - 1-3 years
+      - 3-5 years
+      - Over 5 years
+      required: true
+    - id: 14
+      name: section_medical_info
+      label: -- Medical Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: requested_start_date
+      label: Requested Start Date
+      hint: When do you need leave to start
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: requested_end_date
+      label: Requested End Date
+      hint: Expected return date
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: estimated_days_needed
+      label: Estimated Days Needed
+      hint: Total days of leave
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: intermittent_schedule
+      label: Intermittent Schedule
+      hint: If applicable describe schedule
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_leave_details
+      label: -- Leave Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: healthcare_provider_name
+      label: Healthcare Provider Name
+      hint: Your treating physician
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: healthcare_provider_phone
+      label: Healthcare Provider Phone
+      hint: Doctor office phone
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: healthcare_provider_address
+      label: Healthcare Provider Address
+      hint: Medical office address
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: medical_certification
+      label: Medical Certification
+      hint: Will you submit medical certification
+      type: select_one
+      options:
+      - Yes already submitted
+      - Yes will submit
+      - Need form for provider
+      required: true
+    - id: 24
+      name: section_healthcare_provider
+      label: -- Healthcare Provider --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: work_limitations
+      label: Work Limitations
+      hint: Any limitations during work
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: accommodations_needed
+      label: Accommodations Needed
+      hint: Any workplace accommodations
+      type: select_multiple
+      options:
+      - None
+      - Flexible schedule
+      - Remote work option
+      - Modified duties
+      - Additional breaks
+      - Ergonomic equipment
+      - Reduced hours
+      - Other
+      required: false
+    - id: 27
+      name: section_accommodations
+      label: -- Accommodations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: previous_leave_requests
+      label: Previous Leave Requests
+      hint: Have you requested leave before
+      type: select_one
+      options:
+      - No first request
+      - Yes once before
+      - Yes multiple times
+      required: true
+    - id: 29
+      name: coverage_plan
+      label: Coverage Plan
+      hint: Suggestions for work coverage
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Name and phone number
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: section_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: employee_signature
+      label: Employee Acknowledgment
+      hint: I certify this information is accurate
+      type: select_one
+      options:
+      - Yes I certify
+      - No I cannot certify
+      required: true
+    - id: 33
+      name: date_submitted
+      label: Date Submitted
+      hint: Today date
+      type: date
+      options: []
+      required: true

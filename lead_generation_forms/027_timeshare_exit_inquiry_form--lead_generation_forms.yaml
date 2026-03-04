@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Timeshare Exit Inquiry Form
+    pages:
+    - id: 1
+      name: lead_generation_form
+      label: Lead Generation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lead_details
+      label: Lead Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: timeshare_contract
+      label: Timeshare Contract
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: timeshare_status
+      label: Timeshare Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contract_type
+      label: Contract Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: contract_status
+      label: Contract Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: contract_date
+      label: Contract Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: contract_value
+      label: Contract Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: property_value
+      label: Property Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: exit_date
+      label: Exit Date
+      hint: null
+      type: date
+      options: []
+      required: false

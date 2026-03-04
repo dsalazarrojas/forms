@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maintenance Feedback Response Request Form
+    pages:
+    - id: 1
+      name: facility_manager
+      label: Facility Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: maintenance_technician
+      label: Maintenance Technician
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: ratings
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Landlords
+      - Operations
+      - Facility
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: false

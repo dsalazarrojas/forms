@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Groomer Leave Of Absence Request
+    pages:
+    - id: 1
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: type_of_leave
+      label: Type of Leave
+      hint: null
+      type: select_one
+      options:
+      - Holiday
+      - Personal
+      - Other
+      required: true
+    - id: 4
+      name: reason_for_leave
+      label: Reason for Leave
+      hint: Please describe the reason for the leave request
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: pet_owner_email
+      label: Pet Owner Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: pet_owner_name
+      label: Pet Owner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: pet_owner_phone
+      label: Pet Owner Phone
+      hint: Pet owner contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: employee_name_2
+      label: Employee Name 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: employee_phone
+      label: Employee Phone
+      hint: Employee contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: manager_name_2
+      label: Manager Name 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Groomers
+      - Reception
+      - Management
+      required: true
+    - id: 15
+      name: team_leader
+      label: Team Leader
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: team_leader_2
+      label: Team Leader 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: team_leader_3
+      label: Team Leader 3
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: shift_leader
+      label: Shift Leader
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: shift_leader_2
+      label: Shift Leader 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: shift_leader_3
+      label: Shift Leader 3
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: shift_leader_4
+      label: Shift Leader 4
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: comments
+      label: Comments
+      hint: Additional information to help us understand your request
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true

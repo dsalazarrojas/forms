@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Profile Form
+    pages:
+    - id: 1
+      name: customer_profile_form_1
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_profile_form_3
+      label: What is your job title
+      hint: null
+      type: select_one
+      options:
+      - CEO
+      - Manager
+      - Employee
+      - Other
+      required: false
+    - id: 4
+      name: customer_profile_form_4
+      label: What is your role in the company
+      hint: null
+      type: select_multiple
+      options:
+      - Founder
+      - Manager
+      - Employee
+      - Other
+      required: false
+    - id: 5
+      name: customer_profile_form_5
+      label: What is the company size?
+      hint: null
+      type: select_multiple
+      options:
+      - 1-9
+      - 10-49
+      - 50-99
+      - 100-499
+      - 500-999
+      - 1000+
+      required: false
+    - id: 6
+      name: customer_profile_form_6
+      label: What industry are you in?
+      hint: null
+      type: select_multiple
+      options:
+      - Finance
+      - Technology
+      - Retail
+      - Food and Beverage
+      - Healthcare
+      - Energy
+      - Other
+      required: false
+    - id: 7
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_profile_form_17
+      label: Would you like to connect on LinkedIn
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

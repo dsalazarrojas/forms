@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_support_intake_form
+    pages:
+    - id: 1
+      name: employee_support_intake_form_1
+      label: employee_support_intake_form_1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: select_one_employees
+      label: select_one_employees
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 3
+      name: select_multiple_employees
+      label: select_multiple_employees
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 4
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: select_one_request_type
+      label: select_one_request_type
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 7
+      name: select_multiple_request_types
+      label: select_multiple_request_types
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

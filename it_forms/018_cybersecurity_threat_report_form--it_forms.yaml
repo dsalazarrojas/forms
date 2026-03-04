@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cybersecurity Threat Report Form
+    pages:
+    - id: 1
+      name: threat_description
+      label: threat_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: threat_type
+      label: threat_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: threat_severity
+      label: threat_severity
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: threat_frequency
+      label: threat_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: threat_source
+      label: threat_source
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: threat_summary
+      label: threat_summary
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: threat_recommendation
+      label: threat_recommendation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: threat_comments
+      label: threat_comments
+      hint: null
+      type: text
+      options: []
+      required: false

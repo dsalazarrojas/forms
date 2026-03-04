@@ -1,0 +1,91 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Civil Engineering Site Visit Leave Of Absence Form
+    pages:
+      - id: 1
+        name: employee_name
+        label: Employee name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: employee_id
+        label: Employee ID
+        hint: Internal identifier
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: site_visit_start
+        label: Site visit start date
+        hint: Date of departure
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: site_visit_end
+        label: Site visit end date
+        hint: Date of return
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: destination
+        label: Destination of site visit
+        hint: Location and site name
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: reason_for_leave
+        label: Reason for leave
+        hint: Brief description of purpose
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: supervisor_approval
+        label: Supervisor approval status
+        hint: To be completed by supervisor
+        type: select_one
+        options:
+          - Approved
+          - Pending
+          - Denied
+        required: true
+      - id: 8
+        name: contact_during_leave
+        label: Contact during leave
+        hint: Phone or email while away
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: safety_briefing_completed
+        label: Safety briefing completed
+        hint: Confirm site specific safety briefing
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 10
+        name: submission_date
+        label: Submission date
+        hint: Use today date
+        type: date
+        options: []
+        required: true

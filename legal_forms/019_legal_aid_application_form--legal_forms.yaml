@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legal Aid Application Form
+    pages:
+    - id: 1
+      name: legal_aid_application_form
+      label: Legal Aid Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: applicant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: legal_problem_description
+      label: legal_problem_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: legal_problems
+      label: legal_problems
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: contact_address
+      label: contact_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: law_firm_name
+      label: law_firm_name
+      hint: null
+      type: text
+      options: []
+      required: false

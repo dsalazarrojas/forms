@@ -1,0 +1,204 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Child Development Progress Report
+    pages:
+      - id: 1
+        name: report_date
+        label: Report Date
+        hint: Date of progress report
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: reporting_period_start
+        label: Reporting Period Start Date
+        hint: Start date of the reporting period
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: reporting_period_end
+        label: Reporting Period End Date
+        hint: End date of the reporting period
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: student_first_name
+        label: Student First Name
+        hint: Legal first name of the student
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: student_last_name
+        label: Student Last Name
+        hint: Legal last name of the student
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: student_date_of_birth
+        label: Student Date of Birth
+        hint: Please provide the student's birth date
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: grade_level
+        label: Grade Level
+        hint: Current grade level of the student
+        type: select_one
+        options:
+          - Kindergarten
+          - 1st Grade
+          - 2nd Grade
+          - 3rd Grade
+          - 4th Grade
+          - 5th Grade
+          - 6th Grade
+          - 7th Grade
+          - 8th Grade
+          - 9th Grade
+          - 10th Grade
+          - 11th Grade
+          - 12th Grade
+        required: true
+      - id: 8
+        name: teacher_name
+        label: Teacher Name
+        hint: Name of the reporting teacher
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: cognitive_development
+        label: Cognitive Development Rating
+        hint: Rate the student's cognitive development progress
+        type: select_one
+        options:
+          - Exceeds expectations
+          - Meets expectations
+          - Approaching expectations
+          - Below expectations
+          - Not observed
+        required: true
+      - id: 10
+        name: cognitive_development_comments
+        label: Cognitive Development Comments
+        hint: Additional comments on cognitive development
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: social_development
+        label: Social Development Rating
+        hint: Rate the student's social development progress
+        type: select_one
+        options:
+          - Exceeds expectations
+          - Meets expectations
+          - Approaching expectations
+          - Below expectations
+          - Not observed
+        required: true
+      - id: 12
+        name: social_development_comments
+        label: Social Development Comments
+        hint: Additional comments on social development
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: emotional_development
+        label: Emotional Development Rating
+        hint: Rate the student's emotional development progress
+        type: select_one
+        options:
+          - Exceeds expectations
+          - Meets expectations
+          - Approaching expectations
+          - Below expectations
+          - Not observed
+        required: true
+      - id: 14
+        name: emotional_development_comments
+        label: Emotional Development Comments
+        hint: Additional comments on emotional development
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: physical_development
+        label: Physical Development Rating
+        hint: Rate the student's physical development progress
+        type: select_one
+        options:
+          - Exceeds expectations
+          - Meets expectations
+          - Approaching expectations
+          - Below expectations
+          - Not observed
+        required: true
+      - id: 16
+        name: physical_development_comments
+        label: Physical Development Comments
+        hint: Additional comments on physical development
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: language_development
+        label: Language Development Rating
+        hint: Rate the student's language development progress
+        type: select_one
+        options:
+          - Exceeds expectations
+          - Meets expectations
+          - Approaching expectations
+          - Below expectations
+          - Not observed
+        required: true
+      - id: 18
+        name: language_development_comments
+        label: Language Development Comments
+        hint: Additional comments on language development
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: goals_for_next_period
+        label: Goals for Next Reporting Period
+        hint: List key goals for the student's continued development
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: parent_teacher_conference_needed
+        label: Parent-Teacher Conference Needed
+        hint: Is a parent-teacher conference recommended?
+        type: select_one
+        options:
+          - Yes, urgently
+          - Yes, when convenient
+          - No, not at this time
+        required: true
+      - id: 21
+        name: additional_notes
+        label: Additional Notes
+        hint: Any additional notes or observations
+        type: text
+        options: []
+        required: false

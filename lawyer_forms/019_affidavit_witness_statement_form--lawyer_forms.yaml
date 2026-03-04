@@ -1,0 +1,278 @@
+inputSchema:
+  type: object
+  properties:
+    title: Affidavit Witness Statement Form
+    pages:
+    - id: 1
+      name: witness_information_section
+      label: Witness Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: witness_full_name
+      label: Full Name
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: witness_address
+      label: Address
+      hint: Your current residential or mailing address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: witness_city_state_zip
+      label: City, State, ZIP Code
+      hint: City, state, and ZIP code of your address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: witness_phone
+      label: Phone Number
+      hint: Your primary phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: witness_email
+      label: Email Address
+      hint: Your email address for communication
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: witness_occupation
+      label: Occupation
+      hint: Your current occupation or profession
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: case_information_section
+      label: Case Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: case_number
+      label: Case Number
+      hint: Court case number (if known)
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: case_name
+      label: Case Name
+      hint: Name of the legal case
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: court_name
+      label: Court Name
+      hint: Name of the court where the case is being heard
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: attorney_representing
+      label: Attorney Representing
+      hint: Name of the attorney requesting this affidavit
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_details_section
+      label: Incident Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: incident_date
+      label: Date of Incident
+      hint: Date when the event witnessed occurred
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: incident_time
+      label: Time of Incident
+      hint: Approximate time when the event occurred
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: incident_location
+      label: Location of Incident
+      hint: Specific location where the event occurred
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: parties_involved
+      label: Parties Involved
+      hint: Names of individuals involved in the incident
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: witness_statement_section
+      label: Witness Statement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: factual_account
+      label: Factual Account of Events
+      hint: Provide a detailed account of what you witnessed
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: observations_details
+      label: Observations and Details
+      hint: Any additional observations or details about the incident
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: witness_capacity
+      label: Capacity as Witness
+      hint: How do you know the parties involved or why were you present?
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: relationship_to_parties
+      label: Relationship to Parties
+      hint: Your relationship to any of the parties involved
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: statement_accuracy_section
+      label: Statement Accuracy
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: truthfulness_declaration
+      label: Truthfulness Declaration
+      hint: I declare under penalty of perjury that the statements made in this affidavit
+        are true and correct
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: personal_knowledge_declaration
+      label: Personal Knowledge Declaration
+      hint: I declare that the facts stated in this affidavit are based on my personal
+        knowledge
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: ability_to_observe
+      label: Ability to Observe
+      hint: I declare that I was in a position to observe the events described and
+        that my senses were unimpaired
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: no_interest_declaration
+      label: No Interest Declaration
+      hint: I declare that I have no interest in the outcome of this case that would
+        influence my testimony
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 28
+      name: additional_information_section
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: additional_relevant_information
+      label: Additional Relevant Information
+      hint: Any other information that may be relevant to the case
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: attachments_documents
+      label: Attachments or Documents
+      hint: List any documents or evidence attached to this affidavit
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: oath_administration_section
+      label: Oath Administration
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: notary_public_section
+      label: Notary Public Section
+      hint: To be completed by a notary public
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: notary_signature
+      label: Notary Signature
+      hint: Signature of the notary public
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: notary_seal
+      label: Notary Seal
+      hint: Notary seal applied
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 35
+      name: notarization_date
+      label: Date of Notarization
+      hint: Date when the affidavit was notarized
+      type: date
+      options: []
+      required: false
+    - id: 36
+      name: witness_signature
+      label: Witness Signature
+      hint: Signature of the witness
+      type: text
+      options: []
+      required: true
+    - id: 37
+      name: signature_date
+      label: Date of Signature
+      hint: Date when the affidavit is signed
+      type: date
+      options: []
+      required: true

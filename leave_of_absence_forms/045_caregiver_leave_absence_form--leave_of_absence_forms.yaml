@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Caregiver Leave Absence Form
+    pages:
+    - id: 1
+      name: caregiver_name
+      label: Caregiver Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department_facility
+      label: Department or Facility
+      hint: Where you work
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: request_date
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: leave_type
+      label: Type of Leave Requested
+      hint: What kind of absence?
+      type: select_one
+      options:
+      - Sick leave - personal illness
+      - Sick leave - family member illness
+      - Personal leave or personal day
+      - Vacation or annual leave
+      - Bereavement leave
+      - Family medical leave
+      - Unpaid leave
+      - Parental leave
+      - Sabbatical
+      - Other leave
+      required: true
+    - id: 6
+      name: leave_start_date
+      label: Leave Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: leave_end_date
+      label: Leave End Date
+      hint: Expected return to work
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: total_days
+      label: Total Days of Leave Requested
+      hint: Number of working days
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: reason_for_leave
+      label: Reason for Leave
+      hint: Explain reason for absence
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: leave_details
+      label: Additional Details
+      hint: More specific information if needed
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: prior_notice_days
+      label: Notice Given in Advance
+      hint: How many days before leave?
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: coverage_arranged
+      label: Coverage or Replacement Arranged?
+      hint: Have you arranged for someone to cover your shifts?
+      type: select_one
+      options:
+      - Yes - coverage confirmed
+      - Partially - some shifts covered
+      - No - will be arranged by management
+      - N/A - not applicable
+      required: true
+    - id: 13
+      name: coverage_person
+      label: Replacement Caregiver Name
+      hint: If you arranged coverage
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: handover_completed
+      label: Patient Care Handover Completed
+      hint: Have you briefed replacement on patient needs?
+      type: select_one
+      options:
+      - Yes - handover completed
+      - Partial - partial handover
+      - Pending - will complete before leave
+      - N/A - no replacement arranged
+      required: false
+    - id: 15
+      name: documentation_provided
+      label: Patient Care Documentation Updated
+      hint: Patient care information current?
+      type: select_one
+      options:
+      - Yes - all documentation current
+      - Partially - some updates made
+      - No - will update before leave
+      - N/A - not applicable
+      required: false
+    - id: 16
+      name: emergency_contact
+      label: Emergency Contact During Absence
+      hint: How to reach you if urgent?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_certification
+      label: Medical Certification Required?
+      hint: Doctor's note or certification provided?
+      type: select_one
+      options:
+      - Not required for this leave
+      - Required - will provide
+      - Attached - provided with form
+      - Pending - will submit later
+      required: true
+    - id: 18
+      name: fmla_eligible
+      label: FMLA Eligible (if applicable)
+      hint: Family Medical Leave Act eligibility
+      type: select_one
+      options:
+      - Yes - aware of FMLA protections
+      - No - not applicable
+      - Unsure - need information
+      required: false
+    - id: 19
+      name: paid_unpaid
+      label: Paid or Unpaid Leave
+      hint: Will this be paid time off?
+      type: select_one
+      options:
+      - Paid leave
+      - Unpaid leave
+      - Partial pay
+      - To be determined by HR
+      required: true
+    - id: 20
+      name: benefits_continuation
+      label: Benefits Continuation During Leave
+      hint: Will benefits continue?
+      type: select_one
+      options:
+      - Benefits continue during leave
+      - Benefits suspended during unpaid leave
+      - Unsure - need clarification
+      required: false
+    - id: 21
+      name: return_to_work_date
+      label: Expected Return to Work Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: return_full_duty
+      label: Return to Full Duty?
+      hint: Will you be able to return to full duties?
+      type: select_one
+      options:
+      - Yes - full return
+      - Partial return - phased return
+      - Modified duties - will need adjustments
+      - TBD - will confirm closer to date
+      required: false
+    - id: 23
+      name: manager_approval
+      label: Manager Name for Approval
+      hint: Supervisor or manager authorizing leave
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: additional_notes
+      label: Additional Notes or Comments
+      hint: Any other information needed?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: acknowledgment
+      label: I Acknowledge Understanding of Leave Policies
+      hint: Confirm you understand policies
+      type: select_one
+      options:
+      - Yes - I understand leave policies
+      - No - need clarification
+      required: true

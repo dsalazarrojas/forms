@@ -1,0 +1,301 @@
+inputSchema:
+  type: object
+  properties:
+    title: Collaborator Data Set Upload Form
+    pages:
+    - id: 1
+      name: contributor_name
+      label: Contributor Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contributor_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contributor_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: institution
+      label: Institution or Organization
+      hint: Your affiliation
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: role
+      label: Your Role
+      hint: Position or title
+      type: select_one
+      options:
+      - Principal Investigator
+      - Co-Investigator
+      - Research Assistant
+      - Data Manager
+      - Graduate Student
+      - Postdoctoral Fellow
+      - Research Staff
+      - External Collaborator
+      - Other
+      required: true
+    - id: 7
+      name: project_name
+      label: Research Project Name
+      hint: Name of the project
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: project_id
+      label: Project ID Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: dataset_title
+      label: Dataset Title
+      hint: Name of dataset
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: dataset_description
+      label: Dataset Description
+      hint: Describe the dataset
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: data_type
+      label: Type of Data
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Numerical Data
+      - Text Data
+      - Images
+      - Audio Files
+      - Video Files
+      - Genomic Data
+      - Clinical Data
+      - Survey Data
+      - Sensor Data
+      - Geospatial Data
+      - Other
+      required: true
+    - id: 12
+      name: data_format
+      label: Data Format
+      hint: File format
+      type: select_one
+      options:
+      - CSV
+      - Excel
+      - JSON
+      - XML
+      - SQL Database
+      - HDF5
+      - NetCDF
+      - DICOM
+      - TIFF
+      - PNG
+      - JPEG
+      - MP4
+      - WAV
+      - Other
+      required: true
+    - id: 13
+      name: file_upload
+      label: Upload Data Files
+      hint: Attach your files
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: file_size
+      label: Total File Size
+      hint: In MB or GB
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: number_of_files
+      label: Number of Files
+      hint: How many files
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: data_collection_method
+      label: Data Collection Method
+      hint: How was data collected
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: data_collection_dates
+      label: Data Collection Dates
+      hint: Start and end dates
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: data_location
+      label: Data Collection Location
+      hint: Where was data collected
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: sample_size
+      label: Sample Size
+      hint: Number of records or subjects
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: variables_count
+      label: Number of Variables
+      hint: How many variables
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: data_quality_checks
+      label: Data Quality Checks Performed
+      hint: What validation was done
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: missing_data
+      label: Missing Data Handling
+      hint: How were missing values handled
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: sensitive_data
+      label: Contains Sensitive Data
+      hint: PII or confidential info
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: data_use_agreement
+      label: Data Use Agreement Required
+      hint: Is agreement needed
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: true
+    - id: 25
+      name: access_level
+      label: Access Level
+      hint: Who can access
+      type: select_one
+      options:
+      - Public
+      - Project Team Only
+      - Institution Only
+      - Restricted
+      - Embargoed
+      required: true
+    - id: 26
+      name: embargo_date
+      label: Embargo End Date
+      hint: When can data be shared
+      type: date
+      options: []
+      required: false
+    - id: 27
+      name: documentation_included
+      label: Documentation Included
+      hint: Readme or codebook
+      type: select_one
+      options:
+      - Yes Complete
+      - Yes Partial
+      - false
+      - Will Submit Later
+      required: true
+    - id: 28
+      name: documentation_upload
+      label: Upload Documentation
+      hint: Attach files
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: codebook_available
+      label: Codebook Available
+      hint: Variable definitions
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 30
+      name: related_publications
+      label: Related Publications
+      hint: Any papers using this data
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: funding_source
+      label: Funding Source
+      hint: Grant or funding info
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: license_preference
+      label: Data License Preference
+      hint: How can data be used
+      type: select_one
+      options:
+      - CC0 Public Domain
+      - CC BY Attribution
+      - CC BY-SA ShareAlike
+      - CC BY-NC NonCommercial
+      - MIT License
+      - Apache License
+      - Custom License
+      - Restricted
+      required: true
+    - id: 33
+      name: citation_preference
+      label: Citation Preference
+      hint: How should data be cited
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information
+      type: text
+      options: []
+      required: false

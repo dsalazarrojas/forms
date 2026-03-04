@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: IP Backup Processing Survey
+    pages:
+    - id: 1
+      name: survey_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: backup_frequency
+      label: backup_frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: backup_location
+      label: backup_location
+      hint: null
+      type: select_one
+      options:
+      - On-premises
+      - Off-premises
+      - Cloud
+      required: false
+    - id: 4
+      name: backup_schedule
+      label: backup_schedule
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      required: false
+    - id: 5
+      name: backup_type
+      label: backup_type
+      hint: null
+      type: select_one
+      options:
+      - Manual
+      - Automated
+      required: true
+    - id: 6
+      name: team_involved
+      label: team_involved
+      hint: null
+      type: select_multiple
+      options:
+      - Team A
+      - Team B
+      - Team C
+      required: false
+    - id: 7
+      name: recovery_frequency
+      label: recovery_frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - IT
+      - Finance
+      required: true
+    - id: 12
+      name: assigned_by
+      label: assigned_by
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Team Lead
+      required: true

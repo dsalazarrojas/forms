@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: security_group_ingress_authorization_request_form
+    pages:
+    - id: 1
+      name: security_group_ingress_authorization_request_form_1
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: requestor_name
+      label: Requestor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: requestor_email
+      label: Requestor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: request_description
+      label: Request Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: security_group
+      label: Security Group
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: access_type
+      label: Access Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: approved_at
+      label: Approved At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: approved_by_name
+      label: Approved By Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: requestor_notes
+      label: Requestor Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: security_group_notes
+      label: Security Group Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: access_level
+      label: Access Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 13
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: request_comments
+      label: Request Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: security_group_comments
+      label: Security Group Comments
+      hint: null
+      type: text
+      options: []
+      required: false

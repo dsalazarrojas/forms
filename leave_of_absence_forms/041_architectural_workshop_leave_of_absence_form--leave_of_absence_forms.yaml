@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: Architectural Workshop Leave Of Absence Form
+    pages:
+    - id: 1
+      name: section_participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_id
+      label: Participant or Student ID
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_workshop
+      label: -- Workshop Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: workshop_name
+      label: Workshop Name
+      hint: Name of the workshop
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: workshop_dates
+      label: Workshop Dates
+      hint: Start and end dates
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: instructor_name
+      label: Instructor or Coordinator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_absence
+      label: -- Absence Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: absence_start_date
+      label: Absence Start Date
+      hint: First day of absence
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: absence_end_date
+      label: Absence End Date
+      hint: Last day of absence
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: total_absence_days
+      label: Total Days of Absence
+      hint: Number of workshop days missed
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: absence_type
+      label: Type of Absence
+      hint: null
+      type: select_one
+      options:
+      - Personal emergency
+      - Family emergency
+      - Illness
+      - Work conflict
+      - Travel conflict
+      - Other
+      required: true
+    - id: 15
+      name: reason_description
+      label: Reason for Absence
+      hint: Detailed explanation
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: section_documentation
+      label: -- Supporting Documentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: documentation_available
+      label: Documentation available
+      hint: Doctor's note, proof of emergency, etc
+      type: select_one
+      options:
+      - true
+      - false
+      - Will provide later
+      required: false
+    - id: 18
+      name: documentation_type
+      label: Type of Documentation
+      hint: What documentation supports this?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_makeup
+      label: -- Make-Up Plan --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: makeup_work_plan
+      label: Plan to Make Up Work
+      hint: How will you catch up?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: can_attend_makeup
+      label: Can attend scheduled make-up sessions
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: false
+    - id: 22
+      name: request_date
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Database Storage Limit Increase Request Form
+    pages:
+    - id: 1
+      name: database_storage_limit_increase_form
+      label: Database Storage Limit Increase Request Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: team_leader
+      label: Team Leader
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: required_storage_limit
+      label: Required Storage Limit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: current_storage_limit
+      label: Current Storage Limit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: proposed_storage_limit
+      label: Proposed Storage Limit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: database_size
+      label: Database Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: database_type
+      label: Database Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''SQL''}'
+      - '{''id'': 2, ''label'': ''NoSQL''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 9
+      name: database_name
+      label: Database Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reason_for_request
+      label: Reason for Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: expected_completion_date
+      label: Expected Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false

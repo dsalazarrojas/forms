@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mobile Phone Service Application Form
+    pages:
+    - id: 1
+      name: carrier_id
+      label: Carrier
+      hint: null
+      type: select_one
+      options:
+      - Carrier 1
+      - Carrier 2
+      - Carrier 3
+      required: false
+    - id: 2
+      name: service_request_id
+      label: Service Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: plan_selection_id
+      label: Plan Selection
+      hint: null
+      type: select_multiple
+      options:
+      - Plan 1
+      - Plan 2
+      - Plan 3
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

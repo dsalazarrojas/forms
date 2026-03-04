@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Leadership Assessment For Early Education
+    pages:
+    - id: 1
+      name: introduction
+      label: What is your name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: school_name
+      label: What is your school name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: role
+      label: What is your role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: leadership_skills
+      label: Which leadership skills do you have?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: years_of_experience
+      label: How many years of experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: score
+      label: What is your leadership score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: submission_date
+      label: Submission date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: submission_time
+      label: Submission time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_number
+      label: Contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submission_comments
+      label: Submission comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: submission_status
+      label: Submission status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 14
+      name: submission_status_other
+      label: Submission status other
+      hint: null
+      type: text
+      options: []
+      required: false

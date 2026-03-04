@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Internal Career Growth Application Form
+    pages:
+    - id: 1
+      name: page1
+      label: Employee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page2
+      label: Motivation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: page3
+      label: Skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: page4
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: page5
+      label: Employee Motivations
+      hint: null
+      type: text
+      options: []
+      required: false

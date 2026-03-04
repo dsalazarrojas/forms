@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dictionary Lookup Request Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dictionary_name
+      label: Dictionary Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: request_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: request_term
+      label: Request Term
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: language
+      label: Language
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: translation
+      label: Translation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: definition
+      label: Definition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: request_follow_up
+      label: Follow-up
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

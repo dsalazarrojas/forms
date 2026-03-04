@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: SOP Acknowledgement Form
+    pages:
+    - id: 1
+      name: security_agency
+      label: Security Agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: security_personnel
+      label: Security Personnel
+      hint: null
+      type: select_one
+      options:
+      - Security Head
+      - Team Member
+      - Support Staff
+      required: false
+    - id: 3
+      name: sops_acknowledged
+      label: SOPS Acknowledged
+      hint: null
+      type: select_multiple
+      options:
+      - SOP1
+      - SOP2
+      - SOP3
+      required: false
+    - id: 4
+      name: sops_not_acknowledged
+      label: SOPS Not Acknowledged
+      hint: null
+      type: select_multiple
+      options:
+      - SOP4
+      - SOP5
+      required: false
+    - id: 5
+      name: manual_reviewed
+      label: Manual Reviewed
+      hint: null
+      type: select_multiple
+      options:
+      - Section 1
+      - Section 2
+      - Section 3
+      required: false
+    - id: 6
+      name: manual_understood
+      label: Manual Understood
+      hint: null
+      type: select_multiple
+      options:
+      - Clause 1
+      - Clause 2
+      - Clause 3
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: Describe any comments you have about this assessment
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: shift
+      label: Shift
+      hint: null
+      type: select_one
+      options:
+      - Morning Shift
+      - Afternoon Shift
+      - Evening Shift
+      required: false
+    - id: 16
+      name: shift_start_time
+      label: Shift Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: shift_end_time
+      label: Shift End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: hours_worked
+      label: Hours Worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: break_time
+      label: Break Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: lunch_break
+      label: Lunch Break
+      hint: null
+      type: select_multiple
+      options:
+      - Regular Break
+      - Long Break
+      - Extended Break
+      required: false
+    - id: 21
+      name: overtime_hours
+      label: Overtime Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: supervisor_comments
+      label: Supervisor Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: employee_comments
+      label: Employee Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: approved
+      label: Approved
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Pending
+      required: false

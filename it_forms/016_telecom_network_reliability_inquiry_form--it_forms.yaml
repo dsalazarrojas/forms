@@ -1,0 +1,108 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: telecom_network_reliability_inquiry_form
+    pages:
+    - id: 1
+      name: location
+      label: What is your prophets location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_start_time
+      label: Incident start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: incident_end_time
+      label: Incident end time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: issue_description
+      label: Describe the issue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: issue_priority
+      label: Issue priority level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 6
+      name: issue_type
+      label: Issue type
+      hint: null
+      type: select_one
+      options:
+      - Network Outage
+      - Equipment Issue
+      - Customer Issue
+      - Other
+      required: false
+    - id: 7
+      name: issue_category
+      label: Issue category
+      hint: null
+      type: select_one
+      options:
+      - Power and Energy
+      - Connectivity
+      - Voice Services
+      - Data Services
+      required: false
+    - id: 8
+      name: location_services_affected
+      label: Location of services affected
+      hint: null
+      type: select_multiple
+      options:
+      - Mobile
+      - Fixed
+      - Data
+      - Voice
+      required: false
+    - id: 9
+      name: network_services_affected
+      label: Network services affected
+      hint: null
+      type: select_multiple
+      options:
+      - Mobile
+      - Fixed
+      - Data
+      - Voice
+      required: false
+    - id: 10
+      name: incident_status
+      label: Incident status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Resolved
+      - Pending
+      required: false

@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anti Steering Disclosure Form
+    pages:
+    - id: 1
+      name: disclosure_date
+      label: Disclosure date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: loan_officer_name
+      label: Loan officer name
+      hint: Name of lending professional
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: borrower_name
+      label: Borrower name
+      hint: Full name of loan applicant
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: borrower_email
+      label: Borrower email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: property_address
+      label: Property address
+      hint: Address of property being financed
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: loan_type
+      label: Type of loan
+      hint: Select loan category
+      type: select_one
+      options:
+      - FHA
+      - VA
+      - USDA
+      - Conventional
+      - Jumbo
+      - Portfolio
+      required: true
+    - id: 7
+      name: loan_purpose
+      label: Purpose of loan
+      hint: null
+      type: select_one
+      options:
+      - Purchase
+      - Refinance
+      - Cash-out refinance
+      - Construction
+      - Other
+      required: true
+    - id: 8
+      name: estimated_loan_amount
+      label: Estimated loan amount
+      hint: In dollars
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: credit_score_range
+      label: Borrower credit score range
+      hint: Approximate range only
+      type: select_one
+      options:
+      - Excellent (750+)
+      - Good (700-749)
+      - Fair (650-699)
+      - Poor (below 650)
+      - Not yet determined
+      required: true
+    - id: 10
+      name: loan_products_discussed
+      label: Which loan products were presented and discussed?
+      hint: Select all presented options
+      type: select_multiple
+      options:
+      - Fixed rate 15-year
+      - Fixed rate 30-year
+      - Adjustable rate ARM
+      - Interest-only loans
+      - Government-backed options
+      - Portfolio programs
+      required: true
+    - id: 11
+      name: rate_terms_explained
+      label: Were rates and terms fully explained?
+      hint: null
+      type: select_one
+      options:
+      - Yes, thoroughly
+      - Yes, adequately
+      - Partially explained
+      - false
+      required: true
+    - id: 12
+      name: steering_awareness
+      label: Borrower understands anti-steering policy
+      hint: null
+      type: select_one
+      options:
+      - Yes, acknowledged
+      - Yes, but needs clarification
+      - No, needs explanation
+      required: true
+    - id: 13
+      name: loan_options_recommended
+      label: Recommended loan option
+      hint: Select the recommended product
+      type: select_one
+      options:
+      - Fixed rate 15-year
+      - Fixed rate 30-year
+      - Adjustable rate ARM
+      - Interest-only loan
+      - Government-backed program
+      - Other
+      required: true
+    - id: 14
+      name: recommendation_basis
+      label: Basis for recommendation
+      hint: Why is this option recommended?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: borrower_accepts_recommendation
+      label: Does borrower accept the recommended option?
+      hint: null
+      type: select_one
+      options:
+      - Yes, accepted
+      - No, prefers different option
+      - Undecided
+      required: true
+    - id: 16
+      name: alternative_considered
+      label: If declined, which alternative preferred?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: borrower_questions
+      label: Were all borrower questions answered?
+      hint: null
+      type: select_one
+      options:
+      - Yes, completely
+      - Yes, most addressed
+      - Some questions remain
+      - false
+      required: true
+    - id: 18
+      name: borrower_acknowledgment
+      label: Borrower acknowledges receipt of disclosure
+      hint: null
+      type: select_one
+      options:
+      - Yes, signed
+      - Yes, digital acknowledgment
+      - Pending signature
+      required: true
+    - id: 19
+      name: additional_notes
+      label: Additional notes or disclosures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_date
+      label: Follow-up appointment scheduled
+      hint: null
+      type: date
+      options: []
+      required: false

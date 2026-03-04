@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Laboratory Equipment Inspection Form
+    pages:
+    - id: 1
+      name: user_name
+      label: user name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_id
+      label: equipment id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: equipment_condition
+      label: equipment condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: maintenance_status
+      label: maintenance status
+      hint: null
+      type: select_one
+      options:
+      - Scheduled
+      - Unscheduled
+      - None
+      required: false
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: inspection_date
+      label: inspection date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: inspection_time
+      label: inspection time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: last_maintenance_date
+      label: last maintenance date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: last_maintenance_status
+      label: last maintenance status
+      hint: null
+      type: select_one
+      options:
+      - Scheduled
+      - Unscheduled
+      - None
+      required: false
+    - id: 10
+      name: next_maintenance_date
+      label: next maintenance date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: next_maintenance_status
+      label: next maintenance status
+      hint: null
+      type: select_one
+      options:
+      - Scheduled
+      - Unscheduled
+      - None
+      required: false
+    - id: 12
+      name: equipment_model
+      label: equipment model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: equipment_make
+      label: equipment make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: equipment_serial_number
+      label: equipment serial number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: equipment_description
+      label: equipment description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: inspection_responsible_person
+      label: inspection responsible person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: maintenance_responsible_person
+      label: maintenance responsible person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: equipment_type
+      label: equipment type
+      hint: null
+      type: select_one
+      options:
+      - General Laboratory Equipment
+      - Specialized Equipment
+      - Other
+      required: false
+    - id: 20
+      name: equipment_category
+      label: equipment category
+      hint: null
+      type: select_one
+      options:
+      - General Equipment
+      - Specialized Equipment
+      - Other
+      required: false
+    - id: 21
+      name: last_user
+      label: last user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: last_updated
+      label: last updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: equipment_status
+      label: equipment status
+      hint: null
+      type: select_one
+      options:
+      - In Good Condition
+      - In Fair Condition
+      - In Poor Condition
+      - Maintenance Required
+      - Maintenance Needed Soon
+      - Maintenance Scheduled
+      - Maintenance Required
+      required: false
+    - id: 24
+      name: maintenance_frequency
+      label: maintenance frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Every 1 day
+      - Every 1 week
+      - Every 1 month
+      - Every 6 months
+      - Every 1 year
+      required: false
+    - id: 25
+      name: assigned_to
+      label: assigned to
+      hint: null
+      type: text
+      options: []
+      required: false

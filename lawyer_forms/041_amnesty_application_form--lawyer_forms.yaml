@@ -1,0 +1,610 @@
+inputSchema:
+  type: object
+  properties:
+    title: Amnesty Application Form
+    pages:
+    - id: 1
+      name: section_introduction
+      label: -- Amnesty Application Form --
+      hint: This form is for offenders seeking amnesty. Please complete all sections
+        truthfully and accurately.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: application_number
+      label: Application Number
+      hint: For office use only
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: section_applicant_info
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: middle_name
+      label: Middle Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: suffix
+      label: Name Suffix
+      hint: Jr, Sr, III, etc.
+      type: select_one
+      options:
+      - None
+      - Jr
+      - Sr
+      - II
+      - III
+      - Other
+      required: false
+    - id: 9
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: place_of_birth
+      label: Place of Birth
+      hint: City and country
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: nationality
+      label: Nationality
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: id_number
+      label: National ID/Passport Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_contact_info
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: street_address
+      label: Street Address
+      hint: Current residence
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: state_province
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: zip_postal
+      label: ZIP/Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: section_offense_info
+      label: -- Offense Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: offense_type
+      label: Type of Offense
+      hint: null
+      type: select_one
+      options:
+      - Misdemeanor
+      - Felony
+      - Traffic violation
+      - Drug-related
+      - Financial crime
+      - Violent crime
+      - Other
+      required: true
+    - id: 23
+      name: offense_description
+      label: Detailed Description of Offense
+      hint: What happened
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: offense_date
+      label: Date of Offense
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: offense_location
+      label: Location of Offense
+      hint: City and jurisdiction
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: case_number
+      label: Case/Docket Number
+      hint: If assigned
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: court_name
+      label: Court Name
+      hint: Where case was/will be heard
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: section_admission
+      label: -- Admission of Guilt --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: admitting_guilt
+      label: Do You Admit to Committing This Offense
+      hint: null
+      type: select_one
+      options:
+      - Yes - I admit full responsibility
+      - Yes - I admit partial responsibility
+      - No - I do not admit guilt
+      required: true
+    - id: 30
+      name: admission_statement
+      label: Statement of Admission
+      hint: Describe your role in the offense
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: accomplices
+      label: Were There Any Accomplices
+      hint: null
+      type: select_one
+      options:
+      - No - I acted alone
+      - Yes - Names provided below
+      - Yes - Prefer not to disclose
+      required: false
+    - id: 32
+      name: accomplices_detail
+      label: Accomplice Information
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: section_motivation
+      label: -- Motivation and Circumstances --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: motivation
+      label: What Motivated the Offense
+      hint: Explain circumstances
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: contributing_factors
+      label: Contributing Factors
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Financial hardship
+      - Substance abuse
+      - Mental health issues
+      - Peer pressure
+      - Family circumstances
+      - Lack of education
+      - Unemployment
+      - Other
+      required: false
+    - id: 36
+      name: prior_offenses
+      label: Have You Committed Similar Offenses Before
+      hint: null
+      type: select_one
+      options:
+      - No - First offense
+      - Yes - Minor offenses
+      - Yes - Similar offenses
+      - Yes - Multiple offenses
+      required: true
+    - id: 37
+      name: prior_offenses_detail
+      label: Describe Prior Offenses
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: section_acceptance
+      label: -- Acceptance of Punishment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 39
+      name: accepting_punishment
+      label: Do You Accept the Proposed Punishment
+      hint: null
+      type: select_one
+      options:
+      - Yes - I fully accept
+      - Yes - With conditions
+      - No - I do not accept
+      required: true
+    - id: 40
+      name: punishment_understanding
+      label: Do You Understand the Consequences
+      hint: null
+      type: select_one
+      options:
+      - Yes - Fully understood
+      - Yes - Partially understood
+      - No - Need clarification
+      required: true
+    - id: 41
+      name: proposed_punishment
+      label: Proposed Punishment/Sentence
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: willingness_comply
+      label: Willingness to Comply with Conditions
+      hint: null
+      type: select_one
+      options:
+      - Yes - Willing to comply fully
+      - Yes - Willing with modifications
+      - No - Unable to comply
+      required: true
+    - id: 43
+      name: section_restitution
+      label: -- Restitution --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 44
+      name: restitution_required
+      label: Is Restitution Required
+      hint: null
+      type: select_one
+      options:
+      - No - Not applicable
+      - Yes - Already paid
+      - Yes - Willing to pay
+      - Yes - Need payment plan
+      required: false
+    - id: 45
+      name: restitution_amount
+      label: Restitution Amount
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 46
+      name: restitution_plan
+      label: Proposed Restitution Plan
+      hint: How will you pay
+      type: text
+      options: []
+      required: false
+    - id: 47
+      name: section_rehabilitation
+      label: -- Rehabilitation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 48
+      name: rehabilitation_completed
+      label: Have You Completed Any Rehabilitation Programs
+      hint: null
+      type: select_one
+      options:
+      - No - Not yet
+      - Yes - Substance abuse program
+      - Yes - Counseling
+      - Yes - Community service
+      - Yes - Educational program
+      - Yes - Other
+      required: false
+    - id: 49
+      name: rehabilitation_detail
+      label: Describe Rehabilitation
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 50
+      name: future_commitment
+      label: Commitment to Future Compliance
+      hint: What will you do to avoid reoffending
+      type: text
+      options: []
+      required: true
+    - id: 51
+      name: section_support
+      label: -- Support System --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 52
+      name: family_support
+      label: Do You Have Family Support
+      hint: null
+      type: select_one
+      options:
+      - Yes - Strong support
+      - Yes - Some support
+      - No - Limited support
+      - No - No support
+      required: false
+    - id: 53
+      name: employment_status
+      label: Current Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed full-time
+      - Employed part-time
+      - Self-employed
+      - Unemployed - Seeking
+      - Unemployed - Not seeking
+      - Student
+      - Retired
+      required: true
+    - id: 54
+      name: employer_name
+      label: Employer Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 55
+      name: section_legal_representation
+      label: -- Legal Representation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 56
+      name: legal_representation
+      label: Do You Have Legal Representation
+      hint: null
+      type: select_one
+      options:
+      - Yes - Attorney representing me
+      - No - Representing myself
+      - Seeking representation
+      required: true
+    - id: 57
+      name: attorney_name
+      label: Attorney Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 58
+      name: attorney_contact
+      label: Attorney Contact Information
+      hint: Phone and email
+      type: text
+      options: []
+      required: false
+    - id: 59
+      name: section_declaration
+      label: -- Declaration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 60
+      name: truthfulness_declaration
+      label: Truthfulness Declaration
+      hint: I declare this information is true
+      type: select_one
+      options:
+      - Yes - All information is true and accurate
+      - Yes - To the best of my knowledge
+      required: true
+    - id: 61
+      name: understanding_consequences
+      label: Understanding of False Statement Consequences
+      hint: null
+      type: select_one
+      options:
+      - Yes - I understand penalties for false statements
+      - Other
+      required: true
+    - id: 62
+      name: voluntary_application
+      label: Is This Application Voluntary
+      hint: null
+      type: select_one
+      options:
+      - Yes - Freely and voluntarily submitted
+      - Other
+      required: true
+    - id: 63
+      name: applicant_signature
+      label: Applicant Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 64
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 65
+      name: witness_name
+      label: Witness Name
+      hint: If required
+      type: text
+      options: []
+      required: false
+    - id: 66
+      name: witness_signature
+      label: Witness Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: false
+    - id: 67
+      name: notary_name
+      label: Notary Name
+      hint: If notarized
+      type: text
+      options: []
+      required: false
+    - id: 68
+      name: notary_signature
+      label: Notary Signature
+      hint: If notarized
+      type: text
+      options: []
+      required: false
+    - id: 69
+      name: section_office_use
+      label: -- For Office Use Only --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 70
+      name: application_status
+      label: Application Status
+      hint: null
+      type: select_one
+      options:
+      - Received
+      - Under review
+      - Approved
+      - Denied
+      - Pending additional information
+      required: false
+    - id: 71
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 72
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 73
+      name: decision
+      label: Decision
+      hint: null
+      type: select_one
+      options:
+      - Amnesty granted
+      - Amnesty denied
+      - Conditional amnesty
+      - Deferred decision
+      required: false
+    - id: 74
+      name: decision_reasons
+      label: Reasons for Decision
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 75
+      name: conditions
+      label: Conditions of Amnesty
+      hint: If applicable
+      type: text
+      options: []
+      required: false

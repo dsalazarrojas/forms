@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Chatbot Integration Registration Form
+    pages:
+    - id: 1
+      name: user_input_1
+      label: Retail Chatbot Integration Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_input_2
+      label: Business Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_input_1
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_input_1
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: integration_type_input_1
+      label: Integration Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: integration_requirements_input_1
+      label: Integration Requirements
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: vendor_or_agency_input_1
+      label: Vendor or Agency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: contact_name_input_1
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_email_input_1
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: contact_phone_input_1
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: integration_status_input_1
+      label: Integration Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 12
+      name: additional_comments_input_1
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

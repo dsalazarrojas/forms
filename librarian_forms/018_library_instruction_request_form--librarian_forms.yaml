@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Library Instruction Request Form
+    pages:
+    - id: 1
+      name: course_id
+      label: Course ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: instructor_id
+      label: Instructor ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: room
+      label: Room
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: librarian
+      label: Librarian
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: topic
+      label: Topic
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: assigned_librarian
+      label: Assigned Librarian
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: status
+      label: Status
+      hint: null
+      type: text
+      options: []
+      required: false

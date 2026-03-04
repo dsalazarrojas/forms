@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Calorie Protein Estimator
+    pages:
+    - id: 1
+      name: estimator_input_header
+      label: -- Personal Details for Estimation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: user_name_full
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email_lead
+      label: Your Email Address
+      hint: We will send your custom report here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: age_years
+      label: Your Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: biological_gender
+      label: Biological Gender
+      hint: Required for metabolic calculations
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 6
+      name: current_body_weight
+      label: Current Body Weight
+      hint: In pounds or kilograms
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: weight_unit
+      label: Weight Unit
+      hint: null
+      type: select_one
+      options:
+      - lbs
+      - kg
+      required: true
+    - id: 8
+      name: activity_level_est
+      label: Activity Level
+      hint: Select the one that best describes you
+      type: select_one
+      options:
+      - Sedentary (Little to no exercise)
+      - Lightly Active (1-3 days/week)
+      - Moderately Active (3-5 days/week)
+      - Very Active (6-7 days/week)
+      - Extra Active (Physical job + training)
+      required: true
+    - id: 9
+      name: fitness_goal
+      label: Primary Fitness Goal
+      hint: What do you want to achieve?
+      type: select_one
+      options:
+      - Lose Body Fat
+      - Build Muscle
+      - Maintain Current Weight
+      - Improve Athletic Performance
+      required: true
+    - id: 10
+      name: goal_intensity
+      label: Goal Intensity
+      hint: null
+      type: select_one
+      options:
+      - Conservative (Slow & Sustainable)
+      - Standard
+      - Aggressive (Short Term)
+      required: true
+    - id: 11
+      name: current_body_fat_est
+      label: Estimated Current Body Fat %
+      hint: Optional - use visual guides or scales
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: protein_preference
+      label: Dietary Preference - Protein
+      hint: null
+      type: select_one
+      options:
+      - Omnivore (High Protein)
+      - Vegetarian
+      - Vegan
+      - Paleo
+      - Keto
+      required: false
+    - id: 13
+      name: estimated_target_date
+      label: Desired Goal Achievement Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: lead_consent
+      label: Consent to Receive Fitness Tips
+      hint: null
+      type: select_one
+      options:
+      - Yes - sign me up!
+      - No - just the calculation please
+      required: true
+    - id: 15
+      name: calculation_disclaimer
+      label: -- Disclaimer --
+      hint: This is an estimation. Consult a physician before starting any new diet
+        or exercise plan.
+      type: note
+      options: []
+      required: false

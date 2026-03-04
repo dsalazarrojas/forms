@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Integrity Declaration Form
+    pages:
+    - id: 1
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: subsidiaries
+      label: Subsidiaries
+      hint: List all subsidiaries
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: shareholder_name
+      label: Shareholder Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: share_amount
+      label: Share Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: declaration
+      label: Declaration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: company_declaration
+      label: Company Declaration
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: shareholder_declaration
+      label: Shareholder Declaration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: declaration_status
+      label: Declaration Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Immigration Waiver Cover Letter Questionnaire
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: supporting_documents
+      label: Supporting documents
+      hint: Upload supporting documents such as passport, I-20 or I-94
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: waiver_status
+      label: Waiver status
+      hint: null
+      type: select_one
+      options:
+      - Waiver pending
+      - Waiver approved
+      - Waiver denied
+      - Waiver withdrawn
+      required: false
+    - id: 7
+      name: submission_date
+      label: Submission date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

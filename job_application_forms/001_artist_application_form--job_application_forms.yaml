@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artist Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Full Name
+      hint: Enter your legal full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: We will use this to contact you
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Include country code
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: artist_type
+      label: Primary Art Form
+      hint: Select your main artistic discipline
+      type: select_one
+      options:
+      - Painting
+      - Sculpture
+      - Photography
+      - Digital Art
+      - Mixed Media
+      - Installation
+      - Performance Art
+      required: true
+    - id: 5
+      name: years_of_experience
+      label: Years of Professional Experience
+      hint: How long have you been practicing professionally
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: artist_statement
+      label: Artist Statement
+      hint: Brief description of your artistic vision and practice
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: portfolio_website
+      label: Portfolio Website URL
+      hint: Link to your online portfolio or website
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: social_media_handle
+      label: Social Media Handle
+      hint: Instagram or other relevant platform
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: exhibition_history
+      label: Exhibition History
+      hint: List notable exhibitions or galleries where your work has been shown
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: artwork_samples
+      label: Upload Artwork Samples
+      hint: Upload 3-5 images of your recent work
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: demo_reel_link
+      label: Demo Reel or Video Link
+      hint: Optional link to video content
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: availability_start
+      label: Availability Start Date
+      hint: When can you begin the program or residency
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: references_count
+      label: Number of Professional References
+      hint: Provide at least 2 references
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: special_requirements
+      label: Special Requirements or Accommodations
+      hint: Any equipment or space needs for your work
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: terms_accepted
+      label: I Agree to Terms and Conditions
+      hint: By checking this you confirm all information is accurate
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

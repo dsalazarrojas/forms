@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: legal_case_records_release_form
+    pages:
+    - id: 1
+      name: case_number
+      label: Case Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: case_status
+      label: Case Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Closed
+      required: false
+    - id: 3
+      name: case_type
+      label: Case Type
+      hint: null
+      type: select_multiple
+      options:
+      - Criminal
+      - Civil
+      - Family
+      required: false
+    - id: 4
+      name: case_level
+      label: Case Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: case_date_opened
+      label: Case Date Opened
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: case_date_closed
+      label: Case Date Closed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: case_date_received
+      label: Case Date Received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: case_attorney
+      label: Case Attorney
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: case_court
+      label: Case Court
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: case_docket_number
+      label: Case Docket Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: authorized_by
+      label: Authorized By
+      hint: null
+      type: text
+      options: []
+      required: false

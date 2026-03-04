@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: South Jersey Babysitter Application Form
+    pages:
+    - id: 1
+      name: application_form
+      label: Application Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: availability
+      label: availability
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      - Other (Please specify)
+      required: true
+    - id: 3
+      name: experience
+      label: experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: education
+      label: education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: references
+      label: references
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: special_skills
+      label: special_skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: availability_details
+      label: availability_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: availability
+      label: availability
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: earliest_start_date
+      label: earliest_start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: latest_end_date
+      label: latest_end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: earliest_start_time
+      label: earliest_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: latest_end_time
+      label: latest_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: emergency_contact_relationship
+      label: emergency_contact_relationship
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: emergency_contact_phone
+      label: emergency_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_relationship_other
+      label: emergency_contact_relationship_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_relationship_job
+      label: emergency_contact_relationship_job
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact_relationship_other_phone
+      label: emergency_contact_relationship_other_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_relationship_other_email
+      label: emergency_contact_relationship_other_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_relationship_other_phone
+      label: emergency_contact_relationship_other_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emergency_contact_relationship_other_email
+      label: emergency_contact_relationship_other_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact_relationship_other_phone
+      label: emergency_contact_relationship_other_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: emergency_contact_relationship_other_email
+      label: emergency_contact_relationship_other_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact_relationship_other_phone
+      label: emergency_contact_relationship_other_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: emergency_contact_relationship_other
+      label: emergency_contact_relationship_other
+      hint: null
+      type: text
+      options: []
+      required: false

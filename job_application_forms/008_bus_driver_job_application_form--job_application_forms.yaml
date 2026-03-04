@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bus Driver Job Application Form
+    pages:
+    - id: 1
+      name: section_contact_details
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: street_address_full
+      label: Mailing Address
+      hint: Include City, State, and Zip Code
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: primary_phone_number
+      label: Primary Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: personal_email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: section_licensing
+      label: -- Licensing and Qualifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: drivers_license_type
+      label: Driver License Type/Class
+      hint: Select your highest level of licensing
+      type: select_one
+      options:
+      - Commercial Driver License (CDL) Class A
+      - Commercial Driver License (CDL) Class B
+      - Standard Driver License (Class C)
+      - Other Specialized Permit
+      required: true
+    - id: 8
+      name: cdl_number_official
+      label: CDL Number
+      hint: Leave blank if not applicable
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: endorsements_held
+      label: Endorsements Held
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Passenger (P)
+      - School Bus (S)
+      - Air Brakes
+      - Hazardous Materials (H)
+      - Tanker (N)
+      required: true
+    - id: 10
+      name: bus_driving_experience_years
+      label: Years of Professional Bus Driving Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_history
+      label: -- Employment and Driving History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: most_recent_employer
+      label: Most Recent Employer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: previous_accident_history
+      label: Major Traffic Accidents in Last 3 Years
+      hint: Include any at-fault incidents
+      type: select_one
+      options:
+      - None
+      - 1 Incident
+      - 2 Incidents
+      - 3 or more Incidents
+      required: true
+    - id: 14
+      name: clean_record_declaration
+      label: I declare that my driving record is currently clean
+      hint: Will be verified via DMV background check
+      type: select_one
+      options:
+      - I Declare
+      - Not Applicable/I have points
+      required: true
+    - id: 15
+      name: application_motivation
+      label: Why are you interested in this position
+      hint: Brief statement of interest
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: background_check_authorization
+      label: I authorize a full background and driving record check
+      hint: Mandatory for this position
+      type: select_one
+      options:
+      - Authorized
+      - Not Authorized
+      required: true

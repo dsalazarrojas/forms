@@ -1,0 +1,330 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Collaborative Whiteboard Selection Guide
+    pages:
+      - id: 1
+        name: requester_name
+        label: Requester Full Name
+        hint: Your name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: requester_email
+        label: Email Address
+        hint: Work email
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: department
+        label: Department
+        hint: Your department
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: team_size
+        label: Team Size
+        hint: Number of users
+        type: select_one
+        options:
+          - 1-5 users
+          - 6-10 users
+          - 11-25 users
+          - 26-50 users
+          - 51-100 users
+          - Over 100 users
+        required: true
+      - id: 5
+        name: primary_use_case
+        label: Primary Use Case
+        hint: Main purpose
+        type: select_one
+        options:
+          - Brainstorming Sessions
+          - Project Planning
+          - Remote Collaboration
+          - Teaching and Training
+          - Design Workshops
+          - Agile Standups
+          - Client Meetings
+          - General Collaboration
+        required: true
+      - id: 6
+        name: use_case_details
+        label: Use Case Details
+        hint: Describe your needs
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: collaboration_features
+        label: Required Collaboration Features
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Real-Time Multi-User Editing
+          - Video Conferencing Integration
+          - Chat Functionality
+          - Commenting and Annotations
+          - Version History
+          - Template Library
+          - Breakout Rooms
+          - Presentation Mode
+        required: true
+      - id: 8
+        name: drawing_tools_needed
+        label: Drawing Tools Needed
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Freehand Drawing
+          - Shapes and Lines
+          - Sticky Notes
+          - Text Boxes
+          - Connectors and Arrows
+          - Mind Mapping
+          - Flowcharts
+          - Diagrams
+        required: true
+      - id: 9
+        name: integration_requirements
+        label: Required Integrations
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Microsoft Teams
+          - Slack
+          - Zoom
+          - Google Meet
+          - Google Drive
+          - Microsoft OneDrive
+          - Dropbox
+          - Notion
+          - Jira
+          - Trello
+          - Asana
+          - None Required
+        required: true
+      - id: 10
+        name: platform_preference
+        label: Platform Preference
+        hint: Where will you use it
+        type: select_multiple
+        options:
+          - Web Browser
+          - Windows Desktop
+          - Mac Desktop
+          - iOS Mobile
+          - Android Mobile
+          - Tablet Optimized
+        required: true
+      - id: 11
+        name: security_requirements
+        label: Security Requirements
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - SSO Single Sign-On
+          - Two-Factor Authentication
+          - Data Encryption
+          - GDPR Compliant
+          - HIPAA Compliant
+          - SOC 2 Certified
+          - Admin Controls
+          - Access Permissions
+        required: true
+      - id: 12
+        name: storage_needs
+        label: Storage Needs
+        hint: How much storage
+        type: select_one
+        options:
+          - Minimal Under 10GB
+          - Moderate 10-50GB
+          - Standard 50-100GB
+          - Large 100GB-1TB
+          - Unlimited
+        required: true
+      - id: 13
+        name: board_size_preference
+        label: Board Size Preference
+        hint: Canvas size needs
+        type: select_one
+        options:
+          - Standard Fixed Size
+          - Large Fixed Size
+          - Infinite Canvas
+          - Variable Sizes
+        required: true
+      - id: 14
+        name: export_formats
+        label: Required Export Formats
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - PDF
+          - PNG Image
+          - JPEG Image
+          - SVG Vector
+          - Microsoft Word
+          - Microsoft PowerPoint
+          - CSV Data
+          - None Required
+        required: true
+      - id: 15
+        name: template_needs
+        label: Template Needs
+        hint: What templates do you need
+        type: select_multiple
+        options:
+          - Brainstorming Templates
+          - Project Planning Templates
+          - Agile Scrum Templates
+          - SWOT Analysis
+          - Mind Maps
+          - Flowcharts
+          - Meeting Agendas
+          - Design Thinking
+          - Custom Templates
+        required: true
+      - id: 16
+        name: budget_range
+        label: Budget Range
+        hint: Annual budget per user
+        type: select_one
+        options:
+          - Free Only
+          - Under $5 per user per month
+          - $5-10 per user per month
+          - $10-20 per user per month
+          - $20-50 per user per month
+          - Over $50 per user per month
+        required: true
+      - id: 17
+        name: licensing_preference
+        label: Licensing Preference
+        hint: How to license
+        type: select_one
+        options:
+          - Free Tier
+          - Individual Licenses
+          - Team License
+          - Enterprise License
+          - Educational Discount
+          - Non-Profit Discount
+        required: true
+      - id: 18
+        name: trial_needed
+        label: Trial Period Needed
+        hint: Do you need to test first
+        type: select_one
+        options:
+          - Yes Free Trial
+          - Yes Demo Request
+          - No Ready to Purchase
+        required: true
+      - id: 19
+        name: technical_support_level
+        label: Technical Support Level Needed
+        hint: Support requirements
+        type: select_one
+        options:
+          - Self-Service Only
+          - Email Support
+          - Chat Support
+          - Phone Support
+          - Dedicated Account Manager
+          - 24/7 Support
+        required: true
+      - id: 20
+        name: training_requirements
+        label: Training Requirements
+        hint: What training is needed
+        type: select_multiple
+        options:
+          - Video Tutorials
+          - Documentation
+          - Live Webinars
+          - On-Site Training
+          - Train the Trainer
+          - No Training Needed
+        required: true
+      - id: 21
+        name: accessibility_requirements
+        label: Accessibility Requirements
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Screen Reader Compatible
+          - Keyboard Navigation
+          - High Contrast Mode
+          - WCAG 2.1 Compliant
+          - Closed Captioning
+          - None Required
+        required: true
+      - id: 22
+        name: mobile_functionality
+        label: Mobile Functionality Importance
+        hint: How important is mobile
+        type: select_one
+        options:
+          - Critical
+          - Very Important
+          - Somewhat Important
+          - Not Important
+        required: true
+      - id: 23
+        name: offline_access
+        label: Offline Access Needed
+        hint: Work without internet
+        type: select_one
+        options:
+          - Yes Required
+          - Nice to Have
+          - Not Needed
+        required: true
+      - id: 24
+        name: decision_timeline
+        label: Decision Timeline
+        hint: When do you need to decide
+        type: select_one
+        options:
+          - Within 1 Week
+          - Within 2 Weeks
+          - Within 1 Month
+          - Within 3 Months
+          - No Rush
+        required: true
+      - id: 25
+        name: decision_makers
+        label: Number of Decision Makers
+        hint: Who needs to approve
+        type: select_one
+        options:
+          - Just Me
+          - 2-3 People
+          - 4-6 People
+          - Committee Approval
+          - Executive Approval
+        required: true
+      - id: 26
+        name: additional_requirements
+        label: Additional Requirements
+        hint: Any other needs
+        type: text
+        options: []
+        required: false

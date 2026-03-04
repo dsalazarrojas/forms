@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Download Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: We will send the download link here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Name of your business
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: Your position or role
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: industry
+      label: Industry
+      hint: What industry are you in?
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Education
+      - Retail
+      - Manufacturing
+      - Marketing
+      - Nonprofit
+      - Government
+      - Other
+      required: true
+    - id: 8
+      name: company_size
+      label: Company Size
+      hint: How many employees does your company have?
+      type: select_one
+      options:
+      - 1-10 employees
+      - 11-50 employees
+      - 51-200 employees
+      - 201-500 employees
+      - 501-1000 employees
+      - Over 1000 employees
+      required: true
+    - id: 9
+      name: content_type
+      label: Content Type
+      hint: What are you downloading?
+      type: select_one
+      options:
+      - E-book
+      - White Paper
+      - Case Study
+      - Research Report
+      - Template
+      - Guide
+      - Checklist
+      - Webinar Recording
+      required: true
+    - id: 10
+      name: content_title
+      label: Content Title
+      hint: Title of the content
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: download_purpose
+      label: Download Purpose
+      hint: Why are you downloading this content?
+      type: select_one
+      options:
+      - Research
+      - Education
+      - Business Planning
+      - Problem Solving
+      - Professional Development
+      - Curiosity
+      required: true
+    - id: 12
+      name: challenges_faced
+      label: Challenges Faced
+      hint: What challenges are you trying to solve?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: how_did_you_hear
+      label: How Did You Hear About Us?
+      hint: How did you find this content?
+      type: select_one
+      options:
+      - Search Engine
+      - Social Media
+      - Email Newsletter
+      - Website
+      - Referral
+      - Advertisement
+      - Other
+      required: true
+    - id: 14
+      name: interested_in_consultation
+      label: Interested in Consultation?
+      hint: Would you like to speak with an expert?
+      type: select_one
+      options:
+      - Yes, please contact me
+      - No, thank you
+      - Maybe later
+      required: true
+    - id: 15
+      name: newsletter_subscription
+      label: Newsletter Subscription
+      hint: Would you like to receive our newsletter?
+      type: select_one
+      options:
+      - Yes, subscribe me
+      - No, thank you
+      required: true
+    - id: 16
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we contact you?
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text Message
+      - No Contact Preferred
+      required: false
+    - id: 17
+      name: best_time_to_contact
+      label: Best Time to Contact
+      hint: When is the best time to reach you?
+      type: select_one
+      options:
+      - Morning (8am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-8pm)
+      - Anytime
+      required: false
+    - id: 18
+      name: additional_interests
+      label: Additional Interests
+      hint: What other topics interest you?
+      type: select_multiple
+      options:
+      - Industry Trends
+      - Best Practices
+      - Case Studies
+      - Product Updates
+      - Training Resources
+      - Events and Webinars
+      required: false
+    - id: 19
+      name: privacy_policy_accepted
+      label: Privacy Policy Accepted
+      hint: I agree to the privacy policy
+      type: select_one
+      options:
+      - Yes, I Accept
+      - No, I Do Not Accept
+      required: true
+    - id: 20
+      name: download_date
+      label: Download Date
+      hint: Date of download
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information you would like to share
+      type: text
+      options: []
+      required: false

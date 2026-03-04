@@ -1,0 +1,340 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chemist Job Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: Your full address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: linkedin_profile
+      label: LinkedIn Profile
+      hint: URL to your LinkedIn profile
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: position_applied
+      label: Position Applied For
+      hint: Which position are you applying for
+      type: select_one
+      options:
+      - Analytical Chemist
+      - Organic Chemist
+      - Inorganic Chemist
+      - Physical Chemist
+      - Biochemist
+      - Research Chemist
+      - Quality Control Chemist
+      - Process Chemist
+      - Laboratory Manager
+      - Other
+      required: true
+    - id: 8
+      name: available_start_date
+      label: Available Start Date
+      hint: When can you start
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: salary_expectations
+      label: Salary Expectations
+      hint: Expected annual salary
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: highest_degree
+      label: Highest Degree
+      hint: Your highest academic degree
+      type: select_one
+      options:
+      - High school diploma
+      - Associate degree
+      - Bachelor's degree
+      - Master's degree
+      - Doctorate (PhD)
+      - Postdoctoral fellowship
+      required: true
+    - id: 11
+      name: degree_field
+      label: Field of Study
+      hint: What was your major
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: university_name
+      label: University Name
+      hint: Name of institution
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: graduation_year
+      label: Graduation Year
+      hint: Year of graduation
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: gpa
+      label: GPA
+      hint: Grade point average if applicable
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: chemistry_specializations
+      label: Chemistry Specializations
+      hint: Select your areas of expertise
+      type: select_multiple
+      options:
+      - Analytical chemistry
+      - Organic synthesis
+      - Inorganic chemistry
+      - Physical chemistry
+      - Biochemistry
+      - Polymer chemistry
+      - Medicinal chemistry
+      - Environmental chemistry
+      - Forensic chemistry
+      - Materials science
+      - Spectroscopy
+      - Chromatography
+      required: true
+    - id: 16
+      name: years_experience
+      label: Years of Experience
+      hint: Total years of chemistry experience
+      type: select_one
+      options:
+      - Entry level (0-2 years)
+      - Mid-level (3-5 years)
+      - Senior (6-10 years)
+      - Expert (10+ years)
+      required: true
+    - id: 17
+      name: current_employer
+      label: Current Employer
+      hint: Name of current employer
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: current_position
+      label: Current Position
+      hint: Your current job title
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: previous_experience
+      label: Previous Experience
+      hint: Describe your relevant work experience
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: laboratory_skills
+      label: Laboratory Skills
+      hint: List your laboratory skills
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: instrumentation_experience
+      label: Instrumentation Experience
+      hint: List instruments you are proficient with
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: software_skills
+      label: Software Skills
+      hint: List relevant software you can use
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: publications
+      label: Publications
+      hint: List any scientific publications
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: patents
+      label: Patents
+      hint: List any patents held
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: certifications
+      label: Certifications
+      hint: List any professional certifications
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: safety_training
+      label: Safety Training Completed
+      hint: List safety certifications or training
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: professional_memberships
+      label: Professional Memberships
+      hint: List any professional organizations
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: references_available
+      label: Are References Available
+      hint: Can you provide professional references
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 29
+      name: why_interested
+      label: Why Are You Interested
+      hint: Why do you want this position
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: career_goals
+      label: Career Goals
+      hint: What are your career objectives
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: work_authorization
+      label: Work Authorization
+      hint: Are you authorized to work in this country
+      type: select_one
+      options:
+      - Yes, citizen
+      - Yes, permanent resident
+      - Yes, work visa
+      - No, require sponsorship
+      required: true
+    - id: 32
+      name: background_check
+      label: Background Check
+      hint: Are you willing to undergo a background check
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 33
+      name: drug_screening
+      label: Drug Screening
+      hint: Are you willing to undergo drug screening
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 34
+      name: resume_attached
+      label: Resume Attached
+      hint: Have you attached your resume
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 35
+      name: cover_letter_attached
+      label: Cover Letter Attached
+      hint: Have you attached a cover letter
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 36
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: How did you learn about this position
+      type: select_one
+      options:
+      - Company website
+      - Job board
+      - LinkedIn
+      - Referral
+      - Career fair
+      - Recruitment agency
+      - Other
+      required: true
+    - id: 37
+      name: referral_name
+      label: Referral Name
+      hint: If referred, who referred you
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: additional_information
+      label: Additional Information
+      hint: Anything else you would like to share
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: application_date
+      label: Application Date
+      hint: Date of application
+      type: date
+      options: []
+      required: true
+    - id: 40
+      name: applicant_signature
+      label: Applicant Signature
+      hint: I certify all information is true and accurate
+      type: select_one
+      options:
+      - Yes, I certify
+      - false
+      required: true

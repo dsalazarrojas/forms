@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spouse Information Form
+    pages:
+    - id: 1
+      name: spouse_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: spouse_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: spouse_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: spouse_gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: false
+    - id: 5
+      name: spouse_marital_status
+      label: Marital Status
+      hint: null
+      type: select_one
+      options:
+      - Married
+      - Single
+      - Divorced
+      - Widowed
+      required: true
+    - id: 6
+      name: spouse_address1
+      label: Address 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: spouse_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: spouse_province
+      label: Province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: spouse_postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: spouse_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: spouse_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: spouse_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: spouse_occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: spouse_employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Student
+      - Retired
+      required: true
+    - id: 15
+      name: spouse_income_range
+      label: Income Range
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 16
+      name: spouse_income
+      label: Income
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: spouse_relationship_status
+      label: Relationship Status
+      hint: null
+      type: select_one
+      options:
+      - Married
+      - Single
+      - Widowed
+      - Divorced
+      required: true
+    - id: 18
+      name: spouse_employer
+      label: Employer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: spouse_job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: spouse_number_of_dependents
+      label: Number of Dependents
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: spouse_income_frequency
+      label: Income Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - Yearly
+      required: false
+    - id: 22
+      name: spouse_savings
+      label: Savings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: spouse_education
+      label: Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: spouse_language
+      label: Language
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: spouse_additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: reported_k8_school_application_form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_address
+      label: Student Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: parent_address
+      label: Parent Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: birthdate
+      label: Birthdate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: student_schools
+      label: Student Schools
+      hint: null
+      type: select_one
+      options:
+      - School 1
+      - School 2
+      - School 3
+      required: true
+    - id: 7
+      name: parent_employed
+      label: Parent Employed
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Retired
+      required: true
+    - id: 8
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - 1st
+      - 2nd
+      - 3rd
+      required: true
+    - id: 11
+      name: student_notes
+      label: Student Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: parent_notes
+      label: Parent Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: student_education
+      label: Student Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: parent_education
+      label: Parent Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: school_email
+      label: School Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: school_phone
+      label: School Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: grade_level2
+      label: Grade Level 2
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 19
+      name: student_status
+      label: Student Status
+      hint: null
+      type: select_multiple
+      options:
+      - New Student
+      - Existing Student
+      - Transfer Student
+      required: true
+    - id: 20
+      name: school_status
+      label: School Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 21
+      name: school_type
+      label: School Type
+      hint: null
+      type: select_one
+      options:
+      - Primary
+      - Secondary
+      required: true
+    - id: 22
+      name: school_level
+      label: School Level
+      hint: null
+      type: select_one
+      options:
+      - K-1
+      - K-2
+      - K-3
+      - K-4
+      - K-5
+      - K-6
+      - K-7
+      - K-8
+      required: true
+    - id: 23
+      name: school_start_date
+      label: School Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: school_end_date
+      label: School End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: school_status
+      label: School Status 2
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shareholder Dissolution Consent Form
+    pages:
+    - id: 1
+      name: shareholding_dissolution_consent
+      label: shareholder dissolution consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: company name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_dissolution
+      label: date of dissolution
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: reason_for_dissolution
+      label: reason for dissolution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: shareholder_consent
+      label: shareholder consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: shareholder_consent_other_reason
+      label: shareholder consent other reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: company_status
+      label: company status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Dissolved
+      - Inactive
+      required: true
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

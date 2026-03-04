@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Preparation Client Intake Form
+    pages:
+    - id: 1
+      name: main_page
+      label: main_page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: tax_year
+      label: tax_year
+      hint: null
+      type: select_one
+      options:
+      - '2020'
+      - '2021'
+      - '2022'
+      required: false
+    - id: 4
+      name: tax_return_status
+      label: tax_return_status
+      hint: null
+      type: select_multiple
+      options:
+      - filed
+      - amended
+      - audit
+      required: false
+    - id: 5
+      name: filing_type
+      label: filing_type
+      hint: null
+      type: select_one
+      options:
+      - single
+      - joint
+      - married
+      required: false
+    - id: 6
+      name: dependents
+      label: dependents
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: income_source
+      label: income_source
+      hint: null
+      type: select_multiple
+      options:
+      - wage
+      - business
+      - capital_gain
+      - social_security
+      - interest
+      - dividends
+      required: false
+    - id: 8
+      name: employment_status
+      label: employment_status
+      hint: null
+      type: select_one
+      options:
+      - employed
+      - unemployed
+      - student
+      - retired
+      required: false
+    - id: 9
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vision Screening Results Log
+    pages:
+    - id: 1
+      name: school_id
+      label: School Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: screening_date
+      label: Screening Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: eye_examined_by
+      label: Eye Examined By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: result_type
+      label: Result Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: result_details
+      label: Result Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: follow_up_recommendations
+      label: Follow Up Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_scheduled
+      label: Follow Up Scheduled
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: outcome_likely
+      label: Outcome Likely
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: outcome_unlikely
+      label: Outcome Unlikely
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: outcome_unknown
+      label: Outcome Unknown
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: outcome_pending
+      label: Outcome Pending
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: outcome_dont_know
+      label: Outcome Don't Know
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: outcome_scheduled
+      label: Outcome Scheduled
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: outcome_refused
+      label: Outcome Refused
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: follow_up_status
+      label: Follow Up Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 19
+      name: follow_up_last_updated
+      label: Follow Up Last Updated
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: outcome_comments
+      label: Outcome Comments
+      hint: null
+      type: text
+      options: []
+      required: false

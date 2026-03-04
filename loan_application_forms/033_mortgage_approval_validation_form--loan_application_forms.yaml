@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mortgage Approval Validation Form
+    pages:
+    - id: 1
+      name: applicant_info
+      label: Applicant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_info
+      label: Property Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: credit_score
+      label: Credit Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Employed''}'
+      - '{''label'': ''Self Employed''}'
+      - '{''label'': ''Unemployed''}'
+      - '{''label'': ''Student''}'
+      - '{''label'': ''Disabled''}'
+      required: false
+    - id: 5
+      name: income_range
+      label: Income Range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: loan_term
+      label: Loan Term
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''1-5 years''}'
+      - '{''label'': ''5-10 years''}'
+      - '{''label'': ''10-15 years''}'
+      - '{''label'': ''15-20 years''}'
+      - '{''label'': ''20-25 years''}'
+      required: false
+    - id: 8
+      name: loan_interest_rate
+      label: Loan Interest Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: loan_rate_type
+      label: Loan Rate Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Fixed''}'
+      - '{''label'': ''Floating''}'
+      - '{''label'': ''Adjustable''}'
+      required: false
+    - id: 10
+      name: loan_type
+      label: Loan Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Primary Residence''}'
+      - '{''label'': ''Investment''}'
+      - '{''label'': ''Vacation''}'
+      - '{''label'': ''Refinance''}'
+      required: false
+    - id: 11
+      name: applicant_income
+      label: Applicant Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: loan_status
+      label: Loan Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Pre-Approved''}'
+      - '{''label'': ''Approved''}'
+      - '{''label'': ''In Progress''}'
+      - '{''label'': ''Denied''}'
+      - '{''label'': ''Pending''}'
+      required: false
+    - id: 13
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Primary Residence''}'
+      - '{''label'': ''Investment''}'
+      - '{''label'': ''Vacation''}'
+      required: false
+    - id: 14
+      name: loan_security
+      label: Loan Security
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: loan_security_details
+      label: Loan Security Details
+      hint: null
+      type: text
+      options: []
+      required: false

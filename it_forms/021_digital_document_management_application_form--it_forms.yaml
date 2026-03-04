@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: digital_document_management_application_form
+    pages:
+    - id: 1
+      name: user_request
+      label: User Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_needs
+      label: User Needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: implementation_details
+      label: Implementation Details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: document_system_request
+      label: Document System Request
+      hint: null
+      type: select_one
+      options:
+      - Request 1
+      - Request 2
+      - Request 3
+      required: true
+    - id: 5
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_one
+      options:
+      - Document 1
+      - Document 2
+      - Document 3
+      required: true
+    - id: 6
+      name: document_size
+      label: Document Size
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: document_status
+      label: Document Status
+      hint: null
+      type: select_one
+      options:
+      - Status 1
+      - Status 2
+      - Status 3
+      required: true
+    - id: 8
+      name: review_notes
+      label: Review Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: onboarding_details
+      label: Onboarding Details
+      hint: null
+      type: select_one
+      options:
+      - Onboarding 1
+      - Onboarding 2
+      - Onboarding 3
+      required: true
+    - id: 10
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: document_id
+      label: Document ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: document_version
+      label: Document Version
+      hint: null
+      type: select_one
+      options:
+      - Version 1
+      - Version 2
+      - Version 3
+      required: true
+    - id: 13
+      name: implementation_plan
+      label: Implementation Plan
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: implementation_team
+      label: Implementation Team
+      hint: null
+      type: select_one
+      options:
+      - Team 1
+      - Team 2
+      - Team 3
+      required: true
+    - id: 15
+      name: document_url
+      label: Document URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Status 1
+      - Status 2
+      - Status 3
+      required: true
+    - id: 18
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: review_by
+      label: Reviewed By
+      hint: null
+      type: select_one
+      options:
+      - Reviewed By 1
+      - Reviewed By 2
+      - Reviewed By 3
+      required: true
+    - id: 20
+      name: document_owner
+      label: Document Owner
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: document_location
+      label: Document Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: document_version_date
+      label: Document Version Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: document_category
+      label: Document Category
+      hint: null
+      type: select_one
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: false
+    - id: 24
+      name: document_type_version
+      label: Document Type Version
+      hint: null
+      type: select_one
+      options:
+      - Version 1
+      - Version 2
+      - Version 3
+      required: true
+    - id: 25
+      name: document_status
+      label: Document Status
+      hint: null
+      type: select_one
+      options:
+      - Status 1
+      - Status 2
+      - Status 3
+      required: true

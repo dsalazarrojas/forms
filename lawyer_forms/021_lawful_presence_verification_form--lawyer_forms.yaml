@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lawful Presence Verification Form
+    pages:
+    - id: 1
+      name: lawful_presence_verification_form_1
+      label: verify_lawful_presence
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: individual_details
+      label: individual_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: document_upload
+      label: provide_document
+      hint: Please provide a document showing your current lawful presence in the
+        United States.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: document_type
+      label: document_type
+      hint: Please choose the type of document
+      type: select_multiple
+      options:
+      - US_Citizen
+      - US_National
+      - US_GreenCard
+      - US_PermanentResidentCard
+      - US_WorkVisa
+      - Other
+      required: false
+    - id: 5
+      name: document_number
+      label: document_number
+      hint: Please enter the number of your document
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: document_issue_date
+      label: document_issue_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: document_expiration_date
+      label: document_expiration_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: other_details
+      label: other_details
+      hint: If you select 'Other', please describe your document
+      type: text
+      options: []
+      required: false

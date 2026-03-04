@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Check Out Form
+    pages:
+    - id: 1
+      name: borrower_name
+      label: Borrower Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: library_card_number
+      label: Library Card Number
+      hint: Your library card or member ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For checkout notifications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact number for reminders
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: borrower_type
+      label: Borrower Type
+      hint: Select your borrower category
+      type: select_one
+      options:
+      - Student
+      - Faculty
+      - Staff
+      - Community Member
+      - Visiting Researcher
+      required: true
+    - id: 6
+      name: book_title
+      label: Book Title
+      hint: Full title of the book
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: book_author
+      label: Book Author
+      hint: Author or editor
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: isbn
+      label: ISBN Number
+      hint: International Standard Book Number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: barcode_number
+      label: Library Barcode Number
+      hint: Library barcode on the book
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: book_category
+      label: Book Category
+      hint: Select the book category
+      type: select_one
+      options:
+      - Fiction
+      - Non-Fiction
+      - Reference
+      - Textbook
+      - Children
+      - Young Adult
+      - Periodical
+      required: true
+    - id: 11
+      name: checkout_date
+      label: Checkout Date
+      hint: Date of book checkout
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: due_date
+      label: Due Date
+      hint: When the book must be returned
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: loan_period
+      label: Loan Period
+      hint: Length of loan period
+      type: select_one
+      options:
+      - 7 days
+      - 14 days
+      - 21 days
+      - 30 days
+      - Semester loan
+      required: true
+    - id: 14
+      name: renewal_eligible
+      label: Is this book eligible for renewal
+      hint: Check if renewal is allowed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: number_of_renewals
+      label: Number of Previous Renewals
+      hint: How many times has this been renewed
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: book_condition
+      label: Book Condition at Checkout
+      hint: Note any existing damage
+      type: select_one
+      options:
+      - New
+      - Like New
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 17
+      name: existing_damage_notes
+      label: Notes on Existing Damage
+      hint: Describe any pre-existing damage
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special handling notes
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: librarian_name
+      label: Processing Librarian
+      hint: Name of librarian processing checkout
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: borrower_signature
+      label: Borrower Acknowledgment
+      hint: I agree to return by the due date
+      type: select_one
+      options:
+      - Yes I agree
+      - false
+      required: true

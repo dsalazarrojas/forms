@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: judgment_review_request_form
+    pages:
+    - id: 1
+      name: case_number
+      label: Case Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: reason_for_review
+      label: Reason for Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: review_request_id
+      label: Review Request ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: review_status_updated
+      label: Review Status Updated
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: review_request_updated
+      label: Review Request Updated
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

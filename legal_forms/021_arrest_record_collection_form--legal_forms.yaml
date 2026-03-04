@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Arrest Record Collection Form
+    pages:
+    - id: 1
+      name: section_individual
+      label: -- Individual Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: As it appears on official documents
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: current_address
+      label: Current Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: section_arrest
+      label: -- Arrest Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: number_of_arrests
+      label: Number of Arrests
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: arrest_date_1
+      label: Date of First Arrest
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: arrest_location_1
+      label: Location of Arrest
+      hint: City and state
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: arrest_charge_1
+      label: Charge or Charges
+      hint: Type of offense
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: arrest_agency_1
+      label: Arresting Agency
+      hint: Police department, sheriff, etc.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: arrest_case_number_1
+      label: Case Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_conviction
+      label: -- Conviction Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: convicted
+      label: Were you convicted
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Charges dismissed
+      - Plea deal
+      required: true
+    - id: 17
+      name: conviction_date
+      label: Date of Conviction or Final Disposition
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: sentencing
+      label: Sentence or Disposition
+      hint: Prison time, fine, probation, etc.
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_records
+      label: -- Record Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: record_sealed
+      label: Has the record been sealed or expunged
+      hint: null
+      type: select_one
+      options:
+      - Yes, sealed
+      - Yes, expunged
+      - false
+      - Pending
+      required: true
+    - id: 21
+      name: record_status_date
+      label: Date of Sealing or Expungement
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: active_warrants
+      label: Are there any active warrants
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      - Unknown
+      required: true
+    - id: 23
+      name: section_certification
+      label: -- Certification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: certification
+      label: I certify this information is accurate and complete
+      hint: null
+      type: select_one
+      options:
+      - Yes, I certify
+      - false
+      required: true
+    - id: 25
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true

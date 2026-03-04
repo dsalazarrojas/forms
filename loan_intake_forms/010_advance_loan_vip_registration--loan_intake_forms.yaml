@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advance Loan VIP Registration
+    pages:
+    - id: 1
+      name: personal_information_section
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Legal full name as it appears on official documents
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Valid email for communication
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Primary phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: residential_address
+      label: Residential Address
+      hint: Current address where you reside
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: employment_income_section
+      label: -- Employment and Income --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: employer_name
+      label: Employer Name
+      hint: Name of your current employer
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: job_title
+      label: Job Title
+      hint: Your current position
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: employment_duration
+      label: Employment Duration
+      hint: How long have you been employed at this position
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-2 years
+      - 3-5 years
+      - 6-10 years
+      - More than 10 years
+      required: true
+    - id: 11
+      name: annual_income
+      label: Annual Income
+      hint: Your gross annual income in USD
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: monthly_net_income
+      label: Monthly Net Income
+      hint: Your monthly income after deductions
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: loan_request_section
+      label: -- Loan Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: requested_loan_amount
+      label: Requested Loan Amount
+      hint: How much would you like to borrow
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: loan_purpose
+      label: Loan Purpose
+      hint: What is the intended use of the loan
+      type: select_one
+      options:
+      - Home improvement
+      - Business investment
+      - Medical expenses
+      - Education
+      - Debt consolidation
+      - Vacation
+      - Emergency
+      - Other
+      required: true
+    - id: 16
+      name: preferred_repayment_term
+      label: Preferred Repayment Term
+      hint: Desired duration to repay the loan
+      type: select_one
+      options:
+      - 3 months
+      - 6 months
+      - 12 months
+      - 24 months
+      - 36 months
+      - 48 months
+      - 60 months
+      required: true
+    - id: 17
+      name: existing_relationship_section
+      label: -- Existing Relationship --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: existing_customer
+      label: Existing Customer
+      hint: Are you already a customer with our institution
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: account_number_if_applicable
+      label: Account Number (if applicable)
+      hint: Your existing account number if you're a current customer
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: vip_status_reason
+      label: VIP Status Reason
+      hint: Why do you qualify for VIP status (high income, assets, business relationship,
+        etc.)
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Workspace Setup Form
+    pages:
+    - id: 1
+      name: team_leads
+      label: Team Leads
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: team_employees
+      label: Team Employees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: workspace_setup_details
+      label: Workspace Setup Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: collaboration_needs
+      label: Collaboration Needs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: access_requests
+      label: Access Requests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: centralize_data
+      label: Centralize Data
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: standardize_access
+      label: Standardize Access
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: it_notes
+      label: IT Notes
+      hint: null
+      type: note
+      options: []
+      required: false

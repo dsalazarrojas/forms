@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tone Frequency Adjustment Form
+    pages:
+    - id: 1
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tone_change_request
+      label: Tone Change Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tone_frequency
+      label: Tone Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: new_frequency_range
+      label: New Frequency Range
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: files
+      label: Files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

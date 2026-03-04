@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Short Term Absence Form
+    pages:
+    - id: 1
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: approved
+      label: Approved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manager_request
+      label: Manager Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager_approvals
+      label: Manager Approvals
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: employee_request
+      label: Employee Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_approvals
+      label: Employee Approvals
+      hint: null
+      type: number
+      options: []
+      required: false

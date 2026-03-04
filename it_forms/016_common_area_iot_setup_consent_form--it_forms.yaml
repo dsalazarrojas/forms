@@ -1,0 +1,236 @@
+inputSchema:
+  type: object
+  properties:
+    title: Common Area IoT Setup Consent Form
+    pages:
+    - id: 1
+      name: consent_information
+      label: Consent Information
+      hint: Details about the IoT installation project
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: property_name
+      label: Property Name
+      hint: Name of the property or complex
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: property_address
+      label: Property Address
+      hint: Full address of the property
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: resident_information
+      label: Resident Information
+      hint: Details about the consenting resident
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: resident_name
+      label: Resident Name
+      hint: Full name of the resident
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: unit_number
+      label: Unit Number
+      hint: Apartment or unit number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: resident_email
+      label: Resident Email
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: resident_phone
+      label: Resident Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: iot_installation_details
+      label: IoT Installation Details
+      hint: Information about IoT devices to be installed
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: device_types
+      label: Device Types
+      hint: Types of IoT devices being installed
+      type: select_multiple
+      options:
+      - Smart Thermostats
+      - Motion Sensors
+      - Smart Lighting
+      - Air Quality Sensors
+      - Noise Monitors
+      - Energy Meters
+      - Water Leak Detectors
+      - Security Cameras
+      required: true
+    - id: 11
+      name: installation_locations
+      label: Installation Locations
+      hint: Where will devices be installed
+      type: select_multiple
+      options:
+      - Lobby
+      - Hallways
+      - Elevators
+      - Parking Garage
+      - Fitness Center
+      - Community Room
+      - Outdoor Areas
+      - Utility Rooms
+      required: true
+    - id: 12
+      name: installation_start_date
+      label: Installation Start Date
+      hint: When will installation begin
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: expected_duration
+      label: Expected Duration
+      hint: How long will installation take
+      type: select_one
+      options:
+      - 1-3 days
+      - 4-7 days
+      - 1-2 weeks
+      - 2-4 weeks
+      - More than 1 month
+      required: true
+    - id: 14
+      name: data_collection_consent
+      label: Data Collection Consent
+      hint: Consent for data collection by IoT devices
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: data_collection_agree
+      label: Data Collection Agreement
+      hint: Do you agree to data collection in common areas
+      type: select_one
+      options:
+      - Yes - I Agree
+      - No - I Do Not Agree
+      required: true
+    - id: 16
+      name: data_types_collected
+      label: Data Types Collected
+      hint: What types of data will be collected
+      type: select_multiple
+      options:
+      - Temperature Readings
+      - Occupancy Data
+      - Energy Usage
+      - Air Quality Metrics
+      - Motion Detection
+      - Noise Levels
+      - Water Usage
+      - None of the Above
+      required: true
+    - id: 17
+      name: data_usage_purpose
+      label: Data Usage Purpose
+      hint: How will the collected data be used
+      type: select_multiple
+      options:
+      - Energy Efficiency
+      - Building Optimization
+      - Predictive Maintenance
+      - Security Enhancement
+      - Resident Comfort
+      - Cost Reduction
+      - Regulatory Compliance
+      required: true
+    - id: 18
+      name: data_sharing
+      label: Data Sharing
+      hint: Will data be shared with third parties
+      type: select_one
+      options:
+      - Yes - With Service Providers Only
+      - Yes - With Partners
+      - No - Internal Use Only
+      - Unsure
+      required: true
+    - id: 19
+      name: data_retention
+      label: Data Retention
+      hint: How long will data be stored
+      type: select_one
+      options:
+      - 30 days
+      - 90 days
+      - 1 year
+      - 3 years
+      - Indefinitely
+      required: true
+    - id: 20
+      name: privacy_concerns
+      label: Privacy Concerns
+      hint: Do you have any privacy concerns
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: network_information
+      label: Network Information
+      hint: IoT network connectivity details
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: network_type
+      label: Network Type
+      hint: Type of network IoT devices will use
+      type: select_one
+      options:
+      - Wi-Fi
+      - Zigbee
+      - Z-Wave
+      - LoRaWAN
+      - Cellular
+      - Wired Ethernet
+      required: true
+    - id: 23
+      name: consent_declaration
+      label: Consent Declaration
+      hint: Do you consent to the IoT installation
+      type: select_one
+      options:
+      - Yes - I Fully Consent
+      - Yes - With Conditions
+      - No - I Do Not Consent
+      required: true
+    - id: 24
+      name: conditions
+      label: Conditions
+      hint: Any conditions for your consent
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: signature_date
+      label: Signature Date
+      hint: Date of consent signature
+      type: date
+      options: []
+      required: true

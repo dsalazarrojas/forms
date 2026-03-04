@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Field Study Leave Absence Form
+    pages:
+    - id: 1
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: study_start_date
+      label: Study Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: study_end_date
+      label: Study End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: reason
+      label: Reason
+      hint: Please provide a brief description of your field study or absence.
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: location
+      label: Location
+      hint: The city or region of your field study or absence.
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - France
+      - Germany
+      - Spain
+      required: false
+    - id: 9
+      name: university
+      label: University
+      hint: null
+      type: select_multiple
+      options:
+      - University of Paris
+      - University of Madrid
+      - University of Barcelona
+      - Other
+      required: true
+    - id: 10
+      name: faculty
+      label: Faculty
+      hint: Name of the faculty where you will be conducting your research.
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      required: true
+    - id: 14
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Administrator
+      - Faculty
+      required: true
+    - id: 15
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Administrator
+      - Faculty
+      required: true

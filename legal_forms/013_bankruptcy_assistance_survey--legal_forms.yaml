@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bankruptcy Assistance Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Full Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: respondent_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: respondent_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: filing_status
+      label: Filing Status
+      hint: Current bankruptcy situation
+      type: select_one
+      options:
+      - Considering Filing
+      - Recently Filed
+      - Currently in Bankruptcy
+      - Already Discharged
+      - Exploring Options
+      required: true
+    - id: 5
+      name: bankruptcy_type
+      label: Type of Bankruptcy
+      hint: If applicable, which chapter?
+      type: select_one
+      options:
+      - Chapter 7
+      - Chapter 11
+      - Chapter 13
+      - Not Yet Determined
+      - Unsure
+      required: false
+    - id: 6
+      name: household_status
+      label: Household Status
+      hint: Filing status
+      type: select_one
+      options:
+      - Individual
+      - Married Filing Jointly
+      - Married Filing Separately
+      - Head of Household
+      required: true
+    - id: 7
+      name: household_members
+      label: Number of Household Members
+      hint: Total number of dependents
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: current_employment
+      label: Current Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed Full-Time
+      - Employed Part-Time
+      - Self-Employed
+      - Unemployed
+      - Retired
+      - Disabled
+      required: true
+    - id: 9
+      name: monthly_income
+      label: Approximate Monthly Gross Income
+      hint: Before taxes and deductions
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: income_sources
+      label: Sources of Income
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Wages or Salary
+      - Self-Employment
+      - Social Security
+      - Disability Benefits
+      - Retirement Income
+      - Spousal Support
+      - Child Support
+      - Other
+      required: true
+    - id: 11
+      name: total_debt
+      label: Approximate Total Debt
+      hint: All debts combined
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: debt_types
+      label: Types of Debt
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Credit Card Debt
+      - Medical Debt
+      - Student Loans
+      - Mortgage
+      - Vehicle Loans
+      - Personal Loans
+      - Back Taxes
+      - Other
+      required: true
+    - id: 13
+      name: primary_assets
+      label: Primary Assets
+      hint: Select what you own
+      type: select_multiple
+      options:
+      - Home
+      - Vehicle
+      - Savings Account
+      - Retirement Account
+      - Business
+      - Real Property
+      - Investments
+      required: false
+    - id: 14
+      name: home_ownership
+      label: Home Ownership Status
+      hint: null
+      type: select_one
+      options:
+      - Own Outright
+      - Have Mortgage
+      - Renting
+      - Other
+      required: true
+    - id: 15
+      name: home_value
+      label: Estimated Home Value
+      hint: If applicable, current market value
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: mortgage_balance
+      label: Remaining Mortgage Balance
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: financial_hardship
+      label: What Is Your Primary Financial Hardship?
+      hint: Select main issue
+      type: select_one
+      options:
+      - Job Loss or Reduced Income
+      - Medical Emergency
+      - Divorce or Separation
+      - Natural Disaster
+      - Excessive Debt
+      - Unexpected Expenses
+      - Other
+      required: true
+    - id: 18
+      name: hardship_timeline
+      label: When Did the Financial Hardship Begin?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: previous_bankruptcy
+      label: Previous Bankruptcy Filing
+      hint: Have you filed before?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: bankruptcy_discharge_date
+      label: Previous Bankruptcy Discharge Date
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: credit_counseling
+      label: Have You Completed Credit Counseling?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - In Progress
+      required: true
+    - id: 22
+      name: assistance_sought
+      label: What Assistance Are You Seeking?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Legal Representation
+      - Financial Counseling
+      - Debt Negotiation
+      - Chapter Selection Guidance
+      - Asset Protection
+      - Exemption Planning
+      required: true
+    - id: 23
+      name: additional_information
+      label: Additional Financial Information
+      hint: Any other details we should know
+      type: text
+      options: []
+      required: false

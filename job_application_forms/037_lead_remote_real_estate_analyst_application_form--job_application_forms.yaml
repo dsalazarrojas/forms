@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lead Remote Real Estate Analyst Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: experience
+      label: experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: available_days
+      label: available_days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: available_hours
+      label: available_hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: work_hours
+      label: work_hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: job_status
+      label: job_status
+      hint: null
+      type: select_one
+      options:
+      - Analyst
+      - Associate
+      - Manager
+      - Other
+      required: true
+    - id: 10
+      name: skills
+      label: skills
+      hint: null
+      type: select_multiple
+      options:
+      - Analytic
+      - Communication
+      - Leadership
+      - Problem Solving
+      - Time Management
+      - Other
+      required: true
+    - id: 11
+      name: available_months
+      label: available_months
+      hint: null
+      type: select_multiple
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+      required: false
+    - id: 12
+      name: work_from_home
+      label: work_from_home
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Partial
+      required: true
+    - id: 13
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: job_description
+      label: job_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: work_experience
+      label: work_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: work_hours_per_week
+      label: work_hours_per_week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: work_hours_per_month
+      label: work_hours_per_month
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: work_days_per_week
+      label: work_days_per_week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: work_days_per_month
+      label: work_days_per_month
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: salary
+      label: salary
+      hint: null
+      type: number
+      options: []
+      required: false

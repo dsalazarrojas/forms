@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Library Equipment Rental Booking Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rental_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Bookshelf''}'
+      - '{''value'': 2, ''label'': ''Desk''}'
+      required: false
+    - id: 5
+      name: status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''pending'', ''label'': ''Pending''}'
+      - '{''value'': ''approved'', ''label'': ''Approved''}'
+      - '{''value'': ''denied'', ''label'': ''Denied''}'
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Arts & Sciences''}'
+      - '{''value'': 2, ''label'': ''Engineering''}'
+      - '{''value'': 3, ''label'': ''Humanities''}'
+      required: false
+    - id: 7
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: staff_name
+      label: Staff Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: time_window
+      label: Time Window
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: reservation_note
+      label: Reservation Note
+      hint: null
+      type: note
+      options: []
+      required: false

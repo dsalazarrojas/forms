@@ -1,0 +1,322 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Trainer Job Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Street Address
+      hint: Current address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: position_applied
+      label: Position Applied For
+      hint: null
+      type: select_one
+      options:
+      - Dog Trainer
+      - Cat Behavior Specialist
+      - Equine Trainer
+      - Exotic Animal Trainer
+      - Marine Mammal Trainer
+      - Bird Trainer
+      - General Animal Trainer
+      - Senior Trainer
+      - Training Coordinator
+      required: true
+    - id: 9
+      name: available_start_date
+      label: Available Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: employment_type
+      label: Desired Employment Type
+      hint: null
+      type: select_one
+      options:
+      - Full-Time
+      - Part-Time
+      - Contract
+      - Freelance
+      - Volunteer
+      required: true
+    - id: 11
+      name: salary_expectations
+      label: Salary Expectations
+      hint: Annual or hourly rate
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: years_experience
+      label: Years of Animal Training Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: species_experience
+      label: Which Species Have You Worked With
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Dogs
+      - Cats
+      - Horses
+      - Birds
+      - Rabbits
+      - Reptiles
+      - Marine Mammals
+      - Primates
+      - Farm Animals
+      - Exotic Animals
+      - Wildlife
+      - Other
+      required: true
+    - id: 14
+      name: training_methods
+      label: Training Methods You Use
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Positive Reinforcement
+      - Clicker Training
+      - Operant Conditioning
+      - Classical Conditioning
+      - Natural Horsemanship
+      - Science-Based Methods
+      - Traditional Methods
+      - Other
+      required: true
+    - id: 15
+      name: certifications
+      label: Professional Certifications
+      hint: List all relevant certifications
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: education
+      label: Education Background
+      hint: Degrees and institutions
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: work_history
+      label: Relevant Work History
+      hint: Last 3 positions with dates
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: specializations
+      label: Areas of Specialization
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Obedience Training
+      - Behavior Modification
+      - Service Dog Training
+      - Therapy Animal Training
+      - Competition Training
+      - Puppy Training
+      - Aggression Rehabilitation
+      - Fear and Anxiety
+      - Rescue Animal Training
+      - Zoo or Wildlife Training
+      - Other
+      required: true
+    - id: 19
+      name: problem_behaviors
+      label: What Problem Behaviors Can You Address
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Aggression
+      - Anxiety and Fear
+      - Excessive Barking
+      - House Training Issues
+      - Leash Reactivity
+      - Resource Guarding
+      - Separation Anxiety
+      - Destructive Behavior
+      - Jumping
+      - Pulling on Leash
+      - Other
+      required: true
+    - id: 20
+      name: group_training
+      label: Are You Experienced in Group Training Classes
+      hint: null
+      type: select_one
+      options:
+      - Yes - Extensive Experience
+      - Yes - Some Experience
+      - No - Only Individual
+      - Willing to Learn
+      required: true
+    - id: 21
+      name: physical_requirements
+      label: Can You Meet Physical Requirements
+      hint: Lifting bending working with animals
+      type: select_one
+      options:
+      - Yes - No Limitations
+      - Yes - Some Accommodations Needed
+      - No - Prefer Sedentary Role
+      required: true
+    - id: 22
+      name: schedule_flexibility
+      label: Schedule Flexibility
+      hint: null
+      type: select_one
+      options:
+      - Very Flexible
+      - Somewhat Flexible
+      - Limited Flexibility
+      - Fixed Schedule Required
+      required: true
+    - id: 23
+      name: weekend_availability
+      label: Weekend Availability
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Occasionally
+      - Not Available
+      required: true
+    - id: 24
+      name: references
+      label: Professional References
+      hint: Provide 3 references with contact info
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: why_interested
+      label: Why Are You Interested in This Position
+      hint: Share your motivation
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: philosophy_statement
+      label: Describe Your Training Philosophy
+      hint: Brief statement
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: background_check
+      label: Are You Willing to Complete a Background Check
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 28
+      name: drug_screening
+      label: Are You Willing to Complete Drug Screening
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 29
+      name: portfolio_available
+      label: Do You Have a Portfolio or Videos of Your Work
+      hint: null
+      type: select_one
+      options:
+      - Yes - Will Provide
+      - Yes - Available Online
+      - false
+      required: false
+    - id: 30
+      name: portfolio_link
+      label: Portfolio or Video Link
+      hint: If available
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: certification_accuracy
+      label: I Certify All Information Is Accurate
+      hint: null
+      type: select_one
+      options:
+      - Yes I Certify
+      - false
+      required: true
+    - id: 33
+      name: applicant_signature
+      label: Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: true

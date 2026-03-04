@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Swim Instructor Application Form
+    pages:
+    - id: 1
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: swim_background
+      label: swim_background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: certifications
+      label: swim_certifications
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: education
+      label: swim_education
+      hint: null
+      type: text
+      options: []
+      required: false

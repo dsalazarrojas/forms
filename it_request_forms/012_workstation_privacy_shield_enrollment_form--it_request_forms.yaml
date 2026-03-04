@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workstation Privacy Shield Enrollment Form
+    pages:
+    - id: 1
+      name: workstation_privacy_shield_enrollment_form_page
+      label: Requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_location
+      label: Request Location
+      hint: Where is this workstation located?
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_name
+      label: Requester Name
+      hint: Enter name of the employee requesting the shield
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requester_email
+      label: Requester Email
+      hint: Enter email of the requester
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: requester_phone
+      label: Requester Phone
+      hint: Enter phone number of the requester
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: requester_department
+      label: Requester Department
+      hint: Enter department of the requester
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: requester_job_title
+      label: Requester Job Title
+      hint: Enter job title of the requester
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: workstation_description
+      label: Workstation Description
+      hint: Describe the workstation to be shielded
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: workstation_location
+      label: Workstation Location
+      hint: Describe the location of the workstation
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: privacy_shield_request_reason
+      label: Privacy Shield Request Reason
+      hint: null
+      type: select_one
+      options:
+      - Shielded
+      - Unshielded
+      - Confidential
+      required: true
+    - id: 11
+      name: shielded_area
+      label: Shielded Area
+      hint: null
+      type: select_multiple
+      options:
+      - Data Center
+      - Breakroom
+      - Conference Room
+      required: false
+    - id: 12
+      name: ongoing_workplace_needs
+      label: Ongoing Workplace Needs
+      hint: Describe ongoing needs for workplace
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: manager_name
+      label: Manager Name
+      hint: Enter manager name of the requester
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: manager_email
+      label: Manager Email
+      hint: Enter email of the manager
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: manager_phone
+      label: Manager Phone
+      hint: Enter phone number of the manager
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: manager_department
+      label: Manager Department
+      hint: Enter manager department
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: manager_job_title
+      label: Manager Job Title
+      hint: Enter manager job title
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: approved_manager_signature
+      label: Approved Manager Signature
+      hint: Approved Manager Signature
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: approved_manager_name
+      label: Approved Manager Name
+      hint: Enter name of the approved manager
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: approved_manager_title
+      label: Approved Manager Title
+      hint: Enter title of the approved manager
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: approved_date
+      label: Approved Date
+      hint: Date of approval
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: approved_time
+      label: Approved Time
+      hint: Time of approval
+      type: time
+      options: []
+      required: true
+    - id: 23
+      name: comments
+      label: Comments
+      hint: Any comments
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: true
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: User who submitted the form
+      type: text
+      options: []
+      required: true

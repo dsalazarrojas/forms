@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Employee Burnout Leave Of Absence Form
+    pages:
+    - id: 1
+      name: retail_employee_burnout_leave_of_absence_form_page_1
+      label: retail_employee_burnout_leave_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: retail_employee_burnout_leave_request_details
+      label: retail_employee_burnout_leave_request_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: manager_approval
+      label: manager_approval
+      hint: null
+      type: select_one
+      options:
+      - Manager 1
+      - Manager 2
+      - Manager 3
+      required: true
+    - id: 4
+      name: team_lead_approval
+      label: team_lead_approval
+      hint: null
+      type: select_one
+      options:
+      - Team Lead 1
+      - Team Lead 2
+      - Team Lead 3
+      required: true
+    - id: 5
+      name: retail_employee_burnout_leave_request_start_date
+      label: retail_employee_burnout_leave_request_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: retail_employee_burnout_leave_request_end_date
+      label: retail_employee_burnout_leave_request_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: retail_employee_burnout_leave_request_number_of_days
+      label: retail_employee_burnout_leave_request_number_of_days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: retail_employee_burnout_leave_request_comments
+      label: retail_employee_burnout_leave_request_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: retail_employee_burnout_leave_request_status
+      label: retail_employee_burnout_leave_request_status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: true
+    - id: 10
+      name: retail_employee_burnout_leave_request_rejected_reason
+      label: retail_employee_burnout_leave_request_rejected_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: retail_employee_burnout_leave_request_additional_comments
+      label: retail_employee_burnout_leave_request_additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

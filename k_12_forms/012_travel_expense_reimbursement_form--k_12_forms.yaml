@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel_expense_reimbursement_form
+    pages:
+    - id: 1
+      name: travel_request
+      label: travel_request
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: travel_dates
+      label: travel_dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: travel_destination
+      label: travel_destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: expense_amount
+      label: expense_amount
+      hint: null
+      type: number
+      options: []
+      required: false

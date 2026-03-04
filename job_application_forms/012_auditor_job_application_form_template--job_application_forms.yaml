@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auditor Job Application Form Template
+    pages:
+    - id: 1
+      name: application_date
+      label: Application Date
+      hint: Date you are applying
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: position_title
+      label: Position Title
+      hint: Title of auditor position
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_posting_reference
+      label: Job Posting Reference Number
+      hint: Job ID or posting reference
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Your email contact
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: street_address
+      label: Street Address
+      hint: Your home address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state_province
+      label: State or Province
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_postal_code
+      label: ZIP or Postal Code
+      hint: Your postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: professional_licenses
+      label: Professional Licenses Held
+      hint: Select all licenses you hold
+      type: select_multiple
+      options:
+      - CPA - Certified Public Accountant
+      - CIA - Certified Internal Auditor
+      - CISA - Certified Information Systems Auditor
+      - CFE - Certified Fraud Examiner
+      - EA - Enrolled Agent
+      - Other
+      required: true
+    - id: 13
+      name: cpa_license_state
+      label: CPA License State/Country
+      hint: State or country where CPA licensed
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: years_of_experience
+      label: Years of Audit Experience
+      hint: Total years working in audit
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: experience_type
+      label: Type of Audit Experience
+      hint: Select areas of audit experience
+      type: select_multiple
+      options:
+      - Financial Audit
+      - Internal Audit
+      - External Audit
+      - Compliance Audit
+      - Operational Audit
+      - IT Audit
+      - Fraud Investigation
+      required: true
+    - id: 16
+      name: industry_experience
+      label: Industry Experience
+      hint: Industries where you have worked
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: current_employer
+      label: Current Employer Name
+      hint: Your current organization
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: current_job_title
+      label: Current Job Title
+      hint: Your current position
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: education_level
+      label: Highest Education Level
+      hint: Your highest degree
+      type: select_one
+      options:
+      - High School Diploma
+      - Associates Degree
+      - Bachelors Degree
+      - Masters Degree
+      - MBA
+      - Doctorate
+      required: true
+    - id: 20
+      name: degree_field
+      label: Degree Field of Study
+      hint: Your major or field
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: university_name
+      label: University or College Name
+      hint: School where you earned degree
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: software_skills
+      label: Accounting Software Skills
+      hint: Select software you can use
+      type: select_multiple
+      options:
+      - QuickBooks
+      - SAP
+      - Oracle
+      - NetSuite
+      - Xero
+      - Excel
+      - Access
+      - Other
+      required: true
+    - id: 23
+      name: willing_to_travel
+      label: Willing to Travel
+      hint: Travel requirements for position
+      type: select_one
+      options:
+      - Yes - Extensively
+      - Yes - Frequently
+      - Yes - Occasionally
+      - Limited Travel Only
+      - No Travel
+      required: true
+    - id: 24
+      name: willing_to_relocate
+      label: Willing to Relocate
+      hint: Would you relocate for position
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Possible - Discuss
+      required: true
+    - id: 25
+      name: availability_date
+      label: Available Start Date
+      hint: When could you start
+      type: date
+      options: []
+      required: true

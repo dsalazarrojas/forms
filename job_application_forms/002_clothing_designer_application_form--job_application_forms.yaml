@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clothing Designer Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Full Name
+      hint: Legal name as it appears on official documents
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Best number to reach you
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: current_address
+      label: Current Address
+      hint: Full mailing address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: position_applied
+      label: Position Applied For
+      hint: Select the role you are interested in
+      type: select_one
+      options:
+      - Junior Designer
+      - Senior Designer
+      - Lead Designer
+      - Design Assistant
+      - Pattern Maker
+      - Textile Designer
+      - Fashion Illustrator
+      required: true
+    - id: 7
+      name: years_experience
+      label: Years of Experience
+      hint: Total years in fashion design
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-2 years
+      - 3-5 years
+      - 6-10 years
+      - Over 10 years
+      required: true
+    - id: 8
+      name: education_level
+      label: Highest Education Level
+      hint: Your highest completed education
+      type: select_one
+      options:
+      - High School Diploma
+      - Associate Degree
+      - Bachelor Degree
+      - Master Degree
+      - PhD
+      - Other Certification
+      required: true
+    - id: 9
+      name: design_school
+      label: Design School or Institution
+      hint: Name of fashion school or university attended
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: specialization
+      label: Area of Specialization
+      hint: Your primary design focus
+      type: select_multiple
+      options:
+      - Womenswear
+      - Menswear
+      - Childrenswear
+      - Sportswear
+      - Evening Wear
+      - Accessories
+      - Textiles
+      - Sustainable Fashion
+      required: true
+    - id: 11
+      name: software_skills
+      label: Design Software Proficiency
+      hint: Select all software you are proficient in
+      type: select_multiple
+      options:
+      - Adobe Illustrator
+      - Adobe Photoshop
+      - CLO 3D
+      - Browzwear
+      - Gerber Accumark
+      - Lectra
+      - Optitex
+      - Other
+      required: true
+    - id: 12
+      name: portfolio_url
+      label: Portfolio URL
+      hint: Link to your online portfolio or website
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: previous_employers
+      label: Previous Fashion Employers
+      hint: List relevant previous employers
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notable_projects
+      label: Notable Design Projects
+      hint: Briefly describe your most proud work
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: design_influences
+      label: Design Influences
+      hint: Who or what inspires your designs
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: availability_date
+      label: Available Start Date
+      hint: When can you begin working
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: salary_expectation
+      label: Salary Expectation
+      hint: Expected annual salary range
+      type: select_one
+      options:
+      - $30000 - $50000
+      - $50001 - $70000
+      - $70001 - $90000
+      - $90001 - $120000
+      - Over $120000
+      - Negotiable
+      required: false
+    - id: 18
+      name: work_authorization
+      label: Work Authorization Status
+      hint: Are you authorized to work in this country
+      type: select_one
+      options:
+      - Citizen
+      - Permanent Resident
+      - Work Visa Required
+      - Work Visa Holder
+      - Other
+      required: true
+    - id: 19
+      name: references_available
+      label: References Available
+      hint: Can you provide professional references
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: cover_letter
+      label: Cover Letter
+      hint: Brief statement about why you want this position
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: resume_upload
+      label: Resume
+      hint: Upload your current resume
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else you would like us to know
+      type: text
+      options: []
+      required: false

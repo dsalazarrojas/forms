@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physical Access Security Request Form
+    pages:
+    - id: 1
+      name: employee_info
+      label: Employee Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facility_access_info
+      label: Facility Access Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_access
+      label: Reason for Access
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: access_start_time
+      label: Access Start Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: End Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: access_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: access_level
+      label: Access Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: approver_name
+      label: Approver Name
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: approver_email
+      label: Approver Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: approver_phone
+      label: Approver Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: approver_comments
+      label: Approver Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: approver_date
+      label: Approver Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: approver_time
+      label: Approver Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: approver_signature
+      label: Approver Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 17
+      name: approver_approval
+      label: Approver Approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: approver_rejection_reason
+      label: Approver Rejection Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: approver_comments_2
+      label: Approver Comments 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: approver_comments_3
+      label: Approver Comments 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: approver_comments_4
+      label: Approver Comments 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: approver_comments_5
+      label: Approver Comments 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: approver_comments_6
+      label: Approver Comments 6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: approver_comments_7
+      label: Approver Comments 7
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: approver_comments_8
+      label: Approver Comments 8
+      hint: null
+      type: text
+      options: []
+      required: false

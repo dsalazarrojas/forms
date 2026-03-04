@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: System Administrator Check In Form
+    pages:
+    - id: 1
+      name: system_administrator_check_in_page
+      label: Enter Check In
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: enter_time_in
+      label: Check In Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: admin_name
+      label: Administrator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_check_in
+      label: Reason For Check In
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: check_out_time
+      label: Check Out Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: admin_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - On Break
+      - On Vacation
+      required: true
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: admin_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: admin_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: system_administrator_check_in_page_2
+      label: Check Out
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: system_administrator_check_out_page
+      label: Enter Check Out
+      hint: null
+      type: time
+      options: []
+      required: false

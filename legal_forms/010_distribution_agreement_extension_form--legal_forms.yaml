@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Distribution Agreement Extension Form
+    pages:
+    - id: 1
+      name: agreement_id
+      label: Agreement ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: business name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: agreement_title
+      label: agreement title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: agreement_type
+      label: agreement type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''type1''}'
+      - '{''value'': ''type2''}'
+      - '{''value'': ''type3''}'
+      required: false
+    - id: 5
+      name: extension_reason
+      label: extension reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: agreement_status
+      label: agreement status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''status1''}'
+      - '{''value'': ''status2''}'
+      - '{''value'': ''status3''}'
+      required: false
+    - id: 7
+      name: distribution_method
+      label: distribution method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''method1''}'
+      - '{''value'': ''method2''}'
+      - '{''value'': ''method3''}'
+      required: false
+    - id: 8
+      name: agreement_start_date
+      label: agreement start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: agreement_end_date
+      label: agreement end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: agreement_start_time
+      label: agreement start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: agreement_end_time
+      label: agreement end time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: distribution_address
+      label: distribution address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

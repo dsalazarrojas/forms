@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Studio Access Security Request Form
+    pages:
+    - id: 1
+      name: studio_request_form
+      label: Studio Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: access_duration
+      label: Request Duration
+      hint: null
+      type: select_one
+      options:
+      - '15'
+      - '30'
+      - '60'
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: requesters_details
+      label: Requesters Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: studio_access_request_form_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: request_form_submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Modernization Credit Application Form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: select_multiple
+      options:
+      - Homeowner
+      - Lender
+      required: true
+    - id: 3
+      name: loan_request
+      label: Loan Request
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: property_details
+      label: Property Details
+      hint: null
+      type: select_one
+      options:
+      - Single Family Home
+      - Townhouse
+      - Duplex
+      required: true
+    - id: 5
+      name: credit_request
+      label: Credit Request
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: credit_amount
+      label: Credit Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: loan_term
+      label: Loan Term
+      hint: null
+      type: select_one
+      options:
+      - 3 months
+      - 6 months
+      - 12 months
+      required: true
+    - id: 8
+      name: loan_interest_rate
+      label: Loan Interest Rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: credit_use
+      label: Credit Use
+      hint: null
+      type: select_multiple
+      options:
+      - Home Improvement
+      - Home Addition
+      - Home Repair
+      required: false
+    - id: 10
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: credit_status
+      label: Credit Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Approved with Conditions
+      required: true
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true

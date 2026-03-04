@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: RNA Seq Analysis Survey
+    pages:
+    - id: 1
+      name: workflow_name
+      label: Workflow Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lab_type
+      label: lab_type
+      hint: null
+      type: select_one
+      options:
+      - Lab
+      - Core Facility
+      - Biotech Team
+      required: true
+    - id: 3
+      name: analysis_type
+      label: analysis_type
+      hint: null
+      type: select_one
+      options:
+      - Library Preparation
+      - PCR
+      - Sequencing
+      - Bioinformatics
+      required: true
+    - id: 4
+      name: sequencing_platform
+      label: sequencing_platform
+      hint: null
+      type: select_one
+      options:
+      - Illumina
+      - PacBio
+      - Ion Torrent
+      required: true
+    - id: 5
+      name: instrument_used
+      label: instrument_used
+      hint: null
+      type: select_multiple
+      options:
+      - MiSeq
+      - Hiseq 2000
+      - NextSeq 550
+      - NextSeq 550D
+      - NextSeq 550Dx
+      - MiSeq
+      - Hiseq 2000
+      - NextSeq 550
+      - NextSeq 550D
+      - NextSeq 550Dx
+      - Prosequenomax
+      - Prosequenomax
+      required: false
+    - id: 6
+      name: workflow_steps
+      label: workflow_steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feedback_on_steps
+      label: feedback_on_steps
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: feedback_on_platform
+      label: feedback_on_platform
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: feedback_on_instrument
+      label: feedback_on_instrument
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: contact_department
+      label: contact_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

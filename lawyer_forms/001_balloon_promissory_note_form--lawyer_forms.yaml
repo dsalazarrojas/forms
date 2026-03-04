@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Balloon Promissory Note Form
+    pages:
+    - id: 1
+      name: section_personal_information
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: borrower_full_name
+      label: Borrower full name
+      hint: Enter full legal name of the borrower
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: borrower_address
+      label: Borrower mailing address
+      hint: Street, city, state, postal code
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: borrower_email
+      label: Borrower email address
+      hint: For notifications and communications
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: borrower_phone
+      label: Borrower phone number
+      hint: Include country code if outside the US
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: lender_name
+      label: Lender name
+      hint: Individual or organization lending the funds
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: loan_principal_amount
+      label: Loan principal amount
+      hint: Enter the total principal amount of the loan
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: interest_rate_percent
+      label: Interest rate percent
+      hint: Annual interest rate as a percentage
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: loan_term_months
+      label: Loan term in months
+      hint: Total number of months over which payments are scheduled
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: payment_frequency
+      label: Payment frequency
+      hint: How often scheduled payments are due
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi annually
+      - Annually
+      required: true
+    - id: 11
+      name: balloon_payment_amount
+      label: Balloon payment amount
+      hint: The larger final payment due at loan maturity
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: balloon_due_date
+      label: Balloon payment due date
+      hint: Date when the balloon payment is due
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: collateral_description
+      label: Collateral description
+      hint: Describe any collateral securing the loan or none
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: lender_signature_name
+      label: Lender signature name
+      hint: Printed name of authorized signatory
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: signature_date
+      label: Signature date
+      hint: Date the document is signed
+      type: date
+      options: []
+      required: true

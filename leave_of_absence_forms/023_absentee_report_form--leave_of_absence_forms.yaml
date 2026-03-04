@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Absentee Report Form
+    pages:
+    - id: 1
+      name: section_header_employee_info
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: employee_email
+      label: Employee email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: position
+      label: Position or job title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: reporting_manager
+      label: Reporting manager name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_header_absence_details
+      label: -- Absence Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: report_date
+      label: Date this report is filed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: absence_start
+      label: First date of absence
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: absence_end
+      label: Last date of absence (or expected return date)
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: total_workdays_missed
+      label: Total workdays missed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: absence_type
+      label: Type of absence
+      hint: null
+      type: select_one
+      options:
+      - Sick leave
+      - Annual leave
+      - Personal leave
+      - Unauthorized absence
+      - Bereavement
+      - Work-related injury
+      - Other
+      required: true
+    - id: 14
+      name: absence_reason
+      label: Reason for absence
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: prior_notification
+      label: Was prior notification given before the absence
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: documentation_attached
+      label: Has supporting documentation been attached
+      hint: e.g. medical certificate
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not applicable
+      required: true
+    - id: 17
+      name: section_header_hr_use
+      label: -- HR Use Only --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: hr_reviewer
+      label: HR reviewer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: action_taken
+      label: Action taken
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Flagged for review
+      - Counseling scheduled
+      - Disciplinary action
+      - No action required
+      required: false
+    - id: 20
+      name: hr_notes
+      label: HR notes
+      hint: null
+      type: text
+      options: []
+      required: false

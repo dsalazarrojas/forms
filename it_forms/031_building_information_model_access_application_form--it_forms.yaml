@@ -1,0 +1,346 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Information Model Access Application Form
+    pages:
+    - id: 1
+      name: bim_access_header
+      label: -- Building Information Model Access Application --
+      hint: Request access to the project BIM
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: Job title or position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: role_discipline
+      label: -- Professional Role --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: discipline
+      label: Discipline or specialty
+      hint: null
+      type: select_one
+      options:
+      - Architecture
+      - Structural engineering
+      - MEP engineering
+      - General contractor
+      - Subcontractor
+      - Project manager
+      - BIM coordinator
+      - Consultant
+      - Client/owner
+      - Facility manager
+      - Other
+      required: true
+    - id: 9
+      name: firm_type
+      label: Firm type
+      hint: null
+      type: select_one
+      options:
+      - Design firm
+      - Engineering firm
+      - Construction/contractor
+      - Consulting firm
+      - Owner/client
+      - Facility management
+      - Other
+      required: true
+    - id: 10
+      name: project_info
+      label: -- Project Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: project_name
+      label: Project name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: project_number
+      label: Project number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: project_phase
+      label: Current project phase
+      hint: null
+      type: select_one
+      options:
+      - Schematic design
+      - Design development
+      - Construction documents
+      - Construction administration
+      - Post-construction/O&M
+      - Other
+      required: true
+    - id: 14
+      name: access_request
+      label: -- Access Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: access_level_needed
+      label: Required access level
+      hint: null
+      type: select_one
+      options:
+      - View only - No editing
+      - Read access - View and download
+      - Contributor - Edit specific elements
+      - Full access - All editing capabilities
+      - Administrator - Full control
+      required: true
+    - id: 16
+      name: model_components
+      label: BIM components/models needed
+      hint: null
+      type: select_multiple
+      options:
+      - Architectural model
+      - Structural model
+      - MEP model
+      - Site model
+      - Coordination model
+      - All models
+      - Specific disciplines only
+      required: true
+    - id: 17
+      name: specific_elements
+      label: Specific elements or areas of focus
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: access_purpose
+      label: Purpose of BIM access
+      hint: null
+      type: select_one
+      options:
+      - Project design
+      - Construction planning
+      - MEP coordination
+      - Quality assurance/review
+      - Contract administration
+      - Facility management
+      - Training/learning
+      - Analysis/reporting
+      - Visualization
+      - Other
+      required: true
+    - id: 19
+      name: purpose_description
+      label: Detailed description of intended use
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: access_duration
+      label: -- Duration and Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: duration_needed
+      label: How long do you need access?
+      hint: null
+      type: select_one
+      options:
+      - 1 month
+      - 3 months
+      - 6 months
+      - 1 year
+      - Until project completion
+      - Ongoing - permanent access
+      required: true
+    - id: 22
+      name: start_date_needed
+      label: When do you need access to start?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: end_date_needed
+      label: Expected end date for access
+      hint: If not ongoing
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: team_members
+      label: -- Additional Team Members --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: additional_users
+      label: Other team members needing access
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: team_size
+      label: Total number of team members needing access
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: platform_info
+      label: -- Technology and Platform --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: software_platform
+      label: BIM software platform to be used
+      hint: null
+      type: select_one
+      options:
+      - Revit
+      - ArchiCAD
+      - Navisworks
+      - Solibri
+      - BIM360
+      - Newmetrix
+      - Autodesk Cloud
+      - Other cloud platform
+      - Multiple platforms
+      - Unsure
+      required: true
+    - id: 29
+      name: software_version
+      label: Software version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: bim_experience
+      label: BIM experience level
+      hint: null
+      type: select_one
+      options:
+      - Expert - Extensive BIM experience
+      - Intermediate - Moderate experience
+      - Beginner - Some basic experience
+      - New to BIM
+      required: true
+    - id: 31
+      name: security_info
+      label: -- Security and Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: nda_agreement
+      label: Confidentiality/NDA agreement status
+      hint: null
+      type: select_one
+      options:
+      - Already signed
+      - Willing to sign
+      - Needs review
+      - Not applicable
+      required: true
+    - id: 33
+      name: security_training
+      label: Completed BIM security training
+      hint: null
+      type: select_one
+      options:
+      - true
+      - No, but willing to complete
+      - false
+      required: true
+    - id: 34
+      name: data_handling
+      label: Agreement to proper BIM data handling
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree to data protection requirements
+      - false
+      required: true
+    - id: 35
+      name: approval_section
+      label: -- Manager Approval --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: manager_name
+      label: Direct manager or supervisor name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 37
+      name: manager_email
+      label: Manager email for approval notification
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 38
+      name: additional_notes
+      label: Additional information or special requests
+      hint: null
+      type: text
+      options: []
+      required: false

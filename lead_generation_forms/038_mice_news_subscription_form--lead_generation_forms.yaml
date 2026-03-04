@@ -1,0 +1,39 @@
+inputSchema:
+  type: object
+  properties:
+    title: MICE News Subscription Form
+    pages:
+    - id: 1
+      name: subscriber_details
+      label: Subscriber Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: topic_interests
+      label: Topic Interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: email_consent
+      label: Email Consent
+      hint: null
+      type: select_one
+      options:
+      - 'I would like to receive news on the topic of:'
+      - 'I would like to receive news on the topic of: Marketing and Advertising'
+      - 'I would like to receive news on the topic of: MICE News'
+      - 'I would like to receive news on the topic of: Productivity and Innovation'
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

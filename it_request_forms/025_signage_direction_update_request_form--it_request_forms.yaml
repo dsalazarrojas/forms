@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Signage Direction Update Request Form
+    pages:
+    - id: 1
+      name: signage_direction_update_request
+      label: Signage Direction Update Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: urgency_level
+      label: Urgency Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 3
+      name: photo
+      label: Photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: update_details
+      label: Update Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: facility_id
+      label: Facility ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: signage_id
+      label: Sign ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: update_priority
+      label: Update Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: update_type
+      label: Update Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: update_frequency
+      label: Update Frequency
+      hint: null
+      type: text
+      options: []
+      required: false

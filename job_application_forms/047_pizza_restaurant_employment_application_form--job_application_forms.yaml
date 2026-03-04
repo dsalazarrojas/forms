@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pizza Restaurant Employment Application Form
+    pages:
+    - id: 1
+      name: job_application_info
+      label: Job Application Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: position_applying_for
+      label: Position Applying For
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employment_history
+      label: Employment History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: education
+      label: Education
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: availability
+      label: Availability
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annuity Licensing Request Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Full Name
+      hint: Individual applying for license
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: social_security
+      label: Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: home_address
+      label: Home Address
+      hint: Current residence
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: requesting_state
+      label: State Requesting License For
+      hint: State of insurance authority jurisdiction
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: license_type
+      label: License Type Requested
+      hint: null
+      type: select_one
+      options:
+      - Resident agent license
+      - Non-resident agent license
+      - Annuity specialist certification
+      - Broker-dealer license
+      - Other
+      required: true
+    - id: 12
+      name: license_lines
+      label: Lines of Insurance Requested
+      hint: null
+      type: select_multiple
+      options:
+      - Fixed annuity
+      - Variable annuity
+      - Indexed annuity
+      - Immediate annuity
+      - Deferred annuity
+      required: true
+    - id: 13
+      name: sponsoring_company
+      label: Sponsoring Insurance Company
+      hint: Company requesting your licensing
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: company_address
+      label: Sponsoring Company Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: company_license_number
+      label: Company License Number
+      hint: State insurance license
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: years_experience
+      label: Years of Insurance Experience
+      hint: Total years in insurance industry
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: previous_licenses
+      label: Previous Insurance Licenses Held
+      hint: States and types of licenses
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: license_denial_history
+      label: Have you ever been denied a license
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      - Not applicable
+      required: true
+    - id: 19
+      name: denial_explanation
+      label: Explanation if previously denied
+      hint: Details about denial
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: disciplinary_history
+      label: Any disciplinary actions against you
+      hint: Complaints or violations
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      - Not applicable
+      required: true
+    - id: 21
+      name: disciplinary_details
+      label: Disciplinary Action Details
+      hint: Information about actions taken
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: criminal_history
+      label: Any criminal convictions
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      - Not applicable
+      required: true
+    - id: 23
+      name: criminal_details
+      label: Criminal History Details
+      hint: Nature of conviction
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: exam_completion
+      label: Have you completed required exams
+      hint: State licensing exams
+      type: select_one
+      options:
+      - Yes - passed
+      - Scheduled for exam
+      - Not yet scheduled
+      - Waiver requested
+      required: true
+    - id: 25
+      name: exam_date
+      label: Exam Date or Planned Date
+      hint: When exam was or will be taken
+      type: date
+      options: []
+      required: false

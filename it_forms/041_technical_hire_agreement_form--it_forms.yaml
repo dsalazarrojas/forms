@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Technical Hire Agreement Form
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contractor_info
+      label: Contract Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: select_one
+      options:
+      - Jimmy
+      - Other
+      required: true
+    - id: 4
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: technical_agreement
+      label: Technical Agreement
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Forensic Chemistry Assessment
+    pages:
+    - id: 1
+      name: knowledge_check_questions
+      label: Knowledge Check Questions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: technique_ratings
+      label: Technique Ratings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: integrity_confirmed
+      label: Integrity Confirmed
+      hint: null
+      type: select_one
+      options:
+      - Correct
+      - Incorrect
+      - No Answer
+      required: false
+    - id: 4
+      name: technique_confidence
+      label: Technique Confidence
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: submission_type
+      label: Submission Type
+      hint: null
+      type: select_one
+      options:
+      - Lab Exercise
+      - Technique Check
+      - Other (please specify)
+      required: false
+    - id: 7
+      name: other_submission_type
+      label: Other Submission Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: other_submission_details
+      label: Other Submission Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Review Required
+      required: false
+    - id: 13
+      name: submitted_by_email
+      label: Submitted By Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: submitted_by_phone
+      label: Submitted By Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitted_by_phone_type
+      label: Submitted By Phone Type
+      hint: null
+      type: select_one
+      options:
+      - Work
+      - Home
+      - Mobile
+      required: false
+    - id: 16
+      name: submitted_by_phone_ext
+      label: Extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitted_by_phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitted_by_phone_area
+      label: Area Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitted_by_phone_carrier
+      label: Carrier
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitted_by_name
+      label: Submitted By Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitted_by_title
+      label: Submitted By Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitted_by_department
+      label: Submitted By Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_by_lab
+      label: Submitted By Lab
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by_location
+      label: Submitted By Location
+      hint: null
+      type: text
+      options: []
+      required: false

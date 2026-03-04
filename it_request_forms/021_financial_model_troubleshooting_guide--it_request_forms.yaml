@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Model Troubleshooting Guide
+    pages:
+    - id: 1
+      name: financial_model_issues
+      label: Financial Model Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: urgency
+      label: Urgency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: model_version
+      label: Model Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: supporting_files
+      label: Supporting Files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consultant_name
+      label: Consultant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: issue_date
+      label: Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: issue_time
+      label: Issue Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: issue_category
+      label: Issue Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: issue_priority
+      label: Issue Priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: issue_status
+      label: Issue Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: issue_comments
+      label: Issue Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: issue_resolved
+      label: Issue Resolved
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: issue_closed
+      label: Issue Closed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: file_uploads
+      label: File Uploads
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Loan Applicant Information Form
+    pages:
+    - id: 1
+      name: name
+      label: Applicant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: loan_term
+      label: Loan Term
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Self-Employed
+      required: true
+    - id: 6
+      name: income_source
+      label: Income Source
+      hint: null
+      type: select_multiple
+      options:
+      - Salary
+      - Self-Employment
+      - Other
+      required: true

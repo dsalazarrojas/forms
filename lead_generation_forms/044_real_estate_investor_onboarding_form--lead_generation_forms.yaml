@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Investor Onboarding Form
+    pages:
+    - id: 1
+      name: real_estate_investor_onboarding_form_page_1
+      label: Company Name
+      hint: Your company name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: investor_name
+      label: Investor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: Phone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: business_address
+      label: Business Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: investor_type
+      label: Investor Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: investment_purpose
+      label: Investment Purpose
+      hint: null
+      type: select_multiple
+      options:
+      - Real Estate
+      - Real Estate Development
+      - Real Estate Investment
+      required: false
+    - id: 8
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Land
+      required: false
+    - id: 9
+      name: investment_amount
+      label: Investment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: investment_frequency
+      label: Investment Frequency
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Ongoing
+      - Quarterly
+      required: false
+    - id: 11
+      name: target_area
+      label: Target Area
+      hint: null
+      type: select_one
+      options:
+      - Domestic
+      - International
+      - National
+      required: false
+    - id: 12
+      name: investment_stage
+      label: Investment Stage
+      hint: null
+      type: select_one
+      options:
+      - Seed
+      - Series A
+      - Series B
+      required: false
+    - id: 13
+      name: investment_focus
+      label: Investment Focus
+      hint: null
+      type: select_multiple
+      options:
+      - Technology
+      - Real Estate
+      - Healthcare
+      required: false

@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: social_media_account_linking_support_request
+    pages:
+    - id: 1
+      name: social_media_account_info
+      label: Social Media Account Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: account_type
+      label: Social Media Account Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Twitter''}'
+      - '{''id'': 2, ''label'': ''Facebook''}'
+      - '{''id'': 3, ''label'': ''Instagram''}'
+      - '{''id'': 4, ''label'': ''Snapchat''}'
+      - '{''id'': 5, ''label'': ''TikTok''}'
+      required: false
+    - id: 3
+      name: account_status
+      label: Account Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Inactive''}'
+      - '{''id'': 3, ''label'': ''Deleted''}'
+      - '{''id'': 4, ''label'': ''Suspended''}'
+      required: false
+    - id: 4
+      name: issue_description
+      label: Issue Description
+      hint: Briefly describe your issue
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: issue_image
+      label: Issue Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: issue_video
+      label: Issue Video
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: issue_audio
+      label: Issue Audio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: issue_notes
+      label: Issue Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: issue_email
+      label: Issue Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: issue_phone
+      label: Issue Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: issue_date
+      label: Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: issue_time
+      label: Issue Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: issue_location
+      label: Issue Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: issue_support_agent
+      label: Issue Support Agent
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Human Agent''}'
+      - '{''id'': 2, ''label'': ''Automated Bot''}'
+      required: false
+    - id: 15
+      name: issue_screenshare
+      label: Issue Screenshare
+      hint: null
+      type: text
+      options: []
+      required: false

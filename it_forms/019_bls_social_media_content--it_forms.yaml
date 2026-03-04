@@ -1,0 +1,144 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: BLS Social Media Content
+    pages:
+      - id: 1
+        name: submitter_name
+        label: Submitter Name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: submitter_email
+        label: Email Address
+        hint: For submission confirmation
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: submitter_title
+        label: Your Title or Role
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: content_title
+        label: Content Title
+        hint: What is this post about?
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: content_type
+        label: Content Type
+        hint: What format is this content?
+        type: select_one
+        options:
+          - Text Post
+          - Image
+          - Video
+          - Infographic
+          - Link/Article
+          - Poll
+          - Event Announcement
+          - Other
+        required: true
+      - id: 6
+        name: platform_target
+        label: Target Platform
+        hint: Which social media platform?
+        type: select_one
+        options:
+          - Facebook
+          - Twitter
+          - LinkedIn
+          - Instagram
+          - TikTok
+          - All platforms
+          - Other
+        required: true
+      - id: 7
+        name: content_body
+        label: Content Text or Description
+        hint: Full text of the post
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: target_audience
+        label: Target Audience
+        hint: Who is this content for?
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: campaign_association
+        label: Associated Campaign or Initiative
+        hint: If part of a larger campaign
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: posting_date
+        label: Desired Posting Date
+        hint: When should this be posted?
+        type: date
+        options: []
+        required: true
+      - id: 11
+        name: media_attachments
+        label: Do you have media attachments?
+        hint: Images, videos, or files
+        type: select_one
+        options:
+          - Yes, attached
+          - Yes, link provided
+          - No
+          - Will provide later
+        required: false
+      - id: 12
+        name: hashtags
+        label: Suggested Hashtags
+        hint: Comma-separated hashtags
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: call_to_action
+        label: Call to Action
+        hint: What do you want people to do?
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: approval_status
+        label: Has this been approved by management?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+          - In progress
+          - Not required
+        required: false
+      - id: 15
+        name: additional_notes
+        label: Additional Notes or Instructions
+        hint: null
+        type: text
+        options: []
+        required: false

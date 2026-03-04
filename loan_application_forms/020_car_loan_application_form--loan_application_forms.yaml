@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Loan Application Form
+    pages:
+    - id: 1
+      name: applicant_personal_info_header
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_full_name_loan
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_dob_loan
+      label: Date of Birth
+      hint: To verify age eligibility
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: applicant_ssn
+      label: Social Security Number (SSN)
+      hint: To process credit check (10 digits)
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: applicant_email_loan
+      label: Email Address
+      hint: For application status updates
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: applicant_phone_loan
+      label: Phone Number
+      hint: Primary contact for the application
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: employment_info_header
+      label: -- Employment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: current_employer
+      label: Current Employer
+      hint: Name of your current company
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: job_title
+      label: Job Title
+      hint: Your current position
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: monthly_gross_income
+      label: Monthly Gross Income ($)
+      hint: Total income before taxes
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: loan_request_header
+      label: -- Loan Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: loan_amount_requested
+      label: Requested Loan Amount ($)
+      hint: Total amount to be financed
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: desired_loan_term
+      label: Desired Loan Term (Months)
+      hint: Select the length of the loan
+      type: select_one
+      options:
+      - 36 Months
+      - 48 Months
+      - 60 Months
+      - 72 Months
+      required: true
+    - id: 14
+      name: down_payment_amount_loan
+      label: Down Payment Amount ($)
+      hint: Amount you will pay upfront
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: vehicle_info_loan_header
+      label: -- Vehicle Information (If known) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_make_model_loan
+      label: Car Make and Model
+      hint: Describe the car you intend to buy
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_year_loan
+      label: Vehicle Year
+      hint: Year of manufacture
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: loan_application_verification_header
+      label: -- Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: loan_application_acknowledgement
+      label: I acknowledge the loan application terms and credit check authorization
+      hint: See terms of service
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 20
+      name: signature_confirmation_loan
+      label: Type your name for loan application confirmation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: additional_loan_comments
+      label: Any additional comments or requests?
+      hint: Provide more details for the application
+      type: text
+      options: []
+      required: false

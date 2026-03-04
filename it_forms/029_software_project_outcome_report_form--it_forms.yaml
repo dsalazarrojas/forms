@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Software Project Outcome Report Form
+    pages:
+    - id: 1
+      name: project_status
+      label: Project Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_id
+      label: Project ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: outcome_category
+      label: Category
+      hint: Software Project Outcome Report Form categories
+      type: select_one
+      options:
+      - Software Project
+      - IT Project
+      required: false
+    - id: 4
+      name: project_manager_name
+      label: Project Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: project_manager_email
+      label: Project Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: project_manager_phone
+      label: Project Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: stakeholder_names
+      label: Stakeholder Names
+      hint: Comma-separated list of stakeholder names
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: stakeholder_emails
+      label: Stakeholder Emails
+      hint: Comma-separated list of stakeholder emails
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: stakeholder_comments
+      label: Stakeholder Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: project_manager_comments
+      label: Project Manager Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: project_outcomes
+      label: Project Outcomes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: overall_outcome
+      label: Overall Outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: recommendation
+      label: Recommendation
+      hint: null
+      type: text
+      options: []
+      required: false

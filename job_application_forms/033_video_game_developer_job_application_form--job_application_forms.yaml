@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Video Game Developer Job Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: portfolio
+      label: Portfolio Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: job_reference
+      label: Job Reference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: salary_range
+      label: Salary Range
+      hint: null
+      type: select_one
+      options:
+      - 0-20,000
+      - 20,000-30,000
+      - 30,000-40,000
+      - 40,000-50,000
+      - 50,000-60,000
+      - 60,000-100,000
+      required: false
+    - id: 10
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Contract
+      - Freelance
+      required: true
+    - id: 11
+      name: available_date
+      label: Available Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: notice_period
+      label: Notice Period
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: skills
+      label: Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Programming languages
+      - Web development
+      - Game development
+      - UI/UX
+      - 3D modeling
+      required: true
+    - id: 14
+      name: job_location
+      label: Job Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: languages
+      label: Languages
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Japanese
+      - Mandarin
+      - Spanish
+      - French
+      required: false
+    - id: 16
+      name: education
+      label: Education
+      hint: null
+      type: select_one
+      options:
+      - Bachelor's degree
+      - Master's degree
+      - Associate's degree
+      - High school
+      required: true
+    - id: 17
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: availability
+      label: Availability
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: why_video_games
+      label: Why Video Games
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: available_for
+      label: Available For
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: notice_period
+      label: Notice
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: contract_type
+      label: Contract type
+      hint: null
+      type: select_one
+      options:
+      - Fixed-term
+      - Rolling contract
+      - Hourly
+      required: false
+    - id: 24
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - On hold
+      required: true
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

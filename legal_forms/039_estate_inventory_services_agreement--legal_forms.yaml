@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Estate Inventory Services Agreement
+    pages:
+    - id: 1
+      name: service_definition
+      label: Define Services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: approver
+      label: Approver
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: true
+    - id: 3
+      name: approver_email
+      label: Approver Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: date_approved
+      label: Date Approved
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time_approved
+      label: Time Approved
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: true
+    - id: 8
+      name: service_status
+      label: Service Status
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: approver_phone
+      label: Approver Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: approver_notes
+      label: Approver Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: approver_company
+      label: Approver Company
+      hint: null
+      type: text
+      options: []
+      required: false

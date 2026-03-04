@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cloud Service Onboarding Form
+    pages:
+    - id: 1
+      name: section_client
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_type
+      label: Client Type
+      hint: null
+      type: select_one
+      options:
+      - Enterprise
+      - Mid-market
+      - Small business
+      - Startup
+      - Non-profit
+      required: true
+    - id: 4
+      name: primary_contact
+      label: Primary Contact Name
+      hint: Account contact person
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_service
+      label: -- Service Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: service_type
+      label: Service Type Selected
+      hint: null
+      type: select_one
+      options:
+      - Infrastructure as a Service - IaaS
+      - Platform as a Service - PaaS
+      - Software as a Service - SaaS
+      - Managed Services
+      - Custom solution
+      - Other
+      required: true
+    - id: 9
+      name: service_tier
+      label: Service Tier - Package
+      hint: Starter, Professional, Enterprise, etc
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: expected_users
+      label: Expected Number of Users - Seats
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_technical
+      label: -- Technical Configuration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: data_location
+      label: Preferred Data Location - Region
+      hint: US, EU, APAC, etc
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: integration_needed
+      label: System Integration Requirements
+      hint: APIs, databases, other services
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: sso_required
+      label: Single Sign-On - SSO required?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: vpn_required
+      label: VPN or dedicated connection needed?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: section_support
+      label: -- Support and SLA --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: support_level
+      label: Support Level
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Standard
+      - Premium
+      - Enterprise
+      required: true
+    - id: 18
+      name: response_time_requirement
+      label: Required Response Time
+      hint: For critical issues
+      type: select_one
+      options:
+      - 1 hour
+      - 4 hours
+      - 8 hours
+      - 24 hours
+      - No SLA
+      required: false
+    - id: 19
+      name: section_training
+      label: -- Training and Enablement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: training_required
+      label: Training Required
+      hint: null
+      type: select_one
+      options:
+      - Yes, online training
+      - Yes, onsite training
+      - Yes, both
+      - No, self-service
+      required: true
+    - id: 21
+      name: training_count
+      label: Number of Users to Train
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: section_timeline
+      label: -- Onboarding Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: start_date
+      label: Desired Start Date
+      hint: Service activation date
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: migration_plan
+      label: Data migration approach
+      hint: Phased, cutover, hybrid, etc
+      type: text
+      options: []
+      required: false

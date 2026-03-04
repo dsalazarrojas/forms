@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Loan Application Portal Access Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: applicant_email
+      label: Applicant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: applicant_phone
+      label: Applicant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: lender_name
+      label: Lender Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: loan_terms
+      label: Loan Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: loan_duration
+      label: Loan Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: loan_rate
+      label: Loan Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: loan_status
+      label: Loan Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: false
+    - id: 10
+      name: applicant_notes
+      label: Applicant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: lender_notes
+      label: Lender Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: applicant_agreed
+      label: Applicant Agreed
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: lender_agreed
+      label: Lender Agreed
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false

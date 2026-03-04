@@ -1,0 +1,71 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Leave Request Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: employee name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: start_date
+      label: start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: leave_type
+      label: leave type
+      hint: null
+      type: select_one
+      options:
+      - Sick Leave
+      - Vacation Leave
+      - Personal Leave
+      required: false
+    - id: 5
+      name: reason_for_leave
+      label: reason for leave
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager_approvals
+      label: manager approvals
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Approve'', ''label'': ''Approve''}'
+      - '{''id'': 2, ''name'': ''Reject'', ''label'': ''Reject''}'
+      - '{''id'': 3, ''name'': ''Pending'', ''label'': ''Pending''}'
+      required: false
+    - id: 7
+      name: manager_comment
+      label: manager comment
+      hint: null
+      type: text
+      options: []
+      required: false

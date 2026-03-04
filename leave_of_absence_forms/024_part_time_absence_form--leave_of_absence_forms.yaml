@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Part Time Absence Form
+    pages:
+    - id: 1
+      name: part_time_absence_form_data
+      label: part_time_absence_form_data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: absence_type
+      label: absence_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Annual Leave''}'
+      - '{''value'': ''Sick Leave''}'
+      - '{''value'': ''Other Leave''}'
+      required: false
+    - id: 3
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: duration
+      label: duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: frequency
+      label: frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: end_time
+      label: end_time
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''08:00''}'
+      - '{''value'': 960}'
+      - '{''value'': 1020}'
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: confirm_absence
+      label: confirm_absence
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 13
+      name: confirm_absence_message
+      label: confirm_absence_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: manager_approvals
+      label: manager_approvals
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Manager''}'
+      - '{''value'': ''Manager 2''}'
+      - '{''value'': ''Manager 3''}'
+      required: false
+    - id: 15
+      name: approval_level
+      label: approval_level
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Approver 1''}'
+      - '{''value'': ''Approver 2''}'
+      - '{''value'': ''Approver 3''}'
+      required: false
+    - id: 16
+      name: approval_message
+      label: approval_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: manager_approval
+      label: manager_approval
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Approver 1''}'
+      - '{''value'': ''Approver 2''}'
+      - '{''value'': ''Approver 3''}'
+      required: false
+    - id: 18
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: manager_id
+      label: manager_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Pending''}'
+      - '{''value'': ''Approved''}'
+      - '{''value'': ''Denied''}'
+      required: false
+    - id: 21
+      name: updated_at
+      label: updated_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: created_at
+      label: created_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: updated_by
+      label: updated_by
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Employee''}'
+      - '{''value'': ''Manager''}'
+      required: false
+    - id: 24
+      name: created_by
+      label: created_by
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Employee''}'
+      - '{''value'': ''Manager''}'
+      required: false
+    - id: 25
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false

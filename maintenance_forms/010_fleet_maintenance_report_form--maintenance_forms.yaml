@@ -1,0 +1,33 @@
+inputSchema:
+  type: object
+  properties:
+    title: fleet_maintenance_report_form
+    pages:
+    - id: 1
+      name: vehicle_number
+      label: Vehicle Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: vehicle_make
+      label: vehicle_make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_year
+      label: vehicle_year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: vehicle_model
+      label: vehicle_model
+      hint: null
+      type: text
+      options: []
+      required: false

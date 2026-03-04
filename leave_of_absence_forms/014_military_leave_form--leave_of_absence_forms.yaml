@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Military Leave Form
+    pages:
+    - id: 1
+      name: upcoming_leave
+      label: What is your current status?
+      hint: null
+      type: select_one
+      options:
+      - Army
+      - Navy
+      - Air Force
+      required: true
+    - id: 2
+      name: leave_date
+      label: Leave Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: leave_duration
+      label: How long will you be away?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: military_status
+      label: Military Status
+      hint: null
+      type: select_one
+      options:
+      - Active Duty
+      - Reserve Duty
+      - Disabled Veteran
+      required: true
+    - id: 5
+      name: military_service
+      label: Military Service Branch
+      hint: null
+      type: select_multiple
+      options:
+      - Army
+      - Navy
+      - Air Force
+      - Coast Guard
+      - Marine Corps
+      required: true
+    - id: 6
+      name: duty_station
+      label: Duty Station
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: unit_name
+      label: Military Unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: military_position
+      label: Military Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: report_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: reason
+      label: Reason for Leave
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: leave_notice
+      label: Leave Notice
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: unit_address
+      label: Unit Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: military_command
+      label: Military Command
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: leave_type
+      label: Leave Type
+      hint: null
+      type: select_one
+      options:
+      - Military Leave
+      - Vacation
+      required: true
+    - id: 16
+      name: leave_status
+      label: Leave Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 17
+      name: notes
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: submitter
+      label: Submitter
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: submitter_id
+      label: Submitter ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 21
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitter_department
+      label: Submitter Dept
+      hint: null
+      type: select_one
+      options:
+      - HR
+      - Other
+      required: true
+    - id: 23
+      name: submitter_position
+      label: Submitter Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter_notes
+      label: Submitter Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submitter_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

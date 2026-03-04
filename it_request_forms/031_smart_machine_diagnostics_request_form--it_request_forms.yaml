@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Machine Diagnostics Request Form
+    pages:
+    - id: 1
+      name: submit_request_form
+      label: Submit Request Form
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: machine_id
+      label: Machine ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: issue_description
+      label: Issue Description
+      hint: Briefly describe the issue
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: diagnostic_visit_date
+      label: Diagnostic Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: preferred_visit_date
+      label: Preferred Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: diagnostic_visit_time
+      label: Diagnostic Visit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: diagnostic_visit_duration
+      label: Diagnostic Visit Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: supporting_details
+      label: Supporting Details
+      hint: Additional details about the issue
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: supporting_files
+      label: Supporting Files
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: assigned_technician
+      label: Assigned Technician
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: scheduled_visit_time
+      label: Scheduled Visit Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: scheduled_visit_date
+      label: Scheduled Visit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: notes
+      label: Notes
+      hint: Any comments about the visit?
+      type: note
+      options: []
+      required: false

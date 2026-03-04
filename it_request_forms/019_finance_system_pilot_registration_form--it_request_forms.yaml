@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: finance-system-pilot-registration-form
+    pages:
+    - id: 1
+      name: form_id
+      label: form-id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pilot_objectives
+      label: pilot-objectives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: finance_systems_used
+      label: finance-systems-used
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''system 1''}'
+      - '{''label'': ''system 2''}'
+      - '{''label'': ''system 3''}'
+      required: false
+    - id: 5
+      name: consent_given
+      label: consent-given
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: phone-number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: date_created
+      label: date-created
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_created
+      label: time-created
+      hint: null
+      type: time
+      options: []
+      required: false

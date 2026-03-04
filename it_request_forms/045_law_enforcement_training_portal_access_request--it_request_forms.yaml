@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: law_enforcement_training_portal_access_request
+    pages:
+    - id: 1
+      name: law_enforcement_training_portal_access_request_form
+      label: Law Enforcement Training Portal Access Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: supervisor_name
+      label: supervisor_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: supervisor_title
+      label: supervisor_title
+      hint: Enter the title of the supervisor (e.g., Captain, Sergeant, etc.)
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: training_area
+      label: Training Area
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: mm/dd/yy
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: years_of_service
+      label: Years of Service
+      hint: Enter the employee's years of service
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: supervisor_phone
+      label: Supervisor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: supervisor_email
+      label: Supervisor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: supervisor_title_other
+      label: Supervisor Title (Other)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employee_phone
+      label: Employee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: supervisor_department
+      label: Supervisor Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: employee_department
+      label: Employee Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: training_status
+      label: Training Status
+      hint: Status of the training request
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: true
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: verification
+      label: Verification
+      hint: Is this request for verification
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 20
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: request_date
+      label: Request Date
+      hint: mm/dd/yy
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: supervisor_notes
+      label: Supervisor Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: reviewer_notes
+      label: Reviewer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: approved_by
+      label: Approved By
+      hint: User that approved the request
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: true

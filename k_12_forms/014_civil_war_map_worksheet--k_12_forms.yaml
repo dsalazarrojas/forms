@@ -1,0 +1,228 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Civil War Map Worksheet
+    pages:
+      - id: 1
+        name: student_name
+        label: Student Name
+        hint: Enter your first and last name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: grade_level
+        label: Grade Level
+        hint: Select your current grade
+        type: select_one
+        options:
+          - 5th Grade
+          - 6th Grade
+          - 7th Grade
+          - 8th Grade
+          - 9th Grade
+          - 10th Grade
+          - 11th Grade
+          - 12th Grade
+          - Homeschool
+        required: true
+      - id: 3
+        name: class_name
+        label: Class or Course Name
+        hint: e.g. US History, American Civil War
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: teacher_name
+        label: Teacher Name
+        hint: Your teacher or instructor
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: assignment_date
+        label: Assignment Date
+        hint: When was this assigned
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: map_title
+        label: Title of Map Being Analyzed
+        hint: Name of the Civil War map
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: map_date
+        label: Date of the Map
+        hint: When was the map created
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: map_creator
+        label: Who Created the Map
+        hint: Cartographer or organization
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: map_purpose
+        label: What Was the Purpose of This Map
+        hint: Why was it created
+        type: select_one
+        options:
+          - Military strategy and planning
+          - Public information and news
+          - Government records
+          - Personal use
+          - Commercial sale
+          - Educational purposes
+          - Unknown
+        required: true
+      - id: 10
+        name: geographic_area
+        label: What Geographic Area Does the Map Show
+        hint: Describe the region covered
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: states_shown
+        label: Which States or Territories Are Shown
+        hint: List the states visible on the map
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: map_symbols
+        label: What Symbols Are Used on the Map
+        hint: Describe symbols for armies, battles, etc.
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: battle_locations
+        label: Are Battle Locations Marked
+        hint: On the map
+        type: select_one
+        options:
+          - Yes, many battles shown
+          - Yes, a few battles shown
+          - No battles shown
+          - Unsure
+        required: true
+      - id: 14
+        name: battles_named
+        label: List Any Battles or Locations You Recognize
+        hint: From the map
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: troop_movements
+        label: Are Troop Movements Shown
+        hint: Arrows or lines indicating movement
+        type: select_one
+        options:
+          - Yes, clearly shown
+          - Yes, somewhat shown
+          - No, not shown
+          - Unsure
+        required: true
+      - id: 16
+        name: north_south
+        label: Does the Map Show Union Territory, Confederate Territory, or Both
+        hint: Select what the map depicts
+        type: select_one
+        options:
+          - Union states only
+          - Confederate states only
+          - Both Union and Confederate
+          - Border states only
+          - Cannot determine
+        required: true
+      - id: 17
+        name: map_accuracy
+        label: How Accurate Do You Think This Map Is
+        hint: Based on what you know
+        type: select_one
+        options:
+          - Very accurate
+          - Somewhat accurate
+          - Neutral
+          - Somewhat inaccurate
+          - Very inaccurate
+          - Cannot determine
+        required: true
+      - id: 18
+        name: map_bias
+        label: Does the Map Show Bias Toward One Side
+        hint: Union or Confederate perspective
+        type: select_one
+        options:
+          - Yes, Union bias
+          - Yes, Confederate bias
+          - No, appears neutral
+          - Cannot determine
+        required: true
+      - id: 19
+        name: bias_evidence
+        label: What Evidence Suggests Bias
+        hint: Explain your answer above
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: historical_context
+        label: What Historical Event or Period Does This Map Relate To
+        hint: Be specific if possible
+        type: text
+        options: []
+        required: true
+      - id: 21
+        name: map_insights
+        label: What Did You Learn From Analyzing This Map
+        hint: New information or insights gained
+        type: text
+        options: []
+        required: true
+      - id: 22
+        name: questions_remaining
+        label: What Questions Do You Still Have
+        hint: After studying this map
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: difficulty_level
+        label: How Difficult Was This Worksheet
+        hint: Self-assessment
+        type: select_one
+        options:
+          - Very easy
+          - Somewhat easy
+          - Just right
+          - Somewhat difficult
+          - Very difficult
+        required: true
+      - id: 24
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other thoughts about the map or assignment
+        type: text
+        options: []
+        required: false

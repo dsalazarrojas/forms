@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exclusive Sale Signup Form
+    pages:
+    - id: 1
+      name: user_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: user_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: user_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: user_interests
+      label: Interests
+      hint: null
+      type: select_multiple
+      options:
+      - Fashion
+      - Sports
+      - Beauty
+      - Technology
+      - Food
+      - Music
+      - Travel
+      - Gaming
+      - Home
+      - Art
+      required: true
+    - id: 5
+      name: user_location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - New York
+      - Los Angeles
+      - Chicago
+      - Houston
+      - Phoenix
+      - Philadelphia
+      - San Antonio
+      - San Diego
+      - Dallas
+      - San Jose
+      required: true
+    - id: 6
+      name: user_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: sale_date
+      label: Sale Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: sale_time
+      label: Sale Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: promo_code
+      label: Promo Code
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Building Alert Setup Request Form
+    pages:
+    - id: 1
+      name: building_alerts
+      label: Building Alerts
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: notification_preferences
+      label: Notification Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: building_alert_triggers
+      label: Building Alert Triggers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: trigger_type
+      label: Trigger Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: trigger_condition
+      label: Trigger Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: notification_preferences_type
+      label: Notification Preferences Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: notification_preferences_frequency
+      label: Notification Preferences Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: alert_type
+      label: Alert Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: alert_priority
+      label: Alert Priority
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: alert_frequency
+      label: Alert Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: smart_building_alerts
+      label: Smart Building Alerts
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: alerts_frequency
+      label: Alerts Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: contact_department
+      label: Contact Department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: building_type
+      label: Building Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: building_id
+      label: Building ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: building_address
+      label: Building Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: building_location
+      label: Building Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: building_floor
+      label: Building Floor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: building_description
+      label: Building Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: building_status
+      label: Building Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 24
+      name: contact_manager
+      label: Contact Manager
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Civil Engineering Site Visit Leave Of Absence Form
+    pages:
+    - id: 1
+      name: employee_leave_header
+      label: -- Leave of Absence Request for Site Visit --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_role
+      label: Job Title/Role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_name_info
+      label: Associated Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: site_location
+      label: Site Visit Location (Address or Coordinates)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: leave_duration_header
+      label: -- Visit Duration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: leave_start_date
+      label: Leave Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: leave_end_date
+      label: Leave End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: purpose_of_visit
+      label: Primary Purpose of Site Visit
+      hint: null
+      type: select_one
+      options:
+      - Initial Site Assessment
+      - Construction Inspection
+      - Surveying/Mapping
+      - Environmental Sampling
+      - Final Project Walkthrough
+      required: true
+    - id: 10
+      name: contact_during_leave
+      label: Personal Phone/Contact while on Site
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: supervisor_approval_name
+      label: Immediate Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: transportation_method
+      label: Mode of Transportation
+      hint: null
+      type: select_one
+      options:
+      - Company Vehicle
+      - Personal Vehicle (Mileage Reimbursement)
+      - Public Transport
+      - Air Travel
+      required: true
+    - id: 13
+      name: safety_equipment_check
+      label: I have the necessary PPE (Safety gear) for this visit
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Needs to be issued
+      required: true
+    - id: 14
+      name: request_submission_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true

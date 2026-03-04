@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: tech_system_upgrade_impact_assessment_form
+    pages:
+    - id: 1
+      name: tech_system_upgrade
+      label: tech_system_upgrade
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: expected_impact
+      label: expected_impact
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 3
+      name: tech_system_readiness
+      label: tech_system_readiness
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: tech_system_readiness_level
+      label: tech_readiness_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: readiness_risks
+      label: readiness_risks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: readiness_risks_level
+      label: readiness_risks_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 7
+      name: planned_upgrade_schedule
+      label: planned_upgrade_schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: actual_upgrade_start_date
+      label: actual_upgrade_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: actual_upgrade_complete_date
+      label: actual_upgrade_complete_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: tech_system_support_level
+      label: tech_system_support_level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 11
+      name: tech_system_support_level_level
+      label: tech_support_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 12
+      name: upgrade_risks
+      label: upgrade_risks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: upgrade_risks_level
+      label: upgrade_risks_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 14
+      name: actual_upgrade_cost
+      label: actual_upgrade_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: actual_upgrade_cost_justification
+      label: actual_upgrade_cost_justification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: planned_upgrade_cost
+      label: planned_upgrade_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: planned_upgrade_cost_justification
+      label: planned_upgrade_cost_justification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: tech_system_change_request
+      label: tech_system_change_request
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 19
+      name: actual_upgrade_status
+      label: actual_upgrade_status
+      hint: null
+      type: select_one
+      options:
+      - Planned
+      - In Progress
+      - Complete
+      required: false

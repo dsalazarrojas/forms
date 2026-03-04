@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Library Patron Suggestion Form
+    pages:
+    - id: 1
+      name: form_page_1
+      label: form_page_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: material_title
+      label: material_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: material_type
+      label: material_type
+      hint: null
+      type: select_one
+      options:
+      - book
+      - movie
+      - music
+      - game
+      required: false
+    - id: 4
+      name: service_improvement
+      label: service_improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: community_needs
+      label: community_needs
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: form_page_2
+      label: form_page_2
+      hint: null
+      type: text
+      options: []
+      required: false

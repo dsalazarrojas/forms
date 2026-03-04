@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: cybersecurity_alert_release_form
+    pages:
+    - id: 1
+      name: security_incident
+      label: security_incident
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 2
+      name: severity_level
+      label: severity_level
+      hint: null
+      type: select_one
+      options:
+      - high
+      - medium
+      - low
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_incident_happened
+      label: date_incident_happened
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_incident_happened
+      label: time_incident_happened
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: affected_resources
+      label: affected_resources
+      hint: null
+      type: select_multiple
+      options:
+      - asset_1
+      - asset_2
+      - asset_3
+      required: false
+    - id: 8
+      name: impact_level
+      label: impact_level
+      hint: null
+      type: select_one
+      options:
+      - high
+      - medium
+      - low
+      required: false
+    - id: 9
+      name: priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - high
+      - medium
+      - low
+      required: false
+    - id: 10
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - new
+      - in_progress
+      - resolved
+      required: false
+    - id: 11
+      name: related_incidents
+      label: related_incidents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: incident_number
+      label: incident_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: reported_by
+      label: reported_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: report_time
+      label: report_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: release_group
+      label: release_group
+      hint: null
+      type: select_one
+      options:
+      - group_1
+      - group_2
+      - group_3
+      required: false

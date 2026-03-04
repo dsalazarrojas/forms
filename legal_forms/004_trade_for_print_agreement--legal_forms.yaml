@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trade For Print Agreement
+    pages:
+    - id: 1
+      name: photographer
+      label: Photographer
+      hint: null
+      type: select_one
+      options:
+      - Photographer
+      - Other
+      required: true
+    - id: 2
+      name: model
+      label: Model
+      hint: null
+      type: select_one
+      options:
+      - Model
+      - Other
+      required: true
+    - id: 3
+      name: usage
+      label: Usage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: agreement_date
+      label: Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: contract_start_date
+      label: Contract Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: contract_end_date
+      label: Contract End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: terms_of_use
+      label: Terms of Use
+      hint: null
+      type: select_multiple
+      options:
+      - Terms of Use 1
+      - Terms of Use 2
+      - Terms of Use 3
+      - Terms of Use 4
+      - Terms of Use 5
+      required: true
+    - id: 9
+      name: agreement_notes
+      label: Agreement Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: signature
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - Signature
+      - Other
+      required: true

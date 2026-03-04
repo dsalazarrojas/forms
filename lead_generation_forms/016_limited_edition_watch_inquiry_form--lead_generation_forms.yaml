@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Limited Edition Watch Inquiry Form
+    pages:
+    - id: 1
+      name: limited_edition_watch_inquiry_form_page1
+      label: watch_interest
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: select_one
+      label: watch_model
+      hint: null
+      type: select_one
+      options:
+      - Roley
+      - Rolex
+      - Omega
+      required: true
+    - id: 9
+      name: select_multiple
+      label: colors
+      hint: null
+      type: select_multiple
+      options:
+      - Black
+      - White
+      - Green
+      required: false
+    - id: 10
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

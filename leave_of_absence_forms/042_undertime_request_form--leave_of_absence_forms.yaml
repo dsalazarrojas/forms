@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Untime request form
+    pages:
+    - id: 1
+      name: employee_id
+      label: employee id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: start_date
+      label: start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: end_date
+      label: end date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reason
+      label: reason for leave
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager_id
+      label: manager id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: manager_name
+      label: manager name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_email
+      label: manager email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: status
+      label: status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: request_date
+      label: request date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: request_time
+      label: request time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: approved_status
+      label: approved status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 14
+      name: approved_by
+      label: approved by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: approved_date
+      label: approved date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

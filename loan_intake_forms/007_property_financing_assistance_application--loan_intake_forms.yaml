@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: property_financing_assistance_application
+    pages:
+    - id: 1
+      name: property_details
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_funding_request
+      label: Property Funding Request
+      hint: Please describe your property funding request
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: property_value
+      label: Property Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: property_age
+      label: Property Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: lender_info
+      label: Lender Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: property_funding_amount
+      label: Property Funding Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: broker_info
+      label: Broker Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: property_funding_status
+      label: Property Funding Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: contact_preference
+      label: Contact Preference
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,181 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Library Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: -- Academic Library Survey --
+      hint: Help us improve your library experience by sharing your feedback.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patron_type
+      label: What type of library user are you
+      hint: null
+      type: select_one
+      options:
+        - Undergraduate Student
+        - Graduate Student
+        - Faculty
+        - Staff
+        - Community Member
+        - Visiting Researcher
+      required: true
+    - id: 3
+      name: visit_frequency
+      label: How often do you visit the library (in person or online)
+      hint: null
+      type: select_one
+      options:
+        - Daily
+        - Several times a week
+        - Once a week
+        - A few times a month
+        - Rarely
+        - Never
+      required: true
+    - id: 4
+      name: primary_purpose
+      label: What is your primary reason for using the library (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+        - Studying or homework
+        - Research and databases
+        - Borrowing books or materials
+        - Using computers or printers
+        - Group collaboration spaces
+        - Attending events or workshops
+      required: true
+    - id: 5
+      name: collection_satisfaction
+      label: How satisfied are you with the librarys collection of books, journals, and digital resources
+      hint: null
+      type: select_one
+      options:
+        - Very dissatisfied
+        - Dissatisfied
+        - Neutral
+        - Satisfied
+        - Very satisfied
+      required: true
+    - id: 6
+      name: online_resources_rating
+      label: How would you rate the quality and accessibility of online databases and e-resources
+      hint: null
+      type: select_one
+      options:
+        - Poor
+        - Fair
+        - Good
+        - Very Good
+        - Excellent
+      required: true
+    - id: 7
+      name: staff_helpfulness
+      label: How helpful is the library staff when you need assistance
+      hint: null
+      type: select_one
+      options:
+        - Not at all helpful
+        - Slightly helpful
+        - Moderately helpful
+        - Very helpful
+        - Extremely helpful
+      required: true
+    - id: 8
+      name: facilities_rating
+      label: How would you rate the physical facilities (seating, lighting, cleanliness)
+      hint: null
+      type: select_one
+      options:
+        - Poor
+        - Fair
+        - Good
+        - Very Good
+        - Excellent
+      required: true
+    - id: 9
+      name: technology_satisfaction
+      label: How satisfied are you with the technology available (computers, Wi-Fi, printers, scanners)
+      hint: null
+      type: select_one
+      options:
+        - Very dissatisfied
+        - Dissatisfied
+        - Neutral
+        - Satisfied
+        - Very satisfied
+      required: true
+    - id: 10
+      name: hours_satisfaction
+      label: Are you satisfied with the librarys operating hours
+      hint: null
+      type: select_one
+      options:
+        - Yes - fully satisfied
+        - Somewhat - could be extended
+        - No - hours are too limited
+      required: true
+    - id: 11
+      name: noise_level
+      label: How would you rate the noise level in study areas
+      hint: null
+      type: select_one
+      options:
+        - Too noisy
+        - Somewhat noisy
+        - Just right
+        - Too quiet
+      required: false
+    - id: 12
+      name: improvement_suggestions
+      label: What services or resources would you like the library to add or improve
+      hint: Please share your ideas
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: overall_satisfaction
+      label: Overall, how satisfied are you with your library experience
+      hint: null
+      type: select_one
+      options:
+        - Very dissatisfied
+        - Dissatisfied
+        - Neutral
+        - Satisfied
+        - Very satisfied
+      required: true
+    - id: 14
+      name: recommend_library
+      label: How likely are you to recommend this library to a peer
+      hint: null
+      type: select_one
+      options:
+        - Very unlikely
+        - Unlikely
+        - Neutral
+        - Likely
+        - Very likely
+      required: false
+    - id: 15
+      name: additional_feedback
+      label: Any additional comments or feedback about the library
+      hint: null
+      type: text
+      options: []
+      required: false

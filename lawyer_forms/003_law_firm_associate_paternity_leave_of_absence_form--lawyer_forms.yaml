@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Law Firm Associate Paternity Leave Of Absence Form
+    pages:
+    - id: 1
+      name: leave_request_details
+      label: Leave Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: leave_type
+      label: Leave Type
+      hint: null
+      type: select_one
+      options:
+      - Parental
+      - Adoption
+      - Surrogacy
+      - Grandparental
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_absence
+      label: Reason For Absence
+      hint: Please provide a reason for the leave
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: leave_status
+      label: Leave Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      - In Progress
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: leave_request_id
+      label: Leave Request ID
+      hint: null
+      type: number
+      options: []
+      required: false

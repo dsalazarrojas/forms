@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accident Recovery Time Off Form
+    pages:
+    - id: 1
+      name: employee_details
+      label: -- Employee Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee name
+      hint: Full name as listed in HR records
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: Internal employee number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: Department or team name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact phone
+      hint: Best number to reach the employee
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email address
+      hint: Work or personal email for notifications
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: date_of_accident
+      label: Date of accident
+      hint: Date when accident or injury occurred
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: injury_description
+      label: Injury description
+      hint: Brief description of injuries sustained
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: treating_provider
+      label: Treating provider
+      hint: Name of doctor, clinic or hospital providing care
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: anticipated_return_date
+      label: Anticipated return date
+      hint: If known provide expected return to work date
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: requested_leave_start
+      label: Requested leave start date
+      hint: First date of requested time off
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: requested_leave_end
+      label: Requested leave end date
+      hint: Last date of requested time off
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: paid_leave_requested
+      label: Paid leave requested
+      hint: Indicate whether paid leave is requested
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: supporting_documents_uploaded
+      label: Supporting documents uploaded
+      hint: Examples include medical notes or accident reports
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 15
+      name: supervisor_name
+      label: Supervisor name
+      hint: Supervisor for approval and follow up
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: employee_signature
+      label: Employee signature
+      hint: Type full name to sign electronically
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: additional_comments
+      label: Additional comments
+      hint: Any extra details for HR consideration
+      type: text
+      options: []
+      required: false

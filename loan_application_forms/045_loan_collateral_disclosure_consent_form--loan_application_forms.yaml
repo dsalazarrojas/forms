@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: loan_collateral_disclosure_consent_form
+    pages:
+    - id: 1
+      name: loan_collateral_disclosure_consent
+      label: I am a real person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: collateral_type
+      label: Collateral Type
+      hint: Select the type of collateral
+      type: select_multiple
+      options:
+      - Home
+      - Vehicle
+      - Other
+      required: false
+    - id: 3
+      name: collateral_value
+      label: Collateral Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: collateral_value_currency
+      label: Collateral Value Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - CAD
+      - EUR
+      required: false
+    - id: 5
+      name: disclosure_acknowledgement
+      label: Disclosure Acknowledgement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: signature
+      label: Signature
+      hint: Sign this form by writing your name
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: signature_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: signature_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: lender_broker_info
+      label: Lender/Broker Information
+      hint: Provide any additional lender/broker information
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: borrower_info
+      label: Borrower Information
+      hint: null
+      type: text
+      options: []
+      required: false

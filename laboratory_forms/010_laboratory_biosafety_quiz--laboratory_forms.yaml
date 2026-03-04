@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Laboratory Biosafety Quiz
+    pages:
+    - id: 1
+      name: lab_biosafety_quiz
+      label: Laboratory Biosafety Quiz
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: spill_response
+      label: Spill Response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: ppe
+      label: PPE
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 4
+      name: biohazard_handling
+      label: Biohazard Handling
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 5
+      name: lab_safety_policies
+      label: Lab Safety Policies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: quiz_completed
+      label: Completed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: quiz_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: quiz_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: submitted
+      label: Submitted
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reviewer_email
+      label: Reviewer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: reviewer_phone
+      label: Reviewer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false

@@ -1,0 +1,89 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Collaboration Software Requisition Form
+    pages:
+      - id: 1
+        name: header
+        label: -- Software Requisition --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: requester
+        label: Requester name
+        hint: Full name of the requester
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: department
+        label: Department
+        hint: Team requesting software
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: software_name
+        label: Software name
+        hint: Name of software or tool
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: license_type
+        label: License type needed
+        hint: Number of seats or type
+        type: select_one
+        options:
+          - Single user
+          - Team
+          - Enterprise
+        required: true
+      - id: 6
+        name: justification
+        label: Justification for requisition
+        hint: Business case for the tool
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: preferred_vendor
+        label: Preferred vendor
+        hint: Vendor name if applicable
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: budget_code
+        label: Budget code
+        hint: Cost center or budget line
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: required_by_date
+        label: Required by date
+        hint: YYYY-MM-DD
+        type: date
+        options: []
+        required: false
+      - id: 10
+        name: approvals_needed
+        label: Approvals needed
+        hint: List approvers required
+        type: text
+        options: []
+        required: false

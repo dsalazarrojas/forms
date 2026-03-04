@@ -1,0 +1,104 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Smart Contract Lease Execution Consent Form
+    pages:
+    - id: 1
+      name: tenant_name
+      label: tenant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tenant_email
+      label: tenant_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: landlord_name
+      label: landlord_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: landlord_email
+      label: landlord_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: lease_start_date
+      label: lease_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: lease_end_date
+      label: lease_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: smart_contract_address
+      label: smart_contract_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contract_execution_date
+      label: contract_execution_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: terms_and_conditions
+      label: terms_and_conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contract_execution_method
+      label: contract_execution_method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''execute via smart contract''}'
+      - '{''label'': ''execute via lawyer''}'
+      - '{''label'': ''execute via notary''}'
+      - '{''label'': ''execute via other''}'
+      required: false
+    - id: 11
+      name: consent_date
+      label: consent_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: consent_time
+      label: consent_time
+      hint: null
+      type: time
+      options: []
+      required: false

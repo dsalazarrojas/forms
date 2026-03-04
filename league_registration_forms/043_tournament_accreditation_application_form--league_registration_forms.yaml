@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tournament Accreditation Application Form
+    pages:
+    - id: 1
+      name: tournament_details
+      label: Tournament Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: accreditation_request
+      label: Accreditation Request
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: tournament_category
+      label: Select a category for this tournament
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''A'', ''label'': ''A''}'
+      - '{''id'': 2, ''value'': ''B'', ''label'': ''B''}'
+      - '{''id'': 3, ''value'': ''C'', ''label'': ''C''}'
+      - '{''id'': 4, ''value'': ''D'', ''label'': ''D''}'
+      required: false
+    - id: 5
+      name: tournament_dates
+      label: Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: tournament_times
+      label: Times
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: tournament_venue
+      label: Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: tournament_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: tournament_contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: tournament_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: tournament_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: tournament_website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: accreditation_status
+      label: Accreditation Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''pending'', ''label'': ''Pending''}'
+      - '{''id'': 2, ''value'': ''approved'', ''label'': ''Approved''}'
+      - '{''id'': 3, ''value'': ''denied'', ''label'': ''Denied''}'
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''admin'', ''label'': ''Admin''}'
+      - '{''id'': 2, ''value'': ''staff'', ''label'': ''Staff''}'
+      - '{''id'': 3, ''value'': ''user'', ''label'': ''User''}'
+      required: false
+    - id: 19
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: submitted_by_name
+      label: Submitted By Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitted_by_email
+      label: Submitted By Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: submitted_by_phone
+      label: Submitted By Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by_website
+      label: Submitted By Website
+      hint: null
+      type: text
+      options: []
+      required: false

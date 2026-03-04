@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: White Label Agreement Form
+    pages:
+    - id: 1
+      name: partnership_name
+      label: Partnership Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: partner_name
+      label: Partner's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: partner_email
+      label: Partner's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: partner_company
+      label: Partner's Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: partner_address
+      label: Partner's Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: partner_phone
+      label: Partner's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: agreement_terms
+      label: Agreement Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: agreement_version
+      label: Agreement Version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: partnership_type
+      label: Partnership Type
+      hint: null
+      type: select_one
+      options:
+      - Sole Partnership
+      - General Partnership
+      - Limited Partnership
+      - Corporation
+      required: false

@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Integrity Validation Request Form
+    pages:
+    - id: 1
+      name: form_data_integrity_validation_request_form_it_request_forms
+      label: form-data-integrity-validation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: data_integrity_validation_request_form_it_category
+      label: data_integrity_validation_request_form_it_category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: data_integrity_validation_request_form_it_description
+      label: data_integrity_validation_request_form_it_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: data_integrity_validation_request_form_it_requester
+      label: data_integrity_validation_request_form_it_requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: data_integrity_validation_request_form_it_requests_submitted
+      label: data_integrity_validation_request_form_it_requests_submitted
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: data_integrity_validation_request_form_it_requests_submitted_count
+      label: data_integrity_validation_request_form_it_requests_submitted_count
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: data_integrity_validation_request_form_it_date_submitted
+      label: data_integrity_validation_request_form_it_date_submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: data_integrity_validation_request_form_it_time_submitted
+      label: data_integrity_validation_request_form_it_time_submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: data_integrity_validation_request_form_it_status
+      label: data_integrity_validation_request_form_it_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: data_integrity_validation_request_form_it_notes
+      label: data_integrity_validation_request_form_it_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: data_integrity_validation_request_form_it_email
+      label: data_integrity_validation_request_form_it_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: data_integrity_validation_request_form_it_phone
+      label: data_integrity_validation_request_form_it_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: data_integrity_validation_request_form_it_assignee
+      label: data_integrity_validation_request_form_it_assignee
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

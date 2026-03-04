@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness App Malfunction Incident Report Form
+    pages:
+    - id: 1
+      name: user_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: severity
+      label: prophets Severity
+      hint: null
+      type: select_one
+      options:
+      - Critical
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 6
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - Critical
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 7
+      name: steps
+      label: steps to reproduce
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: screenshots
+      label: Screenshots
+      hint: null
+      type: select_multiple
+      options:
+      - Screenshots
+      - No Screenshots
+      required: false
+    - id: 9
+      name: screenshots_url
+      label: Screenshots URL
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: video_url
+      label: Video URL
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: attachment
+      label: attachment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: device_model
+      label: device model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: operating_system
+      label: operating system
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: field_14
+      label: Field 14
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: Citizenship Application Form
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Legal Name
+      hint: As it appears on birth certificate
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: other_names
+      label: Other Names Used
+      hint: Maiden name, aliases, etc.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Current Address
+      hint: Street, city, state, zip code
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: place_of_birth
+      label: Place of Birth
+      hint: City and country
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 9
+      name: marital_status
+      label: Marital Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      - Separated
+      required: true
+    - id: 10
+      name: spouse_name
+      label: Spouse's Full Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: spouse_citizenship
+      label: Spouse's Citizenship
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: children
+      label: Do You Have Children
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: children_details
+      label: Children's Names and Dates of Birth
+      hint: If yes
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: country_of_birth
+      label: Country of Birth
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: current_nationality
+      label: Current Nationality
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: residency_status
+      label: U.S. Residency Status
+      hint: null
+      type: select_one
+      options:
+      - Lawful Permanent Resident
+      - Conditional Resident
+      - Asylee/Refugee
+      - Other
+      required: true
+    - id: 17
+      name: green_card_number
+      label: Green Card Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: green_card_date
+      label: Date Became Permanent Resident
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: travel_history
+      label: Travel Outside U.S. in Past 5 Years
+      hint: List all trips over 30 days
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: criminal_history
+      label: Have You Ever Been Arrested
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: criminal_history_detail
+      label: Please Explain
+      hint: If yes
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: selective_service
+      label: Selective Service Registration
+      hint: For males born after 1959
+      type: select_one
+      options:
+      - Registered
+      - Not required
+      - Need to register
+      required: false
+    - id: 24
+      name: english_proficiency
+      label: Can You Read, Write, and Speak English
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: civics_preparation
+      label: Have You Studied U.S. History and Government
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: oath_allegiance
+      label: Willingness to Take Oath of Allegiance
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: signature
+      label: Applicant Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: signature_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: App Location Tracking Consent Form
+    pages:
+    - id: 1
+      name: section_consent
+      label: -- Location Tracking Consent --
+      hint: Capture user permission for location based features
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: user_identifier
+      label: User identifier
+      hint: Account id or email if applicable
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: agree_location_tracking
+      label: I consent to location tracking while using the app
+      hint: Consent may be revoked in settings
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true
+    - id: 4
+      name: tracking_purpose
+      label: Purpose of tracking explained
+      hint: Describe how location data will be used
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: data_retention_period
+      label: Data retention period
+      hint: Specify retention timeframe in days
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: share_with_third_parties
+      label: Allow sharing location data with third parties
+      hint: Partners analytics service providers
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 7
+      name: revoke_instructions
+      label: How to revoke consent
+      hint: Provide steps to disable tracking in the app
+      type: text
+      options: []
+      required: false

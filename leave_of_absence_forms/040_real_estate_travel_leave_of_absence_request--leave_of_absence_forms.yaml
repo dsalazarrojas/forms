@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Travel Leave Of Absence Request
+    pages:
+    - id: 1
+      name: travel_request
+      label: Travel Request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: travel_dates
+      label: Travel Dates
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: travel_destination
+      label: Travel Destination
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: travel_description
+      label: Travel Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: travel_return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: travel_status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: manager_review
+      label: Manager Review
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: reason_for_leave
+      label: Reason for Leave
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: supervisor_email
+      label: Supervisor Email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: supervisor_phone
+      label: Supervisor Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: travel_reason
+      label: Reason for Traveling
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: travel_purpose
+      label: Purpose of Travel
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: travel_days
+      label: Travel Days
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: travel_hours
+      label: Travel Hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: travel_cost
+      label: Travel Cost
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: comments_2
+      label: Comments 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: true

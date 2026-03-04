@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sign Up For Seasonal Collection Updates
+    pages:
+    - id: 1
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: select_seasonal_interest
+      label: Select Seasonal Interest
+      hint: null
+      type: select_multiple
+      options:
+      - Summer
+      - Winter
+      - Spring
+      - Autumn
+      required: false
+    - id: 5
+      name: select_seasonal_purpose
+      label: Select Seasonal Purpose
+      hint: null
+      type: select_one
+      options:
+      - Product Launch
+      - Event
+      - Collection Update
+      - Special Offer
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false

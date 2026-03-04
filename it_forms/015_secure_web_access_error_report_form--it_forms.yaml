@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Secure Web Access Error Report Form
+    pages:
+    - id: 1
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: error_details
+      label: Error Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: issue_date
+      label: Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: issue_time
+      label: Issue Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: error_type
+      label: Error Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: error_message
+      label: Error Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: screenshot
+      label: Screenshot
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: browser_type
+      label: Browser Type
+      hint: null
+      type: select_multiple
+      options:
+      - chrome
+      - firefox
+      - safari
+      required: false
+    - id: 9
+      name: os
+      label: OS
+      hint: null
+      type: select_one
+      options:
+      - windows
+      - mac
+      - linux
+      required: false
+    - id: 10
+      name: ip_address
+      label: IP Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: browser_version
+      label: Browser Version
+      hint: null
+      type: text
+      options: []
+      required: false

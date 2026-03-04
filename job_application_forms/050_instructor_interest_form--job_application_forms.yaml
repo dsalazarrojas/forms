@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Instructor Interest Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: instructor_type
+      label: instructor_type
+      hint: null
+      type: select_one
+      options:
+      - Military
+      - Civilian
+      required: false
+    - id: 6
+      name: years_experience
+      label: years_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: education_level
+      label: education_level
+      hint: null
+      type: select_multiple
+      options:
+      - High School
+      - Associate's
+      - Bachelor's
+      - Master's
+      - Doctorate
+      required: false
+    - id: 8
+      name: areas_of_interest
+      label: areas_of_interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: available_start_date
+      label: available_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: preferred_start_date
+      label: preferred_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: instructor_interest_statement
+      label: instructor_interest_statement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: military_service
+      label: military_service
+      hint: null
+      type: select_one
+      options:
+      - Army
+      - Navy
+      - Marine Corps
+      - Air Force
+      - Coast Guard
+      required: false
+    - id: 13
+      name: military_branch
+      label: military_branch
+      hint: null
+      type: select_multiple
+      options:
+      - Army
+      - Navy
+      - Marine Corps
+      - Air Force
+      - Coast Guard
+      required: false
+    - id: 14
+      name: military_years_served
+      label: military_years_served
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: military_rate
+      label: military_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: military_education
+      label: military_education
+      hint: null
+      type: text
+      options: []
+      required: false

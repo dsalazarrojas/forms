@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: personal_cyber_security_checklist
+    pages:
+    - id: 1
+      name: password_strength
+      label: Password Strength
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: two_factor_auth
+      label: Two Factor Auth
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: sensitive_info
+      label: Sensitive Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: backup_data
+      label: Regularly Backup Important Data
+      hint: null
+      type: select_multiple
+      options:
+      - Very Important
+      - Not Important
+      required: false
+    - id: 5
+      name: secure_devices
+      label: Secure Your Devices
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: network_security
+      label: Secure Your Network
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: account_security
+      label: Account Security
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: password
+      label: Password
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: update_software
+      label: Keep Software Up To Date
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: user_account
+      label: User Account
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: device_locks
+      label: Enable Device Locks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: password_manager
+      label: Password Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: secure_notes
+      label: Secure Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: password_reuse
+      label: Reuse Passwords
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,253 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consumer Rights Grant Application Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: Legal name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization_type
+      label: Organization Type
+      hint: Select your organization type
+      type: select_one
+      options:
+      - Nonprofit
+      - Government Agency
+      - Educational Institution
+      - Community Organization
+      - Legal Aid Society
+      - Consumer Advocacy Group
+      - Other
+      required: true
+    - id: 3
+      name: tax_id_number
+      label: Tax ID Number
+      hint: EIN or tax identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_address
+      label: Organization Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_city
+      label: City
+      hint: City location
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization_state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: organization_zip
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: organization_website
+      label: Organization Website
+      hint: URL of your website
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: year_established
+      label: Year Established
+      hint: Year organization was founded
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: contact_first_name
+      label: Contact First Name
+      hint: Primary contact first name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_last_name
+      label: Contact Last Name
+      hint: Primary contact last name
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contact_title
+      label: Contact Title
+      hint: Job title of contact
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: contact_email
+      label: Contact Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: project_title
+      label: Project Title
+      hint: Name of your consumer rights project
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: project_description
+      label: Project Description
+      hint: Detailed description of the project
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: consumer_rights_focus
+      label: Consumer Rights Focus
+      hint: Select primary focus area
+      type: select_one
+      options:
+      - Fair Lending
+      - Privacy Protection
+      - Product Safety
+      - Truth in Advertising
+      - Debt Collection
+      - Credit Reporting
+      - Consumer Education
+      - Legal Representation
+      - Policy Advocacy
+      - Other
+      required: true
+    - id: 18
+      name: target_population
+      label: Target Population
+      hint: Who will benefit from this project
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: expected_beneficiaries
+      label: Expected Number of Beneficiaries
+      hint: Estimated reach
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: project_goals
+      label: Project Goals
+      hint: What do you aim to achieve
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: project_timeline
+      label: Project Timeline
+      hint: Duration and key milestones
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: start_date
+      label: Proposed Start Date
+      hint: When will you begin
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: end_date
+      label: Proposed End Date
+      hint: When will project conclude
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: funding_requested
+      label: Funding Requested
+      hint: Amount of grant funding needed
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: budget_breakdown
+      label: Budget Breakdown
+      hint: How will funds be allocated
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: other_funding_sources
+      label: Other Funding Sources
+      hint: List any additional funding
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: organization_capacity
+      label: Organizational Capacity
+      hint: Describe your ability to execute
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: previous_grants
+      label: Previous Grant Experience
+      hint: Describe past grant projects
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: success_metrics
+      label: Success Metrics
+      hint: How will you measure success
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: sustainability_plan
+      label: Sustainability Plan
+      hint: How will project continue after grant
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: community_partners
+      label: Community Partners
+      hint: List any collaborating organizations
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: additional_information
+      label: Additional Information
+      hint: Any other relevant details
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: application_date
+      label: Application Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true

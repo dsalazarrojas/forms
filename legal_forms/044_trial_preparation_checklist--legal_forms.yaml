@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trial Preparation Checklist
+    pages:
+    - id: 1
+      name: trial_preparation_checklist
+      label: trial_preparation_checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: trial_location
+      label: trial_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: trial_date
+      label: trial_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: trial_time
+      label: trial_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: trial_jury_pool_size
+      label: trial_jury_pool_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: trial_judges
+      label: trial_judges
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 7
+      name: trial_plaintiffs
+      label: trial_plaintiffs
+      hint: null
+      type: select_multiple
+      options:
+      - John Doe
+      - Jane Doe
+      - Alice Smith
+      required: false
+    - id: 8
+      name: trial_defendants
+      label: trial_defendants
+      hint: null
+      type: select_multiple
+      options:
+      - John Doe
+      - Jane Doe
+      - Alice Smith
+      required: false
+    - id: 9
+      name: trial_location_details
+      label: trial_location_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: trial_attorneys
+      label: trial_attorneys
+      hint: null
+      type: select_multiple
+      options:
+      - John Smith
+      - Jane Doe
+      - Alice Smith
+      required: false
+    - id: 11
+      name: trial_expert_witnesses
+      label: trial_expert_witnesses
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: trial_plaintiff_attorneys
+      label: plaintiff_attorneys
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: trial_defendant_attorneys
+      label: defendant_attorneys
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: trial_expert_witnesses_list
+      label: trial_expert_witnesses_list
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: trial_case_status
+      label: trial_case_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Closed
+      required: false

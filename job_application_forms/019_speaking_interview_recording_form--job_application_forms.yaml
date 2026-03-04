@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Speaking Interview Recording Form
+    pages:
+    - id: 1
+      name: interview_questions
+      label: Interview Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: candidate_name
+      label: Candidate Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_recorded
+      label: Date Recorded
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_recorded
+      label: Time Recorded
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: duration_in_minutes
+      label: Duration In Minutes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: recording_file
+      label: Recording File
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Select File'', ''value'': ''Select File''}'
+      - '{''label'': ''No File'', ''value'': ''No File''}'
+      required: false
+    - id: 8
+      name: recording_notes
+      label: Recording Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: interviewer_name
+      label: Interviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: recorded_by
+      label: Recorded By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reviewed_by
+      label: Reviewed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: review_notes
+      label: Review Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: text
+      options: []
+      required: false

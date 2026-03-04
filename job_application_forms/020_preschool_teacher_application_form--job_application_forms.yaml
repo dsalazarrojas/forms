@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Preschool Teacher Application Form
+    pages:
+    - id: 1
+      name: name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: experience
+      label: Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: education_background
+      label: Education Background
+      hint: null
+      type: select_one
+      options:
+      - Diploma
+      - B.Ed
+      - Bachelor's
+      required: true
+    - id: 9
+      name: teaching_certification
+      label: Teaching Certification
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: job_location
+      label: Job Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: salary_range
+      label: Salary Range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_multiple
+      options:
+      - Full Time
+      - Part Time
+      required: true
+    - id: 16
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: available_days
+      label: Available Days
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: job_start_date
+      label: Job Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: job_end_date
+      label: Job End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: job_duration
+      label: Job Duration
+      hint: null
+      type: select_multiple
+      options:
+      - Full Time
+      - Part Time
+      - Temporary
+      required: true
+    - id: 21
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 22
+      name: job_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: required_documents
+      label: Required Documents
+      hint: null
+      type: select_multiple
+      options:
+      - Resume
+      - ID Card
+      - Passport
+      required: true
+    - id: 24
+      name: application_status
+      label: Application Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: true
+    - id: 25
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: true

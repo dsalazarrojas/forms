@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mortgage Pre Approval Verification Form
+    pages:
+    - id: 1
+      name: loan_application_form_1
+      label: Loan Application Form 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: income_1
+      label: income_1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Condo
+      - Townhouse
+      - Duplex
+      required: false
+    - id: 4
+      name: purchase_price
+      label: purchase_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: employment_status
+      label: employment_status
+      hint: null
+      type: select_multiple
+      options:
+      - Employed
+      - Self-Employed
+      - Retired
+      - Disabled
+      required: false
+    - id: 6
+      name: employment_length
+      label: employment_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: income_2
+      label: income_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: property_address_1
+      label: property_address_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: property_address_2
+      label: property_address_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: property_address_3
+      label: property_address_3
+      hint: null
+      type: text
+      options: []
+      required: false

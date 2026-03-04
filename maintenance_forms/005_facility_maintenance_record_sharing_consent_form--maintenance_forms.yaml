@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Maintenance Record Sharing Consent Form
+    pages:
+    - id: 1
+      name: maintenance_form
+      label: Facility Maintenance Record Sharing
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent_type
+      label: Type of Consent
+      hint: null
+      type: select_one
+      options:
+      - Maintenance Records
+      - Facility Maintenance Records
+      required: false
+    - id: 3
+      name: sharing_method
+      label: Sharing Method
+      hint: null
+      type: select_multiple
+      options:
+      - Internet
+      - Email
+      - Phone
+      - Mail
+      - Dropbox
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: agreement
+      label: Agreement
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: sharing_frequency
+      label: How Often to Share
+      hint: null
+      type: select_multiple
+      options:
+      - Once
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Bi-Annual
+      - Annually
+      - As Needed
+      required: false
+    - id: 13
+      name: email_frequency
+      label: Email Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Bi-Annual
+      - Annually
+      - As Needed
+      required: false
+    - id: 14
+      name: sharing_with
+      label: Who to Share with
+      hint: null
+      type: select_multiple
+      options:
+      - Facility Management Team
+      - Department Head
+      - Facility Users
+      - Facility Management
+      - Maintenance Team
+      - External Vendors
+      - All
+      required: false
+    - id: 15
+      name: facility_maintenance_team
+      label: Facility Maintenance Team
+      hint: null
+      type: select_multiple
+      options:
+      - Team 1
+      - Team 2
+      - Team 3
+      - Team 4
+      - Team 5
+      - Team 6
+      - Team 7
+      - Team 8
+      required: false
+    - id: 16
+      name: agreement_date
+      label: Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: signature
+      label: Sign
+      hint: null
+      type: select_multiple
+      options:
+      - Sign
+      - Sign and Date
+      - Sign and Print
+      - Sign and Email
+      - Sign and Fax
+      required: false

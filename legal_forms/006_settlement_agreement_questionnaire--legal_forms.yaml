@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Settlement Agreement Questionnaire
+    pages:
+    - id: 1
+      name: dispute_details
+      label: Dispute Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: party_1_details
+      label: Party 1 Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: party_2_details
+      label: Party 2 Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: mediator_details
+      label: Mediator Details
+      hint: null
+      type: select_multiple
+      options:
+      - Mediator A
+      - Mediator B
+      - Mediator C
+      required: false
+    - id: 5
+      name: resolution_details
+      label: Resolution Details
+      hint: null
+      type: select_one
+      options:
+      - Mediated
+      - Litigated
+      required: true
+    - id: 6
+      name: dispute_resolution_type
+      label: Dispute Resolution Type
+      hint: null
+      type: select_one
+      options:
+      - Arbitrated
+      - Mediated
+      required: true
+    - id: 7
+      name: resolution_date
+      label: Resolution Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: settlement_fees
+      label: Settlement Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: dispute_resolution_date
+      label: Dispute Resolution Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: resolution_time
+      label: Resolution Time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: it_system_access_offboarding_form
+    pages:
+    - id: 1
+      name: user_info
+      label: user_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: last_login_date
+      label: last_login_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: system_access_date
+      label: system_access_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_offboarding
+      label: reason_for_offboarding
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_confirmation
+      label: manager_confirmation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: system_admin
+      label: system_admin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: user_info_1
+      label: user_info_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: it_department
+      label: it_department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''HR''}'
+      - '{''id'': 2, ''label'': ''IT''}'
+      - '{''id'': 3, ''label'': ''Marketing''}'
+      - '{''id'': 4, ''label'': ''Finance''}'
+      required: true
+    - id: 11
+      name: system_password
+      label: system_password
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: system_access
+      label: system_access
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Access to email''}'
+      - '{''id'': 2, ''label'': ''Access to network''}'
+      - '{''id'': 3, ''label'': ''Access to phone''}'
+      - '{''id'': 4, ''label'': ''Access to shared files''}'
+      - '{''id'': 5, ''label'': ''Access to system resources''}'
+      - '{''id'': 6, ''label'': ''Access to system admin tools''}'
+      - '{''id'': 7, ''label'': ''Access to company database''}'
+      - '{''id'': 8, ''label'': ''Access to user profiles''}'
+      - '{''id'': 9, ''label'': ''Access to system backups''}'
+      - '{''id'': 10, ''label'': ''Access to security logs''}'
+      - '{''id'': 11, ''label'': ''Access to system configurations''}'
+      - '{''id'': 12, ''label'': ''Access to system updates''}'
+      - '{''id'': 13, ''label'': ''Access to all systems''}'
+      required: true
+    - id: 13
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: date_of_offboarding
+      label: date_of_offboarding
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: it_support_contact
+      label: it_support_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: it_support_email
+      label: it_support_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: system_admin_notes
+      label: system_admin_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: system_user
+      label: system_user
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Inactive''}'
+      - '{''id'': 3, ''label'': ''Deleted''}'
+      - '{''id'': 4, ''label'': ''Blocked''}'
+      - '{''id'': 5, ''label'': ''Locked''}'
+      - '{''id'': 6, ''label'': ''Pending''}'
+      - '{''id'': 7, ''label'': ''Suspend''}'
+      - '{''id'': 8, ''label'': ''Unknown''}'
+      required: true
+    - id: 19
+      name: system_access_date
+      label: system_access_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: manager_confirmation
+      label: manager_confirmation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: it_systems
+      label: it_systems
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Email''}'
+      - '{''id'': 2, ''label'': ''Network''}'
+      - '{''id'': 3, ''label'': ''System Resources''}'
+      - '{''id'': 4, ''label'': ''System Admin Tools''}'
+      - '{''id'': 5, ''label'': ''Company Database''}'
+      - '{''id'': 6, ''label'': ''User Profiles''}'
+      - '{''id'': 7, ''label'': ''System Backups''}'
+      - '{''id'': 8, ''label'': ''Security Logs''}'
+      - '{''id'': 9, ''label'': ''System Configurations''}'
+      - '{''id'': 10, ''label'': ''System Updates''}'
+      - '{''id'': 11, ''label'': ''All Systems''}'
+      required: true
+    - id: 22
+      name: it_system_access
+      label: it_system_access
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Access to email''}'
+      - '{''id'': 2, ''label'': ''Access to network''}'
+      - '{''id'': 3, ''label'': ''Access to phone''}'
+      - '{''id'': 4, ''label'': ''Access to shared files''}'
+      - '{''id'': 5, ''label'': ''Access to system resources''}'
+      - '{''id'': 6, ''label'': ''Access to system admin tools''}'
+      - '{''id'': 7, ''label'': ''Access to company database''}'
+      - '{''id'': 8, ''label'': ''Access to user profiles''}'
+      - '{''id'': 9, ''label'': ''Access to system backups''}'
+      - '{''id'': 10, ''label'': ''Access to security logs''}'
+      - '{''id'': 11, ''label'': ''Access to system configurations''}'
+      - '{''id'': 12, ''label'': ''Access to system updates''}'
+      - '{''id'': 13, ''label'': ''Access to all systems''}'
+      required: true

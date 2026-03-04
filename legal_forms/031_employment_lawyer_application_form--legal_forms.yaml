@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: employment_lawyer_application_form
+    pages:
+    - id: 1
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employment_issues
+      label: Employment Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: legal_issue_description
+      label: Legal Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Legal Forms
+      - Personal Finance
+      - Real Estate
+      required: false
+    - id: 9
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - james
+      - john
+      required: false
+    - id: 11
+      name: output_file
+      label: Output File
+      hint: null
+      type: select_one
+      options:
+      - 031_employment_lawyer_application_form--legal_forms.yaml
+      - other
+      required: false

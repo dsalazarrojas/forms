@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: GDPR Disclosure Form
+    pages:
+    - id: 1
+      name: user_information
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: personal_data
+      label: Personal Data
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: use
+      label: Use of Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sharing_info
+      label: Sharing Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: how
+      label: How we will use Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: sharing_partners
+      label: Sharing Information with third-party partners
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: data_collected
+      label: Data Collected
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: data_retention
+      label: Data Retention
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: manufacturing_long_term_sick_leave_request
+    pages:
+    - id: 1
+      name: employee
+      label: Employee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: leave_start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: leave_end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: plant_manager_approval
+      label: plant_manager_approval
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: manager_approval
+      label: manager_approval
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: hr_review_status
+      label: hr_review_status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: false
+    - id: 8
+      name: employee_return_date
+      label: return_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: employee_notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_signature
+      label: employee_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager_signature
+      label: manager_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: plant_manager_notes
+      label: plant_manager_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: plant_manager_signature
+      label: plant_manager_signature
+      hint: null
+      type: text
+      options: []
+      required: false

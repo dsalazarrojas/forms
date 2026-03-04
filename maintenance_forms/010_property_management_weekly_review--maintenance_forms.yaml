@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Management Weekly Review
+    pages:
+    - id: 1
+      name: weekly_inspection
+      label: Weekly Inspection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: issues_encountered
+      label: Issues Encountered
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: issues_description
+      label: Issues Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_inspected
+      label: Date Inspected
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: property_manager_name
+      label: Property Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: issue_priority
+      label: Issue Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 7
+      name: maintenance_status
+      label: Maintenance Status
+      hint: null
+      type: select_one
+      options:
+      - Scheduled
+      - In Progress
+      - Completed
+      - Not Required
+      required: false
+    - id: 8
+      name: next_action_date
+      label: Next Action Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

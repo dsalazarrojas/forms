@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Interview Form With Voice Record
+    pages:
+    - id: 1
+      name: candidate_name
+      label: candidate name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sales_area
+      label: sales area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sales_experience
+      label: sales experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_name
+      label: company name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: job description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: expected_salary
+      label: expected salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: interview_type
+      label: interview type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Sales''}'
+      - '{''label'': ''Technical''}'
+      - '{''label'': ''Product''}'
+      required: true
+    - id: 9
+      name: recording_audio
+      label: recording audio
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 10
+      name: recording_audio
+      label: recording audio
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: sales_manager
+      label: sales manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: team_members
+      label: team members
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: job_location
+      label: job location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: job_location
+      label: job location
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: recording_audio
+      label: recording audio
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 16
+      name: recording_audio
+      label: recording audio
+      hint: null
+      type: date
+      options: []
+      required: false

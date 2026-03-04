@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Request For Attorney Representation
+    pages:
+    - id: 1
+      name: request_for_attorney_representation
+      label: Request for attorney representation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: attorney_experience
+      label: attorney experience
+      hint: null
+      type: select_multiple
+      options:
+      - 1-2 years
+      - 2-5 years
+      - 5+ years
+      required: false
+    - id: 7
+      name: area_of_law
+      label: area of law
+      hint: null
+      type: select_one
+      options:
+      - civil_law
+      - criminal_law
+      - bankruptcy_law
+      - estate_planning
+      - family_law
+      - intellectual_property_law
+      - personal_injury_law
+      - real_estate_law
+      - tax_law
+      required: false
+    - id: 8
+      name: location
+      label: location
+      hint: null
+      type: select_one
+      options:
+      - New York
+      - New Jersey
+      - Connecticut
+      - other
+      required: true

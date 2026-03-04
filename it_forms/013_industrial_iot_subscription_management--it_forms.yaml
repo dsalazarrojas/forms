@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: industrial_iot_subscription_management_form
+    pages:
+    - id: 1
+      name: manufacturer_name
+      label: Manufacturer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: account_type
+      label: account_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Basic''}'
+      - '{''value'': ''Premium''}'
+      required: false
+    - id: 3
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: subscription_plan
+      label: subscription_plan
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Monthly''}'
+      - '{''value'': ''Quarterly''}'
+      - '{''value'': ''Annually''}'
+      required: false
+    - id: 5
+      name: end_date
+      label: end_date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: account_status
+      label: account_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''Inactive''}'
+      required: false
+    - id: 7
+      name: subscription_changes
+      label: subscription_changes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: account_manager
+      label: account_manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: company_name
+      label: company_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: country
+      label: country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: On Site Repair Appointment Form
+    pages:
+    - id: 1
+      name: on_site_repair_form
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: select_time
+      label: Select Time
+      hint: null
+      type: select_one
+      options:
+      - 9:00 AM
+      - 10:00 AM
+      - 11:00 AM
+      - 12:00 PM
+      - 1:00 PM
+      - 2:00 PM
+      - 3:00 PM
+      - 4:00 PM
+      - 5:00 PM
+      - 6:00 PM
+      required: false
+    - id: 8
+      name: select_date
+      label: Select Date
+      hint: null
+      type: select_multiple
+      options:
+      - 01/01/2024
+      - 01/02/2024
+      - 01/03/2024
+      - 01/04/2024
+      - 01/05/2024
+      required: false
+    - id: 9
+      name: on_site_visit
+      label: On-site Visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: visit_reason
+      label: Visit Reason
+      hint: null
+      type: text
+      options: []
+      required: false

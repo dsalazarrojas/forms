@@ -1,0 +1,279 @@
+inputSchema:
+  type: object
+  properties:
+    title: Network Security Quiz
+    pages:
+    - id: 1
+      name: network_security_quiz
+      label: Network Security Basics
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: network_security_threats
+      label: Types of Network Threats
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: network_security_risk_factors
+      label: Network Security Risk Factors
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: network_security_quiz_question_1
+      label: What is the difference between a firewall and an intrusion detection
+        system?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: network_security_quiz_answer_1
+      label: None
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''A firewall is a physical barrier.''}'
+      - '{''label'': ''A firewall is a software barrier.''}'
+      - '{''label'': ''A firewall is a network-based security system.''}'
+      - '{''label'': ''A firewall is a hardware-based security system.''}'
+      required: false
+    - id: 6
+      name: network_security_quiz_question_2
+      label: What is the purpose of an intrusion detection system?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''A firewall is installed to identify and prevent unauthorized
+        access.''}'
+      - '{''label'': ''A router is installed to identify and prevent unauthorized
+        access.''}'
+      - '{''label'': ''A network switch is installed to identify and prevent unauthorized
+        access.''}'
+      - '{''label'': ''An intrusion detection system is installed to identify and
+        prevent unauthorized access.''}'
+      required: false
+    - id: 7
+      name: network_security_quiz_question_3
+      label: Which of the following network devices can identify and prevent unauthorized
+        access?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Firewall''}'
+      - '{''label'': ''Network switch''}'
+      - '{''label'': ''Router''}'
+      - '{''label'': ''Intrusion detection system''}'
+      required: false
+    - id: 8
+      name: network_security_quiz_question_4
+      label: What is the purpose of an intrusion prevention system?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Identifying and alerting the network administrator.''}'
+      - '{''label'': ''Identifying and preventing unauthorized access.''}'
+      - '{''label'': ''Identifying, alerting, and preventing unauthorized access.''}'
+      - '{''label'': ''Identifying, alerting, and blocking malicious traffic.''}'
+      required: false
+    - id: 9
+      name: network_security_quiz_question_5
+      label: Which type of attack is the most common type of network threat?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Phishing''}'
+      - '{''label'': ''SQL Injection''}'
+      - '{''label'': ''Cross-Site Scripting''}'
+      - '{''label'': ''Ransomware''}'
+      required: false
+    - id: 10
+      name: network_security_quiz_question_6
+      label: What is the primary difference between a network switch and a network
+        router?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''A network switch is a networked device.''}'
+      - '{''label'': ''A network router is a networked device.''}'
+      - '{''label'': ''A network switch is a hardware-based device.''}'
+      - '{''label'': ''A network router is a software-based device.''}'
+      required: false
+    - id: 11
+      name: network_security_quiz_question_7
+      label: What is the main purpose of a network segmentation?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''To reduce network latency.''}'
+      - '{''label'': ''To increase network bandwidth.''}'
+      - '{''label'': ''To reduce network complexity.''}'
+      - '{''label'': ''To separate sensitive data.''}'
+      required: false
+    - id: 12
+      name: network_security_quiz_question_8
+      label: What is the primary goal of a network security awareness program?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''To prevent network threats.''}'
+      - '{''label'': ''To identify and respond to network threats.''}'
+      - '{''label'': ''To educate users on network security.''}'
+      - '{''label'': ''To reduce network downtime.''}'
+      required: false
+    - id: 13
+      name: network_security_quiz_question_9
+      label: What is the main difference between a network security policy and a network
+        security standard?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''A network security policy is mandatory.''}'
+      - '{''label'': ''A network security policy is advisory.''}'
+      - '{''label'': ''A network security policy is a network configuration.''}'
+      - '{''label'': ''A network security standard is a network configuration.''}'
+      required: false
+    - id: 14
+      name: network_security_quiz_question_10
+      label: Which of the following is true about network security?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Network security is not necessary for all systems.''}'
+      - '{''label'': ''Network security is necessary but not sufficient.''}'
+      - '{''label'': ''Network security is necessary and sufficient.''}'
+      - '{''label'': ''Network security is not a priority.''}'
+      required: false
+    - id: 15
+      name: network_security_quiz_question_11
+      label: What is the main purpose of a network security audit?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''To ensure network security compliance.''}'
+      - '{''label'': ''To identify network vulnerabilities.''}'
+      - '{''label'': ''To prevent network threats.''}'
+      - '{''label'': ''To identify and prevent network threats.''}'
+      required: false
+    - id: 16
+      name: network_security_quiz_question_12
+      label: What is the main purpose of a network security incident response plan?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''To respond to network threats.''}'
+      - '{''label'': ''To prevent network threats.''}'
+      - '{''label'': ''To identify and respond to network threats.''}'
+      - '{''label'': ''To identify and prevent network threats.''}'
+      required: false
+    - id: 17
+      name: network_security_quiz_question_13
+      label: Which of the following is true about network segmentation?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Network segmentation reduces network latency.''}'
+      - '{''label'': ''Network segmentation reduces network bandwidth.''}'
+      - '{''label'': ''Network segmentation reduces network complexity.''}'
+      - '{''label'': ''Network segmentation separates sensitive data.''}'
+      required: false
+    - id: 18
+      name: network_security_quiz_question_14
+      label: What is the main purpose of a network security architecture?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''To design and implement network devices.''}'
+      - '{''label'': ''To configure network devices.''}'
+      - '{''label'': ''To document network devices.''}'
+      - '{''label'': ''To design and document network architecture.''}'
+      required: false
+    - id: 19
+      name: network_security_quiz_question_15
+      label: Which of the following is true about network segmentation?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Network segmentation separates sensitive data.''}'
+      - '{''label'': ''Network segmentation reduces network latency.''}'
+      - '{''label'': ''Network segmentation reduces network complexity.''}'
+      - '{''label'': ''Network segmentation reduces network downtime.''}'
+      required: false
+    - id: 20
+      name: network_security_quiz_question_16
+      label: What is the main purpose of a network security program?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''To design and implement network devices.''}'
+      - '{''label'': ''To configure network devices.''}'
+      - '{''label'': ''To educate users on network security.''}'
+      - '{''label'': ''To document network devices.''}'
+      required: false
+    - id: 21
+      name: network_security_quiz_question_17
+      label: Which of the following is true about network access control?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Network access control is mandatory.''}'
+      - '{''label'': ''Network access control is advisory.''}'
+      - '{''label'': ''Network access control is a network configuration.''}'
+      - '{''label'': ''Network access control is a network security standard.''}'
+      required: false
+    - id: 22
+      name: network_security_quiz_question_18
+      label: What is the main purpose of a network security management?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''To manage network threats.''}'
+      - '{''label'': ''To manage network assets.''}'
+      - '{''label'': ''To manage network devices.''}'
+      - '{''label'': ''To manage network services.''}'
+      required: false
+    - id: 23
+      name: network_security_quiz_question_19
+      label: Which of the following is true about network security awareness training?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Network security awareness training is not necessary for all
+        employees.''}'
+      - '{''label'': ''Network security awareness training is necessary but not sufficient.''}'
+      - '{''label'': ''Network security awareness training is necessary and sufficient.''}'
+      - '{''label'': ''Network security awareness training is not a priority.''}'
+      required: false
+    - id: 24
+      name: network_security_quiz_question_20
+      label: What is the main purpose of a network security awareness program?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''To educate users on network security.''}'
+      - '{''label'': ''To train users on network security.''}'
+      - '{''label'': ''To design and implement network security awareness programs.''}'
+      - '{''label'': ''To document network security awareness programs.''}'
+      required: false
+    - id: 25
+      name: network_security_quiz_question_21
+      label: What is the main purpose of a network security incident response plan?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''To respond to network threats.''}'
+      - '{''label'': ''To identify network threats.''}'
+      - '{''label'': ''To prevent network threats.''}'
+      - '{''label'': ''To identify and prevent network threats.''}'
+      required: false

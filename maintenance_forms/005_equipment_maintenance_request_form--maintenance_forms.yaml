@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Equipment Maintenance Request Form
+    pages:
+    - id: 1
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Equipment 1''}'
+      - '{''id'': 2, ''label'': ''Equipment 2''}'
+      required: true
+    - id: 2
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High''}'
+      - '{''id'': 2, ''label'': ''Low''}'
+      - '{''id'': 3, ''label'': ''Medium''}'
+      required: true
+    - id: 4
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''New''}'
+      - '{''id'': 2, ''label'': ''In Progress''}'
+      - '{''id'': 3, ''label'': ''Completed''}'
+      required: true
+    - id: 5
+      name: equipment_status
+      label: Equipment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Available''}'
+      - '{''id'': 2, ''label'': ''Under Maintenance''}'
+      - '{''id'': 3, ''label'': ''Offline''}'
+      required: false
+    - id: 6
+      name: maintenance_due_date
+      label: Maintenance Due Date
+      hint: Date in format MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: maintenance_cost
+      label: Maintenance Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Staff''}'
+      - '{''id'': 2, ''label'': ''Contractor''}'
+      - '{''id'': 3, ''label'': ''External''}'
+      required: true
+    - id: 10
+      name: submitted_date
+      label: Submitted Date
+      hint: Date in format MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: due_date
+      label: Due Date
+      hint: Date in format MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: assigned_user_name
+      label: Assigned User Name
+      hint: null
+      type: text
+      options: []
+      required: false

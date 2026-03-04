@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Resource Request Form
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contract_type
+      label: Contract Type
+      hint: null
+      type: select_one
+      options:
+      - fixed_price
+      - fixed_price_with_bonus
+      - hourly
+      - percentage
+      required: false
+    - id: 3
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_multiple
+      options:
+      - active
+      - inactive
+      - completed
+      - ongoing
+      - pending
+      - cancelled
+      required: false
+    - id: 6
+      name: resource_allocation
+      label: Resource Allocation
+      hint: null
+      type: select_multiple
+      options:
+      - hardware
+      - software
+      - personnel
+      - equipment
+      required: false
+    - id: 7
+      name: priority_level
+      label: Priority Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: resource_requester
+      label: Resource Requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: resource_assignment
+      label: Resource Assignment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_location
+      label: Project Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: project_contact
+      label: Project Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: resource_availability
+      label: Resource Availability
+      hint: null
+      type: select_multiple
+      options:
+      - morning
+      - afternoon
+      - evening
+      - weekend
+      - weekdays
+      required: false
+    - id: 14
+      name: estimated_project_duration
+      label: Estimated Project Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: resource_request_status
+      label: Resource Request Status
+      hint: null
+      type: select_multiple
+      options:
+      - active
+      - inactive
+      - completed
+      - ongoing
+      - pending
+      - cancelled
+      required: false
+    - id: 16
+      name: resource_requester_name
+      label: Resource Requester Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: company_email
+      label: Company Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: company_phone
+      label: Company Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: project_lead
+      label: Project Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: resource_requester_title
+      label: Resource Requester Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: assigned_project_manager
+      label: Assigned Project Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: assigned_project_lead
+      label: Assigned Project Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: project_status_notes
+      label: Project Status Notes
+      hint: null
+      type: note
+      options: []
+      required: false

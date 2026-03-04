@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restaurant Pos Installation Form
+    pages:
+    - id: 1
+      name: restaurant_pos_installation_form
+      label: restaurant pos installation form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: restaurant_name
+      label: restaurant name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: restaurant_type
+      label: restaurant type
+      hint: null
+      type: select_one
+      options:
+      - POS
+      - Cafe
+      - Restaurant
+      - Bar
+      required: false
+    - id: 7
+      name: number_of_seats
+      label: number of seats
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: number_of_tables
+      label: number of tables
+      hint: null
+      type: number
+      options: []
+      required: false

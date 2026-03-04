@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Application Schema Submission Form
+    pages:
+    - id: 1
+      name: submitter_information
+      label: -- Submitter Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: submitter_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: submitter_team
+      label: Team or Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: schema_details
+      label: -- Schema Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: schema_name
+      label: Schema Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: schema_version
+      label: Schema Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: schema_purpose
+      label: Purpose of Schema
+      hint: What is this schema used for?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: data_type
+      label: Primary Data Type
+      hint: null
+      type: select_one
+      options:
+      - Relational
+      - NoSQL
+      - Document-based
+      - Graph
+      - Time series
+      - Other
+      required: true
+    - id: 10
+      name: database_system
+      label: Database System
+      hint: null
+      type: select_one
+      options:
+      - PostgreSQL
+      - MySQL
+      - MongoDB
+      - Cassandra
+      - DynamoDB
+      - Other
+      required: false
+    - id: 11
+      name: schema_specification
+      label: -- Schema Specification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: table_count
+      label: Number of Tables/Collections
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: estimated_data_volume
+      label: Estimated Data Volume
+      hint: null
+      type: select_one
+      options:
+      - Less than 1GB
+      - 1GB - 10GB
+      - 10GB - 100GB
+      - 100GB - 1TB
+      - More than 1TB
+      - Unknown
+      required: false
+    - id: 14
+      name: schema_relationships
+      label: Describe key relationships and constraints
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: performance_requirements
+      label: Performance Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submission_details
+      label: -- Submission Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: submission_format
+      label: Schema Format
+      hint: null
+      type: select_one
+      options:
+      - SQL DDL
+      - JSON Schema
+      - YAML
+      - Entity-Relationship diagram
+      - Other
+      required: true
+    - id: 18
+      name: documentation_attached
+      label: Is documentation attached?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 19
+      name: test_data_included
+      label: Test data sample included?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 20
+      name: review_consent
+      label: I consent to schema review and feedback
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true

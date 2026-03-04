@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Treasury System Enhancement Survey
+    pages:
+    - id: 1
+      name: user_feedback
+      label: User Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: system_usage
+      label: How often do you use the Treasury system?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 3
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: improvement_areas
+      label: What areas of the Treasury system need improvement?
+      hint: null
+      type: select_multiple
+      options:
+      - System Navigation
+      - Reporting
+      - Data Entry
+      required: false
+    - id: 5
+      name: open_ended
+      label: Any other comments or suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Information
+      hint: Your Name and Email Address
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Your Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

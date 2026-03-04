@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: hr_system_login_assistance_request
+    pages:
+    - id: 1
+      name: employee_details
+      label: Employee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: urgency_level
+      label: Urgency Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: issue_id
+      label: Issue ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - HR
+      - IT
+      - Finance
+      - Marketing
+      required: false
+    - id: 7
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: issue_type
+      label: Issue Type
+      hint: null
+      type: select_multiple
+      options:
+      - Login
+      - Password Reset
+      - Account Lockout
+      - Access Rights
+      - Profile Update
+      - System Configuration
+      required: false

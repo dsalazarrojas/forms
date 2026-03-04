@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Off Grid Energy Solutions Inquiry
+    pages:
+    - id: 1
+      name: user_input_1
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: user_input_2
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: user_input_3
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: user_input_4
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: user_input_5
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - Solar
+      - Wind
+      - Hydro
+      - Geothermal
+      - Other
+      required: true
+    - id: 6
+      name: user_input_6
+      label: System Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: user_input_7
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - On Grid
+      - Off Grid
+      - On/Off Grid
+      required: true
+    - id: 8
+      name: user_input_8
+      label: Energy Needs
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: user_input_9
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: user_input_10
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: user_input_11
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: user_input_12
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: user_input_13
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: user_input_14
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false

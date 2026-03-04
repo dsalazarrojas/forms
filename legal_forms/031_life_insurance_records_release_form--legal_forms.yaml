@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: life_insurance_records_release_form
+    pages:
+    - id: 1
+      name: form_type
+      label: What type of life insurance
+      hint: null
+      type: select_one
+      options:
+      - Term Life
+      - Whole Life'
+      - Other'
+      required: false
+    - id: 2
+      name: policy_holder_name
+      label: Policy Holder Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: policy_holder_address
+      label: Policy Holder Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: policy_holder_dob
+      label: Policy Holder Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: policy_holder_phone
+      label: Policy Holder Phone
+      hint: 'Format: (XXX) XXX-XXXX'
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: policy_type
+      label: Type of Policy
+      hint: null
+      type: select_one
+      options:
+      - Term Life
+      - Whole Life'
+      - Other'
+      required: false
+    - id: 7
+      name: policy_amount
+      label: Policy Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: policy_effective_date
+      label: Policy Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: policy_end_date
+      label: Policy End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: policy_status
+      label: Policy Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Canceled'
+      required: false
+    - id: 11
+      name: policy_owner_name
+      label: Policy Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: policy_owner_address
+      label: Policy Owner Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: policy_owner_dob
+      label: Policy Owner Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: policy_owner_phone
+      label: Policy Owner Phone
+      hint: 'Format: (XXX) XXX-XXXX'
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: policy_holder_signature
+      label: Policy Holder Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: policy_owner_signature
+      label: Policy Owner Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: policy_holder_signature_date
+      label: Policy Holder Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: policy_owner_signature_date
+      label: Policy Owner Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: authorized_person_name
+      label: Authorized Person Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: authorized_person_title
+      label: Authorized Person Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: authorized_person_phone
+      label: Authorized Person Phone
+      hint: 'Format: (XXX) XXX-XXXX'
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: authorization_date
+      label: Authorization Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: authorization_expiration_date
+      label: Authorization Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: policy_cancellation_date
+      label: Policy Cancellation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: policy_effective_date
+      label: Policy Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flooring Promotion Registration
+    pages:
+    - id: 1
+      name: promotion_details
+      label: Promotion Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: lead_status
+      label: Lead Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Qualified
+      - Converted
+      required: false
+    - id: 4
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Instore
+      - Online
+      - Phone
+      - Email
+      required: false
+    - id: 5
+      name: lead_value
+      label: Lead Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false

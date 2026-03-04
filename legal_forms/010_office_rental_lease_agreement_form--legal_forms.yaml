@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Office Rental Lease Agreement Form
+    pages:
+    - id: 1
+      name: prophets
+      label: รับประก prophets
+      hint: รับประก prophets
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: lease_term
+      label: Lease Term
+      hint: Lease Term
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: lease_type
+      label: Lease Type
+      hint: Lease Type
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: rent_details
+      label: Rent Details
+      hint: Rent Details
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rent_amount
+      label: Rent Amount
+      hint: Rent Amount
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: payment_frequency
+      label: Payment Frequency
+      hint: Payment Frequency
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: rent_due_date
+      label: Rent Due Date
+      hint: Rent Due Date
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: security_deposit
+      label: Security Deposit
+      hint: Security Deposit
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: last_name
+      label: Last Name
+      hint: Last Name
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: first_name
+      label: First Name
+      hint: First Name
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: Email
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone_number
+      label: Phone Number
+      hint: Phone Number
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: tenant_signature
+      label: Tenant Signature
+      hint: Tenant Signature
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: landlord_signature
+      label: Landlord Signature
+      hint: Landlord Signature
+      type: text
+      options: []
+      required: false

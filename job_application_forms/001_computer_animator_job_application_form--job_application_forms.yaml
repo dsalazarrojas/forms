@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Computer Animator Job Application Form
+    pages:
+    - id: 1
+      name: personal_info_header
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: example@example.com
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: portfolio_url
+      label: Portfolio Link
+      hint: URL to your animation reel or online portfolio
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: professional_experience_header
+      label: -- Professional Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: years_of_experience
+      label: Years of Experience in Computer Animation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: primary_software_tools
+      label: Primary Animation Software Proficiency
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Autodesk Maya
+      - Blender
+      - Cinema 4D
+      - SideFX Houdini
+      - Adobe After Effects
+      - ZBrush
+      required: true
+    - id: 9
+      name: animation_specialty
+      label: Primary Animation Specialty
+      hint: Choose your strongest area
+      type: select_one
+      options:
+      - Character Animation
+      - Visual Effects (VFX)
+      - Motion Graphics
+      - Technical Animation
+      - Environment Art
+      required: true
+    - id: 10
+      name: past_studio_experience
+      label: Have you worked in a professional studio before?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: relevant_skills_header
+      label: -- Skills and Education --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: scripting_proficiency
+      label: Scripting Language Proficiency
+      hint: null
+      type: select_multiple
+      options:
+      - Python
+      - MEL (Maya Embedded Language)
+      - C++
+      - VEX
+      - None
+      required: false
+    - id: 13
+      name: degree_attained
+      label: Highest Level of Education
+      hint: null
+      type: select_one
+      options:
+      - High School Diploma
+      - Associate Degree
+      - Bachelor Degree
+      - Master Degree
+      - Specialized Certification
+      required: true
+    - id: 14
+      name: earliest_start_date
+      label: Earliest Available Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: additional_comments
+      label: Additional Comments or Information
+      hint: Tell us anything else we should know
+      type: text
+      options: []
+      required: false

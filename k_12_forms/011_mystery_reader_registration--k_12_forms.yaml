@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mystery Reader Registration
+    pages:
+    - id: 1
+      name: volunteer_details
+      label: Volunteer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: availability
+      label: Availability Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reading_preferences
+      label: Reading Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: volunteer_details_email
+      label: Volunteer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: volunteer_details_phone
+      label: Volunteer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: availability_date
+      label: Availability Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: reading_time
+      label: Reading Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: volunteer_details_name
+      label: Volunteer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: volunteer_details_organization
+      label: Volunteer Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: volunteer_details_title
+      label: Volunteer Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: volunteer_details_availability_early_bird
+      label: Early Bird (6 -00 AM - 7 -00 AM)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: volunteer_details_availability_late_night
+      label: Late Night (9 -00 PM - 12 -00 AM)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: volunteer_details_availability_weekends
+      label: Saturdays and Sundays
+      hint: null
+      type: select_multiple
+      options:
+      - Weekend 1
+      - Weekend 2
+      required: false
+    - id: 15
+      name: reading_preferences
+      label: Reading Preferences
+      hint: null
+      type: select_one
+      options:
+      - Children (5-10 years)
+      - Pre-teens (11-15 years)
+      - Teens (16-18 years)
+      - Adults (19+ years)
+      required: true
+    - id: 16
+      name: volunteer_details_frequency
+      label: How often do you want to volunteer?
+      hint: null
+      type: select_multiple
+      options:
+      - 1 time
+      - 2 times
+      - 3 times
+      - 4 or more times
+      required: true
+    - id: 17
+      name: volunteer_details_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: volunteer_details_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: volunteer_details_frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - 1 time
+      - 2 times
+      - 3 times
+      - 4 or more times
+      required: true
+    - id: 20
+      name: volunteer_details_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 21
+      name: volunteer_details_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: volunteer_details_language
+      label: Volunteer Language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - French
+      - Spanish
+      required: false
+    - id: 24
+      name: volunteer_details_notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: volunteer_details_additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false

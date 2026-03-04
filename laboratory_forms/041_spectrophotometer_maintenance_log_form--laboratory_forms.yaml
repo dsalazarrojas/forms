@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spectrophotometer Maintenance Log Form
+    pages:
+    - id: 1
+      name: maintenance_log
+      label: Maintenance Log
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_id
+      label: Equipment Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: maintenance_description
+      label: Maintenance Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: maintenance_date
+      label: Maintenance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: maintenance_status
+      label: Maintenance Status
+      hint: null
+      type: select_one
+      options:
+      - Functional
+      - Non-Functional
+      - Under Maintenance
+      required: true
+    - id: 6
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: technician_id
+      label: Technician Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: maintenance_category
+      label: Maintenance Category
+      hint: null
+      type: select_one
+      options:
+      - Calibration
+      - Repair
+      - Other
+      required: true

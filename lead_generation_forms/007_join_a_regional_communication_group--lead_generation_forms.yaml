@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Join A Regional Communication Group
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: region
+      label: Region
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: platform_preferences
+      label: Platform preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Amazon
+      - LinkedIn
+      - Facebook
+      - Twitter
+      required: false
+    - id: 7
+      name: preferred_regions
+      label: Preferred Regions
+      hint: null
+      type: select_one
+      options:
+      - East
+      - West
+      - North
+      - South
+      required: false
+    - id: 8
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: terms_of_service
+      label: Terms of Service
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

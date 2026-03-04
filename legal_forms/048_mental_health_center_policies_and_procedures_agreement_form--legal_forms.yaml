@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: mental_health_center_policies_and_procedures_agreement_form
+    pages:
+    - id: 1
+      name: policy_agreement
+      label: Policy Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_consent
+      label: Patient Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: center_policies
+      label: Center Policies
+      hint: null
+      type: select_one
+      options:
+      - Mental Health Center Policies
+      - Client Policies
+      - Staff Policies
+      required: false
+    - id: 4
+      name: policy_version
+      label: Policy Version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_signed
+      label: Time Signed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: staff_signature
+      label: Staff Signature
+      hint: null
+      type: select_one
+      options:
+      - Dr. John Doe
+      - Dr. Jane Doe
+      - Dr. Joe Smith
+      required: false
+    - id: 8
+      name: date_staff_signed
+      label: Date Staff Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_staff_signed
+      label: Time Staff Signed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: select_one
+      options:
+      - Client Name
+      - Client Name
+      - Client Name
+      required: false
+    - id: 11
+      name: date_client_signed
+      label: Date Client Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time_client_signed
+      label: Time Client Signed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: policy_review
+      label: Policy Review
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: policy_revision
+      label: Policy Revision
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: policy_amendment
+      label: Policy Amendment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

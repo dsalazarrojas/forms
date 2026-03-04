@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medico Legal Assessment Questionnaire
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_relationship
+      label: Contact Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Spouse
+      - Partner
+      - Friend
+      - Other
+      required: false
+    - id: 9
+      name: contact_relationship_other
+      label: Contact Relationship Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_relationship_other_details
+      label: Contact Relationship Other Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: legal_organisation
+      label: Legal Organisation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: legal_case_number
+      label: Legal Case Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: medico_legal_assessor
+      label: Medico Legal Assessor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: date_assessment
+      label: Date Assessment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: date_submission
+      label: Date Submission
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: submitter_contact
+      label: Submitter Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: consent_comments
+      label: Consent Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitter_notes
+      label: Submitter Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: medico_legal_diagnosis
+      label: Medico Legal Diagnosis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitter_signoff
+      label: Submitter Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: submitter_signoff_comments
+      label: Submitter Signoff Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter_signature_date
+      label: Submitter Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: submitter_signature
+      label: Submitter Signature
+      hint: null
+      type: text
+      options: []
+      required: true

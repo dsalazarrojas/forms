@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workshop Attendance Form
+    pages:
+    - id: 1
+      name: workshop_title
+      label: Workshop Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: workshop_date
+      label: Workshops Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attendee_email
+      label: Attendee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: attendees_other
+      label: Do you have any other attendees with you?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: attendee_phone
+      label: Attendee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: workshop_location
+      label: Workshop Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: workshop_status
+      label: Workshop Status
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Tentative
+      - Cancelled
+      required: false
+    - id: 11
+      name: attendees_other_name
+      label: Other attendees names
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: other_attendee_emails
+      label: Other attendee emails
+      hint: null
+      type: text
+      options: []
+      required: false

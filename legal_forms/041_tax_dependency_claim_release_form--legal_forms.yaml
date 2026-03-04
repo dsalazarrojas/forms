@@ -1,0 +1,241 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Dependency Claim Release Form
+    pages:
+    - id: 1
+      name: tax_dependency_claim_release_form
+      label: Tax Dependency Claim Release Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Legal Forms
+      - Other
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: output_file_name
+      label: Output File Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: tax_year
+      label: Tax Year
+      hint: null
+      type: select_one
+      options:
+      - '2017'
+      - '2018'
+      - '2019'
+      required: true
+    - id: 9
+      name: tax_year_other
+      label: Other Tax Year
+      hint: null
+      type: select_multiple
+      options:
+      - '2017'
+      - '2018'
+      - '2019'
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: signed_by
+      label: Signed By
+      hint: null
+      type: select_one
+      options:
+      - Co-Parent 1
+      - Parent 1
+      - Parent 2
+      - Child
+      - Other
+      required: true
+    - id: 12
+      name: signed_by_other
+      label: Other Signed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: time_signed
+      label: Time Signed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - AL
+      - AK
+      - AZ
+      - AR
+      - CA
+      - CO
+      - CT
+      - DE
+      - FL
+      - GA
+      - HI
+      - ID
+      - IL
+      - IN
+      - IA
+      - KS
+      - KY
+      - LA
+      - ME
+      - MD
+      - MA
+      - MI
+      - MN
+      - MS
+      - MO
+      - MT
+      - NE
+      - NV
+      - NH
+      - NJ
+      - NM
+      - NY
+      - NC
+      - OH
+      - OK
+      - OR
+      - PA
+      - RI
+      - SC
+      - SD
+      - TN
+      - TX
+      - UT
+      - VA
+      - VT
+      - WI
+      - WV
+      - WY
+      required: false
+    - id: 20
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: signed_by_title
+      label: Signed By Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: notes_signed_by
+      label: Notes Signed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: other_signed_by_title
+      label: Other Signed By Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: other_signed_by
+      label: Other Signed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: other_signed_by_title
+      label: Other Signed By Title
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: corporate_life_and_confidentiality_agreement_form
+    pages:
+    - id: 1
+      name: corporate_lawyer_name
+      label: Corporate Lawyer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: confidentiality_terms
+      label: Confidentiality Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: agreement_date
+      label: Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: agreement_time
+      label: Agreement Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: agreement_duration
+      label: Agreement Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: confidential_information
+      label: Confidential Information
+      hint: This may include trade secrets, trade secrets, and confidential business
+        information.
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: agreement_status
+      label: Agreement Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''9-1'', ''name'': ''accepted'', ''label'': ''Accepted''}'
+      - '{''id'': ''9-2'', ''name'': ''declined'', ''label'': ''Declined''}'
+      - '{''id'': ''9-3'', ''name'': ''pending'', ''label'': ''Pending''}'
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

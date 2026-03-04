@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Freight Services Lead Generation
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 7, ''name'': ''Less Than Truckload''}'
+      - '{''id'': 8, ''name'': ''Less Than Truckload & LTL''}'
+      - '{''id'': 9, ''name'': ''Full Truckload''}'
+      - '{''id'': 10, ''name'': ''Intermodal''}'
+      - '{''id'': 11, ''name'': ''Brokerage''}'
+      - '{''id'': 12, ''name'': ''Warehousing''}'
+      - '{''id'': 13, ''name'': ''Other''}'
+      required: false
+    - id: 7
+      name: origin_city
+      label: Origin City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: origin_state
+      label: Origin State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: destination_city
+      label: Destination City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: destination_state
+      label: Destination State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: shipment_date
+      label: Shipment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: shipment_time
+      label: Shipment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: shipment_type
+      label: Shipment Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 21, ''name'': ''Less Than Truckload''}'
+      - '{''id'': 22, ''name'': ''Less Than Truckload & LTL''}'
+      - '{''id'': 23, ''name'': ''Full Truckload''}'
+      - '{''id'': 24, ''name'': ''Intermodal''}'
+      - '{''id'': 25, ''name'': ''Brokerage''}'
+      - '{''id'': 26, ''name'': ''Warehousing''}'
+      - '{''id'': 27, ''name'': ''Other''}'
+      required: false
+    - id: 14
+      name: shipment_weight
+      label: Shipment Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: shipment_length
+      label: Shipment Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: shipment_width
+      label: Shipment Width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: shipment_height
+      label: Shipment Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: shipment_notes
+      label: Shipment Notes
+      hint: null
+      type: text
+      options: []
+      required: false

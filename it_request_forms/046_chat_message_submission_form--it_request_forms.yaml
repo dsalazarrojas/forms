@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chat Message Submission Form
+    pages:
+    - id: 1
+      name: section_sender_info
+      label: -- Sender Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: sender_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: sender_email
+      label: Email Address
+      hint: For response communication
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: sender_phone
+      label: Phone Number
+      hint: Optional contact
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_id
+      label: Customer ID
+      hint: If you have one
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_message
+      label: -- Message Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: message_type
+      label: Type of Message
+      hint: What is this regarding
+      type: select_one
+      options:
+      - Technical Support
+      - Billing Inquiry
+      - Feature Request
+      - Bug Report
+      - General Question
+      - Complaint
+      - Other
+      required: true
+    - id: 8
+      name: subject
+      label: Subject
+      hint: Brief subject line
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: message_content
+      label: Message Content
+      hint: Detailed message or inquiry
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: priority
+      label: Priority Level
+      hint: How urgent is this
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Critical
+      required: false
+    - id: 11
+      name: section_context
+      label: -- Context and Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: product_service
+      label: Product or Service Referenced
+      hint: What product or service is this about
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: error_message
+      label: Error Message or Code
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: steps_taken
+      label: Steps You Have Already Taken
+      hint: What have you tried
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_attachment
+      label: -- Attachments and Files --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: screenshot_attached
+      label: Screenshot or Attachment Included
+      hint: Is there an attachment
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: section_preferences
+      label: -- Response Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: How would you like us to respond
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Chat
+      - No Preference
+      required: true
+    - id: 19
+      name: best_time_contact
+      label: Best Time to Contact
+      hint: When are you available
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submission_date
+      label: Submission Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

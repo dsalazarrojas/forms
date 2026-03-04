@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Application Form DSJ Mardan
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant name
+      hint: Full name as per official documents
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: cnic_number
+      label: National identity number
+      hint: Local identity card number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: Date of birth
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: position_applied
+      label: Position applied for
+      hint: Select the vacancy title
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: education
+      label: Education
+      hint: Highest qualification
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: experience
+      label: Relevant experience
+      hint: Brief summary of work history
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: domicile
+      label: Domicile
+      hint: District and province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_number
+      label: Contact number
+      hint: Mobile phone number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: documents_uploaded
+      label: Documents uploaded
+      hint: List of uploaded supporting documents
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: declaration
+      label: Declaration
+      hint: Applicant declaration of truthfulness
+      type: note
+      options: []
+      required: false

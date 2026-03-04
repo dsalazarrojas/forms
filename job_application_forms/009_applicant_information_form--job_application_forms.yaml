@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Applicant Information Form
+    pages:
+    - id: 1
+      name: personal_info_header
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: mailing_address
+      label: Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: professional_details_header
+      label: -- Professional Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: current_job_title
+      label: Current Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: total_years_experience
+      label: Total Years of Professional Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: highest_degree_earned
+      label: Highest Degree Earned
+      hint: null
+      type: select_one
+      options:
+      - High School Diploma
+      - Associate Degree
+      - Bachelor Degree
+      - Master Degree
+      - Doctorate
+      - Other Professional Certification
+      required: true
+    - id: 11
+      name: primary_skill_area
+      label: Primary Skill Area
+      hint: e.g., Software Engineering, Marketing, Sales, Project Management
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: resume_upload_note
+      label: -- Resume and Photo Upload Information --
+      hint: Note - Please ensure your resume is in PDF or DOCX format.
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: linkedin_profile_url
+      label: LinkedIn Profile URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: portfolio_url
+      label: Portfolio or Website URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: referral_source
+      label: How did you hear about this position?
+      hint: null
+      type: select_one
+      options:
+      - LinkedIn
+      - Company Website
+      - Indeed
+      - Employee Referral
+      - Career Fair
+      - Other
+      required: true
+    - id: 16
+      name: referral_name
+      label: Referral Name (If applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: availability_date
+      label: Earliest Possible Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: desired_salary_range
+      label: Desired Annual Salary Range
+      hint: null
+      type: select_one
+      options:
+      - Under $50,000
+      - $50,000 - $75,000
+      - $75,000 - $100,000
+      - $100,000 - $150,000
+      - $150,000+
+      required: false

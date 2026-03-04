@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Estate Planning Consultation Intake Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: estate_type
+      label: Estate Type
+      hint: null
+      type: select_one
+      options:
+      - Living Trust
+      - Will
+      - Power of Attorney
+      - Living Will
+      - Trust
+      - Estate Plan
+      required: false
+    - id: 6
+      name: assets
+      label: Assets
+      hint: List all assets
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: beneficiaries
+      label: Beneficiaries
+      hint: List all beneficiaries
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: legal_representative
+      label: Legal Representative
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: estate_plan
+      label: Estate Plan
+      hint: null
+      type: text
+      options: []
+      required: false

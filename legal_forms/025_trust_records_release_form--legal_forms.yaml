@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: trust_records_release_form
+    pages:
+    - id: 1
+      name: trust_records_release_form
+      label: release_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: trust_records_release_form_2
+      label: trust_related_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: trust_records_release_form_3
+      label: trust_info_release
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: trust_records_release_form_4
+      label: legal_professionals
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''legal_professional_1''}'
+      - '{''value'': ''legal_professional_2''}'
+      - '{''value'': ''legal_professional_3''}'
+      required: false
+    - id: 5
+      name: trust_records_release_form_5
+      label: consent_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: trust_records_release_form_6
+      label: consent_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: trust_records_release_form_7
+      label: trust_info_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: trust_records_release_form_8
+      label: trust_release_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: trust_records_release_form_9
+      label: trust_release_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: trust_records_release_form_10
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''chatjimmy''}'
+      - Other
+      required: false
+    - id: 11
+      name: form_id
+      label: form_id
+      hint: null
+      type: text
+      options: []
+      required: false

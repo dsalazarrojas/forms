@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legal Collection Forum Registration
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_details
+      label: Attendee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: legal_profession
+      label: Legal Profession
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Lawyer''}'
+      - Judge
+      - Attorney
+      - Other
+      required: false
+    - id: 4
+      name: firm_name
+      label: Firm Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: firm_address
+      label: Firm Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: attendee_type
+      label: Type of Event
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Conference''}'
+      - Seminar
+      - Webinar
+      - Meeting
+      - Other
+      required: false
+    - id: 9
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: attendees
+      label: Number of Attendees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: select_multiple
+      options:
+      - None of the above
+      - Parking is available
+      - Food is available
+      - Accommodations are available
+      - None of the above
+      required: false

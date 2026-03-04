@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Learning Agreement Form
+    pages:
+    - id: 1
+      name: online_learning_agreement_form_1
+      label: agreement_form_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_name
+      label: student_name_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: course_name
+      label: course_name_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: instructor_id
+      label: instructor_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: student_id
+      label: student_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: agreement_status
+      label: agreement_status_label
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Draft
+      - In Progress
+      - Pending
+      required: true
+    - id: 12
+      name: agreement_type
+      label: agreement_type
+      hint: null
+      type: select_multiple
+      options:
+      - Master Agreement
+      - Project Agreement
+      - Student Agreement
+      required: true
+    - id: 13
+      name: agreement_version
+      label: agreement_version
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: agreement_date
+      label: agreement_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: agreement_time
+      label: agreement_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: terms_of_use
+      label: terms of use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: terms_of_service
+      label: terms_of_service
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: agreement_version_note
+      label: agreement_version_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: course_start_date
+      label: course_start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: course_start_time
+      label: course_start_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 21
+      name: course_end_date
+      label: course_end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: course_end_time
+      label: course_end_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 23
+      name: course_duration
+      label: course_duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: course_location
+      label: course_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: student_email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: true

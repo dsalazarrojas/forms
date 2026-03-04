@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Opposition Motion Response Form
+    pages:
+    - id: 1
+      name: motion_date
+      label: Motion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: motion_time
+      label: Motion Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: motion_hour
+      label: Motion Hour
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: motion_number
+      label: Motion Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: written_responses
+      label: Written Responses
+      hint: Please provide your written responses to the motion
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: supporting_documents
+      label: Supporting Documents
+      hint: Please attach supporting documents as required
+      type: select_one
+      options:
+      - Supporting Document 1
+      - Supporting Document 2
+      - Supporting Document 3
+      required: false
+    - id: 7
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false

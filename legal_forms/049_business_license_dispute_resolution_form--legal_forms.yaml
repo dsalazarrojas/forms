@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business License Dispute Resolution Form
+    pages:
+    - id: 1
+      name: section_dispute_business_id
+      label: -- Business and License Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: dispute_business_legal_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: dispute_license_number_ref
+      label: License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: dispute_category_type_selection
+      label: Dispute Type
+      hint: Select the primary nature of the issue
+      type: select_one
+      options:
+      - Fee Dispute / Incorrect Billing
+      - Rejection Appeal (New or Renewal)
+      - Significant Renewal Delay
+      - Compliance / Violation Notice Appeal
+      - Technical Error on License Document
+      required: true
+    - id: 5
+      name: section_dispute_substance
+      label: -- Dispute Substance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: dispute_summary_detailed_text
+      label: Summary of the Dispute
+      hint: Clearly state the problem and relevant facts
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: incident_or_notice_date_ref
+      label: Date of Incident or Notice
+      hint: When did the issue first occur
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: desired_resolution_outcome_text
+      label: Desired Outcome or Resolution
+      hint: What action are you requesting from the licensing board
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: evidence_materials_status_check
+      label: Evidence and Supporting Materials
+      hint: Do you have documentation to support your claim
+      type: select_one
+      options:
+      - Yes, will upload separately
+      - Attached to this submission
+      - Available upon request
+      required: true
+    - id: 10
+      name: section_contact_legal_id
+      label: -- Contact and Representation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: dispute_primary_contact_person_name
+      label: Primary Contact for Dispute
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: dispute_contact_phone_number
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: legal_representative_name_optional
+      label: Legal Representative Name
+      hint: If being represented by counsel (optional)
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: dispute_filing_authorization_signature
+      label: Digital Signature
+      hint: Type full name to authorize the filing
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: dispute_filing_date_official
+      label: Filing Date
+      hint: null
+      type: date
+      options: []
+      required: true

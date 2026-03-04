@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tech Industry Job Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: technical_skills
+      label: Technical Skills
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''JavaScript''}'
+      - '{''id'': 2, ''name'': ''HTML/CSS''}'
+      - '{''id'': 3, ''name'': ''Python''}'
+      - '{''id'': 4, ''name'': ''C++''}'
+      required: false
+    - id: 6
+      name: experience
+      label: Experience
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Less than 1 year''}'
+      - '{''id'': 2, ''name'': ''More than 1 year''}'
+      - '{''id'': 3, ''name'': ''Not sure''}'
+      required: false
+    - id: 7
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: portfolio
+      label: Portfolio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: date_available
+      label: Date Available
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: start_date
+      label: Start Date
+      hint: mm/dd/yy
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time_available
+      label: Time Available
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: salary_expectations
+      label: Salary Expectations
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: availability
+      label: Availability
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Available''}'
+      - '{''id'': 2, ''name'': ''Not Available''}'
+      required: false
+    - id: 16
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

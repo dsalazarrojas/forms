@@ -1,0 +1,32 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Improvement Customer Inquiry Form
+    pages:
+    - id: 1
+      name: home_improvement_customer_inquiry_form_page_1
+      label: What is your project about?
+      hint: null
+      type: select_multiple
+      options:
+      - Home Addition
+      - Bathroom Remodel
+      - Bedroom Addition
+      - Basement Remodel
+      - Kitchen Remodel
+      - Roofing Project
+      required: false
+    - id: 2
+      name: home_improvement_customer_inquiry_form_page_2
+      label: What is your prophets name?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: home_improvement_customer_inquiry_form_page_3
+      label: What is your budget for the project?
+      hint: null
+      type: number
+      options: []
+      required: false

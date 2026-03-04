@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Game Bug Report Form
+    pages:
+    - id: 1
+      name: game_mode
+      label: Game Mode
+      hint: null
+      type: select_multiple
+      options:
+      - Game Mode 1
+      - Game Mode 2
+      required: false
+    - id: 2
+      name: version
+      label: Version
+      hint: null
+      type: select_multiple
+      options:
+      - Version 1
+      - Version 2
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: error_code
+      label: Error Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: frequency
+      label: Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: screenshot
+      label: Screenshot
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: video
+      label: Video
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: file_upload
+      label: Screenshot or Video
+      hint: You can upload a file
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

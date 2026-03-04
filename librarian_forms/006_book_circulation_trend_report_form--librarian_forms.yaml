@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Circulation Trend Report Form
+    pages:
+    - id: 1
+      name: report_title
+      label: Report Title
+      hint: Name of this circulation report
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: librarian_name
+      label: Librarian Name
+      hint: Name of reporting librarian
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: branch_name
+      label: Library Branch
+      hint: Which branch is this report for
+      type: select_one
+      options:
+      - Main Branch
+      - Downtown Branch
+      - Westside Branch
+      - Eastside Branch
+      - North Branch
+      - Mobile Library
+      required: true
+    - id: 4
+      name: reporting_period_start
+      label: Reporting Period Start Date
+      hint: Start date of the reporting period
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: reporting_period_end
+      label: Reporting Period End Date
+      hint: End date of the reporting period
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: total_checkouts
+      label: Total Checkouts This Period
+      hint: Number of items checked out
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: total_returns
+      label: Total Returns This Period
+      hint: Number of items returned
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: new_registrations
+      label: New Member Registrations
+      hint: Number of new library members
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: most_popular_category
+      label: Most Popular Category
+      hint: Category with most checkouts
+      type: select_one
+      options:
+      - Fiction
+      - Non-Fiction
+      - Children Books
+      - Young Adult
+      - Reference
+      - Periodicals
+      - Multimedia
+      required: true
+    - id: 10
+      name: checkout_trend
+      label: Checkout Trend Compared to Last Period
+      hint: How do checkouts compare to previous period
+      type: select_one
+      options:
+      - Significantly Increased
+      - Slightly Increased
+      - Stayed the Same
+      - Slightly Decreased
+      - Significantly Decreased
+      required: true
+    - id: 11
+      name: percentage_change
+      label: Percentage Change
+      hint: Approximate percentage change
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: peak_checkout_day
+      label: Peak Checkout Day
+      hint: Busiest day for checkouts
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 13
+      name: average_loan_duration
+      label: Average Loan Duration Days
+      hint: Average days items are kept
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: overdue_items_count
+      label: Number of Overdue Items
+      hint: Current overdue items count
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: lost_items_count
+      label: Number of Lost Items
+      hint: Items reported lost this period
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: popular_titles
+      label: Most Popular Titles This Period
+      hint: List top 3-5 popular books
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: seasonal_factors
+      label: Seasonal Factors Affecting Circulation
+      hint: Any seasonal influences
+      type: select_multiple
+      options:
+      - School Holidays
+      - Summer Reading Program
+      - Exam Period
+      - Back to School
+      - Holiday Season
+      - None
+      required: false
+    - id: 18
+      name: challenges_noted
+      label: Challenges or Issues Noted
+      hint: Any circulation challenges
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: recommendations
+      label: Recommendations for Improvement
+      hint: Suggestions for improving circulation
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: report_submission_date
+      label: Report Submission Date
+      hint: Date report is submitted
+      type: date
+      options: []
+      required: true

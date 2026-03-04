@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Uniform Ownership Agreement
+    pages:
+    - id: 1
+      name: uniform_ownership_agreement_page_1
+      label: agreement_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: partner_1_name
+      label: partner_1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: partner_1_percentage
+      label: partner_1_percentage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: partner_2_name
+      label: partner_2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: partner_2_percentage
+      label: partner_2_percentage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: partner_1_role
+      label: partner_1_role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: partner_2_role
+      label: partner_2_role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: ownership_terms_agreed
+      label: ownership_terms_agreed
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: date_agreed
+      label: date_agreed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time_agreed
+      label: time_agreed
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: assigned_by
+      label: assigned_by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: agreement_version
+      label: agreement_version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: agreement_date
+      label: agreement_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: agreement_time
+      label: agreement_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: agreement_status
+      label: agreement_status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      - voided
+      required: true
+    - id: 18
+      name: agreed_by_party
+      label: agreed_by_party
+      hint: null
+      type: text
+      options: []
+      required: true

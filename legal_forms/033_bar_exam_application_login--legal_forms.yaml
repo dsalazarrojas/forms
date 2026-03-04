@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bar Exam Application Login
+    pages:
+    - id: 1
+      name: login_date
+      label: Login Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Your email on file
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: bar_admission_number
+      label: Bar Admission or License Number
+      hint: Your bar admission number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: social_security_last_four
+      label: Last 4 Digits of Social Security Number
+      hint: SSN verification
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: bar_exam_jurisdiction
+      label: Bar Exam Jurisdiction
+      hint: Which state or jurisdiction?
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Other
+      required: true
+    - id: 10
+      name: exam_year
+      label: Bar Exam Year
+      hint: When did you take the bar exam?
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: exam_session
+      label: Exam Session
+      hint: Summer or winter session?
+      type: select_one
+      options:
+      - Summer
+      - Winter
+      - Spring
+      - Fall
+      required: false
+    - id: 12
+      name: applicant_status
+      label: Applicant Status
+      hint: Your current status
+      type: select_one
+      options:
+      - First Time Applicant
+      - Retaking Exam
+      - Transferring Admission
+      - Reciprocal Admission
+      - Inactive License Reactivation
+      required: true
+    - id: 13
+      name: law_school_name
+      label: Law School Name
+      hint: Where did you attend law school?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: law_school_graduation_year
+      label: Law School Graduation Year
+      hint: When did you graduate?
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: previous_bar_attempts
+      label: Previous Bar Exam Attempts
+      hint: How many times have you sat for the bar?
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: previous_jurisdiction
+      label: Previously Admitted in Another Jurisdiction?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: previous_bar_state
+      label: Previous Bar State or Jurisdiction
+      hint: If yes, which state?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: good_moral_character
+      label: Good Moral Character Certified
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - In Progress
+      required: true
+    - id: 19
+      name: character_committee_status
+      label: Character and Fitness Committee Status
+      hint: Current approval status
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Conditional Approval
+      - Denied
+      - Reapplying
+      required: true
+    - id: 20
+      name: character_issues
+      label: Any Character or Fitness Issues?
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      - Pending Resolution
+      required: true
+    - id: 21
+      name: password_reset_needed
+      label: Password Reset Needed?
+      hint: Do you need to reset your password?
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      - Forgot Username
+      required: false
+    - id: 22
+      name: security_question
+      label: What Is Your Mother's Maiden Name?
+      hint: For account security verification
+      type: text
+      options: []
+      required: true

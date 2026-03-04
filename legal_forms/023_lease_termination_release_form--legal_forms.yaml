@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lease Termination Release Form
+    pages:
+    - id: 1
+      name: lease_termination_date
+      label: Termination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: tenant_signature
+      label: Tenant Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: landlord_signature
+      label: Landlord Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_termination
+      label: Reason for Termination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: notice_period
+      label: Notice Period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: outstanding_balance
+      label: Outstanding Balance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: return_property
+      label: Return Property
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 8
+      name: rent_paid_through
+      label: Rent Paid Through
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: lease_end_date
+      label: Lease End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: outstanding_amount
+      label: Outstanding Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: outstanding_interest
+      label: Outstanding Interest
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: total_outstanding
+      label: Total Outstanding
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: outstanding_fee
+      label: Outstanding Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: total_outstanding_fee
+      label: Total Outstanding Fee
+      hint: null
+      type: number
+      options: []
+      required: false

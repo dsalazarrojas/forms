@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Leave Approval Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: employee name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: start_date
+      label: start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: end_date
+      label: end date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: approval_status
+      label: approval status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: false
+    - id: 6
+      name: employee_id
+      label: employee id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: department_id
+      label: department id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: manager_name
+      label: manager name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: manager_id
+      label: manager id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: leave_type
+      label: leave type
+      hint: null
+      type: select_one
+      options:
+      - Vacation
+      - Sick
+      - Emergency
+      required: false
+    - id: 11
+      name: leave_days
+      label: leave days
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: leave_from
+      label: leave from
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: leave_to
+      label: leave to
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: leave_reason
+      label: leave reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: manager_comments
+      label: manager comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: employee_comments
+      label: employee comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: false
+    - id: 18
+      name: approved_by
+      label: approved by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: approved_at
+      label: approved at
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: submitted_at
+      label: submitted at
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: submitted_by
+      label: submitted by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: leave_status
+      label: leave status
+      hint: null
+      type: select_multiple
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: false
+    - id: 23
+      name: leave_request_id
+      label: leave request id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: leave_request_date
+      label: leave request date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: leave_request_comments
+      label: leave request comments
+      hint: null
+      type: text
+      options: []
+      required: false

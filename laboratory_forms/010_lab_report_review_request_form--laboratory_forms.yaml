@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lab Report Review Request Form
+    pages:
+    - id: 1
+      name: main_page
+      label: main-page-label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lab_request_date
+      label: lab-request-date-label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: lab_requester
+      label: lab-requester-label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: lab_requester_title
+      label: lab-requester-title-label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: lab_report_number
+      label: lab-report-number-label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: lab_report_date
+      label: lab-report-date-label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: lab_reviewers
+      label: lab-reviewers-label
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: lab_reviewer
+      label: lab-reviewer-label
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 9
+      name: lab_reviewers
+      label: lab-reviewers-label
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: lab_comments
+      label: lab-comments-label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: lab_status
+      label: lab-status-label
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 12
+      name: lab_submitter
+      label: lab-submitter-label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: lab_submitter_title
+      label: lab-submitter-title-label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: lab_submitter_email
+      label: lab-submitter-email-label
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: lab_submitter_phone
+      label: lab-submitter-phone-label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: lab_submitter
+      label: lab-submitter-label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: lab_file_attached
+      label: lab-file-attached-label
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: lab_file_name
+      label: lab-file-name-label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: lab_file_size
+      label: lab-file-size-label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: lab_file_uploaded
+      label: lab-file-uploaded-label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: lab_file_status
+      label: lab-file-status-label
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

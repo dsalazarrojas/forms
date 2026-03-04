@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Infrastructure Maintenance Tracking Form
+    pages:
+    - id: 1
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: maintenance_request_date
+      label: Maintenance Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 5
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''John''}'
+      - '{''id'': 2, ''label'': ''Jane''}'
+      - '{''id'': 3, ''label'': ''Jim''}'
+      required: false
+    - id: 7
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''New''}'
+      - '{''id'': 2, ''label'': ''In Progress''}'
+      - '{''id'': 3, ''label'': ''Done''}'
+      required: false
+    - id: 8
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: facility_type
+      label: Facility Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_notes
+      label: Contact Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: facility_notes
+      label: Facility Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: status_notes
+      label: Status Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: category_notes
+      label: Category Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: priority_notes
+      label: Priority Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: assigned_to_notes
+      label: Assigned To Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: due_date_notes
+      label: Due Date Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: facility_type_notes
+      label: Facility Type Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: location_notes
+      label: Location Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: facility_status
+      label: Facility Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Inactive''}'
+      required: false
+    - id: 24
+      name: facility_status_notes
+      label: Facility Status Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: facility_category
+      label: Facility Category
+      hint: null
+      type: text
+      options: []
+      required: false

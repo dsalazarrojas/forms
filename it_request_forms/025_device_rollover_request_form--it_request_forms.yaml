@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Device Rollover Request Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: request_reason
+      label: Request Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: new_device_details
+      label: New Device Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: new_device_model
+      label: Device Model
+      hint: null
+      type: select_one
+      options:
+      - Apple iPad 10.2
+      - Apple iPad mini 4
+      - Apple iPhone 7 Plus
+      - Apple iPhone 8 Plus
+      required: false
+    - id: 6
+      name: asset_number
+      label: Asset Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: current_status
+      label: Current Status
+      hint: null
+      type: select_multiple
+      options:
+      - In Use
+      - Stolen
+      - Lost
+      - Missing
+      - In Repair
+      - In Storage
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submitter
+      label: Submitter
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false

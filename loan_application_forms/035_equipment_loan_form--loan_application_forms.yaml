@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: equipment_loan_form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: technician_name
+      label: technician_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: equipment_type
+      label: equipment_type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''option_1'', ''label'': ''Option 1''}'
+      - '{''name'': ''option_2'', ''label'': ''Option 2''}'
+      - '{''name'': ''option_3'', ''label'': ''Option 3''}'
+      required: true
+    - id: 4
+      name: loan_duration
+      label: loan_duration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: equipment_description
+      label: equipment_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: loan_requester
+      label: loan_requester
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: company_address
+      label: company_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: loan_status
+      label: loan_status
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''option_1'', ''label'': ''Option 1''}'
+      - '{''name'': ''option_2'', ''label'': ''Option 2''}'
+      - '{''name'': ''option_3'', ''label'': ''Option 3''}'
+      required: true
+    - id: 13
+      name: loan_notes
+      label: loan_notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 14
+      name: technician_signature
+      label: technician_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: manager_signature
+      label: manager_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: manager_position
+      label: manager_position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: manager_phone
+      label: manager_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: company_name
+      label: company_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: company_address
+      label: company_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 25
+      name: company_representative
+      label: company_representative
+      hint: null
+      type: text
+      options: []
+      required: true

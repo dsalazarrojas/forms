@@ -1,0 +1,74 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Legal Representation Authorization Form
+    pages:
+    - id: 1
+      name: client
+      label: Client
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: legal_representative
+      label: Legal Representative
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Primary''}'
+      - '{''id'': 2, ''value'': ''Secondary''}'
+      required: true
+    - id: 4
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: signature_time
+      label: Time of Signature
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: signature_location
+      label: Location of Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: client_signed
+      label: Client Signed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: legal_representative_signed
+      label: Legal Representative Signed
+      hint: null
+      type: text
+      options: []
+      required: false

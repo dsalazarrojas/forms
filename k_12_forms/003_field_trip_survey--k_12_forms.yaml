@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Field Trip Survey
+    pages:
+    - id: 1
+      name: field_trip_survey_form
+      label: Field Trip Survey Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: trip_date
+      label: Trip Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: trip_time
+      label: Trip Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: trip_location
+      label: Trip Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: trip_organization
+      label: Trip Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_attendance
+      label: Student Attendance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: teacher_attendance
+      label: Teacher Attendance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: bus_arrival
+      label: Bus Arrival
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: bus_departure
+      label: Bus Departure
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: bus_driver_name
+      label: Bus Driver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: bus_license
+      label: Bus License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: bus_vehicle_id
+      label: Bus Vehicle ID
+      hint: null
+      type: text
+      options: []
+      required: false

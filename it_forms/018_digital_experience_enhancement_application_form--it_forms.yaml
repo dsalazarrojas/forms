@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Experience Enhancement Application Form
+    pages:
+    - id: 1
+      name: application_details
+      label: Application Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_team
+      label: Project Team
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Engineering Team''}'
+      - '{''value'': ''Operations Team''}'
+      - '{''value'': ''Product Management Team''}'
+      required: false
+    - id: 3
+      name: request_type
+      label: Request Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: request_priority
+      label: Request Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''High''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''Low''}'
+      required: false
+    - id: 5
+      name: request_description
+      label: Request Description
+      hint: Brief description of the improvement request
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: request_urgency
+      label: Request Urgency
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: request_comments
+      label: Request Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Approved''}'
+      - '{''value'': ''Rejected''}'
+      required: false
+    - id: 12
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: review_status
+      label: Review Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: approval_comments
+      label: Approval Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: approval_time
+      label: Approval Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: approval_user
+      label: Approval User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: created_at
+      label: Created At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false

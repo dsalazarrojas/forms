@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Appointment Setter Job Application Form
+    pages:
+    - id: 1
+      name: personal_details
+      label: Personal Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: current_location
+      label: Current Location or City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: experience
+      label: Experience and Skills
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: prior_appointment_experience
+      label: Do you have prior appointment setting experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: years_experience
+      label: Years of Sales or Customer Service Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: skills
+      label: Relevant Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Phone Communication
+      - Email Outreach
+      - CRM Software
+      - Data Entry
+      - Customer Service
+      - Sales
+      required: true
+    - id: 11
+      name: employment_info
+      label: Employment Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: availability
+      label: Availability
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Contract
+      - Flexible
+      required: true
+    - id: 13
+      name: start_date
+      label: Available Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: compensation_expectations
+      label: Salary Expectations Range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_info
+      label: Additional Information or Comments
+      hint: null
+      type: text
+      options: []
+      required: false

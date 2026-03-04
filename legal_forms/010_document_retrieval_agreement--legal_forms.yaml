@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Document Retrieval Agreement
+    pages:
+    - id: 1
+      name: organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: representative
+      label: representative
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: purpose
+      label: purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: document_type
+      label: document type
+      hint: null
+      type: select_one
+      options:
+      - '["document type"]=document type]'
+      - Other
+      required: false
+    - id: 7
+      name: document_name
+      label: document name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: requester
+      label: requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_received
+      label: date received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_received
+      label: time received
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: purpose_received
+      label: purpose received
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: document_status
+      label: document status
+      hint: null
+      type: select_one
+      options:
+      - '["document status"]=document status]'
+      - Other
+      required: false
+    - id: 13
+      name: date_sent
+      label: date sent
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time_sent
+      label: time sent
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: purpose_sent
+      label: purpose sent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: date_retrieved
+      label: date retrieved
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: time_retrieved
+      label: time retrieved
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: purpose_retrieved
+      label: purpose retrieved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: date_verified
+      label: date verified
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: time_verified
+      label: time verified
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: purpose_verified
+      label: purpose verified
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: date_delivered
+      label: date delivered
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: time_delivered
+      label: time delivered
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: purpose_delivered
+      label: purpose delivered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consulting Services Agreement Form Template
+    pages:
+    - id: 1
+      name: section_agreement_overview
+      label: -- Agreement Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client name
+      hint: Legal name of the client organization or individual
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: consultant_name
+      label: Consultant name
+      hint: Legal name of consulting firm or consultant
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: effective_date
+      label: Effective date
+      hint: Agreement start date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: scope_of_services
+      label: Scope of services
+      hint: Describe services to be provided including deliverables
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: compensation_structure
+      label: Compensation structure
+      hint: Fee schedule, rates, invoicing frequency
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: payment_terms
+      label: Payment terms
+      hint: Net terms and late fee policy
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: confidentiality_clause
+      label: Confidentiality requirement
+      hint: Summarize confidentiality expectations
+      type: select_one
+      options:
+      - Standard confidentiality
+      - Enhanced confidentiality
+      - No confidentiality required
+      required: true
+    - id: 9
+      name: termination_notice_period
+      label: Termination notice period in days
+      hint: Number of days required for termination notice
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: liability_limitations
+      label: Liability limitations summary
+      hint: Briefly state any liability caps or indemnification
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: governing_law
+      label: Governing law jurisdiction
+      hint: State or country governing this agreement
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: authorized_signatory
+      label: Authorized signatory name
+      hint: Name of person authorized to sign on behalf of client
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: signatory_title
+      label: Signatory title
+      hint: Job title of authorized signatory
+      type: text
+      options: []
+      required: true

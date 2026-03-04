@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory System Integration Report Form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: integration_tasks
+      label: Integration Tasks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_outcomes
+      label: Project Outcomes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: issues_encountered
+      label: Issues Encountered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attachments
+      label: Attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_outcomes_comments
+      label: Project Outcomes Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_details_comments
+      label: Project Details Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_outcomes_outcomes
+      label: Project Outcomes
+      hint: Outcome 1
+      type: select_one
+      options:
+      - Outcome 1
+      - Outcome 2
+      - Outcome 3
+      required: true
+    - id: 9
+      name: issues_encountered_issues
+      label: Issues Encountered Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: issues_encountered_severity
+      label: Issues Encountered Severity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: issues_encountered_frequency
+      label: Issues Encountered Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: attachments_count
+      label: Attachments Count
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: echo_tech_completereview
+    pages:
+    - id: 1
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 2
+      name: user_phone
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: user_note
+      label: User Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: user_date
+      label: User Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: user_time
+      label: User Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: user_category
+      label: User Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: user_category_options
+      label: Category Options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: user_description
+      label: User Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: user_tags
+      label: User Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: user_notes
+      label: User Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: user_completereview_status
+      label: COMPLETEREVIEW Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: tech_client_software_inquiry_form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: software_inquiry
+      label: Software Inquiry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tech_client_software_inquiry
+      label: Tech Client Software Inquiry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: best_time
+      label: Best Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: preferred_contact
+      label: Preferred Contact
+      hint: null
+      type: select_one
+      options:
+      - Contact Person
+      - Project Manager
+      - IT Director
+      - Other
+      required: false
+    - id: 8
+      name: software_inquiry_details
+      label: Software Inquiry Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: best_method
+      label: Best Method
+      hint: null
+      type: select_multiple
+      options:
+      - In-person Meeting
+      - Email
+      - Call
+      - Video Conference
+      - Phone
+      required: false

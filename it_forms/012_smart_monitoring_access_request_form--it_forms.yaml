@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Monitoring Access Request Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: access_level
+      label: Access Level
+      hint: null
+      type: select_multiple
+      options:
+      - Monitoring
+      - Access
+      - Control
+      required: false
+    - id: 5
+      name: monitoring_system
+      label: Monitoring System
+      hint: null
+      type: select_one
+      options:
+      - System A
+      - System B
+      - System C
+      required: false
+    - id: 6
+      name: monitoring_user
+      label: Monitoring User
+      hint: null
+      type: select_one
+      options:
+      - User A
+      - User B
+      - User C
+      required: false
+    - id: 7
+      name: reason
+      label: Reason
+      hint: Please select a reason for your request.
+      type: select_one
+      options:
+      - Reason A
+      - Reason B
+      - Reason C
+      required: false
+    - id: 8
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Joe
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

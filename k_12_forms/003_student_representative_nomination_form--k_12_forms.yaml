@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Representative Nomination Form
+    pages:
+    - id: 1
+      name: nomination_form
+      label: nomination_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_id
+      label: student_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: class_course_club
+      label: class_course_club
+      hint: null
+      type: select_multiple
+      options:
+      - Class A
+      - Class B
+      - Class C
+      - Class D
+      required: false
+    - id: 5
+      name: reason_for_nomination
+      label: reason_for_nomination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: nomination_date
+      label: nomination_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: nominator_name
+      label: nominator_name
+      hint: null
+      type: text
+      options: []
+      required: false

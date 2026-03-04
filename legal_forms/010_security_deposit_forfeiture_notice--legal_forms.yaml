@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Security Deposit Forfeiture Notice
+    pages:
+    - id: 1
+      name: security_deposit_forfeiture_notice
+      label: Security Deposit Forfeiture Notice
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tenant_name
+      label: Tenant
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_forfeited
+      label: Date Forfeited
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: amount
+      label: Amount
+      hint: Enter amount in decimal format
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Certified Check
+      - Electronic Transfer
+      - Money Order
+      - Cash
+      - Credit/Debit Card
+      required: false
+    - id: 6
+      name: payment_date
+      label: Date Paid
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: notice_served
+      label: Notice Served
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: notice_method
+      label: Notice Method
+      hint: null
+      type: select_one
+      options:
+      - By Mail
+      - By Hand
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

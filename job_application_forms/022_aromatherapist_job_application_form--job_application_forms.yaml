@@ -1,0 +1,237 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aromatherapist Job Application Form
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: current_address
+      label: Current Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city_state_zip
+      label: City, State, ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_position
+      label: -- Position Applied For --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: position_type
+      label: Position Type
+      hint: null
+      type: select_one
+      options:
+      - Full-time Aromatherapist
+      - Part-time Aromatherapist
+      - Contract Aromatherapist
+      - Manager
+      - Instructor
+      required: true
+    - id: 9
+      name: position_location
+      label: Preferred Position Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: start_date
+      label: Available Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: section_education
+      label: -- Education and Certifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: aromatherapy_certification
+      label: Aromatherapy Certification
+      hint: null
+      type: select_one
+      options:
+      - Certified Aromatherapist
+      - Registered Aromatherapist
+      - Licensed - State
+      - Other certification
+      - In progress
+      - None
+      required: true
+    - id: 13
+      name: certification_details
+      label: Certification Details
+      hint: Issuing organization, year, license number
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: highest_education
+      label: Highest Level of Education
+      hint: null
+      type: select_one
+      options:
+      - High school diploma
+      - Some college
+      - Associate degree
+      - Bachelor degree
+      - Graduate degree
+      required: true
+    - id: 15
+      name: additional_training
+      label: Additional Training or Certifications
+      hint: Massage therapy, herbalism, etc.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_experience
+      label: -- Professional Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: years_aromatherapy
+      label: Years of Aromatherapy Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: previous_employment
+      label: Previous Aromatherapy Work Experience
+      hint: Facilities, spas, private practice, etc.
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: specializations
+      label: Areas of Specialization
+      hint: null
+      type: select_multiple
+      options:
+      - Relaxation therapy
+      - Stress management
+      - Pain relief
+      - Beauty and skincare
+      - Wellness coaching
+      - Sports aromatherapy
+      - Medical aromatherapy
+      required: false
+    - id: 20
+      name: client_experience
+      label: Type of Clients You Have Worked With
+      hint: null
+      type: select_multiple
+      options:
+      - Individual clients
+      - Corporate clients
+      - Medical patients
+      - Athletes
+      - Wellness center clients
+      - Spa clients
+      required: false
+    - id: 21
+      name: section_skills
+      label: -- Skills and Abilities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: key_skills
+      label: Your Key Professional Skills
+      hint: Client consultation, custom blending, etc.
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: essential_oil_knowledge
+      label: Essential Oil Knowledge Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 24
+      name: customer_service
+      label: Customer Service Experience
+      hint: null
+      type: select_one
+      options:
+      - Limited
+      - Moderate
+      - Extensive
+      required: true
+    - id: 25
+      name: section_motivation
+      label: -- Motivation and Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: why_aromatherapy
+      label: Why are you interested in this position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: career_goals
+      label: Your Career Goals in Aromatherapy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: additional_info
+      label: Additional Information or Qualifications
+      hint: null
+      type: text
+      options: []
+      required: false

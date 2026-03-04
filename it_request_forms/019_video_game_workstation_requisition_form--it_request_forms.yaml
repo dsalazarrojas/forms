@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: video_game_workstation_requisition_form
+    pages:
+    - id: 1
+      name: request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user
+      label: user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - IT
+      - Management
+      - Finance
+      required: false
+    - id: 4
+      name: workstation_details
+      label: Workstation Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - Gaming PC
+      - Mobile
+      - Laptop
+      required: false
+    - id: 6
+      name: operating_system
+      label: Operating System
+      hint: null
+      type: select_multiple
+      options:
+      - Windows
+      - Mac
+      - Linux
+      required: false
+    - id: 7
+      name: ram
+      label: RAM
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: storage
+      label: Storage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: processor
+      label: Processor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: departmental_approval
+      label: Departmental Approval
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: approval_comment
+      label: Approval Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: request_status
+      label: Request Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - In Progress
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: date_request_sent
+      label: Date Request Sent
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: time_request_sent
+      label: Time Request Sent
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: date_received
+      label: Date Received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: time_received
+      label: Time Received
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: date_approved
+      label: Date Approved
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: time_approved
+      label: Time Approved
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

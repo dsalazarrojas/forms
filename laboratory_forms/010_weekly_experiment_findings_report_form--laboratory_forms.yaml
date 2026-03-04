@@ -1,0 +1,236 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Experiment Findings Report Form
+    pages:
+    - id: 1
+      name: week_start_date
+      label: Week Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: week_end_date
+      label: Week End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: experiment_name
+      label: Experiment Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: experiment_outcome
+      label: Experiment Outcome
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: analysis
+      label: Analysis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: next_week_plan
+      label: Next Week Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: experiment_type
+      label: Experiment Type
+      hint: null
+      type: select_one
+      options:
+      - Experiment
+      - Test
+      - Research
+      required: true
+    - id: 10
+      name: experiment_status
+      label: Experiment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Completed
+      - In Progress
+      - Canceled
+      required: true
+    - id: 11
+      name: weekly_progress
+      label: Weekly Progress
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: experiment_notes
+      label: Experiment Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: lab_members
+      label: Lab Members
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 14
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 15
+      name: collaborators
+      label: Collaborators
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 16
+      name: experiment_manager
+      label: Experiment Manager
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 17
+      name: reviewer1
+      label: Reviewer 1
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 18
+      name: reviewer2
+      label: Reviewer 2
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 19
+      name: reviewer3
+      label: Reviewer 3
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 20
+      name: reviewer4
+      label: Reviewer 4
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 21
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Jim
+      required: true
+    - id: 22
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Jim
+      required: true
+    - id: 23
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Jim
+      required: true
+    - id: 24
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: reported_at
+      label: Reported At
+      hint: null
+      type: date
+      options: []
+      required: true

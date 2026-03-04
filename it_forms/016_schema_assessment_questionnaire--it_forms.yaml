@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Schema Assessment Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: schema_description
+      label: schema-description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: schema_owner
+      label: schema-owner
+      hint: null
+      type: select_multiple
+      options:
+      - schema-owner1
+      - schema-owner2
+      - schema-owner3
+      required: false
+    - id: 4
+      name: schema_version
+      label: schema-version
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: schema_reviewers
+      label: reviewers
+      hint: null
+      type: select_one
+      options:
+      - reviewer1
+      - reviewer2
+      required: false
+    - id: 6
+      name: schema_evaluators
+      label: evaluators
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: schema_feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: schema_rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: schema_recommendations
+      label: recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: schema_additional_comments
+      label: additional-comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: schema_submitter
+      label: submitter
+      hint: null
+      type: select_one
+      options:
+      - submitter1
+      - submitter2
+      required: false
+    - id: 12
+      name: schema_status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - status1
+      - status2
+      - status3
+      required: false
+    - id: 13
+      name: schema_last_reviewed
+      label: last-reviewed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: schema_last_reviewed_by
+      label: last-reviewed-by
+      hint: null
+      type: select_one
+      options:
+      - reviewer1
+      - reviewer2
+      required: false
+    - id: 15
+      name: schema_last_updated
+      label: last-updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: schema_last_updated_by
+      label: last-updated-by
+      hint: null
+      type: select_one
+      options:
+      - submitter1
+      - submitter2
+      required: false
+    - id: 17
+      name: schema_created
+      label: created
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: schema_created_by
+      label: created-by
+      hint: null
+      type: select_one
+      options:
+      - submitter1
+      - submitter2
+      required: false

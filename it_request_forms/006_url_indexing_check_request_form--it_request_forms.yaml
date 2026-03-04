@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: URL Indexing Check Request Form
+    pages:
+    - id: 1
+      name: base_url
+      label: base_url
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: base_title
+      label: base_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: base_description
+      label: base_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: url_id
+      label: url_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: url_type
+      label: url_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Home''}'
+      - '{''id'': 2, ''name'': ''Internal''}'
+      - '{''id'': 3, ''name'': ''External''}'
+      required: true
+    - id: 6
+      name: url_priority
+      label: URL Priority
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''High''}'
+      - '{''id'': 2, ''name'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''Low''}'
+      required: true
+    - id: 7
+      name: url_status
+      label: URL Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Indexed''}'
+      - '{''id'': 2, ''name'': ''Not Indexed''}'
+      - '{''id'': 3, ''name'': ''Unknown''}'
+      required: true
+    - id: 8
+      name: url_date
+      label: URL Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: url_time
+      label: URL Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter_comments
+      label: Submitter Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

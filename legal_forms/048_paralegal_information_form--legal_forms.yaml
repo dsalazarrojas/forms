@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Paralegal Information Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: experience_level
+      label: Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Junior
+      - Senior
+      - Paralegal
+      required: false
+    - id: 8
+      name: available_start_date
+      label: Available Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: available_end_date
+      label: Available End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: available_hours
+      label: Available Hours
+      hint: null
+      type: select_multiple
+      options:
+      - Part-time (1-20 hours/week)
+      - Full-time
+      - Flexible (negotiable)
+      required: false
+    - id: 11
+      name: salary_range
+      label: Salary Range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: work_location
+      label: Work Location
+      hint: null
+      type: select_one
+      options:
+      - On-site
+      - Remote
+      - Hybrid
+      required: false
+    - id: 13
+      name: notice_period
+      label: Notice Period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: job_type
+      label: Job Type
+      hint: null
+      type: text
+      options: []
+      required: false

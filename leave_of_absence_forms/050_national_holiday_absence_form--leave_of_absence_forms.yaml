@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: National Holiday Absence Form
+    pages:
+    - id: 1
+      name: national_holiday_absence_form
+      label: National Holiday Absence Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_absence
+      label: date_of_absence
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: number_of_days_off
+      label: number_of_days_off
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: purpose_of_leave
+      label: purpose_of_leave
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_approval
+      label: manager_approval
+      hint: null
+      type: select_one
+      options:
+      - National Holiday
+      - Other
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: employee_confirmation
+      label: employee_confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

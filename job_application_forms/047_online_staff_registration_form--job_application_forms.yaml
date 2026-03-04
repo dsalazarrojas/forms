@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Staff Registration Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: Enter a valid contact number
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: resume
+      label: Resume
+      hint: Attach your resume
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: select_one
+      options:
+      - Account Manager
+      - Data Scientist
+      - Software Engineer
+      required: true
+    - id: 7
+      name: years_of_experience
+      label: Years of Experience
+      hint: Enter the number of years you have been working
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: skills
+      label: Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Communication
+      - Teamwork
+      - Time Management
+      required: true
+    - id: 9
+      name: work_history
+      label: Work History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false

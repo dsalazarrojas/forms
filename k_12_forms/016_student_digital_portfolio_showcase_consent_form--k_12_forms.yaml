@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Digital Portfolio Showcase Consent Form
+    pages:
+    - id: 1
+      name: student_id
+      label: student_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: parent_name
+      label: parent_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: parent_email
+      label: parent_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: showcase
+      label: showcase
+      hint: null
+      type: select_multiple
+      options:
+      - Portfolio Only
+      - Digital Showcase
+      - Both
+      required: true
+    - id: 7
+      name: terms
+      label: terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

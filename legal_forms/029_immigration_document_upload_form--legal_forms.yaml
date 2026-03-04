@@ -1,0 +1,76 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Immigration Document Upload Form
+    pages:
+    - id: 1
+      name: legal_forms
+      label: Legal Forms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: upload_document
+      label: Upload Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: applicant_details
+      label: Applicant Details
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''US Citizen''}'
+      - '{''value'': ''Non-US Citizen''}'
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: upload_date
+      label: Upload Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: upload_time
+      label: Upload Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: legal_attorney
+      label: Legal Attorney
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false

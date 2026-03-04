@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Checklist Download Form
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: lead_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: lead_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: lead_business_email
+      label: Business Email Address
+      hint: We will send the checklist to this address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: lead_phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_company_info
+      label: -- Company Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: lead_company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: lead_job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: lead_industry_type
+      label: Industry
+      hint: null
+      type: select_one
+      options:
+      - Technology
+      - Finance / Banking
+      - Healthcare
+      - Manufacturing
+      - Education
+      - Retail / E-commerce
+      - Other
+      required: true
+    - id: 10
+      name: company_size_range
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-10
+      - 11-50
+      - 51-200
+      - 201-500
+      - 500+
+      required: false
+    - id: 11
+      name: section_download_selection
+      label: -- Resource Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: selected_checklist_title
+      label: Which checklist would you like to download
+      hint: null
+      type: select_one
+      options:
+      - Business Startup Essential Checklist
+      - Q3 Marketing Strategy Checklist
+      - Cybersecurity Audit Checklist
+      - remote Team Onboarding Checklist
+      - Financial Year-End Closing Checklist
+      required: true
+    - id: 13
+      name: primary_business_challenge
+      label: What is your biggest business challenge right now
+      hint: null
+      type: select_multiple
+      options:
+      - Scaling Operations
+      - Finding Talent
+      - Digital Transformation
+      - Regulatory Compliance
+      - Cost Management
+      required: false
+    - id: 14
+      name: marketing_opt_in_consent
+      label: Subscribe to our weekly business insights newsletter
+      hint: null
+      type: select_one
+      options:
+      - Yes, Sign Me Up
+      - No, Just the Download
+      required: true
+    - id: 15
+      name: gdpr_privacy_ack
+      label: I agree to the Privacy Policy
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 16
+      name: submission_timestamp_log
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false

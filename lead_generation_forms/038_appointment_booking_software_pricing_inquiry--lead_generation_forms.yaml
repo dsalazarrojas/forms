@@ -1,0 +1,175 @@
+inputSchema:
+  type: object
+  properties:
+    title: Appointment Booking Software Pricing Inquiry
+    pages:
+    - id: 1
+      name: contact_information
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: business_email
+      label: Business Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_information
+      label: -- Company Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: industry
+      label: Industry
+      hint: null
+      type: select_one
+      options:
+      - Healthcare
+      - Salon/Spa
+      - Education
+      - Professional services
+      - Fitness
+      - Other
+      required: true
+    - id: 9
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_one
+      options:
+      - 1-5 employees
+      - 6-20 employees
+      - 21-50 employees
+      - 51-100 employees
+      - 100+ employees
+      required: true
+    - id: 10
+      name: business_address
+      label: Business Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: appointment_needs
+      label: -- Appointment Booking Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: current_booking_system
+      label: Do you currently have a booking system?
+      hint: null
+      type: select_one
+      options:
+      - Yes, and want to upgrade
+      - Yes, but looking for alternatives
+      - No, need to implement
+      - Not sure
+      required: true
+    - id: 13
+      name: monthly_appointments
+      label: Approximately how many appointments per month?
+      hint: null
+      type: select_one
+      options:
+      - Less than 50
+      - 50-200
+      - 200-500
+      - 500-1000
+      - 1000+
+      required: true
+    - id: 14
+      name: key_features_needed
+      label: Key features you need
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Online scheduling
+      - Payment processing
+      - Automated reminders
+      - Multi-location support
+      - Staff management
+      - Calendar integration
+      - Mobile app
+      required: true
+    - id: 15
+      name: integration_requirements
+      label: Integration requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: budget_range
+      label: -- Budget Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: monthly_budget
+      label: Monthly budget for software
+      hint: null
+      type: select_one
+      options:
+      - Under $100
+      - $100 - $500
+      - $500 - $1000
+      - $1000 - $2500
+      - $2500+
+      - Not specified
+      required: false
+    - id: 18
+      name: implementation_timeline
+      label: When would you like to implement?
+      hint: null
+      type: select_one
+      options:
+      - Immediate - within 1 week
+      - Soon - within 1 month
+      - Planning - 1-3 months
+      - Not sure - just researching
+      required: true
+    - id: 19
+      name: additional_comments
+      label: Additional questions or comments
+      hint: null
+      type: text
+      options: []
+      required: false

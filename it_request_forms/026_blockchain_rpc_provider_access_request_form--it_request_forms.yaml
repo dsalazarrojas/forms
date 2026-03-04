@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blockchain RPC Provider Access Request Form
+    pages:
+    - id: 1
+      name: request_intro
+      label: Blockchain RPC Provider Access Request
+      hint: Request access to blockchain RPC services
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requestor_name
+      label: Requestor Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Work email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization
+      hint: Company or team name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: Your role
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: blockchain_network
+      label: Blockchain Network
+      hint: Which network do you need
+      type: select_one
+      options:
+      - Ethereum Mainnet
+      - Ethereum Testnet
+      - Bitcoin
+      - Polygon
+      - Binance Smart Chain
+      - Solana
+      - Other
+      required: true
+    - id: 8
+      name: access_type
+      label: Access Type
+      hint: Type of access needed
+      type: select_one
+      options:
+      - Read Only
+      - Read and Write
+      - Admin Access
+      - Development Access
+      required: true
+    - id: 9
+      name: use_case
+      label: Use Case
+      hint: Describe your use case
+      type: select_one
+      options:
+      - Application Development
+      - Testing and QA
+      - Data Analytics
+      - Research
+      - Production System
+      - Integration Testing
+      required: true
+    - id: 10
+      name: project_name
+      label: Project Name
+      hint: Name of your project
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: project_description
+      label: Project Description
+      hint: Brief description
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: expected_requests
+      label: Expected Daily Requests
+      hint: Estimated RPC calls per day
+      type: select_one
+      options:
+      - Under 1000
+      - 1000-10000
+      - 10000-100000
+      - 100000-1000000
+      - Over 1000000
+      required: true
+    - id: 13
+      name: start_date
+      label: Access Start Date
+      hint: When do you need access
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: duration
+      label: Access Duration
+      hint: How long do you need access
+      type: select_one
+      options:
+      - Temporary - 1 Week
+      - Temporary - 1 Month
+      - Temporary - 3 Months
+      - Long Term - 6 Months
+      - Long Term - 1 Year
+      - Indefinite
+      required: true
+    - id: 15
+      name: team_size
+      label: Team Size
+      hint: How many developers
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: api_key_needed
+      label: API Key Required
+      hint: Do you need dedicated API key
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: rate_limit_requirements
+      label: Rate Limit Requirements
+      hint: Do you need increased limits
+      type: select_one
+      options:
+      - Standard Limits OK
+      - Need Higher Limits
+      - Need Unlimited
+      required: true
+    - id: 18
+      name: compliance_agreement
+      label: Compliance Agreement
+      hint: Agree to terms of service
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 19
+      name: security_training
+      label: Security Training Completed
+      hint: Have you completed security training
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Required
+      required: true
+    - id: 20
+      name: manager_approval
+      label: Manager Name
+      hint: Your approving manager
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information
+      type: text
+      options: []
+      required: false

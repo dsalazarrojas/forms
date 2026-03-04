@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Civil Litigation Knowledge Quiz
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant name
+      hint: Enter your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email address
+      hint: For results and feedback
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: q1
+      label: What is the statute of limitations concept
+      hint: Short answer
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: q2
+      label: Which remedy orders specific performance or damages
+      hint: Choose one
+      type: select_one
+      options:
+      - Specific performance
+      - Damages
+      - Both
+      required: true
+    - id: 5
+      name: q3
+      label: What is a plaint note
+      hint: Short answer
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: q4
+      label: Identify burden of proof in civil cases
+      hint: 1 preponderance 2 beyond reasonable doubt
+      type: select_one
+      options:
+      - Preponderance of evidence
+      - Beyond reasonable doubt
+      - Clear and convincing
+      required: true
+    - id: 7
+      name: q5
+      label: What is discovery phase
+      hint: Short description
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: time_spent_studying
+      label: Time spent studying civil litigation hours
+      hint: Approximate hours
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: confidence_level
+      label: Confidence in knowledge level
+      hint: 1 low to 5 high
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: Use current date
+      type: date
+      options: []
+      required: true

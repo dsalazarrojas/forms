@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Symposium Leave Of Absence Request
+    pages:
+    - id: 1
+      name: symposium_leave_of_absence_request
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: symposium_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: symposium_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: symposium_duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: symposium_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: symposium_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - Conferences
+      - Presentations
+      - Meetings
+      - Training
+      required: true
+    - id: 7
+      name: symposium_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: true
+    - id: 8
+      name: symposium_requestor
+      label: Requestor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: symposium_approver
+      label: Approver
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: symposium_request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: symposium_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: symposium_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: symposium_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: symposium_department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: symposium_project
+      label: Project
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: symposium_team
+      label: Team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: symposium_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: symposium_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: symposium_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: symposium_form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: symposium_form_submitted_on
+      label: Form Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: symposium_form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: symposium_form_submitter
+      label: Submitter
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: symposium_form_assignee
+      label: Assignee
+      hint: Select the assignee from the team members
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: symposium_form_assigned_user
+      label: Assigned User
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

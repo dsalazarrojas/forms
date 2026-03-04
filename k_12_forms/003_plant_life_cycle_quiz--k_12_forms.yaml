@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: plant_life_cycle_quiz
+    pages:
+    - id: 1
+      name: seed_planting
+      label: How do plants grow from seed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: photosynthesis
+      label: What is photosynthesis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: plant_types
+      label: Types of plants
+      hint: null
+      type: select_one
+      options:
+      - Pineapple
+      - Sunflower
+      - Daisy
+      - Cactus
+      - Apple
+      - Carrot
+      - Radish
+      - Potato
+      required: true
+    - id: 4
+      name: life_cycle_questions
+      label: Life cycle questions
+      hint: null
+      type: select_multiple
+      options:
+      - seed
+      - sprout
+      - adult
+      - seedling
+      - mature
+      required: true
+    - id: 5
+      name: plant_life_cycle
+      label: What is the plant life cycle
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: plant_growth_stage
+      label: Growth stage of the plant
+      hint: null
+      type: select_one
+      options:
+      - Seed
+      - Sprout
+      - Sapling
+      - Mature
+      - Adult
+      required: true
+    - id: 7
+      name: days_to_maturity
+      label: How many days to maturity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: quiz_completion_time
+      label: Quiz completion time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: educator_comments
+      label: Comments about the quiz
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: educator_name
+      label: Educator name
+      hint: null
+      type: text
+      options: []
+      required: false

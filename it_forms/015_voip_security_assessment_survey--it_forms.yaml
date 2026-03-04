@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: voip_security_assessment_survey
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: it_team_members
+      label: it_team_members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: existing_protections
+      label: existing_protections
+      hint: List existing protections
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: incidents
+      label: incidents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: concerns
+      label: concerns
+      hint: List concerns
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: voip_systems
+      label: voip_systems
+      hint: List VoIP systems in use
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: existing_protections_details
+      label: existing_protections_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: recommendations
+      label: recommendations
+      hint: Provide recommendations for security improvements
+      type: text
+      options: []
+      required: false

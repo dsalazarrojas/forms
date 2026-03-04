@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flat Six Engine Swap Interest Form
+    pages:
+    - id: 1
+      name: lead_generation_form
+      label: Lead Generation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_details
+      label: Vehicle Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_swap_goals
+      label: Vehicle Swap Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: services_of_interest
+      label: Services of Interest
+      hint: null
+      type: select_multiple
+      options:
+      - Engine Swap
+      - Performance Tuning
+      - Custom Fabrication
+      - Suspension and Alignment
+      - Electrical
+      required: true
+    - id: 5
+      name: budget_range
+      label: Budget Range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: engine_type
+      label: Engine Type
+      hint: null
+      type: select_one
+      options:
+      - 3.0L V6
+      - 4.0L V8
+      - 6.0L V8
+      - 8.0L V8
+      required: true
+    - id: 8
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_trim
+      label: Vehicle Trim
+      hint: null
+      type: text
+      options: []
+      required: false

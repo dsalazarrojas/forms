@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Value Strategy Contact Form
+    pages:
+    - id: 1
+      name: contact_form
+      label: Contact Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lead_qualification
+      label: What is your company's current lead generation process?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: lead_qualification_details
+      label: Can you describe your current lead generation process?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: lead_generation_process
+      label: What is your lead generation process?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option_1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option_2''}'
+      - '{''label'': ''Option 3'', ''value'': ''option_3''}'
+      required: false
+    - id: 5
+      name: lead_qualification_frequency
+      label: How often do you generate leads?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Daily'', ''value'': ''daily''}'
+      - '{''label'': ''Weekly'', ''value'': ''weekly''}'
+      - '{''label'': ''Monthly'', ''value'': ''monthly''}'
+      required: false
+    - id: 6
+      name: lead_qualification_method
+      label: What lead method do you typically use?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option_1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option_2''}'
+      required: false
+    - id: 7
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_company
+      label: Contact Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: lead_generation_goal
+      label: What is your lead generation goal?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: lead_generation_budget
+      label: What is your lead generation budget?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: lead_generation_channels
+      label: What lead generation channels do you use?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option_1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option_2''}'
+      - '{''label'': ''Option 3'', ''value'': ''option_3''}'
+      required: false
+    - id: 14
+      name: lead_generation_measures
+      label: What measures do you use to evaluate lead generation?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option_1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option_2''}'
+      - '{''label'': ''Option 3'', ''value'': ''option_3''}'
+      required: false
+    - id: 15
+      name: date_of_lead_generation
+      label: Date of lead generation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: date_of_lead_generation_time
+      label: Time of lead generation
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: lead_generation_status
+      label: Status of lead generation
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option_1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option_2''}'
+      required: false
+    - id: 18
+      name: contact_comment
+      label: Contact Comment
+      hint: null
+      type: text
+      options: []
+      required: false

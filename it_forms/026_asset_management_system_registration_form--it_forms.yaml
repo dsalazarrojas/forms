@@ -1,0 +1,251 @@
+inputSchema:
+  type: object
+  properties:
+    title: Asset Management System Registration Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: Legal name of organization
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization_type
+      label: Organization Type
+      hint: What type of entity
+      type: select_one
+      options:
+      - Business
+      - School or University
+      - Non-Profit
+      - Government Agency
+      - Healthcare Facility
+      - Other
+      required: true
+    - id: 3
+      name: contact_person
+      label: Primary Contact Person
+      hint: Name of administrator
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_title
+      label: Contact Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: For account setup
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: organization_address
+      label: Organization Address
+      hint: Full mailing address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: number_of_employees
+      label: Number of Employees
+      hint: Organization size
+      type: select_one
+      options:
+      - 1-10
+      - 11-50
+      - 51-200
+      - 201-500
+      - 501-1000
+      - Over 1000
+      required: true
+    - id: 9
+      name: estimated_asset_count
+      label: Estimated Number of Assets
+      hint: How many items to track
+      type: select_one
+      options:
+      - Under 100
+      - 100-500
+      - 501-1000
+      - 1001-5000
+      - 5001-10000
+      - Over 10000
+      required: true
+    - id: 10
+      name: asset_categories
+      label: Asset Categories to Track
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - IT Equipment
+      - Office Furniture
+      - Vehicles
+      - Machinery
+      - Buildings and Property
+      - Tools
+      - Inventory
+      - Intangible Assets
+      required: true
+    - id: 11
+      name: current_tracking_method
+      label: Current Tracking Method
+      hint: How do you track now
+      type: select_one
+      options:
+      - Spreadsheets
+      - Paper Records
+      - Legacy Software
+      - Another System
+      - No Current System
+      required: true
+    - id: 12
+      name: primary_use_case
+      label: Primary Use Case
+      hint: Main reason for system
+      type: select_one
+      options:
+      - Financial Reporting
+      - Maintenance Tracking
+      - Compliance and Audits
+      - Loss Prevention
+      - Inventory Management
+      - All of the Above
+      required: true
+    - id: 13
+      name: integration_needs
+      label: Integration Needs
+      hint: Systems to connect
+      type: select_multiple
+      options:
+      - Accounting Software
+      - ERP System
+      - HR System
+      - Procurement System
+      - None
+      required: false
+    - id: 14
+      name: barcode_scanning_needed
+      label: Is Barcode Scanning Needed
+      hint: For asset tracking
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: qr_code_needed
+      label: Is QR Code Support Needed
+      hint: For mobile scanning
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: rfid_needed
+      label: Is RFID Support Needed
+      hint: Advanced tracking
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: user_count
+      label: Number of System Users
+      hint: How many will access
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: deployment_preference
+      label: Deployment Preference
+      hint: Where to host
+      type: select_one
+      options:
+      - Cloud Based
+      - On Premises
+      - Hybrid
+      - No Preference
+      required: true
+    - id: 19
+      name: budget_range
+      label: Budget Range
+      hint: Annual budget
+      type: select_one
+      options:
+      - Under $5000
+      - $5000 to $15000
+      - $15000 to $50000
+      - Over $50000
+      required: false
+    - id: 20
+      name: implementation_timeline
+      label: Desired Implementation Timeline
+      hint: When to start
+      type: select_one
+      options:
+      - Immediate
+      - Within 1 Month
+      - Within 3 Months
+      - Within 6 Months
+      required: true
+    - id: 21
+      name: training_needed
+      label: Training Required
+      hint: Do you need training
+      type: select_one
+      options:
+      - Yes - Full Training
+      - Yes - Basic Training
+      - No - We Will Self-Train
+      required: true
+    - id: 22
+      name: data_migration_needed
+      label: Data Migration Required
+      hint: Transfer existing data
+      type: select_one
+      options:
+      - Yes - Large Volume
+      - Yes - Small Volume
+      - No - Starting Fresh
+      required: true
+    - id: 23
+      name: special_requirements
+      label: Special Requirements
+      hint: Any specific needs
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: how_heard_about_us
+      label: How Did You Hear About Us
+      hint: Referral source
+      type: select_one
+      options:
+      - Online Search
+      - Referral
+      - Advertisement
+      - Trade Show
+      - Other
+      required: false
+    - id: 25
+      name: registration_date
+      label: Registration Date
+      hint: Today date
+      type: date
+      options: []
+      required: true

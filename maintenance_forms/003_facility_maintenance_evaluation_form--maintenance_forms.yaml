@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Maintenance Evaluation Form
+    pages:
+    - id: 1
+      name: page_1
+      label: Facility Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facility_type
+      label: Facility Type
+      hint: null
+      type: select_multiple
+      options:
+      - Facility
+      - Building
+      - Equipment
+      required: false
+    - id: 3
+      name: facility_location
+      label: Facility Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: facility_status
+      label: Facility Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: maintenance_priority
+      label: Maintenance Priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: maintenance_frequency
+      label: Maintenance Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: maintenance_budget
+      label: Maintenance Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: maintenance_responsible
+      label: Maintenance Responsible
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: page_2
+      label: Evaluation Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: evaluation_frequency
+      label: Evaluation Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: evaluation_responsible
+      label: Evaluation Responsible
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: page_3
+      label: Service Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: service_request_date
+      label: Service Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: service_request_responsible
+      label: Service Request Responsible
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: service_status
+      label: Service Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      required: false
+    - id: 18
+      name: page_4
+      label: Quality Management
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: maintenance_quality
+      label: Maintenance Quality
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 20
+      name: maintenance_scheduling
+      label: Maintenance Scheduling
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: communication
+      label: Communication
+      hint: null
+      type: select_one
+      options:
+      - Effective
+      - Not Effective
+      required: false
+    - id: 22
+      name: page_5
+      label: Timely Service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: maintenance_timeliness
+      label: Maintenance Timeliness
+      hint: null
+      type: select_one
+      options:
+      - On Time
+      - Late
+      - Not Started
+      required: false
+    - id: 24
+      name: timeliness_frequency
+      label: Timeliness Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: timeliness_responsible
+      label: Timeliness Responsible
+      hint: null
+      type: text
+      options: []
+      required: false

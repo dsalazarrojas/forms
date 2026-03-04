@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: feature_details_form
+    pages:
+    - id: 1
+      name: feature_details
+      label: feature_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_type
+      label: request_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - In Progress
+      - Completed
+      required: false
+    - id: 5
+      name: priority
+      label: priority
+      hint: null
+      type: number
+      options: []
+      required: false

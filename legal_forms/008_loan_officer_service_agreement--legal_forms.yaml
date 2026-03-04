@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Loan Officer Service Agreement
+    pages:
+    - id: 1
+      name: client_information
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: loan_officer
+      label: Loan Officer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: services_offered
+      label: Services Offered
+      hint: null
+      type: select_multiple
+      options:
+      - Mortgage Origination
+      - Mortgage Refinance
+      - Home Equity
+      - Construction Loan
+      - Commercial Loan
+      - Home Equity Line of Credit
+      required: false
+    - id: 4
+      name: compensation_terms
+      label: Compensation Terms
+      hint: null
+      type: select_one
+      options:
+      - Flat Fee
+      - Tiered Pricing
+      - Flat Fee (Tiered Pricing)
+      required: false
+    - id: 5
+      name: agreement_start_date
+      label: Agreement Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: agreement_end_date
+      label: Agreement End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: compensation
+      label: Compensation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: client_consent
+      label: Client Consent
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: loan_officer_signature
+      label: Loan Officer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: client_date
+      label: Client Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: loan_officer_date
+      label: Loan Officer Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: loan_officer_commission
+      label: Loan Officer Commission
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: client_commission
+      label: Client Commission
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: loan_officer_fees
+      label: Loan Officer Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: loan_officer_fees_currency
+      label: Loan Officer Fees Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - CAD
+      required: false
+    - id: 20
+      name: client_fees
+      label: Client Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: client_fees_currency
+      label: Client Fees Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - CAD
+      required: false
+    - id: 22
+      name: loan_officer_commission_currency
+      label: Loan Officer Commission Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - CAD
+      required: false
+    - id: 23
+      name: client_commission_currency
+      label: Client Commission Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - CAD
+      required: false
+    - id: 24
+      name: loan_officer_notes
+      label: Loan Officer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: client_notes
+      label: Client Notes
+      hint: null
+      type: text
+      options: []
+      required: false

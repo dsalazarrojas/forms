@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness_Equipment_Resource_Guide
+    pages:
+    - id: 1
+      name: user_goals
+      label: What_are_your_goals_
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: space_requirements
+      label: Space_requirements_
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: budget_details
+      label: Budget_details_
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: gym_equipment
+      label: Gym_equipment_
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: space
+      label: Space
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: equipment_budget
+      label: Equipment_budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: lead_type
+      label: Lead_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: lead_source
+      label: Lead_source
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: contact_method
+      label: Contact_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: Contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: lead_status
+      label: Lead_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: lead_date
+      label: Lead_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: lead_time
+      label: Lead_time
+      hint: null
+      type: time
+      options: []
+      required: false

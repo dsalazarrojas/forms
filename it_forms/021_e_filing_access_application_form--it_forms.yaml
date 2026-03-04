@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: e_filing_access_application_form
+    pages:
+    - id: 1
+      name: user
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: user_role
+      label: User Role
+      hint: null
+      type: select_one
+      options:
+      - admin
+      - editor
+      - user
+      required: false
+    - id: 4
+      name: approval_level
+      label: Approval Level
+      hint: null
+      type: select_multiple
+      options:
+      - high
+      - low
+      - medium
+      required: false
+    - id: 5
+      name: reason_for_request
+      label: Reason for Request
+      hint: Enter a brief description of why the access request is required
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - IT
+      - Finance
+      - Sales
+      - Marketing
+      required: false
+    - id: 7
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - approved
+      - pending
+      - denied
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: Additional comments
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: file_path
+      label: File Path
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: file_name
+      label: File Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: file_size
+      label: File Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: file_type
+      label: File Type
+      hint: null
+      type: select_multiple
+      options:
+      - pdf
+      - docx
+      - excel
+      required: false
+    - id: 15
+      name: file_format
+      label: File Format
+      hint: null
+      type: select_multiple
+      options:
+      - csv
+      - txt
+      required: false
+    - id: 16
+      name: file_location
+      label: File Location
+      hint: null
+      type: select_multiple
+      options:
+      - local
+      - remote
+      required: false

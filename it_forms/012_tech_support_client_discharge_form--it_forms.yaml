@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tech Support Client Discharge Form
+    pages:
+    - id: 1
+      name: tech_support_ticket
+      label: Client Ticket Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: ticket_date
+      label: Date Ticket Started
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: ticket_status
+      label: Ticket Status
+      hint: null
+      type: select_one
+      options:
+      - resolved
+      - unresolved
+      - in_progress
+      required: true
+    - id: 5
+      name: client_satisfaction
+      label: Client Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - satisfied
+      - somewhat_satisfied
+      - neutral
+      - dissatisfied
+      - not_satisfied
+      required: true
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: select_multiple
+      options:
+      - follow_up_call
+      - no_follow_up_call
+      - follow_up_call_and_send_email
+      required: false
+    - id: 8
+      name: service_provider
+      label: Service Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: tech_support_team
+      label: Tech Support Team
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: tech_support_agent
+      label: Tech Support Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_discharged
+      label: Date Discharged
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: discharge_notes
+      label: Discharge Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_email
+      label: Follow Up Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_call
+      label: Follow Up Call
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: email_sent
+      label: Email Sent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: tech_support_client_discharge_form
+      label: Tech Support Client Discharge Form
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 17
+      name: tech_support_client_discharge_form_comments
+      label: Tech Support Client Discharge Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: tech_support_client_discharge_form_comments_2
+      label: Tech Support Client Discharge Form Comments 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: tech_support_client_discharge_form_comments_3
+      label: Tech Support Client Discharge Form Comments 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: tech_support_client_discharge_form_comments_4
+      label: Tech Support Client Discharge Form Comments 4
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: tech_support_client_discharge_form_comments_5
+      label: Tech Support Client Discharge Form Comments 5
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: tech_support_client_discharge_form_comments_6
+      label: Tech Support Client Discharge Form Comments 6
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: tech_support_client_discharge_form_comments_7
+      label: Tech Support Client Discharge Form Comments 7
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: tech_support_client_discharge_form_comments_8
+      label: Tech Support Client Discharge Form Comments 8
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: tech_support_client_discharge_form_comments_9
+      label: Tech Support Client Discharge Form Comments 9
+      hint: null
+      type: note
+      options: []
+      required: false

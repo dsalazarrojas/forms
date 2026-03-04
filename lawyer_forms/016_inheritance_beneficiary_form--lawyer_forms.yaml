@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inheritance Beneficiary Form
+    pages:
+    - id: 1
+      name: inheritance_beneficiary_form
+      label: inheritance_beneficiary_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: relationship_status
+      label: relationship_status
+      hint: null
+      type: select_multiple
+      options:
+      - Spouse
+      - Parent
+      - Child
+      - Partner
+      - Other
+      required: true
+    - id: 4
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: category
+      label: category
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: form_version
+      label: form_version
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: form_status
+      label: form_status
+      hint: null
+      type: select_one
+      options:
+      - Draft
+      - Published
+      - Archived
+      required: true
+    - id: 17
+      name: form_category
+      label: form_category
+      hint: null
+      type: select_one
+      options:
+      - Lawyer Forms
+      - Other Forms
+      required: true
+    - id: 18
+      name: form_description
+      label: form_description
+      hint: null
+      type: text
+      options: []
+      required: true

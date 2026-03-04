@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Club Membership Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: We will send meeting updates here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: For urgent communications
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Street Address
+      hint: Your home address
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: membership_type
+      label: Membership Type
+      hint: Select your membership preference
+      type: select_one
+      options:
+      - Regular Member
+      - Student Member
+      - Senior Member
+      - Family Membership
+      - Virtual Only Member
+      required: true
+    - id: 9
+      name: preferred_meeting_day
+      label: Preferred Meeting Day
+      hint: Which day works best for you
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      - No preference
+      required: true
+    - id: 10
+      name: preferred_meeting_time
+      label: Preferred Meeting Time
+      hint: What time works best
+      type: select_one
+      options:
+      - Morning 9am-12pm
+      - Afternoon 12pm-5pm
+      - Evening 5pm-9pm
+      - Flexible
+      required: true
+    - id: 11
+      name: favorite_genres
+      label: Favorite Book Genres
+      hint: Select genres you enjoy
+      type: select_multiple
+      options:
+      - Fiction
+      - Mystery
+      - Romance
+      - Science Fiction
+      - Fantasy
+      - Historical Fiction
+      - Non-Fiction
+      - Biography
+      - Self-Help
+      - Classic Literature
+      - Poetry
+      - Young Adult
+      required: true
+    - id: 12
+      name: reading_goal
+      label: How many books do you read per year
+      hint: Your approximate reading rate
+      type: select_one
+      options:
+      - 1-5 books
+      - 6-10 books
+      - 11-20 books
+      - 21-30 books
+      - Over 30 books
+      required: true
+    - id: 13
+      name: how_did_you_hear
+      label: How did you hear about us
+      hint: How did you find out about this book club
+      type: select_one
+      options:
+      - Friend or Family
+      - Social Media
+      - Library Website
+      - Community Bulletin Board
+      - Newspaper
+      - Other Event
+      required: false
+    - id: 14
+      name: previous_club_experience
+      label: Have you been in a book club before
+      hint: Your previous experience
+      type: select_one
+      options:
+      - Yes this is my first
+      - Yes I have been in one
+      - Yes I have led a book club
+      - No but I have read in groups
+      required: false
+    - id: 15
+      name: discussion_comfort
+      label: How comfortable are you sharing opinions in groups
+      hint: Your comfort level
+      type: select_one
+      options:
+      - Very comfortable
+      - Somewhat comfortable
+      - Neutral
+      - Somewhat uncomfortable
+      - Very uncomfortable
+      required: false
+    - id: 16
+      name: volunteer_interest
+      label: Would you be interested in volunteering
+      hint: Select if you want to help organize
+      type: select_one
+      options:
+      - Yes definitely
+      - Maybe
+      - No thanks
+      required: true
+    - id: 17
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: membership_start_date
+      label: Membership Start Date
+      hint: When would you like to start
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: terms_agreement
+      label: I agree to the book club terms and guidelines
+      hint: By selecting yes you agree to participate respectfully
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true

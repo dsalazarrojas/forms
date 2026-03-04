@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Distribution Election Form
+    pages:
+    - id: 1
+      name: distribution_election_form_1
+      label: Distribution Election Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: distribution_method
+      label: Distribution Method
+      hint: null
+      type: select_multiple
+      options:
+      - Manual
+      - Automatic
+      - Other
+      required: true
+    - id: 6
+      name: distribution_date
+      label: Distribution Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: distribution_type
+      label: Distribution Type
+      hint: null
+      type: select_one
+      options:
+      - Manual
+      - Automatic
+      - Manual/ Automatic
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

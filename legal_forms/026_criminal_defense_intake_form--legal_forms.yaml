@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Criminal Defense Intake Form
+    pages:
+    - id: 1
+      name: case_number
+      label: Case Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_reporter
+      label: Contact Reporter
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_defendant
+      label: Contact Defendant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_address
+      label: Client Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: offense_charges
+      label: Offense Charges
+      hint: null
+      type: select_multiple
+      options:
+      - Felony
+      - Misdemeanor
+      - Petty Offense
+      required: true
+    - id: 7
+      name: defense_attorney
+      label: Defense Attorney
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: court_date
+      label: Court Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: court_time
+      label: Court Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: prearranged_notes
+      label: Pre-arranged Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: court_location
+      label: Court Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: client_statement
+      label: Client Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: attorney_statement
+      label: Attorney Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: police_report
+      label: Police Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: other_documents
+      label: Other Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: witness_list
+      label: Witness List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: client_fees
+      label: Client Fees
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: notes2
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: court_documents
+      label: Court Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: case_status
+      label: Case Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Pending
+      - Closed
+      required: true
+    - id: 21
+      name: court_date2
+      label: Court Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: defense_notes
+      label: Defense Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: trial_date
+      label: Trial Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: jury_decision
+      label: Jury Decision
+      hint: null
+      type: select_one
+      options:
+      - Not Guilty
+      - Guilty
+      - Hung Jury
+      required: false
+    - id: 25
+      name: jury_deliberations_brief
+      label: Jury Deliberations Brief
+      hint: null
+      type: text
+      options: []
+      required: false

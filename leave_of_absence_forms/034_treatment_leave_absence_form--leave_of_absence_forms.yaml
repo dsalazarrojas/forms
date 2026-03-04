@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Treatment Leave Absence Form
+    pages:
+    - id: 1
+      name: employee
+      label: employee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: doctor_name
+      label: doctor name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: treatment_type
+      label: treatment type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: start_date
+      label: start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: duration
+      label: duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: text
+      options: []
+      required: false

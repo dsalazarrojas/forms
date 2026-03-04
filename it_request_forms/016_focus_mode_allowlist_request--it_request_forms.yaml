@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Focus Mode Allowlist Request
+    pages:
+    - id: 1
+      name: team_member
+      label: Team member
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reason_for_allowlist
+      label: Reason for Allowlist
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: approval_manager
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: frequency_of_approval
+      label: Frequency of Approval
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: reason_for_block
+      label: Reason for Block
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: it_decision_approver
+      label: IT Approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: site_or_app
+      label: Site or App
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: additional_information
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: site_or_app_list
+      label: prophets Sites or Apps
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

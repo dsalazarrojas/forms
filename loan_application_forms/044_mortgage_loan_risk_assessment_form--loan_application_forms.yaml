@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mortgage Loan Risk Assessment Form
+    pages:
+    - id: 1
+      name: applicant_info
+      label: Applicant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: credit_score
+      label: Credit Score
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Poor''}'
+      required: false
+    - id: 3
+      name: debt_to_income
+      label: Debt to Income Ratio
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: loan_term
+      label: Loan Term
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''5 years''}'
+      - '{''value'': ''10 years''}'
+      - '{''value'': ''15 years''}'
+      required: false
+    - id: 6
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Employed''}'
+      - '{''value'': ''Self Employed''}'
+      - '{''value'': ''Unemployed''}'
+      required: false
+    - id: 7
+      name: income_source
+      label: Income Source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assets
+      label: Assets
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: loan_officer
+      label: Loan Officer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: loan_product
+      label: Loan Product
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Conventional''}'
+      - '{''value'': ''Government-Backed''}'
+      - '{''value'': ''Non-Conforming''}'
+      required: false
+    - id: 14
+      name: loan_term_length
+      label: Loan Term Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: risk_assessment
+      label: Risk Assessment
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Low''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''High''}'
+      required: false
+    - id: 16
+      name: risk_comments
+      label: Risk Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: risk_score
+      label: Risk Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: submission_date_time
+      label: Submission Date and Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: submission_user
+      label: Submission User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submission_ip
+      label: Submission IP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: error_message
+      label: Error Message
+      hint: null
+      type: note
+      options: []
+      required: false

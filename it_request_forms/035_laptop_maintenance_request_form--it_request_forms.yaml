@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Laptop Maintenance Request Form
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: 'null'
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: user_name
+      label: User Name
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: laptop_model
+      label: Laptop Model
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: laptop_serial_number
+      label: Laptop Serial Number
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: issue_description
+      label: Issue Description
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: issue_priority
+      label: Issue Priority
+      hint: 'null'
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 7
+      name: scheduled_start_date
+      label: Scheduled Start Date
+      hint: 'null'
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: scheduled_end_date
+      label: Scheduled End Date
+      hint: 'null'
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: assigned_technician
+      label: Assigned Technician
+      hint: 'null'
+      type: select_one
+      options:
+      - Technician 1
+      - Technician 2
+      - Technician 3
+      required: true
+    - id: 10
+      name: status
+      label: Status
+      hint: 'null'
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

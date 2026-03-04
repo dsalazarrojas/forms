@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skincare Product Developer Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: Enter a valid phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: experience
+      label: Experience
+      hint: Enter your relevant experience
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: education
+      label: Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: availability
+      label: Availability
+      hint: Enter your available date and time
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: skills
+      label: Skills
+      hint: Choose your skills
+      type: select_multiple
+      options:
+      - '{''Programming languages'': ''Python, JavaScript, HTML, CSS''}'
+      - '{''Programming frameworks'': ''Node.js, React, Angular''}'
+      required: true
+    - id: 10
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: portfolio
+      label: Portfolio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: references
+      label: References
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: job_description
+      label: Job Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: available_date
+      label: Available Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: salary
+      label: Salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: job_type
+      label: Job Type
+      hint: Choose your job type
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Freelance
+      required: true
+    - id: 18
+      name: job_type_other
+      label: Job Type Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: notice_period
+      label: Notice Period
+      hint: Choose your notice period
+      type: select_one
+      options:
+      - 2 weeks
+      - 1 month
+      - 3 months
+      - 6 months
+      required: true
+    - id: 20
+      name: notice_period_other
+      label: Notice Period Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: job_start_date
+      label: Job Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: job_end_date
+      label: Job End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: timezone
+      label: Time Zone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

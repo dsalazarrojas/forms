@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advertising Survey Form
+    pages:
+    - id: 1
+      name: introduction_section
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Enter the name of your company
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: industry_sector
+      label: Industry Sector
+      hint: Select your primary industry sector
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Retail
+      - Finance
+      - Manufacturing
+      - Entertainment
+      - Education
+      - Other
+      required: true
+    - id: 4
+      name: marketing_budget_range
+      label: Annual Marketing Budget Range
+      hint: Select your approximate annual marketing budget
+      type: select_one
+      options:
+      - Under $10,000
+      - $10,000 - $50,000
+      - $50,001 - $100,000
+      - $100,001 - $500,000
+      - Over $500,000
+      required: true
+    - id: 5
+      name: primary_advertising_goals
+      label: Primary Advertising Goals
+      hint: Select your main advertising objectives (choose all that apply)
+      type: select_multiple
+      options:
+      - Brand awareness
+      - Lead generation
+      - Sales conversion
+      - Customer retention
+      - Market expansion
+      - Product education
+      required: true
+    - id: 6
+      name: current_channels_used
+      label: Current Advertising Channels Used
+      hint: Which channels are you currently using for advertising?
+      type: select_multiple
+      options:
+      - Social media
+      - Search engines
+      - Television
+      - Radio
+      - Print media
+      - Outdoor advertising
+      - Online display ads
+      - Influencer partnerships
+      - Email marketing
+      required: false
+    - id: 7
+      name: satisfaction_rating
+      label: Satisfaction Rating with Current Advertising Efforts
+      hint: Rate your satisfaction with your current advertising performance
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: biggest_challenge
+      label: Biggest Advertising Challenge
+      hint: What is your biggest challenge in advertising?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: target_audience_age
+      label: Target Audience Age Range
+      hint: What is the primary age range of your target audience?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How would you like us to contact you for follow-up?
+      type: select_one
+      options:
+      - Email
+      - Phone call
+      - LinkedIn message
+      - Text message
+      required: false
+    - id: 11
+      name: contact_email
+      label: Contact Email
+      hint: Enter your business email address
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information you'd like to share about your advertising needs
+      type: text
+      options: []
+      required: false

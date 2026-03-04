@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: maintenance_communication_logging_consent_form
+    pages:
+    - id: 1
+      name: form_title
+      label: Maintenance Communication Logging Consent Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Maintenance
+      - Forms
+      required: true
+    - id: 3
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: Tenant's email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: Tenant's phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: consent
+      label: Consent
+      hint: I consent to log and store maintenance-related communications
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - Chatjimmy
+      - Other
+      required: true

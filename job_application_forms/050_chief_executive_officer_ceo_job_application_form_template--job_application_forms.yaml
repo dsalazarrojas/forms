@@ -1,0 +1,412 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chief Executive Officer (CEO) Job Application Form Template
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: Your full address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: linkedin_profile
+      label: LinkedIn Profile
+      hint: URL to your LinkedIn profile
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: position_applied
+      label: Position Applied For
+      hint: Confirming CEO position
+      type: select_one
+      options:
+      - Chief Executive Officer (CEO)
+      - Other
+      required: true
+    - id: 8
+      name: available_start_date
+      label: Available Start Date
+      hint: When can you start
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: salary_expectations
+      label: Salary Expectations
+      hint: Expected compensation range
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: current_position
+      label: Current Position
+      hint: Your current job title
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: current_company
+      label: Current Company
+      hint: Name of current employer
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: years_executive_experience
+      label: Years of Executive Experience
+      hint: Total years in executive roles
+      type: select_one
+      options:
+      - Less than 5 years
+      - 5-10 years
+      - 10-15 years
+      - 15-20 years
+      - 20+ years
+      required: true
+    - id: 13
+      name: years_c_suite
+      label: Years in C-Suite
+      hint: Years in C-level positions
+      type: select_one
+      options:
+      - None
+      - 1-5 years
+      - 5-10 years
+      - 10-15 years
+      - 15+ years
+      required: true
+    - id: 14
+      name: highest_degree
+      label: Highest Degree
+      hint: Your highest academic degree
+      type: select_one
+      options:
+      - Bachelor's degree
+      - Master's degree
+      - MBA
+      - Doctorate (PhD)
+      - JD (Law degree)
+      - Other
+      required: true
+    - id: 15
+      name: degree_field
+      label: Field of Study
+      hint: What was your major
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: university_name
+      label: University Name
+      hint: Name of institution
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: graduation_year
+      label: Graduation Year
+      hint: Year of graduation
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: additional_education
+      label: Additional Education
+      hint: List other degrees or certifications
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: executive_certifications
+      label: Executive Certifications
+      hint: List any executive certifications
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: board_experience
+      label: Board Experience
+      hint: Describe your board experience
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: current_board_positions
+      label: Current Board Positions
+      hint: List current board memberships
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: p_l_responsibility
+      label: P and L Responsibility
+      hint: Describe your P and L experience
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: company_size_managed
+      label: Company Size Managed
+      hint: Largest company size you have led
+      type: select_one
+      options:
+      - Startup (under 50 employees)
+      - Small (50-200 employees)
+      - Medium (200-1000 employees)
+      - Large (1000-5000 employees)
+      - Enterprise (5000+ employees)
+      required: true
+    - id: 24
+      name: revenue_managed
+      label: Revenue Managed
+      hint: Largest revenue you have managed
+      type: select_one
+      options:
+      - Under $10 million
+      - $10-50 million
+      - $50-100 million
+      - $100-500 million
+      - $500 million - $1 billion
+      - Over $1 billion
+      required: true
+    - id: 25
+      name: industry_experience
+      label: Industry Experience
+      hint: Select your industries of expertise
+      type: select_multiple
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Manufacturing
+      - Retail
+      - Energy
+      - Telecommunications
+      - Consumer goods
+      - Professional services
+      - Other
+      required: true
+    - id: 26
+      name: leadership_achievements
+      label: Key Leadership Achievements
+      hint: Describe your top achievements as a leader
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: turnaround_experience
+      label: Turnaround Experience
+      hint: Describe any turnaround experience
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: m_and_a_experience
+      label: Mergers and Acquisitions Experience
+      hint: Describe your M and A experience
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: international_experience
+      label: International Business Experience
+      hint: Describe your global experience
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: digital_transformation
+      label: Digital Transformation Experience
+      hint: Describe digital initiatives you have led
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: references_available
+      label: Are References Available
+      hint: Can you provide professional references
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 32
+      name: reference_1_name
+      label: Reference 1 Name
+      hint: Name of first reference
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: reference_1_relationship
+      label: Reference 1 Relationship
+      hint: How do they know you
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: why_interested
+      label: Why Are You Interested
+      hint: Why do you want this CEO position
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: leadership_philosophy
+      label: Leadership Philosophy
+      hint: Describe your leadership approach
+      type: text
+      options: []
+      required: true
+    - id: 36
+      name: vision_statement
+      label: Vision Statement
+      hint: What is your vision for this company
+      type: text
+      options: []
+      required: true
+    - id: 37
+      name: first_90_days
+      label: First 90 Days Plan
+      hint: What would you do in your first 90 days
+      type: text
+      options: []
+      required: true
+    - id: 38
+      name: work_authorization
+      label: Work Authorization
+      hint: Are you authorized to work in this country
+      type: select_one
+      options:
+      - Yes, citizen
+      - Yes, permanent resident
+      - Yes, work visa
+      - No, require sponsorship
+      required: true
+    - id: 39
+      name: background_check
+      label: Background Check
+      hint: Are you willing to undergo background check
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 40
+      name: drug_screening
+      label: Drug Screening
+      hint: Are you willing to undergo drug screening
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 41
+      name: non_compete
+      label: Non-Compete Agreement
+      hint: Are you subject to any non-compete agreements
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 42
+      name: non_compete_details
+      label: Non-Compete Details
+      hint: Describe any restrictions
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: resume_attached
+      label: Resume Attached
+      hint: Have you attached your resume
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 44
+      name: cover_letter_attached
+      label: Cover Letter Attached
+      hint: Have you attached a cover letter
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 45
+      name: how_did_you_hear
+      label: How Did You Hear About This Position
+      hint: How did you learn about this opportunity
+      type: select_one
+      options:
+      - Executive search firm
+      - Company website
+      - LinkedIn
+      - Board member referral
+      - Industry contact
+      - News article
+      - Other
+      required: true
+    - id: 46
+      name: referral_name
+      label: Referral Name
+      hint: If referred, who referred you
+      type: text
+      options: []
+      required: false
+    - id: 47
+      name: additional_information
+      label: Additional Information
+      hint: Anything else you would like to share
+      type: text
+      options: []
+      required: false
+    - id: 48
+      name: application_date
+      label: Application Date
+      hint: Date of application
+      type: date
+      options: []
+      required: true
+    - id: 49
+      name: applicant_signature
+      label: Applicant Signature
+      hint: I certify all information is true and accurate
+      type: select_one
+      options:
+      - Yes, I certify
+      - false
+      required: true

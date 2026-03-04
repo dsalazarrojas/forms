@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mortgage Records Release Form
+    pages:
+    - id: 1
+      name: mortgage_holder_name
+      label: Mortgage Holder Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: mortgage_holder_address
+      label: Mortgage Holder Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: mortgage_institution_name
+      label: Mortgage Institution Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_one
+      options:
+      - Mortgage
+      - Deed
+      - Affidavit
+      - Other
+      required: true
+    - id: 10
+      name: document_number
+      label: Document Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: document_date
+      label: Document Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: reason_for_release
+      label: Reason for Release
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: authorization
+      label: Authorized By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: release_confirmation_check
+      label: I confirm that all the attached documents are accurate and complete.
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail POS System Beta Registration Form
+    pages:
+    - id: 1
+      name: retail_pos_system_beta_registration_form_page_1
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: store_name
+      label: Store Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_category
+      label: Business Category
+      hint: null
+      type: select_one
+      options:
+      - Retail Store
+      - Service Business
+      - Online Store
+      - Restaurant
+      - Other
+      required: true
+    - id: 7
+      name: store_address
+      label: Store Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: store_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: store_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: store_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: store_country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - Mexico
+      - Other
+      required: true
+    - id: 12
+      name: how_did_you_hear
+      label: How did you hear about us?
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Social Media
+      - Referral
+      - Online Search
+      - Other
+      required: true
+    - id: 13
+      name: when_did_you_open
+      label: When did you open your store?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: store_hours
+      label: Store Hours
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: point_of_sale_systems
+      label: Point of Sale Systems
+      hint: null
+      type: select_multiple
+      options:
+      - Retailer
+      - Restaurant
+      - Online
+      - Other
+      required: true
+    - id: 16
+      name: pos_systems_in_use
+      label: POS Systems in Use
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 17
+      name: pos_systems_versions
+      label: Versions
+      hint: null
+      type: select_multiple
+      options:
+      - Retailer
+      - Restaurant
+      - Online
+      - Other
+      required: true
+    - id: 18
+      name: store_website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: store_facebook_page
+      label: Facebook Page
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: store_twitter_page
+      label: Twitter Page
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: store_instagram_page
+      label: Instagram Page
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: store_youtube_page
+      label: YouTube Page
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: how_long_do_you_plan_to_use_beta
+      label: How long do you plan to use beta?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: how_long_did_you_use_beta_programs
+      label: How long did you use beta programs?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: consent
+      label: Consent
+      hint: null
+      type: note
+      options: []
+      required: true

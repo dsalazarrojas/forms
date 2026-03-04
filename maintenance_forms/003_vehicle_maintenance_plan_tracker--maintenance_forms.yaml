@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Maintenance Plan Tracker
+    pages:
+    - id: 1
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_registration_number
+      label: Vehicle Registration Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_history
+      label: Service History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: service_frequency
+      label: Service Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Semiannually
+      - Annually
+      required: false
+    - id: 5
+      name: next_service_date
+      label: Next Service Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: odometer_reading
+      label: Odometer Reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: service_cost
+      label: Service Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_maintenance_plan
+      label: Vehicle Maintenance Plan
+      hint: null
+      type: select_multiple
+      options:
+      - Oil Change
+      - Tire Rotation
+      - Tire Replacement
+      - Brake Replacement
+      - Battery Replacement
+      - Tire Balance
+      - Tire Alignment
+      - Tire Rotation with Balancing
+      - Tire Balance and Alignment
+      - Tire Balancing and Alignment
+      required: false

@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pro Bono Legal Assistance Intake Form
+    pages:
+    - id: 1
+      name: individual_info
+      label: Individual Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: case_info
+      label: Case Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_person_info
+      label: Contact Person Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: legal_info
+      label: Legal Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: case_status
+      label: Case Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - In Progress
+      required: false
+    - id: 7
+      name: priority
+      label: Priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: intake_date
+      label: Date of Intake
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: last_updated
+      label: Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: legal_specialties
+      label: Legal Specialties
+      hint: null
+      type: select_multiple
+      options:
+      - Family Law
+      - Civil Law
+      - Labor Law
+      - Criminal Law
+      required: false
+    - id: 11
+      name: legal_areas
+      label: Legal Areas
+      hint: null
+      type: select_one
+      options:
+      - Family Law
+      - Civil Law
+      - Labor Law
+      - Criminal Law
+      required: false
+    - id: 12
+      name: legal_document
+      label: Legal Document
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: case_number
+      label: Case Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: attorney
+      label: Attorney
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: court
+      label: Court
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: intake_provider
+      label: Intake Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: intake_date_time
+      label: Intake Date/Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,72 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Book Purchase Request Form
+    pages:
+      - id: 1
+        name: request_header
+        label: -- Purchase Request --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: requester_name
+        label: Requester name
+        hint: Staff or patron requesting purchase
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email
+        label: Email address
+        hint: For follow up
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: book_title
+        label: Book title
+        hint: Title of requested book
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: author
+        label: Author
+        hint: Book author
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: isbn
+        label: ISBN
+        hint: If known
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: justification
+        label: Justification for purchase
+        hint: Why should the library acquire this title
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: budget_code
+        label: Budget code
+        hint: Internal accounting code if applicable
+        type: text
+        options: []
+        required: false

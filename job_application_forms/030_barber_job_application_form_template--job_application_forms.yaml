@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Barber Job Application Form
+    pages:
+    - id: 1
+      name: applicant_personal_header
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: licensing_header
+      label: -- Professional Licensing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: license_status
+      label: Do you hold a valid Barber License?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Current
+      - Yes - Expired
+      - No - In training / Student
+      - No - Cosmetology license only
+      required: true
+    - id: 7
+      name: license_number
+      label: License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: license_expiry
+      label: License Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: skills_experience_header
+      label: -- Skills and Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: years_experience
+      label: Years of Experience as a Barber
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: specialized_skills
+      label: Specialized Skills and Services
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Straight Razor Shave
+      - Beard Trimming and Shaping
+      - Fades and Tapers
+      - Scissor Cuts
+      - Hair Coloring
+      - Facial Treatments
+      required: true
+    - id: 12
+      name: portfolio_link
+      label: Portfolio or Instagram Link
+      hint: Show us your work!
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: previous_shop_name
+      label: Most Recent Barber Shop Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: availability_header
+      label: -- Availability and Start Date --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: shifts_available
+      label: Preferred Working Days
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 16
+      name: start_date
+      label: Earliest Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: self_description
+      label: Why are you a good fit for our shop?
+      hint: Tell us about your style and philosophy
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: certification_statement
+      label: I certify that all information is true and accurate
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true

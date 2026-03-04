@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Appraisal Request Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company
+      label: Company or Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: property_info
+      label: Property Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      - Agricultural
+      - Mixed Use
+      required: true
+    - id: 9
+      name: property_use
+      label: Current Use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: appraisal_type
+      label: Type of Appraisal Needed
+      hint: null
+      type: select_multiple
+      options:
+      - Full Market Appraisal
+      - Limited Appraisal
+      - Desktop Appraisal
+      - Insurance Valuation
+      - Tax Assessment
+      required: true
+    - id: 11
+      name: urgency
+      label: How Urgent is this Request
+      hint: null
+      type: select_one
+      options:
+      - Immediate
+      - Within One Week
+      - Within Two Weeks
+      - Flexible
+      required: false
+    - id: 12
+      name: purpose
+      label: Purpose of Appraisal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_notes
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false

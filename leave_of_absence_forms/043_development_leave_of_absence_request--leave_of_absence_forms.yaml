@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Development Leave Of Absence Request
+    pages:
+    - id: 1
+      name: employee_details
+      label: Employee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_leave
+      label: Reason For Leave
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: duration_of_leave
+      label: Duration of Leave
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: leave_type
+      label: Leave Type
+      hint: null
+      type: select_one
+      options:
+      - Development Leave
+      - Other
+      required: false
+    - id: 9
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - Approve
+      - Deny
+      - Pending
+      required: false
+    - id: 10
+      name: team_leader_approval
+      label: Team Leader Approval
+      hint: null
+      type: select_one
+      options:
+      - Approve
+      - Deny
+      - Pending
+      required: false
+    - id: 11
+      name: coverage_plan
+      label: Coverage Plan
+      hint: null
+      type: select_multiple
+      options:
+      - Team A
+      - Team B
+      - Team C
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: employee_notes
+      label: Employee Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: manager_notes
+      label: Manager Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: team_leader_notes
+      label: Team Leader Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: false
+    - id: 17
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Submitted
+      - Approved
+      - Approved with conditions
+      - Denied
+      required: false
+    - id: 20
+      name: comments_1
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: status_2
+      label: Status 2
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 22
+      name: reason_2
+      label: Reason 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: employee_comments
+      label: Employee Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: team_leader_comments
+      label: Team Leader Comments
+      hint: null
+      type: note
+      options: []
+      required: false

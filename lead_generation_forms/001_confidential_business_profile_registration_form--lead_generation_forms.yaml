@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Confidential Business Profile Registration Form
+    pages:
+    - id: 1
+      name: section_business_info
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Enter the full legal name of your business
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_address
+      label: Business Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: industry_sector
+      label: Industry Sector
+      hint: null
+      type: select_one
+      options:
+      - Real Estate
+      - Finance
+      - Healthcare
+      - Technology
+      - Manufacturing
+      - Other
+      required: true
+    - id: 5
+      name: years_in_business
+      label: Years in Business
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: section_buyer_profile
+      label: -- Buyer Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: investment_strategy
+      label: Primary Investment Strategy
+      hint: Select the strategy that best describes your approach
+      type: select_one
+      options:
+      - Buy and Hold
+      - Fix and Flip
+      - Commercial Development
+      - Wholesale
+      - Land Acquisition
+      required: true
+    - id: 8
+      name: target_markets
+      label: Target Geographic Markets
+      hint: List cities or regions of interest
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: investment_capacity
+      label: Typical Investment Capacity
+      hint: Per deal range
+      type: select_one
+      options:
+      - Under $500k
+      - $500k - $1M
+      - $1M - $5M
+      - $5M - $10M
+      - Over $10M
+      required: true
+    - id: 10
+      name: preferred_property_types
+      label: Preferred Property Types
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Single Family Residential
+      - Multi-Family
+      - Office
+      - Retail
+      - Industrial
+      required: true
+    - id: 11
+      name: section_contact_details
+      label: -- Contact Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: contact_person_name
+      label: Primary Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: contact_email
+      label: Professional Email Address
+      hint: For receiving real estate leads
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: confidentiality_agreement
+      label: I acknowledge that this information is provided confidentially
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true

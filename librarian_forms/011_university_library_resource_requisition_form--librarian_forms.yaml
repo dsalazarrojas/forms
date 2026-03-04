@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Library Resource Requisition Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: resource_type
+      label: Resource Type
+      hint: null
+      type: select_one
+      options:
+      - Academic Books
+      - Academic Journals
+      - Database Access
+      - Other
+      required: true
+    - id: 6
+      name: resource_count
+      label: Number of Copies
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: priority_date
+      label: Priority Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

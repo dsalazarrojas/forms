@@ -1,0 +1,109 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: emancipation_petition_form
+    pages:
+    - id: 1
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: child_name
+      label: Child Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: relationship
+      label: Relationship to the child
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Parent''}'
+      - '{''id'': 2, ''name'': ''Guardian''}'
+      required: true
+    - id: 4
+      name: reason
+      label: Reason for emancipation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: court_date
+      label: Court Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: court_time
+      label: Court Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: court_location
+      label: Court Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: child_signature
+      label: Child Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: parent_contact_info
+      label: Parent Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: child_contact_info
+      label: Child Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: other_info
+      label: Other Information (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false

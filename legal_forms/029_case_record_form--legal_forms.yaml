@@ -1,0 +1,393 @@
+inputSchema:
+  type: object
+  properties:
+    title: Case Record Form
+    pages:
+    - id: 1
+      name: record_header
+      label: Case Record Form
+      hint: Standardized case data collection and tracking
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: record_id
+      label: Record ID Number
+      hint: Unique identifier
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: record_date
+      label: Record Creation Date
+      hint: Date created
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: case_info
+      label: Case Information
+      hint: Basic case details
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: case_number
+      label: Case Number
+      hint: Case identifier
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: case_name
+      label: Case Name
+      hint: Case title
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: case_type
+      label: Case Type
+      hint: Classification
+      type: select_one
+      options:
+      - Civil
+      - Criminal
+      - Family
+      - Probate
+      - Juvenile
+      - Administrative
+      - Small claims
+      - Traffic
+      - Other
+      required: true
+    - id: 8
+      name: case_category
+      label: Case Category
+      hint: Specific category
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: filing_date
+      label: Filing Date
+      hint: Date filed
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: case_status
+      label: Current Status
+      hint: Case status
+      type: select_one
+      options:
+      - New
+      - Active
+      - Pending
+      - On hold
+      - Closed
+      - Archived
+      required: true
+    - id: 11
+      name: priority_level
+      label: Priority Level
+      hint: Case priority
+      type: select_one
+      options:
+      - Low
+      - Normal
+      - High
+      - Urgent
+      - Critical
+      required: true
+    - id: 12
+      name: party_info
+      label: Party Information
+      hint: Involved parties
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: plaintiff_name
+      label: Plaintiff or Petitioner
+      hint: Filing party
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: plaintiff_type
+      label: Plaintiff Type
+      hint: Party category
+      type: select_one
+      options:
+      - Individual
+      - Corporation
+      - Partnership
+      - Government entity
+      - Nonprofit organization
+      - Other
+      required: true
+    - id: 15
+      name: plaintiff_contact
+      label: Plaintiff Contact Information
+      hint: Address and phone
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: defendant_name
+      label: Defendant or Respondent
+      hint: Opposing party
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: defendant_type
+      label: Defendant Type
+      hint: Party category
+      type: select_one
+      options:
+      - Individual
+      - Corporation
+      - Partnership
+      - Government entity
+      - Nonprofit organization
+      - Other
+      required: true
+    - id: 18
+      name: defendant_contact
+      label: Defendant Contact Information
+      hint: Address and phone
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: attorney_info
+      label: Attorney Information
+      hint: Legal representation
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: plaintiff_attorney
+      label: Plaintiff Attorney Name
+      hint: Counsel for plaintiff
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: plaintiff_firm
+      label: Plaintiff Law Firm
+      hint: Firm name
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: plaintiff_attorney_contact
+      label: Plaintiff Attorney Contact
+      hint: Contact information
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: defendant_attorney
+      label: Defendant Attorney Name
+      hint: Defense counsel
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: defendant_firm
+      label: Defendant Law Firm
+      hint: Firm name
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: defendant_attorney_contact
+      label: Defendant Attorney Contact
+      hint: Contact information
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: case_details
+      label: Case Details
+      hint: Case specifics
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: case_description
+      label: Case Description
+      hint: Summary of matter
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: cause_of_action
+      label: Cause of Action
+      hint: Legal basis
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: relief_sought
+      label: Relief Sought
+      hint: Requested remedy
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: amount_claimed
+      label: Amount Claimed
+      hint: Monetary demand
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: key_dates
+      label: Key Dates
+      hint: Important deadlines
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: next_hearing_date
+      label: Next Hearing Date
+      hint: Scheduled hearing
+      type: date
+      options: []
+      required: false
+    - id: 33
+      name: trial_date
+      label: Trial Date
+      hint: If scheduled
+      type: date
+      options: []
+      required: false
+    - id: 34
+      name: discovery_deadline
+      label: Discovery Deadline
+      hint: End of discovery
+      type: date
+      options: []
+      required: false
+    - id: 35
+      name: statute_limitations
+      label: Statute of Limitations
+      hint: Filing deadline
+      type: date
+      options: []
+      required: false
+    - id: 36
+      name: case_notes
+      label: Case Notes
+      hint: Additional information
+      type: note
+      options: []
+      required: false
+    - id: 37
+      name: important_facts
+      label: Important Facts
+      hint: Key information
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: legal_issues
+      label: Legal Issues
+      hint: Questions of law
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: evidence_list
+      label: Key Evidence
+      hint: Important exhibits
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: witness_list
+      label: Witnesses
+      hint: Known witnesses
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: documents_filed
+      label: Documents Filed
+      hint: Pleadings and motions
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: case_strategy
+      label: Case Strategy
+      hint: Strategic notes
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: assigned_staff
+      label: Assigned Staff
+      hint: Team members
+      type: note
+      options: []
+      required: false
+    - id: 44
+      name: lead_attorney
+      label: Lead Attorney
+      hint: Primary counsel
+      type: text
+      options: []
+      required: false
+    - id: 45
+      name: paralegal
+      label: Assigned Paralegal
+      hint: Support staff
+      type: text
+      options: []
+      required: false
+    - id: 46
+      name: billing_info
+      label: Billing Information
+      hint: Fee arrangement
+      type: note
+      options: []
+      required: false
+    - id: 47
+      name: fee_arrangement
+      label: Fee Arrangement
+      hint: Payment structure
+      type: select_one
+      options:
+      - Hourly
+      - Contingency
+      - Flat fee
+      - Retainer
+      - Pro bono
+      - Court appointed
+      required: false
+    - id: 48
+      name: retainer_balance
+      label: Retainer Balance
+      hint: Remaining retainer
+      type: number
+      options: []
+      required: false
+    - id: 49
+      name: last_updated
+      label: Last Updated Date
+      hint: Most recent update
+      type: date
+      options: []
+      required: true
+    - id: 50
+      name: updated_by
+      label: Updated By
+      hint: Person updating
+      type: text
+      options: []
+      required: true

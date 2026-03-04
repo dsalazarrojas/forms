@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Center Cooling System Inspection Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: air_handler_info
+      label: Air Handler Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: cooling_system_info
+      label: Cooling System Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: electrical_info
+      label: Electrical Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: water_info
+      label: Water Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: cooling_system_condition
+      label: Cooling System Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: cooling_system_status
+      label: Cooling System Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: cooling_system_reliability
+      label: Cooling System Reliability
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: cooling_system_performance
+      label: Cooling System Performance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: cooling_system_capacity
+      label: Cooling System Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: cooling_system_rated_capacity
+      label: Cooling System Rated Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: cooling_system_design_capacity
+      label: Cooling System Design Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: electrical_distribution
+      label: Electrical Distribution
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: electrical_cabinet_info
+      label: Electrical Cabinet Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: electrical_cable_type
+      label: Electrical Cable Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: data_center_info
+      label: Data Center Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: cooling_system_control
+      label: Cooling System Control
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: cooling_system_control_info
+      label: Cooling System Control Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: cooling_system_alarm_info
+      label: Cooling System Alarm Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: data_center_equipment_info
+      label: Data Center Equipment Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: cooling_system_equipment_info
+      label: Cooling System Equipment Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: cooling_system_monitoring
+      label: Cooling System Monitoring
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: cooling_system_failure_info
+      label: Cooling System Failure Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

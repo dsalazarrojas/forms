@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Salon Job Application Form
+    pages:
+    - id: 1
+      name: section_contact_info
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_position_details
+      label: -- Position and Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: position_applied_for
+      label: Position Applied For
+      hint: null
+      type: select_one
+      options:
+      - Stylist
+      - Colorist
+      - Nail Technician
+      - Esthetician
+      - Receptionist
+      - Salon Manager
+      required: true
+    - id: 8
+      name: employment_type
+      label: Desired Employment Type
+      hint: null
+      type: select_one
+      options:
+      - Full-Time
+      - Part-Time
+      - Contract / Booth Rental
+      required: true
+    - id: 9
+      name: available_start_date
+      label: Available Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: weekly_availability
+      label: Days Available to Work
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 11
+      name: section_experience
+      label: -- Experience and Education --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: years_of_experience
+      label: Years of Professional Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: license_number
+      label: Professional License Number
+      hint: If applicable for your role
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: previous_employer
+      label: Last Employer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: reason_for_leaving
+      label: Reason for Leaving
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: portfolio_url
+      label: Portfolio or Social Media Link
+      hint: Show us your work
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: certifications
+      label: Relevant Certifications
+      hint: Special techniques, brands, etc.
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: reference_info
+      label: Professional References
+      hint: Name and Contact Information
+      type: text
+      options: []
+      required: true

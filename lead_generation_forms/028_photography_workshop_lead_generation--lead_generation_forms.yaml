@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photography Workshop Lead Generation
+    pages:
+    - id: 1
+      name: photography_workshop_lead_generation_page
+      label: Capture Lead Information
+      hint: Enter information about your workshop
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: lead_generation_form_first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: lead_generation_form_last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: photography_workshop_lead_generation_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: photography_workshop_lead_generation_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: photography_workshop_lead_generation_workshop_interest
+      label: what_workshop_interest
+      hint: What workshops or classes are you interested in?
+      type: select_multiple
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 7
+      name: photography_workshop_lead_generation_preferred_schedule
+      label: preferred_workshop_schedule
+      hint: What dates is your preferred schedule for the workshop?
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 8
+      name: photography_workshop_lead_generation_lead_status
+      label: lead_status
+      hint: How did you find out about our workshop?
+      type: select_one
+      options:
+      - Facebook
+      - Instagram
+      - Google
+      - Word of mouth
+      - Other
+      required: false
+    - id: 9
+      name: photography_workshop_lead_generation_additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: photography_workshop_lead_generation_agree_terms
+      label: agree_terms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: photography_workshop_lead_generation_agree_privacy
+      label: agree_privacy
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: photography_workshop_lead_generation_submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

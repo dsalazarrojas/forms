@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Band Singer Application Form
+    pages:
+    - id: 1
+      name: singer_personal_header
+      label: -- Applicant Personal Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: vocal_specs_header
+      label: -- Vocal Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: vocal_range
+      label: Vocal Range
+      hint: Select the category that best describes your range
+      type: select_one
+      options:
+      - Soprano
+      - Mezzo-Soprano
+      - Alto
+      - Tenor
+      - Baritone
+      - Bass
+      required: true
+    - id: 7
+      name: musical_styles
+      label: Preferred Musical Styles
+      hint: Select all that apply to your vocal style
+      type: select_multiple
+      options:
+      - Pop / Top 40
+      - Rock / Alternative
+      - Jazz / Standards
+      - R&B / Soul
+      - Country
+      - Classical / Opera
+      - Musical Theater
+      required: true
+    - id: 8
+      name: sight_reading
+      label: Can you sight-read music?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Proficiently
+      - Yes - With some preparation
+      - No - I learn by ear
+      required: true
+    - id: 9
+      name: harmony_skills
+      label: Ability to sing backup harmonies?
+      hint: Experience singing 2nd or 3rd parts
+      type: select_one
+      options:
+      - Expert - Can arrange and sing harmonies
+      - Intermediate - Can follow a harmony line
+      - Beginner - Prefer lead vocals only
+      required: true
+    - id: 10
+      name: performance_exp_header
+      label: -- Performance Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: years_performing
+      label: Years of Professional Performing Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: previous_bands
+      label: Notable Previous Bands or Projects
+      hint: List names and dates
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: audio_link
+      label: Audio Demo Link (SoundCloud/Dropbox)
+      hint: Link to a recording of you singing
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: video_link
+      label: Performance Video Link (YouTube/Instagram)
+      hint: Link to a live performance video
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: logistics_header
+      label: -- Logistics and Equipment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: gear_ownership
+      label: Do you own your own microphone and IEMs?
+      hint: In-ear monitors and vocal mics
+      type: select_one
+      options:
+      - Yes - Full vocal rig
+      - Partially - Mic only
+      - No - Rely on venue/band gear
+      required: true
+    - id: 17
+      name: travel_readiness
+      label: Do you have a valid passport for international touring?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - In Progress
+      required: true
+    - id: 18
+      name: additional_info
+      label: Why do you want to join this band?
+      hint: Tell us about your motivation and what you bring to the group
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: IT Support Contract Renewal Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - IT Forms
+      - Other Forms
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: Provide a brief description of the contract.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: contract_start_date
+      label: Contract Start Date
+      hint: Enter the date the contract started.
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contract_end_date
+      label: Contract End Date
+      hint: Enter the date the contract ends.
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      required: false
+    - id: 8
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: Provide any additional notes about the contract.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: Enter an email.
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: Enter a phone number.
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contract_type
+      label: Contract Type
+      hint: Select the type of contract.
+      type: select_multiple
+      options:
+      - IT Support
+      - Maintenance
+      - Consulting
+      required: false
+    - id: 13
+      name: uploaded_documents
+      label: Uploaded Documents
+      hint: Upload any relevant documents to support the contract.
+      type: select_multiple
+      options:
+      - Document 1
+      - Document 2
+      - Document 3
+      required: false
+    - id: 14
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Pending Review
+      - Approved
+      - Rejected
+      required: false

@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Traffic Violation Incident Form
+    pages:
+    - id: 1
+      name: traffic_violation_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: traffic_violation_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: traffic_violation_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: police_station_id
+      label: Police Station
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false
+    - id: 5
+      name: vehicle_violation_id
+      label: Vehicle Violation
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 6
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Car
+      - Motorcycle
+      - Truck
+      - Bus
+      required: false
+    - id: 7
+      name: vehicle_color
+      label: Vehicle Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_license_plate
+      label: Vehicle License Plate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: driver_first_name
+      label: Driver First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: driver_last_name
+      label: Driver Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: driver_gender
+      label: Driver Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 15
+      name: driver_age
+      label: Driver Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: driver_license_status
+      label: Driver License Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Suspended
+      - Revoked
+      required: false
+    - id: 17
+      name: witness_first_name
+      label: Witness First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: witness_last_name
+      label: Witness Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: witness_gender
+      label: Witness Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 20
+      name: witness_age
+      label: Witness Age
+      hint: null
+      type: number
+      options: []
+      required: false

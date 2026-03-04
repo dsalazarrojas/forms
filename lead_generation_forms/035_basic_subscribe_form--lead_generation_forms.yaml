@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Basic Subscribe Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Subscribe to Our Newsletter --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: section_header_2
+      label: -- Subscription Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: subscription_type
+      label: Choose your subscription type
+      hint: null
+      type: select_one
+      options:
+      - Daily Newsletter
+      - Weekly Newsletter
+      - Monthly Newsletter
+      - Special Offers Only
+      - All Updates
+      required: true
+    - id: 7
+      name: interest_topics
+      label: Topics you are interested in
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Technology
+      - Business
+      - Health
+      - Entertainment
+      - Sports
+      - Science
+      - Lifestyle
+      - News
+      - Other
+      required: false
+    - id: 8
+      name: section_header_3
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: company_name
+      label: Company name (optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: industry
+      label: Industry or profession
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone number (optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_header_4
+      label: -- Communication Frequency --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: frequency_preference
+      label: How often would you like to hear from us?
+      hint: null
+      type: select_one
+      options:
+      - Once a Day
+      - 2-3 Times a Week
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Quarterly
+      required: true
+    - id: 14
+      name: send_time
+      label: Preferred time to receive emails
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - No Preference
+      required: false
+    - id: 15
+      name: section_header_5
+      label: -- Consent and Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: consent
+      label: I consent to receive communications from this organization
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 17
+      name: privacy_agreement
+      label: I agree to the privacy policy
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 18
+      name: share_on_third_party
+      label: Allow sharing my email with trusted partners
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 19
+      name: subscription_confirmation
+      label: I confirm and want to subscribe
+      hint: null
+      type: select_one
+      options:
+      - I Confirm
+      - I Want to Cancel
+      required: true

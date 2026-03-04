@@ -1,0 +1,121 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: APS Infrastructure Tailboard Form
+    pages:
+    - id: 1
+      name: tailboard_date
+      label: Tailboard Date
+      hint: Date of the tailboard meeting
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: tailboard_time
+      label: Tailboard Time
+      hint: Time of the tailboard meeting
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: lead_supervisor
+      label: Lead Supervisor
+      hint: Name of the lead supervisor conducting the tailboard
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: team_members_present
+      label: Team Members Present
+      hint: Names of all team members attending the tailboard
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: work_area_location
+      label: Work Area Location
+      hint: Specific location of the infrastructure work
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: work_description
+      label: Work Description
+      hint: Brief description of the infrastructure work to be performed
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: equipment_used
+      label: Equipment to be Used
+      hint: List of equipment that will be used during the work
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: safety_hazards_identified
+      label: Safety Hazards Identified
+      hint: What safety hazards have been identified for this work?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: ppe_requirements
+      label: PPE Requirements
+      hint: What personal protective equipment is required?
+      type: select_multiple
+      options: ["Hard Hat", "Safety Glasses", "Gloves", "Steel Toe Boots", "High Visibility Vest", "Face Shield", "Hearing Protection", "Fall Protection"]
+      required: true
+    - id: 10
+      name: risk_level_assessment
+      label: Risk Level Assessment
+      hint: What is the overall risk level of this work?
+      type: select_one
+      options: ["Low", "Medium", "High", "Critical"]
+      required: true
+    - id: 11
+      name: emergency_procedures
+      label: Emergency Procedures
+      hint: What are the emergency procedures for this work area?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: communication_protocol
+      label: Communication Protocol
+      hint: How will the team communicate during the work?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: work_completion_criteria
+      label: Work Completion Criteria
+      hint: How will you know when the work is complete?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: next_steps_follow_up
+      label: Next Steps/Follow-up
+      hint: What are the next steps after completing this work?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: signatures_required
+      label: Signatures Required
+      hint: Signatures of all team members acknowledging the tailboard
+      type: text
+      options: []
+      required: true

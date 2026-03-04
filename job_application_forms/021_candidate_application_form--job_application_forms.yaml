@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: Candidate Application Form
+    pages:
+    - id: 1
+      name: personal_details_section
+      label: -- Personal Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: As it appears on your official documents
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Primary contact email for recruitment
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: physical_address
+      label: Physical Address
+      hint: Current residential address
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: linkedin_profile
+      label: LinkedIn Profile URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: position_experience_section
+      label: -- Position and Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: position_applied
+      label: Position Applied For
+      hint: Enter the exact job title
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: experience_years
+      label: Years of Professional Experience
+      hint: Total years of work in a related field
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: education_level
+      label: Highest Level of Education
+      hint: Select your most recent degree or certification
+      type: select_one
+      options:
+      - High School
+      - Associate
+      - Bachelor
+      - Master
+      - PhD
+      - Other
+      required: true
+    - id: 11
+      name: authorization_status
+      label: Are you legally authorized to work in the country
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: employment_status
+      label: Current Employment Status
+      hint: What is your current work situation
+      type: select_one
+      options:
+      - Employed Full-time
+      - Employed Part-time
+      - Unemployed
+      - Student
+      - Self-employed
+      required: true
+    - id: 13
+      name: expected_salary
+      label: Expected Salary
+      hint: Annual amount in local currency
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: skills_questions_section
+      label: -- Skills and Questions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: technical_skills
+      label: Key Technical Skills
+      hint: List relevant software, tools, or professional certifications
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: interest_reason
+      label: Why are you interested in this role
+      hint: Tell us what attracts you to our company
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: notice_period
+      label: What is your notice period
+      hint: How soon can you start
+      type: select_one
+      options:
+      - Immediate
+      - 2 weeks
+      - 1 month
+      - 2 months
+      - Other
+      required: true
+    - id: 18
+      name: referral_source
+      label: Referral Source
+      hint: How did you hear about this opportunity
+      type: select_one
+      options:
+      - Job Board
+      - Social Media
+      - Company Website
+      - Employee Referral
+      - Recruiter
+      - Other
+      required: true
+    - id: 19
+      name: resume_status
+      label: Resume Link or Upload Status
+      hint: Indicate how you are providing your resume
+      type: select_one
+      options:
+      - Included with this submission
+      - Sent via email
+      - Will provide later
+      required: true
+    - id: 20
+      name: truthfulness_certification
+      label: I certify the information is true
+      hint: Falsification may lead to rejection or termination
+      type: select_one
+      options:
+      - Yes, I certify
+      - false
+      required: true
+    - id: 21
+      name: application_date
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: true

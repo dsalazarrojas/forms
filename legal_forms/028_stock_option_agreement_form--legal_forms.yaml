@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stock Option Agreement Form
+    pages:
+    - id: 1
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: grant_date
+      label: Grant Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: stock_option
+      label: Stock Option
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant
+      label: Participant
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: stock_options_granted
+      label: Stock Options Granted
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: option_price
+      label: Option Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: vesting_date
+      label: Vesting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: company_representative_signature
+      label: Company Representative Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: participant_phone_ext
+      label: Participant Phone Ext
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: participant_address
+      label: Participant Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: option_description
+      label: Option Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: participant_title
+      label: Participant Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: option_type
+      label: Option Type
+      hint: null
+      type: select_one
+      options:
+      - Equity
+      - Options
+      - Stock
+      required: false
+    - id: 18
+      name: stock_option_type
+      label: Stock Option Type
+      hint: null
+      type: select_multiple
+      options:
+      - Equity
+      - Incentive Stock Options
+      - Non Qualified Stock Options
+      required: false
+    - id: 19
+      name: participant_incorp_name
+      label: Participant Corp Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: participant_incorporation_number
+      label: Participant Incorporation Number
+      hint: null
+      type: text
+      options: []
+      required: false

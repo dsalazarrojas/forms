@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bankruptcy Intake Form
+    pages:
+    - id: 1
+      name: intake_date
+      label: Intake Date
+      hint: Date of this intake interview
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_ssn
+      label: Social Security Number
+      hint: Last 4 digits for verification
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_dob
+      label: Date of Birth
+      hint: Your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: client_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: client_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: marital_status
+      label: Marital Status
+      hint: Current marital status
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Separated
+      - Widowed
+      required: true
+    - id: 8
+      name: spouse_name
+      label: Spouse Name (if applicable)
+      hint: Full name of spouse
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: spouse_filing
+      label: Is Your Spouse Also Filing?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Undecided
+      required: true
+    - id: 10
+      name: dependents
+      label: Number of Dependents
+      hint: Children and other dependents
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: current_address
+      label: Current Street Address
+      hint: Full residential address
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: address_duration
+      label: How Long at Current Address?
+      hint: Duration of residence
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: housing_status
+      label: Housing Status
+      hint: Current housing situation
+      type: select_one
+      options:
+      - Own with Mortgage
+      - Own Outright
+      - Rent
+      - Living with Family
+      - Other
+      required: true
+    - id: 14
+      name: monthly_housing_payment
+      label: Monthly Housing Payment
+      hint: Mortgage or rent amount
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: employment_status
+      label: Employment Status
+      hint: Current employment situation
+      type: select_one
+      options:
+      - Employed Full-Time
+      - Employed Part-Time
+      - Self-Employed
+      - Unemployed
+      - Retired
+      - Disabled
+      - Student
+      required: true
+    - id: 16
+      name: employer_name
+      label: Employer Name
+      hint: Current employer name
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: job_title
+      label: Job Title
+      hint: Your current position
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: monthly_gross_income
+      label: Monthly Gross Income
+      hint: Before taxes and deductions
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: spouse_income
+      label: Spouse Monthly Income
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: other_income
+      label: Other Income Sources
+      hint: Social Security, disability, etc.
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: monthly_expenses
+      label: Estimated Monthly Expenses
+      hint: All regular expenses combined
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: credit_card_debt
+      label: Total Credit Card Debt
+      hint: All credit cards combined
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: medical_debt
+      label: Medical Debt
+      hint: Outstanding medical bills
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: student_loans
+      label: Student Loans
+      hint: Outstanding student loans
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: vehicle_loans
+      label: Vehicle Loans
+      hint: Car loans and vehicle debt
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: mortgage_debt
+      label: Mortgage Debt
+      hint: Outstanding mortgage balance
+      type: number
+      options: []
+      required: false

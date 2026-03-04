@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legal Disclaimer Acknowledgment
+    pages:
+    - id: 1
+      name: legal_disclaimer_acknowledgment
+      label: Legal Disclaimer Acknowledgment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: confirmation
+      label: confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: organization_id
+      label: organization id
+      hint: null
+      type: text
+      options: []
+      required: false

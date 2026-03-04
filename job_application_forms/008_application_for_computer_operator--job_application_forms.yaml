@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: Application For Computer Operator
+    pages:
+    - id: 1
+      name: application_date
+      label: Application Date
+      hint: Date when application is submitted
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: Primary email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: Full mailing address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: Zip Code
+      hint: Postal or zip code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: position_applied
+      label: Position Applied
+      hint: Specific position you are applying for
+      type: select_one
+      options:
+      - Computer Operator
+      - Senior Computer Operator
+      - Night Shift Operator
+      - Weekend Operator
+      - Data Center Operator
+      required: true
+    - id: 11
+      name: available_shift
+      label: Available Shift
+      hint: Which shifts are you available for
+      type: select_one
+      options:
+      - Day Shift
+      - Evening Shift
+      - Night Shift
+      - Rotating Shift
+      - Weekend Only
+      required: true
+    - id: 12
+      name: earliest_start_date
+      label: Earliest Start Date
+      hint: When can you start working
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: education_level
+      label: Education Level
+      hint: Highest level of education completed
+      type: select_one
+      options:
+      - High School Diploma
+      - Associate Degree
+      - Bachelor's Degree
+      - Master's Degree
+      - Other
+      required: true
+    - id: 14
+      name: field_of_study
+      label: Field of Study
+      hint: Your major or field of study
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: years_of_experience
+      label: Years of Experience
+      hint: Years of computer operator experience
+      type: select_one
+      options:
+      - No Experience
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - More than 5 years
+      required: true
+    - id: 16
+      name: operating_systems
+      label: Operating Systems
+      hint: Select operating systems you are familiar with
+      type: select_multiple
+      options:
+      - Windows Server
+      - Linux
+      - Unix
+      - macOS
+      - IBM z/OS
+      required: true
+    - id: 17
+      name: technical_skills
+      label: Technical Skills
+      hint: Select your technical skills
+      type: select_multiple
+      options:
+      - Batch Processing
+      - System Monitoring
+      - Backup Operations
+      - Troubleshooting
+      - Database Management
+      - Network Monitoring
+      - Scripting
+      required: true
+    - id: 18
+      name: certifications
+      label: Certifications
+      hint: List any relevant certifications
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: previous_employer
+      label: Previous Employer
+      hint: Most recent employer name
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: previous_job_title
+      label: Previous Job Title
+      hint: Your previous job title
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: employment_duration
+      label: Employment Duration
+      hint: How long did you work there
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: reason_for_leaving
+      label: Reason for Leaving
+      hint: Why did you leave your previous position
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: supervisor_contact
+      label: Supervisor Contact
+      hint: Previous supervisor name and contact
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: willing_background_check
+      label: Willing Background Check
+      hint: Are you willing to undergo a background check
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: authorized_to_work
+      label: Authorized to Work
+      hint: Are you authorized to work in this country
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: additional_qualifications
+      label: Additional Qualifications
+      hint: Any other qualifications or skills
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: references_available
+      label: References Available
+      hint: Can you provide professional references
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

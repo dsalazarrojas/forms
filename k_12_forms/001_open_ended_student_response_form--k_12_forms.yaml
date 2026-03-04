@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: open_ended_student_response_form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: question_1
+      label: What is your favorite subject?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: question_2
+      label: What do you like to do when you're not in school?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: question_3
+      label: What's the most interesting thing you've learned this week?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: question_4
+      label: What's something you've accomplished that you're proud of?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: question_5
+      label: What's the one thing you'd like to change about school?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: question_6
+      label: Do you like your teacher?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Maybe''}'
+      required: false
+    - id: 9
+      name: question_7
+      label: Do you like your school?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Maybe''}'
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

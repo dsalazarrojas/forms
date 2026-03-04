@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payment Processing Referral Form
+    pages:
+    - id: 1
+      name: referral_source
+      label: Referral Source
+      hint: null
+      type: select_multiple
+      options:
+      - Partner
+      - Agency
+      - Social Media
+      - Email Marketing
+      - Other
+      required: false
+    - id: 2
+      name: partner_name
+      label: partnerName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: contactEmail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: contactPhone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_type
+      label: paymentType
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - ACH
+      - Wire Transfer
+      required: false
+    - id: 6
+      name: referral_date
+      label: referralDate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: submitted_by
+      label: submittedBy
+      hint: null
+      type: select_one
+      options:
+      - User
+      - Partner
+      required: false
+    - id: 8
+      name: submitted_at
+      label: submittedAt
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: form_id
+      label: formId
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitted_via
+      label: submittedVia
+      hint: null
+      type: select_one
+      options:
+      - Web
+      - Mobile
+      - Email
+      required: false
+    - id: 12
+      name: submission_notes
+      label: submissionNotes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: submitted_at_date
+      label: submittedAtDate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: submitted_at_time
+      label: submittedAtTime
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: form_id_2
+      label: formId2
+      hint: null
+      type: text
+      options: []
+      required: false

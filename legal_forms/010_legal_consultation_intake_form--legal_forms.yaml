@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legal Consultation Intake Form
+    pages:
+    - id: 1
+      name: legal_consultation_intake_form_1
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: legal_consultation_intake_form_2
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: legal_consultation_intake_form_3
+      label: case_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: legal_consultation_intake_form_4
+      label: case_type
+      hint: null
+      type: select_one
+      options:
+      - Civil
+      - Criminal
+      - Family
+      - Immigration
+      - Probate
+      - Probate - Guardianship
+      - Probate - Trusts
+      required: false
+    - id: 5
+      name: legal_consultation_intake_form_5
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: legal_consultation_intake_form_6
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: legal_consultation_intake_form_7
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: legal_consultation_intake_form_8
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false

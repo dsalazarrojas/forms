@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: legal_support_subscription_form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_name
+      label: business name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: legal_issues
+      label: legal issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: subscription_type
+      label: subscription type
+      hint: null
+      type: select_multiple
+      options:
+      - Legal Subscription
+      - Business Subscription
+      required: true
+    - id: 11
+      name: payment_details
+      label: payment details
+      hint: null
+      type: text
+      options: []
+      required: false

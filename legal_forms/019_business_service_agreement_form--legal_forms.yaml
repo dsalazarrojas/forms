@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Service Agreement Form
+    pages:
+    - id: 1
+      name: agreement_date
+      label: Agreement Effective Date
+      hint: When does this agreement become effective
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: service_provider_name
+      label: Service Provider Name
+      hint: Full name of the service provider
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: service_provider_address
+      label: Service Provider Address
+      hint: Business address of service provider
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: service_provider_phone
+      label: Service Provider Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_provider_email
+      label: Service Provider Email
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: client_name
+      label: Client Name
+      hint: Full name of the client
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: client_address
+      label: Client Address
+      hint: Business address of client
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: client_phone
+      label: Client Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: client_email
+      label: Client Email
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: service_description
+      label: Service Description
+      hint: Detailed description of services to be provided
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: scope_of_work
+      label: Scope of Work
+      hint: Detailed scope of work and deliverables
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: project_timeline
+      label: Project Timeline
+      hint: Start date, milestones, and end date
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: total_project_cost
+      label: Total Project Cost
+      hint: Total agreed-upon cost
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: payment_terms
+      label: Payment Terms
+      hint: Payment schedule and methods
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: deposit_required
+      label: Deposit or Advance Payment
+      hint: Any upfront payment required
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: payment_due_date
+      label: Final Payment Due Date
+      hint: When is final payment due
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: acceptance_criteria
+      label: Acceptance Criteria
+      hint: How will completed work be evaluated
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: warranties
+      label: Warranties and Guarantees
+      hint: Any warranties provided
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: liability_limitations
+      label: Liability Limitations
+      hint: Any liability caps or exclusions
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: termination_clause
+      label: Termination Clause
+      hint: Conditions for terminating the agreement
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: confidentiality_clause
+      label: Confidentiality and NDA
+      hint: Any confidentiality requirements
+      type: select_one
+      options:
+      - Yes, Confidentiality Required
+      - No Confidentiality Clause
+      required: true
+    - id: 22
+      name: provider_signature_date
+      label: Service Provider Signature Date
+      hint: Date when provider signs
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: client_signature_date
+      label: Client Signature Date
+      hint: Date when client signs
+      type: date
+      options: []
+      required: false

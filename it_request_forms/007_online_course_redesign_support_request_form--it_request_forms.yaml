@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Course Redesign Support Request Form
+    pages:
+    - id: 1
+      name: course_redesign_request
+      label: Course Redesign Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: institution_name
+      label: Institution Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: institution_email
+      label: Institution Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: redesign_goal
+      label: Redesign Goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: redesign_suggestions
+      label: Redesign Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: institution_location
+      label: Institution Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: course_name
+      label: Course Name
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: course_section
+      label: Course Section
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: course_type
+      label: Course Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: course_status
+      label: Course Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 14
+      name: course_tagging
+      label: Course Tagging
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: course_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commercial Property Loan Approval Form
+    pages:
+    - id: 1
+      name: section_loan_summary
+      label: -- Loan and Borrower Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: loan_officer_name
+      label: Assigned Loan Officer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: borrower_entity_name
+      label: Borrower Entity Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: loan_application_number
+      label: Loan Application Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_property_valuation
+      label: -- Collateral Valuation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: collateral_address
+      label: Property Collateral Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: appraised_value
+      label: Final Appraised Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: appraisal_date
+      label: Date of Appraisal
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: loan_to_value_ratio
+      label: Final LTV Ratio (%)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: section_loan_structure
+      label: -- Final Approved Loan Structure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: approved_principal_amount
+      label: Approved Principal Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: approved_interest_rate
+      label: Approved Interest Rate (%)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: rate_type
+      label: Rate Type
+      hint: null
+      type: select_one
+      options:
+      - Fixed
+      - Variable / Floating
+      - Step-Up
+      required: true
+    - id: 14
+      name: loan_maturity_term
+      label: Loan Maturity Term (Months)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: amortization_period
+      label: Amortization Period (Years)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: section_approval_status
+      label: -- Approval Status and Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: final_approval_decision
+      label: Final Loan Decision
+      hint: null
+      type: select_one
+      options:
+      - Approved as Structured
+      - Approved with Conditions
+      - Declined
+      required: true
+    - id: 18
+      name: approval_conditions_list
+      label: Specific Conditions for Funding
+      hint: e.g., Final Title Report, Insurance Binder, Phase 1 ESA
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: committee_approval_date
+      label: Credit Committee Approval Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: approver_signature_name
+      label: Authorized Approver Name
+      hint: null
+      type: text
+      options: []
+      required: true

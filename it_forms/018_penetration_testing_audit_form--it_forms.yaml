@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Penetration Testing Audit Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: Enter the name of your organization
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact E-mail
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: auditor_name
+      label: Auditor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: auditor_contact_number
+      label: Auditor Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: auditor_email
+      label: Auditor E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: system_description
+      label: System Description
+      hint: Provide a detailed description of the system
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: system_type
+      label: System Type
+      hint: Select the type of system
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Windows''}'
+      - '{''id'': 2, ''label'': ''Linux''}'
+      - '{''id'': 3, ''label'': ''macOS''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 9
+      name: system_version
+      label: System Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vulnerability
+      label: Vulnerability
+      hint: Enter the name of the vulnerability you are testing
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: test_start_date
+      label: Test Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: test_end_date
+      label: Test End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: test_duration
+      label: Test Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: severity
+      label: Severity
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Low''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''High''}'
+      - '{''id'': 4, ''label'': ''Critical''}'
+      required: false
+    - id: 15
+      name: test_notes
+      label: Test Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: system_user
+      label: System User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: system_password
+      label: System Password
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: test_frequency
+      label: Test Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly''}'
+      - '{''id'': 4, ''label'': ''Quarterly''}'
+      required: false
+    - id: 19
+      name: system_location
+      label: System Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: test_start_time
+      label: Test Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: test_end_time
+      label: Test End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: user_contact_number
+      label: User Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: user_email
+      label: User E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: user_frequency
+      label: User Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly''}'
+      - '{''id'': 4, ''label'': ''Quarterly''}'
+      required: false
+    - id: 26
+      name: user_location
+      label: User Location
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Unlimited Internet Plan Registration
+    pages:
+    - id: 1
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: plan_choice
+      label: Choose a Plan
+      hint: null
+      type: select_one
+      options:
+      - Internet 20x20
+      - Internet 40x20
+      - Internet 100x20
+      required: true
+    - id: 3
+      name: installation_preferences
+      label: Installation Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: notes
+      label: Notes
+      hint: Add any additional notes
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: installation_date
+      label: Installation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: installation_time
+      label: Installation Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: installation_location
+      label: Installation Location
+      hint: null
+      type: select_multiple
+      options:
+      - Home
+      - Work
+      - Other
+      required: true
+    - id: 11
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text Messaging
+      - In Person
+      required: true
+    - id: 12
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: confirmation
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - None
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 14
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - None
+      - 'yes'
+      - 'no'
+      required: true

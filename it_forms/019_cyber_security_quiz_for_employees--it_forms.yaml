@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cyber Security Quiz For Employees
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: role
+      label: role
+      hint: null
+      type: select_one
+      options:
+      - IT
+      - Management
+      - Support
+      required: false
+    - id: 3
+      name: quiz_completed
+      label: Have you completed the security quiz in the last 6 months?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 4
+      name: password_manager
+      label: Password Manager
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: password_manager_tool
+      label: What password manager do you use?
+      hint: null
+      type: select_multiple
+      options:
+      - LastPass
+      - 1Password
+      - KeePass
+      - Dashlane
+      required: false
+    - id: 6
+      name: last_2fa
+      label: Do you use Last 2FA?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: password_rotation
+      label: Do you rotate your passwords?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: password_rotation_frequency
+      label: How often do you rotate your passwords?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Never
+      required: false
+    - id: 9
+      name: password_length
+      label: What is the average length of your password?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: phishing_training
+      label: Have you received phishing training?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: phishing_attacks
+      label: Have you ever fallen victim to phishing attacks?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: security_training
+      label: Have you received security training?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: security_conference
+      label: Have you attended a security conference?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: security_buddy
+      label: Do you have a security buddy?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: security_buddy_name
+      label: Security Buddy Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: last_password_update
+      label: When was last your password updated?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: password_strength
+      label: How strong is your password?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: password_expiration
+      label: How often is your password expire?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 19
+      name: password_expiration_frequency
+      label: How often is your password expire?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Never
+      required: false
+    - id: 20
+      name: password_manager_last_updated
+      label: When was your password manager last updated?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: password_last_change
+      label: Last password changed?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: security_policy
+      label: Do you follow the security policy of our company?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 23
+      name: password_manager_password
+      label: Password manager password
+      hint: null
+      type: select_multiple
+      options:
+      - LastPass
+      - 1Password
+      - KeePass
+      - Dashlane
+      required: false
+    - id: 24
+      name: two_factor_authentication
+      label: Two Factor Authentication?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: security_questions
+      label: How many security questions do you have?
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - More than 3
+      required: false

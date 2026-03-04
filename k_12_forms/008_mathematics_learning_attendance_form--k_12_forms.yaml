@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mathematics Learning Attendance Form
+    pages:
+    - id: 1
+      name: math_session_id
+      label: Math Session ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: tutor_id
+      label: Tutor ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: teacher_id
+      label: Teacher ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: math_session_date
+      label: Math Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: student_grade
+      label: Student Grade
+      hint: null
+      type: select_one
+      options:
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      required: true
+    - id: 7
+      name: attendance_status
+      label: Attendance Status
+      hint: null
+      type: select_multiple
+      options:
+      - Present
+      - Absent
+      - Late
+      required: true
+    - id: 8
+      name: session_type
+      label: Session Type
+      hint: null
+      type: select_one
+      options:
+      - Math Class
+      - Test Preparation
+      - Homework Help
+      required: false
+    - id: 9
+      name: math_session_topic
+      label: Math Session Topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: class_participants
+      label: Class Participants
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: true
+    - id: 11
+      name: total_students
+      label: Total Students
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: total_absent
+      label: Total Absent
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: total_late
+      label: Total Late
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: total_punctuality_score
+      label: Punctuality Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: session_minutes
+      label: Session Minutes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: math_session_duration
+      label: Math Session Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: total_students_in_class
+      label: Total Students in Class
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: total_students_in_session
+      label: Total Students in Session
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: session_start_time
+      label: Session Start Time
+      hint: null
+      type: time
+      options: []
+      required: false

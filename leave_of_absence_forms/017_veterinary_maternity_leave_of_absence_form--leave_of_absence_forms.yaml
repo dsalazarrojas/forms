@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Maternity Leave Of Absence Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: leave_start_date
+      label: Leave Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: leave_end_date
+      label: Leave End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: reason_for_leave
+      label: Reason For Leave
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: expected_return_date
+      label: Expected Return Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_name
+      label: Manager's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: leave_of_absence_status
+      label: Leave of Absence Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments_from_manager
+      label: Comments from Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: veterinary_maternity_leave_policy_version
+      label: Veterinary Maternity Leave Policy Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false

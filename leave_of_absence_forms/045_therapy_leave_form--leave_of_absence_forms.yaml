@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Therapy Leave Form
+    pages:
+    - id: 1
+      name: therapy_leave_form_1
+      label: therapy_leave_form_1
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 2
+      name: therapy_leave_start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: therapy_leave_end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_leave
+      label: reason_for_leave
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_document
+      label: medical_document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: doctor_name
+      label: doctor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: appointment_date
+      label: appointment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: doctor_phone_number
+      label: doctor_phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: therapy_session_notes
+      label: therapy_session_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: employee_signature
+      label: employee_signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: approver_name
+      label: approver_name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: approver_phone_number
+      label: approver_phone_number
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: approver_email
+      label: approver_email
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: approver_signature
+      label: approver_signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

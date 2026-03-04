@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: library_director_evaluation_form
+    pages:
+    - id: 1
+      name: library_director
+      label: Library Director
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patron_evaluation
+      label: Patron Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_evaluation
+      label: Employee Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: library_director_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 6
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Librarian Forms
+      - Other
+      required: true
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - assigned_tool1
+      - assigned_tool2
+      required: true

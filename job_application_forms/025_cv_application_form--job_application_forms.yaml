@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: CV Application Form
+    pages:
+    - id: 1
+      name: personal_info_header
+      label: -- Personal Information --
+      hint: Standard Job Application Form
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: current_location
+      label: City and Country of Residence
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: position_header
+      label: -- Position Applied For --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: job_title
+      label: Specific Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: department_interest
+      label: Department of Interest
+      hint: null
+      type: select_one
+      options:
+      - Administration
+      - Engineering
+      - Sales
+      - Marketing
+      - Design
+      - Customer Service
+      - Human Resources
+      required: true
+    - id: 9
+      name: availability_date
+      label: Earliest Possible Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: education_header
+      label: -- Education and Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: highest_education
+      label: Highest Level of Education
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - Associate Degree
+      - Bachelor Degree
+      - Master Degree
+      - PhD
+      - Other
+      required: true
+    - id: 12
+      name: years_of_experience
+      label: Years of Relevant Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: portfolio_link
+      label: LinkedIn or Portfolio URL
+      hint: if applicable
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: cv_summary
+      label: Professional Summary
+      hint: brief overview of your skills and background
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: eligibility_header
+      label: -- Eligibility --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: legal_work_status
+      label: Are you legally authorized to work in this country
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: sponsorship_required
+      label: Will you now or in the future require sponsorship
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: application_date
+      label: Today's Date
+      hint: null
+      type: date
+      options: []
+      required: true

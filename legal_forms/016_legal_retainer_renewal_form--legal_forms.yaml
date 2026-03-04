@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legal Retainer Renewal Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: firm_name
+      label: Firm Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: agreement_type
+      label: Agreement Type
+      hint: null
+      type: select_multiple
+      options:
+      - Retainer
+      - Non-Client
+      - Other
+      required: false
+    - id: 4
+      name: contract_date
+      label: Contract Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: last_updated
+      label: Last Updated
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: renewal_terms
+      label: Renewal Terms
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: next_renewal_date
+      label: Next Renewal Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: firm_manager
+      label: Firm Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: client_manager
+      label: Client Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: agreement_signed_date
+      label: Signed Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: signed_by
+      label: Signed By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: notes_signed
+      label: Notes Signed
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: renewal_status
+      label: Renewal Status
+      hint: null
+      type: select_one
+      options:
+      - Renewed
+      - Overdue
+      - Cancelled
+      required: false
+    - id: 17
+      name: renewal_date
+      label: Renewal Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: last_sent
+      label: Last Sent
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: next_sent
+      label: Next Sent
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: last_received
+      label: Last Received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: next_received
+      label: Next Received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: firm_signature
+      label: Firm Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: signed_by_firm
+      label: Signed By Firm
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: signed_by_client
+      label: Signed By Client
+      hint: null
+      type: text
+      options: []
+      required: false

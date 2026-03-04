@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dispute Resolution Intake Form
+    pages:
+    - id: 1
+      name: party_1_name
+      label: Party 1 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: party_1_address
+      label: Party 1 Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: party_2_name
+      label: Party 2 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: party_2_address
+      label: Party 2 Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: nature_of_dispute
+      label: Nature of Dispute
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_dispute
+      label: Date of Dispute
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_dispute
+      label: Time of Dispute
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: description_of_dispute
+      label: Description of Dispute
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: requested_resolution
+      label: Requested Resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: resolution_methods
+      label: Resolution Methods
+      hint: null
+      type: select_multiple
+      options:
+      - Mediation
+      - Arbitration
+      - Legal Action
+      required: false
+    - id: 11
+      name: mediators
+      label: Mediators
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Other
+      required: false
+    - id: 12
+      name: resolution_location
+      label: Resolution Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: dispute_type
+      label: Dispute Type
+      hint: null
+      type: select_one
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      required: false
+    - id: 14
+      name: party_1_phone
+      label: Party 1 Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: party_1_email
+      label: Party 1 Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: party_2_phone
+      label: Party 2 Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: party_2_email
+      label: Party 2 Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: party_1_agreed_to_mediation
+      label: Party 1 Agreed to Mediation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 19
+      name: party_2_agreed_to_mediation
+      label: Party 2 Agreed to Mediation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: agreed_to_mediation
+      label: Agree to Mediation
+      hint: null
+      type: select_one
+      options:
+      - Both Parties
+      - Party 1
+      - Party 2
+      required: false
+    - id: 21
+      name: dispute_resolution_date
+      label: Dispute Resolution Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: dispute_resolution_time
+      label: Dispute Resolution Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: dispute_resolution_status
+      label: Dispute Resolution Status
+      hint: null
+      type: select_one
+      options:
+      - Ongoing
+      - Closed
+      - Resolved
+      required: false

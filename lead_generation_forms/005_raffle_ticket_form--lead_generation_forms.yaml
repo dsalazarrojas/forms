@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Raffle Ticket Form
+    pages:
+    - id: 1
+      name: raffle_name
+      label: raffle_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: raffle_price
+      label: raffle_price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: raffle_quantity
+      label: raffle_quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: raffle_draw_date
+      label: raffle_draw_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: raffle_draw_time
+      label: raffle_draw_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: raffle_description
+      label: raffle_description
+      hint: Enter a brief description
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: raffle_prize
+      label: raffle_prize
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: raffle_image
+      label: raffle_image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: raffle_image_url
+      label: raffle_image_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: raffle_form_type
+      label: raffle_form_type
+      hint: null
+      type: select_one
+      options:
+      - Raffle with Image and Description
+      - Raffle with Only Description
+      - Raffle with Image
+      - Raffle with Only Title
+      required: true
+    - id: 11
+      name: raffle_payment_gateway
+      label: raffle_payment_gateway
+      hint: null
+      type: select_multiple
+      options:
+      - Stripe
+      - PayPal
+      - Square
+      - Authorize.net
+      required: true
+    - id: 12
+      name: raffle_payment_test
+      label: raffle_payment_test
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: raffle_user
+      label: raffle_user
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: raffle_form_language
+      label: raffle_form_language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      required: true
+    - id: 15
+      name: raffle_form_color
+      label: raffle_form_color
+      hint: null
+      type: select_one
+      options:
+      - Blue
+      - Red
+      required: true
+    - id: 16
+      name: raffle_form_background
+      label: raffle_form_background
+      hint: null
+      type: select_one
+      options:
+      - White
+      - Black
+      required: true
+    - id: 17
+      name: raffle_form_header
+      label: raffle_form_header
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: raffle_form_footer
+      label: raffle_form_footer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: raffle_terms_and_conditions
+      label: raffle_terms_and_conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: raffle_image_upload
+      label: raffle_image_upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: raffle_image_max_size
+      label: raffle_image_max_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: raffle_image_min_size
+      label: raffle_image_min_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: raffle_image_width
+      label: raffle_image_width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: raffle_image_height
+      label: raffle_image_height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: raffle_custom_js
+      label: raffle_custom_js
+      hint: null
+      type: text
+      options: []
+      required: false

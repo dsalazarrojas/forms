@@ -1,0 +1,183 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: CI/CD Pipeline Setup Request Form
+    pages:
+      - id: 1
+        name: requester_name
+        label: Requester Name
+        hint: Full name of the person making this request
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: requester_email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: department
+        label: Department
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: project_name
+        label: Project Name
+        hint: Name of the project requiring CI/CD pipeline setup
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: project_description
+        label: Project Description
+        hint: Brief overview of what the project does
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: repository_url
+        label: Repository URL
+        hint: Git repository URL (GitHub, GitLab, Bitbucket, etc.)
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: repository_type
+        label: Repository Type
+        hint: Select the version control platform
+        type: select_one
+        options:
+          - GitHub
+          - GitLab
+          - Bitbucket
+          - Azure DevOps
+          - Other
+        required: true
+      - id: 8
+        name: primary_language
+        label: Primary Programming Language
+        hint: Main language used in the project
+        type: select_one
+        options:
+          - Python
+          - JavaScript
+          - Java
+          - Go
+          - C#
+          - Ruby
+          - PHP
+          - Other
+        required: true
+      - id: 9
+        name: build_tool
+        label: Build Tool
+        hint: What build system does your project use?
+        type: select_one
+        options:
+          - Maven
+          - Gradle
+          - npm
+          - Yarn
+          - pip
+          - Make
+          - Other
+        required: false
+      - id: 10
+        name: testing_framework
+        label: Testing Framework
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: target_environments
+        label: Target Deployment Environments
+        hint: Select all applicable environments
+        type: select_multiple
+        options:
+          - Development
+          - Staging
+          - Production
+          - QA
+          - Integration Testing
+        required: true
+      - id: 12
+        name: deployment_frequency
+        label: Desired Deployment Frequency
+        hint: How often do you want to deploy?
+        type: select_one
+        options:
+          - Daily
+          - Weekly
+          - Bi-weekly
+          - Monthly
+          - On-demand
+        required: false
+      - id: 13
+        name: container_needed
+        label: Container Support Required
+        hint: Do you need Docker or container orchestration?
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "Not Sure"
+        required: false
+      - id: 14
+        name: kubernetes_needed
+        label: Kubernetes Orchestration
+        hint: Is Kubernetes needed for this pipeline?
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "Not Sure"
+        required: false
+      - id: 15
+        name: notification_preference
+        label: Notification Preference
+        hint: How should CI/CD status be communicated?
+        type: select_multiple
+        options:
+          - Email
+          - Slack
+          - Teams
+          - GitHub Status
+          - Webhooks
+        required: false
+      - id: 16
+        name: security_requirements
+        label: Security Requirements
+        hint: Any specific security scanning or compliance needs?
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: timeline
+        label: Timeline for Setup
+        hint: When do you need this pipeline operational?
+        type: date
+        options: []
+        required: false
+      - id: 18
+        name: additional_notes
+        label: Additional Notes or Requirements
+        hint: Any other information relevant to your pipeline setup
+        type: text
+        options: []
+        required: false

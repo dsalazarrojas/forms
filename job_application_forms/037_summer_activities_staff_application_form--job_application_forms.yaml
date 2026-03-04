@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Activities Staff Application Form
+    pages:
+    - id: 1
+      name: summer_activities_staff_application_form
+      label: Summer Activities Staff Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Activity Leader
+      - Counselor
+      - Food Service
+      - Medical Staff
+      required: false
+    - id: 3
+      name: job_title
+      label: job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: experience
+      label: experience
+      hint: years of experience
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: education
+      label: education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: skills
+      label: skills
+      hint: null
+      type: select_multiple
+      options:
+      - Leadership
+      - Communication
+      - Teamwork
+      - Time Management
+      required: false
+    - id: 7
+      name: availability
+      label: availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

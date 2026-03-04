@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: language_app_module_inquiry_form
+    pages:
+    - id: 1
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: language
+      label: language
+      hint: null
+      type: select_one
+      options:
+      - Japanese
+      - Chinese
+      - Korean
+      - French
+      - Spanish
+      - German
+      - Italian
+      - Arabic
+      - Russian
+      - Portuguese
+      - English
+      - Other
+      required: false
+    - id: 6
+      name: level
+      label: level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Proficient
+      - Proficient+
+      - Native
+      - Other
+      required: false
+    - id: 7
+      name: module
+      label: module
+      hint: null
+      type: select_multiple
+      options:
+      - A1
+      - A2
+      - B1
+      - B2
+      - C1
+      - C2
+      - Other
+      required: false
+    - id: 8
+      name: match
+      label: match
+      hint: null
+      type: select_multiple
+      options:
+      - A1
+      - A2
+      - B1
+      - B2
+      - C1
+      - C2
+      - Other
+      required: false
+    - id: 9
+      name: method
+      label: method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false

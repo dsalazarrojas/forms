@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Operations Privacy Agreement Form
+    pages:
+    - id: 1
+      name: healthcare_operations_privacy_agreement_form_patient_information
+      label: Patient Information
+      hint: Please provide the patient information
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: healthcare_operations_privacy_agreement_form_patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: healthcare_operations_privacy_agreement_form_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: healthcare_operations_privacy_agreement_form_contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: healthcare_operations_privacy_agreement_form_contact_relationship
+      label: Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - Family Member
+      - Friend
+      - Guardian
+      - Caregiver
+      - Other
+      required: true
+    - id: 6
+      name: healthcare_operations_privacy_agreement_form_privacy_concerns
+      label: Privacy Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: healthcare_operations_privacy_agreement_form_agreement_date
+      label: Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: healthcare_operations_privacy_agreement_form_sign_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: healthcare_operations_privacy_agreement_form_provider_info
+      label: Provider Info
+      hint: null
+      type: select_multiple
+      options:
+      - Primary Care Provider
+      - Dermatologist
+      - Cardiologist
+      - Oncologist
+      - Other
+      required: true

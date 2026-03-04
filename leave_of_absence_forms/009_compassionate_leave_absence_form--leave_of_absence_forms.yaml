@@ -1,0 +1,260 @@
+inputSchema:
+  type: object
+  properties:
+    title: Compassionate Leave Absence Form
+    pages:
+    - id: 1
+      name: employee_full_name
+      label: Employee Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID Number
+      hint: Your employee identification number
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Your current department
+      type: select_one
+      options:
+      - Human Resources
+      - Finance
+      - Marketing
+      - Sales
+      - Operations
+      - IT
+      - Customer Service
+      - Legal
+      - Other
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: Your current position
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: manager_name
+      label: Manager or Supervisor Name
+      hint: Name of your direct supervisor
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: manager_email
+      label: Manager Email
+      hint: Supervisor email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: leave_type
+      label: Type of Compassionate Leave
+      hint: Reason for leave request
+      type: select_one
+      options:
+      - Death of immediate family member
+      - Death of extended family member
+      - Critical illness of family member
+      - Family emergency
+      - Personal crisis
+      - Bereavement
+      - Other compassionate grounds
+      required: true
+    - id: 8
+      name: relationship_to_affected
+      label: Relationship to Affected Person
+      hint: How are you related to the person
+      type: select_one
+      options:
+      - Spouse or partner
+      - Child or stepchild
+      - Parent or stepparent
+      - Sibling
+      - Grandparent
+      - Grandchild
+      - In-law
+      - Other relative
+      - Non-relative
+      required: true
+    - id: 9
+      name: leave_start_date
+      label: Leave Start Date
+      hint: First day of leave
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: leave_end_date
+      label: Expected Return Date
+      hint: When you plan to return
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: total_days_requested
+      label: Total Days Requested
+      hint: Number of working days
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: leave_duration
+      label: Leave Duration Type
+      hint: Is this continuous or intermittent
+      type: select_one
+      options:
+      - Continuous - consecutive days
+      - Intermittent - as needed
+      - Reduced schedule
+      required: true
+    - id: 13
+      name: situation_description
+      label: Brief Description of Situation
+      hint: Optional details about your situation
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: documentation_available
+      label: Can you provide documentation
+      hint: Death certificate medical note etc
+      type: select_one
+      options:
+      - Yes - will provide
+      - Yes - attached
+      - No - not available
+      - Not applicable
+      required: true
+    - id: 15
+      name: urgent_contact_needed
+      label: Do you need urgent contact during leave
+      hint: Will you be reachable
+      type: select_one
+      options:
+      - Yes - reachable by phone
+      - Yes - reachable by email
+      - No - will be unavailable
+      - Emergency contact only
+      required: true
+    - id: 16
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Who can reach you if urgent
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: How to reach you urgently
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: work_handover
+      label: Work Handover Status
+      hint: Have you arranged coverage
+      type: select_one
+      options:
+      - Yes - handover complete
+      - In progress
+      - Need assistance
+      - No coverage needed
+      required: true
+    - id: 19
+      name: handover_notes
+      label: Handover Notes
+      hint: Brief notes on pending work
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: colleague_coverage
+      label: Colleague Covering Your Duties
+      hint: Who will handle your work
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: out_of_office
+      label: Out of Office Message Set
+      hint: Will you set an auto-reply
+      type: select_one
+      options:
+      - Yes - will set up
+      - No - not needed
+      - Need help setting up
+      required: true
+    - id: 22
+      name: benefits_impact
+      label: Do you understand benefits impact
+      hint: How leave affects your benefits
+      type: select_one
+      options:
+      - Yes I understand
+      - No - need information
+      - Need to speak with HR
+      required: true
+    - id: 23
+      name: pay_during_leave
+      label: Pay During Leave
+      hint: Do you understand pay status
+      type: select_one
+      options:
+      - Paid leave
+      - Unpaid leave
+      - Partially paid
+      - Using accrued PTO
+      - Need clarification
+      required: true
+    - id: 24
+      name: return_to_work_support
+      label: Do you need return to work support
+      hint: Counseling or accommodations
+      type: select_one
+      options:
+      - No - I will be fine
+      - Yes - flexible return
+      - Yes - counseling support
+      - Yes - workplace adjustments
+      required: true
+    - id: 25
+      name: employee_signature
+      label: Employee Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: submission_date
+      label: Date of Submission
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 27
+      name: manager_approval
+      label: Manager Approval
+      hint: For manager use only
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending HR review
+      - More information needed
+      required: false
+    - id: 28
+      name: manager_comments
+      label: Manager Comments
+      hint: Any notes from manager
+      type: text
+      options: []
+      required: false

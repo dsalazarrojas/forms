@@ -1,0 +1,253 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Entity Compliance Declaration Form
+    pages:
+    - id: 1
+      name: entity_section
+      label: -- Entity Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: entity_name
+      label: Entity Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: entity_type
+      label: Entity Type
+      hint: Business structure
+      type: select_one
+      options:
+      - Corporation
+      - LLC
+      - Partnership
+      - Non-Profit
+      - Trust
+      - Other
+      required: true
+    - id: 4
+      name: registration_number
+      label: Registration Number
+      hint: State or federal registration ID
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: compliance_officer
+      label: Compliance Officer Name
+      hint: Person responsible for compliance
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: compliance_officer_contact
+      label: Compliance Officer Contact
+      hint: Email or phone
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: reporting_period
+      label: Reporting Period
+      hint: Date range for this compliance report
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: regulatory_section
+      label: -- Regulatory Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: state_licenses
+      label: All required state licenses current
+      hint: Are all licenses valid and up to date?
+      type: select_one
+      options:
+      - "Yes"
+      - "No"
+      - Not Applicable
+      required: true
+    - id: 10
+      name: federal_compliance
+      label: Federal tax filings current
+      hint: Are federal tax obligations met?
+      type: select_one
+      options:
+      - "Yes"
+      - "No"
+      required: true
+    - id: 11
+      name: state_compliance
+      label: State tax filings current
+      hint: Are state tax obligations met?
+      type: select_one
+      options:
+      - "Yes"
+      - "No"
+      required: true
+    - id: 12
+      name: payroll_tax
+      label: Payroll tax filings current
+      hint: Are payroll taxes filed and paid?
+      type: select_one
+      options:
+      - "Yes"
+      - "No"
+      - Not Applicable
+      required: true
+    - id: 13
+      name: labor_section
+      label: -- Labor Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: wage_hour_compliance
+      label: Wage and hour laws compliant
+      hint: Are wage and hour requirements met?
+      type: select_one
+      options:
+      - "Yes"
+      - "No"
+      - Not Applicable
+      required: true
+    - id: 15
+      name: workplace_safety
+      label: Workplace safety regulations met
+      hint: OSHA and safety compliance
+      type: select_one
+      options:
+      - "Yes"
+      - "No"
+      required: true
+    - id: 16
+      name: employment_documentation
+      label: Employment documentation complete
+      hint: I-9 forms and verification records
+      type: select_one
+      options:
+      - "Yes"
+      - "No"
+      - Not Applicable
+      required: true
+    - id: 17
+      name: environmental_section
+      label: -- Environmental Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: environmental_permits
+      label: Required environmental permits obtained
+      hint: null
+      type: select_one
+      options:
+      - "Yes"
+      - "No"
+      - Not Applicable
+      required: true
+    - id: 19
+      name: environmental_reports
+      label: Environmental reports filed
+      hint: Are required reports submitted?
+      type: select_one
+      options:
+      - "Yes"
+      - "No"
+      - Not Applicable
+      required: true
+    - id: 20
+      name: financial_section
+      label: -- Financial Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: financial_records
+      label: Financial records maintained properly
+      hint: Are books and records up to date?
+      type: select_one
+      options:
+      - "Yes"
+      - "No"
+      required: true
+    - id: 22
+      name: audit_status
+      label: Audit or review status
+      hint: Have audits been completed?
+      type: select_one
+      options:
+      - Clean Audit
+      - Audit with Findings
+      - No Audit Required
+      required: true
+    - id: 23
+      name: insurance_section
+      label: -- Insurance Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: required_insurance
+      label: Required insurance policies in place
+      hint: null
+      type: select_one
+      options:
+      - "Yes"
+      - "No"
+      required: true
+    - id: 25
+      name: insurance_current
+      label: Insurance policies current
+      hint: Are all policies paid and active?
+      type: select_one
+      options:
+      - "Yes"
+      - "No"
+      required: true
+    - id: 26
+      name: final_section
+      label: -- Certification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: certification
+      label: I certify this entity is compliant with all applicable regulations
+      hint: Confirm compliance status
+      type: select_one
+      options:
+      - "Yes"
+      - "No"
+      required: true
+    - id: 28
+      name: issues_identified
+      label: Issues or concerns identified
+      hint: Describe any compliance gaps or issues
+      type: text
+      options: []
+      required: false

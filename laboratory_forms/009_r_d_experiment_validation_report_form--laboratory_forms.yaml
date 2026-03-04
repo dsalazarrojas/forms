@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: R&D Experiment Validation Report Form
+    pages:
+    - id: 1
+      name: experiment_validation_report
+      label: experiment validation report form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_completed
+      label: date completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: date_verified
+      label: date verified
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: validation_outcome
+      label: validation outcome
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: validation_status
+      label: validation status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: validation_decision
+      label: validation decision
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: validation_rationale
+      label: validation rationale
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: validation_notes
+      label: validation notes
+      hint: null
+      type: text
+      options: []
+      required: false

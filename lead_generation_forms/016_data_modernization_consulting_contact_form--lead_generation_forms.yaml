@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Modernization Consulting Contact Form
+    pages:
+    - id: 1
+      name: lead_generation_form
+      label: Lead Generation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: data_modernization_goals
+      label: Data Modernization Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: discovery_call
+      label: Schedule Discovery Call
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: data_modernization_experience
+      label: Data Modernization Experience
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''none'', ''name'': ''None''}'
+      - '{''id'': ''some'', ''name'': ''Some''}'
+      - '{''id'': ''lots'', ''name'': ''Lots''}'
+      required: true
+    - id: 5
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''John Doe'', ''name'': ''John Doe''}'
+      - '{''id'': ''Jane Doe'', ''name'': ''Jane Doe''}'
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: Email Address
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: company_name
+      label: Company Name
+      hint: Company Name
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: company_size
+      label: Company Size
+      hint: Company Size (Employees)
+      type: text
+      options: []
+      required: false

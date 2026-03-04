@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: IT Helpdesk Efficiency Report Form
+    pages:
+    - id: 1
+      name: page_1
+      label: Page 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: user_response_time
+      label: User Response Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: resolution_rate
+      label: Resolution Rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: satisfaction_rate
+      label: Satisfaction Rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: response_time
+      label: Response Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: resolved_issues
+      label: Resolved Issues
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: unresolved_issues
+      label: Unresolved Issues
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: user_satisfaction
+      label: User Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Somewhat Dissatisfied
+      - Neutral
+      - Somewhat Satisfied
+      - Very Satisfied
+      required: true
+    - id: 10
+      name: page_2
+      label: Page 2
+      hint: null
+      type: note
+      options: []
+      required: false

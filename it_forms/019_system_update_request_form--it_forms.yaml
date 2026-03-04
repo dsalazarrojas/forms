@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: System Update Request Form
+    pages:
+    - id: 1
+      name: software_updates
+      label: Software updates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hardware_updates
+      label: Hardware updates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Software
+      - Hardware
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Jim
+      required: false
+    - id: 6
+      name: date_of_submission
+      label: Date of submission
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_submission
+      label: Time of submission
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

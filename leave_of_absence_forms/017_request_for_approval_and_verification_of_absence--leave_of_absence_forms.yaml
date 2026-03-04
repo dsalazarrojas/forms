@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Request For Approval And Verification Of Absence
+    pages:
+    - id: 1
+      name: request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: absencetype
+      label: Absencetype
+      hint: null
+      type: select_one
+      options:
+      - Leave Of Absence
+      - Sick Leave
+      - Vacation Leave
+      - Bereavement Leave
+      - Other
+      required: false
+    - id: 3
+      name: startdate
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: enddate
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: approversonname
+      label: Approver's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: approversonphone
+      label: Approver's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: approversonemail
+      label: Approver's Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: approver_s_note
+      label: Approver's Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: approver_s_signature
+      label: Approver's Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - Submit
+      - Cancel
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: Enter the name of the tool assigned to this form (e.g. chatjimmy)
+      type: text
+      options: []
+      required: true

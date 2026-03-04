@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Asset Declaration Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Staff identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Work department
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: position_title
+      label: Position Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: declaration_date
+      label: Declaration Date
+      hint: Date of declaration
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: declaration_type
+      label: Declaration Type
+      hint: Type of declaration
+      type: select_one
+      options:
+      - Initial Declaration
+      - Annual Update
+      - Change in Status
+      - Termination Declaration
+      required: true
+    - id: 7
+      name: real_estate_owned
+      label: Do You Own Real Estate
+      hint: Property ownership
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: real_estate_details
+      label: Real Estate Details
+      hint: Describe properties
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vehicles_owned
+      label: Number of Vehicles Owned
+      hint: Cars motorcycles etc
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: vehicle_details
+      label: Vehicle Details
+      hint: Make model and year
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: bank_accounts
+      label: Number of Bank Accounts
+      hint: Checking savings etc
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: total_bank_balance
+      label: Total Bank Balance
+      hint: Combined balance
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: investment_accounts
+      label: Do You Have Investment Accounts
+      hint: Stocks bonds mutual funds
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: investment_value
+      label: Total Investment Value
+      hint: Approximate value
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: retirement_accounts
+      label: Retirement Accounts
+      hint: 401k IRA etc
+      type: select_multiple
+      options:
+      - 401k
+      - 403b
+      - IRA
+      - Roth IRA
+      - Pension Plan
+      - None
+      required: true
+    - id: 16
+      name: business_interests
+      label: Do You Have Business Interests
+      hint: Ownership in companies
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: business_details
+      label: Business Interest Details
+      hint: Describe ownership stakes
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: valuable_personal_property
+      label: Valuable Personal Property
+      hint: Jewelry art collectibles
+      type: select_one
+      options:
+      - Yes - Over $10000
+      - Yes - Under $10000
+      - 'No'
+      required: true
+    - id: 19
+      name: intellectual_property
+      label: Do You Own Intellectual Property
+      hint: Patents copyrights trademarks
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: ip_details
+      label: Intellectual Property Details
+      hint: Describe IP assets
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: outstanding_loans
+      label: Do You Have Outstanding Loans
+      hint: Personal loans
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: loan_details
+      label: Loan Details
+      hint: Describe outstanding debts
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: credit_card_debt
+      label: Credit Card Debt Range
+      hint: Approximate range
+      type: select_one
+      options:
+      - None
+      - Under $5000
+      - $5000 to $20000
+      - $20000 to $50000
+      - Over $50000
+      required: true
+    - id: 24
+      name: other_assets
+      label: Other Assets
+      hint: Anything not listed
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: accuracy_statement
+      label: I Certify This Declaration Is Accurate
+      hint: Confirm truthfulness
+      type: select_one
+      options:
+      - Yes I Certify
+      - 'No'
+      required: true
+    - id: 26
+      name: employee_signature
+      label: Employee Signature
+      hint: Type name to sign
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: witness_name
+      label: Witness Name
+      hint: If required
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: witness_signature
+      label: Witness Signature
+      hint: If required
+      type: text
+      options: []
+      required: false

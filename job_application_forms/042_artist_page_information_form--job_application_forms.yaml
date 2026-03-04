@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artist Page Information Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Basic Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Legal Name
+      hint: Your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: artist_name
+      label: Artist or Professional Name
+      hint: Stage name or professional name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_2
+      label: -- Professional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: primary_discipline
+      label: Primary Artistic Discipline
+      hint: Main area of artistic work
+      type: select_one
+      options:
+      - Music Performance
+      - Visual Art
+      - Theater
+      - Dance
+      - Comedy
+      - Spoken Word
+      - Film
+      - Digital Media
+      - Hybrid
+      - Other
+      required: true
+    - id: 8
+      name: professional_biography
+      label: Professional Biography
+      hint: 150-300 word biography for promotion
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: years_professional
+      label: Years of Professional Experience
+      hint: How long active professionally?
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: section_header_3
+      label: -- Online Presence --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: official_website
+      label: Official Website
+      hint: Main website or portfolio
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: social_media
+      label: Social Media Handles
+      hint: Instagram, Facebook, Twitter, etc.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: streaming_profiles
+      label: Streaming or Music Platform Links
+      hint: Spotify, Apple Music, YouTube, etc.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_header_4
+      label: -- Media and Promotion --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: headshot_photo
+      label: Professional Headshot Photo
+      hint: High-resolution promotional photo
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: action_photos
+      label: Action or Performance Photos
+      hint: Photos of you performing
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: press_materials
+      label: Press Kit or Media Materials
+      hint: Links to press materials
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_header_5
+      label: -- Experience and Achievements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: notable_venues
+      label: Notable Venues or Events
+      hint: Where have you performed or exhibited?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: awards_honors
+      label: Awards, Honors, or Recognition
+      hint: Notable achievements or accolades
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: media_mentions
+      label: Media Mentions or Publications
+      hint: Press coverage or featured mentions
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_header_6
+      label: -- Booking and Representation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: booking_agent
+      label: Booking Agent or Manager Contact
+      hint: If you have representation
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: availability_status
+      label: Current Availability for Booking
+      hint: Are you available for new opportunities?
+      type: select_one
+      options:
+      - Actively seeking bookings
+      - Limited availability
+      - Fully booked
+      - Not available
+      - Contact for availability
+      required: true
+    - id: 25
+      name: additional_info
+      label: Additional Information for Artist Page
+      hint: Any other details for promotion?
+      type: text
+      options: []
+      required: false

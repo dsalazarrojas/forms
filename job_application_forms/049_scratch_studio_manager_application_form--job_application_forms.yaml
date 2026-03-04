@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scratch Studio Manager Application Form
+    pages:
+    - id: 1
+      name: studio_name
+      label: studio_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: resume
+      label: resume
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: cover_letter
+      label: cover_letter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_reference
+      label: job_reference
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: availability
+      label: availability
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: skills
+      label: skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: previous_studio_experience
+      label: previous_studio_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: why_scratch
+      label: why_scratch
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: why_studio_manager
+      label: why_studio_manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: why_join
+      label: why_join
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Information Technology Services Server Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: server_type
+      label: Server Type
+      hint: null
+      type: select_one
+      options:
+      - Rack
+      - Tower
+      - Blade
+      - Virtual
+      required: false
+    - id: 6
+      name: server_status
+      label: Server Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Scheduled
+      required: false
+    - id: 7
+      name: server_request
+      label: Server Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 11
+      name: date_opened
+      label: Date Opened
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: time_opened
+      label: Time Opened
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false

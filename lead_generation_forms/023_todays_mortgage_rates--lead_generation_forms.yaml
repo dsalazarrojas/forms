@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: todays-mortgage-rates
+    pages:
+    - id: 1
+      name: lead_form_info
+      label: lead-form-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lead_form_properties
+      label: lead-form-properties
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_address
+      label: property-address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: mortgage_preferences
+      label: mortgage-preferences
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: income
+      label: income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: income_amount
+      label: income-amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: phone-number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

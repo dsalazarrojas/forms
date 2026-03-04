@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Faucet Inspection Checklist
+    pages:
+    - id: 1
+      name: building
+      label: Building
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: faucet_type
+      label: Faucet Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: condition
+      label: Condition
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Kitchen''}'
+      - '{2: ''Bathroom''}'
+      - '{3: ''Restroom''}'
+      required: true
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - Kitchen
+      - Bathroom
+      - Basement
+      required: true
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: photo1
+      label: Photo 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: photo2
+      label: Photo 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: photo3
+      label: Photo 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: photo4
+      label: Photo 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: photo5
+      label: Photo 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: photo6
+      label: Photo 6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: photo7
+      label: Photo 7
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: photo8
+      label: Photo 8
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: photo9
+      label: Photo 9
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: photo10
+      label: Photo 10
+      hint: null
+      type: text
+      options: []
+      required: false

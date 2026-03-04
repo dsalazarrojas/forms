@@ -1,0 +1,254 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consent Of Media Release
+    pages:
+    - id: 1
+      name: release_date
+      label: Release Date
+      hint: Date of media release consent
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: Full name of person in media
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_address
+      label: Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: For age verification
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: is_minor
+      label: Is Participant a Minor
+      hint: Under 18 years of age
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: If participant is a minor
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Contact email for guardian
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Contact phone for guardian
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: media_type
+      label: Type of Media
+      hint: What type of media will be used
+      type: select_multiple
+      options:
+      - Photographs
+      - Video Recording
+      - Audio Recording
+      - Social Media Posts
+      - Website Content
+      - Print Publications
+      - Broadcast Media
+      - Promotional Materials
+      required: true
+    - id: 12
+      name: event_or_project
+      label: Event or Project Name
+      hint: Name of associated event or project
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: event_date
+      label: Event Date
+      hint: When was media captured
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: event_location
+      label: Event Location
+      hint: Where was media captured
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: purpose_of_use
+      label: Purpose of Media Use
+      hint: How will media be used
+      type: select_multiple
+      options:
+      - Marketing and Advertising
+      - Social Media
+      - Website
+      - Annual Report
+      - Press Release
+      - Internal Communications
+      - Educational Materials
+      - Fundraising
+      - News Media
+      required: true
+    - id: 16
+      name: usage_duration
+      label: Duration of Use
+      hint: How long will media be used
+      type: select_one
+      options:
+      - One-time use only
+      - 1 year
+      - 3 years
+      - 5 years
+      - Indefinitely
+      - Until consent withdrawn
+      required: true
+    - id: 17
+      name: geographic_scope
+      label: Geographic Scope
+      hint: Where will media be distributed
+      type: select_one
+      options:
+      - Local only
+      - Regional
+      - National
+      - International
+      - Worldwide
+      required: true
+    - id: 18
+      name: compensation
+      label: Will You Receive Compensation
+      hint: Are you being paid for this release
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: compensation_details
+      label: Compensation Details
+      hint: Describe compensation if applicable
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: approval_required
+      label: Do You Require Approval Before Use
+      hint: Should you review before publication
+      type: select_one
+      options:
+      - Yes - Must approve before use
+      - Yes - Would like to review
+      - No - Approval not required
+      required: true
+    - id: 21
+      name: name_attribution
+      label: How Should You Be Credited
+      hint: Name to use with media
+      type: select_one
+      options:
+      - Full name
+      - First name and last initial
+      - First name only
+      - Anonymous - No credit
+      - Title or role
+      required: true
+    - id: 22
+      name: restrictions
+      label: Any Restrictions on Use
+      hint: Are there any limitations
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: withdrawal_understood
+      label: Right to Withdraw Understood
+      hint: Do you understand you can withdraw consent
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: terms_understood
+      label: Terms and Conditions Understood
+      hint: Do you understand all terms
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: consent_given
+      label: Do You Consent to Media Release
+      hint: Your consent decision
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - I Do Not Consent
+      required: true
+    - id: 26
+      name: participant_signature
+      label: Participant Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: guardian_signature
+      label: Parent or Guardian Signature
+      hint: Required if participant is minor
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: organization_representative
+      label: Organization Representative
+      hint: Name of organization representative
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: representative_signature
+      label: Representative Signature
+      hint: Type name as signature
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: strike_participation_time_off_form
+    pages:
+    - id: 1
+      name: employee
+      label: Employee
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: hours_absent
+      label: Hours Absent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false

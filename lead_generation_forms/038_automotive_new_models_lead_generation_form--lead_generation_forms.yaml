@@ -1,0 +1,254 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automotive New Models Lead Generation Form
+    pages:
+    - id: 1
+      name: section_header_contact
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_interest
+      label: -- Vehicle Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: interested_models
+      label: Interested in Which New Models
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Model A
+      - Model B
+      - Model C
+      - Model D
+      - Model E
+      - All New Models
+      - Unsure
+      required: true
+    - id: 8
+      name: vehicle_type_preference
+      label: Vehicle Type Preference
+      hint: null
+      type: select_one
+      options:
+      - Sedan
+      - SUV
+      - Truck
+      - Crossover
+      - Sports Car
+      - Luxury
+      - Electric
+      - Hybrid
+      required: true
+    - id: 9
+      name: budget_range
+      label: Budget Range
+      hint: null
+      type: select_one
+      options:
+      - Under 25000
+      - 25000-40000
+      - 40000-60000
+      - 60000-100000
+      - Over 100000
+      required: true
+    - id: 10
+      name: section_header_purchase
+      label: -- Purchase Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: purchase_timeline
+      label: When Are You Planning to Purchase
+      hint: null
+      type: select_one
+      options:
+      - Within 1 Month
+      - 1-3 Months
+      - 3-6 Months
+      - 6-12 Months
+      - Over 12 Months
+      - Just Browsing
+      required: true
+    - id: 12
+      name: trade_in_available
+      label: Do You Have a Vehicle to Trade-In
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: true
+    - id: 13
+      name: financing_interest
+      label: Interested in Financing Options
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 14
+      name: section_header_preferences
+      label: -- Vehicle Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: color_preference
+      label: Preferred Color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - White
+      - Silver
+      - Blue
+      - Red
+      - Gray
+      - Other
+      required: false
+    - id: 16
+      name: transmission_preference
+      label: Transmission Preference
+      hint: null
+      type: select_one
+      options:
+      - Automatic
+      - Manual
+      - CVT
+      - Electric
+      - Hybrid
+      - No Preference
+      required: true
+    - id: 17
+      name: desired_features
+      label: Desired Features or Options
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Sunroof
+      - Leather Interior
+      - Advanced Safety Systems
+      - Technology Package
+      - Premium Audio
+      - AWD
+      - Navigation System
+      required: true
+    - id: 18
+      name: section_header_communication
+      label: -- Communication Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: contact_preference
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text Message
+      - No Contact Preferred
+      required: true
+    - id: 20
+      name: best_time_contact
+      label: Best Time to Contact
+      hint: null
+      type: select_one
+      options:
+      - Morning (8 AM - 12 PM)
+      - Afternoon (12 PM - 5 PM)
+      - Evening (5 PM - 8 PM)
+      - Weekend
+      - Anytime
+      required: true
+    - id: 21
+      name: section_header_experience
+      label: -- Customer Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: how_heard
+      label: How Did You Hear About Us
+      hint: null
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Advertisement
+      - Referral
+      - Search Engine
+      - Event
+      - Other
+      required: true
+    - id: 23
+      name: dealership_visit
+      label: Have You Visited Our Dealership
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Would Like to Visit
+      required: true
+    - id: 24
+      name: test_drive_interest
+      label: Interested in Scheduling a Test Drive
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: true
+    - id: 25
+      name: additional_notes
+      label: Additional Notes or Questions
+      hint: null
+      type: text
+      options: []
+      required: false

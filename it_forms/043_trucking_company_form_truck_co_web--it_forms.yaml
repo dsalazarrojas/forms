@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trucking Company Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: Enter your email
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone number
+      hint: Enter your phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: category
+      label: category
+      hint: Pick a category
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: created_at
+      label: created at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: updated_at
+      label: updated at
+      hint: null
+      type: time
+      options: []
+      required: false

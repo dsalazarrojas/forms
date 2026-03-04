@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Support Evaluation Form
+    pages:
+    - id: 1
+      name: data_support_interaction
+      label: Data Support Interaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very High''}'
+      - '{''label'': ''High''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Very Low''}'
+      required: false
+    - id: 3
+      name: improvement_areas
+      label: Improvement Areas
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Communication''}'
+      - '{''label'': ''Timeliness''}'
+      - '{''label'': ''Quality of Help''}'
+      - '{''label'': ''Overall Experience''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: feedback
+      label: Additional Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_interaction
+      label: Date of Interaction
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_interaction
+      label: Time of Interaction
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: support_channel
+      label: Support Channel
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Chat''}'
+      - '{''label'': ''In Person''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 10
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: date
+      options: []
+      required: false

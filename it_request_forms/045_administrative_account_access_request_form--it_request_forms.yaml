@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Administrative Account Access Request Form
+    pages:
+    - id: 1
+      name: requester_details
+      label: Requester details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: Full name of staff needing access
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Requester email
+      hint: For follow up and approvals
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: account_required
+      label: Account required
+      hint: System or application name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: access_level
+      label: Access level requested
+      hint: Read write admin etc
+      type: select_one
+      options: [Read, Write, Admin]
+      required: true
+    - id: 6
+      name: business_justification
+      label: Business justification
+      hint: Why access is required
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: manager_approval
+      label: Manager approval name
+      hint: Name of approving manager
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: requested_by_date
+      label: Requested by date
+      hint: When access is needed
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: account_duration
+      label: Account duration
+      hint: Temporary or permanent access period
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_notes
+      label: Additional notes
+      hint: Any further details for IT
+      type: text
+      options: []
+      required: false

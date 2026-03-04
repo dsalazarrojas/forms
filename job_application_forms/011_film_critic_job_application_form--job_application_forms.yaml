@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Film Critic Job Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_position
+      label: Job Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: resume
+      label: Resume
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: work_experience
+      label: Work Experience
+      hint: Briefly describe your work experience (max 1000 characters)
+      type: select_multiple
+      options:
+      - Senior Editor
+      - Editor
+      - Assistant Editor
+      required: false
+    - id: 9
+      name: availability
+      label: Availability
+      hint: Available to start immediately or not?
+      type: select_one
+      options:
+      - Available to start immediately
+      - Available to start in two weeks
+      - Available to start in one month
+      - Available to start in three months
+      - Available to start in six months
+      required: false
+    - id: 10
+      name: availability_date
+      label: Availability Date
+      hint: If available to start immediately, enter today's date
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: availability_time
+      label: Availability Time
+      hint: If available to start immediately, enter start time
+      type: time
+      options: []
+      required: false

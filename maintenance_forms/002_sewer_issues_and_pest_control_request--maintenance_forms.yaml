@@ -1,0 +1,64 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Sewer Issues And Pest Control Request
+    pages:
+    - id: 1
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Sewer Service
+      - Pest Control
+      - Other
+      - Not Specified
+      required: false
+    - id: 2
+      name: issue_description
+      label: Issue Description
+      hint: Describe the issue in detail
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: photos
+      label: Attach Photos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: priority
+      label: Priority Level
+      hint: null
+      type: select_one
+      options:
+      - Urgent
+      - Non-Urgent
+      required: false
+    - id: 5
+      name: service_date
+      label: Service Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: service_time
+      label: Service Time
+      hint: null
+      type: time
+      options: []
+      required: false

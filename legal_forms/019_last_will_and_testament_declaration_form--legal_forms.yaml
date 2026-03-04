@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Last Will And Testament Declaration Form
+    pages:
+    - id: 1
+      name: assets_owned
+      label: assets_owned
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: wishes_declaration
+      label: wishes_declarations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: beneficiaries_naming
+      label: beneficiaries_naming
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: testamentary_funds
+      label: testamentary_funds
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lighthouse Job Application Form
+    pages:
+    - id: 1
+      name: applicant_info
+      label: Applicant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: What is the job title you are applying for?
+      type: select_one
+      options:
+      - Lighthouse Keeper
+      - Lighthouse Engineer
+      - Lighthouse Manager
+      required: false
+    - id: 4
+      name: experience
+      label: Work Experience
+      hint: Include relevant work experience (previous positions, companies and job
+        duties)
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: education
+      label: Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: availability
+      label: Availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: Select all applicable locations
+      type: select_multiple
+      options:
+      - City
+      - State
+      - Country
+      required: false
+    - id: 8
+      name: skills
+      label: Skills
+      hint: Select relevant technical skills
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: job_status
+      label: Job Status
+      hint: What is your current job status?
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Freelance
+      required: false
+    - id: 14
+      name: salary_range
+      label: Salary Range
+      hint: null
+      type: number
+      options: []
+      required: false

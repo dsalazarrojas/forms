@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: volvo_maintenance_program_registration
+    pages:
+    - id: 1
+      name: vehicle_year
+      label: vehicle_year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: vehicle_make
+      label: vehicle_make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_model
+      label: vehicle_model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: program_type
+      label: program_type
+      hint: null
+      type: select_one
+      options:
+      - Volvo Maintenance
+      - Volvo Priority Service
+      - Volvo Express Service
+      required: false
+    - id: 5
+      name: service_center
+      label: service_center
+      hint: null
+      type: select_one
+      options:
+      - Service Center 1
+      - Service Center 2
+      - Service Center 3
+      required: false
+    - id: 6
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false

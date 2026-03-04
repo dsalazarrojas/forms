@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: request_for_leave_of_absence_form
+    pages:
+    - id: 1
+      name: employer_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: reason_for_leave
+      label: reason_for_leave
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: reason_for_absence
+      label: reason_for_absence
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: employee_returning_date
+      label: employee_returning_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: manager_signature
+      label: manager_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: department_head_signature
+      label: department_head_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: department_head_name
+      label: department_head_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: department_head_email
+      label: department_head_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: employee_email
+      label: employee_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: employee_phone
+      label: employee_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: manager_title
+      label: manager_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: department_title
+      label: department_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: employee_position
+      label: employee_position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: department
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: employee_department
+      label: Employee Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: employee_department_name
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: employee_department_head_name
+      label: department_head_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: department_head_phone
+      label: department_head_phone
+      hint: null
+      type: text
+      options: []
+      required: true

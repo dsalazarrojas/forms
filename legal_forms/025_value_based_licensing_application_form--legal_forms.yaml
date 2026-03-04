@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: value_based_licensing_application_form
+    pages:
+    - id: 1
+      name: application_form
+      label: Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: license_type
+      label: license_type
+      hint: null
+      type: select_one
+      options:
+      - License Type
+      - License Type
+      - License Type
+      required: false
+    - id: 4
+      name: value_based_licensing
+      label: value_based_licensing
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: value_based_licensing_date
+      label: value_based_licensing_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: value_based_licensing_start_date
+      label: value_based_licensing_start_date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: license_status
+      label: license_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Pending
+      - Expired
+      required: false
+    - id: 8
+      name: license_expiration_date
+      label: license_expiration_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false

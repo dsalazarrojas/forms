@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lawn Care/Landscaping New Client Questionnaire
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_selection
+      label: Select Services
+      hint: null
+      type: select_one
+      options:
+      - mowing
+      - fertilizing
+      - watering
+      required: true
+    - id: 3
+      name: schedule
+      label: Schedule
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: note
+      label: Special Requests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true

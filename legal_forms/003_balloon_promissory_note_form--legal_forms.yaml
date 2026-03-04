@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Balloon Promissory Note Form
+    pages:
+    - id: 1
+      name: agreement_header
+      label: -- Loan Agreement Parties --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: lender_name
+      label: Lender Name
+      hint: Individual or entity lending the funds
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: borrower_name
+      label: Borrower Name
+      hint: Individual or entity receiving the funds
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: borrower_address
+      label: Borrower Address
+      hint: Full legal address of the borrower
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: loan_terms_header
+      label: -- Principal and Interest Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: principal_amount
+      label: Principal Loan Amount
+      hint: The total amount borrowed (e.g., 50000)
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: interest_rate
+      label: Annual Interest Rate (%)
+      hint: e.g., 5.5
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: effective_date
+      label: Effective Date of Note
+      hint: The date the loan agreement begins
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: payment_schedule_header
+      label: -- Payment Schedule --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: monthly_payment
+      label: Monthly Payment Amount
+      hint: Regular installment amount
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: first_payment_date
+      label: Date of First Payment
+      hint: Select the starting date for installments
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: balloon_payment_header
+      label: -- Balloon Payment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: balloon_maturity_date
+      label: Maturity Date (Balloon Payment Due)
+      hint: The date the final large payment is due
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: balloon_amount
+      label: Estimated Balloon Payment Amount
+      hint: The projected final payment including any remaining principal
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: prepayment_penalty
+      label: Is there a prepayment penalty?
+      hint: Specify if the borrower is penalized for paying early
+      type: select_one
+      options:
+      - No Penalty
+      - 1% of Principal
+      - 2% of Principal
+      - Fixed Fee
+      required: true
+    - id: 16
+      name: legal_acknowledgment
+      label: Borrower Acknowledgment of Terms
+      hint: By checking this, the borrower agrees to the terms above
+      type: select_multiple
+      options:
+      - I understand this is a balloon note with a large final payment
+      - I agree to the interest and principal repayment schedule
+      - I acknowledge the maturity date
+      required: true
+    - id: 17
+      name: witness_name
+      label: Witness Name (Optional)
+      hint: Name of person witnessing the agreement
+      type: text
+      options: []
+      required: false

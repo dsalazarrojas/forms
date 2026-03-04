@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ark Of Osiris Application Form
+    pages:
+    - id: 1
+      name: section_gamer_info
+      label: -- Gamer Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: gamer_name
+      label: Real Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: gamer_username
+      label: Gaming Username
+      hint: Your in-game name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: gamer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: discord_username
+      label: Discord Username
+      hint: Optional but recommended
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_gaming_experience
+      label: -- Gaming Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: ark_experience_years
+      label: How many years playing Ark of Osiris
+      hint: null
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6 months to 1 year
+      - 1-2 years
+      - 2-3 years
+      - 3+ years
+      required: true
+    - id: 10
+      name: current_level
+      label: Current character level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: playtime_hours
+      label: Approximate hours played per week
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: main_role
+      label: Preferred gaming role
+      hint: null
+      type: select_one
+      options:
+      - Warrior
+      - Mage
+      - Ranger
+      - Healer
+      - Tank
+      - Specialist
+      - Other
+      required: true
+    - id: 13
+      name: section_team_experience
+      label: -- Team Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: previous_guilds
+      label: Previous guilds or team affiliations
+      hint: List any teams you have been part of
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: team_position
+      label: Position or rank you held
+      hint: Member, officer, leader, etc.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: team_experience_years
+      label: Years of team-based gaming
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Less than 1 year
+      - 1-2 years
+      - 2-3 years
+      - 3+ years
+      required: true
+    - id: 17
+      name: pvp_experience
+      label: PvP combat experience
+      hint: null
+      type: select_one
+      options:
+      - Extensive
+      - Moderate
+      - Some
+      - Limited
+      - None
+      required: true
+    - id: 18
+      name: section_commitment
+      label: -- Team Commitment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: weekly_availability
+      label: Expected weekly playtime availability
+      hint: null
+      type: select_one
+      options:
+      - 5+ hours per week
+      - 10-15 hours per week
+      - 15-20 hours per week
+      - 20-30 hours per week
+      - 30+ hours per week
+      required: true
+    - id: 20
+      name: raid_attendance
+      label: Can you commit to scheduled raids and events
+      hint: null
+      type: select_one
+      options:
+      - Yes, always
+      - Usually
+      - Sometimes
+      - Rarely
+      - false
+      required: true
+    - id: 21
+      name: voice_communication
+      label: Are you comfortable with voice communication
+      hint: null
+      type: select_one
+      options:
+      - Yes, with headset and microphone
+      - Yes, listening only
+      - Prefer text only
+      - false
+      required: true
+    - id: 22
+      name: section_skills
+      label: -- Skills and Motivation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: key_skills
+      label: Your key gaming strengths
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: motivation
+      label: Why do you want to join our team
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: additional_info
+      label: Additional information or comments
+      hint: null
+      type: text
+      options: []
+      required: false

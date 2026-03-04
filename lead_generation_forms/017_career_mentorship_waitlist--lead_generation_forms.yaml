@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Career Mentorship Waitlist
+    pages:
+    - id: 1
+      name: mentee_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: mentee_email
+      label: Email Address
+      hint: We'll use this to contact you
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: mentee_phone
+      label: Phone Number
+      hint: Include area code
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: preferred_contact
+      label: Preferred Method of Contact
+      hint: How should we reach you?
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text message
+      - No preference
+      required: false
+    - id: 5
+      name: current_role
+      label: Current Role or Title
+      hint: What is your current job or position?
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: industry
+      label: Current Industry
+      hint: What industry do you work in?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: years_experience
+      label: Years of Professional Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: mentee_or_mentor
+      label: Are You Looking For a Mentor or to Be a Mentor?
+      hint: null
+      type: select_one
+      options:
+      - Seeking a mentor for my career growth
+      - Interested in mentoring others
+      - Both - mentor and mentee
+      required: true
+    - id: 9
+      name: career_goals
+      label: Your Career Goals
+      hint: What do you want to achieve in your career?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: mentorship_focus
+      label: What Areas Do You Want Mentorship in?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Career advancement and promotion
+      - Skill development
+      - Job search and interviewing
+      - Leadership development
+      - Industry knowledge
+      - Work-life balance
+      - Entrepreneurship
+      - Networking and connections
+      - Personal branding
+      - Specific technical skills
+      - Other areas
+      required: true
+    - id: 11
+      name: ideal_mentor_profile
+      label: Ideal Mentor Profile
+      hint: What qualities or experience are you looking for?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: mentoring_experience
+      label: If Mentoring Others - Your Mentoring Experience
+      hint: Have you mentored before? How?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: mentee_skills
+      label: If Mentoring Others - Skills You Can Teach
+      hint: What expertise can you share?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: preferred_mentee_level
+      label: If Mentoring Others - Preferred Mentee Level
+      hint: Who would you like to mentor?
+      type: select_one
+      options:
+      - Students or early-career professionals
+      - Mid-level professionals
+      - Senior professionals seeking new direction
+      - No preference
+      required: false
+    - id: 15
+      name: time_commitment
+      label: How Much Time Can You Commit Monthly?
+      hint: Hours per month for mentorship
+      type: select_one
+      options:
+      - 1-2 hours per month
+      - 3-5 hours per month
+      - 5-10 hours per month
+      - 10+ hours per month
+      - Flexible - as needed
+      required: true
+    - id: 16
+      name: mentorship_format
+      label: Preferred Mentorship Format
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - One-on-one meetings
+      - Phone calls or video calls
+      - Email or messaging
+      - Group mentoring
+      - In-person meetings
+      - Remote/virtual only
+      - Hybrid approach
+      required: true
+    - id: 17
+      name: location
+      label: Your Location
+      hint: City and state or country
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: open_to_virtual
+      label: Open to Virtual Mentorship?
+      hint: null
+      type: select_one
+      options:
+      - Yes - prefer virtual
+      - Yes - open to virtual
+      - Prefer in-person
+      - No preference
+      required: true
+    - id: 19
+      name: specific_challenges
+      label: Specific Challenges You're Facing
+      hint: What problems do you need help solving?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: languages_spoken
+      label: Languages Spoken
+      hint: What languages do you speak?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: linkedin_profile
+      label: LinkedIn Profile URL
+      hint: Optional - helps us match mentors and mentees
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_information
+      label: Additional Information
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: terms_consent
+      label: I agree to the mentorship program terms and conditions
+      hint: Required to join
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 24
+      name: communication_consent
+      label: I consent to receive communications about the mentorship program
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true

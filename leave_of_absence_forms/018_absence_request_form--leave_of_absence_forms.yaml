@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Absence Request Form
+    pages:
+    - id: 1
+      name: section_header_requester_info
+      label: -- Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: employee_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: supervisor_name
+      label: Supervisor name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: request_date
+      label: Date of request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: section_header_absence_request
+      label: -- Absence Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: leave_type
+      label: Type of leave requested
+      hint: null
+      type: select_one
+      options:
+      - Vacation or annual leave
+      - Sick leave
+      - Personal leave
+      - Family or medical leave (FMLA)
+      - Bereavement leave
+      - Jury duty
+      - Military leave
+      - Other
+      required: true
+    - id: 10
+      name: start_date
+      label: Requested start date of absence
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: end_date
+      label: Requested end date of absence
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: total_days_requested
+      label: Total number of days requested
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: partial_day
+      label: Is any day a partial day absence
+      hint: null
+      type: select_one
+      options:
+      - No - full days only
+      - Yes - morning only
+      - Yes - afternoon only
+      - Yes - specific hours
+      required: false
+    - id: 14
+      name: reason_for_absence
+      label: Reason for absence
+      hint: Brief explanation
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: section_header_coverage
+      label: -- Coverage Plan --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: coverage_arranged
+      label: Have you arranged for someone to cover your responsibilities
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Will arrange before leave date
+      required: true
+    - id: 17
+      name: coverage_person
+      label: Name of person covering your duties
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_while_absent
+      label: Can you be contacted during your absence if needed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Only in emergencies
+      required: false
+    - id: 19
+      name: additional_notes
+      label: Additional notes or comments
+      hint: null
+      type: text
+      options: []
+      required: false

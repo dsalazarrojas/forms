@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Play Costumes Pre Order Form
+    pages:
+    - id: 1
+      name: title
+      label: school-play-costumes-pre-order-form-title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: k-12-forms
+      hint: null
+      type: select_one
+      options:
+      - k-12
+      - other
+      required: false
+    - id: 3
+      name: description
+      label: school-play-costumes-pre-order-form-description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: school_play_costumes_pre_order_form_delivery_preference
+      label: delivery-preference
+      hint: null
+      type: select_one
+      options:
+      - before
+      - during
+      - after
+      required: false
+    - id: 5
+      name: school_play_costumes_pre_order_form_delivery_date
+      label: delivery-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: school_play_costumes_pre_order_form_delivery_time
+      label: delivery-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: school_play_costumes_pre_order_form_payment_method
+      label: payment-method
+      hint: null
+      type: select_one
+      options:
+      - online
+      - cash
+      - check
+      required: false
+    - id: 8
+      name: school_play_costumes_pre_order_form_payment_amount
+      label: payment-amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: school_play_costumes_pre_order_form_notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: school_play_costumes_pre_order_form_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: school_play_costumes_pre_order_form_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: school_play_costumes_pre_order_form_submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: electronic_repair_and_ticketing_form_template
+    pages:
+    - id: 1
+      name: repair_shop
+      label: Repair shop
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: order_description
+      label: order_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: order_type
+      label: order_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: order_status
+      label: order_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

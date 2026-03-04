@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Book Order Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: payment_gateway
+      label: Payment Gateway
+      hint: Select a payment gateway
+      type: select_one
+      options:
+      - Square
+      - PayPal
+      - Authorize.net
+      required: false
+    - id: 6
+      name: selected_items
+      label: Selected Items
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: confirm_payment_details
+      label: Confirm Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: submit_button
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: confirm_button
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

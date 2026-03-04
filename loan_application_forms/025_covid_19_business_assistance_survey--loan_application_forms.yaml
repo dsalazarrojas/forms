@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Business Assistance Survey
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: Legal name of your company
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_owner_name
+      label: Business Owner or Manager Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_type
+      label: Type of Business
+      hint: Industry or sector
+      type: select_one
+      options:
+      - Retail
+      - Restaurant/Food Service
+      - Hospitality/Hotel
+      - Healthcare
+      - Professional Services
+      - Manufacturing
+      - Technology
+      - Nonprofit
+      - Other
+      required: true
+    - id: 6
+      name: business_location
+      label: Business Location
+      hint: City or County
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: business_established
+      label: Year Business Was Established
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: number_of_employees
+      label: Number of Employees (Pre-COVID)
+      hint: How many people worked for your business?
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: current_employees
+      label: Current Number of Employees
+      hint: As of today
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: annual_revenue_before
+      label: Annual Revenue Before COVID-19
+      hint: Approximate pre-pandemic revenue
+      type: select_one
+      options:
+      - Less than $50,000
+      - $50,000 - $100,000
+      - $100,000 - $500,000
+      - $500,000 - $1,000,000
+      - $1,000,000 - $5,000,000
+      - Over $5,000,000
+      - Not sure
+      required: false
+    - id: 11
+      name: revenue_impact
+      label: Revenue Impact from COVID-19
+      hint: How much has revenue changed?
+      type: select_one
+      options:
+      - Increased significantly
+      - Increased slightly
+      - No change
+      - Decreased slightly
+      - Decreased significantly
+      - Business closed
+      required: true
+    - id: 12
+      name: revenue_loss_percentage
+      label: Percentage of Revenue Loss
+      hint: If applicable, estimate the loss
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: business_status
+      label: Current Business Status
+      hint: null
+      type: select_one
+      options:
+      - Operating normally
+      - Operating with restrictions
+      - Temporarily closed
+      - Permanently closed
+      - In process of reopening
+      required: true
+    - id: 14
+      name: challenges_faced
+      label: Primary Challenges Faced
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Loss of customers/demand
+      - Supply chain disruptions
+      - Employee health concerns
+      - Difficulty accessing credit
+      - Rent/lease obligations
+      - Utility bills
+      - Inability to operate
+      - Other
+      required: false
+    - id: 15
+      name: assistance_needed
+      label: Types of Assistance Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Financial/Loan assistance
+      - Rent/Mortgage relief
+      - Tax relief
+      - Employee retention support
+      - Supplies or equipment
+      - Marketing support
+      - Legal advice
+      - Other
+      required: false
+    - id: 16
+      name: assistance_requested
+      label: Have You Applied for Assistance Programs?
+      hint: SBA, PPP, Grants, etc.
+      type: select_one
+      options:
+      - Yes - Received
+      - Yes - Pending
+      - Yes - Denied
+      - 'No'
+      - Not aware of programs
+      required: false
+    - id: 17
+      name: amount_received
+      label: Amount of Assistance Received
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: recovery_timeline
+      label: Expected Recovery Timeline
+      hint: When do you expect to return to normal operations?
+      type: select_one
+      options:
+      - Already recovered
+      - Within 3 months
+      - Within 6 months
+      - Within 1 year
+      - Over 1 year
+      - Uncertain
+      required: false
+    - id: 19
+      name: future_concerns
+      label: Concerns About the Future
+      hint: What worries you most about your business?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: assistance_recommendations
+      label: Recommendations for Assistance Programs
+      hint: What would help most right now?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: survey_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: true

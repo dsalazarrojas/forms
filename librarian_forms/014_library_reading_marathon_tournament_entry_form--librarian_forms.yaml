@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Library Reading Marathon Tournament Entry Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_school_grade
+      label: Participant School Grade
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: participant_grade_year
+      label: Participant Grade Year
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: library_permission
+      label: Library Permission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: participant_permission
+      label: Participant Permission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: librarian_permission
+      label: Librarian Permission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: acknowledgement
+      label: Acknowledgement
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: participant_organisation
+      label: Participant Organisation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: participant_organisation_type
+      label: Participant Organisation Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: participant_organisation_email
+      label: Participant Organisation Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: librarian_name
+      label: Librarian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: librarian_phone
+      label: Librarian Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: participant_organisation_phone
+      label: Participant Organisation Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: participant_website
+      label: Participant Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: participant_organisation_website
+      label: Participant Organisation Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: librarian_organisation_website
+      label: Librarian Organisation Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: participant_organisation_address
+      label: Participant Organisation Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: participant_organisation_address_line_2
+      label: Participant Organisation Address Line 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: participant_organisation_city
+      label: Participant Organisation City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: participant_organisation_state
+      label: Participant Organisation State
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: participant_organisation_postal_code
+      label: Participant Organisation Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: participant_organisation_postal_code_2
+      label: Participant Organisation Postal Code 2
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Unpaid Leave Absence Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: reason
+      label: Leave Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: days_absent
+      label: Days Absent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: manager_comment
+      label: Manager Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: employee_notes
+      label: Employee Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: manager_date
+      label: Manager Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: manager_approval_choices
+      label: Manager Approval Choices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: employee_acknowledgement
+      label: Employee Acknowledgement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: employee_acknowledgement_choices
+      label: Employee Acknowledgement Choices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: manager_status
+      label: Manager Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 18
+      name: manager_status_choices
+      label: Manager Status Choices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: employee_status
+      label: Employee Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 20
+      name: employee_status_choices
+      label: Employee Status Choices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: leave_type
+      label: Leave Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: leave_type_choices
+      label: Leave Type Choices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: manager_comment
+      label: Manager Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: employee_comment
+      label: Employee Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

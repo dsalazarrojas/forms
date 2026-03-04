@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Solar Industry Job Application Form
+    pages:
+    - id: 1
+      name: contact_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Primary''}'
+      - '{''name'': ''Secondary''}'
+      - '{''name'': ''Other''}'
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_duration
+      label: Job Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: institution
+      label: Institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: field_of_study
+      label: Field of Study
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: graduate_year
+      label: Graduate Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''High School Diploma''}'
+      - '{''name'': ''Bachelor''}'
+      - '{''name'': ''Master''}'
+      - '{''name'': ''Doctorate''}'
+      required: false
+    - id: 12
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: nationality
+      label: Nationality
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''American''}'
+      - '{''name'': ''British''}'
+      - '{''name'': ''Other''}'
+      required: false
+    - id: 15
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: gender
+      label: Gender
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Male''}'
+      - '{''name'': ''Female''}'
+      - '{''name'': ''Other''}'
+      required: false
+    - id: 17
+      name: currently_employed
+      label: Currently Employed
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': True}'
+      - '{''name'': False}'
+      required: false
+    - id: 18
+      name: employment_type
+      label: Employment Type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Full Time''}'
+      - '{''name'': ''Part Time''}'
+      - '{''name'': ''Freelance''}'
+      required: false
+    - id: 19
+      name: job_satus
+      label: Job Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Looking for employment''}'
+      - '{''name'': ''Not looking for employment''}'
+      required: false
+    - id: 20
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Permanent''}'
+      - '{''name'': ''Temporary''}'
+      required: false
+    - id: 21
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: cover_letter
+      label: Cover Letter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: references
+      label: References
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: portfolio
+      label: Portfolio
+      hint: null
+      type: text
+      options: []
+      required: false

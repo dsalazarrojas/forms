@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legal Document Verification Form
+    pages:
+    - id: 1
+      name: legal_document_verification_form
+      label: Document Verification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: legal_document_verification_form_document_id
+      label: Document Id
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: legal_document_verification_form_document_type
+      label: Document Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: legal_document_verification_form_document_date
+      label: Document Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: legal_document_verification_form_verification_date
+      label: Verification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: legal_document_verification_form_verification_method
+      label: Verification Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: legal_document_verification_form_document_status
+      label: Document Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: legal_document_verification_form_additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: legal_document_verification_form_verification_comments
+      label: Verification Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: legal_document_verification_form_verified_by
+      label: Verified By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: legal_document_verification_form_verified_date
+      label: Verified Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: legal_document_verification_form_verification_method
+      label: Verification Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

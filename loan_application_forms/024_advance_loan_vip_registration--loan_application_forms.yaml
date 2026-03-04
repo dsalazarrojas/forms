@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advance Loan VIP Registration
+    pages:
+    - id: 1
+      name: applicant_details
+      label: -- Applicant Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant full name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: For loan correspondence
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: Mobile preferred
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: requested_amount
+      label: Requested loan amount
+      hint: Enter amount in local currency
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: purpose_of_loan
+      label: Purpose of loan
+      hint: Brief description of intended use
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: annual_income
+      label: Annual income
+      hint: Enter gross yearly income
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: preferred_contact_time
+      label: Preferred contact time
+      hint: Best time to reach applicant
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: consent_credit_check
+      label: Consent to credit check
+      hint: Required to process application
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: Date of application
+      type: date
+      options: []
+      required: true

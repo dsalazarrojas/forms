@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_interview_questionnaire_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: job_title_options
+      label: Job Title Options
+      hint: null
+      type: select_multiple
+      options:
+      - Software Engineer
+      - Senior Software Engineer
+      - Junior Software Engineer
+      required: false
+    - id: 8
+      name: years_of_experience
+      label: Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: availability
+      label: Availability
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: availability_options
+      label: Availability Options
+      hint: null
+      type: select_one
+      options:
+      - '{''Monday'': ''08:00-12:00''}'
+      - '{''Tuesday'': ''13:00-17:00''}'
+      - '{''Wednesday'': ''09:00-13:00''}'
+      - '{''Thursday'': ''09:00-13:00''}'
+      - '{''Friday'': ''08:00-12:00''}'
+      - '{''Saturday'': ''09:00-13:00''}'
+      - '{''Sunday'': ''10:00-14:00''}'
+      required: true
+    - id: 11
+      name: notice_of_interview
+      label: Notice of Interview
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,41 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tournament Registration Process Survey
+    pages:
+    - id: 1
+      name: tournament_registration_process_survey_form
+      label: Tournament Registration Process Survey Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_feedback
+      label: Participant Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: registration_experience
+      label: Registration Experience
+      hint: null
+      type: select_one
+      options:
+      - poor
+      - neutral
+      - good
+      - excellent
+      required: false
+    - id: 4
+      name: issues_encountered
+      label: Issues Encountered
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

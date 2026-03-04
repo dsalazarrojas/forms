@@ -1,0 +1,89 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Case File Requisition Form
+    pages:
+      - id: 1
+        name: requester_name
+        label: Requester name
+        hint: Full name of the person requesting files
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: department
+        label: Department or firm
+        hint: Team or department making the request
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: email
+        label: Contact email
+        hint: For delivery and follow up
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: case_reference_number
+        label: Case reference number
+        hint: Provide the internal case or file ID
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: records_requested
+        label: Records requested
+        hint: Specify documents, date ranges, or file sections
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: purpose_of_request
+        label: Purpose of request
+        hint: Reason for accessing the file
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: delivery_method
+        label: Preferred delivery method
+        hint: Choose secure delivery option
+        type: select_one
+        options:
+          - Secure email
+          - Physical collection
+          - Internal file transfer
+        required: true
+      - id: 8
+        name: date_needed_by
+        label: Date needed by
+        hint: When the documents are required
+        type: date
+        options: []
+        required: false
+      - id: 9
+        name: approver_name
+        label: Approver name
+        hint: Manager or supervising attorney approving release
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: requester_signature
+        label: Requester electronic signature
+        hint: Enter full name to confirm request
+        type: text
+        options: []
+        required: true

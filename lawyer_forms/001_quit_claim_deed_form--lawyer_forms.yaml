@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: quit_claim_deed_form
+    pages:
+    - id: 1
+      name: quit_claim_deed_form_page_1
+      label: grantor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name_of_borrower
+      label: borrower
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address_of_borrower
+      label: borrowers_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: grantor_address
+      label: grantors_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: description_of_property
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: property_id_number
+      label: property_id_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_conveyance
+      label: date_of_conveyance
+      hint: Enter the date the deed was executed
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: amount_of_conveyance
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: consideration
+      label: consideration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: county_where_granted
+      label: county
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: state_where_granted
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: city_where_granted
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: zip_code_of_grantor
+      label: grantors_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: zip_code_of_borrower
+      label: borrowers_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: notarized_by
+      label: notarized_by
+      hint: null
+      type: select_one
+      options:
+      - Notary
+      - Notary Public
+      required: true
+    - id: 16
+      name: notarized_date
+      label: notarized_date
+      hint: Enter the date the deed was notarized
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: recorded_at
+      label: recorded_at
+      hint: Enter the date the deed was recorded
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: recorded_book_and_page
+      label: recorded_book_and_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: county_recording_district
+      label: county_recording_district
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: recorded_state
+      label: recorded_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: recorded_city
+      label: recorded_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: recorded_file_number
+      label: recorded_file_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: recorded_date
+      label: recorded_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: notarized_seal
+      label: notarized_seal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: grantor_signature
+      label: grantors_signature
+      hint: Enter the signature of the grantor
+      type: text
+      options: []
+      required: true

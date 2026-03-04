@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: hotel_sales_lead_form
+    pages:
+    - id: 1
+      name: lead_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_type
+      label: Contact Type
+      hint: null
+      type: select_multiple
+      options:
+      - -ประก -Phone -Email -Other
+      - Other
+      required: false
+    - id: 3
+      name: lead_name
+      label: Lead Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: lead_email
+      label: Lead Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: lead_phone
+      label: Lead Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: lead_company
+      label: Lead Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: lead_job_title
+      label: Lead Job Title
+      hint: null
+      type: text
+      options: []
+      required: false

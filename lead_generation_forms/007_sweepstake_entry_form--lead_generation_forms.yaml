@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sweepstake Entry Form
+    pages:
+    - id: 1
+      name: name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: street
+      label: street
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: country
+      label: country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: entry_reason
+      label: why_did_you_enter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: entry_date
+      label: entry_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: agree
+      label: agree_to_terms
+      hint: null
+      type: select_one
+      options:
+      - I agree to the terms and conditions.
+      - Not now
+      - Maybe later
+      required: true
+    - id: 14
+      name: entry_date_optional
+      label: entry_date_optional
+      hint: null
+      type: date
+      options: []
+      required: false

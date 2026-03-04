@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Small Estate Declaration Form
+    pages:
+    - id: 1
+      name: small_estate_declaration_form
+      label: Small Estate Declaration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category_legal_forms
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Legal Forms
+      - Other
+      required: false
+    - id: 3
+      name: description_legal_forms
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: estate_details
+      label: Estate Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: note
+      options: []
+      required: false

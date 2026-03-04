@@ -1,0 +1,100 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Host Event Legal Release Authorization
+    pages:
+    - id: 1
+      name: title
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_details
+      label: Event Details
+      hint: Event date, time, location, etc.
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_details
+      label: Participant Details
+      hint: Participant name, contact info, etc.
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: release_authorization
+      label: Release Authorization
+      hint: null
+      type: select_one
+      options:
+      - Participant understands the risks of photography
+      - Participant understands that they may be photographed
+      - Event host is responsible for participant safety
+      - Event host has right to use participant information in marketing materials
+      required: true
+    - id: 5
+      name: model_release
+      label: Model Release
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: false
+    - id: 6
+      name: event_host_details
+      label: Event Host Details
+      hint: Event host name, contact info, etc.
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_host_agreement
+      label: Event Host Agreement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_host_agreement_2
+      label: Event Host Agreement 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: participant_agreement
+      label: Participant Agreement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: participant_agreement_2
+      label: Participant Agreement 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: event_terms
+      label: Event Terms
+      hint: null
+      type: note
+      options: []
+      required: false

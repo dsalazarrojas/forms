@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Network Coverage Inquiry Form
+    pages:
+    - id: 1
+      name: network_coverage_inquiry_form_page
+      label: network_coverage_inquiry_form_page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: general_info
+      label: general_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_provider
+      label: service_provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: network_type
+      label: network_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: network_status
+      label: network_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: follow_up_info
+      label: follow_up_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: recurring_issues
+      label: recurring_issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: service_provider_email
+      label: service_provider_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: service_provider_phone
+      label: service_provider_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: it_teams_email
+      label: it_teams_email
+      hint: null
+      type: email
+      options: []
+      required: false

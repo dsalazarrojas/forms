@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fieldwork Leave Form
+    pages:
+    - id: 1
+      name: user_id
+      label: User Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: date_of_leave
+      label: Date Of Leave
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: fieldwork_location
+      label: Fieldwork Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: duration
+      label: Duration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: leave_reason
+      label: Leave Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: fieldwork_supervisor
+      label: Fieldwork Supervisor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: fieldwork_details
+      label: Fieldwork Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: leave_status
+      label: Leave Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Denied
+      required: true
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,83 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: developer_job_application_form
+    pages:
+    - id: 1
+      name: resume_input
+      label: Resume Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 3, ''name'': ''email'', ''label'': ''Email'', ''hint'': None, ''type'':
+        ''email'', ''options'': [], ''required'': True}'
+      - '{''id'': 4, ''name'': ''phone'', ''label'': ''Phone'', ''hint'': None, ''type'':
+        ''phone'', ''options'': [], ''required'': True}'
+      - '{''id'': 5, ''name'': ''address'', ''label'': ''Address'', ''hint'': None,
+        ''type'': ''text'', ''options'': [], ''required'': False}'
+      required: false
+    - id: 3
+      name: skills
+      label: Skills
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 6, ''name'': ''programming_languages'', ''label'': ''Programming
+        Languages'', ''hint'': None, ''type'': ''select_one'', ''options'': [], ''required'':
+        True}'
+      - '{''id'': 7, ''name'': ''frameworks'', ''label'': ''Frameworks'', ''hint'':
+        None, ''type'': ''select_one'', ''options'': [], ''required'': False}'
+      required: false
+    - id: 4
+      name: projects
+      label: Projects
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: education
+      label: Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: experience
+      label: Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: resume_attachment
+      label: Resume Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: skills_description
+      label: Skills Description
+      hint: null
+      type: text
+      options: []
+      required: false

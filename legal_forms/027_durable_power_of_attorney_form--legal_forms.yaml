@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Durable Power Of Attorney Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: atty_name
+      label: Attorney Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: atty_address
+      label: Attorney Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: atty_city
+      label: Attorney City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: atty_state
+      label: Attorney State
+      hint: null
+      type: select_one
+      options:
+      - CA
+      - FL
+      - GA
+      - TX
+      required: true
+    - id: 6
+      name: atty_zip
+      label: Attorney Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: atty_phone
+      label: Attorney Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: grantor_name
+      label: Grantor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: grantor_age
+      label: Grantor Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: grantor_residence
+      label: Grantor Residence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: grantor_zip
+      label: Grantor Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: grantor_phone
+      label: Grantor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: atty_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Spouse
+      - Partner
+      - Parent
+      - Child
+      - Friend
+      - Other
+      required: true
+    - id: 14
+      name: grantor_signature
+      label: Grantor Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: atty_signature
+      label: Attorney Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: grantor_note
+      label: Grantor Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: atty_note
+      label: Attorney Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: witness1_name
+      label: Witness 1 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: witness1_signature
+      label: Witness 1 Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: witness2_name
+      label: Witness 2 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: witness2_signature
+      label: Witness 2 Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: witness1_relationship
+      label: Witness 1 Relationship
+      hint: null
+      type: select_one
+      options:
+      - Spouse
+      - Partner
+      - Parent
+      - Child
+      - Friend
+      - Other
+      required: true
+    - id: 23
+      name: witness2_relationship
+      label: Witness 2 Relationship
+      hint: null
+      type: select_one
+      options:
+      - Spouse
+      - Partner
+      - Parent
+      - Child
+      - Friend
+      - Other
+      required: true
+    - id: 24
+      name: witness1_note
+      label: Witness 1 Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: witness2_note
+      label: Witness 2 Note
+      hint: null
+      type: note
+      options: []
+      required: false

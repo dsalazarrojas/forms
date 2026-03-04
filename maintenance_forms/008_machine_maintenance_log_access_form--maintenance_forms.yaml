@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Machine Maintenance Log Access Form
+    pages:
+    - id: 1
+      name: machine_maintenance_log_access_form_page_1
+      label: machine_maintenance_log_access_form_page_1_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: machine_number
+      label: machine_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: maintenance_activity
+      label: maintenance_activity
+      hint: null
+      type: select_one
+      options:
+      - Maintenance
+      - Repair
+      - Inspection
+      required: false
+    - id: 5
+      name: date_completed
+      label: date_completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_completed
+      label: time_completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false

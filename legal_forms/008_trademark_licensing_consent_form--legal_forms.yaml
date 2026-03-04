@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trademark Licensing Consent Form
+    pages:
+    - id: 1
+      name: trademark_licensing_consent_form_legal_forms
+      label: legal_forms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_license_number
+      label: business_license_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: trademark_owner_agreement
+      label: trademark_owner_agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: trademark_agreement_terms
+      label: trademark_agreement_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: signature_date
+      label: signature_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: business_license_number_hint
+      label: business_license_number_hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: trademark_ownership_status
+      label: trademark_ownership_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: trademark_agreement_duration
+      label: trademark_agreement_duration
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: trademark_agreement_termination
+      label: trademark_agreement_termination
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: business_license_number_hint
+      label: business_license_number_hint
+      hint: null
+      type: text
+      options: []
+      required: false

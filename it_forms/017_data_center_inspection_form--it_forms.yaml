@@ -1,0 +1,229 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: data_center_inspection_form
+    pages:
+    - id: 1
+      name: user_data
+      label: user_data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: data_center_status
+      label: is_data_center_running
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''running'', ''label'': ''running''}'
+      - '{''id'': 2, ''name'': ''not_running'', ''label'': ''not_running''}'
+      required: false
+    - id: 3
+      name: safety_equipment_checked
+      label: safety_equipment_checked
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''fire_safety_system'', ''label'': ''fire_safety_system''}'
+      - '{''id'': 2, ''name'': ''emergency_exit_signs'', ''label'': ''emergency_exit_signs''}'
+      - '{''id'': 3, ''name'': ''fire_extinguishers'', ''label'': ''fire_extinguishers''}'
+      required: false
+    - id: 4
+      name: safety_equipment_notes
+      label: safety_equipment_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: electrical_equipment_checked
+      label: electrical_equipment_checked
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''circuit_breakers'', ''label'': ''circuit_breakers''}'
+      - '{''id'': 2, ''name'': ''electrical_panel_boxes'', ''label'': ''electrical_panel_boxes''}'
+      - '{''id'': 3, ''name'': ''power_distribution_units'', ''label'': ''power_distribution_units''}'
+      required: false
+    - id: 6
+      name: electrical_equipment_notes
+      label: electrical_equipment_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: cooling_system_checked
+      label: cooling_system_checked
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''cooling_towers'', ''label'': ''cooling_towers''}'
+      - '{''id'': 2, ''name'': ''chillers'', ''label'': ''chillers''}'
+      - '{''id'': 3, ''name'': ''cooling_systems'', ''label'': ''cooling_systems''}'
+      required: false
+    - id: 8
+      name: cooling_system_notes
+      label: cooling_system_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: structural_equipment_checked
+      label: structural_equipment_checked
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''structural_support'', ''label'': ''structural_support''}'
+      - '{''id'': 2, ''name'': ''structural_foundation'', ''label'': ''structural_foundation''}'
+      - '{''id'': 3, ''name'': ''structural_walls'', ''label'': ''structural_walls''}'
+      required: false
+    - id: 10
+      name: structural_equipment_notes
+      label: structural_equipment_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: environmental_equipment_checked
+      label: environmental_equipment_checked
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''air_quality_monitors'', ''label'': ''air_quality_monitors''}'
+      - '{''id'': 2, ''name'': ''temperature_monitors'', ''label'': ''temperature_monitors''}'
+      - '{''id'': 3, ''name'': ''humidity_monitors'', ''label'': ''humidity_monitors''}'
+      required: false
+    - id: 12
+      name: environmental_equipment_notes
+      label: environmental_equipment_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: security_equipment_checked
+      label: security_equipment_checked
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''cameras'', ''label'': ''cameras''}'
+      - '{''id'': 2, ''name'': ''alarms'', ''label'': ''alarms''}'
+      - '{''id'': 3, ''name'': ''emergency_exit_signs'', ''label'': ''emergency_exit_signs''}'
+      required: false
+    - id: 14
+      name: security_equipment_notes
+      label: security_equipment_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: general_equipment_checked
+      label: general_equipment_checked
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''floor_plates'', ''label'': ''floor_plates''}'
+      - '{''id'': 2, ''name'': ''racking_system'', ''label'': ''racking_system''}'
+      - '{''id'': 3, ''name'': ''data_center_equipment'', ''label'': ''data_center_equipment''}'
+      required: false
+    - id: 16
+      name: general_equipment_notes
+      label: general_equipment_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: fire_safety_equipment_checked
+      label: fire_safety_equipment_checked
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''fire_sprinkler_system'', ''label'': ''fire_sprinkler_system''}'
+      - '{''id'': 2, ''name'': ''fire_safety_equipment'', ''label'': ''fire_safety_equipment''}'
+      - '{''id'': 3, ''name'': ''smoke_detector'', ''label'': ''smoke_detector''}'
+      required: false
+    - id: 18
+      name: fire_safety_equipment_notes
+      label: fire_safety_equipment_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: electrical_equipment_notes
+      label: electrical_equipment_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: electrical_equipment_status
+      label: electrical_equipment_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''online'', ''label'': ''online''}'
+      - '{''id'': 2, ''name'': ''offline'', ''label'': ''offline''}'
+      required: false
+    - id: 21
+      name: environmental_equipment_status
+      label: environmental_equipment_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''online'', ''label'': ''online''}'
+      - '{''id'': 2, ''name'': ''offline'', ''label'': ''offline''}'
+      required: false
+    - id: 22
+      name: security_equipment_status
+      label: security_equipment_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''online'', ''label'': ''online''}'
+      - '{''id'': 2, ''name'': ''offline'', ''label'': ''offline''}'
+      required: false
+    - id: 23
+      name: general_equipment_status
+      label: general_equipment_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''online'', ''label'': ''online''}'
+      - '{''id'': 2, ''name'': ''offline'', ''label'': ''offline''}'
+      required: false
+    - id: 24
+      name: cooling_system_status
+      label: cooling_system_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''online'', ''label'': ''online''}'
+      - '{''id'': 2, ''name'': ''offline'', ''label'': ''offline''}'
+      required: false
+    - id: 25
+      name: structural_equipment_status
+      label: structural_equipment_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''online'', ''label'': ''online''}'
+      - '{''id'': 2, ''name'': ''offline'', ''label'': ''offline''}'
+      required: false

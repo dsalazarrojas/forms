@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hardware Maintenance Feedback Form
+    pages:
+    - id: 1
+      name: form_title
+      label: hardware-maintenance-feedback-form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_type
+      label: service-type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: equipment_id
+      label: equipment-id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false

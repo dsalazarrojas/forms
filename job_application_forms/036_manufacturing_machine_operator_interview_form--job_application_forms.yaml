@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manufacturing Machine Operator Interview Form
+    pages:
+    - id: 1
+      name: candidate_name
+      label: Candidate Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Employed''}'
+      - '{''label'': ''Unemployed''}'
+      - '{''label'': ''Retired''}'
+      - '{''label'': ''Disabled''}'
+      required: false
+    - id: 6
+      name: years_of_service
+      label: Years of Service
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: availability
+      label: Availability
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Monday''}'
+      - '{''label'': ''Tuesday''}'
+      - '{''label'': ''Wednesday''}'
+      - '{''label'': ''Thursday''}'
+      - '{''label'': ''Friday''}'
+      - '{''label'': ''Saturday''}'
+      - '{''label'': ''Sunday''}'
+      required: false
+    - id: 8
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''High School''}'
+      - '{''label'': "Bachelor''s Degree"}'
+      - '{''label'': "Master''s Degree"}'
+      - '{''label'': ''Doctoral Degree''}'
+      required: false
+    - id: 9
+      name: relevant_courses
+      label: Relevant Courses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employment_history
+      label: Employment History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: relevant_work_experience
+      label: Relevant Work Experience
+      hint: null
+      type: text
+      options: []
+      required: false

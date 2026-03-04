@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Device Contact Information Update Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: device_identifiers
+      label: Device Identifiers
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: Person to contact
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Joe
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: select_multiple
+      options:
+      - Street
+      - City
+      - State
+      - Zip
+      required: false
+    - id: 7
+      name: device_type
+      label: Device Type
+      hint: Type of device
+      type: select_one
+      options:
+      - laptop
+      - desktop
+      - phone
+      - printer
+      required: true
+    - id: 8
+      name: serial_number
+      label: Serial Number
+      hint: Serial number of the device
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: mac_address
+      label: MAC Address
+      hint: MAC address of the device
+      type: select_one
+      options:
+      - 00:11:22:33:44:55
+      - 66:77:88:99:00:01
+      required: true
+    - id: 10
+      name: device_status
+      label: Device Status
+      hint: Status of the device
+      type: select_one
+      options:
+      - available
+      - unavailable
+      - maintenance
+      required: true
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: assigned_tool_type
+      label: Tool Type
+      hint: Type of assigned tool
+      type: select_one
+      options:
+      - laptop
+      - desktop
+      - phone
+      - tablet
+      required: true
+    - id: 14
+      name: notes_2
+      label: Notes 2
+      hint: null
+      type: note
+      options: []
+      required: false

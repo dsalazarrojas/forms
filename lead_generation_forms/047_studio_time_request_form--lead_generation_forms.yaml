@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Studio Time Request Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: studio_id
+      label: Studio Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: studio_name
+      label: Studio Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: studio_address
+      label: Studio Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: studio_phone
+      label: Studio Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: studio_email
+      label: Studio Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: booking_time
+      label: Booking Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: start_date_time
+      label: Start Date/Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: end_date_time
+      label: End Date Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: user_notes
+      label: User Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: cancel
+      label: Cancel
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

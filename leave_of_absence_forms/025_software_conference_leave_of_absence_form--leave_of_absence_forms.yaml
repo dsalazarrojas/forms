@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: software_conference_leave_of_absence_form
+    pages:
+    - id: 1
+      name: conference_name
+      label: Conference Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: conference_dates
+      label: Conference Dates
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: conference_duration
+      label: Conference Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Denied
+      required: true

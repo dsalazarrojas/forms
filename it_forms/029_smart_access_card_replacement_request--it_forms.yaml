@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Access Card Replacement Request
+    pages:
+    - id: 1
+      name: card_request
+      label: Card Request
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_request
+      label: Reason For Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: confirmation
+      label: Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: staff_student_visitor
+      label: Staff, Student or Visitor
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Staff
+      - Visitor
+      required: false
+    - id: 6
+      name: department_location
+      label: Department or Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reason_for_rejection
+      label: Reason For Rejection
+      hint: null
+      type: select_one
+      options:
+      - Replaced
+      - Not Available
+      - Other
+      required: false
+    - id: 10
+      name: date_of_request
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_of_request
+      label: Time of Request
+      hint: null
+      type: time
+      options: []
+      required: false

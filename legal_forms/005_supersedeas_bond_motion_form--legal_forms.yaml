@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supersedeas Bond Motion Form
+    pages:
+    - id: 1
+      name: motion_request
+      label: Motion Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_info
+      label: Client Information
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: case_number
+      label: Case Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: case_type
+      label: Case Type
+      hint: null
+      type: select_one
+      options:
+      - Arbitration
+      - Bankruptcy
+      - Civil
+      - Criminal
+      - Family
+      - General
+      - Mortgage
+      - Probate
+      required: false
+    - id: 5
+      name: bond_amount
+      label: Bond Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: motion_filing_date
+      label: Motion Filing Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: motion_filing_time
+      label: Motion Filing Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: motion_hearing_date
+      label: Motion Hearing Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: motion_hearing_time
+      label: Motion Hearing Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: motion_hearing_location
+      label: Motion Hearing Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: motion_hearing_status
+      label: Motion Hearing Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Dismissed
+      - Hearing Scheduled
+      - Hearing Rescheduled
+      required: false
+    - id: 12
+      name: opposing_party_name
+      label: Opposing Party Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: opposing_party_phone
+      label: Opposing Party Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: opposing_party_email
+      label: Opposing Party Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: motion_filing_fee
+      label: Motion Filing Fee
+      hint: null
+      type: select_one
+      options:
+      - No Fee
+      - Fixed Fee
+      - Hourly
+      - Percentage of Bond
+      required: false
+    - id: 16
+      name: attorney_fee
+      label: Attorney Fee
+      hint: null
+      type: select_one
+      options:
+      - Hourly
+      - Retainer
+      - Percentage of Bond
+      - Flat Fee
+      required: false
+    - id: 17
+      name: motion_type
+      label: Motion Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: motion_cause
+      label: Motion Cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: bond_filing_date
+      label: Bond Filing Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: bond_filing_time
+      label: Bond Filing Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: bond_hearing_date
+      label: Bond Hearing Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: bond_hearing_time
+      label: Bond Hearing Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: bond_hearing_location
+      label: Bond Hearing Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: bond_hearing_status
+      label: Bond Hearing Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Dismissed
+      - Hearing Scheduled
+      - Hearing Rescheduled
+      required: false
+    - id: 25
+      name: review_status
+      label: Review Status
+      hint: null
+      type: text
+      options: []
+      required: false

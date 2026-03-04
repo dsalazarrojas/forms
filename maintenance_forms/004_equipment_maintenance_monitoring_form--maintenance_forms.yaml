@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Equipment Maintenance Monitoring Form
+    pages:
+    - id: 1
+      name: maintenance_schedule
+      label: Maintenance Schedule
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: equipment_performance
+      label: Equipment Performance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: maintenance_downtime
+      label: Maintenance Downtime
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: maintenance_frequency
+      label: Maintenance Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: maintenance_costs
+      label: Maintenance Costs
+      hint: null
+      type: number
+      options: []
+      required: false

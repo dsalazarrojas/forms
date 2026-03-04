@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Seasonal Landscaping Services Lead Generation Form
+    pages:
+    - id: 1
+      name: lead_generation_form
+      label: Lead Generation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''First Name'', ''label'': ''First Name''}'
+      - '{''name'': ''Last Name'', ''label'': ''Last Name''}'
+      - '{''name'': ''Email'', ''label'': ''Email''}'
+      - '{''name'': ''Phone'', ''label'': ''Phone''}'
+      required: false
+    - id: 3
+      name: service_needed
+      label: Service Needed
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Lawn Maintenance'', ''label'': ''Lawn Maintenance''}'
+      - '{''name'': ''Yard Work'', ''label'': ''Yard Work''}'
+      - '{''name'': ''Tree Trimming'', ''label'': ''Tree Trimming''}'
+      - '{''name'': ''Garden Design'', ''label'': ''Garden Design''}'
+      required: false
+    - id: 4
+      name: service_dates
+      label: Service Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Residential'', ''label'': ''Residential''}'
+      - '{''name'': ''Commercial'', ''label'': ''Commercial''}'
+      - '{''name'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Submit'', ''label'': ''Submit''}'
+      - Other
+      required: false

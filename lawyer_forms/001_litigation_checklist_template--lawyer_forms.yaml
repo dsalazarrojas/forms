@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: litigation_checklist_template
+    pages:
+    - id: 1
+      name: litigation_case_details
+      label: Litigation Case Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: case_status
+      label: Case Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 3
+      name: plaintiff_party
+      label: Plaintiff Party
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: defendant_party
+      label: Defendant Party
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: case_description
+      label: Case Description
+      hint: Briefly describe the case
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: case_number
+      label: Case Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: case_type
+      label: Case Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: court
+      label: Court
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: jurisdiction
+      label: Jurisdiction
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: case_date
+      label: Case Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: case_time
+      label: Case Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: case_notes
+      label: Case Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false

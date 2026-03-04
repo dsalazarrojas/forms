@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Borehole Drilling Service Agreement
+    pages:
+    - id: 1
+      name: client_info_header
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name_entity
+      label: Client Full Name or Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: service_addr
+      label: Service Address / Site Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_email_addr
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: client_phone_no
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: project_scope_header
+      label: -- Project Scope --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: service_required
+      label: Type of Service Required
+      hint: null
+      type: select_one
+      options:
+      - New Borehole Drilling
+      - Borehole Rehabilitation
+      - Pump Installation
+      - Water Quality Testing
+      required: true
+    - id: 8
+      name: estimated_depth_m
+      label: Estimated Drilling Depth - meters
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: start_dt
+      label: Proposed Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: commercial_header
+      label: -- Commercial Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: quoted_amt
+      label: Total Quoted Amount
+      hint: Currency amount
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: payment_terms_select
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - 50% Deposit / 50% Completion
+      - 100% Prepayment
+      - Milestone Based
+      required: true
+    - id: 13
+      name: policy_ack
+      label: Cancellation Policy Acknowledgment
+      hint: Type I AGREE to confirm
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: auth_header
+      label: -- Authorization --
+      hint: By signing, the client authorizes the works to proceed.
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: digital_sign
+      label: Client Digital Signature - Type Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: agree_dt
+      label: Date of Agreement
+      hint: null
+      type: date
+      options: []
+      required: true

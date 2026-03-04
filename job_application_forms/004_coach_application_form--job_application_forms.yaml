@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coach Application Form
+    pages:
+    - id: 1
+      name: section_personal
+      label: -- Applicant Personal Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Legal first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Best number to reach you
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Primary email contact
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: home_address
+      label: Home Address
+      hint: Full street address, city, and zip code
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_experience
+      label: -- Experience and Qualifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: sport_discipline
+      label: Sport or Discipline
+      hint: Which sport are you applying to coach?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: years_experience
+      label: Years of Coaching Experience
+      hint: Total years as a head or assistant coach
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: certifications
+      label: Relevant Certifications
+      hint: List any coaching licenses or safety certifications
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: coaching_philosophy
+      label: Coaching Philosophy
+      hint: Briefly describe your approach to coaching athletes
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: references
+      label: Professional References
+      hint: Provide name and contact info for two references
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: background_consent
+      label: Background Check Consent
+      hint: Do you consent to a background check?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: available_start_date
+      label: Available Start Date
+      hint: null
+      type: date
+      options: []
+      required: true

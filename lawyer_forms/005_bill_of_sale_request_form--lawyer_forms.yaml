@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bill Of Sale Request Form
+    pages:
+    - id: 1
+      name: seller_information
+      label: Seller Information
+      hint: Enter the seller's details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: seller_first_name
+      label: Seller First Name
+      hint: Legal first name of seller
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: seller_last_name
+      label: Seller Last Name
+      hint: Legal last name of seller
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: seller_email
+      label: Seller Email
+      hint: Contact email for the seller
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: seller_phone
+      label: Seller Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: seller_address
+      label: Seller Address
+      hint: Complete street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: buyer_information
+      label: Buyer Information
+      hint: Enter the buyer's details
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: buyer_first_name
+      label: Buyer First Name
+      hint: Legal first name of buyer
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: buyer_last_name
+      label: Buyer Last Name
+      hint: Legal last name of buyer
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: buyer_email
+      label: Buyer Email
+      hint: Contact email for the buyer
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: buyer_phone
+      label: Buyer Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: buyer_address
+      label: Buyer Address
+      hint: Complete street address
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: item_details
+      label: Item Details
+      hint: Describe the item being sold
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: item_type
+      label: Item Type
+      hint: Category of item being sold
+      type: select_one
+      options:
+      - Vehicle
+      - Boat
+      - Motorcycle
+      - Electronics
+      - Furniture
+      - Jewelry
+      - Equipment
+      - Other Personal Property
+      required: true
+    - id: 15
+      name: item_description
+      label: Item Description
+      hint: Detailed description including make, model, year
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: item_serial_number
+      label: Serial Number or VIN
+      hint: Identification number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: item_condition
+      label: Item Condition
+      hint: Current condition of the item
+      type: select_one
+      options:
+      - New
+      - Like New
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 18
+      name: sale_details
+      label: Sale Details
+      hint: Enter transaction information
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: sale_price
+      label: Sale Price
+      hint: Total amount of the sale
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: sale_date
+      label: Sale Date
+      hint: Date of the transaction
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: payment_method
+      label: Payment Method
+      hint: How was payment made
+      type: select_one
+      options:
+      - Cash
+      - Personal Check
+      - Certified Check
+      - Bank Transfer
+      - Credit Card
+      - Debit Card
+      - Financing
+      required: true
+    - id: 22
+      name: warranties_included
+      label: Warranties Included
+      hint: Are any warranties provided
+      type: select_one
+      options:
+      - No Warranty - Sold As-Is
+      - Limited Warranty
+      - Full Warranty
+      - Manufacturer Warranty Remaining
+      required: true
+    - id: 23
+      name: warranty_details
+      label: Warranty Details
+      hint: Describe warranty terms if applicable
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: liens_or_encumbrances
+      label: Liens or Encumbrances
+      hint: Are there any outstanding liens on the item
+      type: select_one
+      options:
+      - No Liens - Clear Title
+      - Lien to be Paid at Sale
+      - Lien Exists - Will Transfer
+      required: true
+    - id: 25
+      name: additional_terms
+      label: Additional Terms
+      hint: Any special conditions or agreements
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: notary_required
+      label: Notary Required
+      hint: Does this document require notarization
+      type: select_one
+      options:
+      - Yes - Notarization Required
+      - No - Notarization Not Required
+      required: true
+    - id: 27
+      name: seller_signature
+      label: Seller Agreement
+      hint: Seller confirms accuracy of information
+      type: select_one
+      options:
+      - I certify this information is true and accurate
+      - I agree to the terms of this sale
+      required: true
+    - id: 28
+      name: buyer_signature
+      label: Buyer Agreement
+      hint: Buyer accepts the item as described
+      type: select_one
+      options:
+      - I accept the item as described
+      - I agree to the terms of purchase
+      required: true

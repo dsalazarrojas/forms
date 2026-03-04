@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Entertainment Film Festival Lead Generation
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: lead_segment
+      label: Lead Segments
+      hint: null
+      type: select_multiple
+      options:
+      - Segment 1
+      - Segment 2
+      - Segment 3
+      required: true
+    - id: 5
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: fb_link
+      label: Facebook
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: tw_link
+      label: Twitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: ig_link
+      label: Instagram
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_location
+      label: Event Location
+      hint: null
+      type: select_one
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      required: true
+    - id: 13
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Method 1
+      - Method 2
+      - Method 3
+      required: true

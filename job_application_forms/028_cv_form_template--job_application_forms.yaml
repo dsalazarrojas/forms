@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: CV Form Template
+    pages:
+    - id: 1
+      name: header_basic_info
+      label: -- Basic Professional Info --
+      hint: Standardized Professional Profile
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Professional Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Telephone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: header_experience
+      label: -- Recent Work Experience --
+      hint: Most recent position first
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: company_1_name
+      label: Most Recent Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: job_1_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: job_1_dates
+      label: Dates of Employment
+      hint: e.g. Jan 2022 to Present
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: job_1_responsibilities
+      label: Key Responsibilities and Achievements
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: header_education
+      label: -- Educational Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: degree_title
+      label: Degree or Qualification
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: institution_name
+      label: University or School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: graduation_year
+      label: Year of Graduation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: header_skills
+      label: -- Core Competencies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: technical_skills
+      label: Technical Skills
+      hint: e.g. programming, machinery, accounting software
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: soft_skills
+      label: Soft Skills
+      hint: e.g. communication, leadership, problem solving
+      type: select_multiple
+      options:
+      - Communication
+      - Leadership
+      - Teamwork
+      - Critical Thinking
+      - Time Management
+      - Adaptability
+      required: true
+    - id: 17
+      name: references_available
+      label: Are references available upon request
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: additional_info
+      label: Additional Information
+      hint: awards, publications, or hobbies
+      type: text
+      options: []
+      required: false

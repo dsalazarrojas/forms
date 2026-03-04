@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: IT New Staff Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: Enter first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: Enter last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_title
+      label: Job title
+      hint: Enter job title
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: Enter phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of birth
+      hint: Enter date of birth
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Address
+      hint: Enter address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: Enter city
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: Select state
+      type: select_one
+      options:
+      - AL
+      - AK
+      - AR
+      - AZ
+      - CA
+      - CO
+      - CT
+      - DE
+      - FL
+      - GA
+      - HI
+      - IA
+      - ID
+      - IL
+      - IN
+      - KS
+      - KY
+      - LA
+      - MA
+      - MD
+      - ME
+      - MI
+      - MN
+      - MO
+      - MS
+      - MT
+      - NC
+      - NE
+      - NH
+      - NJ
+      - NM
+      - NV
+      - NY
+      - OH
+      - OK
+      - OR
+      - PA
+      - RI
+      - SC
+      - SD
+      - TN
+      - TX
+      - UT
+      - VA
+      - VT
+      - WA
+      - WV
+      - WI
+      - WY
+      required: true
+    - id: 10
+      name: zip
+      label: Zip
+      hint: Enter zip
+      type: text
+      options: []
+      required: true

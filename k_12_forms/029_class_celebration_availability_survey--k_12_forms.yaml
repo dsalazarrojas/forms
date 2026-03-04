@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Class Celebration Availability Survey
+    pages:
+    - id: 1
+      name: student_parent_info_header
+      label: -- Student and Parent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: Who is completing this form
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: parent_email
+      label: Parent Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: parent_phone
+      label: Parent Phone Number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: availability_header
+      label: -- Availability for Celebration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: celebration_date
+      label: Can your child attend the class celebration
+      hint: Proposed celebration date
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      - Date uncertain
+      required: true
+    - id: 8
+      name: preferred_dates
+      label: Preferred celebration dates - select all that work
+      hint: null
+      type: select_multiple
+      options:
+      - Weekday morning
+      - Weekday afternoon
+      - Friday
+      - Weekend
+      - After school
+      - Virtual option if available
+      required: false
+    - id: 9
+      name: activity_preferences_header
+      label: -- Activity Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: activity_preferences
+      label: Activity preferences - select all that interest you
+      hint: null
+      type: select_multiple
+      options:
+      - Games and icebreakers
+      - Arts and crafts
+      - Music and dancing
+      - Outdoor activities
+      - Movie or screen time
+      - Sports and physical games
+      - Talent show or performances
+      - Scavenger hunt
+      - Other
+      required: false
+    - id: 11
+      name: volunteering_header
+      label: -- Volunteering and Contribution --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: willing_to_volunteer
+      label: Are you willing to help plan or organize the celebration
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Yes, maybe
+      - false
+      - Not available
+      required: true
+    - id: 13
+      name: volunteer_role
+      label: How would you like to help - select all
+      hint: null
+      type: select_multiple
+      options:
+      - Help with decorations
+      - Organize games or activities
+      - Supply snacks or drinks
+      - Help with music or entertainment
+      - Set up and cleanup
+      - Photography or videography
+      - Other
+      - Prefer not to help
+      required: false
+    - id: 14
+      name: contribution_header
+      label: -- Snacks and Refreshments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: dietary_restrictions
+      label: Any dietary restrictions or allergies
+      hint: Nut allergies, vegetarian, gluten-free, etc.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: willing_to_bring
+      label: Are you willing to bring snacks or drinks
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      - Already planned to contribute
+      required: true
+    - id: 17
+      name: contribution_idea
+      label: What would you like to bring
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: budget_header
+      label: -- Budget Contribution --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: budget_contribution
+      label: Willing to contribute to celebration budget
+      hint: null
+      type: select_one
+      options:
+      - Yes, and amount - per item below
+      - No, cannot contribute
+      - Only if necessary
+      required: false
+    - id: 20
+      name: budget_amount
+      label: Budget contribution amount - if willing
+      hint: In dollars
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: special_requests_header
+      label: -- Special Requests and Comments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: special_requests
+      label: Special requests or suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional comments or concerns
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hearing Request Submission
+    pages:
+    - id: 1
+      name: hearing_request_submission
+      label: Hearing Request Submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: requestor_name
+      label: Requestor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: requestor_email
+      label: Requestor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: hearing_location
+      label: Hearing Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: request_description
+      label: Request Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: hearing_date
+      label: Hearing Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: hearing_time
+      label: Hearing Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: hearing_status
+      label: Hearing Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: requestor_phone
+      label: Requestor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_hearing_officer
+      label: Assigned Hearing Officer
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: hearing_request_id
+      label: Hearing Request ID
+      hint: null
+      type: number
+      options: []
+      required: false

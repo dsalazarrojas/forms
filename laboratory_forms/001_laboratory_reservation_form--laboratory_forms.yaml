@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Laboratory Reservation Form
+    pages:
+    - id: 1
+      name: user_requesting
+      label: User Requesting
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: department_requesting
+      label: Department Requesting
+      hint: null
+      type: select_one
+      options:
+      - Department of Biology
+      - Department of Chemistry
+      - Department of Physics
+      - Department of Mathematics
+      - Other
+      required: false
+    - id: 3
+      name: lab_name
+      label: Lab Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: lab_equipment
+      label: Lab Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: lab_location
+      label: Lab Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: time_slot
+      label: Time Slot
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: intended_use
+      label: Intended Use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reservation_date
+      label: Reservation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

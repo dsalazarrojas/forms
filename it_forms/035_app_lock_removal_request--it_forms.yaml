@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: App Lock Removal Request
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Full Name of Requestor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee or Student ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department_name
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: device_details_header
+      label: -- Device Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: device_type
+      label: Device Type
+      hint: e.g. iPhone, Android Tablet, MacBook
+      type: select_one
+      options:
+      - Mobile Phone
+      - Tablet
+      - Laptop
+      - Other
+      required: true
+    - id: 6
+      name: device_serial_number
+      label: Device Serial or IMEI Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: app_name_to_unlock
+      label: Name of Locked App
+      hint: Which app requires lock removal?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: removal_reason
+      label: Reason for Lock Removal Request
+      hint: Please provide a detailed justification
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date_of_request
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: urgency_level
+      label: Urgency of Request
+      hint: null
+      type: select_one
+      options:
+      - Low - Within 48 hours
+      - Normal - Within 24 hours
+      - High - Same day
+      - Urgent - Immediate business impact
+      required: true
+    - id: 11
+      name: authorization_code
+      label: Manager Authorization Code (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: security_agreement
+      label: I agree to follow corporate security protocols after unlock
+      hint: null
+      type: select_multiple
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 13
+      name: tech_notes
+      label: IT Technician Notes (Internal Use Only)
+      hint: null
+      type: text
+      options: []
+      required: false

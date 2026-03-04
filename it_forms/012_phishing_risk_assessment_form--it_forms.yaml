@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: phishing risk assessment form
+    pages:
+    - id: 1
+      name: risk_category
+      label: What is your department?
+      hint: null
+      type: select_one
+      options:
+      - IT
+      - Marketing
+      - Finance
+      - Human Resources
+      required: false
+    - id: 2
+      name: frequency_of_phishing_emails_received
+      label: Frequency of Phishing Emails Received
+      hint: null
+      type: select_multiple
+      options:
+      - Often
+      - Sometimes
+      - Rarely
+      - Never
+      required: false
+    - id: 3
+      name: phishing_type
+      label: What type of Phishing Email were you sent to?
+      hint: null
+      type: select_one
+      options:
+      - Social Engineering
+      - Malware
+      - Business Email Compromise (BEC)
+      - Other
+      required: false
+    - id: 4
+      name: report_phishing_incident
+      label: Have you reported the Phishing Incident to our team?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: reported_to_who
+      label: To whom have you reported the Phishing Incident?
+      hint: null
+      type: select_multiple
+      options:
+      - IT
+      - Manager
+      - Colleagues
+      - Other
+      required: false
+    - id: 6
+      name: reason_not_reported
+      label: Why did you not report the Phishing Incident?
+      hint: null
+      type: select_multiple
+      options:
+      - Fear of Retaliation
+      - Did not know who to report to
+      - Other
+      required: false
+    - id: 7
+      name: reported_method
+      label: How did you report the Phishing Incident?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In person
+      - Other
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_submitted
+      label: Time Submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: department_id
+      label: Department ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: location_id
+      label: Location ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: risk_factor
+      label: Risk Factor
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: risk_score
+      label: Risk Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: select_one
+      options:
+      - System
+      - Manager
+      - Other
+      required: false
+    - id: 20
+      name: submitted_by_employee_id
+      label: Submitted by Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: risk_factor_justification
+      label: Risk Factor Justification
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: action_plan
+      label: Action Plan
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: outcome
+      label: Outcome
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: false
+    - id: 25
+      name: outcome_justification
+      label: Outcome Justification
+      hint: null
+      type: note
+      options: []
+      required: false

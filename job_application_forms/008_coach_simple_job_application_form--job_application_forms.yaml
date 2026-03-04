@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coach Simple Job Application Form
+    pages:
+    - id: 1
+      name: section_contact
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_interest
+      label: -- Coaching Interest --
+      hint: Tell us about your preferences
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: desired_sport
+      label: Desired Sport
+      hint: Sport you wish to coach
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: preferred_age_group
+      label: Preferred Age Group
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Under 10
+      - 10-14
+      - 15-18
+      - Collegiate
+      - Adult
+      required: true
+    - id: 9
+      name: availability
+      label: Availability
+      hint: When are you available to coach?
+      type: select_multiple
+      options:
+      - Weekdays
+      - Weekends
+      - Mornings
+      - Afternoons
+      - Evenings
+      required: true
+    - id: 10
+      name: years_experience
+      label: Years of Experience
+      hint: Number of years coaching this sport
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: resume_link
+      label: Upload Resume Link
+      hint: Provide a link to your resume (Drive, Dropbox, etc.)
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: pitch
+      label: Why should we hire you?
+      hint: Brief summary of your value to the team
+      type: text
+      options: []
+      required: true

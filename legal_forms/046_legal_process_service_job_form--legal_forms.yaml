@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legal Process Service Job Form
+    pages:
+    - id: 1
+      name: process_server
+      label: Process Server
+      hint: null
+      type: select_one
+      options:
+      - Served
+      - Unserved
+      required: false
+    - id: 2
+      name: court_date
+      label: Court Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: legal_process_server_fee
+      label: Legal Process Server Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: service_area
+      label: Service Area
+      hint: null
+      type: select_multiple
+      options:
+      - State
+      - National
+      - International
+      required: false
+    - id: 5
+      name: service_level
+      label: Service Level
+      hint: null
+      type: select_one
+      options:
+      - Standard
+      - Priority
+      required: false
+    - id: 6
+      name: court_file_number
+      label: Court File Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: process_server_fee_hrs_billed
+      label: Process Server Fee Hours Billed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: date_served
+      label: Date Served
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_served
+      label: Time Served
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: service_address
+      label: Service Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: case_number
+      label: Case Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: court_name
+      label: Court Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: attorney_name
+      label: Attorney Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: case_remark
+      label: Case Remark
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: case_type
+      label: Case Type
+      hint: null
+      type: select_one
+      options:
+      - Civil
+      - Criminal
+      - Probate
+      - Family
+      required: false
+    - id: 20
+      name: case_status
+      label: Case Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      required: false
+    - id: 21
+      name: court_branch
+      label: Court Branch
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: service_branch
+      label: Service Branch
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: branch_fee
+      label: Branch Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: branch_fee_hrs_billed
+      label: Branch Fee Hours Billed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: branch_total_hours_billed
+      label: Branch Total Hours Billed
+      hint: null
+      type: number
+      options: []
+      required: false

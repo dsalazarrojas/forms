@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Estate Planning Records Release Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: release_time
+      label: Release Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: client_address
+      label: Client Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: estate_planning_documents
+      label: Estate Planning Documents
+      hint: null
+      type: select_one
+      options:
+      - Documents 1
+      - Documents 2
+      - Documents 3
+      required: true
+    - id: 6
+      name: legal_authority
+      label: Legal Authority
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: authorized_person
+      label: Authorized Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: authorized_organization
+      label: Authorized Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: authorization_date
+      label: Authorization Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: authorization_time
+      label: Authorization Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: authorization_method
+      label: Authorization Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 15
+      name: authorized_signature
+      label: Authorized Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 16
+      name: reason_for_release
+      label: Reason for Release
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: client_consent
+      label: Client Consent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: client_agreement
+      label: Client Agreement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: authorized_agreement
+      label: Authorized Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: authorization_code
+      label: Authorization Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: release_type
+      label: Release Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: release_date_2
+      label: Release Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: release_time_2
+      label: Release Time 2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

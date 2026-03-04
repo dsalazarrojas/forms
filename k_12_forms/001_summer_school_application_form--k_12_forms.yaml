@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer School Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tuition_method
+      label: Tuition Method
+      hint: null
+      type: select_one
+      options:
+      - Square
+      - PayPal
+      required: true
+    - id: 6
+      name: tuition_amount
+      label: Tuition Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: application_fee
+      label: Application Fee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: application_fee_amount
+      label: Application Fee Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Square
+      - PayPal
+      required: true
+    - id: 13
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: application_time
+      label: Application Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false

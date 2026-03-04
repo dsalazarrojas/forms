@@ -1,0 +1,139 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Chef Training Session Leave Of Absence Form
+    pages:
+      - id: 1
+        name: section_trainee_id
+        label: -- Trainee Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: trainee_full_name_leave
+        label: Trainee Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: current_training_module
+        label: Current Training Module
+        hint: e.g. Sauce Station, Pastry 101
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: lead_instructor_name
+        label: Lead Instructor Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: section_leave_details
+        label: -- Leave of Absence Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: leave_start_date
+        label: Start Date of Absence
+        hint: First day you will be away
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: leave_end_date
+        label: End Date of Absence
+        hint: Last day you will be away
+        type: date
+        options: []
+        required: true
+      - id: 8
+        name: reason_for_leave_category
+        label: Reason for Leave
+        hint: null
+        type: select_one
+        options:
+          - Medical / Health
+          - Family Emergency
+          - Personal Reasons
+          - Work Conflict
+          - Jury Duty / Legal
+        required: true
+      - id: 9
+        name: supporting_details_explanation
+        label: Supporting Details
+        hint: Provide more context if necessary
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: makeup_session_interest
+        label: Are you interested in a makeup session
+        hint: null
+        type: select_one
+        options:
+          - Yes, please schedule
+          - No, I will catch up independently
+          - Not applicable
+        required: true
+      - id: 11
+        name: section_cert_ack
+        label: -- Certification --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: trainee_digital_signature_ack
+        label: Trainee Digital Signature
+        hint: Type name to acknowledge
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: leave_request_submission_date
+        label: Date of Request
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 14
+        name: section_staff_only
+        label: -- Staff Use Only --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: approval_status_staff
+        label: Approval Status
+        hint: null
+        type: select_one
+        options:
+          - Approved
+          - Denied
+          - Pending Further Info
+        required: false
+      - id: 16
+        name: staff_review_comments
+        label: Staff Review Comments
+        hint: null
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,129 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Loading Issue Report
+    pages:
+    - id: 1
+      name: loading_issue_report
+      label: Loading Issue Report
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: facility_id
+      label: Facility Id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: carrier_id
+      label: Carrier Id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: dock_id
+      label: Dock Id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: issue_type
+      label: Issue Type
+      hint: null
+      type: select_one
+      options:
+      - Loading
+      - Unloading
+      - Delay
+      - Damage
+      - Other
+      required: true
+    - id: 7
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: image_upload
+      label: Image Upload
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: document_upload
+      label: Document Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: solution_status
+      label: Solution Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Done
+      - Not Required
+      required: true
+    - id: 12
+      name: solution_details
+      label: Solution Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: solution_date
+      label: Solution Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: solution_time
+      label: Solution Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: text
+      options: []
+      required: false

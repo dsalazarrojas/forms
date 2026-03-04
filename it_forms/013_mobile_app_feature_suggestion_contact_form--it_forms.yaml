@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mobile App Feature Suggestion Contact Form
+    pages:
+    - id: 1
+      name: mobile_app_feature_suggestion_contact_form_page
+      label: Feature Suggestion
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: feature_suggestions
+      label: Suggestions
+      hint: Describe your feature suggestions here
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: screenshots
+      label: Screenshots
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feature_priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Low''}'
+      required: true
+    - id: 5
+      name: feature_description
+      label: Description
+      hint: Describe the feature in detail
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feature_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 2, ''label'': ''In Progress''}'
+      - '{''id'': 3, ''label'': ''In Review''}'
+      - '{''id'': 4, ''label'': ''Rejected''}'
+      - '{''id'': 5, ''label'': ''On Hold''}'
+      - '{''id'': 6, ''label'': ''On Review''}'
+      - '{''id'': 7, ''label'': ''Not Planned''}'
+      required: true
+    - id: 7
+      name: feature_impact
+      label: Impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitter_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: submitter_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

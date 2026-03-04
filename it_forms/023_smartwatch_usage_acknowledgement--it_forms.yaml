@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smartwatch Usage Acknowledgement
+    pages:
+    - id: 1
+      name: smartwatch_usage
+      label: smartwatch usage
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: department
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: assigned_to
+      label: assigned to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: issue_date
+      label: issue date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: return_date
+      label: return date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: device_id
+      label: device id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: user_id
+      label: user id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: assigned_to_user
+      label: assigned to user
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: responsible_department
+      label: responsible department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: comments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: device_status
+      label: device status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

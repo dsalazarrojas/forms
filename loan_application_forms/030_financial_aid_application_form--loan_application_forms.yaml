@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Aid Application Form
+    pages:
+    - id: 1
+      name: application_form
+      label: Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: social_security_number
+      label: social_security_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: income
+      label: income
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: loan_type
+      label: loan_type
+      hint: null
+      type: select_one
+      options:
+      - Federal Pell Grant
+      - Direct Loans
+      - Private Loans
+      required: false
+    - id: 8
+      name: loan_amount
+      label: loan_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: expected_graduation_date
+      label: expected_graduation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: current_enrollment_status
+      label: current_enrollment_status
+      hint: null
+      type: select_multiple
+      options:
+      - Full Time
+      - Part Time
+      required: false
+    - id: 11
+      name: school_name
+      label: school_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: student_id
+      label: student_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

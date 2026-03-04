@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flight Attendant Job Application Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: flight_attendant_job_application_form_page_2
+      label: Experience
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''High School Diploma'', ''value'': ''High School Diploma''}'
+      - '{''label'': ''College Diploma'', ''value'': ''College Diploma''}'
+      - '{''label'': ''Flight Attendant Experience'', ''value'': ''Flight Attendant
+        Experience''}'
+      required: false
+    - id: 7
+      name: flight_attendant_job_application_form_page_3
+      label: Availability
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Full-Time'', ''value'': ''Full-Time''}'
+      - '{''label'': ''Part-Time'', ''value'': ''Part-Time''}'
+      - '{''label'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 8
+      name: flight_attendant_job_application_form_page_4
+      label: Skills
+      hint: List your skills
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: flight_attendant_job_application_form_page_5
+      label: Documents
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''ID'', ''value'': ''ID''}'
+      - '{''label'': ''Passport'', ''value'': ''Passport''}'
+      - '{''label'': "Driver''s License", ''value'': "Driver''s License"}'
+      required: false
+    - id: 10
+      name: flight_attendant_job_application_form_page_6
+      label: Additional
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: flight_attendant_job_application_form_page_7
+      label: References
+      hint: List 2 references
+      type: select_multiple
+      options:
+      - '{''label'': ''Reference 1'', ''value'': ''Reference 1''}'
+      - '{''label'': ''Reference 2'', ''value'': ''Reference 2''}'
+      required: false

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Partner Referral Form
+    pages:
+    - id: 1
+      name: insurance_partner_referral_form
+      label: Insurance Partner Referral Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lead_source
+      label: lead_source
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Partner Referral''}'
+      - '{''label'': ''Social Media''}'
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: lead_source_other
+      label: lead_source_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: partner_name
+      label: partner_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: partner_email
+      label: partner_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: partner_phone
+      label: partner_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: partner_notes
+      label: partner_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: user_message
+      label: user_message
+      hint: null
+      type: text
+      options: []
+      required: false

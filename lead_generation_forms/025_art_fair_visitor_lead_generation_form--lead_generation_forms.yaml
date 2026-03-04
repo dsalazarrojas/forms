@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Fair Visitor Lead Generation Form
+    pages:
+    - id: 1
+      name: contact_capture_header
+      label: -- Visitor Contact Details --
+      hint: Get in touch to receive catalogs and artist updates
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: visitor_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: visitor_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: visitor_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: visitor_location
+      label: City - State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: collector_profile_header
+      label: -- Art Interest Profile --
+      hint: Help us send you relevant information
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: art_style_interests
+      label: What styles of art are you most interested in?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Contemporary - Modern
+      - Abstract
+      - Realism - Classical
+      - Photography
+      - Sculpture - 3D
+      - Digital Art - NFTs
+      - Street Art
+      required: true
+    - id: 8
+      name: investment_level
+      label: Typical price range of interest for acquisitions
+      hint: null
+      type: select_one
+      options:
+      - Under $1,000
+      - $1,000 - $5,000
+      - $5,000 - $20,000
+      - $20,000+
+      - Not currently collecting
+      required: false
+    - id: 9
+      name: specific_artist_inquiry
+      label: Is there a specific artist you are following?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: engagement_header
+      label: -- Follow-up and Services --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_request
+      label: How would you like us to follow up with you?
+      hint: null
+      type: select_one
+      options:
+      - Email me the fair catalog
+      - Call me to discuss specific artworks
+      - Add me to the VIP preview list
+      - No follow-up needed
+      required: true
+    - id: 12
+      name: interior_design_consultation
+      label: Are you interested in an art consultation for your home or office?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 13
+      name: fair_feedback
+      label: Your thoughts on the Fair experience so far?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: source_of_awareness
+      label: How did you find out about the Fair?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: capture_date
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Embryonic Development Assessment
+    pages:
+    - id: 1
+      name: page_1
+      label: form_title
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: embryo_id
+      label: form_number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: maternal_age
+      label: maternal_age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: gestational_age
+      label: gestational_age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: maternal_weight
+      label: maternal_weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: maternal_height
+      label: maternal_height
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: maternal_smoking_status
+      label: maternal_smoking_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - 'False'
+      - 'True'
+      required: true
+    - id: 8
+      name: maternal_drinking_status
+      label: maternal_drinking_status
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: prophets_smoking_status
+      label: prophets_smoking_status
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: maternal_education
+      label: maternal_education
+      hint: null
+      type: select_one
+      options:
+      - Less than high school
+      - High school
+      - Some college
+      - College
+      - Postgraduate
+      - Other
+      required: true
+    - id: 11
+      name: prophets_income
+      label: prophets_income
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Very high
+      required: true
+    - id: 12
+      name: maternal_occupation
+      label: maternal_occupation
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Employee
+      - Unemployed
+      required: true
+    - id: 13
+      name: embryo_quality
+      label: embryo_quality
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: maternal_insurance
+      label: maternal_insurance
+      hint: null
+      type: select_multiple
+      options:
+      - Medicare
+      - Medicaid
+      - Private
+      - Other
+      required: true
+    - id: 15
+      name: embryo_weight
+      label: embryo_weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: maternal_marital_status
+      label: maternal_marital_status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      required: true
+    - id: 17
+      name: maternal_pregnancy_complications
+      label: maternal_pregnancy_complications
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 18
+      name: maternal_heart_diseases
+      label: maternal_heart_diseases
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 19
+      name: maternal_diabetes
+      label: maternal_diabetes
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 20
+      name: maternal_hypertension
+      label: maternal_hypertension
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 21
+      name: maternal_preeclampsia
+      label: maternal_preeclampsia
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 22
+      name: maternal_obesity
+      label: maternal_obesity
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 23
+      name: maternal_allergy
+      label: maternal_allergy
+      hint: null
+      type: select_multiple
+      options:
+      - Penicillin
+      - Latex
+      - Dust
+      - Other
+      required: true
+    - id: 24
+      name: maternal_allergy
+      label: maternal_allergy
+      hint: null
+      type: select_multiple
+      options:
+      - Penicillin
+      - Latex
+      - Dust
+      - Other
+      required: true
+    - id: 25
+      name: maternal_comments
+      label: maternal_comments
+      hint: null
+      type: note
+      options: []
+      required: true

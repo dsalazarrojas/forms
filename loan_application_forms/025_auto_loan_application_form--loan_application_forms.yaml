@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Loan Application Form
+    pages:
+    - id: 1
+      name: applicant_info_header
+      label: -- Applicant Info --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: ssn
+      label: Social Security Number
+      hint: Required for financing
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: dob
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Personal or work email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: financial_info_header
+      label: -- Financial Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: annual_income
+      label: Annual Income
+      hint: Total gross yearly income
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: monthly_housing_cost
+      label: Monthly Rent or Mortgage
+      hint: Your primary housing expense
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: employer
+      label: Employer
+      hint: Current place of work
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: years_at_employer
+      label: Years at Employer
+      hint: Time spent with current company
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: loan_request_header
+      label: -- Loan Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: loan_amount_requested
+      label: Loan Amount Requested
+      hint: Total amount to finance
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: desired_term_months
+      label: Desired Term (Months)
+      hint: Select your preferred payoff period
+      type: select_one
+      options:
+      - 24
+      - 36
+      - 48
+      - 60
+      - 72
+      required: true
+    - id: 14
+      name: down_payment
+      label: Down Payment
+      hint: Cash or trade-in value upfront
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: vehicle_financed_header
+      label: -- Vehicle to be Financed --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_details
+      label: Vehicle Details
+      hint: Make, Model, and Year
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: vehicle_status
+      label: Vehicle Status
+      hint: Condition of the vehicle
+      type: select_one
+      options:
+      - New
+      - Used
+      - Certified Pre-owned
+      required: true
+    - id: 18
+      name: authorize_credit_report
+      label: Authorize Credit Report
+      hint: I authorize the lender to pull my credit report
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

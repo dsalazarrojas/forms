@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disk Information Submission Form
+    pages:
+    - id: 1
+      name: disk_id
+      label: disk_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: disk_serial
+      label: disk_serial
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: disk_type
+      label: disk_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: disk_status
+      label: disk_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: disk_capacity
+      label: disk_capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: disk_size
+      label: disk_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: disk_model
+      label: disk_model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: disk_vendor
+      label: disk_vendor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: disk_location
+      label: disk_location
+      hint: null
+      type: text
+      options: []
+      required: false

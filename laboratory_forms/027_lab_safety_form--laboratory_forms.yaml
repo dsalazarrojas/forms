@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lab Safety Form
+    pages:
+    - id: 1
+      name: lab_safety_form
+      label: Lab Safety Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lab_safety_risks
+      label: Lab Safety Risks
+      hint: List the potential risks or hazards present in the laboratory.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: lab_safety_measures
+      label: Lab Safety Measures
+      hint: Describe the measures you will take to mitigate the risks.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: lab_safety_training
+      label: Lab Safety Training
+      hint: Describe the training you have received or will receive.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: lab_safety_equipment
+      label: Lab Safety Equipment
+      hint: Describe the safety equipment available in the laboratory.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: lab_safety_emergency_procedures
+      label: Lab Safety Emergency Procedures
+      hint: Describe the emergency procedures in place.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: lab_safety_supervision
+      label: Lab Safety Supervision
+      hint: Describe the supervision levels.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: lab_safety_training_certification
+      label: Lab Safety Training Certification
+      hint: null
+      type: select_one
+      options:
+      - OSHA 30
+      - OSHA 100
+      - OSHA 3000
+      required: false

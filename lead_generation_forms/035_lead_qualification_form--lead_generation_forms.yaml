@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lead Qualification Form
+    pages:
+    - id: 1
+      name: lead_qualification_form
+      label: lead_qualification_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lead_name
+      label: lead_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: lead_email
+      label: email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: lead_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: lead_company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: lead_industry
+      label: industry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: lead_status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Qualified''}'
+      - '{''label'': ''Not Qualified''}'
+      - '{''label'': ''Qualified but not yet ready''}'
+      required: false
+    - id: 8
+      name: lead_reason_for_ineligibility
+      label: reason_for_ineligibility
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Sales Team''}'
+      - '{''label'': ''Not Ready''}'
+      - '{''label'': ''Not Qualified''}'
+      - '{''label'': ''Other''}'
+      - '{''label'': ''Qualified but not yet ready''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 9
+      name: assigned_sales_person
+      label: assigned_sales_person
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: sales_person_note
+      label: sales_person_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: lead_status_updated
+      label: status_updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: lead_status_update_reason
+      label: reason_for_status_update
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: sales_person_update
+      label: sales_person_update
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: lead_qualification_date
+      label: lead_qualification_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: next_step
+      label: next_step
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: lead_qualification_form_id
+      label: lead_qualification_form_id
+      hint: null
+      type: text
+      options: []
+      required: false

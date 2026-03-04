@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Application Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: grade_level
+      label: Grade Level
+      hint: 9-12
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: student_address
+      label: Student Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: parent_permission
+      label: Parent Permission
+      hint: null
+      type: select_one
+      options:
+      - Parent or Guardian
+      - Other Relative
+      - No Permission Given
+      required: false
+    - id: 9
+      name: student_permission
+      label: Student Permission
+      hint: null
+      type: select_multiple
+      options:
+      - Parent
+      - Other Relative
+      - School
+      required: false
+    - id: 10
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: school_address
+      label: School Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: school_phone_number
+      label: School Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: school_email_address
+      label: School Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: school_administrative_info
+      label: School Administrative Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: student_document_upload
+      label: Student Document Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: student_document
+      label: Student Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: school_application_form_type
+      label: School Application Form Type
+      hint: null
+      type: select_one
+      options:
+      - Regular
+      - International
+      - Exchange
+      required: false
+    - id: 18
+      name: school_application_form_sub_type
+      label: School Application Form Sub Type
+      hint: null
+      type: select_multiple
+      options:
+      - Daycare
+      - Elementary
+      - High School
+      - Middle School
+      required: false
+    - id: 19
+      name: student_enrollment_status
+      label: Student Enrollment Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Returning
+      - Transfer
+      required: false
+    - id: 20
+      name: student_enrollment_date
+      label: Student Enrollment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: student_start_date
+      label: Student Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: school_start_date
+      label: School Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: student_end_date
+      label: Student End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: school_end_date
+      label: School End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: student_additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

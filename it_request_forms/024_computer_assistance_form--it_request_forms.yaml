@@ -1,0 +1,79 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Computer Assistance Form
+    pages:
+      - id: 1
+        name: section_issue_summary
+        label: -- Issue Summary --
+        hint: Enter details about the computer issue
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: requester_name
+        label: Requester name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: contact_email
+        label: Contact email
+        hint: For technician follow up
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: device_type
+        label: Device type
+        hint: Laptop, Desktop, Tablet, Other
+        type: select_one
+        options: [Laptop, Desktop, Tablet, Mobile, Other]
+        required: true
+      - id: 5
+        name: operating_system
+        label: Operating system
+        hint: OS and version if known
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: issue_description
+        label: Issue description
+        hint: Describe the problem and symptoms
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: urgency
+        label: Urgency
+        hint: Select urgency level
+        type: select_one
+        options: [Low, Medium, High]
+        required: true
+      - id: 8
+        name: preferred_contact_method
+        label: Preferred contact method
+        hint: How should technician contact you
+        type: select_one
+        options: [Email, Phone, Remote session]
+        required: true
+      - id: 9
+        name: location
+        label: Location
+        hint: Office or remote location for support
+        type: text
+        options: []
+        required: false

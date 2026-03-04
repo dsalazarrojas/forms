@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lending Responsibility Assessment
+    pages:
+    - id: 1
+      name: borrower_name
+      label: Borrower Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Employed''}'
+      - '{''value'': ''Unemployed''}'
+      - '{''value'': ''Retired''}'
+      - '{''value'': ''Disabled''}'
+      - '{''value'': ''Student''}'
+      - '{''value'': ''Homemaker''}'
+      - '{''value'': ''Self-Employed''}'
+      - '{''value'': ''Other''}'
+      - '{''value'': ''Prefer not to disclose''}'
+      required: false
+    - id: 3
+      name: annual_income
+      label: Annual Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: monthly_debt
+      label: Monthly Debt
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: monthly_expenses
+      label: Monthly Expenses
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Rent or mortgage''}'
+      - '{''value'': ''Utilities''}'
+      - '{''value'': ''Food''}'
+      - '{''value'': ''Transportation''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 6
+      name: credit_score
+      label: Credit Score
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Poor''}'
+      - '{''value'': ''No Credit Check''}'
+      required: false
+    - id: 7
+      name: income_verification
+      label: Income Verification
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 8
+      name: employment_verification
+      label: Employment Verification
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false

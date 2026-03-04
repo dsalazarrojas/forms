@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Promotion Form
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: Enter your complete name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Your business or personal email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact number with area code
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: business_name
+      label: Business Name
+      hint: Name of your store or business
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: street_address
+      label: Street Address
+      hint: Business location
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_postal_code
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: how_did_you_hear
+      label: How did you hear about us
+      hint: Select the source that brought you here
+      type: select_one
+      options:
+      - Social Media
+      - Friend or Family
+      - Web Search
+      - Advertisement
+      - Other
+      required: true
+    - id: 10
+      name: interested_products
+      label: What products are you interested in
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Electronics
+      - Clothing
+      - Home and Garden
+      - Sports and Outdoors
+      - Beauty and Personal Care
+      required: true
+    - id: 11
+      name: purchase_frequency
+      label: How often do you shop with us
+      hint: Estimated shopping frequency
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Occasionally
+      - First time visitor
+      required: true
+    - id: 12
+      name: feedback_comments
+      label: Additional Feedback or Comments
+      hint: Tell us what you think we can improve
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: subscribe_newsletter
+      label: Subscribe to our newsletter
+      hint: Receive updates on promotions and new products
+      type: select_one
+      options:
+      - Yes, subscribe me
+      - No, thank you
+      required: false

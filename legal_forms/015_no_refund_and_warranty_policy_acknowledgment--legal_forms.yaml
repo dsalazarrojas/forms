@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: No Refund And Warranty Policy Acknowledgment
+    pages:
+    - id: 1
+      name: customer_details
+      label: Customer Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: acknowledgment
+      label: Acknowledgment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: acceptance
+      label: Acceptance of Terms
+      hint: This includes no refund and no-warranty terms.
+      type: select_one
+      options:
+      - No refund and no-warranty terms
+      - I am aware of the terms
+      required: false
+    - id: 5
+      name: signature1
+      label: Signature of Customer
+      hint: null
+      type: select_one
+      options:
+      - None
+      - None
+      - None
+      required: false
+    - id: 6
+      name: customer_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: consent
+      label: Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: signature2
+      label: Signature of Service Provider
+      hint: null
+      type: select_one
+      options:
+      - None
+      - None
+      - None
+      required: false

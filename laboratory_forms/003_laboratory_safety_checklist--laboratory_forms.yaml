@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Laboratory Safety Checklist
+    pages:
+    - id: 1
+      name: section_1
+      label: Electrical Equipment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: section_2
+      label: Fire Safety
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: section_3
+      label: Chemical Storage
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: electrical_equipment
+      label: Electrical Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: fire_safety
+      label: Fire Safety
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: chemical_storage
+      label: Chemical Storage
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_4
+      label: Personal Protective Equipment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: personal_protective_equipment
+      label: Personal Protective Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_5
+      label: Emergency Procedures
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: emergency_procedures
+      label: Emergency Procedures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_6
+      label: Review and Reporting
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: review_and_reporting
+      label: Review and Reporting
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_7
+      label: Safety Training
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: safety_training
+      label: Safety Training
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_8
+      label: Review and Corrective Action
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: review_and_corrective_action
+      label: Review and Corrective Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_9
+      label: Review and Corrective Action
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: review_and_corrective_action_select
+      label: Review and Corrective Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true

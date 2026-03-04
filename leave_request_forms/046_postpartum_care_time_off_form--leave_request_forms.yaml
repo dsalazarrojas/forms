@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Postpartum Care Time Off Form
+    pages:
+    - id: 1
+      name: request_postpartum_care_time_off
+      label: Request Postpartum Care Time Off
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: postpartum_care_start_date
+      label: Postpartum Care Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: postpartum_care_end_date
+      label: Postpartum Care End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: return_to_work_date
+      label: Return To Work Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_request
+      label: Reason For Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_approvals
+      label: Manager Approvals
+      hint: null
+      type: select_one
+      options:
+      - Manager 1
+      - Manager 2
+      - Manager 3
+      - Manager 4
+      required: false
+    - id: 8
+      name: department_approval
+      label: Department Approval
+      hint: null
+      type: select_multiple
+      options:
+      - Department 1
+      - Department 2
+      - Department 3
+      - Department 4
+      required: false

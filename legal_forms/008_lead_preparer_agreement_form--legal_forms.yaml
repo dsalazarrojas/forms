@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lead Preparer Agreement Form
+    pages:
+    - id: 1
+      name: project_info
+      label: project_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_responsibilities
+      label: project_responsibilities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: timelines
+      label: timelines
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: acceptance
+      label: acceptance
+      hint: null
+      type: select_multiple
+      options:
+      - Client
+      - Lead Preparer
+      - Preparer
+      required: false
+    - id: 5
+      name: responsibilities
+      label: responsibilities
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: lead_preparer_name
+      label: lead_preparer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: lead_preparer_email
+      label: lead_preparer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: lead_preparer_phone
+      label: lead_preparer_phone
+      hint: null
+      type: text
+      options: []
+      required: false

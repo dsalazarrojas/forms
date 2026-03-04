@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Sensor Network Upgrade Request Form
+    pages:
+    - id: 1
+      name: upgrade_request
+      label: Upgrade Request
+      hint: Describe the upgrade request
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: scope_of_work
+      label: Scope of Work
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: justification
+      label: Justification
+      hint: Why do you want to upgrade the network?
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: preferred_timeline
+      label: Preferred Timeline
+      hint: What is the desired completion date for the upgrade?
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: sensor_type
+      label: Sensor Type
+      hint: null
+      type: select_one
+      options:
+      - Temperature
+      - Humidity
+      - Motion
+      required: true
+    - id: 6
+      name: sensor_location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - Building A
+      - Building B
+      - Building C
+      required: true
+    - id: 7
+      name: upgrade_frequency
+      label: Upgrade Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Additional Notes
+      hint: Any additional comments or questions
+      type: text
+      options: []
+      required: false

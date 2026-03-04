@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Information Form
+    pages:
+    - id: 1
+      name: vendor_information_form
+      label: Vendor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor_address
+      label: Vendor Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone_extension
+      label: Contact Phone Extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vendor_type
+      label: Vendor Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 9
+      name: vendor_status
+      label: Vendor Status
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 10
+      name: vendor_notes
+      label: Vendor Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: vendor_verification_date
+      label: Vendor Verification Date
+      hint: null
+      type: date
+      options: []
+      required: false

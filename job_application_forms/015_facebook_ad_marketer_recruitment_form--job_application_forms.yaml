@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facebook Ad Marketer Recruitment Form
+    pages:
+    - id: 1
+      name: job_category
+      label: Job Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Part-time''}'
+      - '{''id'': 2, ''label'': ''Full-time''}'
+      - '{''id'': 3, ''label'': ''Freelance''}'
+      required: true
+    - id: 6
+      name: job_location
+      label: Job Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: job_start_date
+      label: Job Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: job_end_date
+      label: Job End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Archived''}'
+      - '{''id'': 3, ''label'': ''Cancelled''}'
+      required: false
+    - id: 13
+      name: ad_budget
+      label: Ad Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: ad_frequency
+      label: Ad Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: ad_duration
+      label: Ad Duration
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''One Day''}'
+      - '{''id'': 2, ''label'': ''Two Days''}'
+      - '{''id'': 3, ''label'': ''Multiple Days''}'
+      required: true
+    - id: 16
+      name: ad_type
+      label: Ad Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Display Ad''}'
+      - '{''id'': 2, ''label'': ''Video Ad''}'
+      - '{''id'': 3, ''label'': ''Carousel Ad''}'
+      required: true
+    - id: 17
+      name: ad_target_audience
+      label: Ad Target Audience
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Men''}'
+      - '{''id'': 2, ''label'': ''Women''}'
+      - '{''id'': 3, ''label'': ''Both''}'
+      required: false
+    - id: 18
+      name: ad_target_location
+      label: Ad Target Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''United States''}'
+      - '{''id'': 2, ''label'': ''Canada''}'
+      - '{''id'': 3, ''label'': ''Worldwide''}'
+      required: false
+    - id: 19
+      name: ad_budget_frequency
+      label: Ad Budget Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: ad_budget_period
+      label: Ad Budget Period
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: ad_target_audience_age
+      label: Ad Target Audience Age
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''18-24''}'
+      - '{''id'': 2, ''label'': ''25-34''}'
+      - '{''id'': 3, ''label'': ''35-44''}'
+      - '{''id'': 4, ''label'': ''45-54''}'
+      - '{''id'': 5, ''label'': ''55+''}'
+      required: false
+    - id: 22
+      name: ad_budget_currency
+      label: Ad Budget Currency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''USD''}'
+      - '{''id'': 2, ''label'': ''EUR''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 23
+      name: ad_budget_amount
+      label: Ad Budget Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: job_owner_id
+      label: Job Owner ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
