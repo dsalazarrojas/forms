@@ -1,0 +1,270 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Disparities Registration
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: patient_contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''Email''}'
+      - '{''label'': ''In-Person''}'
+      required: false
+    - id: 4
+      name: clinic_name
+      label: Clinic Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Primary Care''}'
+      - '{''label'': ''Social Worker''}'
+      - '{''label'': ''Case Manager''}'
+      - '{''label'': ''Clinic Manager''}'
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Alabama''}'
+      - '{''label'': ''Alaska''}'
+      - '{''label'': ''American Samoa''}'
+      - '{''label'': ''Arizona''}'
+      - '{''label'': ''Arkansas''}'
+      - '{''label'': ''Armed Forces - AE''}'
+      - '{''label'': ''Armed Forces - AP''}'
+      - '{''label'': ''Armed Forces - AA''}'
+      - '{''label'': ''California''}'
+      - '{''label'': ''Colorado''}'
+      - '{''label'': ''Connecticut''}'
+      - '{''label'': ''Delaware''}'
+      - '{''label'': ''Washington D.C.''}'
+      - '{''label'': ''District of Columbia''}'
+      - '{''label'': ''Florida''}'
+      - '{''label'': ''Georgia''}'
+      - '{''label'': ''Guam''}'
+      - '{''label'': ''Hawaii''}'
+      - '{''label'': ''Idaho''}'
+      - '{''label'': ''Illinois''}'
+      - '{''label'': ''Indiana''}'
+      - '{''label'': ''Iowa''}'
+      - '{''label'': ''Kansas''}'
+      - '{''label'': ''Kentucky''}'
+      - '{''label'': ''Louisiana''}'
+      - '{''label'': ''Maine''}'
+      - '{''label'': ''Maryland''}'
+      - '{''label'': ''Massachusetts''}'
+      - '{''label'': ''Michigan''}'
+      - '{''label'': ''Minnesota''}'
+      - '{''label'': ''Mississippi''}'
+      - '{''label'': ''Missouri''}'
+      - '{''label'': ''Montana''}'
+      - '{''label'': ''Nebraska''}'
+      - '{''label'': ''Nevada''}'
+      - '{''label'': ''New Hampshire''}'
+      - '{''label'': ''New Jersey''}'
+      - '{''label'': ''New York''}'
+      - '{''label'': ''North Carolina''}'
+      - '{''label'': ''North Dakota''}'
+      - '{''label'': ''Northern Mariana Islands''}'
+      - '{''label'': ''Ohio''}'
+      - '{''label'': ''Oklahoma''}'
+      - '{''label'': ''Oregon''}'
+      - '{''label'': ''Pennsylvania''}'
+      - '{''label'': ''Puerto Rico''}'
+      - '{''label'': ''Rhode Island''}'
+      - '{''label'': ''South Carolina''}'
+      - '{''label'': ''South Dakota''}'
+      - '{''label'': ''Tennessee''}'
+      - '{''label'': ''Texas''}'
+      - '{''label'': ''Utah''}'
+      - '{''label'': ''Vermont''}'
+      - '{''label'': ''Virgin Islands''}'
+      - '{''label'': ''Virginia''}'
+      - '{''label'': ''Washington''}'
+      - '{''label'': ''Washington D.C.''}'
+      - '{''label'': ''West Virginia''}'
+      - '{''label'': ''Wisconsin''}'
+      - '{''label'': ''Wyoming''}'
+      - '{''label'': ''Puerto Rico''}'
+      - '{''label'': ''US Virgin Islands''}'
+      required: false
+    - id: 12
+      name: race_and_ethnicity
+      label: Race and Ethnicity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: language
+      label: Language
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''English''}'
+      - '{''label'': ''Spanish''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 14
+      name: language_other
+      label: language_other_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: race_other
+      label: race_other_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: patient_gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Male''}'
+      - '{''label'': ''Female''}'
+      - '{''label'': ''Non-Binary''}'
+      required: false
+    - id: 17
+      name: patient_gender_other
+      label: gender_other_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: patient_age
+      label: Age
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: patient_age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''18-64''}'
+      - '{''label'': ''65 or Older''}'
+      required: false
+    - id: 20
+      name: patient_gender_id
+      label: Gender ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: patient_race
+      label: Race
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Asian''}'
+      - '{''label'': ''Black or African American''}'
+      - '{''label'': ''Native American''}'
+      - '{''label'': ''Pacific Islander''}'
+      - '{''label'': ''White''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 22
+      name: patient_race_other
+      label: race_other_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: patient_ethnicity
+      label: Ethnicity
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Asian''}'
+      - '{''label'': ''Black or African American''}'
+      - '{''label'': ''Native American''}'
+      - '{''label'': ''Pacific Islander''}'
+      - '{''label'': ''White''}'
+      - '{''label'': ''Hispanic or Latino''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 24
+      name: patient_ethnicity_other
+      label: ethnicity_other_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

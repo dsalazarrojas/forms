@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Urban Land Use Assessment
+    pages:
+    - id: 1
+      name: parcel_details
+      label: Parcel Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: land_use
+      label: Land Use
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: zoning_status
+      label: Zoning Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 4
+      name: parcel_observations
+      label: Parcel Observations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: land_use_zoning
+      label: Land Use and Zoning
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: parcel_use
+      label: Parcel Use
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 8
+      name: project_notes
+      label: Project Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: zoning_regulations
+      label: Zoning Regulations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: zoning_variances
+      label: Zoning Variances
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: land_use_restrictions
+      label: Land Use Restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: parcel_boundaries
+      label: Parcel Boundaries
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: adjacent_parcel_use
+      label: Adjacent Parcel Use
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: project_contacts
+      label: Project Contacts
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: project_contacts_email
+      label: Project Contacts Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: project_contacts_phone
+      label: Project Contacts Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: project_contacts_address
+      label: Project Contacts Address
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: project_contacts_notes
+      label: Project Contacts Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: parcel_owner
+      label: Parcel Owner
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: parcel_owner_notes
+      label: Parcel Owner Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: zoning_notes
+      label: Zoning Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: project_status_date
+      label: Project Status Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: project_status_time
+      label: Project Status Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: project_status_notes
+      label: Project Status Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: project_status_other
+      label: Other Project Status Notes
+      hint: null
+      type: note
+      options: []
+      required: false

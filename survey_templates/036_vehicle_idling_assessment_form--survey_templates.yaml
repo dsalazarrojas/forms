@@ -1,0 +1,31 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Idling Assessment Form
+    pages:
+    - id: 1
+      name: vehicle_idling_habits
+      label: vehicle idling habits
+      hint: null
+      type: select_multiple
+      options:
+      - idling habits
+      - Other
+      required: false
+    - id: 2
+      name: idling_duration
+      label: idling duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: idling_frequency
+      label: idling frequency
+      hint: null
+      type: select_one
+      options:
+      - daily
+      - weekly
+      - monthly
+      required: false

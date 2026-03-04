@@ -1,0 +1,277 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Animal Shelter Website Experience Survey
+    pages:
+    - id: 1
+      name: visitor_name
+      label: Your Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: visitor_email
+      label: Email Address
+      hint: Optional - for follow-up
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: visit_date
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: visit_purpose
+      label: What Was the Purpose of Your Visit
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Browse Available Animals
+      - Learn About Adoption Process
+      - Submit Adoption Application
+      - Volunteer Information
+      - Make a Donation
+      - Find Shelter Information
+      - View Events Calendar
+      - Read Blog or News
+      - Contact Shelter
+      - Other
+      required: true
+    - id: 5
+      name: first_time_visitor
+      label: Is This Your First Time on Our Website
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 6
+      name: overall_satisfaction
+      label: Overall Website Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 7
+      name: ease_of_navigation
+      label: Ease of Navigation
+      hint: How easy was it to find what you needed
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Neutral
+      - Difficult
+      - Very Difficult
+      required: true
+    - id: 8
+      name: page_load_speed
+      label: Page Load Speed
+      hint: null
+      type: select_one
+      options:
+      - Very Fast
+      - Fast
+      - Acceptable
+      - Slow
+      - Very Slow
+      required: true
+    - id: 9
+      name: mobile_experience
+      label: Did You Use a Mobile Device
+      hint: null
+      type: select_one
+      options:
+      - Yes - Mobile Phone
+      - Yes - Tablet
+      - No - Desktop Computer
+      required: true
+    - id: 10
+      name: mobile_satisfaction
+      label: Mobile Experience Rating
+      hint: If applicable
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Not Applicable
+      required: false
+    - id: 11
+      name: content_quality
+      label: Quality of Website Content
+      hint: Information helpfulness
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: true
+    - id: 12
+      name: photo_quality
+      label: Quality of Animal Photos
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Not Viewed
+      required: true
+    - id: 13
+      name: missing_information
+      label: Was Any Information Missing
+      hint: null
+      type: select_one
+      options:
+      - No - Found Everything
+      - Yes - Minor Items
+      - Yes - Important Information
+      required: true
+    - id: 14
+      name: missing_details
+      label: What Information Was Missing
+      hint: If yes describe
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: adoption_page_rating
+      label: Adoption Information Page Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Did Not View
+      required: false
+    - id: 16
+      name: donation_page_rating
+      label: Donation Page Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Did Not View
+      required: false
+    - id: 17
+      name: volunteer_page_rating
+      label: Volunteer Information Page Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Did Not View
+      required: false
+    - id: 18
+      name: visual_appeal
+      label: Visual Appeal of Website
+      hint: Design and aesthetics
+      type: select_one
+      options:
+      - Very Appealing
+      - Appealing
+      - Neutral
+      - Unappealing
+      - Very Unappealing
+      required: true
+    - id: 19
+      name: trust_level
+      label: How Much Do You Trust the Information on Our Website
+      hint: null
+      type: select_one
+      options:
+      - Completely Trust
+      - Mostly Trust
+      - Neutral
+      - Somewhat Distrust
+      - Do Not Trust
+      required: true
+    - id: 20
+      name: likelihood_to_return
+      label: How Likely Are You to Visit Our Website Again
+      hint: null
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 21
+      name: likelihood_to_recommend
+      label: How Likely Are You to Recommend Our Website
+      hint: null
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 22
+      name: feature_requests
+      label: What Features Would You Like to See Added
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Online Appointment Scheduling
+      - Live Chat Support
+      - Virtual Tours
+      - More Video Content
+      - Success Stories Blog
+      - Email Newsletter Signup
+      - Social Media Integration
+      - Search Filters
+      - Mobile App
+      - Other
+      required: false
+    - id: 23
+      name: improvement_suggestions
+      label: What Could We Improve
+      hint: Your suggestions are valuable
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: Share any other thoughts
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Survey Form Responsive
+    pages:
+    - id: 1
+      name: wedding_survey_name
+      label: Wedding Participant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_will_attend
+      label: Will they attend?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: wedding_survey_question1
+      label: Do they have their own prophets?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: prophets_count
+      label: Prophets Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: wedding_survey_question5
+      label: How many prophets are there?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: wedding_survey_question6
+      label: How many guests can attend?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: wedding_survey_question7
+      label: Can they get in?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: wedding_survey_question8
+      label: How will they get in?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: wedding_survey_question9
+      label: Will they bring?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

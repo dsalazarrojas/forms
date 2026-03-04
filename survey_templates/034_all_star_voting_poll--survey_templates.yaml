@@ -1,0 +1,213 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: All Star Voting Poll
+    pages:
+    - id: 1
+      name: voter_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For verification
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: fan_id
+      label: Fan ID
+      hint: Season ticket holder ID if applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sport
+      label: Sport
+      hint: Which sport?
+      type: select_one
+      options:
+      - Basketball
+      - Baseball
+      - Football
+      - Soccer
+      - Hockey
+      required: true
+    - id: 5
+      name: voting_category
+      label: Voting Category
+      hint: What are you voting for?
+      type: select_one
+      options:
+      - MVP (Most Valuable Player)
+      - Rookie of the Year
+      - Best Forward
+      - Best Defense
+      - Best Goalie/Pitcher
+      - Coach of the Year
+      - Comeback Player
+      - Sportsmanship Award
+      required: true
+    - id: 6
+      name: first_choice
+      label: First Choice
+      hint: Your top pick
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: first_choice_team
+      label: First Choice Team
+      hint: Team name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: second_choice
+      label: Second Choice
+      hint: Runner-up pick
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: second_choice_team
+      label: Second Choice Team
+      hint: Team name
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: third_choice
+      label: Third Choice
+      hint: Third pick
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: third_choice_team
+      label: Third Choice Team
+      hint: Team name
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: voting_reason
+      label: Why Did You Choose This Player?
+      hint: Explain your choice
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: season_attendance
+      label: Games Attended This Season
+      hint: Number of games
+      type: select_one
+      options:
+      - None
+      - 1-5 games
+      - 6-10 games
+      - 11-20 games
+      - 21-40 games
+      - 41+ games
+      required: false
+    - id: 14
+      name: fan_since
+      label: Fan Since
+      hint: How long have you been a fan?
+      type: select_one
+      options:
+      - This season
+      - 1-3 years
+      - 4-10 years
+      - 11-20 years
+      - 20+ years
+      - Lifetime
+      required: false
+    - id: 15
+      name: favorite_team
+      label: Favorite Team
+      hint: Your team
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: follow_other_sports
+      label: Follow Other Sports?
+      hint: Do you follow other sports?
+      type: select_multiple
+      options:
+      - Basketball
+      - Baseball
+      - Football
+      - Soccer
+      - Hockey
+      - Tennis
+      - Golf
+      - None
+      required: false
+    - id: 17
+      name: social_media_handle
+      label: Social Media Handle
+      hint: Twitter/Instagram if you want to be featured
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: age_group
+      label: Age Group
+      hint: Your age range
+      type: select_one
+      options:
+      - Under 18
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65+
+      required: false
+    - id: 19
+      name: location
+      label: Location
+      hint: City/State
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: predictions
+      label: Championship Prediction
+      hint: Who will win?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: all_star_game_attendance
+      label: Planning to Attend All-Star Game?
+      hint: Will you be there?
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Maybe
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other thoughts
+      type: text
+      options: []
+      required: false

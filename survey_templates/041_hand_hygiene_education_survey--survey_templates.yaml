@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hand Hygiene Education Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question1
+      label: What is your role within the organization?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 3
+      name: question2
+      label: What level of hand hygiene education has your organization provided to
+        date?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 4
+      name: question3
+      label: How confident are you that hand hygiene practices have improved as a
+        result of the education programs?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: question4
+      label: What methods of hand hygiene have been implemented in your facility?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 6
+      name: question5
+      label: How frequently do hand hygiene audits occur?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: question6
+      label: What tools or resources are available to reinforce hand hygiene?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 8
+      name: question7
+      label: What opportunities are available to reinforce hand hygiene practices?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 9
+      name: question8
+      label: Is your facility participating in any hand hygiene certification or accreditation
+        programs?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 10
+      name: question9
+      label: Have you noticed any improvements in hand hygiene practices over the
+        last 6 months?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 11
+      name: question10
+      label: Have you noticed any changes in hand hygiene practices as a result of
+        the education program?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 12
+      name: question11
+      label: Have you noticed any changes in employee compliance with hand hygiene
+        practices over the last 6 months?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 13
+      name: question12
+      label: Have you noticed any reduction in hand hygiene related complaints or
+        concerns over the last 6 months?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 14
+      name: question13
+      label: Have you noticed any reduction in hand hygiene related infections over
+        the last 6 months?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 15
+      name: question14
+      label: Have you noticed any other benefits as a result of the hand hygiene education
+        program?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 16
+      name: question15
+      label: What other benefits as a result of the hand hygiene education program?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: question16
+      label: Are there any additional comments or concerns related to hand hygiene
+        practices?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: question17
+      label: Are there any other comments or concerns related to hand hygiene practices?
+      hint: null
+      type: text
+      options: []
+      required: false

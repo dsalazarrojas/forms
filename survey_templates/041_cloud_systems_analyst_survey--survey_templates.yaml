@@ -1,0 +1,249 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cloud Systems Analyst Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: respondent_email
+      label: Email Address
+      hint: Work email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: organization_name
+      label: Organization Name
+      hint: Company you work for
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_experience
+      label: -- Professional Experience --
+      hint: Your background and experience
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: years_in_role
+      label: Years as Cloud Systems Analyst
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: total_it_years
+      label: Total Years in IT
+      hint: Overall IT career length
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: primary_platform
+      label: Primary Cloud Platform Used
+      hint: null
+      type: select_one
+      options:
+      - AWS
+      - Microsoft Azure
+      - Google Cloud
+      - Multi-platform
+      - Hybrid
+      - Other
+      required: true
+    - id: 8
+      name: daily_responsibilities
+      label: Daily Responsibilities
+      hint: null
+      type: select_multiple
+      options:
+      - Infrastructure management
+      - Cost optimization
+      - Security and compliance
+      - Capacity planning
+      - Performance monitoring
+      - Vendor management
+      - Troubleshooting
+      - Documentation
+      required: true
+    - id: 9
+      name: section_satisfaction
+      label: -- Job Satisfaction --
+      hint: How satisfied are you in your role
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: overall_satisfaction
+      label: Overall Job Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 11
+      name: work_life_balance
+      label: Work-Life Balance
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Poor
+      - Very poor
+      required: true
+    - id: 12
+      name: career_growth
+      label: Career Growth Opportunities
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Limited
+      - None
+      required: true
+    - id: 13
+      name: section_challenges
+      label: -- Challenges and Pain Points --
+      hint: What challenges do you face
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: main_challenges
+      label: Main Challenges in Your Role
+      hint: null
+      type: select_multiple
+      options:
+      - Cost management
+      - Security and compliance
+      - Skill gaps
+      - Tool complexity
+      - Integration issues
+      - Vendor management
+      - Time constraints
+      - Documentation gaps
+      required: true
+    - id: 15
+      name: biggest_frustration
+      label: Biggest Frustration with Current Tools
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_skills
+      label: -- Skills and Development --
+      hint: Your technical skills and training
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: skill_gaps
+      label: Areas Where You Feel Skills Gap
+      hint: null
+      type: select_multiple
+      options:
+      - Advanced scripting
+      - Infrastructure as code
+      - DevOps practices
+      - Security architecture
+      - Cost optimization
+      - Machine learning
+      - Networking
+      - Database management
+      required: false
+    - id: 18
+      name: training_interest
+      label: Training or Development Areas Interested In
+      hint: null
+      type: select_multiple
+      options:
+      - Advanced cloud architecture
+      - Security certifications
+      - DevOps practices
+      - Python or scripting
+      - Kubernetes and containers
+      - Cost optimization
+      - Leadership skills
+      - Other
+      required: false
+    - id: 19
+      name: section_tools
+      label: -- Tools and Technologies --
+      hint: What tools are you using
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: infrastructure_tools
+      label: Infrastructure Tools You Use
+      hint: null
+      type: select_multiple
+      options:
+      - Terraform
+      - CloudFormation
+      - Ansible
+      - Chef
+      - Puppet
+      - Kubernetes
+      - Docker
+      - Jenkins
+      required: false
+    - id: 21
+      name: monitoring_tools
+      label: Monitoring and Observability Tools
+      hint: null
+      type: select_multiple
+      options:
+      - CloudWatch
+      - Azure Monitor
+      - Datadog
+      - New Relic
+      - Splunk
+      - Prometheus
+      - Grafana
+      - Other
+      required: false
+    - id: 22
+      name: section_recommendations
+      label: -- Recommendations --
+      hint: What would improve your role
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: tool_improvements
+      label: What Tool Improvements Would Help Most
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: employer_improvements
+      label: What Could Your Employer Do Better
+      hint: Support, resources, training, etc.
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback or suggestions
+      type: text
+      options: []
+      required: false

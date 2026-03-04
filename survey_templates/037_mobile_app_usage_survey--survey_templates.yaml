@@ -1,0 +1,144 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Mobile App Usage Survey
+    pages:
+    - id: 1
+      name: survey_intro
+      label: Mobile App Usage Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: mobile_app_used
+      label: Have you used a mobile app in the last 30 days?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Yes''}'
+      - '{''label'': False}'
+      required: false
+    - id: 3
+      name: frequency_used
+      label: How often do you use mobile apps?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Every day''}'
+      - '{''label'': ''Several times a week''}'
+      - '{''label'': ''Occasionally''}'
+      - '{''label'': ''Rarely''}'
+      - '{''label'': ''Never''}'
+      required: false
+    - id: 4
+      name: most_used_apps
+      label: Which of the following apps do you use most frequently?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Social media''}'
+      - '{''label'': ''Entertainment''}'
+      - '{''label'': ''Productivity''}'
+      - '{''label'': ''Gaming''}'
+      - '{''label'': ''Navigation''}'
+      required: false
+    - id: 5
+      name: why_used_apps
+      label: Why do you use mobile apps?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Convenience''}'
+      - '{''label'': ''Entertainment''}'
+      - '{''label'': ''Productivity''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: how_used_apps
+      label: What features do you usually look for when using a mobile app?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Navigation''}'
+      - '{''label'': ''Design''}'
+      - '{''label'': ''Performance''}'
+      - '{''label'': ''Functionality''}'
+      - '{''label'': ''User Interface''}'
+      required: false
+    - id: 7
+      name: app_expectations
+      label: What do you expect when using a mobile app?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Easy to use''}'
+      - '{''label'': ''Intuitive''}'
+      - '{''label'': ''Fast''}'
+      - '{''label'': ''Simple''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: app_dislikes
+      label: What do you dislike when using a mobile app?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Slow performance''}'
+      - '{''label'': ''Confusing design''}'
+      - '{''label'': ''Difficult to use''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 9
+      name: app_usage_time
+      label: How much time do you usually spend on mobile apps?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Less than 1 hour''}'
+      - '{''label'': ''1-2 hours''}'
+      - '{''label'': ''2-4 hours''}'
+      - '{''label'': ''4-6 hours''}'
+      - '{''label'': ''More than 6 hours''}'
+      required: false
+    - id: 10
+      name: app_usage_platforms
+      label: Which of the following platforms do you use to access mobile apps?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''iOS''}'
+      - '{''label'': ''Android''}'
+      - '{''label'': ''Both''}'
+      required: false
+    - id: 11
+      name: app_usage_device
+      label: What type of device do you use most frequently to access mobile apps?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Mobile phone''}'
+      - '{''label'': ''Tablet''}'
+      required: false
+    - id: 12
+      name: app_usage_device_type
+      label: What type of device do you typically use to access mobile apps?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Mobile phone''}'
+      - '{''label'': ''Tablet''}'
+      - '{''label'': ''Watch''}'
+      - '{''label'': ''Other''}'
+      required: false

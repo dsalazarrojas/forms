@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Interior Assessment Survey
+    pages:
+    - id: 1
+      name: vehicle_interior_assessment_survey
+      label: vehicle_interior_assessment_survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: interior_condition_rating
+      label: interior_condition_rating
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''very_good'', ''label'': ''Very Good''}'
+      - '{''id'': 2, ''name'': ''fair'', ''label'': ''Fair''}'
+      - '{''id'': 3, ''name'': ''average'', ''label'': ''Average''}'
+      - '{''id'': 4, ''name'': ''poor'', ''label'': ''Poor''}'
+      - '{''id'': 5, ''name'': ''very_poor'', ''label'': ''Very Poor''}'
+      required: false
+    - id: 3
+      name: interior_condition_comment
+      label: interior_condition_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: exterior_condition_rating
+      label: exterior_condition_rating
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''very_good'', ''label'': ''Very Good''}'
+      - '{''id'': 2, ''name'': ''fair'', ''label'': ''Fair''}'
+      - '{''id'': 3, ''name'': ''average'', ''label'': ''Average''}'
+      - '{''id'': 4, ''name'': ''poor'', ''label'': ''Poor''}'
+      - '{''id'': 5, ''name'': ''very_poor'', ''label'': ''Very Poor''}'
+      required: false
+    - id: 5
+      name: exterior_condition_comment
+      label: exterior_condition_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_model
+      label: vehicle_model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: mileage
+      label: mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: mileage_unit
+      label: mileage_unit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''miles'', ''label'': ''miles''}'
+      - '{''id'': 2, ''name'': ''kilometers'', ''label'': ''kilometers''}'
+      required: false
+    - id: 9
+      name: vin
+      label: vin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_color
+      label: vehicle_color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_year
+      label: vehicle_year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_year_of_purchase
+      label: vehicle_year_of_purchase
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_make
+      label: vehicle_make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_registration_status
+      label: vehicle_registration_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''registered'', ''label'': ''Registered''}'
+      - '{''id'': 2, ''name'': ''deregistered'', ''label'': ''Deregistered''}'
+      - '{''id'': 3, ''name'': ''pending_registration'', ''label'': ''Pending Registration''}'
+      required: false
+    - id: 15
+      name: vehicle_warranty_status
+      label: vehicle_warranty_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''active'', ''label'': ''Active''}'
+      - '{''id'': 2, ''name'': ''inactive'', ''label'': ''Inactive''}'
+      - '{''id'': 3, ''name'': ''pending_warranty'', ''label'': ''Pending Warranty''}'
+      required: false
+    - id: 16
+      name: vehicle_interior_type
+      label: vehicle_interior_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''standard'', ''label'': ''Standard''}'
+      - '{''id'': 2, ''name'': ''leather'', ''label'': ''Leather''}'
+      - '{''id'': 3, ''name'': ''premium'', ''label'': ''Premium''}'
+      - '{''id'': 4, ''name'': ''custom'', ''label'': ''Custom''}'
+      required: false
+    - id: 17
+      name: transmission_type
+      label: transmission_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''automatic'', ''label'': ''Automatic''}'
+      - '{''id'': 2, ''name'': ''manual'', ''label'': ''Manual''}'
+      - '{''id'': 3, ''name'': ''semi-automatic'', ''label'': ''Semi-Automatic''}'
+      required: false
+    - id: 18
+      name: engine_type
+      label: engine_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''gasoline'', ''label'': ''Gasoline''}'
+      - '{''id'': 2, ''name'': ''diesel'', ''label'': ''Diesel''}'
+      - '{''id'': 3, ''name'': ''hybrid'', ''label'': ''Hybrid''}'
+      - '{''id'': 4, ''name'': ''electric'', ''label'': ''Electric''}'
+      required: false
+    - id: 19
+      name: drive_type
+      label: drive_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''front_wheel_drive'', ''label'': ''Front Wheel Drive''}'
+      - '{''id'': 2, ''name'': ''rear_wheel_drive'', ''label'': ''Rear Wheel Drive''}'
+      - '{''id'': 3, ''name'': ''all_wheel_drive'', ''label'': ''All Wheel Drive''}'
+      required: false
+    - id: 20
+      name: interior_type
+      label: interior_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''cloth'', ''label'': ''Cloth''}'
+      - '{''id'': 2, ''name'': ''leather'', ''label'': ''Leather''}'
+      - '{''id'': 3, ''name'': ''vinyl'', ''label'': ''Vinyl''}'
+      required: false
+    - id: 21
+      name: airbag_status
+      label: airbag_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''label'': True}'
+      - '{''id'': 2, ''name'': False, ''label'': False}'
+      required: false
+    - id: 22
+      name: airbag_type
+      label: airbag_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''dual'', ''label'': ''Dual''}'
+      - '{''id'': 2, ''name'': ''single'', ''label'': ''Single''}'
+      - '{''id'': 3, ''name'': ''none'', ''label'': ''None''}'
+      required: false
+    - id: 23
+      name: airbag_count
+      label: airbag_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: airbag_location
+      label: airbag_location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''front'', ''label'': ''Front''}'
+      - '{''id'': 2, ''name'': ''rear'', ''label'': ''Rear''}'
+      required: false
+    - id: 25
+      name: airbag_condition
+      label: airbag_condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''good'', ''label'': ''Good''}'
+      - '{''id'': 2, ''name'': ''poor'', ''label'': ''Poor''}'
+      - '{''id'': 3, ''name'': ''average'', ''label'': ''Average''}'
+      - '{''id'': 4, ''name'': ''fair'', ''label'': ''Fair''}'
+      - '{''id'': 5, ''name'': ''very_poor'', ''label'': ''Very Poor''}'
+      required: false

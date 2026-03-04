@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: demographic_information_survey
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: birthdate
+      label: birthdate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: ethnicity
+      label: ethnicity
+      hint: null
+      type: select_one
+      options:
+      - Caucasian
+      - African American
+      - Asian
+      - Native American
+      - Hispanic or Latino
+      - Other
+      required: false
+    - id: 6
+      name: gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Other
+      required: false
+    - id: 7
+      name: marital_status
+      label: marital_status
+      hint: null
+      type: select_multiple
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      - Separated
+      required: false
+    - id: 8
+      name: education_level
+      label: education_level
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - Some College
+      - Bachelor's Degree
+      - Master's Degree
+      - Doctorate Degree
+      required: true
+    - id: 9
+      name: annual_income
+      label: annual_income
+      hint: null
+      type: number
+      options: []
+      required: false

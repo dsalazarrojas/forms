@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rule Of Law Awareness Quiz
+    pages:
+    - id: 1
+      name: intro
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: q1
+      label: What is the Rule of Law?
+      hint: null
+      type: select_one
+      options:
+      - The rule of law is a set of rules that govern a particular country or region.
+      - The rule of law is a set of principles that guide the actions of a government.
+      - The rule of law is a system of laws and regulations that protect individual
+        rights.
+      - The rule of law is a concept that refers to the idea of a just and impartial
+        application of the law.
+      required: false
+    - id: 3
+      name: q2
+      label: Who is most likely to be aware of the Rule of Law?
+      hint: null
+      type: select_one
+      options:
+      - Judges and lawyers
+      - Politicians and policymakers
+      - Community members and citizens
+      - Students and educators
+      required: false
+    - id: 4
+      name: q3
+      label: Which of the following is a key component of the Rule of Law?
+      hint: null
+      type: select_multiple
+      options:
+      - Separation of powers
+      - Independent judiciary
+      - Legislative supremacy
+      - Checks and balances
+      required: false
+    - id: 5
+      name: q4
+      label: What is the primary purpose of the Rule of Law?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: q5
+      label: How would you rate your confidence in the Rule of Law?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: submission
+      label: Submission
+      hint: null
+      type: time
+      options: []
+      required: false

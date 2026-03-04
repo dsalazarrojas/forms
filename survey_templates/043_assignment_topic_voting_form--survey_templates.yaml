@@ -1,0 +1,254 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Assignment Topic Voting Form
+    pages:
+      - id: 1
+        name: student_name
+        label: Your Name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: student_id
+        label: Student ID
+        hint: ID number
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email
+        label: Email Address
+        hint: For confirmation
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: course_name
+        label: Course Name
+        hint: Which course
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: course_section
+        label: Course Section
+        hint: Section number
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: instructor_name
+        label: Instructor Name
+        hint: Teacher
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: voting_period
+        label: Voting Period
+        hint: Which round
+        type: select_one
+        options:
+          - Round 1 - Initial Topics
+          - Round 2 - Final Selection
+          - Special Topic Vote
+          - Make-up Assignment
+        required: true
+      - id: 8
+        name: topic_preference_1
+        label: First Choice Topic
+        hint: Your top pick
+        type: select_one
+        options:
+          - Introduction to Programming
+          - Data Structures and Algorithms
+          - Web Development
+          - Database Systems
+          - Machine Learning Basics
+          - Cybersecurity Fundamentals
+          - Mobile App Development
+          - Cloud Computing
+        required: true
+      - id: 9
+        name: topic_preference_2
+        label: Second Choice Topic
+        hint: Your backup
+        type: select_one
+        options:
+          - Introduction to Programming
+          - Data Structures and Algorithms
+          - Web Development
+          - Database Systems
+          - Machine Learning Basics
+          - Cybersecurity Fundamentals
+          - Mobile App Development
+          - Cloud Computing
+        required: true
+      - id: 10
+        name: topic_preference_3
+        label: Third Choice Topic
+        hint: Third option
+        type: select_one
+        options:
+          - Introduction to Programming
+          - Data Structures and Algorithms
+          - Web Development
+          - Database Systems
+          - Machine Learning Basics
+          - Cybersecurity Fundamentals
+          - Mobile App Development
+          - Cloud Computing
+        required: false
+      - id: 11
+        name: preference_reason
+        label: Why Did You Choose These Topics
+        hint: Explain your choices
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: topic_suggestion
+        label: Do You Have a Topic Suggestion
+        hint: Propose new topic
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: true
+      - id: 13
+        name: suggested_topic
+        label: Your Suggested Topic
+        hint: Describe it
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: suggested_topic_rationale
+        label: Why Should This Topic Be Added
+        hint: Justify suggestion
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: experience_level
+        label: Your Experience Level with Topics
+        hint: How familiar
+        type: select_one
+        options:
+          - Beginner - New to All Topics
+          - Some Experience - Familiar with Some
+          - Intermediate - Comfortable with Most
+          - Advanced - Experienced in All
+        required: true
+      - id: 16
+        name: learning_goals
+        label: What Do You Hope to Learn
+        hint: Your objectives
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: project_preference
+        label: Preferred Project Type
+        hint: How to demonstrate learning
+        type: select_one
+        options:
+          - Individual Project
+          - Group Project
+          - Research Paper
+          - Practical Application
+          - Presentation
+          - Any is Fine
+        required: true
+      - id: 18
+        name: group_size_preference
+        label: Preferred Group Size
+        hint: If group project
+        type: select_one
+        options:
+          - Work Alone
+          - Pair - 2 Students
+          - Small Group - 3 to 4
+          - Large Group - 5 or More
+          - No Preference
+        required: true
+      - id: 19
+        name: timeline_preference
+        label: Preferred Timeline
+        hint: How long for assignment
+        type: select_one
+        options:
+          - Short - 1 to 2 Weeks
+          - Medium - 3 to 4 Weeks
+          - Long - 5 to 8 Weeks
+          - Semester Long Project
+        required: true
+      - id: 20
+        name: difficulty_preference
+        label: Preferred Difficulty Level
+        hint: Challenge level
+        type: select_one
+        options:
+          - Foundational - Build Basics
+          - Moderate - Standard Challenge
+          - Advanced - Push My Limits
+          - Open to Any Level
+        required: true
+      - id: 21
+        name: availability_for_presentation
+        label: Available for In-Class Presentation
+        hint: Can you present
+        type: select_one
+        options:
+          - "Yes - Any Day"
+          - "Yes - Specific Days"
+          - "Prefer Not to Present"
+        required: true
+      - id: 22
+        name: presentation_days
+        label: Which Days Work for Presentations
+        hint: If applicable
+        type: select_multiple
+        options:
+          - Monday
+          - Tuesday
+          - Wednesday
+          - Thursday
+          - Friday
+        required: false
+      - id: 23
+        name: additional_comments
+        label: Additional Comments or Requests
+        hint: Anything else
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: vote_acknowledgment
+        label: I Understand My Vote Helps Shape the Assignment
+        hint: Acknowledge purpose
+        type: select_one
+        options:
+          - "Yes I Understand"
+          - "No"
+        required: true
+      - id: 25
+        name: vote_date
+        label: Vote Date
+        hint: Today date
+        type: date
+        options: []
+        required: true

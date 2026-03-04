@@ -1,0 +1,128 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Agent Multiple Choice Quiz
+    pages:
+    - id: 1
+      name: header
+      label: -- Real Estate Knowledge Quiz --
+      hint: test your industry knowledge and stay sharp
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: agent_name
+      label: Agent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: agent_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: quiz_header
+      label: -- Quiz Questions --
+      hint: select the best answer for each question
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: q1_cma
+      label: What is the primary purpose of a Comparative Market Analysis - CMA?
+      hint: null
+      type: select_one
+      options:
+      - To determine the exact tax value
+      - To estimate a property's market value
+      - To conduct a structural inspection
+      - To verify legal ownership
+      required: true
+    - id: 6
+      name: q2_disclosure
+      label: Which document is legally required to disclose property defects?
+      hint: null
+      type: select_one
+      options:
+      - Listing Agreement
+      - Seller's Property Disclosure Statement
+      - Purchase and Sale Agreement
+      - Title Insurance Policy
+      required: true
+    - id: 7
+      name: q3_escrow
+      label: What does the term Escrow refer to in a real estate transaction?
+      hint: null
+      type: select_one
+      options:
+      - A type of building material
+      - A neutral third party holding funds
+      - The process of landscaping
+      - A legal eviction notice
+      required: true
+    - id: 8
+      name: q4_commission
+      label: In most regions, who typically pays the real estate commission?
+      hint: null
+      type: select_one
+      options:
+      - The Buyer
+      - The Seller
+      - The Lender
+      - The Local Government
+      required: true
+    - id: 9
+      name: q5_duration
+      label: What is the standard duration of an Exclusive Right to Sell listing agreement?
+      hint: null
+      type: select_one
+      options:
+      - 30 days
+      - 3 to 6 months
+      - 1 year
+      - Indefinite
+      required: true
+    - id: 10
+      name: q6_fair_housing
+      label: Which of the following is NOT a protected class under the Fair Housing Act?
+      hint: null
+      type: select_one
+      options:
+      - Race
+      - Religion
+      - Political Affiliation
+      - Familial Status
+      required: true
+    - id: 11
+      name: q7_lien
+      label: What is a Lien on a property?
+      hint: null
+      type: select_one
+      options:
+      - A decorative fence
+      - A legal claim or encumbrance for debt
+      - A type of property tax
+      - A survey boundary marker
+      required: true
+    - id: 12
+      name: quiz_footer
+      label: Thank you for completing the quiz. Your results will be emailed to you.
+      hint: null
+      type: note
+      options: []
+      required: false

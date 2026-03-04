@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Production Site Size Survey
+    pages:
+    - id: 1
+      name: production_site_size_survey
+      label: Production Site Size Survey
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: facility_id
+      label: Facility ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: production_site_size
+      label: Production Site Size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: production_site_type
+      label: Production Site Type
+      hint: null
+      type: select_one
+      options:
+      - small
+      - medium
+      - large
+      required: true
+    - id: 5
+      name: production_site_capacity
+      label: Production Site Capacity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: production_site_location
+      label: Production Site Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: production_site_description
+      label: Production Site Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: production_site_status
+      label: Production Site Status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      required: true
+    - id: 9
+      name: facility_manager
+      label: Facility Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: production_site_size_other
+      label: Other (please specify)
+      hint: Please specify
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: production_site_size_other_other
+      label: Other Other
+      hint: Please specify
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post Presentation Survey
+    pages:
+    - id: 1
+      name: post_presentation_survey_form
+      label: presentation_survey_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_questions
+      label: feedback_questions
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Strongly Disagree''}'
+      - '{''value'': ''Somewhat Disagree''}'
+      - '{''value'': ''Not sure''}'
+      - '{''value'': ''Somewhat Agree''}'
+      - '{''value'': ''Strongly Agree''}'
+      required: true
+    - id: 3
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments_and_suggestions
+      label: comments_and_suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: comments_and_suggestions_2
+      label: comments_and_suggestions_2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: comments_and_suggestions_3
+      label: comments_and_suggestions_3
+      hint: null
+      type: note
+      options: []
+      required: false

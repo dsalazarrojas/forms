@@ -1,0 +1,263 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clients Feedback Survey Form
+    pages:
+    - id: 1
+      name: intro_header
+      label: Customer Feedback Survey
+      hint: We would love to hear from you about your experience
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_info
+      label: -- Your Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: your_name
+      label: Your Name
+      hint: Optional - for follow-up if needed
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: your_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: your_phone
+      label: Phone Number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: purchase_date
+      label: When Did You Purchase or Use Our Service?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: satisfaction_section
+      label: -- Overall Satisfaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: overall_satisfaction
+      label: How Satisfied Are You with Your Purchase or Service?
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 9
+      name: satisfaction_rating
+      label: Rate Your Overall Experience - 1 to 10
+      hint: 1 = Very Poor, 10 = Excellent
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: expectations_section
+      label: -- Expectations vs Reality --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: met_expectations
+      label: Did Our Product or Service Meet Your Expectations?
+      hint: null
+      type: select_one
+      options:
+      - Far Below Expectations
+      - Below Expectations
+      - Met Expectations
+      - Exceeded Expectations
+      - Far Exceeded Expectations
+      required: true
+    - id: 12
+      name: value_section
+      label: -- Value and Price --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: value_for_money
+      label: Did You Receive Good Value for Your Money?
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 14
+      name: pricing_satisfaction
+      label: Satisfaction with Pricing
+      hint: null
+      type: select_one
+      options:
+      - Very Unsatisfied
+      - Unsatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: false
+    - id: 15
+      name: quality_section
+      label: -- Quality and Performance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: product_quality
+      label: Quality of Product or Service
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 17
+      name: durability
+      label: Product Durability or Service Reliability
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: false
+    - id: 18
+      name: customer_service_section
+      label: -- Customer Service --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: service_quality
+      label: Quality of Customer Service
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 20
+      name: response_time
+      label: Speed of Response to Your Inquiries
+      hint: null
+      type: select_one
+      options:
+      - Very Slow
+      - Slow
+      - Acceptable
+      - Fast
+      - Very Fast
+      required: true
+    - id: 21
+      name: staff_helpfulness
+      label: Staff Was Helpful and Professional
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 22
+      name: issue_resolution
+      label: Issues or Concerns Were Resolved Satisfactorily
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: false
+    - id: 23
+      name: loyalty_section
+      label: -- Loyalty and Recommendation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: recommend_likelihood
+      label: How Likely Are You to Recommend Us? - 0 to 10
+      hint: 0 = Not at all, 10 = Extremely likely
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: repeat_purchase
+      label: Would You Purchase from Us Again?
+      hint: null
+      type: select_one
+      options:
+      - Definitely Not
+      - Probably Not
+      - Maybe
+      - Probably Yes
+      - Definitely Yes
+      required: true
+    - id: 26
+      name: feedback_section
+      label: -- Comments and Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: what_we_did_well
+      label: What Did We Do Well?
+      hint: What did you like most about us?
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: what_to_improve
+      label: What Could We Improve?
+      hint: How can we better serve you?
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: specific_feedback
+      label: Specific Feedback or Comments
+      hint: Any additional thoughts?
+      type: text
+      options: []
+      required: false

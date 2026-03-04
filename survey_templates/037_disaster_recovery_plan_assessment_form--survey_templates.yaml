@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disaster Recovery Plan Assessment Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_criticality
+      label: Business Criticality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: recovery_planning
+      label: Recovery Planning
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: incident_response
+      label: Incident Response
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: disaster_recovery_plan
+      label: Disaster Recovery Plan
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: data_loss
+      label: Data Loss
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: recovery_time
+      label: Recovery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: business_continuity
+      label: Business Continuity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: critical_assets
+      label: Critical Assets
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 10
+      name: business_criticality_score
+      label: Business Criticality Score
+      hint: null
+      type: number
+      options: []
+      required: false

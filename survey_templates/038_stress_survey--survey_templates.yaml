@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stress Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: how_stressed_do_you_feel
+      label: how_stressed_do_you_feel
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: do_you_find_yourself_feeling
+      label: do_you_find_yourself_feeling
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: how_do_you_feel
+      label: how_do_you_feel
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: how_much_control_do_you_feel
+      label: how_much_control_do_you_feel
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: how_stressed_do_you_feel
+      label: how_stressed_do_you_feel
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: do_you_have_any
+      label: do_you_have_any
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: how_do_you_feel
+      label: how_do_you_feel
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: what_do_you_want
+      label: what_do_you_want
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: conclusion
+      label: conclusion
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

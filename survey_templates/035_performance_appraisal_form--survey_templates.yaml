@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Appraisal Form
+    pages:
+    - id: 1
+      name: performance_appraisal_form
+      label: Performance Appraisal Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: Briefly describe the employees performance
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Survey Templates
+      - Employment Forms
+      required: false
+    - id: 5
+      name: category
+      label: Survey Templates, Employment Forms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: assigned_tool
+      label: Assigned Tool
+      hint: Select assigned tool
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 7
+      name: output_file
+      label: Output File
+      hint: Enter the output file name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

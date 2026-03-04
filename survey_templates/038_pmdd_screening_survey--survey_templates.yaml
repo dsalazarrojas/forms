@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: PMDD Screening Survey
+    pages:
+    - id: 1
+      name: patient_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_multiple
+      options:
+      - High Blood Pressure
+      - Diabetes
+      - Allergies
+      - Cancer
+      required: false
+    - id: 8
+      name: medication_list
+      label: Medication List
+      hint: null
+      type: select_multiple
+      options:
+      - Aspirin
+      - Ibuprofen
+      - Acetaminophen
+      - Lisinopril
+      - Fosinopril
+      - Amlodipine
+      required: false
+    - id: 9
+      name: medical_provider
+      label: Primary Care Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: screening_date
+      label: Screening Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_history_notes
+      label: Medical History Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false

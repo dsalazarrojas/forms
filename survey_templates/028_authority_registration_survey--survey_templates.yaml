@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Authority Registration Survey
+    pages:
+    - id: 1
+      name: survey_date
+      label: Survey Date
+      hint: When you are completing this survey
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: Contact Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email Address
+      hint: Your email contact
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_name
+      label: Organization Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: authority_type
+      label: Type of Authority
+      hint: What type of authority do you represent
+      type: select_one
+      options:
+      - Government Agency
+      - Regulatory Body
+      - Professional Association
+      - Industry Authority
+      - Non-Profit Organization
+      - Educational Institution
+      - Private Organization
+      - Other
+      required: true
+    - id: 7
+      name: authority_level
+      label: Authority Level
+      hint: At what level do you operate
+      type: select_one
+      options:
+      - Local
+      - Regional
+      - State/Provincial
+      - National
+      - International
+      required: true
+    - id: 8
+      name: position_title
+      label: Position Title
+      hint: Your official title
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: years_in_position
+      label: Years in Current Position
+      hint: How long in this role
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: area_of_responsibility
+      label: Area of Responsibility
+      hint: What do you oversee or regulate
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: jurisdiction_coverage
+      label: Geographic Jurisdiction Coverage
+      hint: Areas of jurisdiction
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: primary_functions
+      label: Primary Functions of Your Authority
+      hint: Main responsibilities
+      type: select_multiple
+      options:
+      - Regulation and Compliance
+      - Licensing
+      - Enforcement
+      - Advisory Services
+      - Research and Analysis
+      - Public Education
+      - Standard Setting
+      - Other
+      required: true
+    - id: 13
+      name: stakeholder_engagement
+      label: Stakeholder Engagement Level
+      hint: How involved are stakeholders
+      type: select_one
+      options:
+      - Highly Collaborative
+      - Moderately Collaborative
+      - Minimal Engagement
+      - Mainly Regulatory
+      required: true
+    - id: 14
+      name: regulatory_authority
+      label: Regulatory Authority Level
+      hint: How much regulatory power do you have
+      type: select_one
+      options:
+      - Full Regulatory Authority
+      - Partial Authority
+      - Advisory Only
+      - No Direct Authority
+      required: true
+    - id: 15
+      name: enforcement_mechanisms
+      label: Enforcement Mechanisms Available
+      hint: What enforcement tools do you have
+      type: select_multiple
+      options:
+      - Fines and Penalties
+      - Licensing Actions
+      - Cease and Desist Orders
+      - Injunctions
+      - Public Warnings
+      - Other Actions
+      required: false
+    - id: 16
+      name: transparency_level
+      label: Transparency and Accountability Measures
+      hint: How transparent are you
+      type: select_one
+      options:
+      - Highly Transparent
+      - Moderately Transparent
+      - Limited Transparency
+      - Low Transparency
+      required: true
+    - id: 17
+      name: public_consultation
+      label: Public Consultation Process
+      hint: Do you conduct public consultations
+      type: select_one
+      options:
+      - Yes - Regular Consultations
+      - Yes - Ad Hoc
+      - Limited - When Required
+      - No - Not Conducted
+      required: true
+    - id: 18
+      name: performance_metrics
+      label: Do You Measure Performance
+      hint: Do you track performance metrics
+      type: select_one
+      options:
+      - Yes - Comprehensive
+      - Yes - Some Metrics
+      - Limited Measurement
+      - No - Not Tracked
+      required: true
+    - id: 19
+      name: effectiveness_rating
+      label: Rate Your Authority Effectiveness
+      hint: How effective is your organization
+      type: select_one
+      options:
+      - Very Effective
+      - Effective
+      - Moderately Effective
+      - Needs Improvement
+      - Ineffective
+      required: true
+    - id: 20
+      name: main_challenges
+      label: Main Challenges Faced
+      hint: What are your biggest challenges
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: improvement_opportunities
+      label: Improvement Opportunities
+      hint: How could operations improve
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: feedback_frequency
+      label: Preferred Feedback Frequency
+      hint: How often should we contact you
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      - As Needed
+      - No Further Contact
+      required: true
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,207 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Sales Workflow Impact Survey
+    pages:
+    - id: 1
+      name: respondent_details_section
+      label: "--- Respondent Details ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Name (Optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: industry
+      label: Industry
+      hint: null
+      type: select_one
+      options:
+      - Technology/SaaS
+      - Manufacturing
+      - Healthcare
+      - Finance/Insurance
+      - Retail/E-commerce
+      - Real Estate
+      - Professional Services
+      required: true
+    - id: 5
+      name: job_role
+      label: Job Role
+      hint: null
+      type: select_one
+      options:
+      - Sales Executive
+      - Sales Manager
+      - Sales Development Rep (SDR)
+      - Sales Operations
+      - Marketing/Enablement
+      required: true
+    - id: 6
+      name: ai_tool_usage_section
+      label: "--- AI Tool Usage ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: ai_sales_tools
+      label: AI Sales Tools Currently Used
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - AI-powered CRM (e.g., Salesforce Einstein)
+      - Lead Generation & Scoring AI
+      - Conversational Intelligence (e.g., Gong, Chorus)
+      - Automated Email/Follow-up AI
+      - Sales Forecasting AI
+      - Chatbots for Inbound Leads
+      required: true
+    - id: 8
+      name: implementation_duration
+      label: How long has AI been part of your sales workflow?
+      hint: null
+      type: select_one
+      options:
+      - Less than 3 months
+      - 3 to 6 months
+      - 6 to 12 months
+      - Over 1 year
+      required: true
+    - id: 9
+      name: workflow_impact_section
+      label: "--- Workflow Impact ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: lead_qualification_impact
+      label: Impact on Lead Qualification Speed
+      hint: null
+      type: select_one
+      options:
+      - Highly Improved
+      - Improved
+      - No Change
+      - Slightly Slower
+      - Significantly Slower
+      required: true
+    - id: 11
+      name: forecasting_accuracy_impact
+      label: Impact on Sales Forecasting Accuracy
+      hint: null
+      type: select_one
+      options:
+      - Much More Accurate
+      - More Accurate
+      - No Change
+      - Less Accurate
+      required: true
+    - id: 12
+      name: data_entry_time_saved
+      label: Manual data entry time saved weekly (hours)
+      hint: null
+      type: select_one
+      options:
+      - None
+      - 1-2 hours
+      - 3-5 hours
+      - 5-10 hours
+      - 10+ hours
+      required: true
+    - id: 13
+      name: sales_cycle_length_impact
+      label: Impact on overall sales cycle length
+      hint: null
+      type: select_one
+      options:
+      - Significantly Shorter
+      - Shorter
+      - No Change
+      - Longer
+      required: true
+    - id: 14
+      name: customer_interaction_quality
+      label: Impact on customer interaction quality
+      hint: null
+      type: select_one
+      options:
+      - Significantly Better
+      - Slightly Better
+      - No Change
+      - Slightly Worse
+      required: true
+    - id: 15
+      name: challenges_feedback_section
+      label: "--- Challenges & Feedback ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: integration_challenges
+      label: Biggest Challenges faced with AI integration
+      hint: Select top 3 challenges.
+      type: select_multiple
+      options:
+      - Integration with existing tech stack
+      - Team training & adoption
+      - Data privacy/security concerns
+      - High cost of tools
+      - Inaccurate AI outputs
+      - Lack of transparency (Black box)
+      required: false
+    - id: 17
+      name: team_satisfaction
+      label: Overall team satisfaction with AI tools
+      hint: Rate from 1 (Low) to 5 (High).
+      type: select_one
+      options:
+      - "1"
+      - "2"
+      - "3"
+      - "4"
+      - "5"
+      required: true
+    - id: 18
+      name: improvement_suggestions
+      label: Suggestions for improving AI sales workflows
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: future_investment_plans
+      label: Do you plan to increase AI tool investment in the next year?
+      hint: null
+      type: select_one
+      options:
+      - "Yes"
+      - "No"
+      - Unsure/Under Review
+      required: true

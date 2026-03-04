@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Services Client Satisfaction Survey
+    pages:
+    - id: 1
+      name: intro
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: services
+      label: Services Used
+      hint: Please select all the services you have used.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact
+      label: Contact
+      hint: null
+      type: select_multiple
+      options:
+      - Today
+      - Yesterday
+      - Later
+      required: true
+    - id: 8
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: services_optional
+      label: More Services
+      hint: null
+      type: select_multiple
+      options:
+      - Loan
+      - Insurance
+      - Accounting
+      required: false
+    - id: 12
+      name: services_optional_2
+      label: More Services (2)
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

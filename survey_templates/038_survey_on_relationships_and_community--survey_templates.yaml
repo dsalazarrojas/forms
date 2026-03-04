@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Survey On Relationships And Community
+    pages:
+    - id: 1
+      name: survey_on_relationships_and_community
+      label: relationships
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: community
+      label: community
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: relationships_and_community
+      label: relationships_and_community
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: organization
+      label: organization
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: survey_gathering
+      label: gathering
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: community_engagement
+      label: engagement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: survey_improving
+      label: improving
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

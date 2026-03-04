@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personality Research Form
+    pages:
+    - id: 1
+      name: page_1
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_2
+      label: Section 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: page_3
+      label: Section 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: page_4
+      label: Section 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: page_5
+      label: Section 4
+      hint: Please select all that apply.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: page_6
+      label: Section 5
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: page_7
+      label: Section 6
+      hint: Please enter the year and month of your birthday in the format YYYY-MM.
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: page_8
+      label: Section 7
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: page_9
+      label: Section 8
+      hint: Please enter a valid phone number in the format XXX-XXX-XXXX.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: page_10
+      label: Section 9
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: page_11
+      label: Section 10
+      hint: Please enter a brief description of your current mood.
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: page_12
+      label: Section 11
+      hint: null
+      type: number
+      options: []
+      required: false

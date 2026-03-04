@@ -1,0 +1,223 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bar Build Project Survey
+    pages:
+      - id: 1
+        name: survey_date
+        label: Survey Date
+        hint: Date of this survey
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: project_name
+        label: Project Name
+        hint: Name of the bar build project
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: establishment_name
+        label: Establishment Name
+        hint: Name of the bar or restaurant
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: location
+        label: Project Location
+        hint: Address of the project
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: respondent_name
+        label: Your Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: respondent_role
+        label: Your Role
+        hint: Your position or role
+        type: select_one
+        options:
+          - Owner
+          - Manager
+          - Project Manager
+          - Contractor
+          - Architect
+          - Designer
+          - Other
+        required: true
+      - id: 7
+        name: respondent_email
+        label: Email Address
+        hint: Your contact email
+        type: email
+        options: []
+        required: true
+      - id: 8
+        name: project_start_date
+        label: Project Start Date
+        hint: When did the project begin?
+        type: date
+        options: []
+        required: true
+      - id: 9
+        name: project_completion_date
+        label: Project Completion Date
+        hint: When was the project completed?
+        type: date
+        options: []
+        required: true
+      - id: 10
+        name: on_schedule
+        label: Was Project Completed On Schedule?
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - Slightly Delayed
+          - Significantly Delayed
+        required: true
+      - id: 11
+        name: on_budget
+        label: Was Project Completed On Budget?
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - Slightly Over
+          - Significantly Over
+        required: true
+      - id: 12
+        name: scope_changes
+        label: Were There Scope Changes?
+        hint: Were changes made during project?
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - Minimal Changes
+        required: false
+      - id: 13
+        name: contractor_performance
+        label: Overall Contractor Performance
+        hint: Rate the contractor
+        type: select_one
+        options:
+          - "1 - Poor"
+          - "2 - Fair"
+          - "3 - Good"
+          - "4 - Very Good"
+          - "5 - Excellent"
+        required: true
+      - id: 14
+        name: workmanship_quality
+        label: Quality of Workmanship
+        hint: Rate the work quality
+        type: select_one
+        options:
+          - "1 - Poor"
+          - "2 - Fair"
+          - "3 - Good"
+          - "4 - Very Good"
+          - "5 - Excellent"
+        required: true
+      - id: 15
+        name: communication_quality
+        label: Communication and Responsiveness
+        hint: How was their communication?
+        type: select_one
+        options:
+          - "1 - Poor"
+          - "2 - Fair"
+          - "3 - Good"
+          - "4 - Very Good"
+          - "5 - Excellent"
+        required: true
+      - id: 16
+        name: timeliness
+        label: Timeliness and Punctuality
+        hint: Were they on time?
+        type: select_one
+        options:
+          - "1 - Poor"
+          - "2 - Fair"
+          - "3 - Good"
+          - "4 - Very Good"
+          - "5 - Excellent"
+        required: true
+      - id: 17
+        name: safety_compliance
+        label: Safety and Compliance
+        hint: Safety standards maintained?
+        type: select_one
+        options:
+          - "1 - Poor"
+          - "2 - Fair"
+          - "3 - Good"
+          - "4 - Very Good"
+          - "5 - Excellent"
+        required: true
+      - id: 18
+        name: problem_resolution
+        label: Problem Resolution
+        hint: How well were issues resolved?
+        type: select_one
+        options:
+          - "1 - Poor"
+          - "2 - Fair"
+          - "3 - Good"
+          - "4 - Very Good"
+          - "5 - Excellent"
+        required: true
+      - id: 19
+        name: issues_encountered
+        label: Any Issues or Problems Encountered?
+        hint: Describe any problems
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: recommendation_likelihood
+        label: Would You Recommend This Contractor?
+        hint: null
+        type: select_one
+        options:
+          - Definitely Recommend
+          - Probably Recommend
+          - Unsure
+          - Probably Not
+          - Would Not Recommend
+        required: true
+      - id: 21
+        name: improvement_suggestions
+        label: Areas for Improvement
+        hint: What could they improve?
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback?
+        type: text
+        options: []
+        required: false

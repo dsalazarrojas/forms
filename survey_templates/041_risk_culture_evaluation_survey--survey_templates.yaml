@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Risk Culture Evaluation Survey
+    pages:
+    - id: 1
+      name: intro
+      label: Risk Culture Evaluation Survey Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: risk_awareness
+      label: risk_awareness
+      hint: null
+      type: select_one
+      options:
+      - Risk Informed
+      - Risk Informed
+      - Risk Informed
+      required: false
+    - id: 3
+      name: risk_reporting
+      label: risk_reporting
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: improvement_ideas
+      label: Improvement Ideas
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: risk_culture_score
+      label: Risk Culture Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: risk_compliance
+      label: risk_compliance
+      hint: null
+      type: select_one
+      options:
+      - Risk Informed
+      - Somewhat Informed
+      - Not Informed
+      required: false
+    - id: 7
+      name: reporting_comfort
+      label: reporting_comfort
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: improvement_action
+      label: Improvement Action
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: risk_informed_percentage
+      label: Risk Informed Percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: risk_reporting_confidence
+      label: reporting_confidence
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Training Program Evaluation Questionnaire
+    pages:
+    - id: 1
+      name: program_name
+      label: what_is_the_name_of_the_training_program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_length
+      label: how_long_was_the_training_program
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: overall_rating
+      label: rate_the_program
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction_level
+      label: how_satisfied_are_you_with_the_program
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Very Satisfied''}'
+      - '{''value'': ''Somewhat Satisfied''}'
+      - '{''value'': ''Neutral''}'
+      - '{''value'': ''Somewhat Dissatisfied''}'
+      - '{''value'': ''Very Dissatisfied''}'
+      required: false
+    - id: 5
+      name: feedback
+      label: do_you_have_any_additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_completed
+      label: date_completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_completed
+      label: time_completed
+      hint: null
+      type: time
+      options: []
+      required: false

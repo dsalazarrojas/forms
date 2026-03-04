@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skincare Routine Finder Quiz
+    pages:
+    - id: 1
+      name: intro_page
+      label: Welcome to the Skincare Routine Finder Quiz!
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: skin_type
+      label: What is your skin type?
+      hint: Please select your skin type from the options below.
+      type: select_one
+      options:
+      - '{''label'': ''Normal''}'
+      - '{''label'': ''Dry''}'
+      - '{''label'': ''Oily''}'
+      - '{''label'': ''Combination''}'
+      - '{''label'': ''Sensitive''}'
+      required: false
+    - id: 3
+      name: skin_concerns
+      label: What are your skin concerns?
+      hint: Choose the concerns that apply to you.
+      type: select_multiple
+      options:
+      - '{''label'': ''Acne''}'
+      - '{''label'': ''Aging''}'
+      - '{''label'': ''Hyper-pigmentation''}'
+      - '{''label'': ''Irritation''}'
+      - '{''label'': ''Redness''}'
+      required: false
+    - id: 4
+      name: product_preferences
+      label: What are your product preferences?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: age
+      label: What is your age?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: time_of_day
+      label: At what time of day do you do your skincare routine?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: routine_frequency
+      label: How often do you perform your skincare routine?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Morning and Night''}'
+      - '{''label'': ''Morning''}'
+      - '{''label'': ''Night''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: products_used
+      label: Which products do you currently use?
+      hint: Please enter any products you currently use.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: recommended_products
+      label: What products would you be interested in?
+      hint: Please enter any products you'd be interested in.
+      type: text
+      options: []
+      required: false

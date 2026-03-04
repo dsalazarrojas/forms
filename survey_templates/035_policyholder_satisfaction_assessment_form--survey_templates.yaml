@@ -1,0 +1,250 @@
+inputSchema:
+  type: object
+  properties:
+    title: Policyholder Satisfaction Assessment Form
+    pages:
+    - id: 1
+      name: service_quality
+      label: What is your overall satisfaction with our service quality?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 2
+      name: communication
+      label: How do you rate our communication during the policyholder journey?
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 3
+      name: policyholder_experience
+      label: What is your overall policyholder experience?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction_level
+      label: What level of satisfaction do you currently have with our service?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: time_spent
+      label: How much time do you spend on our services?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: communication_channel
+      label: Which communication channel do you prefer to use for contacting us?
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Chat
+      - In-person
+      required: false
+    - id: 7
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: feedback
+      label: Do you have any feedback for us?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Your Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: Your Phone Number
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: policyholder_since
+      label: How long have you been our policyholder?
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-5 years
+      - 5-10 years
+      - More than 10 years
+      required: false
+    - id: 14
+      name: reason_not_satisfied
+      label: What would be the reason for not being satisfied?
+      hint: null
+      type: select_multiple
+      options:
+      - Quality of service
+      - Cost
+      - Communication
+      - Other
+      required: false
+    - id: 15
+      name: policyholder_renewal
+      label: How likely are you to renew our policy?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 16
+      name: policyholder_recommend
+      label: Would you recommend our policy?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 17
+      name: policyholder_satisfied
+      label: Are you satisfied with our service?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 18
+      name: policyholder_referrals
+      label: How likely are you to refer our policy to others?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 19
+      name: policyholder_satisfaction
+      label: How satisfied are you with our policyholders?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 20
+      name: policyholder_satisfaction_level
+      label: What is your level of satisfaction with our services?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 21
+      name: policyholder_referrals_level
+      label: How likely are you to refer our policy to others?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 22
+      name: policyholder_satisfaction_score
+      label: What is your overall satisfaction score with our policyholders?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 23
+      name: policyholder_satisfaction_score_level
+      label: What is your level of satisfaction score with our policyholders?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 24
+      name: policyholder_service_quality
+      label: How would you rate our policy service quality?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 25
+      name: policyholder_service_quality_level
+      label: What is your level of policy service quality?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false

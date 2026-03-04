@@ -1,0 +1,299 @@
+inputSchema:
+  type: object
+  properties:
+    title: Report Generation Survey
+    pages:
+    - id: 1
+      name: report_generation_survey
+      label: Report Generation Survey
+      hint: null
+      type: select_one
+      options:
+      - Report is clear and concise
+      - Report is unclear and confusing
+      - Report is too long and unnecessary
+      - Report is too short and lacking
+      - Other (please specify)
+      required: true
+    - id: 2
+      name: report_usefulness
+      label: Report Usefulness
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: report_usefulness_scale
+      label: Report Usefulness Scale
+      hint: null
+      type: select_one
+      options:
+      - Very useful
+      - Somewhat useful
+      - Neutral
+      - Somewhat not useful
+      - Not useful at all
+      required: true
+    - id: 4
+      name: report_frequency
+      label: Report Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Other (please specify)
+      required: true
+    - id: 5
+      name: report_format
+      label: Report Format
+      hint: null
+      type: select_one
+      options:
+      - Word Document
+      - Excel Spreadsheet
+      - PowerPoint Presentation
+      - PDF
+      - Other (please specify)
+      required: true
+    - id: 6
+      name: reporting_channels
+      label: Reporting Channels
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Chat
+      - Mobile App
+      - Other (please specify)
+      required: false
+    - id: 7
+      name: reporting_frequency_scale
+      label: Reporting Frequency Scale
+      hint: null
+      type: select_one
+      options:
+      - Very frequently
+      - Somewhat frequently
+      - Neutral
+      - Somewhat not frequently
+      - Not frequently at all
+      required: false
+    - id: 8
+      name: reporting_channels_scale
+      label: Reporting Channels Scale
+      hint: null
+      type: select_one
+      options:
+      - Very frequently
+      - Somewhat frequently
+      - Neutral
+      - Somewhat not frequently
+      - Not frequently at all
+      required: false
+    - id: 9
+      name: report_clarity_scale
+      label: Report Clarity Scale
+      hint: null
+      type: select_one
+      options:
+      - Very clear
+      - Somewhat clear
+      - Neutral
+      - Somewhat unclear
+      - Not clear at all
+      required: false
+    - id: 10
+      name: report_usefulness_scale_2
+      label: Report Usefulness Scale 2
+      hint: null
+      type: select_one
+      options:
+      - Very useful
+      - Somewhat useful
+      - Neutral
+      - Somewhat not useful
+      - Not useful at all
+      required: false
+    - id: 11
+      name: report_frequency_scale
+      label: Report Frequency Scale
+      hint: null
+      type: select_one
+      options:
+      - Very frequent
+      - Somewhat frequent
+      - Neutral
+      - Somewhat not frequent
+      - Not frequent at all
+      required: false
+    - id: 12
+      name: report_format_scale
+      label: Report Format Scale
+      hint: null
+      type: select_one
+      options:
+      - Very suitable
+      - Somewhat suitable
+      - Neutral
+      - Somewhat not suitable
+      - Not suitable at all
+      required: false
+    - id: 13
+      name: report_usefulness_likert_scale
+      label: Report Usefulness Likert Scale
+      hint: null
+      type: select_one
+      options:
+      - Very useful
+      - Somewhat useful
+      - Neutral
+      - Somewhat not useful
+      - Not useful at all
+      required: false
+    - id: 14
+      name: report_clarity_likert_scale
+      label: Report Clarity Likert Scale
+      hint: null
+      type: select_one
+      options:
+      - Very clear
+      - Somewhat clear
+      - Neutral
+      - Somewhat unclear
+      - Not clear at all
+      required: false
+    - id: 15
+      name: report_frequency_likert_scale
+      label: Report Frequency Likert Scale
+      hint: null
+      type: select_one
+      options:
+      - Very frequent
+      - Somewhat frequent
+      - Neutral
+      - Somewhat not frequent
+      - Not frequent at all
+      required: false
+    - id: 16
+      name: report_usefulness_likert_scale_2
+      label: Report Usefulness Likert Scale 2
+      hint: null
+      type: select_one
+      options:
+      - Very useful
+      - Somewhat useful
+      - Neutral
+      - Somewhat not useful
+      - Not useful at all
+      required: false
+    - id: 17
+      name: report_clarity_likert_scale_2
+      label: Report Clarity Likert Scale 2
+      hint: null
+      type: select_one
+      options:
+      - Very clear
+      - Somewhat clear
+      - Neutral
+      - Somewhat unclear
+      - Not clear at all
+      required: false
+    - id: 18
+      name: report_format_likert_scale
+      label: Report Format Likert Scale
+      hint: null
+      type: select_one
+      options:
+      - Very suitable
+      - Somewhat suitable
+      - Neutral
+      - Somewhat not suitable
+      - Not suitable at all
+      required: false
+    - id: 19
+      name: report_frequency_likert_scale_2
+      label: Report Frequency Likert Scale 2
+      hint: null
+      type: select_one
+      options:
+      - Very frequent
+      - Somewhat frequent
+      - Neutral
+      - Somewhat not frequent
+      - Not frequent at all
+      required: false
+    - id: 20
+      name: report_clearness_likert_scale
+      label: Report Clarity Likert Scale
+      hint: null
+      type: select_one
+      options:
+      - Very clear
+      - Somewhat clear
+      - Neutral
+      - Somewhat unclear
+      - Not clear at all
+      required: false
+    - id: 21
+      name: report_usefulness_likert_scale_3
+      label: Report Usefulness Likert Scale 3
+      hint: null
+      type: select_one
+      options:
+      - Very useful
+      - Somewhat useful
+      - Neutral
+      - Somewhat not useful
+      - Not useful at all
+      required: false
+    - id: 22
+      name: report_usefulness_likert_scale_4
+      label: Report Usefulness Likert Scale 4
+      hint: null
+      type: select_one
+      options:
+      - Very useful
+      - Somewhat useful
+      - Neutral
+      - Somewhat not useful
+      - Not useful at all
+      required: false
+    - id: 23
+      name: report_likert_likert_scale
+      label: Report Likert Scale
+      hint: null
+      type: select_one
+      options:
+      - Very useful
+      - Somewhat useful
+      - Neutral
+      - Somewhat not useful
+      - Not useful at all
+      required: false
+    - id: 24
+      name: report_clarity_likert_scale_3
+      label: Report Clarity Likert Scale 3
+      hint: null
+      type: select_one
+      options:
+      - Very clear
+      - Somewhat clear
+      - Neutral
+      - Somewhat unclear
+      - Not clear at all
+      required: false
+    - id: 25
+      name: report_frequency_likert_scale_3
+      label: Report Frequency Likert Scale 3
+      hint: null
+      type: select_one
+      options:
+      - Very frequent
+      - Somewhat frequent
+      - Neutral
+      - Somewhat not frequent
+      - Not frequent at all
+      required: false

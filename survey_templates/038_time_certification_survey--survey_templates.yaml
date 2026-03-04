@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: time_certification_survey
+    pages:
+    - id: 1
+      name: employee
+      label: Employee
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: time_period
+      label: Time period
+      hint: null
+      type: select_one
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+      required: false
+    - id: 3
+      name: certification_date
+      label: Certification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: certification_type
+      label: Certification Type
+      hint: null
+      type: select_multiple
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      required: true
+    - id: 5
+      name: certification_hours
+      label: Certification Hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_notes
+      label: Manager Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: time_certification_survey_manager_comments
+      label: Time Certification Survey Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: time_certification_survey_manager_comments_hint
+      label: Time Certification Survey Manager Comments Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: time_certification_survey_manager_comments_hint
+      label: Time Certification Survey Manager Comments Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: employee_comments
+      label: Employee Comments
+      hint: null
+      type: text
+      options: []
+      required: false

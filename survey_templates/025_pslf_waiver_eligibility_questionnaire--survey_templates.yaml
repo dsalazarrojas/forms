@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: pslf_waiver_eligibility_questionnaire
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - active_employment
+      - inactive_employment
+      - no_employment
+      required: false
+    - id: 3
+      name: income_employed
+      label: Income Employed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: income_not_employed
+      label: Income Not Employed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: employment_type
+      label: Employment Type
+      hint: null
+      type: select_one
+      options:
+      - full_time
+      - part_time
+      - seasonal
+      - other
+      required: false
+    - id: 6
+      name: work_status
+      label: Work Status
+      hint: null
+      type: select_one
+      options:
+      - full_time
+      - part_time
+      - seasonal
+      - other
+      required: false
+    - id: 7
+      name: income_source
+      label: Income Source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: work_location
+      label: Work Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: work_start_date
+      label: Work Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: work_end_date
+      label: Work End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: pay_frequency
+      label: Pay Frequency
+      hint: null
+      type: select_one
+      options:
+      - hourly
+      - bi_weekly
+      - monthly
+      - yearly
+      required: false
+    - id: 13
+      name: hours_worked
+      label: Hours Worked
+      hint: null
+      type: number
+      options: []
+      required: false

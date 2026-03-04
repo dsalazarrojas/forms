@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Training Course Interest Survey
+    pages:
+    - id: 1
+      name: course_topic_of_interest
+      label: Course Topic of Interest
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: training_method
+      label: Training Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: preferred_scheduling_method
+      label: Preferred Scheduling Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: preferred_scheduling_method_other
+      label: Other Preferred Scheduling Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: schedule_time
+      label: Schedule Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: schedule_time_note
+      label: Schedule Time Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

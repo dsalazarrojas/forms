@@ -1,0 +1,235 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cake Preference Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: email_address
+        label: Email Address
+        hint: For survey results or follow-up
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: age_group
+        label: Age Group
+        hint: Select your age range
+        type: select_one
+        options:
+          - Under 18
+          - 18-24
+          - 25-34
+          - 35-44
+          - 45-54
+          - 55-64
+          - 65 or older
+        required: true
+      - id: 4
+        name: cake_consumption_frequency
+        label: How Often Do You Eat Cake
+        hint: Your typical cake eating habit
+        type: select_one
+        options:
+          - Weekly
+          - 2-3 times a month
+          - Once a month
+          - Special occasions only
+          - Rarely
+          - Never
+        required: true
+      - id: 5
+        name: favorite_cake_flavor
+        label: Favorite Cake Flavor
+        hint: What is your top choice
+        type: select_one
+        options:
+          - Vanilla
+          - Chocolate
+          - Red Velvet
+          - Lemon
+          - Strawberry
+          - Carrot
+          - Coconut
+          - Marble
+          - Funfetti
+          - Other
+        required: true
+      - id: 6
+        name: second_favorite_flavor
+        label: Second Favorite Flavor
+        hint: Your runner-up choice
+        type: select_one
+        options:
+          - Vanilla
+          - Chocolate
+          - Red Velvet
+          - Lemon
+          - Strawberry
+          - Carrot
+          - Coconut
+          - Marble
+          - Funfetti
+          - Other
+        required: false
+      - id: 7
+        name: favorite_frosting
+        label: Favorite Frosting Type
+        hint: What frosting do you prefer
+        type: select_one
+        options:
+          - Buttercream
+          - Cream cheese
+          - Whipped cream
+          - Fondant
+          - Ganache
+          - Swiss meringue
+          - No frosting
+        required: true
+      - id: 8
+        name: frosting_sweetness
+        label: Frosting Sweetness Preference
+        hint: How sweet do you like frosting
+        type: select_one
+        options:
+          - Not too sweet
+          - Moderately sweet
+          - Very sweet
+          - No preference
+        required: false
+      - id: 9
+        name: favorite_filling
+        label: Favorite Filling
+        hint: What filling do you prefer
+        type: select_one
+        options:
+          - Buttercream
+          - Fruit preserve
+          - Custard
+          - Ganache
+          - Mousse
+          - Cream cheese
+          - No filling
+        required: false
+      - id: 10
+        name: cake_texture_preference
+        label: Cake Texture Preference
+        hint: How do you like your cake
+        type: select_one
+        options:
+          - Light and fluffy
+          - Dense and moist
+          - Medium texture
+          - No preference
+        required: false
+      - id: 11
+        name: preferred_cake_style
+        label: Preferred Cake Style
+        hint: What style appeals to you
+        type: select_one
+        options:
+          - Simple and classic
+          - Elaborately decorated
+          - Modern and minimalist
+          - Rustic and natural
+          - Themed and fun
+          - Floral and elegant
+        required: true
+      - id: 12
+        name: favorite_cake_occasion
+        label: Favorite Cake Occasion
+        hint: When do you most enjoy cake
+        type: select_one
+        options:
+          - Birthday
+          - Wedding
+          - Holiday
+          - Celebration
+          - Just because
+          - Party
+        required: true
+      - id: 13
+        name: dietary_preferences
+        label: Dietary Preferences
+        hint: Any dietary considerations
+        type: select_multiple
+        options:
+          - None
+          - Prefer organic
+          - Gluten-free
+          - Dairy-free
+          - Vegan
+          - Low sugar
+          - Nut-free
+        required: false
+      - id: 14
+        name: willing_to_try_new_flavors
+        label: Willingness to Try New Flavors
+        hint: Do you like experimenting
+        type: select_one
+        options:
+          - Love trying new flavors
+          - Occasionally try new
+          - Prefer familiar flavors
+          - Stick to classics only
+        required: false
+      - id: 15
+        name: cake_purchase_frequency
+        label: How Often Do You Buy Cake
+        hint: Your purchasing habit
+        type: select_one
+        options:
+          - Weekly
+          - Monthly
+          - For special events
+          - Rarely
+          - Never buy, only bake at home
+        required: false
+      - id: 16
+        name: preferred_bakery_type
+        label: Preferred Bakery Type
+        hint: Where do you buy cake
+        type: select_one
+        options:
+          - Local bakery
+          - Grocery store
+          - Specialty cake shop
+          - Online bakery
+          - Big box store
+          - I do not buy cake
+        required: false
+      - id: 17
+        name: price_sensitivity
+        label: Price Sensitivity
+        hint: How important is price
+        type: select_one
+        options:
+          - Price is most important
+          - Value matters most
+          - Quality over price
+          - Price is not a concern
+        required: false
+      - id: 18
+        name: additional_preferences
+        label: Additional Preferences
+        hint: Any other cake preferences
+        type: text
+        options: []
+        required: false

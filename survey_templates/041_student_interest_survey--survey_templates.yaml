@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Interest Survey
+    pages:
+    - id: 1
+      name: student_interest_survey_form
+      label: What type of activities do you enjoy
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 2
+      name: student_interest_survey_name
+      label: Your name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_interest_survey_email
+      label: Email
+      hint: Enter your email here
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: student_interest_survey_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_interest_survey_date
+      label: Date of interest
+      hint: null
+      type: date
+      options: []
+      required: false

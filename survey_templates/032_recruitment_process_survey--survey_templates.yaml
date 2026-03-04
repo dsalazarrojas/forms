@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recruitment Process Survey
+    pages:
+    - id: 1
+      name: candidate_application
+      label: Candidate Application
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: communication
+      label: Communication
+      hint: How was communication with the recruiter?
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: interview_process
+      label: Interview Process
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Video
+      - In-person
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: false
+    - id: 5
+      name: satisfaction
+      label: Candidate Satisfaction
+      hint: How would you rate your overall satisfaction with the hiring process?
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: time_to_hire
+      label: Time to Hire
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_to_first_interview
+      label: Time to First Interview
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: recruiter_skills
+      label: Recruiter Skills
+      hint: What skills do you think a recruiter should have?
+      type: select_multiple
+      options:
+      - Communication
+      - Empathy
+      - Problem-solving
+      required: false
+    - id: 9
+      name: candidate_preferences
+      label: Candidate Preferences
+      hint: What preferences do you think a recruiter should have?
+      type: select_multiple
+      options:
+      - Respect
+      - Openness
+      - Flexibility
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: Is there anything you would like to add about your experience?
+      type: text
+      options: []
+      required: false

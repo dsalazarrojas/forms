@@ -1,0 +1,191 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Support Program Evaluation Survey
+    pages:
+    - id: 1
+      name: participant_name
+      label: Your Full Name
+      hint: Name of program participant
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Name of your business
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: program_name
+      label: Program Name
+      hint: Name of the program attended
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: program_dates
+      label: Program Dates Attended
+      hint: When did you participate
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: survey_date
+      label: Survey Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: content_relevance
+      label: Content Relevance
+      hint: Was the content relevant to your business
+      type: select_one
+      options:
+      - Highly Relevant
+      - Relevant
+      - Somewhat Relevant
+      - Not Relevant
+      - Not Applicable
+      required: true
+    - id: 8
+      name: instructor_quality
+      label: Instructor or Facilitator Quality
+      hint: Quality of the instructor
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Poor
+      required: true
+    - id: 9
+      name: program_organization
+      label: Program Organization
+      hint: How well was the program organized
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Poor
+      required: true
+    - id: 10
+      name: materials_quality
+      label: Quality of Learning Materials
+      hint: Quality of handouts and materials
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Poor
+      required: true
+    - id: 11
+      name: practical_application
+      label: Practical Application Value
+      hint: Can you apply what you learned
+      type: select_one
+      options:
+      - Highly Applicable
+      - Applicable
+      - Somewhat Applicable
+      - Not Applicable
+      required: true
+    - id: 12
+      name: networking_value
+      label: Networking Opportunities
+      hint: Did you make valuable connections
+      type: select_one
+      options:
+      - Excellent Opportunities
+      - Good Opportunities
+      - Some Opportunities
+      - Few Opportunities
+      - None
+      required: true
+    - id: 13
+      name: value_for_money
+      label: Value for Money
+      hint: Was it worth the investment
+      type: select_one
+      options:
+      - Excellent Value
+      - Good Value
+      - Adequate Value
+      - Poor Value
+      - Not Worth It
+      required: true
+    - id: 14
+      name: business_impact
+      label: Expected Business Impact
+      hint: Will this help your business
+      type: select_one
+      options:
+      - Significant Positive Impact
+      - Positive Impact
+      - Some Impact
+      - Limited Impact
+      - No Impact
+      required: true
+    - id: 15
+      name: recommendations_provided
+      label: Recommendations or Suggestions
+      hint: Any suggestions for improvement
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: future_participation
+      label: Future Program Participation
+      hint: Would you participate in future programs
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Maybe
+      - Probably No
+      - Definitely No
+      required: false
+    - id: 17
+      name: would_recommend
+      label: Would You Recommend This Program
+      hint: Would you recommend to others
+      type: select_one
+      options:
+      - Strongly Recommend
+      - Recommend
+      - Neutral
+      - Do Not Recommend
+      - Strongly Oppose
+      required: true
+    - id: 18
+      name: additional_support_needed
+      label: Additional Support or Topics
+      hint: What else would help your business
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,361 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chocolate And Champagne Contest Entry Form
+    pages:
+    - id: 1
+      name: contestant_information
+      label: Contestant Information
+      hint: Your contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contestant_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contestant_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: business_name
+      label: Business or Brand Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: website
+      label: Website or Social Media
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contest_category
+      label: Contest Category
+      hint: Select your entry category
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: entry_category
+      label: Entry Category
+      hint: null
+      type: select_one
+      options:
+      - Chocolate desserts
+      - Champagne cocktails
+      - Chocolate and champagne pairing
+      - Artistic chocolate creation
+      - Innovative champagne use
+      - Best overall
+      required: true
+    - id: 11
+      name: entry_name
+      label: Name of Your Entry
+      hint: Creative name for your creation
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: entry_description
+      label: Description of Your Entry
+      hint: Key ingredients and concept
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: chocolate_details
+      label: Chocolate Details
+      hint: If using chocolate
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: chocolate_type
+      label: Type of Chocolate Used
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Dark chocolate
+      - Milk chocolate
+      - White chocolate
+      - Ruby chocolate
+      - Couverture
+      - Cocoa powder
+      - None
+      required: false
+    - id: 15
+      name: chocolate_percentage
+      label: Cocoa Percentage
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: chocolate_origin
+      label: Chocolate Origin or Brand
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: champagne_details
+      label: Champagne Details
+      hint: If using champagne
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: champagne_type
+      label: Type of Champagne Used
+      hint: null
+      type: select_one
+      options:
+      - Brut
+      - Extra Brut
+      - Sec
+      - Demi-Sec
+      - Rose
+      - Blanc de Blancs
+      - Blanc de Noirs
+      - Vintage
+      - Non-vintage
+      - Not applicable
+      required: false
+    - id: 19
+      name: champagne_brand
+      label: Champagne Brand
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_ingredients
+      label: Key Additional Ingredients
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fresh fruit
+      - Nuts
+      - Cream
+      - Butter
+      - Sugar
+      - Honey
+      - Spices
+      - Liqueur
+      - Wine
+      - Other alcohol
+      - None
+      required: false
+    - id: 21
+      name: dietary_information
+      label: Dietary Information
+      hint: Allergen info
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: contains_allergens
+      label: Contains Common Allergens
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Dairy
+      - Nuts
+      - Gluten
+      - Eggs
+      - Soy
+      - Sulfites
+      - None
+      required: true
+    - id: 23
+      name: is_vegan
+      label: Is this entry vegan
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 24
+      name: is_gluten_free
+      label: Is this entry gluten-free
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 25
+      name: preparation_details
+      label: Preparation Details
+      hint: Logistics
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: serving_size
+      label: Number of Servings
+      hint: For judging
+      type: number
+      options: []
+      required: true
+    - id: 27
+      name: preparation_time
+      label: Total Preparation Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: special_equipment
+      label: Special Equipment Needed
+      hint: At the event
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: refrigeration_needed
+      label: Is Refrigeration Needed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 30
+      name: event_participation
+      label: Event Participation
+      hint: Your involvement
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: attending_event
+      label: Will you attend the event in person
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 32
+      name: guests_attending
+      label: Number of Guests
+      hint: With you
+      type: number
+      options: []
+      required: false
+    - id: 33
+      name: booth_needed
+      label: Do you need a display booth
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 34
+      name: judging_consent
+      label: Judging Consent
+      hint: Agreement
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: agree_to_judging
+      label: I agree to have my entry judged
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 36
+      name: agree_to_tasting
+      label: I agree to allow my entry to be tasted
+      hint: By judges and attendees
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 37
+      name: photo_permission
+      label: I grant permission for photos of my entry
+      hint: For promotional use
+      type: select_one
+      options:
+      - Yes, I grant permission
+      - No, I do not grant permission
+      required: true
+    - id: 38
+      name: entry_fee
+      label: Entry Fee
+      hint: Payment
+      type: note
+      options: []
+      required: false
+    - id: 39
+      name: fee_payment
+      label: Entry Fee Payment
+      hint: null
+      type: select_one
+      options:
+      - Paid online
+      - Will pay at event
+      - Fee waived
+      - Other arrangement
+      required: true
+    - id: 40
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: contestant_signature
+      label: Contestant Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 42
+      name: entry_date
+      label: Date of Entry
+      hint: null
+      type: date
+      options: []
+      required: true

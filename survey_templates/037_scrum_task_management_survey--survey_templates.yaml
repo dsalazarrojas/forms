@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scrum Task Management Survey
+    pages:
+    - id: 1
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: task_id
+      label: Task ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Team Lead 1''}'
+      - '{''id'': 2, ''name'': ''Team Lead 2''}'
+      - '{''id'': 3, ''name'': ''Team Lead 3''}'
+      required: false
+    - id: 4
+      name: team_lead_name
+      label: Team Lead Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: team_lead_email
+      label: Team Lead Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: team_lead_phone
+      label: Team Lead Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: team_lead_title
+      label: Team Lead Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Team Member 1''}'
+      - '{''id'': 2, ''name'': ''Team Member 2''}'
+      - '{''id'': 3, ''name'': ''Team Member 3''}'
+      required: false
+    - id: 9
+      name: collaboration
+      label: Collaboration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: feedback_on_task_tracking
+      label: Feedback on task tracking
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: process_satisfaction
+      label: Process satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: continuous_improvement
+      label: Continuous Improvement
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: jira_ticket
+      label: Jira Ticket
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: team_workload
+      label: Team Workload
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: feedback_on_jotform
+      label: Feedback on Jotform
+      hint: null
+      type: text
+      options: []
+      required: false

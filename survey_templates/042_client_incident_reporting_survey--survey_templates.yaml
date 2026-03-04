@@ -1,0 +1,270 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Incident Reporting Survey
+    pages:
+    - id: 1
+      name: reporter_first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reporter_last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reporter_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: reporter_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reporter_role
+      label: Your Role
+      hint: Your position or relationship
+      type: select_one
+      options:
+      - Client
+      - Employee
+      - Contractor
+      - Visitor
+      - Vendor
+      - Other
+      required: true
+    - id: 6
+      name: incident_date
+      label: Date of Incident
+      hint: When did it happen?
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: incident_time
+      label: Time of Incident
+      hint: What time did it occur?
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: incident_location
+      label: Location of Incident
+      hint: Where did it happen?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: incident_type
+      label: Type of Incident
+      hint: Category of incident
+      type: select_one
+      options:
+      - Accident or Injury
+      - Property Damage
+      - Security Incident
+      - Harassment or Discrimination
+      - Theft or Vandalism
+      - Medical Emergency
+      - Safety Hazard
+      - Service Disruption
+      - Data Breach
+      - Other
+      required: true
+    - id: 10
+      name: incident_description
+      label: Detailed Description of Incident
+      hint: What happened?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: persons_involved
+      label: Persons Involved
+      hint: Names and roles
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: witnesses_present
+      label: Were There Witnesses?
+      hint: Witness presence
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: witness_names
+      label: Witness Names and Contact Information
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: injuries_sustained
+      label: Were There Any Injuries?
+      hint: Injury status
+      type: select_one
+      options:
+      - No Injuries
+      - Minor Injuries
+      - Moderate Injuries
+      - Severe Injuries
+      - Fatal
+      required: true
+    - id: 15
+      name: injury_description
+      label: Description of Injuries
+      hint: If injuries occurred
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_treatment
+      label: Was Medical Treatment Required?
+      hint: Treatment status
+      type: select_one
+      options:
+      - No Treatment Needed
+      - First Aid Only
+      - Medical Attention
+      - Hospitalization
+      - Emergency Services Called
+      required: true
+    - id: 17
+      name: property_damage
+      label: Was There Property Damage?
+      hint: Damage status
+      type: select_one
+      options:
+      - No Damage
+      - Minor Damage
+      - Moderate Damage
+      - Severe Damage
+      - Total Loss
+      required: true
+    - id: 18
+      name: damage_description
+      label: Description of Damage
+      hint: If damage occurred
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: damage_estimate
+      label: Estimated Cost of Damage
+      hint: If known
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: immediate_actions
+      label: Immediate Actions Taken
+      hint: What was done right away?
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: notifications_made
+      label: Who Was Notified?
+      hint: Management, police, etc.
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: contributing_factors
+      label: Contributing Factors
+      hint: What led to the incident?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: preventive_measures
+      label: Suggested Preventive Measures
+      hint: How to prevent recurrence
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: photos_available
+      label: Do You Have Photos of the Incident?
+      hint: Photo evidence
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 25
+      name: documentation_attached
+      label: Is Other Documentation Available?
+      hint: Reports, records, etc.
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 26
+      name: prior_similar_incidents
+      label: Have There Been Similar Incidents Before?
+      hint: Previous occurrences
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: true
+    - id: 27
+      name: follow_up_required
+      label: Is Follow-Up Required?
+      hint: Additional action needed?
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: true
+    - id: 28
+      name: follow_up_suggestions
+      label: Suggested Follow-Up Actions
+      hint: What should be done?
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: report_confidentiality
+      label: Should This Report Be Kept Confidential?
+      hint: Sensitivity level
+      type: select_one
+      options:
+      - Yes, Confidential
+      - No, May Be Shared
+      - Share Only with Management
+      required: true
+    - id: 30
+      name: information_accuracy
+      label: I Confirm All Information Is Accurate
+      hint: Truthfulness confirmation
+      type: select_one
+      options:
+      - I Confirm
+      - I Do Not Confirm
+      required: true
+    - id: 31
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: true

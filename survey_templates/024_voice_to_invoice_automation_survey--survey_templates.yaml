@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Voice To Invoice Automation Survey
+    pages:
+    - id: 1
+      name: invoice_workflows
+      label: Invoice Workflows
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: automation_readiness
+      label: Is your team ready for automation?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: adoption_concerns
+      label: Concerns about automation adoption
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: automation_adoption
+      label: How do you see your team adopting automation in the future?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: current_process
+      label: What is your current process for handling invoices?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: invoice_management
+      label: How do you currently manage your invoices?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: data_sensitivity
+      label: What kind of data will you be sharing about your company's invoicing
+        practices?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: company_size
+      label: What is the number of employees at your company?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

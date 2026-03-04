@@ -1,0 +1,126 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Agent Exposure Survey
+    pages:
+    - id: 1
+      name: header
+      label: -- Exposure Incident Report --
+      hint: Standardized reporting for workplace exposure incidents
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: individual_name
+      label: Name of Affected Individual
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: exposure_date
+      label: Date of Exposure
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: exposure_time
+      label: Time of Exposure
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: incident_location
+      label: Location of Incident
+      hint: e.g., Laboratory Room 4 or Warehouse Floor
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: details_header
+      label: -- Exposure Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: exposure_type
+      label: Type of Exposure - Chemical, Biological, Radiation, Physical
+      hint: select the primary hazard category
+      type: select_one
+      options:
+      - Chemical (Vapor, Liquid, Solid)
+      - Biological (Pathogen, Body Fluid)
+      - Radiation (Ionizing, Non-ionizing)
+      - Physical (Noise, Heat, Cold)
+      required: true
+    - id: 8
+      name: agent_description
+      label: Description of the substance or agent
+      hint: specify the exact chemical or biological agent
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: immediate_symptoms
+      label: Immediate Symptoms Experienced - Nausea, Rash, Dizziness, Cough
+      hint: select all that apply
+      type: select_multiple
+      options:
+      - Nausea or Vomiting
+      - Skin Irritation or Rash
+      - Dizziness or Headache
+      - Respiratory Distress or Cough
+      - Eye Irritation
+      - No symptoms currently
+      required: true
+    - id: 10
+      name: initial_actions
+      label: Initial actions taken - e.g., washed area, evacuated
+      hint: describe immediate steps taken after exposure
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: medical_attention
+      label: Was medical attention sought?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Emergency Room
+      - Yes - Occupational Health
+      - No
+      required: true
+    - id: 12
+      name: supervisor_notified
+      label: Name of supervisor notified
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: ppe_worn
+      label: Personal Protective Equipment - PPE - worn at time of incident
+      hint: select all items in use
+      type: select_multiple
+      options:
+      - Safety Goggles
+      - Lab Coat
+      - Nitrile Gloves
+      - Respirator (N95/P100)
+      - Face Shield
+      - None
+      required: false

@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Repair Request Survey
+    pages:
+    - id: 1
+      name: customer_email
+      label: Customer Email
+      hint: Enter customer's email
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Enter customer's name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: Enter location
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Location 1''}'
+      - '{''id'': 2, ''name'': ''Location 2''}'
+      - '{''id'': 3, ''name'': ''Location 3''}'
+      - '{''id'': 4, ''name'': ''Location 4''}'
+      required: false
+    - id: 4
+      name: repair_date
+      label: Repair Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: issue_description
+      label: Issue Description
+      hint: Enter issue description
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: issue_type
+      label: Issue Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Issue Type 1''}'
+      - '{''id'': 2, ''name'': ''Issue Type 2''}'
+      - '{''id'': 3, ''name'': ''Issue Type 3''}'
+      required: false
+    - id: 7
+      name: issue_severity
+      label: Issue Severity
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Issue Severity 1''}'
+      - '{''id'': 2, ''name'': ''Issue Severity 2''}'
+      - '{''id'': 3, ''name'': ''Issue Severity 3''}'
+      required: false
+    - id: 8
+      name: repair_type
+      label: Repair Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Repair Type 1''}'
+      - '{''id'': 2, ''name'': ''Repair Type 2''}'
+      - '{''id'': 3, ''name'': ''Repair Type 3''}'
+      required: false
+    - id: 9
+      name: repair_outcome
+      label: Repair Outcome
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Repair Outcome 1''}'
+      - '{''id'': 2, ''name'': ''Repair Outcome 2''}'
+      - '{''id'': 3, ''name'': ''Repair Outcome 3''}'
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_feedback
+      label: Customer Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: prophets_comments
+      label: Prophets Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_phone
+      label: Customer Phone
+      hint: Enter customer's phone
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: issue_date
+      label: Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: customer_email2
+      label: Customer Email 2
+      hint: Enter customer's email 2
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: customer_name2
+      label: Customer Name 2
+      hint: Enter customer's name 2
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: location2
+      label: Location 2
+      hint: Enter location 2
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Location 1''}'
+      - '{''id'': 2, ''name'': ''Location 2''}'
+      required: false
+    - id: 18
+      name: repair_date2
+      label: Repair Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: issue_description2
+      label: Issue Description 2
+      hint: Enter issue description 2
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: issue_type2
+      label: Issue Type 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Issue Type 1''}'
+      - '{''id'': 2, ''name'': ''Issue Type 2''}'
+      required: false
+    - id: 21
+      name: issue_severity2
+      label: Issue Severity 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Issue Severity 1''}'
+      - Other
+      required: false
+    - id: 22
+      name: customer_feedback2
+      label: Customer Feedback 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: comments2
+      label: Comments 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: repair_outcome2
+      label: Repair Outcome 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Repair Outcome 1''}'
+      - '{''id'': 2, ''name'': ''Repair Outcome 2''}'
+      required: false

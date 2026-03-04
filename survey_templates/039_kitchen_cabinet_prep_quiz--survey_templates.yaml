@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kitchen Cabinet Prep Quiz
+    pages:
+    - id: 1
+      name: client_readiness
+      label: Client Readiness
+      hint: null
+      type: select_multiple
+      options:
+      - Client has all necessary tools
+      - Client has all necessary materials
+      - Client has a clear understanding of the project scope
+      required: false
+    - id: 2
+      name: safety_awareness
+      label: Safety Awareness
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 3
+      name: confidence
+      label: Confidence
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: project_scope
+      label: Project Scope
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: materials_needed
+      label: Materials Needed
+      hint: null
+      type: select_multiple
+      options:
+      - All necessary paint and primer
+      - All necessary paintbrushes
+      - All necessary drop cloths
+      required: false
+    - id: 6
+      name: project_location
+      label: Project Location
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Office
+      - Commercial
+      required: false
+    - id: 7
+      name: painting_techniques
+      label: Painting Techniques
+      hint: null
+      type: select_multiple
+      options:
+      - Water based
+      - Latex based
+      - Oil based
+      required: false
+    - id: 8
+      name: painting_safety
+      label: Painting Safety
+      hint: null
+      type: select_multiple
+      options:
+      - Safety glasses
+      - Paint respirator
+      - Mask
+      required: false
+    - id: 9
+      name: cabinet_type
+      label: Cabinet Type
+      hint: null
+      type: select_one
+      options:
+      - Solid
+      - Hollow
+      - Semi-hollow
+      required: false
+    - id: 10
+      name: paint_type
+      label: Paint Type
+      hint: null
+      type: select_multiple
+      options:
+      - Latex
+      - Oil based
+      - Water based
+      required: false
+    - id: 11
+      name: prep_process
+      label: Prep Process
+      hint: null
+      type: select_one
+      options:
+      - Sanding
+      - Stripping
+      - Scraping
+      required: false
+    - id: 12
+      name: paint_color
+      label: Paint Color
+      hint: null
+      type: select_one
+      options:
+      - White
+      - Red
+      - Blue
+      required: false
+    - id: 13
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: is_painted_before
+      label: Has Painted Before
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: is_painting_hire
+      label: Hire A Painter
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

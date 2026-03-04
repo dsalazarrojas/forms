@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Behavior Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: How do you feel about your school?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: questions
+      label: What do you think about this question?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: answers
+      label: Answer
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: comments
+      label: Any comments?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wrist Strap Compliance Survey
+    pages:
+    - id: 1
+      name: manufacturing_team
+      label: Manufacturing Team
+      hint: null
+      type: select_multiple
+      options:
+      - ESD Wrist Strap
+      - Non-ESD Wrist Strap
+      - Glove Box
+      - Test Box
+      - Other
+      required: false
+    - id: 2
+      name: esd_wrist_strap_use
+      label: ESD Wrist Strap Use
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: testing_location
+      label: Testing Location
+      hint: null
+      type: select_one
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      required: false
+    - id: 4
+      name: testing_supervisor
+      label: Testing Supervisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: review_supervisor
+      label: Review Supervisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: esd_testing_frequency
+      label: ESD Testing Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: non_esd_testing_frequency
+      label: Non-ESD Testing Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: safety_check
+      label: Safety Check
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: esd_wrist_strap_use_frequency
+      label: ESD Wrist Strap Use Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: non_esd_wrist_strap_use_frequency
+      label: Non-ESD Wrist Strap Use Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: esd_testing_supervisor
+      label: ESD Testing Supervisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: esd_wrist_strap_testing_supervisor
+      label: ESD Wrist Strap Testing Supervisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: esd_testing_review_supervisor
+      label: ESD Testing Review Supervisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: esd_testing_frequency
+      label: ESD Testing Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: esd_testing_location
+      label: ESD Testing Location
+      hint: null
+      type: select_one
+      options:
+      - Location 1 Location 2 Location 3
+      - Other
+      required: false
+    - id: 18
+      name: non_esd_testing_location
+      label: Non-ESD Testing Location
+      hint: null
+      type: select_one
+      options:
+      - Location 1 Location 2 Location 3
+      - Other
+      required: false
+    - id: 19
+      name: non_esd_testing_review_supervisor
+      label: Non-ESD Testing Review Supervisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: esd_wrist_strap_testing_supervisor
+      label: ESD Wrist Strap Testing Supervisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: esd_testing_notes
+      label: ESD Testing Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: non_esd_testing_notes
+      label: Non-ESD Testing Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: esd_wrist_strap_review_supervisor
+      label: ESD Wrist Strap Review Supervisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: non_esd_testing_supervisor
+      label: Non-ESD Testing Supervisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: esd_testing_supervisor_review
+      label: ESD Testing Supervisor Review
+      hint: null
+      type: text
+      options: []
+      required: false

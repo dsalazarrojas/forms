@@ -1,0 +1,241 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Survey
+    pages:
+    - id: 1
+      name: survey_date
+      label: Survey Date
+      hint: Date of building survey
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: property_address
+      label: Property Address
+      hint: Full address of building
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: property_type
+      label: Property Type
+      hint: Building classification
+      type: select_one
+      options:
+      - Single Family Home
+      - Multi-Family Residential
+      - Commercial
+      - Industrial
+      - Mixed Use
+      - Land
+      - Other
+      required: true
+    - id: 4
+      name: survey_type
+      label: Type of Survey
+      hint: Purpose of survey
+      type: select_one
+      options:
+      - Purchase Inspection
+      - Appraisal
+      - Condition Assessment
+      - Loan Requirement
+      - Insurance
+      - Investment Analysis
+      - Periodic Review
+      required: true
+    - id: 5
+      name: surveyor_name
+      label: Surveyor or Inspector Name
+      hint: Who is conducting survey
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: surveyor_license
+      label: License or Certification Number
+      hint: Professional credentials
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: building_age
+      label: Year Built
+      hint: Construction year
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: square_footage
+      label: Square Footage
+      hint: Total building size
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: number_of_floors
+      label: Number of Floors
+      hint: Building stories
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: number_of_units
+      label: Number of Units
+      hint: For multi-unit properties
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: lot_size
+      label: Lot Size
+      hint: Land area
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: roof_type
+      label: Roof Type
+      hint: Material and style
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: roof_condition
+      label: Roof Condition
+      hint: Current state
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Needs Replacement
+      required: true
+    - id: 14
+      name: exterior_condition
+      label: Exterior Condition
+      hint: Overall exterior assessment
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Critical
+      required: true
+    - id: 15
+      name: foundation_condition
+      label: Foundation Condition
+      hint: Structural foundation state
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Critical
+      required: true
+    - id: 16
+      name: interior_condition
+      label: Interior Condition
+      hint: Overall interior state
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Critical
+      required: true
+    - id: 17
+      name: electrical_system
+      label: Electrical System Condition
+      hint: Wiring and panels
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Needs Update
+      required: true
+    - id: 18
+      name: plumbing_system
+      label: Plumbing System Condition
+      hint: Water and drain systems
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Needs Repair
+      required: true
+    - id: 19
+      name: hvac_system
+      label: HVAC System Condition
+      hint: Heating and cooling
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Needs Replacement
+      required: true
+    - id: 20
+      name: water_damage
+      label: Evidence of Water Damage
+      hint: Moisture or leaks
+      type: select_one
+      options:
+      - None
+      - Minor
+      - Moderate
+      - Extensive
+      required: true
+    - id: 21
+      name: pest_damage
+      label: Evidence of Pest Damage
+      hint: Termites, rodents, etc
+      type: select_one
+      options:
+      - None
+      - Minor
+      - Moderate
+      - Extensive
+      required: true
+    - id: 22
+      name: major_deficiencies
+      label: Major Deficiencies Found
+      hint: List of significant issues
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: repairs_needed
+      label: Estimated Repairs Needed
+      hint: What needs to be fixed
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: estimated_repair_cost
+      label: Estimated Repair Cost
+      hint: Total cost estimate
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: overall_rating
+      label: Overall Building Condition
+      hint: General assessment
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true

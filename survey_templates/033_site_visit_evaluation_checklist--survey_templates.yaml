@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Site Visit Evaluation Checklist
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: site_visit_goals
+      label: Site Visit Goals
+      hint: Please indicate the site visit goals.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: stakeholders_met
+      label: Stakeholders Met
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 3.1, ''label'': ''All site visitors were met'', ''value'': ''All''}'
+      - '{''id'': 3.2, ''label'': ''Some site visitors were met'', ''value'': ''Some''}'
+      - '{''id'': 3.3, ''label'': ''No site visitors were met'', ''value'': ''None''}'
+      required: false
+    - id: 4
+      name: engagement_with_site_visit
+      label: Engagement with site visit
+      hint: Please indicate level of engagement with site visit.
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: communication
+      label: Communication
+      hint: Please indicate the level of communication during the site visit.
+      type: select_multiple
+      options:
+      - '{''id'': 5.1, ''label'': ''Excellent'', ''value'': ''Excellent''}'
+      - '{''id'': 5.2, ''label'': ''Good'', ''value'': ''Good''}'
+      - '{''id'': 5.3, ''label'': ''Fair'', ''value'': ''Fair''}'
+      - '{''id'': 5.4, ''label'': ''Poor'', ''value'': ''Poor''}'
+      required: false
+    - id: 6
+      name: logistics
+      label: Site Visit Logistics
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 6.1, ''label'': ''Vehicle'', ''value'': ''Vehicle''}'
+      - '{''id'': 6.2, ''label'': ''Accomodation'', ''value'': ''Accomodation''}'
+      required: false
+    - id: 7
+      name: time_management
+      label: Time Management
+      hint: Please indicate the time spent on site visit.
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: overall_outcomes
+      label: Overall Outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 8.1, ''label'': ''Good'', ''value'': ''Good''}'
+      - '{''id'': 8.2, ''label'': ''Fair'', ''value'': ''Fair''}'
+      - '{''id'': 8.3, ''label'': ''Poor'', ''value'': ''Poor''}'
+      required: false
+    - id: 9
+      name: site_visit_suggestions
+      label: Site Visit Suggestions
+      hint: Please indicate any suggestions for improving site visits.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: Please provide any additional comments.
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: site_visit_evaluation
+      label: Site Visit Evaluation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 11.1, ''label'': ''Excellent'', ''value'': ''Excellent''}'
+      - '{''id'': 11.2, ''label'': ''Good'', ''value'': ''Good''}'
+      - '{''id'': 11.3, ''label'': ''Fair'', ''value'': ''Fair''}'
+      - '{''id'': 11.4, ''label'': ''Poor'', ''value'': ''Poor''}'
+      required: false
+    - id: 12
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

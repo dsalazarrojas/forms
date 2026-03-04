@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Individual Impact On Marine Environment
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: marine_habitat
+      label: Marine habitat
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''coral_reefs''}'
+      - '{''value'': ''estuary''}'
+      - '{''value'': ''mangrove_forests''}'
+      - '{''value'': ''open_ocean''}'
+      - '{''value'': ''rocky_coastlines''}'
+      - '{''value'': ''seagrass''}'
+      required: false
+    - id: 3
+      name: ocean_health
+      label: Ocean health
+      hint: How do you rate the health of the ocean?
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: impact_on_marine_habitat
+      label: Impact on marine habitats
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''coral_reefs''}'
+      - '{''value'': ''estuary''}'
+      - '{''value'': ''mangrove_forests''}'
+      - '{''value'': ''rocky_coastlines''}'
+      - '{''value'': ''seagrass''}'
+      required: false
+    - id: 5
+      name: awareness_of_ocean_protection
+      label: Awareness of ocean protection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: personal_impact_on_marine_environment
+      label: Personal impact on marine environment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: ocean_protection_actions
+      label: Ocean protection actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: ocean_protection_awareness
+      label: Ocean protection awareness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: marine_conservation_participants
+      label: Marine conservation participants
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: Any additional comments or information
+      type: text
+      options: []
+      required: false

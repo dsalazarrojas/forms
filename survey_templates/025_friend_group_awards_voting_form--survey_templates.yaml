@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Friend Group Awards Voting Form
+    pages:
+    - id: 1
+      name: voting_category
+      label: voting_category
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 2
+      name: friend_group_name
+      label: friend_group_name
+      hint: Enter friend-group name here
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: award_name
+      label: award_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: nomination_name
+      label: nomination_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_nominating
+      label: reason_for_nominating
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: nomination_points
+      label: nomination_points
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: nomination_points_max
+      label: nomination_points_max
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: voting_option
+      label: friend_group_voting_option
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: submit
+      label: submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

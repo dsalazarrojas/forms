@@ -1,0 +1,84 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Vaccination Schedule Knowledge Quiz
+    pages:
+    - id: 1
+      name: vaccination_schedule_knowledge_quiz
+      label: What is a vaccine?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vaccine_benefits
+      label: Vaccines benefits include
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: vaccination_safety
+      label: What are the potential risks of vaccines?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vaccination_schedules
+      label: What is the recommended vaccination schedule for a newborn baby?
+      hint: null
+      type: select_one
+      options:
+      - Birth
+      - 1-2 months
+      - 4-6 months
+      - 9-12 months
+      - 18 months
+      - 2-3 years
+      - 4-5 years
+      - 6-7 years
+      - 8-9 years
+      required: true
+    - id: 5
+      name: vaccine_administration
+      label: How are vaccines administered?
+      hint: null
+      type: select_multiple
+      options:
+      - Needle injections
+      - Oral
+      - Topical
+      required: false
+    - id: 6
+      name: vaccine_side_effects
+      label: What are the common side effects of vaccines?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vaccine_interactions
+      label: What are some potential interactions between vaccines?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: quiz_summary
+      label: What is the summary of this quiz?
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Research Study Information Collection Form
+    pages:
+    - id: 1
+      name: research_study_info_intro
+      label: Academic Research Study Information Collection
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: Full name of the person providing information
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: Contact email for research opportunities
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: Phone Number
+      hint: Contact phone number for research opportunities
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_age_group
+      label: Age Group
+      hint: Which age group do you belong to?
+      type: select_one
+      options:
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65+
+      required: true
+    - id: 6
+      name: participant_gender
+      label: Gender Identity
+      hint: How do you identify?
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 7
+      name: participant_education_level
+      label: Education Level
+      hint: What is your highest level of education?
+      type: select_one
+      options:
+      - High school
+      - Some college
+      - Bachelor's degree
+      - Master's degree
+      - Doctoral degree
+      - Other
+      required: true
+    - id: 8
+      name: research_interest_areas
+      label: Research Interest Areas
+      hint: What research areas interest you most? (Select all that apply)
+      type: select_multiple
+      options:
+      - Health and medicine
+      - Psychology
+      - Education
+      - Technology
+      - Environmental science
+      - Social sciences
+      - Arts and humanities
+      - Other
+      required: false
+    - id: 9
+      name: availability_weekdays
+      label: Availability on Weekdays
+      hint: Which weekdays are you generally available for research studies?
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Morning only
+      - Afternoon only
+      - Evening only
+      required: false
+    - id: 10
+      name: availability_weekends
+      label: Availability on Weekends
+      hint: Are you available for research studies on weekends?
+      type: select_one
+      options:
+      - Yes, Saturday
+      - Yes, Sunday
+      - Yes, both
+      - No, weekends unavailable
+      required: true
+    - id: 11
+      name: preferred_study_format
+      label: Preferred Study Format
+      hint: How would you prefer to participate in research studies?
+      type: select_one
+      options:
+      - In-person
+      - Online
+      - Phone interview
+      - Survey only
+      - Mixed methods
+      - No preference
+      required: true
+    - id: 12
+      name: compensation_interest
+      label: Compensation Interest
+      hint: Would you be interested in participating for compensation?
+      type: select_one
+      options:
+      - Yes, I would participate for compensation
+      - No, I prefer volunteer participation
+      - It depends on the study
+      - Not interested in compensation
+      required: true
+    - id: 13
+      name: previous_research_participation
+      label: Previous Research Participation
+      hint: Have you participated in research studies before?
+      type: select_one
+      options:
+      - Yes, multiple times
+      - Yes, once or twice
+      - No, but interested
+      - No, not interested
+      required: true
+    - id: 14
+      name: special_health_conditions
+      label: Special Health Conditions
+      hint: Do you have any health conditions that might be relevant for research
+        studies?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: research_availability_duration
+      label: Research Availability Duration
+      hint: How long would you be willing to participate in a research study?
+      type: select_one
+      options:
+      - Less than 30 minutes
+      - 30-60 minutes
+      - 1-2 hours
+      - Half day
+      - Full day
+      - Multiple sessions over time
+      required: true
+    - id: 16
+      name: special_accommodations_needed
+      label: Special Accommodations Needed
+      hint: Do you require any special accommodations for research participation?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information about your interest in research studies?
+      type: text
+      options: []
+      required: false

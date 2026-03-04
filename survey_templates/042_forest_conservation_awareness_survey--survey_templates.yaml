@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Forest Conservation Awareness Survey
+    pages:
+    - id: 1
+      name: forest_conversation_knowledge
+      label: forest conservation knowledge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: conservation_actions
+      label: conservation actions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: forest_conservation_attitude
+      label: forest conservation attitude
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: forest_conversation_importance
+      label: forest conservation importance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: target_audience
+      label: target audience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: communication_channel
+      label: communication channel
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: campaign_length
+      label: campaign length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: campaign_funding
+      label: campaign funding
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: campaign_location
+      label: campaign location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: campaign_target
+      label: campaign target
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: forest_conversation_goals
+      label: forest conservation goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: campaign_start_date
+      label: campaign start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: campaign_end_date
+      label: campaign end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: campaign_hours
+      label: campaign hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: budget
+      label: budget
+      hint: null
+      type: number
+      options: []
+      required: false

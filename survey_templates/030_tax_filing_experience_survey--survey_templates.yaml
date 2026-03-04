@@ -1,0 +1,43 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Tax Filing Experience Survey
+    pages:
+    - id: 1
+      name: home_page
+      label: Home Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_page
+      label: Intro
+      hint: Please read the instructions and questions carefully before starting.
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: question_1
+      label: Satisfaction
+      hint: Select the level of satisfaction for the following experience.
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Highly Satisfied'', ''value'': ''Highly Satisfied''}'
+      - '{''id'': 2, ''name'': ''Somewhat Satisfied'', ''value'': ''Somewhat Satisfied''}'
+      - '{''id'': 3, ''name'': ''Neither Satisfied Nor Dissatisfied'', ''value'':
+        ''Neither Satisfied Nor Dissatisfied''}'
+      - '{''id'': 4, ''name'': ''Somewhat Dissatisfied'', ''value'': ''Somewhat Dissatisfied''}'
+      - '{''id'': 5, ''name'': ''Very Dissatisfied'', ''value'': ''Very Dissatisfied''}'
+      required: true

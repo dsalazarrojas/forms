@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Water Supply Drill Feedback Survey
+    pages:
+    - id: 1
+      name: drill_participant_info
+      label: Drill Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: drill_evaluation
+      label: Evaluation
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Poor''}'
+      - '{''label'': ''Poor''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Very Good''}'
+      required: false
+    - id: 3
+      name: drill_satisfaction
+      label: Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very Dissatisfied''}'
+      - '{''label'': ''Somewhat Dissatisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Very Satisfied''}'
+      required: false
+    - id: 4
+      name: drill_location
+      label: Drill Location
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''North''}'
+      - '{''label'': ''South''}'
+      - '{''label'': ''East''}'
+      - '{''label'': ''West''}'
+      required: false
+    - id: 5
+      name: drill_time
+      label: Drill Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: drill_participants
+      label: Drill Participants
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: drill_water_source
+      label: Drill Water Source
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Well''}'
+      - '{''label'': ''Stream''}'
+      - '{''label'': ''Reservoir''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: drill_water_quality
+      label: Drill Water Quality
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Poor''}'
+      - '{''label'': ''Poor''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Very Good''}'
+      required: false
+    - id: 9
+      name: drill_notes
+      label: Drill Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: drill_recommendation
+      label: Drill Recommendations
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very Likely''}'
+      - '{''label'': ''Somewhat Likely''}'
+      - '{''label'': ''Not Very Likely''}'
+      - '{''label'': ''Not Somewhat Likely''}'
+      - '{''label'': ''Very Unlikely''}'
+      required: false
+    - id: 11
+      name: drill_rating
+      label: Drill Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: drill_score
+      label: Drill Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: drill_comments
+      label: Drill Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: drill_recommendation_for_improvement
+      label: Recommendation for Improvement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very Likely''}'
+      - '{''label'': ''Somewhat Likely''}'
+      - '{''label'': ''Not Very Likely''}'
+      - '{''label'': ''Not Somewhat Likely''}'
+      required: false
+    - id: 15
+      name: drill_improvement_plan
+      label: Drill Improvement Plan
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very Likely''}'
+      - '{''label'': ''Somewhat Likely''}'
+      - '{''label'': ''Not Very Likely''}'
+      - '{''label'': ''Not Somewhat Likely''}'
+      required: false

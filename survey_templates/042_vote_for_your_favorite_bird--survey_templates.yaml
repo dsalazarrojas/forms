@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vote For Your Favorite Bird
+    pages:
+    - id: 1
+      name: favorite_bird
+      label: Favorite Bird
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: preferred_contact_method
+      label: How do you prefer to be contacted?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Phone'', ''label'': ''Phone''}'
+      - '{''value'': ''Email''}'
+      - '{''value'': ''Mail''}'
+      - '{''value'': ''In Person''}'
+      required: true
+    - id: 6
+      name: preferred_contact_method_other
+      label: Other (if above)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: time_of_day
+      label: Time of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: time_of_day_other
+      label: Other (if above)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_of_birth
+      label: Time of Birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: favorite_bird_other
+      label: Other (if above)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: how_did_you_hear_about_us
+      label: How did you hear about us?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Social Media'', ''label'': ''Social Media''}'
+      - '{''value'': ''Google'', ''label'': ''Google''}'
+      - '{''value'': ''Event'', ''label'': ''Event''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      - '{''value'': ''Word of Mouth'', ''label'': ''Word of Mouth''}'
+      required: false
+    - id: 14
+      name: how_did_you_hear_about_us_other
+      label: Other (if above)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: agree_terms
+      label: Agree to our terms of service
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: true

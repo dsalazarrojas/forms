@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parent Teacher Organization Guidelines Feedback
+    pages:
+    - id: 1
+      name: ptotitle
+      label: parent_teacher_organization_guidelines_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pto_category
+      label: pto_category
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 3
+      name: pto_effectiveness
+      label: pto_effectiveness
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Clear''}'
+      - '{''label'': ''Confusing''}'
+      - '{''label'': ''Somewhat Confusing''}'
+      required: false
+    - id: 4
+      name: pto_clarity
+      label: pto_clarity
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''0 - No Clarity''}'
+      - '{''label'': ''1 - Some Clarity''}'
+      - '{''label'': ''2 - A lot of Clarity''}'
+      required: false
+    - id: 5
+      name: pto_usefulness
+      label: pto_usefulness
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''0 - Not Useful''}'
+      - '{''label'': ''1 - Somewhat Useful''}'
+      - '{''label'': ''2 - Very Useful''}'
+      required: false
+    - id: 6
+      name: pto_recommend
+      label: pto_recommend
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''0 - Not Recommended''}'
+      - '{''label'': ''1 - Somewhat Recommended''}'
+      - '{''label'': ''2 - Very Recommended''}'
+      required: false
+    - id: 7
+      name: pto_comments
+      label: pto_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: pto_email
+      label: pto_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: pto_phone
+      label: pto_phone
+      hint: null
+      type: text
+      options: []
+      required: false

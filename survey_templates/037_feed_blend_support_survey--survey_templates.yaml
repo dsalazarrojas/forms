@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: feed_blend_support_survey
+    pages:
+    - id: 1
+      name: customer_satisfaction
+      label: How satisfied are you with our service
+      hint: null
+      type: select_one
+      options:
+      - very_satisfied
+      - fairly_satisfied
+      - neutral
+      - fairly_dissatisfied
+      - very_dissatisfied
+      required: true
+    - id: 2
+      name: common_issues
+      label: Have you experienced any common issues with Feed Blend
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: support_experience
+      label: How would you rate your support experience with us
+      hint: null
+      type: select_multiple
+      options:
+      - excellent
+      - good
+      - average
+      required: true
+    - id: 4
+      name: feedback
+      label: What would you like to see improved in our support
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: contact_info
+      label: How would you like to be contacted
+      hint: null
+      type: select_one
+      options:
+      - email
+      - phone
+      - chat
+      required: true
+    - id: 6
+      name: email
+      label: Your email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Your phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: chat
+      label: Would you like to chat with us
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: message
+      label: Your Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: follow_up
+      label: Would you like to be followed up with a response
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: follow_up_time
+      label: When would you like to be followed up
+      hint: null
+      type: select_multiple
+      options:
+      - immediately
+      - within a few hours
+      - within a few days
+      - within a week
+      required: true

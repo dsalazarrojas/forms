@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hoof Boot Fit Survey
+    pages:
+    - id: 1
+      name: horse_owner_survey
+      label: Horse Owner Survey
+      hint: null
+      type: select_multiple
+      options:
+      - John Doe
+      - Jane Doe
+      - Other
+      required: false
+    - id: 2
+      name: photo_url
+      label: Photo Url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: measurement_data
+      label: Measurement Data
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: goal_data
+      label: Goal Data
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: hoof_boot_fit_survey_photo
+      label: Hoof Boot Fit Survey Photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: recommended_boot_type
+      label: Recommended Boot Type
+      hint: null
+      type: select_one
+      options:
+      - Hoof Boot
+      - Boot
+      - Boot 1
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: horse_id
+      label: Horse Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: goal_id
+      label: Goal Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: owner_id
+      label: Owner Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: photo_id
+      label: Photo Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: measurement_id
+      label: Measurement Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: recommended_boot_type_id
+      label: Recommended Boot Type Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: boot_type_id
+      label: Boot Type Id
+      hint: null
+      type: select_one
+      options:
+      - Boot 1
+      - Boot 2
+      - Boot 3
+      required: false

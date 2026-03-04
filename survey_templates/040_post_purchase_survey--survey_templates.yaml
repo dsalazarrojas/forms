@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post Purchase Survey
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question1
+      label: What type of product did you purchase?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: question2
+      label: How would you rate the quality of the product?
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: false
+    - id: 4
+      name: question3
+      label: What would you rate the price of the product?
+      hint: null
+      type: select_multiple
+      options:
+      - Too High
+      - Too Low
+      - Just Right
+      required: false

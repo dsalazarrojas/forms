@@ -1,0 +1,247 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Feedback Usage Consent Form
+    pages:
+    - id: 1
+      name: client_first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Your business name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback_type
+      label: Type of Feedback Provided
+      hint: What did you submit?
+      type: select_one
+      options:
+      - Testimonial
+      - Case Study
+      - Product Review
+      - Service Review
+      - Video Testimonial
+      - Written Feedback
+      - Survey Response
+      - Other
+      required: true
+    - id: 7
+      name: feedback_date
+      label: Date Feedback Was Provided
+      hint: When did you submit?
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: testimonial_content
+      label: Your Testimonial or Feedback
+      hint: What did you say?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: usage_consent_marketing
+      label: May We Use Your Feedback for Marketing?
+      hint: Website, brochures, ads
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, I Do Not Consent
+      required: true
+    - id: 10
+      name: usage_consent_website
+      label: May We Use Your Feedback on Our Website?
+      hint: Testimonials page
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, I Do Not Consent
+      required: true
+    - id: 11
+      name: usage_consent_social
+      label: May We Use Your Feedback on Social Media?
+      hint: Social platforms
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, I Do Not Consent
+      required: true
+    - id: 12
+      name: usage_consent_print
+      label: May We Use Your Feedback in Print Materials?
+      hint: Brochures, flyers, etc.
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, I Do Not Consent
+      required: true
+    - id: 13
+      name: name_attribution
+      label: How Should We Attribute Your Feedback?
+      hint: Name usage preference
+      type: select_one
+      options:
+      - Full Name and Company
+      - Full Name Only
+      - First Name and Last Initial
+      - First Name Only
+      - Anonymous
+      - Do Not Use My Name
+      required: true
+    - id: 14
+      name: company_logo_permission
+      label: May We Use Your Company Logo?
+      hint: If applicable
+      type: select_one
+      options:
+      - Yes, I Authorize
+      - No, Do Not Use
+      - Not Applicable
+      required: false
+    - id: 15
+      name: photo_permission
+      label: May We Use Your Photo?
+      hint: If you provided one
+      type: select_one
+      options:
+      - Yes, I Authorize
+      - No, Do Not Use
+      required: true
+    - id: 16
+      name: video_permission
+      label: May We Use Your Video Testimonial?
+      hint: If you provided one
+      type: select_one
+      options:
+      - Yes, I Authorize
+      - No, Do Not Use
+      - Not Applicable
+      required: false
+    - id: 17
+      name: geographic_usage
+      label: Where May We Use Your Feedback?
+      hint: Geographic scope
+      type: select_one
+      options:
+      - Worldwide
+      - North America Only
+      - United States Only
+      - Specific Region
+      required: true
+    - id: 18
+      name: usage_duration
+      label: How Long May We Use Your Feedback?
+      hint: Time limitation
+      type: select_one
+      options:
+      - Indefinitely
+      - 1 Year
+      - 2 Years
+      - 5 Years
+      - Until I Revoke
+      required: true
+    - id: 19
+      name: editing_permission
+      label: May We Edit Your Feedback for Clarity?
+      hint: Minor edits only
+      type: select_one
+      options:
+      - Yes, Minor Edits Only
+      - No, Use As Is
+      - Yes, With My Approval
+      required: true
+    - id: 20
+      name: exclusivity
+      label: Is This Feedback Exclusive to Us?
+      hint: Provided to competitors?
+      type: select_one
+      options:
+      - Yes, Exclusive
+      - No, May Be Shared
+      - Not Sure
+      required: false
+    - id: 21
+      name: revocation_understanding
+      label: I Understand I May Revoke Consent at Any Time
+      hint: Revocation rights
+      type: select_one
+      options:
+      - I Understand
+      - I Do Not Understand
+      required: true
+    - id: 22
+      name: compensation_received
+      label: Did You Receive Compensation for This Feedback?
+      hint: Payment or incentive
+      type: select_one
+      options:
+      - No Compensation
+      - Discount Received
+      - Monetary Payment
+      - Free Product or Service
+      - Other
+      required: true
+    - id: 23
+      name: relationship_disclosure
+      label: Do You Have Any Relationship with Our Company?
+      hint: Employee, investor, etc.
+      type: select_one
+      options:
+      - No Relationship
+      - Current Customer
+      - Former Employee
+      - Current Employee
+      - Investor
+      - Other
+      required: true
+    - id: 24
+      name: consent_agreement
+      label: I Agree to the Terms of This Consent Form
+      hint: Full agreement
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 25
+      name: consent_date
+      label: Consent Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true
+    - id: 26
+      name: electronic_signature
+      label: Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true

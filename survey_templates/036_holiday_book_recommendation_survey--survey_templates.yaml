@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Book Recommendation Survey
+    pages:
+    - id: 1
+      name: holiday_book_recommendation_survey_page
+      label: Reader Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: holiday_book_recommendation_survey_page1
+      label: Book Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Action & Adventure
+      - Classics
+      - Historical Fiction
+      - Mystery & Thriller
+      - Romance
+      - Science Fiction
+      - Fantasy
+      - Horror
+      - Horror & Suspense
+      - Humorous
+      - Literary Fiction
+      - Non-Fiction
+      - Poetry
+      - Young Adult
+      required: false
+    - id: 3
+      name: holiday_book_recommendation_survey_page2
+      label: Suggested Books
+      hint: Select up to 5 books
+      type: select_multiple
+      options:
+      - The Great Gatsby
+      - The Catcher in the Rye
+      - To Kill a Mockingbird
+      - '1984'
+      - The Adventures of Huckleberry Finn
+      - The Adventures of Tom Sawyer
+      - The Picture of Dorian Gray
+      - The Time Machine
+      - The War of the Worlds
+      - The Call of the Wild
+      - The Secret Garden
+      - The Secret Life of Bees
+      - The Secret History of E
+      required: false
+    - id: 4
+      name: holiday_book_recommendation_survey_page3
+      label: Holiday Suggestion
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: holiday_book_recommendation_survey_page4
+      label: Suggested Holiday
+      hint: Select the holiday you prefer
+      type: select_one
+      options:
+      - Valentine's Day
+      - St. Patrick's Day
+      - St. John the Baptist
+      - Easter
+      - Independence Day
+      - Halloween
+      - Thanksgiving
+      - Christmas
+      - New Year's Eve
+      - Easter
+      required: false
+    - id: 6
+      name: holiday_book_recommendation_survey_page5
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: holiday_book_recommendation_survey_page6
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: holiday_book_recommendation_survey_page7
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

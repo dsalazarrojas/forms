@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Snowmobile Equipment Exchange Survey
+    pages:
+    - id: 1
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_type
+      label: equipment_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''Sled''}'
+      - '{''id'': ''Golf cart''}'
+      - '{''id'': ''Other''}'
+      required: false
+    - id: 3
+      name: equipment_condition
+      label: equipment_condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''Good''}'
+      - '{''id'': ''Used''}'
+      - '{''id'': ''New''}'
+      required: false
+    - id: 4
+      name: photos
+      label: photos
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: contact_photo
+      label: contact_photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: equipment_description
+      label: equipment_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: snowmobile_details
+      label: snowmobile_details
+      hint: null
+      type: text
+      options: []
+      required: false

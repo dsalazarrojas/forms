@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Watched Content Feedback Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_question_1
+      label: How would you rate this content?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: feedback_answer_1
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback_question_2
+      label: Was this content what you were looking for?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''this content was exactly what I was looking for'': None}'
+      - '{''label'': False, ''this content was not what I was looking for'': None}'
+      - '{''label'': ''Not sure''}'
+      required: true
+    - id: 5
+      name: feedback_answer_2
+      label: Why did you find this content helpful or not?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback_question_3
+      label: How likely are you to recommend this content?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Not likely''}'
+      - '{''label'': ''Somewhat likely''}'
+      - '{''label'': ''Very likely''}'
+      - '{''label'': ''Extremely likely''}'
+      required: true
+    - id: 7
+      name: form_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false

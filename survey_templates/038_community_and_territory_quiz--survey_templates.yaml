@@ -1,0 +1,250 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community And Territory Quiz
+    pages:
+      - id: 1
+        name: quiz_introduction
+        label: Quiz Introduction
+        hint: Test your knowledge of community and territory
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: participant_name
+        label: Participant Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: participant_email
+        label: Participant Email
+        hint: Your email address
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: organization
+        label: Organization
+        hint: Your organization or school
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: quiz_date
+        label: Quiz Date
+        hint: Date you are taking this quiz
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: section_1_community_basics
+        label: Section 1 - Community Basics
+        hint: Questions about community fundamentals
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: q1_community_definition
+        label: Question 1 - What best defines a community
+        type: select_one
+        options:
+          - A group of people living in the same area
+          - A group sharing common interests or characteristics
+          - A political entity with defined borders
+          - All of the Above
+        required: true
+      - id: 8
+        name: q2_community_types
+        label: Question 2 - Which is NOT a type of community
+        type: select_one
+        options:
+          - Geographic
+          - Interest-Based
+          - Virtual
+          - Isolated
+        required: true
+      - id: 9
+        name: q3_community_leaders
+        label: Question 3 - Who typically leads community initiatives
+        type: select_one
+        options:
+          - Elected Officials Only
+          - Community Members and Organizations
+          - External Consultants
+          - Government Agencies Only
+        required: true
+      - id: 10
+        name: section_2_territory_basics
+        label: Section 2 - Territory Basics
+        hint: Questions about territorial concepts
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: q4_territory_definition
+        label: Question 4 - What is a territory
+        type: select_one
+        options:
+          - An area of land under jurisdiction
+          - A region with defined boundaries
+          - An area controlled by an entity
+          - All of the Above
+        required: true
+      - id: 12
+        name: q5_territory_vs_boundary
+        label: Question 5 - What is the difference between territory and boundary
+        type: select_one
+        options:
+          - They are the same
+          - Territory is the area - Boundary is the edge
+          - Boundary is larger than territory
+          - Territory is always political
+        required: true
+      - id: 13
+        name: q6_territorial_disputes
+        label: Question 6 - What commonly causes territorial disputes
+        type: select_one
+        options:
+          - Resource Access
+          - Historical Claims
+          - Strategic Location
+          - All of the Above
+        required: true
+      - id: 14
+        name: section_3_community_organization
+        label: Section 3 - Community Organization
+        hint: Questions about how communities organize
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: q7_community_meetings
+        label: Question 7 - What is the purpose of community meetings
+        type: select_one
+        options:
+          - Social Gathering
+          - Decision Making and Discussion
+          - Entertainment
+          - Fundraising Only
+        required: true
+      - id: 16
+        name: q8_stakeholders
+        label: Question 8 - Who are community stakeholders
+        type: select_one
+        options:
+          - Only Property Owners
+          - Anyone Affected by Community Decisions
+          - Only Business Owners
+          - Only Long-Term Residents
+        required: true
+      - id: 17
+        name: q9_community_resources
+        label: Question 9 - What are community resources
+        type: select_one
+        options:
+          - Only Financial Assets
+          - Only Physical Infrastructure
+          - Any Asset Available to the Community
+          - Only Government Services
+        required: true
+      - id: 18
+        name: section_4_territorial_management
+        label: Section 4 - Territorial Management
+        hint: Questions about managing territories
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: q10_zoning
+        label: Question 10 - What is zoning
+        type: select_one
+        options:
+          - A type of fencing
+          - Land Use Regulation
+          - Property Tax Assessment
+          - Building Construction
+        required: true
+      - id: 20
+        name: q11_land_use
+        label: Question 11 - What determines land use
+        type: select_one
+        options:
+          - Natural Features Only
+          - Government Regulations
+          - Community Needs and Planning
+          - All of the Above
+        required: true
+      - id: 21
+        name: q12_territorial_planning
+        label: Question 12 - What is territorial planning
+        type: select_one
+        options:
+          - Drawing Maps
+          - Organizing Land Use for Future Development
+          - Setting Property Taxes
+          - Building Roads
+        required: true
+      - id: 22
+        name: section_5_application
+        label: Section 5 - Application
+        hint: Questions applying concepts
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: q13_community_engagement
+        label: Question 13 - Best way to engage community members
+        type: select_one
+        options:
+          - Mandatory Attendance
+          - Inclusive Communication and Participation
+          - Financial Incentives Only
+          - Online Surveys Only
+        required: true
+      - id: 24
+        name: q14_conflict_resolution
+        label: Question 14 - How should territorial conflicts be resolved
+        type: select_one
+        options:
+          - By Force
+          - Through Negotiation and Mediation
+          - By External Imposition
+          - By Ignoring the Issue
+        required: true
+      - id: 25
+        name: q15_sustainable_development
+        label: Question 15 - What is sustainable community development
+        type: select_one
+        options:
+          - Building as Much as Possible
+          - Meeting Current Needs Without Compromising Future
+          - Preserving Everything as Is
+          - Maximizing Profits
+        required: true
+      - id: 26
+        name: bonus_question
+        label: Bonus Question
+        hint: Optional additional question
+        type: text
+        options: []
+        required: false
+      - id: 27
+        name: quiz_feedback
+        label: Quiz Feedback
+        hint: Any feedback about this quiz
+        type: text
+        options: []
+        required: false

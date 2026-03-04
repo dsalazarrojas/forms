@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: kyc_follow_up_questionnaire
+    pages:
+    - id: 1
+      name: follow_up_questions
+      label: follow_up_questions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: updated_address
+      label: updated_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: business_ownership_type
+      label: business_ownership_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: business_ownership_details
+      label: business_ownership_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_structure
+      label: business_structure
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: ownership_percentage
+      label: ownership_percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: beneficial_owner
+      label: beneficial_owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: business_address
+      label: business_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: updated_name
+      label: updated_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email_id
+      label: email_id
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: updated_phone_number
+      label: updated_phone_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: id_number
+      label: id_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: beneficial_ownership_details
+      label: beneficial_ownership_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: beneficial_owner_2
+      label: beneficial_owner_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: beneficial_ownership_type
+      label: beneficial_ownership_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: beneficial_owner_2_details
+      label: beneficial_owner_2_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: beneficial_ownership_percentage
+      label: beneficial_ownership_percentage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: beneficial_ownership_type_2
+      label: beneficial_ownership_type_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: beneficial_ownership_details_2
+      label: beneficial_ownership_details_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: beneficial_owners
+      label: beneficial_owners
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: beneficial_owners_details
+      label: beneficial_owners_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: business_ownership_details_2
+      label: business_ownership_details_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: updated_business_structure
+      label: updated_business_structure
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

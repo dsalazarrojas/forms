@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: robotics_onboarding_survey
+    pages:
+    - id: 1
+      name: new_member_details
+      label: new member details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: interests
+      label: interests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: experience_levels
+      label: experience levels
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: goals
+      label: goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: roles
+      label: roles
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: training_plans
+      label: training plans
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_info
+      label: additional info
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skin Tone Finder Quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: undertone_questions
+      label: undertone questions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: undertone_answers
+      label: undertone answers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: skin_tone_recommendations
+      label: skin tone recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: quiz_result
+      label: quiz result
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Game Day Meal Planning Survey
+    pages:
+    - id: 1
+      name: game_day_meal_planning_survey_headcount
+      label: How many people are you planning for?
+      hint: Enter the number of people you're planning for
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: game_day_meal_planning_survey_food_preferences
+      label: What type of food do you like?
+      hint: Select your favorite food types
+      type: select_one
+      options:
+      - Pizza
+      - Wings
+      - Tacos
+      - Burgers
+      - Grilled cheese
+      - Salads
+      - Other
+      required: false
+    - id: 3
+      name: game_day_meal_planning_survey_contribution_commitments
+      label: Are you able to contribute food to the meal?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: game_day_meal_planning_survey_contribution_commitments
+      label: What type of food are you able to contribute?
+      hint: Select your contribution
+      type: select_multiple
+      options:
+      - Pizza
+      - Wings
+      - Tacos
+      - Burgers
+      - Grilled cheese
+      - Salads
+      required: false
+    - id: 5
+      name: game_day_meal_planning_survey_special_dietary_needs
+      label: Are there any special dietary needs?
+      hint: null
+      type: select_multiple
+      options:
+      - Gluten-free
+      - Vegetarian
+      - Vegan
+      - Other
+      required: false
+    - id: 6
+      name: game_day_meal_planning_survey_special_dietary_needs_details
+      label: Provide more information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: game_day_meal_planning_survey_headcount
+      label: How many guests are bringing a dish?
+      hint: Enter the number of guests bringing a dish
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: game_day_meal_planning_survey_contribution_commitments
+      label: Are you bringing a dish?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: game_day_meal_planning_survey_headcount
+      label: How many guests are attending?
+      hint: Enter the number of guests attending
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: game_day_meal_planning_survey_headcount
+      label: How many guests are attending?
+      hint: Enter the number of guests attending
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: game_day_meal_planning_survey_date_time
+      label: Date and time for meal
+      hint: Select a date and time for meal
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: game_day_meal_planning_survey_phone_number
+      label: Host contact phone number
+      hint: Enter host contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: game_day_meal_planning_survey_email_address
+      label: Host contact email
+      hint: Enter host contact email
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: game_day_meal_planning_survey_address
+      label: Host contact address
+      hint: Enter host contact address
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: game_day_meal_planning_survey_notes
+      label: Additional notes
+      hint: Enter additional notes
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: game_day_meal_planning_survey_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: game_day_meal_planning_survey_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: game_day_meal_planning_survey_date_time
+      label: Date and time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: game_day_meal_planning_survey_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: game_day_meal_planning_survey_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: game_day_meal_planning_survey_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: game_day_meal_planning_survey_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: game_day_meal_planning_survey_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: game_day_meal_planning_survey_game_day
+      label: Is this for a game day?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: game_day_meal_planning_survey_additional_notes
+      label: Additional notes
+      hint: null
+      type: text
+      options: []
+      required: false

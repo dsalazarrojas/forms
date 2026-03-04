@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: Faculty Peer Learning Support Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: peer_learning_activities
+      label: Peer Learning Activities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: challenge_areas
+      label: Challenge Areas
+      hint: null
+      type: select_one
+      options:
+      - Peer Mentoring
+      - Collaborative Projects
+      - Peer Feedback
+      - Other (Specify below)
+      required: true
+    - id: 4
+      name: effectiveness
+      label: Effectiveness
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: improvement_ideas
+      label: Improvement Ideas
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

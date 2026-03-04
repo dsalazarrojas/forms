@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: PCJ Evaluation Feedback Form
+    pages:
+    - id: 1
+      name: evaluation_form
+      label: Evaluation Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: overall_rating
+      label: Overall Rating
+      hint: Rate from 1-5
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: satisfaction_rating
+      label: Satisfaction Rating
+      hint: Rate from 1-5
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: What did we do well?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: suggestions
+      label: Suggestions
+      hint: What could we improve on?
+      type: text
+      options: []
+      required: false

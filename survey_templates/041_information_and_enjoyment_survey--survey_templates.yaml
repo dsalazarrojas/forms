@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: information_and_enjoyment_survey
+    pages:
+    - id: 1
+      name: survey_start
+      label: start
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: rating
+      label: prophets_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: comment
+      label: comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rating_2
+      label: rating_2
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: comment_2
+      label: comment_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: survey_end
+      label: end
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: survey_finish
+      label: finish
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

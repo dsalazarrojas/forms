@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Program Impact Evaluation Form
+    pages:
+    - id: 1
+      name: volunteer_program_impact_form
+      label: program_impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: survey_templates_form_questions_1
+      label: how_did_you_participate
+      hint: null
+      type: select_one
+      options:
+      - Volunteer
+      - Participant
+      - Volunteer and Participant
+      required: false
+    - id: 3
+      name: survey_templates_form_questions_2
+      label: how_long_did_you_participate
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: survey_templates_form_questions_3
+      label: how_did_we_do
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: survey_templates_form_questions_4
+      label: how_did_we_help
+      hint: null
+      type: select_one
+      options:
+      - Volunteer
+      - Participant
+      - Volunteer and Participant
+      required: false
+    - id: 6
+      name: survey_templates_form_questions_5
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email_notification
+      label: receive_updates
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false

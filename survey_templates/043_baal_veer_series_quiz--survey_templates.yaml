@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baal Veer Series Quiz
+    pages:
+    - id: 1
+      name: participant_name
+      label: Your Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For quiz results
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - Under 10
+      - 10-15
+      - 15-20
+      - 20-30
+      - 30-40
+      - 40+
+      required: false
+    - id: 4
+      name: fandom_level
+      label: How Much of a Baal Veer Fan Are You?
+      hint: null
+      type: select_one
+      options:
+      - Casual viewer
+      - Regular watcher
+      - Devoted fan
+      - Super fan
+      - Just here for fun
+      required: false
+    - id: 5
+      name: question_1
+      label: Question 1 - What Is Baal Veer's Real Name?
+      hint: null
+      type: select_one
+      options:
+      - Veer Vyas
+      - Baal Veer Singh
+      - Aansh
+      - Other
+      required: true
+    - id: 6
+      name: question_2
+      label: Question 2 - Where Does Baal Veer Come From?
+      hint: null
+      type: select_one
+      options:
+      - Fairy Kingdom
+      - Divine World
+      - Magical Realm
+      - Underworld
+      required: true
+    - id: 7
+      name: question_3
+      label: Question 3 - What Is Baal Veer's Main Power?
+      hint: null
+      type: select_one
+      options:
+      - Super strength
+      - Flying ability
+      - Magical powers
+      - Time control
+      required: true
+    - id: 8
+      name: question_4
+      label: Question 4 - Who Is Baal Veer's Best Friend?
+      hint: null
+      type: select_one
+      options:
+      - Pannu
+      - Rani
+      - Dev
+      - Other
+      required: true
+    - id: 9
+      name: question_5
+      label: Question 5 - What Year Did the Show First Air?
+      hint: null
+      type: select_one
+      options:
+      - 2012
+      - 2014
+      - 2016
+      - 2018
+      required: true
+    - id: 10
+      name: question_6
+      label: Question 6 - Which Network Aired Baal Veer?
+      hint: null
+      type: select_one
+      options:
+      - Sony SAB
+      - Colors
+      - Star Plus
+      - Zee TV
+      required: true
+    - id: 11
+      name: question_7
+      label: Question 7 - What Is Your Favorite Episode?
+      hint: Describe your favorite moment
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: question_8
+      label: Question 8 - Favorite Character (besides Baal Veer)?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: series_rating
+      label: Rate the Series Overall
+      hint: 1 (poor) to 10 (excellent)
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: favorite_moment
+      label: Most Memorable Series Moment
+      hint: Tell us about it
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: would_recommend
+      label: Would You Recommend This Series to Others?
+      hint: null
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Maybe
+      - Probably No
+      - Definitely No
+      required: false
+    - id: 16
+      name: feedback
+      label: Any Other Feedback or Comments
+      hint: null
+      type: text
+      options: []
+      required: false

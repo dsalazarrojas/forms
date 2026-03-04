@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Economic Transformations Assessment
+    pages:
+    - id: 1
+      name: intro
+      label: Intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: digitalization
+      label: How do you perceive digitalization in your sector?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: globalization
+      label: How do you perceive globalization in your sector?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: green_economy
+      label: How do you perceive the green economy in your sector?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: digitalization_impact
+      label: What is the impact of digitalization on your sector?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: globalization_impact
+      label: What is the impact of globalization on your sector?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: green_economy_impact
+      label: What is the impact of the green economy on your sector?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: sector
+      label: Sector
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: sector_list
+      label: Sector list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: industry
+      label: Industry
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: subsector
+      label: Subsector
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: time_spent
+      label: Time Spent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: confidence
+      label: Confidence
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: scale
+      label: Scale
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: scale_list
+      label: Scale list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

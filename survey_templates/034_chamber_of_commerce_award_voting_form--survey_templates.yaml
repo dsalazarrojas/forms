@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chamber Of Commerce Award Voting Form
+    pages:
+    - id: 1
+      name: vote_date
+      label: Vote Date
+      hint: Date of vote submission
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: voter_name
+      label: Voter Name
+      hint: Full name of voter
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: voter_email
+      label: Email Address
+      hint: Email for verification
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: voter_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: business_name
+      label: Business Name
+      hint: Name of your business
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_address
+      label: Business Address
+      hint: Full business address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: membership_status
+      label: Chamber Membership Status
+      hint: Are you a chamber member
+      type: select_one
+      options:
+      - Current member
+      - Former member
+      - Non-member
+      - Applying for membership
+      required: true
+    - id: 8
+      name: membership_id
+      label: Membership ID Number
+      hint: Your chamber membership ID
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: years_as_member
+      label: Years as Member
+      hint: How long have you been a member
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - More than 10 years
+      - Not a member
+      required: false
+    - id: 10
+      name: award_category_1
+      label: Award Category 1
+      hint: Select nominee for first category
+      type: select_one
+      options:
+      - Business of the Year
+      - Small Business of the Year
+      - Nonprofit of the Year
+      - Entrepreneur of the Year
+      - Community Service Award
+      - Innovation Award
+      - Customer Service Excellence
+      - Best New Business
+      required: true
+    - id: 11
+      name: nominee_1
+      label: Nominee for Category 1
+      hint: Name of business or individual
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: award_category_2
+      label: Award Category 2
+      hint: Select nominee for second category
+      type: select_one
+      options:
+      - Business of the Year
+      - Small Business of the Year
+      - Nonprofit of the Year
+      - Entrepreneur of the Year
+      - Community Service Award
+      - Innovation Award
+      - Customer Service Excellence
+      - Best New Business
+      required: false
+    - id: 13
+      name: nominee_2
+      label: Nominee for Category 2
+      hint: Name of business or individual
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: award_category_3
+      label: Award Category 3
+      hint: Select nominee for third category
+      type: select_one
+      options:
+      - Business of the Year
+      - Small Business of the Year
+      - Nonprofit of the Year
+      - Entrepreneur of the Year
+      - Community Service Award
+      - Innovation Award
+      - Customer Service Excellence
+      - Best New Business
+      required: false
+    - id: 15
+      name: nominee_3
+      label: Nominee for Category 3
+      hint: Name of business or individual
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: write_in_category
+      label: Write-in Category
+      hint: Specify if voting for unlisted category
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: write_in_nominee
+      label: Write-in Nominee
+      hint: Name of write-in nominee
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: nomination_reason
+      label: Nomination Reason
+      hint: Why are you nominating these businesses
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: voter_eligibility
+      label: Voter Eligibility
+      hint: I confirm I am eligible to vote
+      type: select_one
+      options:
+      - Yes - I am eligible
+      - No - I am not eligible
+      required: true
+    - id: 20
+      name: one_vote_per_category
+      label: One Vote Per Category
+      hint: I confirm I am voting only once per category
+      type: select_one
+      options:
+      - Yes - I confirm
+      - No - I do not confirm
+      required: true
+    - id: 21
+      name: voter_signature
+      label: Voter Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: signature_date
+      label: Signature Date
+      hint: Date of voting
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Leadership Transformation Impact Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: Survey Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: training_area
+      label: Training Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: training_programs
+      label: Training Programs
+      hint: null
+      type: select_multiple
+      options:
+      - Leadership Development
+      - Communication
+      - Project Management
+      - Leadership Development
+      - Time Management
+      required: false
+    - id: 4
+      name: training_method
+      label: Training Method
+      hint: null
+      type: select_one
+      options:
+      - Face-to-Face
+      - Online
+      - Virtual
+      - In-person
+      - Other (please specify)
+      required: false
+    - id: 5
+      name: training_length
+      label: Training Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: training_hours
+      label: Training Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: training_participation
+      label: Training Participation
+      hint: null
+      type: select_one
+      options:
+      - Highly
+      - Moderately
+      - Not at all
+      required: false
+    - id: 8
+      name: impact_on_performance
+      label: Impact on Performance
+      hint: null
+      type: select_multiple
+      options:
+      - Increased productivity
+      - Improved time management
+      - Enhanced leadership skills
+      - Better relationships with team members
+      - Improved communication
+      required: false
+    - id: 9
+      name: impact_on_engagement
+      label: Impact on Engagement
+      hint: null
+      type: select_multiple
+      options:
+      - Increased job satisfaction
+      - Improved work-life balance
+      - Better relationships with team members
+      - Improved communication
+      - Enhanced sense of purpose
+      required: false
+    - id: 10
+      name: impact_on_job_satisfaction
+      label: Impact on Job Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Increased job satisfaction
+      - Improved work-life balance
+      - Better relationships with team members
+      - Improved communication
+      - Enhanced sense of purpose
+      required: false
+    - id: 11
+      name: training_frequency
+      label: Training Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-annual
+      - Annually
+      - Never
+      required: false
+    - id: 12
+      name: training_focus
+      label: Training Focus
+      hint: null
+      type: select_one
+      options:
+      - Leadership development
+      - Communication
+      - Project Management
+      - Team Building
+      - Leadership development
+      required: false
+    - id: 13
+      name: training_goals
+      label: Training Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: survey_comments
+      label: Survey Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: supervisor_title
+      label: Supervisor Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: training_location
+      label: Training Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: training_time
+      label: Training Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: training_duration
+      label: Training Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: text
+      options: []
+      required: false

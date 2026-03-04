@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reading Interest Survey
+    pages:
+    - id: 1
+      name: reading_interest_survey
+      label: reading_interest
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: reading_interest_survey_1
+      label: how_often_do_you_read
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false
+    - id: 3
+      name: reading_interest_survey_2
+      label: what_type_of_reading_materials_do_you_prefer
+      hint: null
+      type: select_one
+      options:
+      - fiction
+      - nonfiction
+      - both
+      - neither
+      required: false
+    - id: 4
+      name: reading_interest_survey_3
+      label: which_of_the_following_formats_do_you_prefer
+      hint: null
+      type: select_one
+      options:
+      - book
+      - article
+      - both
+      - neither
+      required: false
+    - id: 5
+      name: reading_interest_survey_4
+      label: how_much_time_do_you_spend_reading_per_week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: reading_interest_survey_5
+      label: what_do_you_like_to_read_for_what_purpose
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

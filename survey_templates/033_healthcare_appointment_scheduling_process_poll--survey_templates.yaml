@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Appointment Scheduling Process Poll
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction_level
+      label: satisfaction_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: wait_time
+      label: wait_time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: preferred_method
+      label: preferred_method
+      hint: null
+      type: select_multiple
+      options:
+      - Waiting Room
+      - Online Scheduling
+      - Phone Call
+      - Email
+      - Other
+      required: false
+    - id: 5
+      name: scheduling_frequency
+      label: scheduling_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: communication_method
+      label: communication_method
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - In Person
+      - Chat
+      - Other
+      required: false
+    - id: 7
+      name: preferred_time
+      label: preferred_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: scheduling_channel
+      label: scheduling_channel
+      hint: null
+      type: select_multiple
+      options:
+      - In Person
+      - Phone
+      - Online
+      - Video Call
+      required: false
+    - id: 9
+      name: followup
+      label: followup
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: comments_email
+      label: comments_email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: comments_phone
+      label: comments_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments_other
+      label: comments_other
+      hint: null
+      type: text
+      options: []
+      required: false

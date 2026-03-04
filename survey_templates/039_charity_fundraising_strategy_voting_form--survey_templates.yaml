@@ -1,0 +1,187 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Charity Fundraising Strategy Voting Form
+    pages:
+      - id: 1
+        name: voter_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: voter_email
+        label: Email Address
+        hint: For confirmation
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: voter_role
+        label: Your Role
+        hint: Relationship to organization
+        type: select_one
+        options:
+          - Board member
+          - Staff member
+          - Volunteer
+          - Major donor
+          - Community member
+          - Other
+        required: true
+      - id: 4
+        name: organization_name
+        label: Organization Name
+        hint: Charity name
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: voting_period
+        label: Voting Period
+        hint: Which cycle
+        type: select_one
+        options:
+          - Q1 planning
+          - Q2 planning
+          - Q3 planning
+          - Q4 planning
+          - Annual planning
+        required: true
+      - id: 6
+        name: strategy_preference_1
+        label: First Choice Fundraising Strategy
+        hint: Top priority
+        type: select_one
+        options:
+          - Annual gala event
+          - Charity auction
+          - Fun run or walk
+          - Online crowdfunding
+          - Grant writing
+          - Corporate partnerships
+          - Monthly donor program
+          - Capital campaign
+        required: true
+      - id: 7
+        name: strategy_preference_2
+        label: Second Choice Fundraising Strategy
+        hint: Second priority
+        type: select_one
+        options:
+          - Annual gala event
+          - Charity auction
+          - Fun run or walk
+          - Online crowdfunding
+          - Grant writing
+          - Corporate partnerships
+          - Monthly donor program
+          - Capital campaign
+        required: true
+      - id: 8
+        name: strategy_preference_3
+        label: Third Choice Fundraising Strategy
+        hint: Third priority
+        type: select_one
+        options:
+          - Annual gala event
+          - Charity auction
+          - Fun run or walk
+          - Online crowdfunding
+          - Grant writing
+          - Corporate partnerships
+          - Monthly donor program
+          - Capital campaign
+        required: false
+      - id: 9
+        name: budget_range
+        label: Preferred Budget Range
+        hint: Investment level
+        type: select_one
+        options:
+          - Under $10000
+          - $10000 to $25000
+          - $25001 to $50000
+          - $50001 to $100000
+          - Over $100000
+        required: true
+      - id: 10
+        name: timeline_preference
+        label: Preferred Timeline
+        hint: When to execute
+        type: select_one
+        options:
+          - Immediate within 1 month
+          - Short-term 1 to 3 months
+          - Medium-term 3 to 6 months
+          - Long-term 6 to 12 months
+        required: true
+      - id: 11
+        name: resource_availability
+        label: Available Resources
+        hint: What you can contribute
+        type: select_multiple
+        options:
+          - Time volunteering
+          - Financial donation
+          - Professional skills
+          - Venue access
+          - Network connections
+          - In-kind donations
+          - None at this time
+        required: true
+      - id: 12
+        name: risk_tolerance
+        label: Risk Tolerance
+        hint: Comfort level
+        type: select_one
+        options:
+          - High risk high reward
+          - Moderate risk
+          - Low risk stable return
+          - Very conservative
+        required: true
+      - id: 13
+        name: community_impact
+        label: Importance of Community Visibility
+        hint: Public profile
+        type: select_one
+        options:
+          - Very important
+          - Important
+          - Neutral
+          - Not important
+        required: true
+      - id: 14
+        name: strategy_reasoning
+        label: Reasoning for Your Choices
+        hint: Explain your votes
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: additional_suggestions
+        label: Additional Strategy Suggestions
+        hint: Other ideas
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: implementation_concerns
+        label: Any Implementation Concerns
+        hint: Potential issues
+        type: text
+        options: []
+        required: false

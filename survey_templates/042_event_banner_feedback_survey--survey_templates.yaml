@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: event_banner_feedback_survey
+    pages:
+    - id: 1
+      name: event_banner_feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_signage_rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: event_signage_rating_scale
+      label: Rating Scale
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 4
+      name: event_signage_feedback
+      label: Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - Strongly Disagree
+      - Somewhat Disagree
+      - Neutral
+      - Somewhat Agree
+      - Strongly Agree
+      required: false
+    - id: 5
+      name: event_signage_suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_signage_department
+      label: Department
+      hint: Which department do you work for?
+      type: select_one
+      options:
+      - Marketing
+      - Sales
+      - Support
+      - Product
+      - Other
+      required: false
+    - id: 7
+      name: event_signage_job_title
+      label: Job Title
+      hint: What's your job title?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_signage_email
+      label: Email
+      hint: Your email address
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: event_signage_phone
+      label: Phone
+      hint: Your phone number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_signage_company
+      label: Company
+      hint: Your company name
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: event_signage_location
+      label: Location
+      hint: Where do you work?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_signage_colloquium
+      label: Colloquium
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: event_signage_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: event_signage_agreement
+      label: Agreement
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Somewhat Agree
+      - Neutral
+      - Somewhat Disagree
+      - Strongly Disagree
+      required: false

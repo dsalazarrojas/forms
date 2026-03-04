@@ -1,0 +1,83 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Residential Soundproofing Satisfaction Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: installation_date
+      label: Installation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: soundproofing_system_rating
+      label: Soundproofing System
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 4, ''name'': ''Excellent''}'
+      - '{''id'': 5, ''name'': ''Good''}'
+      - '{''id'': 6, ''name'': ''Fair''}'
+      - '{''id'': 7, ''name'': ''Poor''}'
+      - '{''id'': 8, ''name'': ''Very Poor''}'
+      required: false
+    - id: 4
+      name: satisfaction_level
+      label: Your Satisfaction Level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 10, ''name'': ''Very Satisfied''}'
+      - '{''id'': 11, ''name'': ''Somewhat Satisfied''}'
+      - '{''id'': 12, ''name'': ''Neutral''}'
+      - '{''id'': 13, ''name'': ''Somewhat Dissatisfied''}'
+      - '{''id'': 14, ''name'': ''Very Dissatisfied''}'
+      required: false
+    - id: 5
+      name: installation_quality
+      label: Quality of Installation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 16, ''name'': ''Excellent''}'
+      - '{''id'': 17, ''name'': ''Good''}'
+      - '{''id'': 18, ''name'': ''Fair''}'
+      - '{''id'': 19, ''name'': ''Poor''}'
+      required: false
+    - id: 6
+      name: customer_support
+      label: Customer Support
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 21, ''name'': ''Excellent''}'
+      - '{''id'': 22, ''name'': ''Good''}'
+      - '{''id'': 23, ''name'': ''Fair''}'
+      - '{''id'': 24, ''name'': ''Poor''}'
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: Please provide any other comments or feedback you would like to share.
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parish Book Distribution Survey
+    pages:
+    - id: 1
+      name: survey_template
+      label: Survey Template
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parish
+      label: Parish
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: book_name
+      label: Book name
+      hint: null
+      type: select_one
+      options:
+      - Book 1
+      - Book 2
+      required: true
+    - id: 4
+      name: distribution_status
+      label: Distribution status
+      hint: null
+      type: select_multiple
+      options:
+      - Distributed
+      - Not distributed
+      - Missing
+      required: true
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_received
+      label: Date received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_received
+      label: Time received
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: contact_person
+      label: Contact person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

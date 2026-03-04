@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Invasive Plant Removal Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: Survey Header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_survey
+      label: Date Survey
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: location_name
+      label: Location Name
+      hint: Enter the name of the location that was surveyed
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: location_notes
+      label: Location Notes
+      hint: Enter any notes about the location
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: removal_method
+      label: Removal Method
+      hint: What type of removal method was used
+      type: select_one
+      options:
+      - Invasive species removal
+      - Non-invasive species removal
+      - Other - specify
+      required: false
+    - id: 6
+      name: removal_method_other
+      label: Other - Specify
+      hint: Other - specify
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: species_removed_1
+      label: Species Removed 1
+      hint: Enter species removed 1
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: species_removed_2
+      label: Species Removed 2
+      hint: Enter species removed 2
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: area_surveyed
+      label: Area Surveyed
+      hint: Enter the size of the area that was surveyed in hectares
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: removal_effort_hours
+      label: Removal Effort Hours
+      hint: Enter the number of hours that were spent on the removal activity
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: removal_effort_persons
+      label: Removal Effort Persons
+      hint: Enter the number of persons that worked on the removal activity
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: removal_outcomes
+      label: Removal Outcomes
+      hint: Enter any outcomes from the removal activity
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: survey_notes
+      label: Survey Notes
+      hint: Enter any notes about the survey
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: photos_attached
+      label: Photos Attached
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: other_photos
+      label: Other Photos
+      hint: Other photos
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: other_photos_details
+      label: Other Photos - Details
+      hint: Please provide a detailed description of the photos taken
+      type: text
+      options: []
+      required: false

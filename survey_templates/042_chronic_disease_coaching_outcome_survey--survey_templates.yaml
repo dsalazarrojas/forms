@@ -1,0 +1,313 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Chronic Disease Coaching Outcome Survey
+    pages:
+      - id: 1
+        name: participant_name
+        label: Full Name
+        hint: Optional - your name
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: email_address
+        label: Email Address
+        hint: For survey follow-up
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: participant_id
+        label: Participant ID
+        hint: If you have one
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: program_start_date
+        label: Program Start Date
+        hint: When did you start coaching
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: coaching_sessions_completed
+        label: Coaching Sessions Completed
+        hint: How many sessions have you had
+        type: select_one
+        options:
+          - 1-2 sessions
+          - 3-5 sessions
+          - 6-8 sessions
+          - 9-12 sessions
+          - More than 12
+        required: true
+      - id: 6
+        name: section_program_info
+        label: -- Program Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: chronic_condition
+        label: Chronic Condition
+        hint: Primary condition being managed
+        type: select_one
+        options:
+          - Type 2 Diabetes
+          - Hypertension
+          - Heart Disease
+          - COPD
+          - Asthma
+          - Chronic Kidney Disease
+          - Obesity
+          - Multiple Conditions
+          - Other
+        required: true
+      - id: 8
+        name: health_status_rating
+        label: Current Health Status
+        hint: Rate your overall health
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 9
+        name: health_status_change
+        label: Health Status Change
+        hint: How has your health changed
+        type: select_one
+        options:
+          - Much improved
+          - Somewhat improved
+          - No change
+          - Somewhat worse
+          - Much worse
+        required: true
+      - id: 10
+        name: section_health_outcomes
+        label: -- Health Outcomes --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: symptom_management
+        label: Symptom Management
+        hint: How well are you managing symptoms
+        type: select_one
+        options:
+          - Very well
+          - Well
+          - Moderately
+          - Poorly
+          - Very poorly
+        required: true
+      - id: 12
+        name: medication_adherence
+        label: Medication Adherence
+        hint: How often do you take medications as prescribed
+        type: select_one
+        options:
+          - Always
+          - Most of the time
+          - Sometimes
+          - Rarely
+          - Never
+        required: true
+      - id: 13
+        name: lifestyle_changes
+        label: Lifestyle Changes Made
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Improved diet
+          - Increased physical activity
+          - Weight loss
+          - Stress management
+          - Better sleep habits
+          - Reduced alcohol
+          - Quit smoking
+          - None yet
+        required: true
+      - id: 14
+        name: section_lifestyle
+        label: -- Lifestyle Changes --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: confidence_level
+        label: Confidence in Self-Management
+        hint: How confident are you managing your condition
+        type: select_one
+        options:
+          - Very confident
+          - Confident
+          - Somewhat confident
+          - Not very confident
+          - Not confident at all
+        required: true
+      - id: 16
+        name: knowledge_improvement
+        label: Knowledge Improvement
+        hint: How much has your knowledge improved
+        type: select_one
+        options:
+          - Significantly improved
+          - Moderately improved
+          - Slightly improved
+          - No change
+          - Worse
+        required: true
+      - id: 17
+        name: goal_achievement
+        label: Goal Achievement
+        hint: How well are you meeting your health goals
+        type: select_one
+        options:
+          - Exceeded goals
+          - Met all goals
+          - Met some goals
+          - Made little progress
+          - No progress
+        required: true
+      - id: 18
+        name: section_self_management
+        label: -- Self-Management --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: coach_support_rating
+        label: Coach Support Rating
+        hint: How would you rate your coach support
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 20
+        name: coach_helpfulness
+        label: Coach Helpfulness
+        hint: How helpful was your coach
+        type: select_one
+        options:
+          - Extremely helpful
+          - Very helpful
+          - Somewhat helpful
+          - Not very helpful
+          - Not helpful at all
+        required: true
+      - id: 21
+        name: communication_quality
+        label: Communication Quality
+        hint: Rate the quality of communication
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 22
+        name: section_coaching_experience
+        label: -- Coaching Experience --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: program_satisfaction
+        label: Overall Program Satisfaction
+        hint: How satisfied are you with the program
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 24
+        name: would_recommend
+        label: Would You Recommend
+        hint: Would you recommend this program
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Maybe
+          - Probably not
+          - Definitely not
+        required: true
+      - id: 25
+        name: continue_program
+        label: Continue in Program
+        hint: Do you want to continue
+        type: select_one
+        options:
+          - Yes definitely
+          - Yes probably
+          - Undecided
+          - Probably not
+          - No
+        required: true
+      - id: 26
+        name: section_satisfaction
+        label: -- Satisfaction --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 27
+        name: most_helpful_aspect
+        label: Most Helpful Aspect
+        hint: What was most helpful
+        type: text
+        options: []
+        required: false
+      - id: 28
+        name: areas_for_improvement
+        label: Areas for Improvement
+        hint: What could be better
+        type: text
+        options: []
+        required: false
+      - id: 29
+        name: additional_support_needed
+        label: Additional Support Needed
+        hint: What else would help you
+        type: text
+        options: []
+        required: false
+      - id: 30
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

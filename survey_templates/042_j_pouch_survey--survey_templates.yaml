@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: j_pouch_survey
+    pages:
+    - id: 1
+      name: intro
+      label: j_pouch_survey_intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: symptoms
+      label: symptoms_of_pouchitis
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 3
+      name: symptoms_other
+      label: other_symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: pain
+      label: pain_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: pain_duration
+      label: pain_duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: medication
+      label: medication_taken
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 7
+      name: other_medication
+      label: other_medication_taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: surgery
+      label: surgery_had
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: true
+    - id: 9
+      name: surgery_other
+      label: other_surgery
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: doctor_visits
+      label: doctor_visits
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 11
+      name: doctor_visits_other
+      label: other_doctor_visits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: travel
+      label: travel_frequency
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: true
+    - id: 13
+      name: travel_duration
+      label: travel_duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: work
+      label: work_status
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: true
+    - id: 15
+      name: work_other
+      label: other_work_status
+      hint: null
+      type: text
+      options: []
+      required: false

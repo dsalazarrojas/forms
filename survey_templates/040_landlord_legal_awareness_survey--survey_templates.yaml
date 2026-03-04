@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Landlord Legal Awareness Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: Landlord Legal Awareness Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: section_1
+      label: Introduction
+      hint: Please answer the following questions
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: landlord_name
+      label: landlord_name
+      hint: Enter your full name as a landlord
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: property_address
+      label: property_address
+      hint: Enter your property address
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: question_1
+      label: Are you aware of all applicable landlord-tenant laws and regulations?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: question_2
+      label: How many years have you been a landlord?
+      hint: Number of years
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: question_3
+      label: How often do you review the lease agreement with your tenant?
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Mostly
+      - Sometimes
+      - Never
+      required: false
+    - id: 8
+      name: section_2
+      label: Section 2
+      hint: Please answer the following questions
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: question_4
+      label: What is the main reason you would ask a tenant to move out?
+      hint: null
+      type: select_multiple
+      options:
+      - Non-payment of rent
+      - Damage to the property
+      - Breach of lease
+      - Other (please specify)
+      required: false
+    - id: 10
+      name: question_5
+      label: Have you ever had to deal with an eviction?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: question_6
+      label: What type of education or training would you find most helpful?
+      hint: null
+      type: select_multiple
+      options:
+      - Landlord-tenant law
+      - Property management
+      - Real estate investing
+      - Other (please specify)
+      required: false
+    - id: 12
+      name: question_7
+      label: How many properties do you currently manage?
+      hint: Number of properties
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: section_3
+      label: Section 3
+      hint: Please answer the following questions
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: question_8
+      label: How often do you use a property manager?
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Mostly
+      - Sometimes
+      - Never
+      required: false
+    - id: 15
+      name: question_9
+      label: What is the main reason you use a property manager?
+      hint: null
+      type: select_multiple
+      options:
+      - I need help with tenant relations
+      - I need help with rent collection
+      - I need help with property maintenance
+      - Other (please specify)
+      required: false
+    - id: 16
+      name: question_10
+      label: Have you ever had any complaints from tenants?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: question_11
+      label: How do you typically handle complaints from tenants?
+      hint: null
+      type: select_multiple
+      options:
+      - Meet with them in person
+      - Call or text them
+      - Email or online portal
+      - Other (please specify)
+      required: false
+    - id: 18
+      name: question_12
+      label: Do you have any upcoming events or activities planned for your tenants?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: section_4
+      label: Section 4
+      hint: Please answer the following questions
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: question_13
+      label: Do you have any additional comments or suggestions for us?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_5
+      label: Section 5
+      hint: Thank you for taking the time to complete this survey. Your input is invaluable
+        to us.
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: question_14
+      label: How long did it take you to complete this survey?
+      hint: Number of minutes
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: question_15
+      label: How would you rate this survey?
+      hint: null
+      type: select_one
+      options:
+      - Very good
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 24
+      name: question_16
+      label: Do you have any other comments or feedback for this survey?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: question_17
+      label: Is there anything else you would like to add?
+      hint: null
+      type: text
+      options: []
+      required: false

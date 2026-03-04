@@ -1,0 +1,275 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bankruptcy Survey
+    pages:
+    - id: 1
+      name: respondent_full_name
+      label: Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: respondent_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: respondent_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: age_range
+      label: Age Range
+      hint: Your age bracket
+      type: select_one
+      options:
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65 or older
+      required: true
+    - id: 5
+      name: marital_status
+      label: Marital Status
+      hint: Current status
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      - Separated
+      required: true
+    - id: 6
+      name: household_size
+      label: Household Size
+      hint: Number of people
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: bankruptcy_chapter_filed
+      label: Bankruptcy Chapter Filed
+      hint: Which chapter
+      type: select_one
+      options:
+      - Chapter 7
+      - Chapter 13
+      - Chapter 11
+      - Considering
+      - Not Applicable
+      required: true
+    - id: 8
+      name: filing_date
+      label: Filing Date
+      hint: When filed
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: primary_reason
+      label: Primary Reason for Bankruptcy
+      hint: Main cause
+      type: select_one
+      options:
+      - Medical Expenses
+      - Job Loss
+      - Divorce or Separation
+      - Business Failure
+      - Credit Card Debt
+      - Unexpected Emergency
+      - Overspending
+      - Other
+      required: true
+    - id: 10
+      name: total_debt_before
+      label: Total Debt Before Filing
+      hint: Approximate amount
+      type: select_one
+      options:
+      - Under $10000
+      - $10000-$25000
+      - $25000-$50000
+      - $50000-$100000
+      - $100000-$250000
+      - Over $250000
+      required: true
+    - id: 11
+      name: debt_categories
+      label: Debt Categories
+      hint: Types of debt
+      type: select_multiple
+      options:
+      - Credit Cards
+      - Medical Bills
+      - Personal Loans
+      - Auto Loans
+      - Mortgage
+      - Student Loans
+      - Tax Debt
+      - Payday Loans
+      - Business Loans
+      - Family Loans
+      required: true
+    - id: 12
+      name: annual_income_before
+      label: Annual Income Before
+      hint: Previous income
+      type: select_one
+      options:
+      - Under $25000
+      - $25000-$49999
+      - $50000-$74999
+      - $75000-$99999
+      - $100000-$149999
+      - $150000 or more
+      required: true
+    - id: 13
+      name: current_income
+      label: Current Annual Income
+      hint: Present income
+      type: select_one
+      options:
+      - Under $25000
+      - $25000-$49999
+      - $50000-$74999
+      - $75000-$99999
+      - $100000-$149999
+      - $150000 or more
+      required: true
+    - id: 14
+      name: home_ownership_status
+      label: Home Ownership Status
+      hint: Housing situation
+      type: select_one
+      options:
+      - Own with Mortgage
+      - Own Free and Clear
+      - Renting
+      - Living with Family
+      - Other
+      required: true
+    - id: 15
+      name: financial_counseling
+      label: Financial Counseling Received
+      hint: Did you get counseling
+      type: select_one
+      options:
+      - Yes, before filing
+      - Yes, after filing
+      - false
+      required: true
+    - id: 16
+      name: attorney_used
+      label: Did You Use an Attorney
+      hint: Legal representation
+      type: select_one
+      options:
+      - Yes, hired attorney
+      - No, filed pro se
+      - Used Legal Aid
+      required: true
+    - id: 17
+      name: process_satisfaction
+      label: Process Satisfaction
+      hint: How satisfied with process
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 18
+      name: financial_situation_now
+      label: Financial Situation Now
+      hint: Current status
+      type: select_one
+      options:
+      - Much Better
+      - Somewhat Better
+      - Same
+      - Somewhat Worse
+      - Much Worse
+      required: true
+    - id: 19
+      name: credit_rebuilding
+      label: Credit Rebuilding Progress
+      hint: How is credit recovery
+      type: select_one
+      options:
+      - Excellent Progress
+      - Good Progress
+      - Some Progress
+      - No Progress Yet
+      - Not Started
+      required: false
+    - id: 20
+      name: would_file_again
+      label: Would You File Again
+      hint: If needed
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Unsure
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 21
+      name: recommend_to_others
+      label: Would Recommend to Others
+      hint: In similar situation
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Unsure
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 22
+      name: biggest_challenge
+      label: Biggest Challenge Faced
+      hint: Main difficulty
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: advice_for_others
+      label: Advice for Others
+      hint: What would you tell them
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_services_needed
+      label: Additional Services Needed
+      hint: What else would help
+      type: select_multiple
+      options:
+      - Credit Counseling
+      - Financial Planning
+      - Budget Assistance
+      - Debt Management
+      - Job Placement
+      - Legal Aid
+      - None
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

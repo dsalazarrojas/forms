@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recommendation Update Prioritization Survey
+    pages:
+    - id: 1
+      name: recommendation_update_prioritization_survey
+      label: Update Prioritization Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: recommendation_title
+      label: Recommendation Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: recommendation_description
+      label: Recommendation Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: update_score
+      label: Update Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: update_priority
+      label: Update Priority
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: recommendation_stakeholders
+      label: Stakeholders
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: selected_stakeholders
+      label: Selected Stakeholders
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: selected_stakeholders_count
+      label: Selected Stakeholders Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: total_stakeholders
+      label: Total Stakeholders
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: update_status
+      label: Update Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - On Hold
+      - Updated
+      - Archived
+      required: false
+    - id: 12
+      name: recommendation_status
+      label: Recommendation Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - On Hold
+      - Updated
+      - Archived
+      required: false
+    - id: 13
+      name: update_comments
+      label: Update Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false

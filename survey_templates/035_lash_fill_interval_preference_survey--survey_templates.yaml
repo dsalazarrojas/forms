@@ -1,0 +1,234 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lash Fill Interval Preference Survey
+    pages:
+    - id: 1
+      name: lash_fill_frequency
+      label: How often do clients get lash fills?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: fill_satisfaction
+      label: How satisfied are you with fills?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_satisfied''}'
+      - '{''value'': ''somewhat_satisfied''}'
+      - '{''value'': ''not_satisfied''}'
+      required: true
+    - id: 3
+      name: fill_service_frequencies
+      label: Which fill services would you like to book more often?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''regular_fill''}'
+      - '{''value'': ''semi_regular''}'
+      - '{''value'': ''extended_fill''}'
+      - '{''value'': ''custom_fill''}'
+      required: true
+    - id: 4
+      name: influencing_factors
+      label: What influences you when booking fills?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''price''}'
+      - '{''value'': ''convenience''}'
+      - '{''value'': ''schedule''}'
+      - '{''value'': ''service_pro''}'
+      required: true
+    - id: 5
+      name: frequency_satisfaction
+      label: How often do you get fills?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''daily''}'
+      - '{''value'': ''weekly''}'
+      - '{''value'': ''monthly''}'
+      - '{''value'': ''never''}'
+      required: true
+    - id: 6
+      name: fill_satisfaction_important
+      label: How important is satisfaction with fills?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: fill_satisfaction_important_note
+      label: What else do you want to say about satisfaction?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: service_satisfaction
+      label: How often do you get services?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''daily''}'
+      - '{''value'': ''weekly''}'
+      - '{''value'': ''monthly''}'
+      - '{''value'': ''never''}'
+      required: true
+    - id: 9
+      name: service_satisfaction_note
+      label: What else do you want to say about services?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: frequency_satisfaction_important
+      label: How important is frequency of fills?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: frequency_satisfaction_important_note
+      label: What else do you want to say about frequency of fills?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: fill_frequency
+      label: How often do clients get fills?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''daily''}'
+      - '{''value'': ''weekly''}'
+      - '{''value'': ''monthly''}'
+      - '{''value'': ''never''}'
+      required: true
+    - id: 13
+      name: fill_important
+      label: How important is fills?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_important''}'
+      - '{''value'': ''somewhat_important''}'
+      - '{''value'': ''not_important''}'
+      required: true
+    - id: 14
+      name: lash_artist_frequencies
+      label: How often would you like to get in touch with lash artists?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''daily''}'
+      - '{''value'': ''weekly''}'
+      - '{''value'': ''monthly''}'
+      - '{''value'': ''never''}'
+      required: true
+    - id: 15
+      name: lash_artist_frequencies_important
+      label: How important is getting in touch with lash artists?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: lash_artist_frequencies_important_note
+      label: What else do you want to say about in touch with lash artists?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: lash_fills_important
+      label: How important is getting lash fills?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_important''}'
+      - '{''value'': ''somewhat_important''}'
+      - '{''value'': ''not_important''}'
+      required: true
+    - id: 18
+      name: lash_fill_satisfaction
+      label: How satisfied are you with getting lash fills?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_satisfied''}'
+      - '{''value'': ''somewhat_satisfied''}'
+      - '{''value'': ''not_satisfied''}'
+      required: true
+    - id: 19
+      name: lash_fill_frequency
+      label: How often do clients get lash fills?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''daily''}'
+      - '{''value'': ''weekly''}'
+      - '{''value'': ''monthly''}'
+      - '{''value'': ''never''}'
+      required: true
+    - id: 20
+      name: fill_satisfaction_note
+      label: What else do you want to say about satisfaction?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: lash_artist_satisfaction
+      label: How satisfied are you with lash artists?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_satisfied''}'
+      - '{''value'': ''somewhat_satisfied''}'
+      - '{''value'': ''not_satisfied''}'
+      required: true
+    - id: 22
+      name: lash_artist_satisfaction_note
+      label: What else do you want to say about lash artists?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: fill_often_satisfied
+      label: How often are you satisfied with fills?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''daily''}'
+      - '{''value'': ''weekly''}'
+      - '{''value'': ''monthly''}'
+      - '{''value'': ''never''}'
+      required: true
+    - id: 24
+      name: fill_often_satisfied_note
+      label: What else do you want to say about being satisfied with fills?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: lash_artist_satisfaction_important
+      label: How important is getting lash artists?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: lash_artist_satisfaction_important_note
+      label: What else do you want to say about getting lash artists?
+      hint: null
+      type: note
+      options: []
+      required: false

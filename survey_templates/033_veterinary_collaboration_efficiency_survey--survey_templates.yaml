@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Collaboration Efficiency Survey
+    pages:
+    - id: 1
+      name: team_work
+      label: Team Work
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: communication_methods
+      label: Communication Methods
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Chat
+      - Video Conference
+      - In Person
+      required: false
+    - id: 3
+      name: collaboration_challenges
+      label: Collaboration Challenges
+      hint: null
+      type: select_one
+      options:
+      - Communication Breakdown
+      - Lack of Clear Roles
+      - Lack of Feedback
+      - Poor Time Management
+      - Other
+      required: false
+    - id: 4
+      name: teamwork
+      label: Teamwork
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: communication_time_management
+      label: Communication Time Management
+      hint: null
+      type: select_one
+      options:
+      - Underestimating Time Needed
+      - Overestimating Time Needed
+      - Poor Time Management
+      - Other
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: select_one
+      options:
+      - Lack of Regular Feedback
+      - Inadequate Feedback
+      - No Feedback
+      - Other
+      required: false
+    - id: 7
+      name: collaboration_methods
+      label: Collaboration Methods
+      hint: null
+      type: select_multiple
+      options:
+      - Regular Meetings
+      - Project Management Software
+      - Collaboration Tools
+      - Other
+      required: false
+    - id: 8
+      name: hospital_clinics_partnerships
+      label: Hospital Clinics Partnerships
+      hint: null
+      type: select_one
+      options:
+      - No Partnerships
+      - Limited Partnerships
+      - Regular Partnerships
+      - Other
+      required: false
+    - id: 9
+      name: communication
+      label: Communication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: time_management
+      label: Time Management
+      hint: null
+      type: number
+      options: []
+      required: false

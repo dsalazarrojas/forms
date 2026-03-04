@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospitality AI Chatbot Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: chatbot_interaction
+      label: how_was_the_chatbot_interaction
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very Good'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Good'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Fair'', ''value'': 3}'
+      - '{''id'': 4, ''label'': ''Bad'', ''value'': 4}'
+      required: false
+    - id: 3
+      name: feedback
+      label: do_you_have_further_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: name
+      label: what_is_your_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: what_is_your_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: what_is_your_phone
+      hint: null
+      type: text
+      options: []
+      required: false

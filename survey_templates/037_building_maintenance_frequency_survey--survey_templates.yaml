@@ -1,0 +1,362 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Building Maintenance Frequency Survey
+    pages:
+      - id: 1
+        name: survey_intro
+        label: -- Building Maintenance Frequency Survey --
+        hint: Help us understand your maintenance needs and satisfaction
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Your name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: area_department
+        label: Area or department
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: respondent_email
+        label: Email address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: time_in_building
+        label: How long have you been in this building?
+        hint: null
+        type: select_one
+        options:
+          - Less than 6 months
+          - 6 months - 1 year
+          - 1-2 years
+          - 2-5 years
+          - More than 5 years
+        required: true
+      - id: 6
+        name: maintenance_experience
+        label: -- Maintenance Experience --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: maintenance_visibility
+        label: How often do you see maintenance staff working?
+        hint: null
+        type: select_one
+        options:
+          - Daily
+          - Several times per week
+          - Weekly
+          - Monthly
+          - Rarely
+          - Never
+        required: true
+      - id: 8
+        name: maintenance_responsiveness
+        label: How quickly do maintenance needs get addressed?
+        hint: null
+        type: select_one
+        options:
+          - Very quickly - same day
+          - Quickly - within a few days
+          - Reasonably fast - within a week
+          - Slowly - takes weeks
+          - Very slowly - takes months
+        required: true
+      - id: 9
+        name: maintenance_quality
+        label: Quality of maintenance work
+        hint: null
+        type: select_one
+        options:
+          - Excellent - Very professional
+          - Good - Satisfactory
+          - Adequate - Acceptable
+          - Poor - Below standard
+          - Very poor - Unsatisfactory
+        required: true
+      - id: 10
+        name: specific_areas
+        label: -- Maintenance Frequency by Area --
+        hint: Rate how often these areas are maintained
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: restroom_frequency
+        label: Restroom cleaning frequency
+        hint: null
+        type: select_one
+        options:
+          - Multiple times daily
+          - Daily
+          - Several times per week
+          - Weekly
+          - Monthly
+          - Rarely
+          - Never
+        required: true
+      - id: 12
+        name: restroom_satisfaction
+        label: Satisfaction with restroom maintenance
+        hint: null
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 13
+        name: common_area_frequency
+        label: Common area cleaning frequency
+        hint: Hallways, lobbies, break rooms
+        type: select_one
+        options:
+          - Multiple times daily
+          - Daily
+          - Several times per week
+          - Weekly
+          - Monthly
+          - Rarely
+          - Never
+        required: true
+      - id: 14
+        name: common_area_satisfaction
+        label: Satisfaction with common area maintenance
+        hint: null
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 15
+        name: office_frequency
+        label: Office/workspace cleaning frequency
+        hint: null
+        type: select_one
+        options:
+          - Daily
+          - Several times per week
+          - Weekly
+          - Monthly
+          - As needed
+          - Self-cleaned only
+          - Never
+        required: true
+      - id: 16
+        name: office_satisfaction
+        label: Satisfaction with office cleaning
+        hint: null
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 17
+        name: hvac_maintenance
+        label: HVAC system maintenance frequency
+        hint: Filter changes, service, etc.
+        type: select_one
+        options:
+          - Monthly
+          - Quarterly
+          - Semi-annually
+          - Annually
+          - As needed
+          - Unknown
+        required: false
+      - id: 18
+        name: hvac_effectiveness
+        label: How well does HVAC maintain comfort?
+        hint: null
+        type: select_one
+        options:
+          - Excellent - Always comfortable
+          - Good - Usually comfortable
+          - Fair - Adequate
+          - Poor - Often uncomfortable
+          - Very poor - Always uncomfortable
+        required: true
+      - id: 19
+        name: lighting_maintenance
+        label: Lighting maintenance frequency
+        hint: Bulb replacement, cleaning
+        type: select_one
+        options:
+          - Frequent - as needed immediately
+          - Regular - checked regularly
+          - Occasional - when noticed
+          - Infrequent - rarely
+          - Never
+        required: true
+      - id: 20
+        name: lighting_satisfaction
+        label: Satisfaction with lighting maintenance
+        hint: null
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 21
+        name: pest_control
+        label: Pest control service frequency
+        hint: null
+        type: select_one
+        options:
+          - Monthly
+          - Quarterly
+          - Semi-annually
+          - Annually
+          - As needed
+          - Not aware of service
+        required: false
+      - id: 22
+        name: pest_issues
+        label: Pest issues observed
+        hint: null
+        type: select_one
+        options:
+          - None observed
+          - Minimal
+          - Occasional
+          - Frequent
+          - Severe
+        required: false
+      - id: 23
+        name: maintenance_needs
+        label: -- Maintenance Needs Assessment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 24
+        name: areas_needing_more
+        label: Areas needing more frequent maintenance
+        hint: null
+        type: select_multiple
+        options:
+          - Restrooms
+          - Common areas
+          - Offices/workspaces
+          - Hallways
+          - Parking areas
+          - Exterior areas
+          - HVAC system
+          - Lighting
+          - Landscaping
+          - Windows/glass
+          - Other
+        required: true
+      - id: 25
+        name: current_issues
+        label: Current maintenance issues or problems
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: maintenance_requests
+        label: Outstanding maintenance requests
+        hint: How many and how long pending
+        type: text
+        options: []
+        required: false
+      - id: 27
+        name: ideal_frequency
+        label: Ideal maintenance frequency for your area
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 28
+        name: suggestions
+        label: -- Suggestions and Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 29
+        name: improvement_ideas
+        label: Ways to improve maintenance
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 30
+        name: schedule_preference
+        label: Preferred maintenance schedule
+        hint: null
+        type: select_one
+        options:
+          - During business hours
+          - After hours
+          - Weekends
+          - Flexible
+          - No preference
+        required: false
+      - id: 31
+        name: communication_feedback
+        label: Communication about planned maintenance
+        hint: null
+        type: select_one
+        options:
+          - Adequate notice given
+          - Sometimes notified
+          - Rarely notified
+          - Never notified
+          - More notice needed
+        required: false
+      - id: 32
+        name: overall_satisfaction
+        label: Overall satisfaction with building maintenance
+        hint: null
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 33
+        name: additional_comments
+        label: Additional comments or suggestions
+        hint: null
+        type: text
+        options: []
+        required: false

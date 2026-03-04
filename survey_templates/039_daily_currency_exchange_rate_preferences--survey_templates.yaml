@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Currency Exchange Rate Preferences
+    pages:
+    - id: 1
+      name: preferred_currencies
+      label: Preferred Currencies
+      hint: null
+      type: select_multiple
+      options:
+      - USD
+      - EUR
+      - GBP
+      required: false
+    - id: 2
+      name: update_frequency
+      label: Update Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 3
+      name: update_timing
+      label: Update Timing
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - SMS
+      - Mobile App
+      required: false
+    - id: 5
+      name: required_update
+      label: Required Update
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: preferred_exchange_rates
+      label: Preferred Exchange Rates
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: required_update_frequency
+      label: Required Update Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: required_delivery_method
+      label: Required Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - SMS
+      - Mobile App
+      required: false
+    - id: 9
+      name: required_deliver_frequency
+      label: Required Delivery Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: required_exchange_rates
+      label: Required Exchange Rates
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: required_phone
+      label: Required Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Neighborhood Safety Experience Survey
+    pages:
+    - id: 1
+      name: neighborhood_safety_experience_survey
+      label: How Safe Do You Feel In Your Neighborhood
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: neighborhood_safety_experience_survey_question_1
+      label: How often do you walk alone in your neighborhood
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': ''Rarely''}'
+      - '{''option_2'': ''Sometimes''}'
+      - '{''option_3'': ''Often''}'
+      required: false
+    - id: 3
+      name: neighborhood_safety_experience_survey_question_2
+      label: How safe do you feel when walking alone in your neighborhood
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option_1'': ''Very safe''}'
+      - '{''option_2'': ''Somewhat safe''}'
+      - '{''option_3'': ''Not very safe''}'
+      - '{''option_4'': ''Not safe at all''}'
+      required: false
+    - id: 4
+      name: neighborhood_safety_experience_survey_question_3
+      label: Do you feel safe in your neighborhood at night
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option_1'': ''Very safe''}'
+      - '{''option_2'': ''Somewhat safe''}'
+      - '{''option_3'': ''Not very safe''}'
+      - '{''option_4'': ''Not safe at all''}'
+      required: false
+    - id: 5
+      name: neighborhood_safety_experience_survey_question_4
+      label: Have you ever had to defend yourself in your neighborhood
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': True}'
+      - '{''option_2'': False}'
+      required: false
+    - id: 6
+      name: neighborhood_safety_experience_survey_question_5
+      label: How safe do you feel when walking alone at night in your neighborhood
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option_1'': ''Very safe''}'
+      - '{''option_2'': ''Somewhat safe''}'
+      - '{''option_3'': ''Not very safe''}'
+      - '{''option_4'': ''Not safe at all''}'
+      required: false
+    - id: 7
+      name: neighborhood_safety_experience_survey_question_6
+      label: What time of day do you feel safest walking alone in your neighborhood
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: neighborhood_safety_experience_survey_question_7
+      label: neighborhood_safety_experience_survey_question_7_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: neighborhood_safety_experience_survey_question_8
+      label: neighborhood_safety_experience_survey_question_8_label
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: neighborhood_safety_experience_survey_question_9
+      label: neighborhood_safety_experience_survey_question_9_label
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

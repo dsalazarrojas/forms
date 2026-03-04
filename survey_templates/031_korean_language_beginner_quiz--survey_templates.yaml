@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Korean Language Beginner Quiz
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: language_level
+      label: Language Level
+      hint: null
+      type: select_one
+      options:
+      - level1
+      - level2
+      - level3
+      required: false
+    - id: 5
+      name: quiz_type
+      label: Quiz Type
+      hint: null
+      type: select_multiple
+      options:
+      - type1
+      - type2
+      - type3
+      - type4
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: language_proficiency
+      label: Language Proficiency
+      hint: null
+      type: select_one
+      options:
+      - proficient1
+      - proficient2
+      - proficient3
+      required: false
+    - id: 10
+      name: language_proficiency_other
+      label: Language Proficiency Other
+      hint: Please provide additional information about language proficiency if needed.
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: subject
+      label: Subject
+      hint: null
+      type: select_one
+      options:
+      - subject1
+      - subject2
+      - subject3
+      required: false
+    - id: 12
+      name: subject_other
+      label: Subject Other
+      hint: If not listed above, please describe the subject.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: quiz_result
+      label: Quiz Result
+      hint: null
+      type: select_one
+      options:
+      - result1
+      - result2
+      - result3
+      required: false
+    - id: 14
+      name: additional_comments
+      label: Additional Comments
+      hint: Please provide any additional comments about the quiz.
+      type: text
+      options: []
+      required: false

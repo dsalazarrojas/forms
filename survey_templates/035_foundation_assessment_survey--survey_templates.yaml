@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Foundation Assessment Survey
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: foundation_type
+      label: Foundation Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Foundation Type'', ''label'': ''Shallow foundation'',
+        ''value'': ''shallow''}'
+      - '{''id'': 2, ''name'': ''Other'', ''label'': ''Other'', ''value'': ''other''}'
+      required: true
+    - id: 3
+      name: condition
+      label: Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Satisfactory'', ''label'': ''Satisfactory'', ''value'':
+        ''satisfactory''}'
+      - '{''id'': 2, ''name'': ''Unsatisfactory'', ''label'': ''Unsatisfactory'',
+        ''value'': ''unsatisfactory''}'
+      - '{''id'': 3, ''name'': ''Not Applicable'', ''label'': ''Not Applicable'',
+        ''value'': ''not_applicable''}'
+      required: true
+    - id: 4
+      name: foundation_type_details
+      label: Foundation Type Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: foundation_size
+      label: Foundation Size
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Small'', ''label'': ''Small'', ''value'': ''small''}'
+      - '{''id'': 2, ''name'': ''Medium'', ''label'': ''Medium'', ''value'': ''medium''}'
+      - '{''id'': 3, ''name'': ''Large'', ''label'': ''Large'', ''value'': ''large''}'
+      required: true
+    - id: 6
+      name: foundation_age
+      label: Foundation Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: foundation_depth
+      label: Foundation Depth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: foundation_condition_rating
+      label: Foundation Condition Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: foundation_condition_comment
+      label: Foundation Condition Comment
+      hint: null
+      type: text
+      options: []
+      required: false

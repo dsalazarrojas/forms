@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Focus Group Screener Form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_other_contact_info
+      label: other_contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: demographic_background
+      label: demographic_background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: income_category
+      label: income_category
+      hint: null
+      type: select_one
+      options:
+      - less_than_20k
+      - 20-40k
+      - 40-60k
+      - 60-80k
+      - more_than_80k
+      required: true
+    - id: 8
+      name: employment_status
+      label: employment_status
+      hint: null
+      type: select_multiple
+      options:
+      - employed
+      - self_employed
+      - retired
+      - unemployed
+      - student
+      - disabled
+      required: true
+    - id: 9
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: occupation
+      label: occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: education_level
+      label: education_level
+      hint: null
+      type: select_one
+      options:
+      - some_high_school
+      - bachelors_degree
+      - masters_degree
+      - phd
+      required: true
+    - id: 12
+      name: ethnicity
+      label: ethnicity
+      hint: null
+      type: select_multiple
+      options:
+      - african_american
+      - caucasian
+      - asian
+      - hispanic
+      - mexican
+      - pacific_islander
+      - other
+      required: true
+    - id: 13
+      name: marital_status
+      label: marital_status
+      hint: null
+      type: select_multiple
+      options:
+      - single
+      - married
+      - in_a_relationship
+      - divorced
+      - widowed
+      required: true
+    - id: 14
+      name: children
+      label: children
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: household_income
+      label: household_income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: education_years
+      label: education_years
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: highest_education_level
+      label: highest_education_level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: languages
+      label: languages
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: languages_known
+      label: languages_known
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: languages_read_write
+      label: languages_read_write
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: languages_other
+      label: languages_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: languages_other_known
+      label: languages_other_known
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: languages_other_read_write
+      label: languages_other_read_write
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: languages_other_read_write_known
+      label: languages_other_read_write_known
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: other_languages
+      label: other_languages
+      hint: null
+      type: text
+      options: []
+      required: false

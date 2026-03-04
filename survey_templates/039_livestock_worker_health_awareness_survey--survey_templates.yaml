@@ -1,0 +1,233 @@
+inputSchema:
+  type: object
+  properties:
+    title: Livestock Worker Health Awareness Survey
+    pages:
+    - id: 1
+      name: farm_location
+      label: Farm location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: worker_type
+      label: Worker type
+      hint: null
+      type: select_multiple
+      options:
+      - Farm worker
+      - Livestock handler
+      - Farm equipment operator
+      - Other (please specify)
+      required: false
+    - id: 3
+      name: health_issues
+      label: Health issues experienced
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Musculoskeletel
+      - Cardiovascular
+      - Respiratory
+      - Mental health
+      - Other (please specify)
+      required: false
+    - id: 4
+      name: safety_practices
+      label: Safety practices followed on the farm
+      hint: null
+      type: select_multiple
+      options:
+      - Always follow safety rules
+      - Sometimes follow safety rules
+      - Rarely follow safety rules
+      required: false
+    - id: 5
+      name: access_care
+      label: Have access to care
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: false
+    - id: 6
+      name: training_programs
+      label: Have access to training programs
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: false
+    - id: 7
+      name: emergency_plan
+      label: Have an emergency plan in place
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: false
+    - id: 8
+      name: farm_size
+      label: Farm size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: farm_income
+      label: Farm income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: worker_experience
+      label: Worker experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: worker_hours
+      label: Worker hours per day
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: worker_ages
+      label: Worker ages
+      hint: null
+      type: select_multiple
+      options:
+      - <18, 65
+      - 18 - 29
+      - 30 - 45
+      - 46 - 65
+      - Other (please specify)
+      required: false
+    - id: 13
+      name: worker_languages
+      label: Worker languages
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - Other
+      required: false
+    - id: 14
+      name: farm_equipment
+      label: Farm equipment used
+      hint: null
+      type: select_multiple
+      options:
+      - Tractors
+      - Tractors and other farm equipment
+      - Other
+      required: false
+    - id: 15
+      name: farm_species
+      label: Farm species
+      hint: null
+      type: select_multiple
+      options:
+      - Cattle
+      - Pigs
+      - Horses
+      - Other (please specify)
+      required: false
+    - id: 16
+      name: farm_products
+      label: Farm products
+      hint: null
+      type: select_multiple
+      options:
+      - Livestock
+      - Grains and seeds
+      - Fruits and vegetables
+      - Other (please specify)
+      required: false
+    - id: 17
+      name: health_services
+      label: Health services used
+      hint: null
+      type: select_multiple
+      options:
+      - Medical services
+      - Mental health services
+      - Other (please specify)
+      required: false
+    - id: 18
+      name: farm_products
+      label: Farm products sold
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: false
+    - id: 19
+      name: farm_equipment_used
+      label: Farm equipment used on farm
+      hint: null
+      type: select_multiple
+      options:
+      - Tractors
+      - Trucks
+      - Other
+      required: false
+    - id: 20
+      name: farm_species_sold
+      label: Farm species sold
+      hint: null
+      type: select_multiple
+      options:
+      - Cattle
+      - Pigs
+      - Horses
+      - Other
+      required: false
+    - id: 21
+      name: worker_hours_per_day
+      label: Average worker hours per day
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: worker_income
+      label: Worker income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: worker_languages
+      label: Average worker languages
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: farm_products_sold
+      label: Average farm products sold per week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: total_farm_income
+      label: Total farm income
+      hint: null
+      type: number
+      options: []
+      required: false

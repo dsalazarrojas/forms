@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: TMJ Awareness Quiz
+    pages:
+    - id: 1
+      name: user_inputs
+      label: user_inputs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: quiz_questions
+      label: quiz_questions
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Question 1'', ''value'': ''answer1''}'
+      - '{''label'': ''Question 2'', ''value'': ''answer2''}'
+      - '{''label'': ''Question 3'', ''value'': ''answer3''}'
+      required: false
+    - id: 3
+      name: quiz_questions_2
+      label: quiz_questions_2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option2''}'
+      required: false
+    - id: 4
+      name: date_completed
+      label: date_completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_completed
+      label: time_completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: back
+      label: back
+      hint: null
+      type: text
+      options: []
+      required: false

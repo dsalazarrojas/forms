@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personalized Wellness Program Interest Survey
+    pages:
+    - id: 1
+      name: client_id
+      label: client id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: program_interests
+      label: program interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: goals
+      label: goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: program_goals
+      label: program goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: health_status
+      label: health status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: health_coach_referral
+      label: health coach referral
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: wellness_center
+      label: wellness center
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: survey_comments
+      label: survey comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Storage Solutions Feedback Survey
+    pages:
+    - id: 1
+      name: intro
+      label: What is your name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: storage_used
+      label: Storage Used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rating_product
+      label: How would you rate this storage product?
+      hint: Rate your experience
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: satisfaction_with_product
+      label: What is your satisfaction with this storage product?
+      hint: Rate your satisfaction
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: storage_service
+      label: What is your satisfaction with this storage service?
+      hint: Rate your satisfaction
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 6
+      name: storage_service_used
+      label: Storage Service Used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: storage_product
+      label: What is your storage product?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: storage_location
+      label: What is your preferred storage location?
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Office
+      - Other
+      required: false
+    - id: 9
+      name: storage_duration
+      label: How long do you store your data?
+      hint: null
+      type: select_one
+      options:
+      - Short term
+      - Long term
+      - Other
+      required: false
+    - id: 10
+      name: contact_details
+      label: Would you like to share more contact details?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: contact_name
+      label: Share your name?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contact_phone
+      label: Share your phone number?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: contact_email
+      label: Share your email address?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: contact_message
+      label: Leave a message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submission
+      label: Thank you for your feedback! Please click the submit button to send us
+        your submission.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: storage_product_category
+      label: What type of storage product would you like to provide more feedback
+        on?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_us
+      label: Would you like to contact us?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: feedback_reason
+      label: What is the reason for your feedback?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: storage_solutions
+      label: How did you hear about Storage Solutions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: storage_solutions_service
+      label: Have you used Storage Solutions' services before?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: storage_solutions_satisfaction
+      label: How satisfied are you with Storage Solutions?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 23
+      name: storage_solutions_product
+      label: How would you rate Storage Solutions' products?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 24
+      name: storage_solutions_recommend
+      label: Would you recommend Storage Solutions?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: submission_confirmation
+      label: Is this submission confirmation?
+      hint: null
+      type: note
+      options: []
+      required: false

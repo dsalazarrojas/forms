@@ -1,0 +1,191 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Beauty New Skincare Line Consumer Interest Questionnaire
+    pages:
+      - id: 1
+        name: respondent_header
+        label: -- Respondent Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: age_group
+        label: Age Group
+        hint: null
+        type: select_one
+        options: [18-25, 26-35, 36-45, 46-55, 56+]
+        required: true
+      - id: 3
+        name: gender
+        label: Gender
+        hint: null
+        type: select_one
+        options: [Male, Female, Non-binary, Prefer Not to Say]
+        required: false
+      - id: 4
+        name: location
+        label: Location
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: skincare_header
+        label: -- Current Skincare Routine --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: skincare_routine_frequency
+        label: Daily Skincare Routine Frequency
+        hint: null
+        type: select_one
+        options: [Never, Occasionally, Sometimes, Regularly, Very Regularly]
+        required: true
+      - id: 7
+        name: skin_type
+        label: Skin Type
+        hint: null
+        type: select_one
+        options: [Dry, Normal, Oily, Combination, Sensitive]
+        required: true
+      - id: 8
+        name: skin_concerns
+        label: Primary Skin Concerns
+        hint: null
+        type: select_multiple
+        options: [Acne, Sensitivity, Dryness, Oiliness, Aging, Dark Spots, Redness, Other]
+        required: true
+      - id: 9
+        name: current_products
+        label: Current Skincare Products Used
+        hint: Brands and product types
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: interest_header
+        label: -- New Skincare Line Interest --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: new_line_interest
+        label: Interest in New Skincare Line
+        hint: null
+        type: select_one
+        options: [Very Low, Low, Moderate, High, Very High]
+        required: true
+      - id: 12
+        name: key_features
+        label: Most Important Features in New Line
+        hint: null
+        type: select_multiple
+        options: [Natural Ingredients, Cruelty-free, Dermatologist-tested, Affordable, Luxury, Sustainable]
+        required: true
+      - id: 13
+        name: product_types_interest
+        label: Product Types of Interest
+        hint: null
+        type: select_multiple
+        options: [Cleanser, Toner, Serum, Moisturizer, Sunscreen, Mask, Eye Cream, Spot Treatment]
+        required: true
+      - id: 14
+        name: price_header
+        label: -- Price and Value --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: price_range
+        label: Acceptable Price Range per Product
+        hint: null
+        type: select_one
+        options: [Under 20 dollars, 20-50 dollars, 50-100 dollars, 100-200 dollars, 200+ dollars]
+        required: true
+      - id: 16
+        name: value_perception
+        label: What Represents Good Value in Skincare
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: purchase_drivers
+        label: What Drives Your Skincare Purchases
+        hint: Results, brand, price, recommendations, etc.
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: preference_header
+        label: -- Ingredient and Formulation Preferences --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: preferred_ingredients
+        label: Preferred Key Ingredients
+        hint: Retinol, vitamin C, hyaluronic acid, etc.
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: avoid_ingredients
+        label: Ingredients to Avoid
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: texture_preference
+        label: Preferred Product Texture
+        hint: null
+        type: select_one
+        options: [Lightweight, Medium, Rich, Cream, Gel, Serum, Varies by Product]
+        required: true
+      - id: 22
+        name: sustainability_header
+        label: -- Sustainability and Ethics --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: ethical_sourcing
+        label: Importance of Ethical Sourcing
+        hint: null
+        type: select_one
+        options: [Not Important, Somewhat Important, Very Important, Critical]
+        required: true
+      - id: 24
+        name: packaging_preference
+        label: Packaging Preference
+        hint: null
+        type: select_one
+        options: [Eco-friendly, Minimal, Luxurious, Refillable, No Preference]
+        required: false
+      - id: 25
+        name: purchase_intent
+        label: Likelihood to Purchase This New Line
+        hint: null
+        type: select_one
+        options: [Very Unlikely, Unlikely, Neutral, Likely, Very Likely]
+        required: true

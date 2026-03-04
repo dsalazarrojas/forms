@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Event Parent Feedback Questionnaire
+    pages:
+    - id: 1
+      name: school_event_parent_feedback_form
+      label: School Event Feedback Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_attendance
+      label: Event Attendance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: event_satisfaction
+      label: Event Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Satisfied''}'
+      - '{''label'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Not Satisfied''}'
+      - '{''label'': ''Very Dissatisfied''}'
+      required: false
+    - id: 5
+      name: event_comments
+      label: Event Comments
+      hint: Please provide any comments or suggestions for future events.
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: school_id
+      label: School ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: teacher_id
+      label: Teacher ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: teacher_feedback
+      label: Teacher Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very Good''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 11
+      name: student_feedback
+      label: Student Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very Helpful''}'
+      - '{''label'': ''Somewhat Helpful''}'
+      - '{''label'': ''Not Very Helpful''}'
+      - '{''label'': ''Not At All Helpful''}'
+      required: false
+    - id: 12
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Event''}'
+      - '{''label'': ''Activity''}'
+      - '{''label'': ''Class''}'
+      required: false
+    - id: 15
+      name: event_status
+      label: Event Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Completed''}'
+      - '{''label'': ''Ongoing''}'
+      - '{''label'': ''Cancelled''}'
+      required: false
+    - id: 16
+      name: event_comments
+      label: Event Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_comments
+      label: Follow-up Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Follow-up Sent''}'
+      - '{''label'': ''Not Sent''}'
+      - '{''label'': ''Not Required''}'
+      required: false
+    - id: 19
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_type
+      label: Follow-up Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''In Person''}'
+      required: false
+    - id: 22
+      name: follow_up_comments
+      label: Follow-up Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Completed''}'
+      - '{''label'': ''Ongoing''}'
+      - '{''label'': ''Cancelled''}'
+      required: false
+    - id: 24
+      name: follow_up_suggestions
+      label: Follow-up Suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_additional_comments
+      label: Follow-up Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

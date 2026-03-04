@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Event Recovery Survey
+    pages:
+    - id: 1
+      name: holiday_event_recovery_survey_form
+      label: holiday_event_recovery_survey_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_feedback
+      label: attendee_feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: overall_event_satisfaction
+      label: overall_event_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 0, ''label'': ''Not Satisfied''}'
+      - '{''id'': 1, ''label'': ''Somewhat Satisfied''}'
+      - '{''id'': 2, ''label'': ''Very Satisfied''}'
+      - '{''id'': 3, ''label'': ''Extremely Satisfied''}'
+      required: true
+    - id: 4
+      name: what_we_can_improve
+      label: what_we_can_improve
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: would_attend_again
+      label: would_attend_again
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 0, ''label'': ''Not Likely''}'
+      - '{''id'': 1, ''label'': ''Somewhat Likely''}'
+      - '{''id'': 2, ''label'': ''Very Likely''}'
+      - '{''id'': 3, ''label'': ''Extremely Likely''}'
+      required: true
+    - id: 6
+      name: what_improve_on
+      label: what_improve_on
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

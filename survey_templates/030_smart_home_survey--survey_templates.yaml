@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Home Survey
+    pages:
+    - id: 1
+      name: smart_home_survey_1
+      label: what_is_smart_home
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: smart_home_2
+      label: what_kind_of_smart_home_devices_do_you_have
+      hint: null
+      type: select_multiple
+      options:
+      - Amazon Echo
+      - Google Home
+      - Apple HomePod
+      - Other
+      required: false
+    - id: 3
+      name: smart_home_3
+      label: smart_home_device_locations
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Office
+      - Other
+      - No Smart Devices
+      required: false
+    - id: 4
+      name: smart_home_4
+      label: smart_home_device_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: smart_home_5
+      label: smart_home_technologies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: smart_home_6
+      label: smart_home_ideas
+      hint: null
+      type: select_multiple
+      options:
+      - Smart Lighting
+      - Smart thermostats
+      - Smart Security systems
+      - Other
+      required: false
+    - id: 7
+      name: smart_home_7
+      label: smart_home_savings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: smart_home_8
+      label: smart_home_savings_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: smart_home_9
+      label: smart_home_savings_unit
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      - Other
+      required: false
+    - id: 10
+      name: smart_home_10
+      label: smart_home_ideas
+      hint: null
+      type: text
+      options: []
+      required: false

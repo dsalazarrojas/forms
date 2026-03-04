@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Satisfaction Survey Form
+    pages:
+    - id: 1
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: content
+      label: Content
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: price
+      label: Price
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: speakers
+      label: Speakers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false

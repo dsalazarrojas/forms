@@ -1,0 +1,240 @@
+inputSchema:
+  type: object
+  properties:
+    title: Self Assessment Tool Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: self_assessment_rating
+      label: Self-Assessment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: career_goals
+      label: Career Goals
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Career advancement'', ''label'': ''Career advancement''}'
+      - '{''id'': 2, ''name'': ''Financial stability'', ''label'': ''Financial stability''}'
+      - '{''id'': 3, ''name'': ''Personal growth'', ''label'': ''Personal growth''}'
+      - '{''id'': 4, ''name'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: self_development_topics
+      label: Self-Development Topics
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Communication'', ''label'': ''Communication''}'
+      - '{''id'': 2, ''name'': ''Teamwork'', ''label'': ''Teamwork''}'
+      - '{''id'': 3, ''name'': ''Leadership'', ''label'': ''Leadership''}'
+      - '{''id'': 4, ''name'': ''Time management'', ''label'': ''Time management''}'
+      - '{''id'': 5, ''name'': ''Problem solving'', ''label'': ''Problem solving''}'
+      - '{''id'': 6, ''name'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: personal_values
+      label: Personal Values
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Respect'', ''label'': ''Respect''}'
+      - '{''id'': 2, ''name'': ''Honesty'', ''label'': ''Honesty''}'
+      - '{''id'': 3, ''name'': ''Integrity'', ''label'': ''Integrity''}'
+      - '{''id'': 4, ''name'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 9
+      name: self_description
+      label: Self-Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: strengths
+      label: Strengths
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Creativity'', ''label'': ''Creativity''}'
+      - '{''id'': 2, ''name'': ''Problem solving'', ''label'': ''Problem solving''}'
+      - '{''id'': 3, ''name'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 11
+      name: goals
+      label: Goals
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Career advancement'', ''label'': ''Career advancement''}'
+      - '{''id'': 2, ''name'': ''Financial stability'', ''label'': ''Financial stability''}'
+      - '{''id'': 3, ''name'': ''Personal growth'', ''label'': ''Personal growth''}'
+      - '{''id'': 4, ''name'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 12
+      name: self_rating
+      label: Self-Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: self_development
+      label: Self-Development
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Communication'', ''label'': ''Communication''}'
+      - '{''id'': 2, ''name'': ''Teamwork'', ''label'': ''Teamwork''}'
+      - '{''id'': 3, ''name'': ''Leadership'', ''label'': ''Leadership''}'
+      - '{''id'': 4, ''name'': ''Time management'', ''label'': ''Time management''}'
+      - '{''id'': 5, ''name'': ''Problem solving'', ''label'': ''Problem solving''}'
+      - '{''id'': 6, ''name'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 14
+      name: career_development
+      label: Career Development
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Career advancement'', ''label'': ''Career advancement''}'
+      - '{''id'': 2, ''name'': ''Financial stability'', ''label'': ''Financial stability''}'
+      - '{''id'': 3, ''name'': ''Personal growth'', ''label'': ''Personal growth''}'
+      - '{''id'': 4, ''name'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 15
+      name: personal_growth
+      label: Personal Growth
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Communication'', ''label'': ''Communication''}'
+      - '{''id'': 2, ''name'': ''Teamwork'', ''label'': ''Teamwork''}'
+      - '{''id'': 3, ''name'': ''Leadership'', ''label'': ''Leadership''}'
+      - '{''id'': 4, ''name'': ''Time management'', ''label'': ''Time management''}'
+      - '{''id'': 5, ''name'': ''Problem solving'', ''label'': ''Problem solving''}'
+      - '{''id'': 6, ''name'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 16
+      name: self_development_roadmap
+      label: Self-Development Roadmap
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: strengths_used
+      label: Strengths Used
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Creativity'', ''label'': ''Creativity''}'
+      - '{''id'': 2, ''name'': ''Problem solving'', ''label'': ''Problem solving''}'
+      - '{''id'': 3, ''name'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 18
+      name: self_rating_roadmap
+      label: Self-Rating Roadmap
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: self_development_plan
+      label: Self-Development Plan
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: self_development_topics_used
+      label: Self-Development Topics Used
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Communication'', ''label'': ''Communication''}'
+      - '{''id'': 2, ''name'': ''Teamwork'', ''label'': ''Teamwork''}'
+      - '{''id'': 3, ''name'': ''Leadership'', ''label'': ''Leadership''}'
+      - '{''id'': 4, ''name'': ''Time management'', ''label'': ''Time management''}'
+      - '{''id'': 5, ''name'': ''Problem solving'', ''label'': ''Problem solving''}'
+      - '{''id'': 6, ''name'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 21
+      name: self_development_goals
+      label: Self-Development Goals
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Career advancement'', ''label'': ''Career advancement''}'
+      - '{''id'': 2, ''name'': ''Financial stability'', ''label'': ''Financial stability''}'
+      - '{''id'': 3, ''name'': ''Personal growth'', ''label'': ''Personal growth''}'
+      - '{''id'': 4, ''name'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 22
+      name: career_development_goals
+      label: Career Development Goals
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Career advancement'', ''label'': ''Career advancement''}'
+      - '{''id'': 2, ''name'': ''Financial stability'', ''label'': ''Financial stability''}'
+      - '{''id'': 3, ''name'': ''Personal growth'', ''label'': ''Personal growth''}'
+      - '{''id'': 4, ''name'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 23
+      name: personal_development_goals
+      label: Personal Development Goals
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Career advancement'', ''label'': ''Career advancement''}'
+      - '{''id'': 2, ''name'': ''Financial stability'', ''label'': ''Financial stability''}'
+      - '{''id'': 3, ''name'': ''Personal growth'', ''label'': ''Personal growth''}'
+      - '{''id'': 4, ''name'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 24
+      name: career_development_plan
+      label: Career Development Plan
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: self_development_plan_used
+      label: Self-Development Plan Used
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Used'', ''label'': ''Used''}'
+      - '{''id'': 2, ''name'': ''Not Used'', ''label'': ''Not Used''}'
+      required: false

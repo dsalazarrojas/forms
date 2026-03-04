@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: water_quality_inspection_form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: water_body
+      label: water_body
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: water_body_type
+      label: water_body_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''name'': ''lake'', ''value'': ''lake''}'
+      - '{''id'': 11, ''name'': ''river'', ''value'': ''river''}'
+      - '{''id'': 12, ''name'': ''pond'', ''value'': ''pond''}'
+      required: true
+    - id: 4
+      name: water_body_location
+      label: water_body_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: sample_date
+      label: sample_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: sample_time
+      label: sample_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: ph_level
+      label: ph_level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: turbidity
+      label: turbidity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: temperature
+      label: temperature
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: conductivity
+      label: conductivity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: color
+      label: color
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 20, ''name'': ''blue'', ''value'': ''blue''}'
+      - '{''id'': 21, ''name'': ''green'', ''value'': ''green''}'
+      - '{''id'': 22, ''name'': ''brown'', ''value'': ''brown''}'
+      required: true
+    - id: 12
+      name: odor
+      label: odor
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 30, ''name'': ''none'', ''value'': ''none''}'
+      - '{''id'': 31, ''name'': ''mild'', ''value'': ''mild''}'
+      - '{''id'': 32, ''name'': ''moderate'', ''value'': ''moderate''}'
+      - '{''id'': 33, ''name'': ''strong'', ''value'': ''strong''}'
+      required: true

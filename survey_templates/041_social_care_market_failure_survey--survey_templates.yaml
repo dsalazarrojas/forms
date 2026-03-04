@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: social_care_market_failure_survey
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: demographic_info
+      label: demographic_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: survey_questions
+      label: what_are_your_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: community_resources
+      label: which_resources
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 5
+      name: policy_effectiveness
+      label: policy_effectiveness
+      hint: null
+      type: select_one
+      options:
+      - option_a
+      - option_b
+      - option_c
+      required: false
+    - id: 6
+      name: gaps_and_gaps
+      label: gaps
+      hint: null
+      type: select_multiple
+      options:
+      - gap_1
+      - gap_2
+      - gap_3
+      required: false
+    - id: 7
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_info
+      label: contact_info
+      hint: Enter your phone number or email
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submission_info
+      label: submission_info
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: submission_terms
+      label: submission_terms
+      hint: null
+      type: select_one
+      options:
+      - option_i
+      - option_j
+      - option_k
+      required: false
+    - id: 11
+      name: form_completion
+      label: form_completion
+      hint: null
+      type: select_multiple
+      options:
+      - option_l
+      - option_m
+      - option_n
+      required: false
+    - id: 12
+      name: submission_confirmation
+      label: submission_confirmation
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: submission_acknowledgement
+      label: submission_acknowledgement
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: submission_review
+      label: submission_review
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: submission_status
+      label: submission_status
+      hint: null
+      type: select_one
+      options:
+      - status_i
+      - status_j
+      - status_k
+      required: false
+    - id: 16
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: select_multiple
+      options:
+      - date_1
+      - date_2
+      - date_3
+      required: false
+    - id: 17
+      name: submission_time
+      label: submission_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: submission_location
+      label: submission_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: submission_language
+      label: submission_language
+      hint: null
+      type: select_one
+      options:
+      - language_a
+      - language_b
+      - language_c
+      required: false
+    - id: 20
+      name: submission_file
+      label: submission_file
+      hint: null
+      type: select_multiple
+      options:
+      - file_1
+      - file_2
+      - file_3
+      required: false
+    - id: 21
+      name: submission_notes
+      label: submission_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submission_comments
+      label: submission_comments
+      hint: null
+      type: select_multiple
+      options:
+      - comments_1
+      - comments_2
+      - comments_3
+      required: false
+    - id: 23
+      name: submission_agreement
+      label: submission_agreement
+      hint: null
+      type: select_one
+      options:
+      - agreement_i
+      - agreement_j
+      - agreement_k
+      required: false
+    - id: 24
+      name: submission_consequences
+      label: submission_consequences
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: submission_recommendations
+      label: submission_recommendations
+      hint: null
+      type: text
+      options: []
+      required: true

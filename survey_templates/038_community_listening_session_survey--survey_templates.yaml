@@ -1,0 +1,129 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Listening Session Survey
+    pages:
+      - id: 1
+        name: session_date
+        label: Date of the Listening Session
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: session_topic
+        label: Listening Session Topic or Theme
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: attendee_role
+        label: Your Role as an Attendee
+        hint: Which group do you primarily represent?
+        type: select_one
+        options:
+          - Resident / Individual Member
+          - Local Business Owner
+          - Student or Youth Member
+          - Local Government Official
+          - Community Advocate or Leader
+        required: true
+      - id: 4
+        name: information_clarity
+        label: Rate the clarity of the information shared during the session
+        hint: 1 - Not Clear at All, 5 - Very Clear
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 5
+        name: contribution_opportunity
+        label: Opportunity to Speak and Contribute
+        hint: Did you feel there was enough time for everyone?
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 6
+        name: concerns_heard
+        label: Did you feel your specific concerns were heard and understood?
+        hint: null
+        type: select_one
+        options:
+          - Yes, completely
+          - Partially
+          - No, not at all
+        required: true
+      - id: 7
+        name: key_takeaway
+        label: What was your primary takeaway from today session?
+        hint: One main thing you learned or observed
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: session_change
+        label: What is the single biggest thing we should change for future sessions?
+        hint: Focus on format, time, or location
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: overall_format_satisfaction
+        label: Overall Satisfaction with the Listening Session Format
+        hint: null
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 10
+        name: future_attendance_interest
+        label: Are you interested in attending future listening sessions?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 11
+        name: follow_up_method
+        label: Best way to reach you for session follow-up and notes
+        hint: null
+        type: select_one
+        options:
+          - Email (Preferred)
+          - SMS Text Message
+          - Phone Call
+          - Postal Mail
+        required: true
+      - id: 12
+        name: respondent_contact
+        label: Your Contact Details
+        hint: Email or Phone as selected above
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Club Feedback Information Collection Form
+    pages:
+    - id: 1
+      name: section_club_feedback_intro
+      label: -- Community Club Feedback --
+      hint: Your feedback helps us improve our club and member experience!
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: member_full_name_fed
+      label: Full Name of Member
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: member_id_fed
+      label: Member ID (If assigned)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: member_email_fed
+      label: Email Address
+      hint: For follow-up and results delivery
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: member_phone_fed
+      label: Primary Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_club_activity_feedback_fed
+      label: -- Activity and Satisfaction Feedback --
+      hint: Tell us about your participation and satisfaction.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: club_activity_participation_fed
+      label: Which club activities have you participated in recently
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Regular Meetings
+      - Social Events
+      - Educational Workshops
+      - Community Service Projects
+      - Field Trips/Outings
+      - Competitions/Tournaments
+      required: true
+    - id: 8
+      name: overall_club_satisfaction_fed
+      label: Rate your overall satisfaction with the club
+      hint: 1 (Very Dissatisfied) to 5 (Very Satisfied)
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: club_activity_satisfaction_fed
+      label: Rate your satisfaction with the club's activities
+      hint: 1 (Very Dissatisfied) to 5 (Very Satisfied)
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: club_communication_satisfaction_fed
+      label: Rate your satisfaction with club communication
+      hint: 1 (Very Dissatisfied) to 5 (Very Satisfied)
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_club_engagement_fed
+      label: -- Engagement and Improvement --
+      hint: Help us understand your engagement and how to improve.
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: club_membership_duration_fed
+      label: How long have you been a member of the club
+      hint: null
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6 months - 1 year
+      - 1-3 years
+      - 3-5 years
+      - More than 5 years
+      required: true
+    - id: 13
+      name: primary_reason_for_joining_fed
+      label: What was your primary reason for joining the club
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: key_club_interests_expertise_fed
+      label: What are your key interests or expertise you'd like to share
+      hint: e.g., graphic design, public speaking, budgeting, etc.
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: club_improvement_suggestions_fed
+      label: What could we do to improve the club and your experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_final_submission_fed
+      label: -- Final Submission and Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: member_signature_digital_fed
+      label: Digital Signature (Type Full Name)
+      hint: I certify that the information provided is correct.
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: submission_date_final_fed
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: newsletter_opt_in_fed
+      label: I would like to receive the community center's newsletter
+      hint: Stay updated on our programs and events
+      type: select_one
+      options:
+      - Yes, sign me up!
+      - No, thank you
+      required: true
+    - id: 20
+      name: referral_source_fed
+      label: How did you hear about this feedback collection form
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Social Media
+      - Website
+      - Friend/Colleague
+      - Poster/Flyer
+      required: false

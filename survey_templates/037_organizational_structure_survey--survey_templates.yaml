@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: organizational_structure_survey
+    pages:
+    - id: 1
+      name: intro
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: department
+      label: prophets
+      hint: None
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Marketing''}'
+      - '{''id'': 2, ''label'': ''Sales''}'
+      required: true
+    - id: 3
+      name: role
+      label: prophets-role
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Manager''}'
+      - '{''id:ประก'': ''Team Member''}'
+      required: true
+    - id: 4
+      name: job_title
+      label: jobtitle
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Executive''}'
+      - '{''id'': 2, ''label'': ''Sales''}'
+      - '{''id'': 3, ''label'': ''Marketing''}'
+      required: false
+    - id: 5
+      name: department_headcount
+      label: department_headcount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: department_headcount_percentage
+      label: department_headcount_percentage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: department_headcount_range
+      label: department_headcount_range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: team_structure
+      label: teamstructure
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Flat''}'
+      - '{''id'': 2, ''label'': ''Hierarchy''}'
+      required: false
+    - id: 9
+      name: team_size
+      label: teamsize
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: team_size_range
+      label: teamsizerange
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reporting_manager
+      label: reporting_manager
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''None''}'
+      - '{''id'': 2, ''label'': ''Self''}'
+      - '{''id'': 3, ''label'': ''Manager''}'
+      required: true
+    - id: 12
+      name: reporting_level
+      label: reporting_level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Team''}'
+      - '{''id'': 2, ''label'': ''Department''}'
+      - '{''id'': 3, ''label'': ''Company''}'
+      required: true
+    - id: 13
+      name: reporting_path
+      label: reportingpath
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': 1}'
+      - '{''id'': 2, ''label'': 2}'
+      - '{''id'': 3, ''label'': 3}'
+      required: false
+    - id: 14
+      name: org_chart
+      label: orgchart
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: org_chart_type
+      label: orgcharttype
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Simple''}'
+      - '{''id'': 2, ''label'': ''Complex''}'
+      required: false
+    - id: 16
+      name: org_chart_size
+      label: orgcharts_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: org_chart_level
+      label: orgchartlevel
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Flat''}'
+      - '{''id'': 2, ''label'': ''Hierarchy''}'
+      required: false
+    - id: 18
+      name: org_chart_scale
+      label: orgcharts_scale
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Small''}'
+      - '{''id'': 2, ''label'': ''Large''}'
+      required: false
+    - id: 19
+      name: org_chart_type
+      label: orgchartyype
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Line''}'
+      - '{''id'': 2, ''label'': ''Matrix''}'
+      required: false
+    - id: 20
+      name: org_chart_color
+      label: orgchartcolor
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Blue''}'
+      - '{''id'': 2, ''label'': ''Red''}'
+      required: false
+    - id: 21
+      name: org_chart_image
+      label: orgchartimage
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Simple''}'
+      - '{''id'': 2, ''label'': ''Complex''}'
+      required: false
+    - id: 22
+      name: org_chart_image_url
+      label: orgchartimageurl
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: org_chart_image_width
+      label: orgchartimage_width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: org_chart_image_height
+      label: orgchartimageheight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: org_chart_image_size
+      label: orgchartimagesize
+      hint: null
+      type: number
+      options: []
+      required: false

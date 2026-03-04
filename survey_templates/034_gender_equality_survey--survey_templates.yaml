@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gender Equality Survey
+    pages:
+    - id: 1
+      name: intro
+      label: Intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: gender
+      label: What is your gender
+      hint: null
+      type: select_one
+      options:
+      - M
+      - F
+      - Other
+      required: false
+    - id: 3
+      name: sex_at_workplace
+      label: Have you experienced sex-based discrimination at the workplace
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 4
+      name: age
+      label: What is your age
+      hint: Enter your age
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: years_of_service
+      label: How many years have you been working at this organization
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: In which department do you work
+      hint: null
+      type: select_one
+      options:
+      - Human Resources
+      - Marketing
+      - Finance
+      - Operations
+      - Other
+      required: false
+    - id: 7
+      name: shift_time
+      label: What is your shift time
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Night
+      - Variable
+      required: false
+    - id: 8
+      name: job_title
+      label: What is your job title
+      hint: Enter your job title
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: job_performance
+      label: How would you rate your job performance
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 10
+      name: benefits
+      label: What benefits do you receive
+      hint: null
+      type: select_multiple
+      options:
+      - Health Insurance
+      - Life Insurance
+      - Disability Insurance
+      - Pension
+      - Other
+      required: false
+    - id: 11
+      name: salary
+      label: What is your salary range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: education
+      label: What is your highest educational qualification
+      hint: null
+      type: select_one
+      options:
+      - Bachelor's degree
+      - Master's degree
+      - Ph.D.
+      - Other
+      required: false
+    - id: 13
+      name: language
+      label: What is your native language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Chinese
+      - Arabic
+      - Other
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: Enter your comments
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Organizational Climate Survey
+    pages:
+    - id: 1
+      name: employee_satisfaction
+      label: Employee Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: workplace_environment
+      label: Workplace Environment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: manager_satisfaction
+      label: Manager Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 4
+      name: department_satisfaction
+      label: Department Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 5
+      name: work_life_balance
+      label: Work Life Balance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: employee_engagement
+      label: Employee Engagement
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: communication
+      label: Communication
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: diversity_and_inclusion
+      label: Diversity and Inclusion
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: employee_safety
+      label: Employee Safety
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: team_satisfaction
+      label: Team Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 11
+      name: leadership_satisfaction
+      label: Leadership Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 12
+      name: company_satisfaction
+      label: Company Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false

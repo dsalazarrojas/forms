@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Equipment Satisfaction Survey
+    pages:
+    - id: 1
+      name: equipment_used
+      label: Equipment Used
+      hint: null
+      type: select_one
+      options:
+      - Cycling Bikes
+      - Running Shoes
+      - Swimwear
+      - Treadmills
+      - Yoga Mats
+      required: false
+    - id: 2
+      name: quality_rating
+      label: Quality Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: durability_rating
+      label: Durability Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: equipment_satisfaction
+      label: Equipment Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: would_recommended
+      label: Would Recommend
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Info
+      hint: Please provide a valid contact phone number or email.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_multiple
+      options:
+      - Cycling
+      - Running
+      - Swim
+      - Yoga
+      required: false
+    - id: 9
+      name: equipment_condition
+      label: Equipment Condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 10
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: false
+    - id: 12
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: equipment_purchase
+      label: Equipment Purchase
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: equipment_cost
+      label: Equipment Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: frequency_use
+      label: Frequency of Use
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 17
+      name: purchase_location
+      label: Purchase Location
+      hint: null
+      type: select_one
+      options:
+      - Gym
+      - Online
+      - Store
+      - Other
+      required: false
+    - id: 18
+      name: equipment_warranty
+      label: Equipment Warranty
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: equipment_return
+      label: Equipment Return
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: equipment_repair
+      label: Equipment Repair
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

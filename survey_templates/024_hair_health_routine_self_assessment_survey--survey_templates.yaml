@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hair Health Routine Self Assessment Survey
+    pages:
+    - id: 1
+      name: hair_health_routine_self_assessment_survey
+      label: Hair Health Routine Self Assessment Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hair_health_routine_survey_date
+      label: Hair Health Routine Survey Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: hair_health_routine_survey_time
+      label: Hair Health Routine Survey Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: client_age
+      label: Client Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: hair_type
+      label: Hair Type
+      hint: null
+      type: select_one
+      options:
+      - African Hair
+      - African American Hair
+      - Asian Hair
+      - Curly Hair
+      - Dry Hair
+      - Fine Hair
+      - Gray Hair
+      - Mixed Ethnicity
+      - Other
+      required: true
+    - id: 7
+      name: hair_condition
+      label: Hair Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Damaged
+      - Dry
+      - Fine
+      - Gray
+      - Oily
+      - Other
+      required: true
+    - id: 8
+      name: scalp_condition
+      label: Scalp Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Itchy
+      - Oily
+      - Other
+      - Sensitive
+      - Tender
+      - Too Tight
+      required: true
+    - id: 9
+      name: hair_routine
+      label: Hair Routine
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: hair_problems
+      label: Hair Problems
+      hint: null
+      type: select_multiple
+      options:
+      - Color Fading
+      - Dryness
+      - Frizziness
+      - Greying
+      - Other
+      - Split Ends
+      - Thinning
+      required: true
+    - id: 11
+      name: current_hair_products_used
+      label: Current Hair Products Used
+      hint: null
+      type: select_multiple
+      options:
+      - Conditioner
+      - Hairspray
+      - Hair Oil
+      - Hair Serum
+      - Other
+      - Shampoo
+      - Styling Cream
+      - Styling Mousse
+      - Treatments
+      required: true
+    - id: 12
+      name: current_hair_products_used_other
+      label: Current hair products used (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: hair_treatment_services_used
+      label: Hair Treatment Services Used
+      hint: null
+      type: select_multiple
+      options:
+      - Coloring
+      - Cut
+      - Hair Treatment
+      - Other
+      - Style
+      required: true
+    - id: 15
+      name: hair_treatment_services_used_other
+      label: Hair treatment services used (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: hair_treatment_services_price
+      label: Hair Treatment Services Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: number_of_services
+      label: Number of Services
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: hair_treatment_services_duration
+      label: Hair Treatment Services Duration
+      hint: null
+      type: time
+      options: []
+      required: false

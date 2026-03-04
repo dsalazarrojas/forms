@@ -1,0 +1,108 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Partnership Success Factors Survey
+    pages:
+      - id: 1
+        name: section_partner_info
+        label: -- Partner Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: partner_role
+        label: Partner role
+        hint: Role of respondent in partnership
+        type: select_one
+        options:
+          - Academic partner
+          - Industry partner
+          - Government partner
+          - Nonprofit partner
+          - Student representative
+        required: true
+      - id: 3
+        name: duration_of_partnership
+        label: Duration of partnership
+        hint: How long the partnership has been active
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: communication_effectiveness
+        label: Communication effectiveness
+        hint: Rate communication between partners
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Adequate
+          - Poor
+        required: true
+      - id: 5
+        name: alignment_of_goals
+        label: Alignment of goals and expectations
+        hint: Rate how well goals are aligned
+        type: select_one
+        options:
+          - Very aligned
+          - Somewhat aligned
+          - Neutral
+          - Misaligned
+        required: true
+      - id: 6
+        name: resource_sharing
+        label: Resource sharing and support
+        hint: Rate adequacy of shared resources
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: false
+      - id: 7
+        name: success_metrics
+        label: Success metrics and outcomes
+        hint: Describe or list key success indicators
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: challenges_encountered
+        label: Challenges encountered
+        hint: Major barriers or issues faced
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: improvement_recommendations
+        label: Recommendations to improve partnership
+        hint: Practical suggestions for partners
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: overall_satisfaction
+        label: Overall satisfaction with partnership
+        hint: Rate general satisfaction level
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: false

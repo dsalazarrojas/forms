@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: omr sheet design survey
+    pages:
+    - id: 1
+      name: omr_sheet_design_survey
+      label: omr sheet design survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_color_scheme
+      label: preferred color scheme
+      hint: null
+      type: select_one
+      options:
+      - Blue
+      - Red
+      - Green
+      required: false
+    - id: 3
+      name: design_element_preferences
+      label: design element preferences
+      hint: null
+      type: select_multiple
+      options:
+      - font
+      - layout
+      - color
+      required: false
+    - id: 4
+      name: design_element_priorities
+      label: design element priorities
+      hint: null
+      type: select_multiple
+      options:
+      - font
+      - layout
+      - color
+      required: false
+    - id: 5
+      name: design_process
+      label: design process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: assessment_team_size
+      label: assessment team size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: educator_experience
+      label: educator experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: assessment_process
+      label: assessment process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assessment_tool
+      label: assessment tool
+      hint: null
+      type: select_one
+      options:
+      - Jotform
+      - Other
+      required: false
+    - id: 10
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: note
+      options: []
+      required: false

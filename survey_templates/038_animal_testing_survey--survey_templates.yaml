@@ -1,0 +1,295 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Animal Testing Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Your Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: respondent_email
+      label: Email Address
+      hint: For follow-up
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: organization_type
+      label: Your Organization Type
+      hint: null
+      type: select_one
+      options:
+      - Animal Advocacy Group
+      - Research Institution
+      - Veterinary Clinic
+      - Government Agency
+      - Nonprofit Organization
+      - Academic Institution
+      - Concerned Citizen
+      - Other
+      required: true
+    - id: 4
+      name: survey_purpose
+      label: Purpose of This Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: awareness_level
+      label: How Aware Are You of Animal Testing Practices
+      hint: null
+      type: select_one
+      options:
+      - Very Aware
+      - Somewhat Aware
+      - Neutral
+      - Not Very Aware
+      - Not Aware at All
+      required: true
+    - id: 6
+      name: information_sources
+      label: Where Do You Get Information About Animal Testing
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - News Media
+      - Scientific Journals
+      - Animal Advocacy Organizations
+      - Social Media
+      - Documentaries
+      - Academic Courses
+      - Personal Research
+      - Word of Mouth
+      - Other
+      required: true
+    - id: 7
+      name: testing_industries
+      label: Which Industries Do You Know Use Animal Testing
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Pharmaceuticals
+      - Cosmetics
+      - Household Products
+      - Medical Research
+      - Veterinary Medicine
+      - Chemical Industry
+      - Food and Beverage
+      - Tobacco
+      - Other
+      - None
+      required: true
+    - id: 8
+      name: animal_types_used
+      label: Which Animals Are Commonly Used in Testing
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Mice
+      - Rats
+      - Rabbits
+      - Dogs
+      - Cats
+      - Primates
+      - Pigs
+      - Fish
+      - Birds
+      - Other
+      - Unsure
+      required: true
+    - id: 9
+      name: stance_on_testing
+      label: What Is Your General Stance on Animal Testing
+      hint: null
+      type: select_one
+      options:
+      - Completely Opposed
+      - Mostly Opposed
+      - Neutral
+      - Mostly Supportive
+      - Completely Supportive
+      - Depends on Circumstances
+      required: true
+    - id: 10
+      name: acceptable_circumstances
+      label: In Which Circumstances Might Animal Testing Be Acceptable
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Medical Research for Life-Threatening Diseases
+      - Vaccine Development
+      - Cancer Research
+      - Safety Testing for Medications
+      - Never Acceptable
+      - Always Acceptable
+      - Other
+      required: false
+    - id: 11
+      name: alternatives_awareness
+      label: How Aware Are You of Alternatives to Animal Testing
+      hint: null
+      type: select_one
+      options:
+      - Very Aware
+      - Somewhat Aware
+      - Neutral
+      - Not Very Aware
+      - Not Aware at All
+      required: true
+    - id: 12
+      name: alternative_methods
+      label: Which Alternatives Have You Heard Of
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Computer Modeling
+      - Cell Culture Testing
+      - Organ-on-a-Chip
+      - Human Volunteer Studies
+      - 3D Tissue Models
+      - In Silico Methods
+      - None
+      - Other
+      required: false
+    - id: 13
+      name: regulation_knowledge
+      label: How Knowledgeable Are You About Animal Testing Regulations
+      hint: null
+      type: select_one
+      options:
+      - Very Knowledgeable
+      - Somewhat Knowledgeable
+      - Neutral
+      - Not Very Knowledgeable
+      - Not Knowledgeable at All
+      required: true
+    - id: 14
+      name: regulatory_agencies
+      label: Which Agencies Regulate Animal Testing
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - FDA
+      - EPA
+      - USDA
+      - IACUC
+      - AAALAC
+      - European Medicines Agency
+      - None
+      - Unsure
+      - Other
+      required: false
+    - id: 15
+      name: transparency_rating
+      label: How Would You Rate Transparency in Animal Testing
+      hint: Current level of openness
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: true
+    - id: 16
+      name: welfare_concerns
+      label: What Are Your Primary Concerns About Animal Welfare in Testing
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Pain and Suffering
+      - Living Conditions
+      - Number of Animals Used
+      - Lack of Alternatives
+      - Inadequate Oversight
+      - Euthanasia Practices
+      - None
+      - Other
+      required: true
+    - id: 17
+      name: consumer_behavior
+      label: Do You Check if Products Are Tested on Animals
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Often
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 18
+      name: cruelty_free_preference
+      label: Do You Prefer Cruelty-Free Products
+      hint: null
+      type: select_one
+      options:
+      - Yes - Always
+      - Yes - When Possible
+      - Sometimes
+      - No
+      required: true
+    - id: 19
+      name: advocacy_involvement
+      label: Are You Involved in Animal Advocacy
+      hint: null
+      type: select_one
+      options:
+      - Yes - Active Member
+      - Yes - Occasional Supporter
+      - No - But Interested
+      - No - Not Interested
+      required: true
+    - id: 20
+      name: action_interest
+      label: What Actions Would You Be Willing to Take
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Sign Petitions
+      - Contact Legislators
+      - Boycott Products
+      - Donate to Organizations
+      - Volunteer
+      - Share Information
+      - Participate in Protests
+      - None
+      - Other
+      required: false
+    - id: 21
+      name: policy_changes
+      label: What Policy Changes Would You Support
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Ban Cosmetic Testing
+      - Increase Funding for Alternatives
+      - Stricter Regulations
+      - More Transparency Requirements
+      - Complete Ban on Testing
+      - Current Policies Are Adequate
+      - Other
+      required: true
+    - id: 22
+      name: additional_comments
+      label: Additional Comments or Thoughts
+      hint: Share your perspective
+      type: text
+      options: []
+      required: false

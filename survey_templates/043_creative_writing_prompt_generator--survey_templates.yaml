@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Creative Writing Prompt Generator
+    pages:
+    - id: 1
+      name: writing_group
+      label: Writing Group
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: writer_name
+      label: Writer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: writing_style
+      label: Writing Style
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: writing_prompt
+      label: Writing Prompt
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: writing_prompt_type
+      label: Writing Prompt Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: story_length
+      label: Story Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: writing_prompt_details
+      label: Writing Prompt Details
+      hint: null
+      type: text
+      options: []
+      required: false

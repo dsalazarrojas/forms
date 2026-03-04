@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Relationship Questionnaire
+    pages:
+    - id: 1
+      name: how_do_you_feel
+      label: How do you feel
+      hint: null
+      type: select_one
+      options:
+      - Happy
+      - Sad
+      - Angry
+      - Excited
+      required: true
+    - id: 2
+      name: relationship_status
+      label: What is your relationship status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - In a relationship
+      - Married
+      - Engaged
+      - Widowed
+      - Separated
+      - It's complicated
+      required: false
+    - id: 3
+      name: relationship_length
+      label: How long have you been in a relationship
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 month
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - 1-2 years
+      - 2-5 years
+      - More than 5 years
+      - Never been in a relationship
+      required: false
+    - id: 4
+      name: relationship_type
+      label: What type of relationship do you have
+      hint: null
+      type: select_multiple
+      options:
+      - Casual
+      - Romantic
+      - Friendly
+      - Family
+      - Other (please specify)
+      - Don't know
+      - None of the above
+      required: false
+    - id: 5
+      name: relationship_satisfaction
+      label: How satisfied are you with your relationship
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neither satisfied nor dissatisfied
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 6
+      name: relationship_conflicts
+      label: Do you often have conflicts
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Rarely
+      - Sometimes
+      required: false
+    - id: 7
+      name: relationship_support
+      label: Do you feel supported
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Somewhat
+      - Don't know
+      - Not sure
+      required: false
+    - id: 8
+      name: relationship_quality
+      label: How would you rate the quality of your relationship
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      - Minimalist
+      required: false
+    - id: 9
+      name: relationship_dominance
+      label: Do you feel dominant in your relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Somewhat
+      - Not sure
+      - Don't know
+      required: false
+    - id: 10
+      name: relationship_satisfaction_2
+      label: How satisfied are you with your relationship
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: relationship_conflicts_2
+      label: How often do you have conflicts
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: relationship_support_2
+      label: How much do you feel supported
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: relationship_quality_2
+      label: How would you rate the quality of your relationship
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: relationship_dominance_2
+      label: How much do you feel dominant
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: relationship_satisfaction_3
+      label: How satisfied are you with your relationship
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: relationship_conflicts_3
+      label: How often do you have conflicts
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: relationship_support_3
+      label: How much do you feel supported
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: relationship_quality_3
+      label: How would you rate the quality of your relationship
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: relationship_dominance_3
+      label: How much do you feel dominant
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: relationship_satisfaction_4
+      label: How satisfied are you with your relationship
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: relationship_conflicts_4
+      label: How often do you have conflicts
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: relationship_support_4
+      label: How much do you feel supported
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: relationship_satisfaction_5
+      label: How satisfied are you with your relationship
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: relationship_conflicts_5
+      label: How often do you have conflicts
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: relationship_support_5
+      label: How much do you feel supported
+      hint: null
+      type: number
+      options: []
+      required: false

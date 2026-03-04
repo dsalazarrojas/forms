@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Victims Of Crime Demographic Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: victim_info
+      label: Victim Information
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Male''}'
+      - '{''value'': ''Female''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 3
+      name: crime_type
+      label: Crime Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Assault''}'
+      - '{''value'': ''Robbery''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 4
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: contact
+      label: Contact Information
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Phone''}'
+      - '{''value'': ''Email''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 6
+      name: location
+      label: Location Information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Home''}'
+      - '{''value'': ''Work''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 7
+      name: time_of_day
+      label: Time Of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: weapon_used
+      label: Weapon Used
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Handgun''}'
+      - '{''value'': ''Knife''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 9
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: race
+      label: Race/Ethnicity
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''White''}'
+      - '{''value'': ''Black''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 11
+      name: marital_status
+      label: Marital Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Married''}'
+      - '{''value'': ''Divorced''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 12
+      name: occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''High School''}'
+      - '{''value'': ''Some College''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 14
+      name: income
+      label: Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: family_info
+      label: Family Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: employment
+      label: Employment
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Employed''}'
+      - '{''value'': ''Unemployed''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 17
+      name: health_insurance
+      label: Health Insurance
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 18
+      name: housing_info
+      label: Housing Information
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Rent''}'
+      - '{''value'': ''Own''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 19
+      name: victim_support
+      label: Victim Support
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: witness
+      label: Witness
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 21
+      name: suspect_info
+      label: Suspect Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: suspect_relationship
+      label: Suspect Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: suspect_location
+      label: Suspect Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: suspect_weapon
+      label: Suspect Weapon
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: naturalDisasterIncidentForm
+    pages:
+    - id: 1
+      name: incidentdate
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incidentname
+      label: incidentName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incidentlocation
+      label: incidentLocation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: affectedorganizations
+      label: affectedOrganizations
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Organization A''}'
+      - '{''value'': ''Organization B''}'
+      - '{''value'': ''Organization C''}'
+      required: false
+    - id: 5
+      name: incidenttype
+      label: incidentType
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Flood''}'
+      - '{''value'': ''Fire''}'
+      - '{''value'': ''Earthquake''}'
+      - '{''value'': ''Tornado''}'
+      - '{''value'': ''Hurricane''}'
+      required: false
+    - id: 6
+      name: damageassessment
+      label: Damage Assessment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: reliefassessment
+      label: Relief Assessment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: damagedescription
+      label: Damage Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reliefdescription
+      label: Relief Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: affectedpeople
+      label: Affected People
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: affectedinfrastructure
+      label: Affected Infrastructure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

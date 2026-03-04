@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: pre-conference-survey
+    pages:
+    - id: 1
+      name: attendee_expectations
+      label: attendee-expectations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: general_feedback
+      label: prophets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: conference_boosting
+      label: conference-boosting
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: session_schedule
+      label: session-schedule
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: conference_goals
+      label: conference-goals
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

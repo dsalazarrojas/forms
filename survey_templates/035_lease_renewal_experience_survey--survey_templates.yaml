@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lease Renewal Experience Survey
+    pages:
+    - id: 1
+      name: lease_renewal_experience_survey_title
+      label: Lease Renewal Experience Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: lease_renewal_experience_survey_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Survey Templates
+      - Other
+      required: false
+    - id: 3
+      name: lease_renewal_experience_survey_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: lease_renewal_experience_survey_satisfaction
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: lease_renewal_experience_survey_likely_to_renew
+      label: Likely to Renew
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: false
+    - id: 6
+      name: lease_renewal_experience_survey_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: lease_renewal_experience_survey_lease_end_date
+      label: Lease End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: lease_renewal_experience_survey_lease_start_date
+      label: Lease Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: lease_renewal_experience_survey_rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: lease_renewal_experience_survey_renewal_date
+      label: Renewal Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: lease_renewal_experience_survey_renewal_status
+      label: Renewal Status
+      hint: null
+      type: select_one
+      options:
+      - Renewed
+      - Not Renewed
+      - Pending
+      required: false
+    - id: 12
+      name: lease_renewal_experience_survey_tenant_id
+      label: Tenant ID
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: food_festival_best_food_truck_voting_form
+    pages:
+    - id: 1
+      name: intro
+      label: Best Food Truck Voting Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: food_truck_name
+      label: Food Truck Name
+      hint: Enter the name of the food truck that served the best dish
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: favorite_dish
+      label: Favorite Dish
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: Rating
+      hint: Rate the dish from 1-5
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: would_recommen
+      label: 'No'
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: rating_time
+      label: Rating Time
+      hint: How long you had to wait in line
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: food_quality
+      label: Food Quality
+      hint: How would you rate the food quality?
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 9
+      name: staff_quality
+      label: How would you rate the staff quality?
+      hint: How would you rate the quality of the staff?
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 10
+      name: value
+      label: Value for Money
+      hint: Was the price worth it?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: overall_experience
+      label: Overall Experience
+      hint: Overall how would you rate this experience?
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 12
+      name: food_truck_rating
+      label: How would you rate the food truck?
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false

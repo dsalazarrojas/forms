@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: model_registration_survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone_number
+      label: Contact phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: hair_color
+      label: Hair color
+      hint: null
+      type: select_one
+      options:
+      - Brown
+      - Black
+      - Blonde
+      - Red
+      - Grey
+      - White
+      - Burgundy
+      - Other
+      required: false
+    - id: 9
+      name: eye_color
+      label: Eye color
+      hint: null
+      type: select_one
+      options:
+      - Brown
+      - Blue
+      - Grey
+      - Green
+      - Hazel
+      - Other
+      required: false
+    - id: 10
+      name: available_models
+      label: Available models
+      hint: null
+      type: select_multiple
+      options:
+      - Available Models 1
+      - Available Models 2
+      - Available Models 3
+      required: false
+    - id: 11
+      name: model_type
+      label: Model type
+      hint: null
+      type: select_multiple
+      options:
+      - Runway
+      - Commercial
+      - Lifestyle
+      - Fitness
+      - Lingerie
+      required: false
+    - id: 12
+      name: agency
+      label: Agency
+      hint: null
+      type: select_multiple
+      options:
+      - Agency 1
+      - Agency 2
+      - Agency 3
+      required: false
+    - id: 13
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_person
+      label: Contact person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: portfolio
+      label: Portfolio
+      hint: null
+      type: select_multiple
+      options:
+      - Portfolio 1
+      - Portfolio 2
+      - Portfolio 3
+      required: false

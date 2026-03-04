@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Data Collection Form
+    pages:
+    - id: 1
+      name: social_media_data_collection_form_page_1
+      label: Social Media Data
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: handle
+      label: Handle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: follower_count
+      label: Follower Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: account_purpose
+      label: Account Purpose
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: drag_and_drop_interface
+      label: Drag and Drop Interface
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: no_code_form_builder
+      label: No-code Form Builder
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: organized_data_collection
+      label: Organized Data Collection
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: account_purpose_select
+      label: Account Purpose
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

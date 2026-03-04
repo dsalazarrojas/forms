@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: post_game_fan_feedback_poll
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_attended
+      label: which_event_did_you_attend
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Game 1''}'
+      - '{''id'': 2, ''label'': ''Game 2''}'
+      - '{''id'': 3, ''label'': ''Game 3''}'
+      required: true
+    - id: 3
+      name: overall_satisfaction
+      label: how_satisfied_with_your_game_day_experience
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very Satisfied''}'
+      - '{''id'': 2, ''label'': ''Neutral''}'
+      - '{''id'': 3, ''label'': ''Somewhat Dissatisfied''}'
+      required: true
+    - id: 4
+      name: venue_experience
+      label: venue_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: event_staff
+      label: how_well_did_event_staff_interact_with_you
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Average''}'
+      - '{''id'': 3, ''label'': ''Poor''}'
+      required: true
+    - id: 6
+      name: catering_service
+      label: how_good_was_the_food_service
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very Good''}'
+      - '{''id'': 2, ''label'': ''Neutral''}'
+      - '{''id'': 3, ''label'': ''Poor''}'
+      required: true
+    - id: 7
+      name: merchandise
+      label: merchandise_purchase
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 8
+      name: suggestions
+      label: do_you_have_any_suggestions_for_improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: venue
+      label: venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: event
+      label: event
+      hint: null
+      type: text
+      options: []
+      required: false

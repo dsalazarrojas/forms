@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nonprofit Communication Efficiency Questionnaire
+    pages:
+    - id: 1
+      name: survey_templates_questionnaire
+      label: Survey Templates Questionnaire
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: nonprofit_communication_efficiency_questionnaire
+      label: Nonprofit Communication Efficiency Questionnaire
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: gather_feedback
+      label: Gather feedback on internal and external communication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: make_data_collection_and_submission_simple
+      label: making data collection and form submission simple
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: teams_using_jotform_form_templates
+      label: making data collection and form submission simple for teams using Jotform
+        Form Templates
+      hint: null
+      type: text
+      options: []
+      required: false

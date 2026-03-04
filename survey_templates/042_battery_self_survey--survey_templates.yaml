@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Battery Self Survey
+    pages:
+    - id: 1
+      name: manufacturer_details_header
+      label: -- Production and Manufacturer Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: manufacturer_name
+      label: Manufacturer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: battery_model_number
+      label: Battery Model / Series Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_production
+      label: Date of Production
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: battery_spec_header
+      label: -- Internal Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: internal_resistance_mOhm
+      label: Internal Resistance (mOhms)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: open_circuit_voltage
+      label: Open Circuit Voltage (V)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: nominal_capacity_test
+      label: Rated Capacity Test Result (Ah)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: quality_checks_header
+      label: -- Quality Control Checks --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: load_test_disposition
+      label: Load Test Result
+      hint: High current discharge test
+      type: select_one
+      options:
+      - Passed
+      - Failed - Low Voltage
+      - Failed - Excessive Heat
+      required: true
+    - id: 11
+      name: physical_integrity_check
+      label: Physical Integrity Inspection
+      hint: Check for casing defects or leaks
+      type: select_one
+      options:
+      - Excellent - No defects
+      - Minor Cosmetic Scratches
+      - Significant Deformity (Reject)
+      - Leakage Detected (Reject)
+      required: true
+    - id: 12
+      name: shelf_life_estimate
+      label: Estimated Shelf Life (Months)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: quality_assurance_rating
+      label: Overall Quality Control Rating
+      hint: null
+      type: select_one
+      options:
+      - Grade A - Premium
+      - Grade B - Standard
+      - Grade C - Refurbished
+      - Reject
+      required: true
+    - id: 14
+      name: qc_technician_name
+      label: QC Technician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: survey_completion_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: true

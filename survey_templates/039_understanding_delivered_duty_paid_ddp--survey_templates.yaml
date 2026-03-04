@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Understanding Delivered Duty Paid (DDP)
+    pages:
+    - id: 1
+      name: ddps_familiarity
+      label: ddp_s_familiarity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: ddp_awareness
+      label: ddps_awareness
+      hint: null
+      type: select_multiple
+      options:
+      - Very High
+      - High
+      - Medium
+      - Low
+      - None
+      required: false
+    - id: 3
+      name: ddp_usage
+      label: ddps_usage
+      hint: null
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Never
+      required: false
+    - id: 4
+      name: ddp_challenges
+      label: ddps_challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipping_processes
+      label: shipping_processes
+      hint: null
+      type: select_multiple
+      options:
+      - Import/Export
+      - Customs Clearance
+      - Logistics
+      - Warehousing
+      - Other (please specify)
+      required: false
+    - id: 6
+      name: ddp_impact
+      label: ddps_impact
+      hint: null
+      type: select_multiple
+      options:
+      - Cost Savings
+      - Reduced Lead Times
+      - Improved Productivity
+      - None
+      required: false
+    - id: 7
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Dietary Habits Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: household_members
+      label: Household Members
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''One''}'
+      - '{''id'': 2, ''label'': ''Two''}'
+      - '{''id'': 3, ''label'': ''Three or more''}'
+      required: false
+    - id: 3
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Male''}'
+      - '{''id'': 2, ''label'': ''Female''}'
+      - '{''id'': 3, ''label'': ''Other (please specify)''}'
+      - '{''id'': 4, ''label'': ''Do not wish to answer''}'
+      - '{''id'': 5, ''label'': ''Prefer not to say''}'
+      required: false
+    - id: 5
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: weight
+      label: weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: height_weight_units
+      label: height_weight_units
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Feet and Inches''}'
+      - '{''id'': 2, ''label'': ''Centimeters''}'
+      - '{''id'': 3, ''label'': ''Other (please specify)''}'
+      - '{''id'': 4, ''label'': ''Not applicable''}'
+      required: false
+    - id: 8
+      name: food_intake_frequency
+      label: Food Intake Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly''}'
+      - '{''id'': 4, ''label'': ''Rarely''}'
+      required: false
+    - id: 9
+      name: food_intake_frequency_other
+      label: food_intake_frequency_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: food_intake_frequentest
+      label: food_intake_frequentest
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Breakfast''}'
+      - '{''id'': 2, ''label'': ''Lunch''}'
+      - '{''id'': 3, ''label'': ''Dinner''}'
+      required: false
+    - id: 11
+      name: typical_meal_time
+      label: typical_meal_time
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Early''}'
+      - '{''id'': 2, ''label'': ''Late''}'
+      - '{''id'': 3, ''label'': ''No set time''}'
+      - '{''id'': 4, ''label'': ''Other (please specify)''}'
+      required: false
+    - id: 12
+      name: typical_meal_time_other
+      label: typical_meal_time_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: typical_breakfast_time
+      label: typical_breakfast_time
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Morning''}'
+      - '{''id'': 2, ''label'': ''Late''}'
+      - '{''id'': 3, ''label'': ''No set time''}'
+      - '{''id'': 4, ''label'': ''Other (please specify)''}'
+      required: false
+    - id: 14
+      name: typical_breakfast_time_other
+      label: typical_breakfast_time_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: typical_dinner_time
+      label: typical_dinner_time
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Early''}'
+      - '{''id'': 2, ''label'': ''Late''}'
+      - '{''id'': 3, ''label'': ''No set time''}'
+      - '{''id'': 4, ''label'': ''Other (please specify)''}'
+      required: false
+    - id: 16
+      name: typical_dinner_time_other
+      label: typical_dinner_time_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: meal_frequency_days
+      label: Meal Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Less than 3 times a day''}'
+      - '{''id'': 2, ''label'': ''3 or 4 times a day''}'
+      - '{''id'': 3, ''label'': ''More than 5 times a day''}'
+      required: false
+    - id: 18
+      name: meal_frequency_days_other
+      label: meal_frequency_days_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: meal_frequency_time
+      label: meal_frequency_time
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Morning''}'
+      - '{''id'': 2, ''label'': ''Afternoon''}'
+      - '{''id'': 3, ''label'': ''Evening''}'
+      required: false
+    - id: 20
+      name: meal_frequency_time_other
+      label: meal_frequency_time_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: typical_snack_time
+      label: Typical Snack Time
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Between meals''}'
+      - '{''id'': 2, ''label'': ''Morning''}'
+      - '{''id'': 3, ''label'': ''Afternoon''}'
+      - '{''id'': 4, ''label'': ''Evening''}'
+      required: false
+    - id: 22
+      name: typical_snack_time_other
+      label: typical_snack_time_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: meal_frequency
+      label: Meal Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''1-2 times a day''}'
+      - '{''id'': 2, ''label'': ''3-4 times a day''}'
+      - '{''id'': 3, ''label'': ''5 or more times a day''}'
+      required: false
+    - id: 24
+      name: meal_frequency_other
+      label: meal_frequency_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: other_food_intakes
+      label: Other Food Intakes
+      hint: null
+      type: text
+      options: []
+      required: false

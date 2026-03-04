@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Satisfaction Survey Form
+    pages:
+    - id: 1
+      name: form_questions
+      label: Customer Satisfaction Survey Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: rating
+      label: Rating 1-5
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: question_one
+      label: question1
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very Good''}'
+      - '{''id'': 2, ''label'': ''Somewhat Good''}'
+      - '{''id'': 3, ''label'': ''Not Good''}'
+      required: false
+    - id: 6
+      name: question_two
+      label: question2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Very Good''}'
+      - '{''id'': 2, ''label'': ''Somewhat Good''}'
+      - '{''id'': 3, ''label'': ''Not Good''}'
+      required: false
+    - id: 7
+      name: date
+      label: Date Taken
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time
+      label: Time Taken
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_satisfaction
+      label: Customer Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: question_three
+      label: question3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Very Good''}'
+      - '{''id'': 2, ''label'': ''Somewhat Good''}'
+      - '{''id'': 3, ''label'': ''Not Good''}'
+      required: false
+    - id: 12
+      name: question_four
+      label: question4
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very Good''}'
+      - '{''id'': 2, ''label'': ''Somewhat Good''}'
+      - '{''id'': 3, ''label'': ''Not Good''}'
+      required: false

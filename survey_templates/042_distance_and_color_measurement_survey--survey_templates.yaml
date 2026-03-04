@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Distance And Color Measurement Survey
+    pages:
+    - id: 1
+      name: distance_type
+      label: Distance Type
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [''Distance Type'']}'
+      - '{''options'': [''Meter'']}'
+      - '{''options'': [''Other'']}'
+      required: false
+    - id: 2
+      name: distance_unit
+      label: Distance Unit
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [''Meter'']}'
+      - '{''options'': [''Feet'']}'
+      - '{''options'': [''Yards'']}'
+      - '{''options'': [''Inches'']}'
+      required: false
+    - id: 3
+      name: color_type
+      label: Color Type
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [''Color Type'']}'
+      - '{''options'': [''Other'']}'
+      required: false
+    - id: 4
+      name: distance_accuracy
+      label: Distance Accuracy
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: color_accuracy
+      label: Color Accuracy
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: distance_measurement_tool
+      label: Distance Measurement Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [''Ruler'']}'
+      - '{''options'': [''Protractor'']}'
+      - '{''options'': [''Other'']}'
+      required: false
+    - id: 7
+      name: color_measurement_tool
+      label: Color Measurement Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [''Ruler'']}'
+      - '{''options'': [''Colorimeter'']}'
+      - '{''options'': [''Other'']}'
+      required: false
+    - id: 8
+      name: distance_measurement_practice
+      label: Distance Measurement Practice
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [''Regular'']}'
+      - '{''options'': [''Irregular'']}'
+      required: false
+    - id: 9
+      name: color_measurement_practice
+      label: Color Measurement Practice
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [''Regular'']}'
+      - '{''options'': [''Irregular'']}'
+      required: false
+    - id: 10
+      name: accuracy_expectations
+      label: Accuracy Expectations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: distance_accuracy_expected
+      label: Distance Accuracy Expected
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: color_accuracy_expected
+      label: Color Accuracy Expected
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: tool_accuracy
+      label: Tool Accuracy
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: improvement_opportunities
+      label: Improvement Opportunities
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [''Tool'']}'
+      - '{''options'': [''Training'']}'
+      - '{''options'': [''Other'']}'
+      required: false
+    - id: 15
+      name: distance_accuracy_opportunities
+      label: Distance Accuracy Opportunities
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [''Tool'']}'
+      - '{''options'': [''Training'']}'
+      - '{''options'': [''Other'']}'
+      required: false
+    - id: 16
+      name: color_accuracy_opportunities
+      label: Color Accuracy Opportunities
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [''Tool'']}'
+      - '{''options'': [''Training'']}'
+      - '{''options'': [''Other'']}'
+      required: false
+    - id: 17
+      name: distance_measurement_comments
+      label: Distance Measurement Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: color_measurement_comments
+      label: Color Measurement Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: distance_measurement_improved
+      label: Distance Measurement Improved
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [True]}'
+      - '{''options'': [False]}'
+      required: false
+    - id: 20
+      name: color_measurement_improved
+      label: Color Measurement Improved
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [True]}'
+      - '{''options'': [False]}'
+      required: false
+    - id: 21
+      name: distance_measurement_important
+      label: Distance Measurement Important
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [True]}'
+      - '{''options'': [False]}'
+      required: false
+    - id: 22
+      name: color_measurement_important
+      label: Color Measurement Important
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [True]}'
+      - '{''options'': [False]}'
+      required: false
+    - id: 23
+      name: distance_measurement_suggestions
+      label: Distance Measurement Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: color_measurement_suggestions
+      label: Color Measurement Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [''Tool1'']}'
+      - '{''options'': [''Tool2'']}'
+      - '{''options'': [''Tool3'']}'
+      required: false

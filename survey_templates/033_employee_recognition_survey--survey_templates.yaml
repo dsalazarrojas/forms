@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Recognition Survey
+    pages:
+    - id: 1
+      name: employee_survey
+      label: Employee Survey
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: supervisor_id
+      label: supervisor id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: employee_id
+      label: employee id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: manager_name
+      label: manager name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: job_title
+      label: job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: feedback_question_1
+      label: How do you feel about being recognized for your contributions to the
+        team?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: feedback_question_2
+      label: How do you feel about being recognized for your contributions to the
+        team?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: recognition_type
+      label: recognition type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: frequency
+      label: recognition_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employee_survey_completion_time
+      label: employee survey completion time
+      hint: null
+      type: time
+      options: []
+      required: false

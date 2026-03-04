@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Voice Guidance Preferences Survey
+    pages:
+    - id: 1
+      name: form_start
+      label: Start
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: voice_guidance_used
+      label: Voice Guidance Used
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: voice_guidance_satisfaction
+      label: Voice Guidance Satisfaction
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: accessibility_preferences
+      label: Accessibility Preferences
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: feature_priorities
+      label: Feature Priorities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: voice_guidance_features
+      label: Voice Guidance Features
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: voice_guidance_comments
+      label: Voice Guidance Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: voice_guidance_submission
+      label: Voice Guidance Submission
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: text
+      options: []
+      required: false

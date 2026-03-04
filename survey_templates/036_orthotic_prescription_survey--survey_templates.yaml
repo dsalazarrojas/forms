@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: orthotic_prescription_survey
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_age
+      label: patient_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: patient_gender
+      label: patient_gender
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 3.1, ''label'': ''Male''}'
+      - '{''id'': 3.2, ''label'': ''Female''}'
+      - '{''id'': 3.3, ''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: patient_context
+      label: Patient Context
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_goals
+      label: Patient Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: doctor_specialty
+      label: Doctor Specialty
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 7.1, ''label'': ''Podiatrist''}'
+      - '{''id'': 7.2, ''label'': ''Orthotist''}'
+      - '{''id'': 7.3, ''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: orthotic_device_type
+      label: Orthotic Device Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 8.1, ''label'': ''AFO''}'
+      - '{''id'': 8.2, ''label'': ''K-Orthosis''}'
+      - '{''id'': 8.3, ''label'': ''Other''}'
+      required: false
+    - id: 9
+      name: prescription_date
+      label: Prescription Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: prescription_time
+      label: Prescription Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 11.1, ''label'': ''Review Required''}'
+      - '{''id'': 11.2, ''label'': ''Not Review Required''}'
+      required: false
+    - id: 12
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false

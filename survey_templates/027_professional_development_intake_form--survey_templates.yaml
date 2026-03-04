@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: professional_development_intake_form
+    pages:
+    - id: 1
+      name: training_programs
+      label: What are the training programs you are interested in?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: departmental_interest
+      label: Which departmental interest?
+      hint: null
+      type: select_one
+      options:
+      - Development
+      - Sales
+      - Marketing
+      - Finance
+      - Operations
+      - HR
+      - IT
+      required: false
+    - id: 3
+      name: work_location
+      label: What is your work location?
+      hint: null
+      type: select_multiple
+      options:
+      - New York
+      - Los Angeles
+      - Chicago
+      - San Francisco
+      required: false
+    - id: 4
+      name: job_function
+      label: What is your job function?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reporting_manager
+      label: Who is your reporting manager?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_size
+      label: How many people do you supervise?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: years_in_role
+      label: How many years have you been in your role?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: available_time
+      label: How much time do you have available for training per week?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: email_input
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_input
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: training_budget
+      label: What is your training budget per month?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: training_goals
+      label: What are your training goals?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: training_objectives
+      label: What are the training objectives?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: training_recommendations
+      label: What are your training recommendations?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: training_suggestions
+      label: What are your training suggestions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: training_concerns
+      label: What concerns do you have about training?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: training_expectations
+      label: What are your training expectations?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: training_preferences
+      label: What are your training preferences?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: training_commitments
+      label: What are your training commitments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: training_availability
+      label: What training is available to you?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: other_trainings
+      label: Are there any other trainings available to you?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: notes
+      label: Additional notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: false

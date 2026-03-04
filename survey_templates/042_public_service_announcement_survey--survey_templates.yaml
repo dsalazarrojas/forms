@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Service Announcement Survey
+    pages:
+    - id: 1
+      name: survey_recalls
+      label: survey_recalls
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: message_quality
+      label: message_quality
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 3
+      name: intended_actions
+      label: intended_actions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: date_of_message
+      label: date_of_message
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_message
+      label: time_of_message
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: recall_score
+      label: recall_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: message_quality_score
+      label: message_quality_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: intended_actions_score
+      label: intended_actions_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false

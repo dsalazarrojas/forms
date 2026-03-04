@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_survey_experience_survey
+    pages:
+    - id: 1
+      name: intro
+      label: How often do you visit websites
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: device
+      label: Which devices
+      hint: null
+      type: select_multiple
+      options:
+      - android
+      - ios
+      - windows
+      - mac
+      - others
+      required: false
+    - id: 3
+      name: satisfaction
+      label: How satisfied are you
+      hint: null
+      type: select_one
+      options:
+      - very_satisfied
+      - fairly_satisfied
+      - not_satisfied
+      - not_at_all
+      required: false
+    - id: 4
+      name: challenge
+      label: Common challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

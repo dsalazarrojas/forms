@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volleyball Team Snack Preferences Survey
+    pages:
+    - id: 1
+      name: main
+      label: welcome_to_the_survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: athlete_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: athlete_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: athlete_dietary_needs
+      label: dietary_needs
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''None'', ''value'': ''none''}'
+      - '{''id'': 2, ''label'': ''Vegetarian'', ''value'': ''vegetarian''}'
+      - '{''id'': 3, ''label'': ''Vegan'', ''value'': ''vegan''}'
+      - '{''id'': 4, ''label'': ''Gluten-free'', ''value'': ''gluten-free''}'
+      required: false
+    - id: 5
+      name: athlete_snack_preferences
+      label: snack_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Water'', ''value'': ''water''}'
+      - '{''id'': 2, ''label'': ''Fruits'', ''value'': ''fruits''}'
+      - '{''id'': 3, ''label'': ''Vegetables'', ''value'': ''vegetables''}'
+      - '{''id'': 4, ''label'': ''Cheese'', ''value'': ''cheese''}'
+      - '{''id'': 5, ''label'': ''Granola'', ''value'': ''granola''}'
+      required: false
+    - id: 6
+      name: team_id
+      label: team_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: coach_name
+      label: coach_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: parent_name
+      label: parent_name
+      hint: null
+      type: text
+      options: []
+      required: false

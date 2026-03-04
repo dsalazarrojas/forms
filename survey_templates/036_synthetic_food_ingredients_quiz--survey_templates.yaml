@@ -1,0 +1,63 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Synthetic Food Ingredients Quiz
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Info
+      hint: Participant information is required.
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: synthetic_additive_knowledge
+      label: Synthetic Additive Knowledge
+      hint: Choose all that apply
+      type: select_one
+      options:
+      - "{'id': 2.1, 'name': 'I don\u2019t know', 'description': ''}"
+      - '{''id'': ''2.1.1'', ''name'': ''Artificial sweeteners and flavor enhancers'',
+        ''description'': ''''}'
+      - '{''id'': ''2.1.2'', ''name'': ''Food colorants'', ''description'': ''''}'
+      - '{''id'': ''2.1.3'', ''name'': ''Preservatives and acidulents'', ''description'':
+        ''''}'
+      - '{''id'': ''2.1.4'', ''name'': ''Other'', ''description'': ''''}'
+      required: false
+    - id: 3
+      name: synthetic_food_items
+      label: Synthetic Food Items
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - '{''id'': 3.1, ''name'': ''Monosodium glutamate (MSG)'', ''description'':
+        ''''}'
+      - '{''id'': 3.2, ''name'': ''Aspartame'', ''description'': ''''}'
+      - '{''id'': 3.3, ''name'': ''Carrageenan'', ''description'': ''''}'
+      - '{''id'': 3.4, ''name'': ''Other'', ''description'': ''''}'
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: Additional comments or feedback
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,271 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Beck Depression Inventory Questionnaire
+    pages:
+      - id: 1
+        name: section_clinical_disclaimer
+        label: -- Clinical Disclaimer --
+        hint: This assessment is for informational purposes and is not a substitute for professional medical advice
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: patient_initials
+        label: Patient Initials
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: assessment_date
+        label: Date of Assessment
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: section_mood_assessment
+        label: -- Mood and Outlook --
+        hint: Select the statement that best describes how you have felt in the past two weeks
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: sadness_level
+        label: Sadness
+        hint: null
+        type: select_one
+        options:
+          - 0 - I do not feel sad
+          - 1 - I feel sad much of the time
+          - 2 - I am sad all the time and I can't snap out of it
+          - 3 - I am so sad or unhappy that I can't stand it
+        required: true
+      - id: 6
+        name: pessimism_level
+        label: Pessimism
+        hint: null
+        type: select_one
+        options:
+          - 0 - I am not discouraged about my future
+          - 1 - I feel more discouraged about my future than I used to be
+          - 2 - I do not expect things to work out for me
+          - 3 - I feel my future is hopeless and will only get worse
+        required: true
+      - id: 7
+        name: past_failure_perception
+        label: Past Failure
+        hint: null
+        type: select_one
+        options:
+          - 0 - I do not feel like a failure
+          - 1 - I feel I have failed more than I should have
+          - 2 - As I look back, I see a lot of failures
+          - 3 - I feel I am a total failure as a person
+        required: true
+      - id: 8
+        name: pleasure_loss
+        label: Loss of Pleasure
+        hint: null
+        type: select_one
+        options:
+          - 0 - I get as much pleasure as I ever did from the things I enjoy
+          - 1 - I don't enjoy things as much as I used to
+          - 2 - I get very little pleasure from the things I used to enjoy
+          - 3 - I can't get any pleasure from the things I used to enjoy
+        required: true
+      - id: 9
+        name: guilt_feelings
+        label: Guilty Feelings
+        hint: null
+        type: select_one
+        options:
+          - 0 - I don't feel particularly guilty
+          - 1 - I feel guilty over many things I have done or should have done
+          - 2 - I feel quite guilty most of the time
+          - 3 - I feel guilty all of the time
+        required: true
+      - id: 10
+        name: punishment_feelings
+        label: Punishment Feelings
+        hint: null
+        type: select_one
+        options:
+          - 0 - I don't feel I am being punished
+          - 1 - I feel I may be punished
+          - 2 - I expect to be punished
+          - 3 - I feel I am being punished
+        required: true
+      - id: 11
+        name: self_dislike
+        label: Self-Dislike
+        hint: null
+        type: select_one
+        options:
+          - 0 - I feel the same about myself as ever
+          - 1 - I have lost confidence in myself
+          - 2 - I am disappointed in myself
+          - 3 - I dislike myself
+        required: true
+      - id: 12
+        name: self_criticalness
+        label: Self-Criticalness
+        hint: null
+        type: select_one
+        options:
+          - 0 - I don't criticize or blame myself more than usual
+          - 1 - I am more critical of myself than I used to be
+          - 2 - I criticize myself for all of my faults
+          - 3 - I blame myself for everything bad that happens
+        required: true
+      - id: 13
+        name: section_physical_symptoms
+        label: -- Physical Symptoms and Behaviors --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: suicidal_thoughts
+        label: Suicidal Thoughts or Wishes
+        hint: null
+        type: select_one
+        options:
+          - 0 - I don't have any thoughts of killing myself
+          - 1 - I have thoughts of killing myself, but I would not carry them out
+          - 2 - I would like to kill myself
+          - 3 - I would kill myself if I had the chance
+        required: true
+      - id: 15
+        name: crying_frequency
+        label: Crying
+        hint: null
+        type: select_one
+        options:
+          - 0 - I don't cry any more than I used to
+          - 1 - I cry more than I used to
+          - 2 - I cry over every little thing
+          - 3 - I feel like crying, but I can't
+        required: true
+      - id: 16
+        name: agitation_level
+        label: Agitation
+        hint: null
+        type: select_one
+        options:
+          - 0 - I am no more restless or wound up than usual
+          - 1 - I feel more restless or wound up than usual
+          - 2 - I am so restless or agitated that it's hard to stay still
+          - 3 - I am so restless or agitated that I have to keep moving or doing something
+        required: true
+      - id: 17
+        name: interest_loss
+        label: Loss of Interest
+        hint: null
+        type: select_one
+        options:
+          - 0 - I have not lost interest in other people or activities
+          - 1 - I am less interested in other people or things than I used to be
+          - 2 - I have lost most of my interest in other people or things
+          - 3 - It's hard to get interested in anything
+        required: true
+      - id: 18
+        name: indecisiveness_level
+        label: Indecisiveness
+        hint: null
+        type: select_one
+        options:
+          - 0 - I make decisions about as well as I ever could
+          - 1 - I find it more difficult to make decisions than I used to
+          - 2 - I have much greater difficulty in making decisions than I used to
+          - 3 - I have trouble making any decisions
+        required: true
+      - id: 19
+        name: worthlessness_perception
+        label: Worthlessness
+        hint: null
+        type: select_one
+        options:
+          - 0 - I do not feel worthless
+          - 1 - I don't consider myself as worthwhile and useful as I used to
+          - 2 - I feel more worthless as compared to other people
+          - 3 - I feel utterly worthless
+        required: true
+      - id: 20
+        name: energy_loss
+        label: Loss of Energy
+        hint: null
+        type: select_one
+        options:
+          - 0 - I have as much energy as ever
+          - 1 - I have less energy than I used to have
+          - 2 - I don't have enough energy to do very much
+          - 3 - I don't have enough energy to do anything
+        required: true
+      - id: 21
+        name: sleep_pattern_changes
+        label: Changes in Sleeping Pattern
+        hint: null
+        type: select_one
+        options:
+          - 0 - I have not experienced any change in my sleeping pattern
+          - 1 - I sleep somewhat more than usual OR somewhat less than usual
+          - 2 - I sleep a lot more than usual OR a lot less than usual
+          - 3 - I sleep most of the day OR I wake up 1-2 hours early and can't get back to sleep
+        required: true
+      - id: 22
+        name: irritability_level
+        label: Irritability
+        hint: null
+        type: select_one
+        options:
+          - 0 - I am no more irritable than usual
+          - 1 - I am more irritable than usual
+          - 2 - I am much more irritable than usual
+          - 3 - I am irritable all the time
+        required: true
+      - id: 23
+        name: appetite_changes
+        label: Changes in Appetite
+        hint: null
+        type: select_one
+        options:
+          - 0 - I have not experienced any change in my appetite
+          - 1 - My appetite is somewhat less than usual OR somewhat greater than usual
+          - 2 - My appetite is much less than before OR much greater than usual
+          - 3 - I have no appetite at all OR I crave food all the time
+        required: true
+      - id: 24
+        name: concentration_difficulty
+        label: Concentration Difficulty
+        hint: null
+        type: select_one
+        options:
+          - 0 - I can concentrate as well as ever
+          - 1 - I can't concentrate as well as usual
+          - 2 - It's hard to keep my mind on anything for very long
+          - 3 - I find I can't concentrate on anything
+        required: true
+      - id: 25
+        name: fatigue_level
+        label: Tiredness or Fatigue
+        hint: null
+        type: select_one
+        options:
+          - 0 - I am no more tired or fatigued than usual
+          - 1 - I get tired or fatigued more easily than usual
+          - 2 - I am too tired or fatigued to do a lot of the things I used to do
+          - 3 - I am too tired or fatigued to do most of the things I used to do
+        required: true

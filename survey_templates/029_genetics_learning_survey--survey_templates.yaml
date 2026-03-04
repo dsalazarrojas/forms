@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Genetics Learning Survey
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page_label
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: second_page
+      label: second_page_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_field
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_field
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_field
+      label: time_of_day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: note_field
+      label: note_or_comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: select_multiple
+      label: select_multiple_label
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false

@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: remote_work_readiness_assessment
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: work_from_home_status
+      label: Work from Home Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: work_from_home_location
+      label: Work from Home Location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: supervisor_approval
+      label: Supervisor Approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: company_policies
+      label: Company Policies
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: employee_policies
+      label: Employee Policies
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: technology_requirements
+      label: Technology Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: remote_work_experience
+      label: Remote Work Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: work_from_home_frequency
+      label: Work from Home Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: job_classification
+      label: Job Classification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: employee_consent
+      label: Employee Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: remote_work_readiness_score
+      label: Remote Work Readiness Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: manager_consent
+      label: Manager Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: departmental_approvals
+      label: Departmental Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: employee_readiness_score
+      label: Employee Readiness Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: supervisor_consent
+      label: Supervisor Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: work_from_home_status_change
+      label: Work from Home Status Change
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 21
+      name: manager_consent_change
+      label: Manager Consent Change
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: departmental_approvals_change
+      label: Departmental Approvals Change
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: employee_readiness_score_change
+      label: Employee Readiness Score Change
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: remote_work_readiness_score_change
+      label: Remote Work Readiness Score Change
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

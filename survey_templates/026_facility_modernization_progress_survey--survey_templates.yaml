@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Modernization Progress Survey
+    pages:
+    - id: 1
+      name: facility_modernization_progress_survey
+      label: Facility Modernization Progress Survey
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: site_location
+      label: Site
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: site_location_options
+      label: Select a site
+      hint: Select one site from the list.
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: renovation_phase
+      label: What phase of the modernization project are you most concerned with?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: current_progress
+      label: What is the current progress of your phase?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: obstacles
+      label: What obstacles are you experiencing?
+      hint: Describe the obstacles you are encountering.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

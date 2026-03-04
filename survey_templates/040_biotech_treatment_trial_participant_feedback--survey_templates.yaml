@@ -1,0 +1,500 @@
+inputSchema:
+  type: object
+  properties:
+    title: Biotech Treatment Trial Participant Feedback
+    pages:
+    - id: 1
+      name: participant_information
+      label: Participant Information
+      hint: Enter your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_id
+      label: Participant ID
+      hint: Your study identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: gender
+      label: Gender
+      hint: Your gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Prefer Not to Say
+      - Other
+      required: true
+    - id: 7
+      name: contact_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: trial_information
+      label: Trial Information
+      hint: About your trial participation
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: trial_name
+      label: Trial Name
+      hint: Name of the clinical trial
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: trial_id
+      label: Trial ID
+      hint: Trial identification number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: treatment_arm
+      label: Treatment Arm
+      hint: Your assigned treatment group
+      type: select_one
+      options:
+      - Treatment Group A
+      - Treatment Group B
+      - Treatment Group C
+      - Placebo Group
+      - Control Group
+      - Not Disclosed
+      required: false
+    - id: 12
+      name: enrollment_date
+      label: Enrollment Date
+      hint: When did you join the trial
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: treatment_duration
+      label: Treatment Duration
+      hint: How long have you been in treatment
+      type: select_one
+      options:
+      - Less than 1 month
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - More than 1 year
+      required: true
+    - id: 14
+      name: visit_number
+      label: Current Visit Number
+      hint: Which visit is this
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: feedback_date
+      label: Feedback Date
+      hint: Date of this feedback
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: treatment_experience
+      label: Treatment Experience
+      hint: Your experience with the treatment
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: Rate your overall satisfaction
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 18
+      name: treatment_effectiveness
+      label: Treatment Effectiveness
+      hint: How effective do you feel the treatment is
+      type: select_one
+      options:
+      - Very Effective
+      - Effective
+      - Somewhat Effective
+      - Not Very Effective
+      - Not Effective At All
+      - Too Early to Tell
+      required: true
+    - id: 19
+      name: symptom_improvement
+      label: Symptom Improvement
+      hint: Have your symptoms improved
+      type: select_one
+      options:
+      - Significant Improvement
+      - Moderate Improvement
+      - Slight Improvement
+      - No Change
+      - Slight Worsening
+      - Moderate Worsening
+      - Significant Worsening
+      required: true
+    - id: 20
+      name: quality_of_life
+      label: Quality of Life
+      hint: How has your quality of life changed
+      type: select_one
+      options:
+      - Much Better
+      - Somewhat Better
+      - No Change
+      - Somewhat Worse
+      - Much Worse
+      required: true
+    - id: 21
+      name: side_effects
+      label: Side Effects
+      hint: Have you experienced side effects
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: experienced_side_effects
+      label: Experienced Side Effects
+      hint: Have you had any side effects
+      type: select_one
+      options:
+      - Yes - Multiple
+      - Yes - Few
+      - Yes - Minor Only
+      - No Side Effects
+      required: true
+    - id: 23
+      name: side_effects_list
+      label: Side Effects Experienced
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Nausea
+      - Fatigue
+      - Headache
+      - Dizziness
+      - Pain at Injection Site
+      - Fever
+      - Chills
+      - Rash
+      - Difficulty Sleeping
+      - Loss of Appetite
+      - Digestive Issues
+      - Mood Changes
+      - Other
+      required: false
+    - id: 24
+      name: side_effect_severity
+      label: Side Effect Severity
+      hint: How severe were the side effects
+      type: select_one
+      options:
+      - Mild - Tolerable
+      - Moderate - Uncomfortable
+      - Severe - Difficult to Tolerate
+      - Very Severe - Debilitating
+      - Not Applicable
+      required: false
+    - id: 25
+      name: side_effects_management
+      label: Side Effects Management
+      hint: How well are side effects managed
+      type: select_one
+      options:
+      - Very Well Managed
+      - Well Managed
+      - Adequately Managed
+      - Poorly Managed
+      - Not Applicable
+      required: false
+    - id: 26
+      name: side_effects_description
+      label: Side Effects Description
+      hint: Describe your side effects
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: treatment_administration
+      label: Treatment Administration
+      hint: About receiving the treatment
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: administration_method
+      label: Administration Method
+      hint: How is treatment given
+      type: select_one
+      options:
+      - Intravenous Infusion
+      - Injection
+      - Oral Medication
+      - Topical Application
+      - Inhalation
+      - Other
+      required: true
+    - id: 29
+      name: administration_comfort
+      label: Administration Comfort
+      hint: How comfortable is the administration
+      type: select_one
+      options:
+      - Very Comfortable
+      - Comfortable
+      - Neutral
+      - Uncomfortable
+      - Very Uncomfortable
+      required: true
+    - id: 30
+      name: visit_experience
+      label: Visit Experience
+      hint: About your clinic visits
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: wait_time
+      label: Wait Time
+      hint: How long do you typically wait
+      type: select_one
+      options:
+      - Less than 15 minutes
+      - 15-30 minutes
+      - 30-60 minutes
+      - 1-2 hours
+      - More than 2 hours
+      required: true
+    - id: 32
+      name: staff_courtesy
+      label: Staff Courtesy
+      hint: How would you rate the staff
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: true
+    - id: 33
+      name: facility_cleanliness
+      label: Facility Cleanliness
+      hint: Rate the cleanliness
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: true
+    - id: 34
+      name: communication_quality
+      label: Communication Quality
+      hint: How well does staff communicate
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: true
+    - id: 35
+      name: information_clarity
+      label: Information Clarity
+      hint: Is information provided clearly
+      type: select_one
+      options:
+      - Very Clear
+      - Clear
+      - Somewhat Clear
+      - Unclear
+      - Very Unclear
+      required: true
+    - id: 36
+      name: concerns_addressed
+      label: Concerns Addressed
+      hint: Are your concerns addressed
+      type: select_one
+      options:
+      - Always
+      - Usually
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 37
+      name: burden_assessment
+      label: Treatment Burden
+      hint: How burdensome is participation
+      type: note
+      options: []
+      required: false
+    - id: 38
+      name: time_burden
+      label: Time Burden
+      hint: How time-consuming is participation
+      type: select_one
+      options:
+      - Not Burdensome
+      - Slightly Burdensome
+      - Moderately Burdensome
+      - Very Burdensome
+      - Extremely Burdensome
+      required: true
+    - id: 39
+      name: travel_burden
+      label: Travel Burden
+      hint: How difficult is travel
+      type: select_one
+      options:
+      - Not Difficult
+      - Slightly Difficult
+      - Moderately Difficult
+      - Very Difficult
+      - Extremely Difficult
+      required: true
+    - id: 40
+      name: financial_burden
+      label: Financial Burden
+      hint: Is there financial impact
+      type: select_one
+      options:
+      - No Financial Burden
+      - Minimal Burden
+      - Moderate Burden
+      - Significant Burden
+      required: true
+    - id: 41
+      name: daily_life_impact
+      label: Daily Life Impact
+      hint: How does participation affect daily life
+      type: select_one
+      options:
+      - No Impact
+      - Minimal Impact
+      - Moderate Impact
+      - Significant Impact
+      - Major Impact
+      required: true
+    - id: 42
+      name: continuation_willingness
+      label: Continuation Willingness
+      hint: Would you continue participation
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Not Sure
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 43
+      name: recommendation
+      label: Recommendation
+      hint: Would you recommend this trial
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Not Sure
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 44
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false
+    - id: 45
+      name: positive_aspects
+      label: Positive Aspects
+      hint: What has been positive
+      type: text
+      options: []
+      required: false
+    - id: 46
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: What could be improved
+      type: text
+      options: []
+      required: false
+    - id: 47
+      name: questions_concerns
+      label: Questions or Concerns
+      hint: Any questions you have
+      type: text
+      options: []
+      required: false
+    - id: 48
+      name: contact_preference
+      label: Contact Preference
+      hint: How should we contact you
+      type: select_one
+      options:
+      - Phone Call
+      - Email
+      - Text Message
+      - Mail
+      - Any Method
+      required: true
+    - id: 49
+      name: follow_up_permission
+      label: Follow-up Permission
+      hint: Can we contact you for follow-up
+      type: select_one
+      options:
+      - Yes - Please Contact Me
+      - Yes - Only If Necessary
+      - No - Do Not Contact
+      required: true
+    - id: 50
+      name: feedback_confidential
+      label: Feedback Confidentiality
+      hint: Understand your feedback is confidential
+      type: select_one
+      options:
+      - I Understand My Feedback Is Confidential
+      - I Agree to Provide Honest Feedback
+      required: true

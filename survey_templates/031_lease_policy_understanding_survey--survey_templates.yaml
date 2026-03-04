@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: lease_policy_understanding_survey
+    pages:
+    - id: 1
+      name: tenant_name
+      label: Tenant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lease_start_date
+      label: lease_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: tenant_contact_info
+      label: tenant_contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: lease_end_date
+      label: lease_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: landlord_name
+      label: landlord_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: lease_duration
+      label: lease_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: rent_frequency
+      label: rent_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Quarterly
+      - Monthly
+      - Bi-Weekly
+      - Weekly
+      required: false
+    - id: 8
+      name: notice_period
+      label: notice_period
+      hint: null
+      type: select_one
+      options:
+      - '30'
+      - '60'
+      - '90'
+      required: false
+    - id: 9
+      name: lease_start_date
+      label: lease_start_date_2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: lease_end_date
+      label: lease_end_date_2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: notice_frequency
+      label: notice_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '2'
+      - '3'
+      - '1'
+      required: false
+    - id: 12
+      name: notice_period
+      label: notice_period_2
+      hint: null
+      type: select_one
+      options:
+      - '30'
+      - '60'
+      - '90'
+      required: false

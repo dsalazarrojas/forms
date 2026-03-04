@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ecosystem And Vegetation Assessment
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: species
+      label: Species
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: habitat
+      label: Habitat
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: region
+      label: Region
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: land_use
+      label: Land Use
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: date_observed
+      label: Date Observed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_observed
+      label: Time Observed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_technician
+      label: Assigned Technician
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_org
+      label: Assigned Organization
+      hint: null
+      type: text
+      options: []
+      required: false

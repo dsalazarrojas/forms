@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Military Service Survey
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: military_experience
+      label: Military Experience
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: branch_of_service
+      label: Branch Of Service
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: unit_id
+      label: Unit ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: role_id
+      label: Role ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: date_of_service
+      label: Date Of Service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: deployment_info
+      label: Deployment Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: discharge_info
+      label: Discharge Information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: contact_frequency
+      label: Contact Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: support_services
+      label: Support Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: military_medical_career_counselor_referral
+      label: Military Medical Career Counselor Referral
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: other_resources
+      label: Other Resources
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: veterans_services
+      label: Veterans Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: other_services
+      label: Other Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

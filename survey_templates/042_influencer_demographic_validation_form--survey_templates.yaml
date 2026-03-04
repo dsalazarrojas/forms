@@ -1,0 +1,272 @@
+inputSchema:
+  type: object
+  properties:
+    title: influencer_demographic_validation_form
+    pages:
+    - id: 1
+      name: demographics
+      label: Demographics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Male''}'
+      - '{''label'': ''Female''}'
+      - '{''label'': ''Other''}'
+      - '{''label'': ''Prefer not to say''}'
+      required: false
+    - id: 5
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: income
+      label: Income
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: social_media
+      label: Social Media
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Instagram''}'
+      - '{''label'': ''Facebook''}'
+      - '{''label'': ''Twitter''}'
+      - '{''label'': ''TikTok''}'
+      - '{''label'': ''YouTube''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: timezone
+      label: Timezone
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: email_optout
+      label: Email Opt-out
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 15
+      name: phone_optout
+      label: Phone Opt-out
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 16
+      name: email_frequency
+      label: Email Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Quarterly''}'
+      - '{''label'': ''Annually''}'
+      - '{''label'': ''Never''}'
+      required: false
+    - id: 17
+      name: email_format
+      label: Email Format
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Business''}'
+      - '{''label'': ''Personal''}'
+      required: false
+    - id: 18
+      name: email_provider
+      label: Email Provider
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Gmail''}'
+      - '{''label'': ''Outlook''}'
+      - '{''label'': ''Yahoo''}'
+      - '{''label'': ''AOL''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 19
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_info_2
+      label: Contact Info 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: social_media_1
+      label: Social Media 1
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Instagram''}'
+      - '{''label'': ''Facebook''}'
+      - '{''label'': ''Twitter''}'
+      - '{''label'': ''TikTok''}'
+      - '{''label'': ''YouTube''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 22
+      name: social_media_2
+      label: Social Media 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Instagram''}'
+      - '{''label'': ''Facebook''}'
+      - '{''label'': ''Twitter''}'
+      - '{''label'': ''TikTok''}'
+      - '{''label'': ''YouTube''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 23
+      name: social_media_3
+      label: Social Media 3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Instagram''}'
+      - '{''label'': ''Facebook''}'
+      - '{''label'': ''Twitter''}'
+      - '{''label'': ''TikTok''}'
+      - '{''label'': ''YouTube''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 24
+      name: social_media_4
+      label: Social Media 4
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Instagram''}'
+      - '{''label'': ''Facebook''}'
+      - '{''label'': ''Twitter''}'
+      - '{''label'': ''TikTok''}'
+      - '{''label'': ''YouTube''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 25
+      name: email_frequency_2
+      label: Email Frequency 2
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Quarterly''}'
+      - '{''label'': ''Annually''}'
+      - '{''label'': ''Never''}'
+      required: false
+    - id: 26
+      name: email_format_2
+      label: Email Format 2
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Business''}'
+      - '{''label'': ''Personal''}'
+      required: false
+    - id: 27
+      name: email_provider_2
+      label: Email Provider 2
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Gmail''}'
+      - '{''label'': ''Outlook''}'
+      - '{''label'': ''Yahoo''}'
+      - '{''label'': ''AOL''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 28
+      name: contact_info_3
+      label: Contact Info 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: contact_info_4
+      label: Contact Info 4
+      hint: null
+      type: text
+      options: []
+      required: false

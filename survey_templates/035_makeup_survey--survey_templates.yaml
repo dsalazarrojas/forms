@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Makeup Survey
+    pages:
+    - id: 1
+      name: survey_1
+      label: how_do_you_like_making_up
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: favorite_brand
+      label: favorite_brand
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Mac''}'
+      - '{''id'': 2, ''label'': ''Estee Lauder''}'
+      - '{''id'': 3, ''label'': "L''Oreal"}'
+      required: false
+    - id: 4
+      name: use_makeup_for
+      label: do_you_use_makeup
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Morning routine''}'
+      - '{''id'': 2, ''label'': ''Night time''}'
+      - '{''id'': 3, ''label'': ''Both''}'
+      - '{''id'': 4, ''label'': ''Never''}'
+      required: false
+    - id: 5
+      name: when_do_you_start_wearing_makeup
+      label: when_do_you_start_wearing_makeup
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: how_much_do_you_like_it
+      label: how_much_do_you_like_it
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: favorite_product_type
+      label: favorite_product_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Foundation''}'
+      - '{''id'': 2, ''label'': ''Mascara''}'
+      - '{''id'': 3, ''label'': ''Powder''}'
+      required: false
+    - id: 8
+      name: what_is_your_favorite_color
+      label: what_is_your_favorite_color
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Red''}'
+      - '{''id'': 2, ''label'': ''Pink''}'
+      - '{''id'': 3, ''label'': ''Blue''}'
+      - '{''id'': 4, ''label'': ''Green''}'
+      required: false
+    - id: 9
+      name: how_long_have_you_been_wearing_makeup
+      label: how_long_have_you_been_wearing_makeup
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Cybersecurity Readiness Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: Veterinary Cybersecurity Readiness Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: practice_location
+      label: Practice Location
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Location A''}'
+      - '{''name'': ''Location B''}'
+      - '{''name'': ''Location C''}'
+      - '{''name'': ''Location D''}'
+      required: false
+    - id: 3
+      name: number_of_clinics
+      label: Number of Clinics
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: cybersecurity_concerns
+      label: Cybersecurity Concerns
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - '{''name'': ''Compliance''}'
+      - '{''name'': ''Data Breach''}'
+      - '{''name'': ''Cyber Insurance''}'
+      - '{''name'': ''IT/IS Security''}'
+      - '{''name'': ''Other''}'
+      - '{''name'': ''Regulatory Compliance''}'
+      required: false
+    - id: 5
+      name: cybersecurity_readiness
+      label: Cybersecurity Readiness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: cybersecurity_plan
+      label: Cybersecurity Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: data_classification
+      label: Data Classification
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Public''}'
+      - '{''name'': ''Private''}'
+      - '{''name'': ''Confidential''}'
+      required: false
+    - id: 8
+      name: data_classification_details
+      label: Data Classification Details
+      hint: Please provide details about your data classification policy
+      type: text
+      options: []
+      required: false

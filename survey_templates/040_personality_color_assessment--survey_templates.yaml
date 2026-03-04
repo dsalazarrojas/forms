@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personality Color Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: color_preferences
+      label: What colors do you like?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: color_associations
+      label: Which colors make you feel most confident?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: color_emotions
+      label: Which colors evoke strong emotions in you?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: color_association_scores
+      label: How strongly do you associate each color with your personality?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: color_scores
+      label: What color is most representative of you?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: color_profile
+      label: Color Profile
+      hint: null
+      type: note
+      options: []
+      required: false

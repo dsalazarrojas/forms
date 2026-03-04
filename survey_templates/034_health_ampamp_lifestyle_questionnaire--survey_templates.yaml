@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: health_and_lifestyle_questionnaire
+    pages:
+    - id: 1
+      name: general_health
+      label: General Health
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sleep_quality
+      label: Sleep Quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: physical_activity
+      label: Physical Activity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: nutrition
+      label: Nutrition
+      hint: null
+      type: select_one
+      options:
+      - choice1
+      - choice2
+      - choice3
+      - choice4
+      - choice5
+      - choice6
+      - choice7
+      - choice8
+      required: false
+    - id: 5
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - choice1
+      - choice2
+      - choice3
+      - choice4
+      required: false
+    - id: 8
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,233 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Impact Assessment Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: respondent_role
+      label: Role or Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: survey_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: section_header_1
+      label: -- Economic Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: income_lost
+      label: Income Lost Due to COVID-19
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: income_impact_percentage
+      label: Percentage of Income Lost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: business_affected
+      label: Business Operations Affected
+      hint: null
+      type: select_one
+      options:
+      - Severely
+      - Moderately
+      - Mildly
+      - Not affected
+      required: true
+    - id: 8
+      name: financial_hardship
+      label: Financial Hardship Level
+      hint: null
+      type: select_one
+      options:
+      - Severe hardship
+      - Moderate hardship
+      - Some hardship
+      - No hardship
+      required: true
+    - id: 9
+      name: section_header_2
+      label: -- Employment Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Furloughed
+      - Self-employed
+      - Retired
+      - Other
+      required: true
+    - id: 11
+      name: job_loss
+      label: Lost Job Due to COVID-19
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: work_arrangement
+      label: Current Work Arrangement
+      hint: null
+      type: select_one
+      options:
+      - Fully remote
+      - Hybrid
+      - On-site
+      - Unemployed
+      - Other
+      required: true
+    - id: 13
+      name: section_header_3
+      label: -- Health Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: covid_diagnosis
+      label: COVID-19 Diagnosis
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 15
+      name: family_covid_diagnosis
+      label: Family Member Diagnosed with COVID-19
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: mental_health_impact
+      label: Mental Health Affected
+      hint: null
+      type: select_one
+      options:
+      - Significantly
+      - Moderately
+      - Slightly
+      - Not affected
+      required: true
+    - id: 17
+      name: section_header_4
+      label: -- Social Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: social_isolation
+      label: Social Isolation Impact
+      hint: null
+      type: select_one
+      options:
+      - Severely isolated
+      - Moderately isolated
+      - Slightly isolated
+      - Not isolated
+      required: true
+    - id: 19
+      name: family_relationships
+      label: Family Relationships Impact
+      hint: null
+      type: select_one
+      options:
+      - Negatively affected
+      - Mostly negatively
+      - Neutral
+      - Positively affected
+      required: true
+    - id: 20
+      name: section_header_5
+      label: -- Recovery and Support --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: recovery_outlook
+      label: Recovery Outlook
+      hint: null
+      type: select_one
+      options:
+      - Very optimistic
+      - Optimistic
+      - Uncertain
+      - Pessimistic
+      - Very pessimistic
+      required: true
+    - id: 22
+      name: support_received
+      label: Support Received
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Government assistance
+      - Employer support
+      - Non-profit assistance
+      - Family support
+      - No support
+      required: true
+    - id: 23
+      name: support_needed
+      label: Additional Support Needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: overall_impact_rating
+      label: Overall COVID-19 Impact Rating
+      hint: 1 - No Impact, 5 - Severe Impact
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

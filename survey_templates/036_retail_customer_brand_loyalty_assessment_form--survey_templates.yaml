@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Customer Brand Loyalty Assessment Form
+    pages:
+    - id: 1
+      name: retail_customer_loyalty
+      label: retail_customer_loyalty
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: customer_satisfaction
+      label: customer_satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: referral_intent
+      label: referral_intent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: store_visit
+      label: store_visit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: customer_experience
+      label: customer_experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: customer_service
+      label: customer_service
+      hint: null
+      type: text
+      options: []
+      required: false

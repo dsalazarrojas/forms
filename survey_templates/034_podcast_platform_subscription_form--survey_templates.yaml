@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Podcast Platform Subscription Form
+    pages:
+    - id: 1
+      name: user_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: preferred_podcast_category
+      label: preferred podcast category
+      hint: null
+      type: select_multiple
+      options:
+      - comedy
+      - true crime
+      - news
+      required: true
+    - id: 4
+      name: subscription_plan
+      label: Subscription Plan
+      hint: null
+      type: select_one
+      options:
+      - monthly
+      - yearly
+      required: true
+    - id: 5
+      name: user_message
+      label: additional message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: user_phone
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: user_zip
+      label: zip/postal code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: subscription_date
+      label: Subscription Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Subscription Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: confirm_subscription
+      label: Confirm Subscription
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

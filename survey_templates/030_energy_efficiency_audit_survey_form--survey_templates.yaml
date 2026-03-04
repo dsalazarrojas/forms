@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: energy_efficiency_audit_survey_form
+    pages:
+    - id: 1
+      name: intro
+      label: Energy Efficiency Audit Survey Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_information
+      label: Company Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: building_details
+      label: Building Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: building_characteristics
+      label: Building Characteristics
+      hint: null
+      type: select_one
+      options:
+      - Commercial
+      - Residential
+      - Industrial
+      required: false
+    - id: 5
+      name: lighting_characteristics
+      label: Lighting Characteristics
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: energy_usage_patterns
+      label: Energy Usage Patterns
+      hint: null
+      type: select_multiple
+      options:
+      - Peak Hours
+      - Non-Peak Hours
+      - Base Case
+      required: false
+    - id: 7
+      name: equipment_characteristics
+      label: Equipment Characteristics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: energy_efficiency_measures
+      label: Energy Efficiency Measures
+      hint: null
+      type: select_multiple
+      options:
+      - Lighting
+      - Mechanical
+      - Electrical
+      required: false
+    - id: 9
+      name: energy_usage_data
+      label: Energy Usage Data
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: survey_completion
+      label: Survey Completion
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

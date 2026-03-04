@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Overview Of Policing Systems Survey
+    pages:
+    - id: 1
+      name: region_specific_policing_models
+      label: Region specific policing models
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: public_trust
+      label: Public trust
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: reform_priorities
+      label: Reform priorities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: policing_satisfaction
+      label: Policing satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: reform_policing_satisfaction
+      label: Reform policing satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 6
+      name: public_engagement
+      label: Public engagement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: trust_in_policing
+      label: Trust in policing
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: police_satisfaction
+      label: Police satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false

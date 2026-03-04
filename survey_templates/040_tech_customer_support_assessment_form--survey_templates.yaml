@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tech Customer Support Assessment Form
+    pages:
+    - id: 1
+      name: tech_customer_support_form_data
+      label: Tech Customer Support Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_feedback
+      label: Customer Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: channel
+      label: Which channel did you contact us through?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: rating
+      label: How would you rate your overall experience?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 5
+      name: time_taken
+      label: Time Taken
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: date_of_contact
+      label: Date of Contact
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_contact
+      label: Time of Contact
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 9
+      name: channel_of_contact_method
+      label: Channel of Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

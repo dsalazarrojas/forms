@@ -1,0 +1,246 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Wash Survey
+    pages:
+    - id: 1
+      name: respondent_information
+      label: -- RESPONDENT INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: your_name
+      label: Your name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: your_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: visit_date
+      label: Date of wash service
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: service_experience
+      label: -- SERVICE EXPERIENCE --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: wash_package
+      label: Which wash package did you choose?
+      hint: null
+      type: select_one
+      options:
+      - Basic Wash
+      - Standard Wash
+      - Deluxe Wash
+      - Premium Wash
+      - Full Detailing
+      - Other
+      required: true
+    - id: 8
+      name: facility_cleanliness
+      label: How clean and well-maintained was our facility?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 9
+      name: staff_friendliness
+      label: How friendly and professional was our staff?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 10
+      name: wash_quality
+      label: How well was your vehicle washed?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 11
+      name: wash_completeness
+      label: Was all the cleaning you requested completed?
+      hint: null
+      type: select_one
+      options:
+      - Completely
+      - Mostly
+      - Partially
+      - Minimal
+      - Not at All
+      required: true
+    - id: 12
+      name: completion_time
+      label: Was the service completed in a timely manner?
+      hint: null
+      type: select_one
+      options:
+      - Faster than Expected
+      - On Time
+      - Slightly Late
+      - Significantly Late
+      - Much Too Long
+      required: false
+    - id: 13
+      name: water_quality
+      label: How would you rate the water quality used?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 14
+      name: drying_quality
+      label: How well was your vehicle dried?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 15
+      name: pricing_satisfaction
+      label: -- PRICING AND VALUE --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: price_reasonableness
+      label: Was the price reasonable for the service?
+      hint: null
+      type: select_one
+      options:
+      - Very Reasonable
+      - Reasonable
+      - Fair
+      - Slightly Expensive
+      - Very Expensive
+      required: true
+    - id: 17
+      name: value_for_money
+      label: Did you feel you received good value?
+      hint: null
+      type: select_one
+      options:
+      - Excellent Value
+      - Good Value
+      - Fair Value
+      - Poor Value
+      - Very Poor Value
+      required: true
+    - id: 18
+      name: overall_satisfaction
+      label: -- OVERALL SATISFACTION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: overall_rating
+      label: Overall, how satisfied are you with our service?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 20
+      name: return_likelihood
+      label: Would you use our car wash again?
+      hint: null
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Maybe
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 21
+      name: recommend_likelihood
+      label: Would you recommend us to friends or family?
+      hint: null
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Maybe
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 22
+      name: strengths
+      label: What did we do well?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: improvements
+      label: What could we improve?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: specific_issue
+      label: Did you experience any issues during your visit?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_feedback
+      label: Any additional comments or suggestions?
+      hint: null
+      type: text
+      options: []
+      required: false

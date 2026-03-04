@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: job_satisfaction_assessment_form
+    pages:
+    - id: 1
+      name: job_satisfaction_assessment
+      label: job_satisfaction_assessment
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 2
+      name: overall_job_satisfaction
+      label: overall_job_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: job_satisfaction_score
+      label: job_satisfaction_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: job_satisfaction_comments
+      label: job_satisfaction_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: job_satisfaction_email
+      label: job_satisfaction_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: job_satisfaction_phone
+      label: job_satisfaction_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_satisfaction_department
+      label: job_satisfaction_department
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: false

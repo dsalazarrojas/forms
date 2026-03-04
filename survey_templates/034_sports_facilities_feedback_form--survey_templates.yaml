@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Facilities Feedback Form
+    pages:
+    - id: 1
+      name: sports_facilities_feedback_form_page_1
+      label: Sports Facilities Feedback Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sports_facilities_feedback_form_page_2
+      label: Select Facility Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: sports_facilities_feedback_form_page_3
+      label: What can be improved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sports_facilities_feedback_form_page_4
+      label: How did you experience your visit?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 11, ''label'': ''Very good'', ''value'': 5}'
+      - '{''id'': 12, ''label'': ''Neutral'', ''value'': 3}'
+      - '{''id'': 13, ''label'': ''Bad'', ''value'': 1}'
+      required: false
+    - id: 5
+      name: sports_facilities_feedback_form_page_5
+      label: Your Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

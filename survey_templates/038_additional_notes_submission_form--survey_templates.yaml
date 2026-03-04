@@ -1,0 +1,99 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Additional Notes Submission Form
+    pages:
+    - id: 1
+      name: reference_header
+      label: -- Supplementary Information Submission --
+      hint: Use this form to provide extra context or updates to an existing process
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: submitter_name
+      label: Submitter Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: associated_id
+      label: Reference ID / Case Number / Ticket ID
+      hint: What project or record does this relate to?
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: submission_category
+      label: Nature of Information
+      hint: null
+      type: select_one
+      options:
+      - Progress Update
+      - Clarification of Previous Data
+      - Correcting an Error
+      - Additional Qualitative Notes
+      - Stakeholder Feedback
+      - Other
+      required: true
+    - id: 5
+      name: detailed_notes
+      label: Additional Notes / Information
+      hint: Please be as specific as possible
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: impact_level
+      label: How critical is this information?
+      hint: null
+      type: select_one
+      options:
+      - Low - For information only
+      - Medium - Affects current workflow
+      - High - Requires immediate review
+      required: true
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: In case we have questions about these notes
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: follow_up_needed
+      label: Do you require a response or confirmation?
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 9
+      name: attachment_available
+      label: Do you have supporting documents to share?
+      hint: If yes, a coordinator will reach out for the files
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: false
+    - id: 10
+      name: timestamp
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true

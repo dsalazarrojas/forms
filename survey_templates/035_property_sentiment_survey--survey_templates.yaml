@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Sentiment Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: property_sentiment_survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question1
+      label: property_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: question2
+      label: property_location
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 4
+      name: question3
+      label: property_condition
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 5
+      name: question4
+      label: property_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: question5
+      label: property_type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 7
+      name: question6
+      label: property_features
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 8
+      name: question7
+      label: property_sentiment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: question8
+      label: property_price_range
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 10
+      name: question9
+      label: property_value
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: question10
+      label: property_size_range
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true

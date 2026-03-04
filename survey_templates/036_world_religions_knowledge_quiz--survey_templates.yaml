@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: World Religions Knowledge Quiz
+    pages:
+    - id: 1
+      name: form_start
+      label: start
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: section_1_label
+      label: Section 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: section_1_question_1
+      label: What is your religious background?
+      hint: null
+      type: select_one
+      options:
+      - Buddhism
+      - Hinduism
+      - Islam
+      - Christianity
+      - Other
+      required: false
+    - id: 4
+      name: section_1_question_2
+      label: What is your religious denomination?
+      hint: null
+      type: select_multiple
+      options:
+      - Christian
+      - Protestant
+      - Catholic
+      - Other
+      required: false
+    - id: 5
+      name: section_2_label
+      label: Section 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_2_question_1
+      label: How would you rate the importance of religious freedom?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: section_3_label
+      label: Section 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_3_question_1
+      label: Have you ever attended a religious service or event?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: section_4_label
+      label: Section 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_4_question_1
+      label: How many languages do you speak?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: form_end
+      label: end
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: social_work_introduction_survey
+    pages:
+    - id: 1
+      name: client_information
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: support_needs
+      label: support_needs
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 3
+      name: preferred_contact
+      label: preferred_contact
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Phone''}'
+      - '{''value'': ''Email''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 4
+      name: contact_frequency
+      label: contact_frequency
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: contact_time
+      label: contact_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: client_support
+      label: client_support
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Emotional''}'
+      - '{''value'': ''Financial''}'
+      - '{''value'': ''Practical''}'
+      - '{''value'': ''Spiritual''}'
+      required: false
+    - id: 7
+      name: support_services
+      label: support_services
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: client_goals
+      label: client_goals
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Improve Daily Functioning''}'
+      - '{''value'': ''Build Support Network''}'
+      - '{''value'': ''Address Mental Health''}'
+      required: true
+    - id: 9
+      name: client_history
+      label: client_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: client_relationships
+      label: client_relationships
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Spouse''}'
+      - '{''value'': ''Family''}'
+      - '{''value'': ''Friends''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 11
+      name: service_requests
+      label: service_requests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: assessment_date
+      label: assessment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: social_worker_notes
+      label: social_worker_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: social_worker_recommendations
+      label: social_worker_recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: client_feedback
+      label: client_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: client_significance
+      label: client_significance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: service_delivery
+      label: service_delivery
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''In-Office''}'
+      - '{''value'': ''Off-Site''}'
+      - '{''value'': ''Telephonic''}'
+      required: true
+    - id: 18
+      name: follow_up_scheduling
+      label: follow_up_scheduling
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 19
+      name: follow_up_frequency
+      label: follow_up_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Daily''}'
+      - '{''value'': ''Weekly''}'
+      - '{''value'': ''Monthly''}'
+      required: false
+    - id: 20
+      name: client_culture
+      label: client_culture
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: client_culture_additional
+      label: client_culture_additional
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: service_fees
+      label: service_fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_method
+      label: follow_up_method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Phone Call''}'
+      - '{''value'': ''Email''}'
+      - '{''value'': ''In-Person''}'
+      required: false
+    - id: 24
+      name: follow_up_notes
+      label: follow_up_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_outcome
+      label: follow_up_outcome
+      hint: null
+      type: text
+      options: []
+      required: false

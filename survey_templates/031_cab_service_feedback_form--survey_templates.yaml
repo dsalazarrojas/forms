@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cab Service Feedback Form
+    pages:
+    - id: 1
+      name: header_ride_info
+      label: -- Ride Details --
+      hint: We value your feedback on your recent journey
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: ride_date
+      label: Date of Ride
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: driver_name
+      label: Driver Name or ID
+      hint: if known
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: pickup_location
+      label: Pickup Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: drop_off_location
+      label: Drop-off Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: header_driver_eval
+      label: -- Driver Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: driver_professionalism
+      label: Driver Professionalism and Courtesy
+      hint: 1 is Poor, 5 is Excellent
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: driving_safety
+      label: Did you feel safe during the ride
+      hint: null
+      type: select_one
+      options:
+      - Very Safe
+      - Safe
+      - Somewhat Unsafe
+      - Very Unsafe
+      required: true
+    - id: 9
+      name: route_efficiency
+      label: Efficiency of the chosen route
+      hint: null
+      type: select_one
+      options:
+      - Efficient
+      - Reasonable
+      - Long/Poor Choice
+      required: true
+    - id: 10
+      name: header_vehicle_eval
+      label: -- Vehicle Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_cleanliness
+      label: Overall Vehicle Cleanliness
+      hint: null
+      type: select_one
+      options:
+      - Spotless
+      - Clean
+      - Average
+      - Needs Improvement
+      required: true
+    - id: 12
+      name: cabin_comfort
+      label: Cabin Comfort and Temperature
+      hint: null
+      type: select_one
+      options:
+      - Comfortable
+      - Neutral
+      - Uncomfortable
+      required: true
+    - id: 13
+      name: header_overall
+      label: -- Overall Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: booking_ease
+      label: Ease of Booking Process
+      hint: null
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Neutral
+      - Difficult
+      required: true
+    - id: 15
+      name: value_for_money
+      label: Value for Money
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 16
+      name: likelihood_to_recommend
+      label: How likely are you to recommend our service to others
+      hint: null
+      type: select_one
+      options:
+      - Definitely
+      - Probably
+      - Not sure
+      - false
+      required: true
+    - id: 17
+      name: additional_comments
+      label: Any additional feedback or comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_followup
+      label: May we contact you regarding this feedback
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: customer_email
+      label: Email Address for follow-up
+      hint: null
+      type: email
+      options: []
+      required: false

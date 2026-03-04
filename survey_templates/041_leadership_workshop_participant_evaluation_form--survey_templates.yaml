@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: leadership_workshop_participant_evaluation_form
+    pages:
+    - id: 1
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: workshop_date
+      label: workshop_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: feedback_on_facilitators
+      label: feedback_on_facilitators
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: feedback_on_content
+      label: feedback_on_content
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rating_of_participant
+      label: rating_of_participant
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: rating_of_content
+      label: rating_of_content
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: rating_of_facilitators
+      label: rating_of_facilitators
+      hint: null
+      type: number
+      options: []
+      required: false

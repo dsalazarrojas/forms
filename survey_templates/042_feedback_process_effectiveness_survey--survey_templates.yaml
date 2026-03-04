@@ -1,0 +1,121 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Feedback Process Effectiveness Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Feedback Process Effectiveness Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: feedback_channels
+      label: How do you currently receive feedback?
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - In-app
+      - Phone
+      - In-person
+      required: false
+    - id: 3
+      name: feedback_channels_other
+      label: Other feedback channels
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: response_time
+      label: Response time
+      hint: null
+      type: select_one
+      options:
+      - Less than a week
+      - 1-2 weeks
+      - 2-4 weeks
+      required: false
+    - id: 5
+      name: response_time_other
+      label: If other, please specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback_frequency
+      label: How frequently do you receive feedback?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Never
+      required: false
+    - id: 7
+      name: feedback_value
+      label: How valuable do you find feedback?
+      hint: null
+      type: select_one
+      options:
+      - Very valuable
+      - Somewhat valuable
+      - Not very valuable
+      - Not at all valuable
+      required: false
+    - id: 8
+      name: feedback_usefulness
+      label: How useful is feedback in your role?
+      hint: null
+      type: select_one
+      options:
+      - Very useful
+      - Somewhat useful
+      - Not very useful
+      - Not at all useful
+      required: false
+    - id: 9
+      name: feedback_immediacy
+      label: How immediate is feedback?
+      hint: null
+      type: select_one
+      options:
+      - Immediate
+      - A few days
+      - A week
+      - More than a week
+      required: false
+    - id: 10
+      name: feedback_frequency_of_action
+      label: How frequent is feedback on actions taken?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 11
+      name: feedback_frequency_of_action_other
+      label: If other, please specify
+      hint: null
+      type: text
+      options: []
+      required: false

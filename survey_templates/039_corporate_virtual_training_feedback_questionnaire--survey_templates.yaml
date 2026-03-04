@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Virtual Training Feedback Questionnaire
+    pages:
+    - id: 1
+      name: feedback
+      label: Virtual Training Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Department 1
+      - Department 2
+      - Department 3
+      required: true
+    - id: 3
+      name: session
+      label: Session
+      hint: null
+      type: select_one
+      options:
+      - Session 1
+      - Session 2
+      required: true
+    - id: 4
+      name: feedback_department
+      label: Was the training session helpful?
+      hint: null
+      type: select_one
+      options:
+      - ประก - Very Helpful - Somewhat Helpful - Not Helpful
+      - Other
+      required: true
+    - id: 5
+      name: feedback_session
+      label: Was the session materials clear and relevant?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 6
+      name: feedback_facilitator
+      label: How would you rate the facilitator's performance?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      required: true
+    - id: 7
+      name: feedback_session_content
+      label: Were the session materials well-structured and organized?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: feedback_session_length
+      label: Session length was just right
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: session_length
+      label: Length of the session in minutes
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

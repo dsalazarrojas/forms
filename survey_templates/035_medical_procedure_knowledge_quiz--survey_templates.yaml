@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Procedure Knowledge Quiz
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: procedure_type
+      label: What type of procedure do you want to simulate?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: medical_condition
+      label: What medical condition does the patient have?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: medical_procedure
+      label: What medical procedure are you performing?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: procedure_location
+      label: Location of procedure
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: patient_age
+      label: Age of patient
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: surgeon_experience
+      label: Years of experience as a surgeon
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: patient_gender
+      label: Gender of patient
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: surgeon_gender
+      label: Gender of surgeon
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: hospital_name
+      label: Hospital name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: doctor_name
+      label: Doctor name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: procedure_date
+      label: Date of procedure
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: procedure_time
+      label: Time of procedure
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: doctor_specialty
+      label: Doctor's specialty
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: patient_status
+      label: Patient status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 16
+      name: procedure_location_details
+      label: Location details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: patient_height
+      label: Height of patient
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: patient_weight
+      label: Weight of patient
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: doctor_note
+      label: Doctor's note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: nurse_note
+      label: Nurse's note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: patient_email
+      label: Email of patient
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: patient_phone
+      label: Phone of patient
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: doctor_license
+      label: Doctor's license
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: patient_condition_details
+      label: Patient condition details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: hospital_address
+      label: Address of hospital
+      hint: null
+      type: text
+      options: []
+      required: false

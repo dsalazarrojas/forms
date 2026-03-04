@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Self Report Personality Test Questionnaire
+    pages:
+    - id: 1
+      name: intro
+      label: What is your age?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: personality_type
+      label: Extraverted or Introvert?
+      hint: null
+      type: select_one
+      options:
+      - Extraverted
+      - Introvert
+      required: true
+    - id: 3
+      name: personality_trait_1
+      label: agreeableness
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: personality_trait_2
+      label: conscientiousness
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: personality_trait_3
+      label: openness
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: personality_trait_4
+      label: extroversion
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: personality_trait_5
+      label: agreeableness2
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: personality_trait_6
+      label: conscientiousness2
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: personality_trait_7
+      label: openness2
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: personality_trait_8
+      label: extroversion2
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: intro2
+      label: What is your job title?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: job2
+      label: What is your company?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email2
+      label: What is your email?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone2
+      label: What is your phone?
+      hint: null
+      type: text
+      options: []
+      required: false

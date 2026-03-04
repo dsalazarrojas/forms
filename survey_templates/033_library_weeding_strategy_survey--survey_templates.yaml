@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Library Weeding Strategy Survey
+    pages:
+    - id: 1
+      name: weeding_frequency
+      label: Weeding Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: weeding_decision_criterion
+      label: Weeding Decision Criteria
+      hint: null
+      type: select_one
+      options:
+      - Weeding Criteria 1
+      - Weeding Criteria 2
+      - Weeding Criteria 3
+      required: false
+    - id: 3
+      name: weeding_challenges
+      label: Weeding Challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: weeding_improvement_ideas
+      label: Weeding Improvement Ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: library_types
+      label: Library Types
+      hint: null
+      type: select_multiple
+      options:
+      - Urban
+      - Rural
+      - Academic
+      - Public
+      - School
+      - Special
+      required: false
+    - id: 6
+      name: staff_feedback
+      label: Staff Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

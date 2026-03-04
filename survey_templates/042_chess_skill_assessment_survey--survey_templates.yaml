@@ -1,0 +1,297 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chess Skill Assessment Survey
+    pages:
+    - id: 1
+      name: player_name
+      label: Your Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: age
+      label: Age
+      hint: Your age
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: country
+      label: Country
+      hint: Country of residence
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: chess_rating
+      label: Chess Rating
+      hint: Your current official rating
+      type: select_one
+      options:
+      - Unrated
+      - Under 800
+      - 800-1000
+      - 1000-1200
+      - 1200-1400
+      - 1400-1600
+      - 1600-1800
+      - 1800-2000
+      - 2000-2200
+      - 2200+
+      required: true
+    - id: 6
+      name: rating_type
+      label: Rating Type
+      hint: What type of rating do you have
+      type: select_one
+      options:
+      - FIDE
+      - USCF
+      - ECF
+      - Chess.com
+      - Lichess
+      - Local club
+      - Unrated
+      required: true
+    - id: 7
+      name: years_playing
+      label: Years Playing Chess
+      hint: How long have you played
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-2 years
+      - 3-5 years
+      - 6-10 years
+      - 10-20 years
+      - 20+ years
+      required: true
+    - id: 8
+      name: play_frequency
+      label: How Often Do You Play
+      hint: Frequency of chess play
+      type: select_one
+      options:
+      - Daily
+      - Several times a week
+      - Once a week
+      - Few times a month
+      - Once a month
+      - Rarely
+      required: true
+    - id: 9
+      name: time_control_preference
+      label: Preferred Time Control
+      hint: What time control do you prefer
+      type: select_multiple
+      options:
+      - Bullet (under 3 min)
+      - Blitz (3-10 min)
+      - Rapid (10-60 min)
+      - Classical (60+ min)
+      - No preference
+      required: true
+    - id: 10
+      name: tactical_skill
+      label: Tactical Skill Level
+      hint: How would you rate your tactics
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below average
+      - Poor
+      required: true
+    - id: 11
+      name: strategic_skill
+      label: Strategic Skill Level
+      hint: How would you rate your strategy
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below average
+      - Poor
+      required: true
+    - id: 12
+      name: endgame_skill
+      label: Endgame Skill Level
+      hint: How would you rate your endgames
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below average
+      - Poor
+      required: true
+    - id: 13
+      name: opening_skill
+      label: Opening Skill Level
+      hint: How would you rate your openings
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below average
+      - Poor
+      required: true
+    - id: 14
+      name: calculation_skill
+      label: Calculation Skill Level
+      hint: How would you rate your calculation
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below average
+      - Poor
+      required: true
+    - id: 15
+      name: positional_skill
+      label: Positional Skill Level
+      hint: How would you rate positional play
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below average
+      - Poor
+      required: true
+    - id: 16
+      name: study_habits
+      label: Study Habits
+      hint: How often do you study chess
+      type: select_one
+      options:
+      - Daily
+      - Several times a week
+      - Once a week
+      - Few times a month
+      - Rarely
+      - Never
+      required: true
+    - id: 17
+      name: study_methods
+      label: Study Methods
+      hint: How do you study chess
+      type: select_multiple
+      options:
+      - Tactics puzzles
+      - Game analysis
+      - Opening study
+      - Endgame study
+      - Playing games
+      - Watching videos
+      - Reading books
+      - Working with coach
+      - Chess courses
+      required: true
+    - id: 18
+      name: tournament_experience
+      label: Tournament Experience
+      hint: How many tournaments have you played
+      type: select_one
+      options:
+      - None
+      - 1-5 tournaments
+      - 6-20 tournaments
+      - 21-50 tournaments
+      - 50+ tournaments
+      required: true
+    - id: 19
+      name: coach_access
+      label: Do You Have a Coach
+      hint: Do you receive chess coaching
+      type: select_one
+      options:
+      - Yes, regular
+      - Yes, occasional
+      - No, but want one
+      - No, not interested
+      required: true
+    - id: 20
+      name: chess_goals
+      label: Chess Goals
+      hint: What are your chess goals
+      type: select_multiple
+      options:
+      - Improve rating
+      - Win tournaments
+      - Earn title
+      - Play professionally
+      - Teach chess
+      - Enjoyment only
+      - Beat friends
+      - Other
+      required: true
+    - id: 21
+      name: biggest_weakness
+      label: Biggest Weakness
+      hint: What is your biggest chess weakness
+      type: select_one
+      options:
+      - Tactics
+      - Strategy
+      - Openings
+      - Endgames
+      - Time management
+      - Psychology
+      - Calculation
+      - Pattern recognition
+      required: true
+    - id: 22
+      name: biggest_strength
+      label: Biggest Strength
+      hint: What is your biggest chess strength
+      type: select_one
+      options:
+      - Tactics
+      - Strategy
+      - Openings
+      - Endgames
+      - Time management
+      - Psychology
+      - Calculation
+      - Pattern recognition
+      required: true
+    - id: 23
+      name: training_interest
+      label: Training Program Interest
+      hint: Would you join a training program
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Not sure
+      - Probably no
+      - Definitely no
+      required: true
+    - id: 24
+      name: skill_improvement_areas
+      label: Areas for Improvement
+      hint: What skills do you want to improve
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information about your chess
+      type: text
+      options: []
+      required: false

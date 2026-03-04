@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Visitor Experience Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: welcome-to-our-website
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: rating_satisfaction
+      label: how-satisfying-was-your-visit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: rating_satisfaction_2
+      label: how-satisfying-was-your-visit-2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: recommendation
+      label: do-you-recommend-this-website
+      hint: null
+      type: select_one
+      options:
+      - 1 - Yes
+      - 0 - No
+      - 2 - Undecided
+      required: false
+    - id: 5
+      name: open_ended_questions_1
+      label: describe-what-you-enjoyed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: open_ended_questions_2
+      label: what-did-you-not-enjoy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: open_ended_questions_3
+      label: what-could-we-improve
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: open_ended_questions_4
+      label: do-you-have-any-comments-or-suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: your-email
+      hint: null
+      type: email
+      options: []
+      required: false

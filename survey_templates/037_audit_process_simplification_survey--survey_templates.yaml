@@ -1,0 +1,257 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Audit Process Simplification Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Optional - leave blank for anonymous
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: respondent_email
+        label: Email Address
+        hint: Optional - for follow-up
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: department
+        label: Department
+        hint: Your department
+        type: select_one
+        options:
+          - Internal Audit
+          - External Audit
+          - Finance
+          - Accounting
+          - Compliance
+          - Risk Management
+          - Operations
+          - IT
+          - Other
+        required: true
+      - id: 4
+        name: role_level
+        label: Role Level
+        hint: Your level in the organization
+        type: select_one
+        options:
+          - Staff
+          - Senior
+          - Manager
+          - Director
+          - Executive
+        required: true
+      - id: 5
+        name: years_in_role
+        label: Years in Role
+        hint: How long have you been in this role?
+        type: select_one
+        options:
+          - Less than 1 year
+          - 1-3 years
+          - 4-6 years
+          - 7-10 years
+          - Over 10 years
+        required: true
+      - id: 6
+        name: survey_date
+        label: Survey Date
+        hint: Date of this survey
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: current_process_complexity
+        label: Current Process Complexity
+        hint: How complex are current audit processes?
+        type: select_one
+        options:
+          - Very complex
+          - Complex
+          - Moderate
+          - Simple
+          - Very simple
+        required: true
+      - id: 8
+        name: most_complex_steps
+        label: Most Complex Steps
+        hint: Which steps are most complex?
+        type: select_multiple
+        options:
+          - Planning
+          - Risk assessment
+          - Testing
+          - Documentation
+          - Review
+          - Reporting
+          - Follow-up
+        required: true
+      - id: 9
+        name: documentation_burden
+        label: Documentation Burden
+        hint: How burdensome is documentation?
+        type: select_one
+        options:
+          - Very burdensome
+          - Burdensome
+          - Moderate
+          - Light
+          - Minimal
+        required: true
+      - id: 10
+        name: approval_bottlenecks
+        label: Approval Bottlenecks
+        hint: Are there approval bottlenecks?
+        type: select_one
+        options:
+          - Major bottlenecks
+          - Some bottlenecks
+          - Minor bottlenecks
+          - No bottlenecks
+        required: true
+      - id: 11
+        name: technology_utilization
+        label: Technology Utilization
+        hint: How well is technology utilized?
+        type: select_one
+        options:
+          - Very well
+          - Well
+          - Moderate
+          - Poorly
+          - Very poorly
+        required: true
+      - id: 12
+        name: automation_opportunities
+        label: Automation Opportunities
+        hint: Which areas could be automated?
+        type: select_multiple
+        options:
+          - Data collection
+          - Testing procedures
+          - Documentation
+          - Report generation
+          - Follow-up tracking
+          - None
+        required: true
+      - id: 13
+        name: redundant_activities
+        label: Redundant Activities
+        hint: What activities are redundant?
+        type: select_multiple
+        options:
+          - Duplicate reviews
+          - Multiple approvals
+          - Repeated data entry
+          - Excessive meetings
+          - Over-documentation
+          - None
+        required: true
+      - id: 14
+        name: communication_overhead
+        label: Communication Overhead
+        hint: How much communication overhead exists?
+        type: select_one
+        options:
+          - Excessive
+          - High
+          - Moderate
+          - Low
+          - Minimal
+        required: true
+      - id: 15
+        name: template_effectiveness
+        label: Template Effectiveness
+        hint: How effective are current templates?
+        type: select_one
+        options:
+          - Very effective
+          - Effective
+          - Neutral
+          - Ineffective
+          - Very ineffective
+        required: true
+      - id: 16
+        name: standardization_level
+        label: Standardization Level
+        hint: How standardized are processes?
+        type: select_one
+        options:
+          - Very standardized
+          - Standardized
+          - Moderate
+          - Ad hoc
+          - No standardization
+        required: true
+      - id: 17
+        name: training_adequacy
+        label: Training Adequacy
+        hint: Is training adequate for processes?
+        type: select_one
+        options:
+          - Very adequate
+          - Adequate
+          - Neutral
+          - Inadequate
+          - Very inadequate
+        required: true
+      - id: 18
+        name: simplification_priorities
+        label: Simplification Priorities
+        hint: What should be prioritized for simplification?
+        type: select_multiple
+        options:
+          - Documentation requirements
+          - Approval workflows
+          - Testing procedures
+          - Reporting formats
+          - Communication protocols
+          - Technology tools
+        required: true
+      - id: 19
+        name: simplification_suggestions
+        label: Simplification Suggestions
+        hint: Any specific suggestions for simplification
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: expected_benefits
+        label: Expected Benefits
+        hint: What benefits would simplification bring?
+        type: select_multiple
+        options:
+          - Time savings
+          - Cost reduction
+          - Improved quality
+          - Better morale
+          - Faster completion
+          - Reduced errors
+        required: true
+      - id: 21
+        name: overall_simplification_need
+        label: Overall Simplification Need
+        hint: Rate the need for process simplification
+        type: select_one
+        options:
+          - Critical
+          - High
+          - Moderate
+          - Low
+          - Not needed
+        required: true

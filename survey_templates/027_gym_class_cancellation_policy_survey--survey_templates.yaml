@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: gym_class_cancellation_policy_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: cancellation_reason
+      label: Cancellation Reason
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Cancellation due to personal reason''}'
+      - '{''label'': ''Cancellation due to business reason''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: cancellation_date
+      label: Cancellation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: cancellation_time
+      label: Cancellation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: cancellation_rule
+      label: Cancellation Rule
+      hint: Describe the cancellation rule that applies
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: cancellation_awareness
+      label: Cancellation Awareness
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Aware of cancellation rule''}'
+      - '{''label'': ''Aware of consequences''}'
+      - '{''label'': ''Not aware''}'
+      required: false
+    - id: 7
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very dissatisfied''}'
+      - '{''label'': ''Somewhat dissatisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat satisfied''}'
+      - '{''label'': ''Very satisfied''}'
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: Provide additional comments or concerns
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: cancellation_frequency
+      label: Cancellation Frequency
+      hint: How often do you cancel your classes?
+      type: select_one
+      options:
+      - '{''label'': ''Less than once a month''}'
+      - '{''label'': ''About once a month''}'
+      - '{''label'': ''About once a week''}'
+      - '{''label'': ''More than once a week''}'
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: member_id
+      label: Member ID
+      hint: null
+      type: number
+      options: []
+      required: false

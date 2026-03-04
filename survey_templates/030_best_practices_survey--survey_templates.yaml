@@ -1,0 +1,195 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Best Practices Survey
+    pages:
+      - id: 1
+        name: employee_info_header
+        label: -- Employee Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: employee_full_name
+        label: Employee Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: employee_department
+        label: Department
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: employee_tenure
+        label: Tenure in Organization
+        hint: How long have you been with the company
+        type: select_one
+        options:
+          - Less than 1 year
+          - 1 to 3 years
+          - 3 to 5 years
+          - Over 5 years
+        required: true
+      - id: 5
+        name: process_awareness_header
+        label: -- Current Process Awareness --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: best_practices_awareness
+        label: Are you aware of the current Best Practices for your role
+        hint: null
+        type: select_one
+        options:
+          - Yes - fully aware
+          - Somewhat aware
+          - No - not aware
+        required: true
+      - id: 7
+        name: documentation_referral_freq
+        label: How often do you refer to the official process documentation
+        hint: null
+        type: select_one
+        options:
+          - Daily
+          - Weekly
+          - Monthly
+          - Rarely
+          - Never
+        required: true
+      - id: 8
+        name: documentation_quality_rating
+        label: Quality of Current Process Documentation
+        hint: Clarity and accuracy of the guides
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2
+          - 3
+          - 4
+          - 5 - Excellent
+        required: true
+      - id: 9
+        name: adoption_implementation_header
+        label: -- Adoption and Implementation --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: implementation_ease_rating
+        label: How easy is it to implement these best practices
+        hint: In your day-to-day work
+        type: select_one
+        options:
+          - 1 - Very difficult
+          - 2
+          - 3
+          - 4
+          - 5 - Very easy
+        required: true
+      - id: 11
+        name: adoption_barrier_desc
+        label: What is the biggest barrier to following best practices
+        hint: Identify what slows you down or prevents adoption
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: management_support_status
+        label: Do you feel supported by management in adopting these processes
+        hint: null
+        type: select_one
+        options:
+          - Yes - very supported
+          - Sometimes supported
+          - No - not supported
+        required: true
+      - id: 13
+        name: improvement_opp_header
+        label: -- Improvement Opportunities --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: process_update_target
+        label: Which specific process is most in need of an update
+        hint: Name the process or workflow
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: improvement_suggestion_text
+        label: Suggestion for improvement in that process
+        hint: What change would you make
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: successful_team_practice_desc
+        label: Describe a practice used by your team that should be shared
+        hint: Something that works well for your group
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: training_feedback_header
+        label: -- Training and Development --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: training_adequacy_status
+        label: Have you received adequate training on best practices
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Needs improvement
+        required: true
+      - id: 19
+        name: preferred_training_format
+        label: What training format do you prefer
+        hint: For learning new processes
+        type: select_one
+        options:
+          - Instructional Video
+          - Written Step-by-Step Guide
+          - Interactive Workshop
+          - Peer Mentoring
+        required: true
+      - id: 20
+        name: additional_survey_feedback
+        label: Any other feedback regarding organizational processes
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: survey_completion_date_stamp
+        label: Date of Survey
+        hint: null
+        type: date
+        options: []
+        required: true

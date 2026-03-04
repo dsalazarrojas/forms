@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Oil Field Operations Survey
+    pages:
+    - id: 1
+      name: shift_conditions
+      label: Oil Field Shift Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: safety_observations
+      label: Safety Observations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: performance_issues
+      label: Performance Issues
+      hint: null
+      type: select_one
+      options:
+      - Poor equipment condition
+      - Equipment breakdown
+      - Delayed work
+      - Inadequate supervision
+      - Poor planning
+      - Lack of resources
+      - Poor communication
+      - Inclement weather
+      - Inadequate training
+      required: false
+    - id: 4
+      name: communication
+      label: Communication
+      hint: null
+      type: select_multiple
+      options:
+      - Poor response from superiors
+      - Difficulty in contacting colleagues
+      - Inadequate information sharing
+      - Lack of clear instructions
+      - Poor communication from superiors
+      required: false
+    - id: 5
+      name: team_collaboration
+      label: Team Collaboration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: work_flow
+      label: Workflowæk
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: training_support
+      label: Training Support
+      hint: null
+      type: select_one
+      options:
+      - Adequate training and instruction
+      - Inadequate training and prophets
+      - No training provided
+      - No training needed
+      required: false
+    - id: 8
+      name: shift_supervision
+      label: Shift Supervision
+      hint: null
+      type: select_multiple
+      options:
+      - Effective supervision
+      - Inadequate supervision
+      - No supervision
+      required: false
+    - id: 9
+      name: safety_equipment
+      label: Safety Equipment
+      hint: null
+      type: select_one
+      options:
+      - Available and in good condition
+      - Available but in poor condition
+      - Available but not used
+      - Not available
+      required: false
+    - id: 10
+      name: safety_equipment_used
+      label: Safety Equipment Used
+      hint: null
+      type: select_multiple
+      options:
+      - Safety helmet
+      - Safety glasses
+      - Safety shoes
+      - Fire extinguisher
+      required: false
+    - id: 11
+      name: work_location
+      label: Work Location
+      hint: null
+      type: select_one
+      options:
+      - Onshore
+      - Offshore
+      - Both
+      required: false
+    - id: 12
+      name: shift_length
+      label: Shift Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: shift_report
+      label: Report
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: shift_start
+      label: Shift Start
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: shift_end
+      label: Shift End
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: team
+      label: Team
+      hint: null
+      type: select_multiple
+      options:
+      - Team Leader
+      - Team Member
+      - Team Manager
+      required: false
+    - id: 17
+      name: shift_conditions_important
+      label: Important
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: performance
+      label: Performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: team_performance
+      label: Team Performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: overall_performance
+      label: Overall Performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: team_workload
+      label: Team Workload
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: shift_hours
+      label: Shift Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: number
+      options: []
+      required: false

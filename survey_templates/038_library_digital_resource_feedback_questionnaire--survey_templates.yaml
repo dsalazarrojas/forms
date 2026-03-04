@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Library Digital Resource Feedback Questionnaire
+    pages:
+    - id: 1
+      name: digital_resource_feedback_form
+      label: What do you think about our digital collection?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: resource_type
+      label: Resource Type
+      hint: null
+      type: select_multiple
+      options:
+      - ebook
+      - article
+      - database
+      - document
+      - journal
+      - newspaper
+      - thesis
+      - video
+      required: false
+    - id: 3
+      name: rating
+      label: Rating (1-5)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_visit
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_of_visit
+      label: Time of Visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: digital_collection_improvement
+      label: How would you improve our digital collection?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: services
+      label: Which services would you like us to add to improve user experience?
+      hint: null
+      type: select_multiple
+      options:
+      - Search functionality
+      - Recommendations
+      - Personalization
+      - Accessibility features
+      - Other
+      required: true
+    - id: 12
+      name: issue_tracking
+      label: Issue tracking
+      hint: null
+      type: select_multiple
+      options:
+      - Technical issues
+      - Content issues
+      - Other
+      required: false
+    - id: 13
+      name: resource_access_issues
+      label: Resource access issues
+      hint: null
+      type: select_multiple
+      options:
+      - Authentication errors
+      - Authorization errors
+      - Network errors
+      - Other
+      required: false
+    - id: 14
+      name: service_improvement
+      label: Service improvement suggestions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: other_service_improvement
+      label: Other service improvement suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

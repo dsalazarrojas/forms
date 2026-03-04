@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ctl U Leasing Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: survey_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: leasing_techniques
+      label: leasing_techniques
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: leasing_techniques_improvement
+      label: leasing_techniques_improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: output
+      label: output
+      hint: null
+      type: text
+      options: []
+      required: false

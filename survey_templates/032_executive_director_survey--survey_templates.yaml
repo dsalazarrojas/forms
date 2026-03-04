@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Executive Director Survey
+    pages:
+    - id: 1
+      name: executive_director_survey_form
+      label: Executive Director Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: experience
+      label: experience
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: leadership
+      label: leadership
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: communication
+      label: communication
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: team_work
+      label: team_work
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: leadership_style
+      label: leadership_style
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: open_ended_questions
+      label: open_ended_questions
+      hint: null
+      type: note
+      options: []
+      required: false

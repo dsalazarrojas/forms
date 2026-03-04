@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Governance Confidence Survey
+    pages:
+    - id: 1
+      name: survey_start
+      label: Financial Governance Confidence Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: financial_governance_confidence
+      label: financial_governance_confidence
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: financial_governance_confidence_2
+      label: financial_governance_confidence_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: financial_governance_confidence_3
+      label: financial_governance_confidence_3
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: financial_governance_confidence_4
+      label: financial_governance_confidence_4
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_information_2
+      label: contact_information_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submission_confirmation
+      label: submission_confirmation
+      hint: null
+      type: select_one
+      options:
+      - I am confident in the financial governance of this organization
+      - I am not confident in the financial governance of this organization
+      - I do not know
+      required: false
+    - id: 10
+      name: submission_confirmation_2
+      label: submission_confirmation_2
+      hint: null
+      type: select_multiple
+      options:
+      - I am confident in the financial governance of this organization
+      - I am not confident in the financial governance of this organization
+      - I do not know
+      required: false

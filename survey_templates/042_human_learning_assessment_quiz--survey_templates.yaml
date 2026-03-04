@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Human Learning Assessment Quiz
+    pages:
+    - id: 1
+      name: quiz_type
+      label: Quiz Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: question_type
+      label: Question Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: question_bank
+      label: Question Bank
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: question
+      label: Question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: time_allowed
+      label: Time Allowed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: email_to
+      label: Email To
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: email_cc
+      label: Email Cc
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: phone_to
+      label: Phone To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: phone_cc
+      label: Phone Cc
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: cancel
+      label: Cancel
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: save_and_submit
+      label: Save and Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

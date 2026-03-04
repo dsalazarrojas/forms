@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: NPS Survey
+    pages:
+    - id: 1
+      name: customer_satisfaction
+      label: Customer Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: likely_to_recommend
+      label: Likely to Recommend
+      hint: null
+      type: select_multiple
+      options:
+      - '{''Likely to Recommend (6 points scale)'': 0}'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 3
+      name: likely_to_renew
+      label: Likely to Renew
+      hint: null
+      type: select_multiple
+      options:
+      - '{''Likely to Renew (6 points scale)'': 0}'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 4
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: select_one
+      options:
+      - Very Poor
+      - Somewhat Poor
+      - Neutral
+      - Somewhat Good
+      - Good
+      - Excellent
+      required: false
+    - id: 5
+      name: product_or_service
+      label: Product or Service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: open_ended_question_1
+      label: Open-Ended Question 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: open_ended_question_2
+      label: Open-Ended Question 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: open_ended_question_3
+      label: Open-Ended Question 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: open_ended_question_4
+      label: Open-Ended Question 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: open_ended_question_5
+      label: Open-Ended Question 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_contacts
+      label: Customer Contacts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: customer_satisfaction_2
+      label: Customer Satisfaction 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: likely_to_recommend_2
+      label: Likely to Recommend 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''Likely to Recommend (6 points scale)'': 0}'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 18
+      name: likely_to_renew_2
+      label: Likely to Renew 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''Likely to Renew (6 points scale)'': 0}'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 19
+      name: overall_experience_2
+      label: Overall Experience 2
+      hint: null
+      type: select_one
+      options:
+      - Very Poor
+      - Somewhat Poor
+      - Neutral
+      - Somewhat Good
+      - Good
+      - Excellent
+      required: false

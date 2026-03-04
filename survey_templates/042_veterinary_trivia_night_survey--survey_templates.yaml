@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Trivia Night Survey
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: event name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: attended_other_event
+      label: Attended Other Event
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': True}'
+      - '{''name'': False}'
+      - '{''name'': ''Maybe''}'
+      required: false
+    - id: 5
+      name: attended_veterinary_event
+      label: Attended Veterinary Event
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': True}'
+      - '{''name'': False}'
+      required: false
+    - id: 6
+      name: attended_another_veterinary_event
+      label: Attended Another Veterinary Event
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': True}'
+      - '{''name'': False}'
+      required: false
+    - id: 7
+      name: name_of_other_event
+      label: Name Of Other Event
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: attended_other_event
+      label: Other Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: improvement_suggestion
+      label: Improvement Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: rating_value
+      label: Rating Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: rating_value_max
+      label: Rating Value Max
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: rating_value_min
+      label: Rating Value Min
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: rating_value_avg
+      label: Rating Value Avg
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: rating_value_std
+      label: Rating Value Std
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: rating_value_median
+      label: Rating Value Median
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: rating_value_dev
+      label: Rating Value Dev
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: rating_value_var
+      label: Rating Value Var
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: rating_value_sum
+      label: Rating Value Sum
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: total_participants
+      label: Total Participants
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: average_score
+      label: Average Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: max_score
+      label: Max Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: min_score
+      label: Min Score
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: participant_count
+      label: Participant Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: survey_time
+      label: Survey Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: survey_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: false

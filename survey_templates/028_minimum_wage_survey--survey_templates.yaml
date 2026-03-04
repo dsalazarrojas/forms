@@ -1,0 +1,48 @@
+inputSchema:
+  type: object
+  properties:
+    title: Minimum Wage Survey
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: What is your current salary?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: question_2
+      label: Do you feel you are underpaid?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_underpaid''}'
+      - '{''value'': ''fairly_underpaid''}'
+      - '{''value'': ''fairly_paid''}'
+      - '{''value'': ''very_paid''}'
+      required: false
+    - id: 4
+      name: question_3
+      label: What would you like to do to earn more money?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: question_4
+      label: Do you think you are overpaid?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_overpaid''}'
+      - '{''value'': ''fairly_overpaid''}'
+      - '{''value'': ''fairly_not_paid''}'
+      - '{''value'': ''very_not_paid''}'
+      required: false

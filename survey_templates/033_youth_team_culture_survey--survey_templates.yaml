@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Team Culture Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_morale
+      label: team_morale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: team_communication
+      label: team_communication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: team_belonging
+      label: team_belonging
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: communication_channels
+      label: communication_channels
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''None'', ''value'': ''None''}'
+      - '{''label'': ''Text Messages'', ''value'': ''Text Messages''}'
+      - '{''label'': ''Social Media'', ''value'': ''Social Media''}'
+      - '{''label'': ''Phone Calls'', ''value'': ''Phone Calls''}'
+      - '{''label'': ''In Person Meetings'', ''value'': ''In Person Meetings''}'
+      - '{''label'': ''Email'', ''value'': ''Email''}'
+      - '{''label'': ''Other'', ''value'': ''Other''}'
+      - '{''label'': ''Not Specified'', ''value'': ''Not Specified''}'
+      required: false
+    - id: 6
+      name: team_belonging_value
+      label: team_belonging_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: communication_value
+      label: communication_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: morale_value
+      label: morale_value
+      hint: null
+      type: number
+      options: []
+      required: false

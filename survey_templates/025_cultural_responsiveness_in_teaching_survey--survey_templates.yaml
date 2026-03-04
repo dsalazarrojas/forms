@@ -1,0 +1,258 @@
+inputSchema:
+  type: object
+  properties:
+    title: cultural_responsiveness_in_teaching_survey
+    pages:
+    - id: 1
+      name: teacher_survey
+      label: Teacher Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: teaching_practices
+      label: Teaching Practices
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Some''}'
+      - '{''label'': ''Most''}'
+      - '{''label'': ''All''}'
+      required: false
+    - id: 3
+      name: cultural_background
+      label: Cultural Background
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Asian''}'
+      - '{''label'': ''Black or African American''}'
+      - '{''label'': ''Hispanic or Latino''}'
+      - '{''label'': ''American Indian or Alaska Native''}'
+      - '{''label'': ''Pacific Islander''}'
+      - '{''label'': ''White''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: language_support
+      label: Language Support
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''English''}'
+      - '{''label'': ''Spanish''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: language_instructional_level
+      label: Language Instructional Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: student_diversity
+      label: Student Diversity
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Some''}'
+      - '{''label'': ''Most''}'
+      - '{''label'': ''All''}'
+      required: false
+    - id: 7
+      name: teaching_styles
+      label: Teaching Styles
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Some''}'
+      - '{''label'': ''Most''}'
+      - '{''label'': ''All''}'
+      required: false
+    - id: 8
+      name: classroom_environment
+      label: Classroom Environment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Some''}'
+      - '{''label'': ''Most''}'
+      - '{''label'': ''All''}'
+      required: false
+    - id: 9
+      name: school_support
+      label: School Support
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Some''}'
+      - '{''label'': ''Most''}'
+      - '{''label'': ''All''}'
+      required: false
+    - id: 10
+      name: teacher_training
+      label: Teacher Training
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Some''}'
+      - '{''label'': ''Most''}'
+      - '{''label'': ''All''}'
+      required: false
+    - id: 11
+      name: student_assessment
+      label: Student Assessment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Some''}'
+      - '{''label'': ''Most''}'
+      - '{''label'': ''All''}'
+      required: false
+    - id: 12
+      name: teacher_support
+      label: Teacher Support
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Some''}'
+      - '{''label'': ''Most''}'
+      - '{''label'': ''All''}'
+      required: false
+    - id: 13
+      name: school_support_level
+      label: School Support Level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Some''}'
+      - '{''label'': ''Most''}'
+      - '{''label'': ''All''}'
+      required: false
+    - id: 14
+      name: teacher_educational_background
+      label: Teacher Educational Background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: teacher_counseling
+      label: Teacher Counseling
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Some''}'
+      - '{''label'': ''Most''}'
+      - '{''label'': ''All''}'
+      required: false
+    - id: 16
+      name: teacher_family_background
+      label: Teacher Family Background
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Some''}'
+      - '{''label'': ''Most''}'
+      - '{''label'': ''All''}'
+      required: false
+    - id: 17
+      name: school_funding
+      label: School Funding
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: student_funding
+      label: Student Funding
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: teacher_funding
+      label: Teacher Funding
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: school_resources
+      label: School Resources
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Some''}'
+      - '{''label'': ''Most''}'
+      - '{''label'': ''All''}'
+      required: false
+    - id: 21
+      name: student_resources
+      label: Student Resources
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Some''}'
+      - '{''label'': ''Most''}'
+      - '{''label'': ''All''}'
+      required: false
+    - id: 22
+      name: teacher_safety
+      label: Teacher Safety
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Some''}'
+      - '{''label'': ''Most''}'
+      - '{''label'': ''All''}'
+      required: false
+    - id: 23
+      name: student_safety
+      label: Student Safety
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Some''}'
+      - '{''label'': ''Most''}'
+      - '{''label'': ''All''}'
+      required: false
+    - id: 24
+      name: teacher_wellness
+      label: Teacher Wellness
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Some''}'
+      - '{''label'': ''Most''}'
+      - '{''label'': ''All''}'
+      required: false
+    - id: 25
+      name: student_wellness
+      label: Student Wellness
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Some''}'
+      - '{''label'': ''Most''}'
+      - '{''label'': ''All''}'
+      required: false

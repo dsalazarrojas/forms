@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Crossfit Membership Survey
+    pages:
+    - id: 1
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_one
+      options:
+      - Free
+      - Premium
+      - Business
+      required: false
+    - id: 2
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: how_found
+      label: How did you find out about Crossfit?
+      hint: null
+      type: select_multiple
+      options:
+      - Social Media
+      - Word of mouth
+      - Online Ad
+      required: false
+    - id: 7
+      name: what_looked_for
+      label: What were you looking for when you joined Crossfit?
+      hint: null
+      type: select_multiple
+      options:
+      - Workout routine
+      - Fitness classes
+      - Gym atmosphere
+      required: false
+    - id: 8
+      name: favorite_part
+      label: Favorite part of Crossfit?
+      hint: null
+      type: select_multiple
+      options:
+      - Workouts
+      - Community
+      - Equipment
+      required: false
+    - id: 9
+      name: what_like_most
+      label: What do you like most about Crossfit?
+      hint: null
+      type: select_multiple
+      options:
+      - Workouts
+      - Community
+      - Trainers
+      required: false
+    - id: 10
+      name: what_like_least
+      label: What do you like least about Crossfit?
+      hint: null
+      type: select_multiple
+      options:
+      - Crowdedness
+      - Long wait times
+      - Limited equipment
+      required: false
+    - id: 11
+      name: will_renew
+      label: Will you renew your membership?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: how_satisfied
+      label: How satisfied are you with your membership?
+      hint: null
+      type: select_multiple
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Somewhat dissatisfied
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

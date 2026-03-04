@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Software Needs Survey
+    pages:
+    - id: 1
+      name: software_needs_survey_intro
+      label: Academic Software Needs Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_role
+      label: Your Role in the Institution
+      hint: What is your primary role?
+      type: select_one
+      options:
+      - Faculty member
+      - Graduate student
+      - Undergraduate student
+      - Administrative staff
+      - IT staff
+      - Researcher
+      - Other
+      required: true
+    - id: 3
+      name: department_college
+      label: Department or College
+      hint: Your primary department or college affiliation
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: primary_software_needs
+      label: Primary Software Needs
+      hint: What type of software do you need most? (Select all that apply)
+      type: select_multiple
+      options:
+      - Statistical analysis
+      - Data visualization
+      - Programming environments
+      - Reference management
+      - Content management
+      - Video conferencing
+      - Document collaboration
+      - Other
+      required: false
+    - id: 5
+      name: current_software_satisfaction
+      label: Current Software Satisfaction
+      hint: How satisfied are you with the current software available? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: software_access_frequency
+      label: Software Access Frequency
+      hint: How often do you need access to specialized software? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: software_training_needs
+      label: Software Training Needs
+      hint: How much training do you need for new software? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: collaboration_software_importance
+      label: Collaboration Software Importance
+      hint: How important is collaborative software to your work? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: mobile_access_importance
+      label: Mobile Access Importance
+      hint: How important is mobile access to software for your work? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: cloud_based_preference
+      label: Cloud-Based Preference
+      hint: Do you prefer cloud-based or locally installed software? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: current_software_limitations
+      label: Current Software Limitations
+      hint: What are the main limitations of your current software? (Select all that
+        apply)
+      type: select_multiple
+      options:
+      - Cost
+      - Functionality
+      - Usability
+      - Integration
+      - Performance
+      - Support
+      - Updates
+      - None
+      required: false
+    - id: 12
+      name: budget_constraint_impact
+      label: Budget Constraint Impact
+      hint: How much do budget constraints affect your software access? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: software_recommendation_priority
+      label: Software Recommendation Priority
+      hint: What would be your top priority for new software acquisition?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: integration_requirements
+      label: Integration Requirements
+      hint: What existing systems must new software integrate with?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: security_compliance_needs
+      label: Security and Compliance Needs
+      hint: What security or compliance requirements must software meet?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: software_evaluation_criteria
+      label: Software Evaluation Criteria
+      hint: What criteria are most important when evaluating new software?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other thoughts about software needs at your institution?
+      type: text
+      options: []
+      required: false

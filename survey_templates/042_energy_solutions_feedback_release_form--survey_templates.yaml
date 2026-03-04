@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Energy Solutions Feedback Release Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: permission_to_reuse_comments
+      label: Permission to Reuse Comments
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 6
+      name: permission_for_promotional_materials
+      label: Permission for Promotional Materials
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: true
+    - id: 7
+      name: permission_for_info_materials
+      label: Permission for Info Materials
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: permission_to_reuse_comments_for_promotional_materials
+      label: Permission to Reuse Comments for Promotional Materials
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: permission_to_reuse_comments_for_info_materials
+      label: Permission to Reuse Comments for Info Materials
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: permission_to_reuse_comments_for_other_materials
+      label: Permission to Reuse Comments for Other Materials
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: other_materials
+      label: Other Materials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: other_materials_description
+      label: Description of Other Materials
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: permission_to_share_with_other_organizations
+      label: Permission to Share with Other Organizations
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: permission_to_share_with_energy_providers
+      label: Permission to Share with Energy Providers
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: permission_to_share_with_other_groups
+      label: Permission to Share with Other Groups
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: other_groups
+      label: Other Groups
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: other_groups_description
+      label: Description of Other Groups
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: permission_to_share_with_customers
+      label: Permission to Share with Customers
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: permission_to_share_with_customers_description
+      label: Description of Customers
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: 'Survey: Social Influence On Student Independence'
+    pages:
+    - id: 1
+      name: intro
+      label: Welcome to this survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: parental_influence
+      label: How does your parent's influence affect your independence?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: peer_influence
+      label: How does your peer's influence affect your independence?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: teacher_influence
+      label: How does your teacher's influence affect your independence?
+      hint: Please be honest!
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: parental_influence_scale
+      label: What is the scale of your parent's influence over you?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: peer_influence_scale
+      label: What is the scale of your peer's influence over you?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: teacher_influence_scale
+      label: What is the scale of your teacher's influence over you?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: parental_influence_level
+      label: What level of influence does your parent have over you?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 9
+      name: peer_influence_level
+      label: What level of influence does your peer have over you?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 10
+      name: teacher_influence_level
+      label: What level of influence does your teacher have over you?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 11
+      name: date_independent
+      label: When do you feel you became independent?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time_independent
+      label: At what time do you feel you became independent?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: email_independent
+      label: What email address would you like to receive your results?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone_independent
+      label: What phone number would you like to receive your results?
+      hint: null
+      type: text
+      options: []
+      required: false

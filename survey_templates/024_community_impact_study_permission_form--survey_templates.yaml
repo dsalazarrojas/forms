@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Impact Study Permission Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: study_title
+      label: Title of the Study
+      hint: Name of the research project
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: researcher_name
+      label: Name of Principal Researcher
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: understand_purpose
+      label: I confirm I have been informed of the study purpose
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - Other
+      required: true
+    - id: 5
+      name: consent_participate
+      label: Do you consent to participate in this study?
+      hint: Participation is entirely voluntary
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I decline
+      required: true
+    - id: 6
+      name: permission_record
+      label: Permission to Record Interviews/Sessions
+      hint: e.g., Audio or video recording
+      type: select_one
+      options:
+      - Yes, record session
+      - No, notes only
+      required: true
+    - id: 7
+      name: permission_quote
+      label: Permission to Use Direct Quotes
+      hint: How should we credit your words?
+      type: select_one
+      options:
+      - Yes, use my real name
+      - Yes, but use a pseudonym (fake name)
+      - Yes, use anonymously
+      - No, do not use quotes
+      required: true
+    - id: 8
+      name: storage_awareness
+      label: I understand how my data will be stored and protected
+      hint: Information on data privacy provided in study guide
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true
+    - id: 9
+      name: withdrawal_rights
+      label: I understand I can withdraw from the study at any time
+      hint: without penalty or reason
+      type: select_one
+      options:
+      - I Understand my rights
+      - Other
+      required: true
+    - id: 10
+      name: electronic_signature
+      label: Electronic Signature
+      hint: Type your name to sign
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: date_signed
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true

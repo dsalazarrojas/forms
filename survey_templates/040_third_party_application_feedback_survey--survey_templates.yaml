@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Third Party Application Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction
+      label: How satisfied are you with the application?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: used_application
+      label: Which of the following features have you used in the application?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - '{''option'': ''login''}'
+      - '{''option'': ''settings''}'
+      - '{''option'': ''chat''}'
+      required: false
+    - id: 4
+      name: used_features
+      label: Which features did you use?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: improvement
+      label: What could be improved?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''ui''}'
+      - '{''option'': ''speed''}'
+      - '{''option'': ''reliability''}'
+      required: false
+    - id: 6
+      name: satisfaction_scale
+      label: Satisfactory
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''1 - Unsatisfactory''}'
+      - '{''option'': ''2 - Satisfactory''}'
+      - '{''option'': ''3 - Satisfactory''}'
+      - '{''option'': ''4 - Satisfactory''}'
+      - '{''option'': ''5 - Satisfactory''}'
+      required: false
+    - id: 7
+      name: used_features_2
+      label: How did you find the interface?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''ui''}'
+      - '{''option'': ''navigation''}'
+      - '{''option'': ''layout''}'
+      required: false
+    - id: 8
+      name: frequency_used
+      label: How often do you use the application?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: feedback
+      label: Do you have any other feedback?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Would you like to be contacted?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_number
+      label: Would you like to be called?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false

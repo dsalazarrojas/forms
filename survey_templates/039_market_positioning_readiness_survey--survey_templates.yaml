@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: market_positioning_readiness_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: market_segments
+      label: target_segments
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Segment 1'', ''label'': ''Segment 1''}'
+      - '{''value'': ''Segment 2'', ''label'': ''Segment 2''}'
+      - '{''value'': ''Segment 3'', ''label'': ''Segment 3''}'
+      required: true
+    - id: 3
+      name: brand_positioning
+      label: brand_positioning
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Value 1'', ''label'': ''Value 1''}'
+      - '{''value'': ''Value 2'', ''label'': ''Value 2''}'
+      - '{''value'': ''Value 3'', ''label'': ''Value 3''}'
+      required: true
+    - id: 4
+      name: strategy_maturity
+      label: strategy_maturity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: market_positioning_guidance
+      label: market_positioning_guidance
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: action_plan
+      label: Action Plan
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
+      required: true
+    - id: 7
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: date
+      options: []
+      required: true

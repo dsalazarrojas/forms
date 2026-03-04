@@ -1,0 +1,228 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Annual Site Visit Feedback
+    pages:
+      - id: 1
+        name: visitor_name
+        label: Visitor Name
+        hint: Full name of person conducting visit
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: visitor_email
+        label: Visitor Email
+        hint: Contact email
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: site_name
+        label: Site Name
+        hint: Name of facility visited
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: site_address
+        label: Site Address
+        hint: Location of the site
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: visit_date
+        label: Visit Date
+        hint: Date of the site visit
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: visit_time
+        label: Visit Time
+        hint: Approximate time of visit
+        type: time
+        options: []
+        required: false
+      - id: 7
+        name: visit_duration
+        label: Duration of Visit
+        hint: How long the visit lasted
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: site_manager
+        label: Site Manager or Contact
+        hint: Name of manager at the site
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: visit_purpose
+        label: Purpose of Visit
+        hint: null
+        type: select_one
+        options:
+          - "Routine inspection"
+          - "Compliance check"
+          - "Problem investigation"
+          - "Quality assurance"
+          - "New site evaluation"
+          - "Follow-up visit"
+          - "Other"
+        required: true
+      - id: 10
+        name: overall_impression
+        label: Overall impression of the site
+        hint: null
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Satisfactory"
+          - "Poor"
+          - "Needs improvement"
+        required: true
+      - id: 11
+        name: cleanliness
+        label: Cleanliness and organization
+        hint: null
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Satisfactory"
+          - "Poor"
+          - "Unacceptable"
+        required: true
+      - id: 12
+        name: safety
+        label: Safety conditions observed
+        hint: Overall safety at the site
+        type: select_one
+        options:
+          - "Excellent - no safety concerns"
+          - "Good - minor concerns only"
+          - "Satisfactory - some issues"
+          - "Poor - significant concerns"
+          - "Dangerous - immediate action needed"
+        required: true
+      - id: 13
+        name: equipment_condition
+        label: Equipment condition and functionality
+        hint: null
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Satisfactory"
+          - "Poor"
+          - "Non-functional"
+        required: true
+      - id: 14
+        name: staff_presence
+        label: Staff present and engaged
+        hint: Were staff available and professional
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Satisfactory"
+          - "Poor"
+          - "Inadequate staffing"
+        required: false
+      - id: 15
+        name: documentation
+        label: Records and documentation
+        hint: Proper documentation maintained
+        type: select_one
+        options:
+          - "Complete and organized"
+          - "Mostly complete"
+          - "Incomplete"
+          - "Missing critical records"
+        required: false
+      - id: 16
+        name: compliance_status
+        label: Compliance with standards
+        hint: Adherence to policies and regulations
+        type: select_one
+        options:
+          - "Fully compliant"
+          - "Mostly compliant"
+          - "Partially compliant"
+          - "Non-compliant"
+          - "Critical violations"
+        required: true
+      - id: 17
+        name: positive_observations
+        label: Positive observations
+        hint: What went well during the visit
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: concerns_identified
+        label: Concerns or issues identified
+        hint: Problems observed during visit
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: hazards_found
+        label: Safety hazards identified
+        hint: Specific dangers or risks
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: recommendations
+        label: Recommendations for improvement
+        hint: Actions needed to address issues
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: priority_level
+        label: Priority level for follow-up
+        hint: Urgency of issues identified
+        type: select_one
+        options:
+          - "Critical - immediate action"
+          - "High - within 30 days"
+          - "Medium - within 90 days"
+          - "Low - within 6 months"
+          - "None - no action needed"
+        required: true
+      - id: 22
+        name: follow_up_date
+        label: Recommended follow-up date
+        hint: When next visit should occur
+        type: date
+        options: []
+        required: false
+      - id: 23
+        name: visitor_satisfaction
+        label: Satisfaction with site visit
+        hint: How well the visit went
+        type: select_one
+        options:
+          - "Very satisfied"
+          - "Satisfied"
+          - "Neutral"
+          - "Dissatisfied"
+          - "Very dissatisfied"
+        required: false

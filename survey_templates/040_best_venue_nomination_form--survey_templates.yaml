@@ -1,0 +1,214 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Best Venue Nomination Form
+    pages:
+      - id: 1
+        name: nominator_profile_header
+        label: -- Nominator Profile --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: nominator_full_name
+        label: Your Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: nominator_role_select
+        label: Your Role
+        hint: How did you experience the venue
+        type: select_one
+        options:
+          - Event Planner or Organizer
+          - Attendee or Guest
+          - Speaker or Presenter
+          - Vendor or Contractor
+          - Other
+        required: true
+      - id: 4
+        name: nominator_email_addr
+        label: Your Contact Email
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: venue_nominee_details_header
+        label: -- Venue Nominee Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: venue_name_text
+        label: Venue Name
+        hint: The official name of the property
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: venue_location_city_state
+        label: Venue Location
+        hint: City and State/Province
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: venue_type_select
+        label: Venue Type
+        hint: Primary category for this venue
+        type: select_one
+        options:
+          - Hotel and Conference Center
+          - Convention Center
+          - Restaurant or Lounge
+          - Unique and Outdoor Space
+          - Art Gallery and Museum
+          - Coworking and Business Space
+          - Other
+        required: true
+      - id: 9
+        name: venue_website_url
+        label: Venue Website
+        hint: URL for venue information
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: evaluation_ratings_header
+        label: -- Performance Evaluation --
+        hint: Rate from 1 (Needs Improvement) to 5 (Outstanding)
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: atmosphere_design_rating
+        label: Overall Atmosphere and Design
+        hint: Visual appeal and vibe
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 12
+        name: staff_service_rating
+        label: Staff Service Quality
+        hint: Friendliness and efficiency
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 13
+        name: technical_facilities_rating
+        label: Technical Facilities (AV and WiFi)
+        hint: Tech infrastructure quality
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 14
+        name: accessibility_rating_score
+        label: Accessibility for All Guests
+        hint: Inclusion and ease of movement
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 15
+        name: catering_food_rating
+        label: Catering and Food Quality
+        hint: Taste and presentation
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 16
+        name: narrative_justification_header
+        label: -- Justification and Narrative --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: hosted_event_description
+        label: What event did you host or attend at this venue
+        hint: Provide the name and type of event
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: best_venue_thing_desc
+        label: What was the best thing about this venue
+        hint: Highlight one key strength
+        type: text
+        options: []
+        required: true
+      - id: 19
+        name: standout_feature_desc
+        label: Describe any unique or standout feature of the venue
+        hint: Something that makes it truly special
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: award_win_justification_detailed
+        label: Why should this venue win the award for Best Venue
+        hint: Summarize your nomination
+        type: text
+        options: []
+        required: true
+      - id: 21
+        name: final_details_header
+        label: -- Final Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: venue_professional_reference
+        label: Professional Reference for Verification
+        hint: Name and email of someone familiar with the venue details
+        type: text
+        options: []
+        required: true
+      - id: 23
+        name: nomination_final_date_input
+        label: Date of Nomination
+        hint: null
+        type: date
+        options: []
+        required: true

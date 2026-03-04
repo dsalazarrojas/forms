@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Reach Evaluation Form
+    pages:
+    - id: 1
+      name: marketing_reach_form
+      label: Marketing Reach Evaluation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: channel_name
+      label: Channel Name
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Facebook''}'
+      - '{''value'': ''Instagram''}'
+      - '{''value'': ''Twitter''}'
+      - '{''value'': ''LinkedIn''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 3
+      name: audience_reach
+      label: Audience Reach
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: marketing_channels
+      label: Marketing Channels
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''social_media''}'
+      - '{''value'': ''email''}'
+      - '{''value'': ''content_marketing''}'
+      - '{''value'': ''paid_media''}'
+      - '{''value'': ''events''}'
+      - '{''value'': ''other_channels''}'
+      required: false
+    - id: 5
+      name: performance
+      label: Performance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: challenges
+      label: Growth Challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: analysis
+      label: Analysis
+      hint: null
+      type: text
+      options: []
+      required: false

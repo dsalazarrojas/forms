@@ -1,0 +1,103 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Office Organization Feedback Form
+    pages:
+    - id: 1
+      name: office_space_suggestions
+      label: What suggestions do you have for improving office space?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: office_resouces_suggestions
+      label: What resources do you need to improve productivity?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_satisfaction
+      label: How do you feel about your work environment?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very satisfied''}'
+      - '{''label'': ''Somewhat satisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat dissatisfied''}'
+      - '{''label'': ''Very dissatisfied''}'
+      required: true
+    - id: 4
+      name: manager_support
+      label: How well do you feel supported by your manager?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Fully supported''}'
+      - '{''label'': ''Mostly supported''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat supported''}'
+      - '{''label'': ''Not supported at all''}'
+      required: true
+    - id: 5
+      name: communication_channels
+      label: What are your preferred communication channels?
+      hint: Please separate options with commas
+      type: select_multiple
+      options:
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''Chat''}'
+      - '{''label'': ''In-person''}'
+      required: true
+    - id: 6
+      name: office_equipment
+      label: What office equipment do you need to be more productive?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Monitor''}'
+      - '{''label'': ''Keyboard''}'
+      - '{''label'': ''Mouse''}'
+      - '{''label'': ''Headset''}'
+      - '{''label'': ''Printer''}'
+      required: true
+    - id: 7
+      name: noise_level
+      label: What is your ideal noise level in the office?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Quiet''}'
+      - '{''label'': ''Moderate''}'
+      - '{''label'': ''Loud''}'
+      required: true
+    - id: 8
+      name: work_life_balance
+      label: Do you feel your work-life balance is adequate?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 9
+      name: suggestions_for_improvement
+      label: Is there anything else you'd like to add or suggest?
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fan Coil Unit Inspection Survey
+    pages:
+    - id: 1
+      name: fan_coil_unit_name
+      label: Fan Coil Unit Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: fan_coil_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: fan_coil_model_number
+      label: Model Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: fan_coil_capacity
+      label: Capacity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: fan_coil_inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: fan_coil_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 7
+      name: fan_coil_defects
+      label: Defects
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

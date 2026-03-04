@@ -1,0 +1,278 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Condition Survey
+    pages:
+    - id: 1
+      name: surveyor_name
+      label: Surveyor Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization
+      label: Organization
+      hint: Company or agency
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: survey_date
+      label: Survey Date
+      hint: Date of survey
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: building_name
+      label: Building Name
+      hint: Name of building
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: building_address
+      label: Building Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: property_type
+      label: Property Type
+      hint: Classification
+      type: select_one
+      options:
+      - Single Family Residential
+      - Multi Family Residential
+      - Commercial Office
+      - Retail
+      - Industrial
+      - Institutional
+      - Mixed Use
+      - Other
+      required: true
+    - id: 9
+      name: year_constructed
+      label: Year Constructed
+      hint: Year built
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: building_size
+      label: Building Size
+      hint: Square footage
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: lot_size
+      label: Lot Size
+      hint: Property size
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: stories
+      label: Number of Stories
+      hint: Total floors
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: exterior_material
+      label: Exterior Material
+      hint: Primary material
+      type: select_one
+      options:
+      - Brick
+      - Concrete
+      - Wood Siding
+      - Vinyl Siding
+      - Stucco
+      - Stone
+      - Metal
+      - Mixed Materials
+      required: true
+    - id: 14
+      name: roof_type
+      label: Roof Type
+      hint: Roofing material
+      type: select_one
+      options:
+      - Asphalt Shingle
+      - Metal
+      - Tile
+      - Slate
+      - Flat Roof
+      - Wood Shake
+      - Other
+      required: true
+    - id: 15
+      name: foundation_type
+      label: Foundation Type
+      hint: Foundation style
+      type: select_one
+      options:
+      - Slab
+      - Crawl Space
+      - Basement
+      - Pier and Beam
+      - Unknown
+      required: true
+    - id: 16
+      name: site_condition
+      label: Site Condition
+      hint: Grounds and landscaping
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Critical
+      required: true
+    - id: 17
+      name: drainage
+      label: Drainage
+      hint: Water drainage
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Critical
+      required: true
+    - id: 18
+      name: parking_facilities
+      label: Parking Facilities
+      hint: Parking condition
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Not Available
+      required: true
+    - id: 19
+      name: safety_features
+      label: Safety Features
+      hint: Security and safety
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Inadequate
+      required: true
+    - id: 20
+      name: code_compliance
+      label: Code Compliance
+      hint: Building code status
+      type: select_one
+      options:
+      - Fully Compliant
+      - Mostly Compliant
+      - Partially Compliant
+      - Non-Compliant
+      - Unknown
+      required: true
+    - id: 21
+      name: occupancy_status
+      label: Occupancy Status
+      hint: Current use
+      type: select_one
+      options:
+      - Fully Occupied
+      - Partially Occupied
+      - Vacant
+      - Under Renovation
+      - Condemned
+      required: true
+    - id: 22
+      name: visible_defects
+      label: Visible Defects
+      hint: Describe any defects
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: maintenance_needs
+      label: Maintenance Needs
+      hint: Required maintenance
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: environmental_concerns
+      label: Environmental Concerns
+      hint: Any environmental issues
+      type: select_multiple
+      options:
+      - None Observed
+      - Asbestos
+      - Lead Paint
+      - Mold
+      - Hazardous Materials
+      - Soil Contamination
+      - Water Damage
+      - Pest Infestation
+      required: true
+    - id: 25
+      name: overall_condition
+      label: Overall Condition
+      hint: Final rating
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Critical
+      required: true
+    - id: 26
+      name: value_assessment
+      label: Value Assessment
+      hint: Property value impression
+      type: select_one
+      options:
+      - Above Market
+      - At Market
+      - Below Market
+      - Significantly Below Market
+      required: false
+    - id: 27
+      name: recommendations
+      label: Recommendations
+      hint: Key recommendations
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: surveyor_certification
+      label: Surveyor Certification
+      hint: I certify this survey is accurate
+      type: select_one
+      options:
+      - Yes - I Certify
+      - false
+      required: true

@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post Case Resolution Client Feedback Questionnaire
+    pages:
+    - id: 1
+      name: case_id
+      label: Case ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: case_type
+      label: Case Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 3
+      name: case_date
+      label: Case Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: case_manager
+      label: Case Manager
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 5
+      name: client_feedback
+      label: Client Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: service_improvement_area
+      label: Service Improvement Area
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: case_manager_email
+      label: Case Manager Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: follow_up
+      label: Follow-up Required
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: follow_up_details
+      label: Follow-up Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_manager
+      label: Follow-up Manager
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 14
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: follow_up_comments
+      label: Follow-up Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_contact
+      label: Follow-up Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: follow_up_case_manager
+      label: Follow-up Case Manager
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 18
+      name: follow_up_case_manager_email
+      label: Follow-up Case Manager Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: follow_up_case_details
+      label: Follow-up Case Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: case_status
+      label: Case Status
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 21
+      name: case_closure_comments
+      label: Case Closure Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: case_closing_manager
+      label: Case Closing Manager
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 23
+      name: case_closing_date
+      label: Case Closing Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: reviewer
+      label: Reviewer
+      hint: null
+      type: text
+      options: []
+      required: true

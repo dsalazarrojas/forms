@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workshop Knowledge Quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: quiz_questions
+      label: quiz questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: participant_rating
+      label: participant rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: participant_feedback
+      label: participant feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_satisfaction
+      label: participant satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: participant_comments
+      label: participant comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: trainer_rating
+      label: trainer rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 8
+      name: participant_rating_scale
+      label: participant rating scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: quiz_score
+      label: quiz score
+      hint: null
+      type: number
+      options: []
+      required: false

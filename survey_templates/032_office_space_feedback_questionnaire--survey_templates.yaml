@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Office Space Feedback Questionnaire
+    pages:
+    - id: 1
+      name: office_location
+      label: Office Location
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false
+    - id: 2
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: work_stations
+      label: Work Stations
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false
+    - id: 5
+      name: office_layout
+      label: Office Layout
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false
+    - id: 6
+      name: temperature
+      label: Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: lighting
+      label: Lighting
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: noise_levels
+      label: Noise Levels
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: ergonomics
+      label: Ergonomics
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: office_layout_layout
+      label: Office Layout
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false

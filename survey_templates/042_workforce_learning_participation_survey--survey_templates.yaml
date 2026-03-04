@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workforce Learning Participation Survey
+    pages:
+    - id: 1
+      name: training_program
+      label: Training Program
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: rating
+      label: Rate This Training
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 3
+      name: feedback
+      label: What Did You Like
+      hint: Provide specific reasons why you liked the training
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback_dislike
+      label: What Did You Dislike
+      hint: Provide specific reasons why you disliked the training
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: suggestion
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: usefulness
+      label: How Usefull Was This Training
+      hint: null
+      type: select_one
+      options:
+      - Value 1
+      - Value 2
+      - Value 3
+      - Value 4
+      - Value 5
+      - Value 6
+      - Value 7
+      - Value 8
+      - Value 9
+      - Value 10
+      required: false
+    - id: 7
+      name: training_type
+      label: Training Type
+      hint: null
+      type: select_one
+      options:
+      - Value 1
+      - Value 2
+      - Value 3
+      - Value 4
+      - Value 5
+      required: false
+    - id: 8
+      name: training_status
+      label: Training Status
+      hint: null
+      type: select_one
+      options:
+      - Value 1
+      - Value 2
+      - Value 3
+      - Value 4
+      - Value 5
+      required: false
+    - id: 9
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: training_time
+      label: Training Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: assigned
+      label: Assigned
+      hint: null
+      type: select_one
+      options:
+      - Value 1
+      - Value 2
+      required: false
+    - id: 12
+      name: submitted
+      label: Submitted
+      hint: null
+      type: select_one
+      options:
+      - Value 1
+      - Value 2
+      - Value 3
+      - Value 4
+      - Value 5
+      required: false
+    - id: 13
+      name: training_location
+      label: Training Location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: session_length
+      label: Session Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: session_time
+      label: Session Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false

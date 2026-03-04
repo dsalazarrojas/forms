@@ -1,0 +1,92 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Wireless Earbud Noise Issue Feedback Survey
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: product_issue_date
+      label: Product Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: wireless_bud_type
+      label: Wireless Bud Type
+      hint: null
+      type: select_multiple
+      options:
+      - Noise Cancelling Earbuds
+      - Earbuds
+      required: true
+    - id: 6
+      name: issue_frequency
+      label: Issue Frequency
+      hint: null
+      type: select_one
+      options:
+      - 1-5
+      - 6-10
+      - 11-15
+      - 16-20
+      - 21-25
+      required: true
+    - id: 7
+      name: issue_type
+      label: Issue Type
+      hint: null
+      type: select_one
+      options:
+      - Noisy
+      - Intermitent Noise
+      - Constant Noise
+      required: true
+    - id: 8
+      name: issue_location
+      label: Issue Location
+      hint: null
+      type: select_multiple
+      options:
+      - Left Earbud
+      - Right Earbud
+      - Both Earbuds
+      required: true
+    - id: 9
+      name: troubleshooting_steps
+      label: Troubleshooting Steps
+      hint: null
+      type: text
+      options: []
+      required: false

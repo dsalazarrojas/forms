@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Service Experience Feedback Form
+    pages:
+    - id: 1
+      name: customer_service_experience
+      label: Customer Service Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_support
+      label: How would you rate our customer support?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Not Sufficient''}'
+      - '{''value'': 2, ''label'': ''Sufficient''}'
+      - '{''value'': 3, ''label'': ''Highly Sufficient''}'
+      required: false
+    - id: 3
+      name: service_quality
+      label: How would you rate the overall quality of our service?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Poor''}'
+      - '{''value'': 2, ''label'': ''Fair''}'
+      - '{''value'': 3, ''label'': ''Good''}'
+      - '{''value'': 4, ''label'': ''Very Good''}'
+      - '{''value'': 5, ''label'': ''Excellent''}'
+      required: false
+    - id: 4
+      name: satisfaction
+      label: Overall satisfaction with our service?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Not Satisfied''}'
+      - '{''value'': 2, ''label'': ''Satisfied''}'
+      - '{''value'': 3, ''label'': ''Highly Satisfied''}'
+      required: false
+    - id: 5
+      name: open_ended
+      label: If you could suggest one area for improvement, what would it be?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_details
+      label: Would you like to be contacted for follow-up discussions?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': False}'
+      - '{''value'': 2, ''label'': True}'
+      - '{''value'': 3, ''label'': ''Yes, by phone''}'
+      - '{''value'': 4, ''label'': ''Yes, by email''}'
+      - '{''value'': 5, ''label'': ''Yes, by mail''}'
+      required: false
+    - id: 7
+      name: follow_up_method
+      label: Which follow-up method would you like to be used?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Phone''}'
+      - '{''value'': 2, ''label'': ''Email''}'
+      - '{''value'': 3, ''label'': ''Mail''}'
+      required: false
+    - id: 8
+      name: contact_info
+      label: What is your email address or phone number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Do you have any other comments or feedback for us?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_preferred
+      label: Would you prefer to contact us via phone, email or mail?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Phone''}'
+      - '{''value'': 2, ''label'': ''Email''}'
+      - '{''value'': 3, ''label'': ''Mail''}'
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

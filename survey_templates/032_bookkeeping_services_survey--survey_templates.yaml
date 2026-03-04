@@ -1,0 +1,182 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bookkeeping Services Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: respondent_email
+        label: Email Address
+        hint: Your email
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: company_name
+        label: Company Name
+        hint: Your business name
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: company_size
+        label: Company Size
+        hint: Number of employees
+        type: select_one
+        options:
+          - 1-10
+          - 11-50
+          - 51-100
+          - 101-250
+          - 250+
+        required: true
+      - id: 5
+        name: annual_revenue
+        label: Annual Revenue
+        hint: Approximate annual revenue
+        type: select_one
+        options:
+          - Under $100,000
+          - $100,000 - $500,000
+          - $500,000 - $1,000,000
+          - $1,000,000 - $5,000,000
+          - Over $5,000,000
+        required: false
+      - id: 6
+        name: current_bookkeeping
+        label: Current Bookkeeping Method
+        hint: How do you handle bookkeeping
+        type: select_one
+        options:
+          - No formal system
+          - Manual/spreadsheets
+          - Accounting software
+          - Internal bookkeeper
+          - External accountant
+        required: true
+      - id: 7
+        name: accounting_software_usage
+        label: Accounting Software Used
+        hint: If using software
+        type: select_one
+        options:
+          - QuickBooks
+          - Xero
+          - FreshBooks
+          - Wave
+          - Other
+          - None
+        required: false
+      - id: 8
+        name: satisfaction_current
+        label: Satisfaction with Current System
+        hint: How satisfied are you
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 9
+        name: challenges
+        label: Current Bookkeeping Challenges
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Time-consuming
+          - Inaccurate records
+          - Lack of visibility
+          - Cash flow issues
+          - Tax compliance
+          - Difficulty scaling
+          - Software limitations
+          - Cost
+        required: true
+      - id: 10
+        name: services_interested
+        label: Services You Would Use
+        hint: Select services of interest
+        type: select_multiple
+        options:
+          - Monthly bookkeeping
+          - Payroll services
+          - Tax planning
+          - Financial reporting
+          - Audit support
+          - Training
+          - Software setup
+          - Consulting
+        required: true
+      - id: 11
+        name: budget_monthly
+        label: Monthly Budget for Services
+        hint: How much would you spend
+        type: select_one
+        options:
+          - Under $200
+          - $200 - $500
+          - $500 - $1,000
+          - $1,000 - $2,500
+          - $2,500+
+        required: false
+      - id: 12
+        name: service_frequency
+        label: Desired Service Frequency
+        hint: How often do you need support
+        type: select_one
+        options:
+          - Weekly
+          - Bi-weekly
+          - Monthly
+          - Quarterly
+          - As needed
+        required: true
+      - id: 13
+        name: decision_timeline
+        label: Timeline for Decision
+        hint: When would you make a decision
+        type: select_one
+        options:
+          - Immediately
+          - Within 1 month
+          - Within 3 months
+          - Within 6 months
+          - Not decided yet
+        required: false
+      - id: 14
+        name: recommendations
+        label: Features or Services You Recommend
+        hint: Any suggestions for improvement
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: contact_preference
+        label: Preferred Contact Method
+        hint: How should we reach you
+        type: select_one
+        options:
+          - Email
+          - Phone
+          - SMS
+          - No contact needed
+        required: true

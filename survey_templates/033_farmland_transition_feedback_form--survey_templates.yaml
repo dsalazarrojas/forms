@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Farmland Transition Feedback Form
+    pages:
+    - id: 1
+      name: farmland_transition_form
+      label: Farmland Transition Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_question_1
+      label: Feedback on Transfer Process
+      hint: How did the transfer process meet your needs?
+      type: select_one
+      options:
+      - '{''label'': ''Completely''}'
+      - '{''label'': ''Mostly''}'
+      - '{''label'': ''Not At All''}'
+      - '{''label'': ''Not Applicable''}'
+      required: false
+    - id: 3
+      name: feedback_question_2
+      label: Overall Satisfaction
+      hint: How satisfied were you with the transfer process?
+      type: select_one
+      options:
+      - '{''label'': ''Very Satisfied''}'
+      - '{''label'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Not Satisfied''}'
+      - '{''label'': ''Not At All Satisfied''}'
+      required: false
+    - id: 4
+      name: support_needs
+      label: Support Needs
+      hint: What kind of support do you need from us?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: additional_comments
+      label: Additional Comments
+      hint: Any additional comments or suggestions?
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Information
+      hint: Please provide your contact information so we can get back to you.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: email_confirmation
+      label: Confirm Email
+      hint: Please confirm your email address.
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false

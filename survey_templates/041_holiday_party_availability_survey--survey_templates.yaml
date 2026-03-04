@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Party Availability Survey
+    pages:
+    - id: 1
+      name: holiday_party_availability_survey
+      label: holiday_party_availability_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_holiday_gathering
+      label: date_of_holiday_gathering
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: duration
+      label: duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: preferred_time
+      label: preferred_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: preferred_duration
+      label: preferred_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: will_attend
+      label: will_attend
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 9
+      name: constraints
+      label: constraints
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Date
+      - Time
+      - Availability
+      required: false
+    - id: 10
+      name: availability
+      label: availability
+      hint: null
+      type: select_multiple
+      options:
+      - All
+      - Half
+      - Full
+      required: false
+    - id: 11
+      name: constraints_date
+      label: constraints_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: constraints_time
+      label: constraints_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: will_attend_constraints
+      label: will_attend_constraints
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: will_attend_constraints_date
+      label: will_attend_constraints_date
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: will_attend_constraints_time
+      label: will_attend_constraints_time
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: will_attend_constraints_duration
+      label: will_attend_constraints_duration
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: constraints_duration
+      label: constraints_duration
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Less
+      - More
+      required: false
+    - id: 18
+      name: constraints_note
+      label: constraints_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: constraints_note_date
+      label: constraints_note_date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: constraints_note_time
+      label: constraints_note_time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: constraints_note_duration
+      label: constraints_note_duration
+      hint: null
+      type: text
+      options: []
+      required: false

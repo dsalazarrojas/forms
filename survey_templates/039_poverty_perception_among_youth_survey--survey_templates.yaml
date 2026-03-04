@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Poverty Perception Among Youth Survey
+    pages:
+    - id: 1
+      name: introduction_page
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: how_do_you_feel_about_poverty
+      label: how_do_you_feel_about_poverty
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: experience_of_poverty
+      label: experience_of_poverty
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: what_do_you_know_about_poverty
+      label: what_do_you_know_about_poverty
+      hint: null
+      type: text
+      options: []
+      required: false

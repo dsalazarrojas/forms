@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Document Creation Survey
+    pages:
+    - id: 1
+      name: document_creation_survey_form
+      label: Document Creation Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_use_case
+      label: Business Use Case
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: required_document_fields
+      label: Required Document Fields
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: optional_document_fields
+      label: Optional Document Fields
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: document_creation_process
+      label: Document Creation Process
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: user_preferences
+      label: User Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: user_preferences_other
+      label: Other (optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: file_attachment
+      label: File attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email_notification
+      label: E-mail notification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

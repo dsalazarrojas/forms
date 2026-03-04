@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: education_system_reform_awareness_survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: Survey Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: date_of_submission
+      label: date_of_submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: submitter_name
+      label: submittor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: reform_area
+      label: reform_area
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 9
+      name: comments
+      label: prophets_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: true

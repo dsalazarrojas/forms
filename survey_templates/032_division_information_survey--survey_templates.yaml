@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Division Information Survey
+    pages:
+    - id: 1
+      name: division_structure
+      label: division_structure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: division_responsibilities
+      label: division_responsibilities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: division_challenges
+      label: division_challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: team_size
+      label: team_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: division_type
+      label: division_type
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - Custom
+      required: false
+    - id: 6
+      name: division_employees
+      label: division_employees
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      required: true
+    - id: 7
+      name: division_location
+      label: division_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: division_leaders
+      label: division_leaders
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: division_challenge_scale
+      label: division_challenge_scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: division_employees_scale
+      label: division_employees_scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: division_leaders_scale
+      label: division_leaders_scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: division_comments
+      label: division_comments
+      hint: null
+      type: text
+      options: []
+      required: false

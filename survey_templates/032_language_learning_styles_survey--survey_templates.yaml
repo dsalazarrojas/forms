@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Language Learning Styles Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Welcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: learning_styles
+      label: Which learning styles do you use most frequently?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Visual''}'
+      - '{''id'': 2, ''label'': ''Auditory''}'
+      - '{''id'': 3, ''label'': ''Kinesthetic''}'
+      - '{''id'': 4, ''label'': ''Tactile''}'
+      - '{''id'': 5, ''label'': ''None''}'
+      required: false
+    - id: 3
+      name: teaching_methods
+      label: Which teaching methods do you enjoy most?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Storytelling''}'
+      - '{''id'': 2, ''label'': ''Videos''}'
+      - '{''id'': 3, ''label'': ''Games''}'
+      - '{''id'': 4, ''label'': ''Textbooks''}'
+      required: false
+    - id: 4
+      name: teaching_preferences
+      label: Which teaching methods do you prefer?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Fast-paced''}'
+      - '{''id'': 2, ''label'': ''Self-paced''}'
+      - '{''id'': 3, ''label'': ''Collaborative''}'
+      - '{''id'': 4, ''label'': ''Individualized''}'
+      required: false
+    - id: 5
+      name: note
+      label: Additional comments or suggestions?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time of day?
+      hint: null
+      type: time
+      options: []
+      required: false

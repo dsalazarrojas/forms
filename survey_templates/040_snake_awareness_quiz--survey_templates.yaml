@@ -1,0 +1,294 @@
+inputSchema:
+  type: object
+  properties:
+    title: Snake Awareness Quiz
+    pages:
+    - id: 1
+      name: snake_awareness_quiz_form
+      label: Snake Awareness Quiz Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: quiz_question_1
+      label: What is the primary goal of the Snake Awareness Quiz?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''A) To educate students about snake safety''}'
+      - '{''text'': ''B) To entertain students with a fun quiz''}'
+      - '{''text'': ''C) To track student progress and improve training for field
+        activities''}'
+      - '{''text'': ''D) To test student knowledge on outdoor safety''}'
+      required: false
+    - id: 3
+      name: quiz_question_2
+      label: How will you typically encounter snakes in the wild?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Hiking or backpacking''}'
+      - '{''text'': ''Near water sources''}'
+      - '{''text'': ''In rocky or brushy areas''}'
+      - '{''text'': ''Near tall grass or weeds''}'
+      - '{''text'': ''In urban areas''}'
+      required: false
+    - id: 4
+      name: quiz_question_3
+      label: What is the best way to identify a venomous snake?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Color and pattern''}'
+      - '{''text'': ''Size and shape''}'
+      - '{''text'': ''Movement and behavior''}'
+      - '{''text'': ''All of the above''}'
+      required: false
+    - id: 5
+      name: quiz_question_4
+      label: How would you respond if you encounter a venomous snake?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Run away quickly''}'
+      - '{''text'': ''Stay calm and observe''}'
+      - '{''text'': ''Slowly back away with a firm but calm voice''}'
+      - '{''text'': ''Fight the snake with a stick or object''}'
+      required: false
+    - id: 6
+      name: quiz_question_5
+      label: When encountering a non-venomous snake, how do you handle it?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Touch it gently with your hands''}'
+      - '{''text'': ''Slowly back away and observe from a distance''}'
+      - '{''text'': ''Try to pick it up''}'
+      - '{''text'': ''Call for help''}'
+      required: false
+    - id: 7
+      name: quiz_question_6
+      label: If you see someone else encounter a venomous snake, what do you do?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Help the person slowly and carefully back away from the snake''}'
+      - '{''text'': ''Stand still and let them handle it''}'
+      - '{''text'': ''Run away from the scene''}'
+      - '{''text'': ''Stay still and observe''}'
+      required: false
+    - id: 8
+      name: quiz_question_7
+      label: What is the correct way to wear snake bite protection?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Long pants''}'
+      - '{''text'': ''Long-sleeved shirt''}'
+      - '{''text'': ''Closed-toed boots''}'
+      - '{''text'': ''Gaiters''}'
+      required: false
+    - id: 9
+      name: quiz_question_8
+      label: What is the best way to stay safe while walking in the wild?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Wear proper gear and clothing''}'
+      - '{''text'': ''Stay on designated trails''}'
+      - '{''text'': ''Pay attention to your surroundings''}'
+      - '{''text'': ''Stay with a group''}'
+      required: false
+    - id: 10
+      name: quiz_question_9
+      label: What should you do if you see a snake in your backyard or living room?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Call a professional snake removal service''}'
+      - '{''text'': ''Try to handle it yourself''}'
+      - '{''text'': ''Leave it alone and hope it goes away''}'
+      - '{''text'': ''Call a friend or family member for help''}'
+      required: false
+    - id: 11
+      name: quiz_question_10
+      label: How often should you check for snakes when walking in the wild?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Every step''}'
+      - '{''text'': ''Every 5 minutes''}'
+      - '{''text'': ''Every 10 minutes''}'
+      - '{''text'': ''Never''}'
+      required: false
+    - id: 12
+      name: quiz_question_11
+      label: What is the most important thing to remember when handling a snake?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Be calm and stay still''}'
+      - '{''text'': ''Move slowly and carefully''}'
+      - '{''text'': ''Avoid sudden movements''}'
+      - '{''text'': ''None of the above''}'
+      required: false
+    - id: 13
+      name: quiz_question_12
+      label: What would you call this form?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Snake Awareness Quiz''}'
+      - '{''text'': ''Snake Safety Quiz''}'
+      - '{''text'': ''Wild Animal Awareness Quiz''}'
+      - '{''text'': ''Outdoor Safety Quiz''}'
+      required: false
+    - id: 14
+      name: quiz_question_13
+      label: Why is it important to fill out this quiz?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''To learn about snakes and stay safe''}'
+      - '{''text'': ''To test my knowledge about snakes''}'
+      - '{''text'': ''To help others learn about snakes''}'
+      - '{''text'': ''To win a prize''}'
+      required: false
+    - id: 15
+      name: quiz_question_14
+      label: How did you find this form?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''On Jotform''}'
+      - '{''text'': ''On Google''}'
+      - '{''text'': ''On Facebook''}'
+      - '{''text'': ''On Twitter''}'
+      required: false
+    - id: 16
+      name: quiz_question_15
+      label: Would you like to see more educational materials on snakes?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': True}'
+      - '{''text'': False}'
+      required: false
+    - id: 17
+      name: quiz_question_16
+      label: Would you like to see more educational forms like this one?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': True}'
+      - '{''text'': False}'
+      required: false
+    - id: 18
+      name: quiz_question_17
+      label: Do you have any additional comments or suggestions about this form?
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: quiz_question_18
+      label: How likely are you to recommend this form to a friend?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Very likely''}'
+      - '{''text'': ''Somewhat likely''}'
+      - '{''text'': ''Not very likely''}'
+      - '{''text'': ''Not at all likely''}'
+      required: false
+    - id: 20
+      name: quiz_question_19
+      label: What is your age?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: quiz_question_20
+      label: What is your profession?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Student''}'
+      - '{''text'': ''Teacher''}'
+      - '{''text'': ''Parent''}'
+      - '{''text'': ''Other''}'
+      required: false
+    - id: 22
+      name: quiz_question_21
+      label: What is your level of expertise in snakes?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Beginner''}'
+      - '{''text'': ''Intermediate''}'
+      - '{''text'': ''Advanced''}'
+      - '{''text'': ''Expert''}'
+      required: false
+    - id: 23
+      name: quiz_question_22
+      label: Which best describes your purpose of visiting the outdoors?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Recreation''}'
+      - '{''text'': ''Education''}'
+      - '{''text'': ''Work''}'
+      - '{''text'': ''Other''}'
+      required: false
+    - id: 24
+      name: quiz_question_23
+      label: Have you ever been bitten by a snake?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': True}'
+      - '{''text'': False}'
+      required: false
+    - id: 25
+      name: quiz_question_24
+      label: Have you ever handled a snake?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': True}'
+      - '{''text'': False}'
+      required: false
+    - id: 26
+      name: quiz_question_25
+      label: Do you know what the most common species of venomous snake is?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Eastern Coral Snake''}'
+      - '{''text'': ''Western Diamondback Rattlesnake''}'
+      - '{''text'': ''None of the above''}'
+      required: false
+    - id: 27
+      name: quiz_question_26
+      label: What is the most important thing to teach students about snakes?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': "To respect the snakes'' space"}'
+      - '{''text'': ''To identify the snakes''}'
+      - '{''text'': ''To handle the snakes''}'
+      - '{''text'': ''To leave the snakes alone''}'
+      required: false
+    - id: 28
+      name: quiz_question_27
+      label: How long have you been taking this form?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''First time''}'
+      - '{''text'': ''Second time''}'
+      - '{''text'': ''Third time''}'
+      - '{''text'': ''More than three times''}'
+      required: false

@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Poker Hand Rankings Quiz
+    pages:
+    - id: 1
+      name: intro
+      label: Intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: hand_type_select
+      label: Hand type
+      hint: Select hand type
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: top_three_hands
+      label: Top 3 hands
+      hint: Select top 3 hands in order
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: hand_ranking
+      label: Hand ranking
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: hand_rankings_again
+      label: Hand rankings (again)
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: hand_ranks_order
+      label: Hand ranks order
+      hint: Select hand ranks in order
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: correct_hand_ranks
+      label: Correct hand ranks
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: poker_hands
+      label: Poker hands
+      hint: Select 5 poker hands
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: hand_order
+      label: Hand order
+      hint: Select hand order
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: hand_rankings
+      label: Hand rankings
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: poker_hands_order
+      label: Poker hands order
+      hint: Select 5 poker hands in order
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: correct_hands_ranks
+      label: Correct hands ranks
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

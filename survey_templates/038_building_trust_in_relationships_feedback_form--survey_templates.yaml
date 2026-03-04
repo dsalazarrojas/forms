@@ -1,0 +1,239 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Building Trust In Relationships Feedback Form
+    pages:
+    - id: 1
+      name: feedback_date
+      label: Feedback Date
+      hint: When completing this feedback
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: respondent_name
+      label: Your Name
+      hint: Full name or pseudonym
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: respondent_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: relationship_type
+      label: Type of Relationship
+      hint: What type of relationship
+      type: select_one
+      options:
+        - Romantic Partner
+        - Spouse
+        - Family Member
+        - Friend
+        - Colleague
+        - Professional Relationship
+        - Other
+      required: true
+    - id: 5
+      name: relationship_duration
+      label: Relationship Duration
+      hint: How long you have known
+      type: select_one
+      options:
+        - Less than 1 Year
+        - 1-2 Years
+        - 2-5 Years
+        - 5-10 Years
+        - Over 10 Years
+      required: true
+    - id: 6
+      name: trust_level
+      label: Current Trust Level
+      hint: How much do you trust
+      type: select_one
+      options:
+        - Completely Trust
+        - Mostly Trust
+        - Somewhat Trust
+        - Partially Trust
+        - Do Not Trust
+      required: true
+    - id: 7
+      name: trust_change
+      label: Has Trust Level Changed Recently
+      hint: Is trust increasing or decreasing
+      type: select_one
+      options:
+        - Increased
+        - Stable
+        - Decreased
+        - Uncertain
+      required: true
+    - id: 8
+      name: reliability
+      label: Person Is Reliable and Dependable
+      hint: Can you depend on them
+      type: select_one
+      options:
+        - Always Reliable
+        - Usually Reliable
+        - Sometimes Reliable
+        - Rarely Reliable
+        - Unreliable
+      required: true
+    - id: 9
+      name: honesty
+      label: Person Is Honest and Truthful
+      hint: Do they tell the truth
+      type: select_one
+      options:
+        - Always Honest
+        - Usually Honest
+        - Sometimes Honest
+        - Rarely Honest
+        - Never Honest
+      required: true
+    - id: 10
+      name: transparency
+      label: Communication Is Transparent
+      hint: Do they share openly
+      type: select_one
+      options:
+        - Very Transparent
+        - Mostly Transparent
+        - Somewhat Transparent
+        - Not Very Transparent
+        - Not Transparent
+      required: true
+    - id: 11
+      name: consistency
+      label: Behavior Is Consistent
+      hint: Are they predictable and consistent
+      type: select_one
+      options:
+        - Very Consistent
+        - Mostly Consistent
+        - Somewhat Consistent
+        - Inconsistent
+        - Very Inconsistent
+      required: true
+    - id: 12
+      name: respect
+      label: Mutual Respect Exists
+      hint: Do you respect each other
+      type: select_one
+      options:
+        - High Mutual Respect
+        - Good Respect
+        - Some Respect
+        - Limited Respect
+        - No Respect
+      required: true
+    - id: 13
+      name: support
+      label: Provides Emotional Support
+      hint: Are they supportive
+      type: select_one
+      options:
+        - Very Supportive
+        - Supportive
+        - Somewhat Supportive
+        - Not Very Supportive
+        - Not Supportive
+      required: true
+    - id: 14
+      name: conflict_resolution
+      label: Handles Conflict Constructively
+      hint: How do disagreements go
+      type: select_one
+      options:
+        - Very Constructive
+        - Constructive
+        - Somewhat Constructive
+        - Destructive
+        - Very Destructive
+      required: true
+    - id: 15
+      name: trust_breaches
+      label: Past Trust Breaches
+      hint: Has trust been broken
+      type: select_one
+      options:
+        - Never
+        - Once
+        - Few Times
+        - Several Times
+        - Many Times
+      required: false
+    - id: 16
+      name: recovery_from_breach
+      label: Recovery From Trust Breach
+      hint: How well were issues resolved
+      type: select_one
+      options:
+        - Fully Recovered
+        - Mostly Recovered
+        - Partially Recovered
+        - Not Recovered
+        - Trust Not Breached
+      required: false
+    - id: 17
+      name: trust_barriers
+      label: Barriers to Building Trust
+      hint: What prevents trust
+      type: select_multiple
+      options:
+        - Communication Issues
+        - Past Experiences
+        - Unmet Expectations
+        - Inconsistent Behavior
+        - Different Values
+        - Lack of Transparency
+        - Other
+      required: false
+    - id: 18
+      name: trust_improvement
+      label: Ways to Improve Trust
+      hint: How could trust be strengthened
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: overall_assessment
+      label: Overall Relationship Assessment
+      hint: General satisfaction with relationship
+      type: select_one
+      options:
+        - Very Positive
+        - Positive
+        - Neutral
+        - Negative
+        - Very Negative
+      required: true
+    - id: 20
+      name: willing_to_work
+      label: Willing to Work on Trust
+      hint: Do you want to improve trust
+      type: select_one
+      options:
+        - Very Willing
+        - Willing
+        - Somewhat Willing
+        - Not Willing
+        - Unsure
+      required: false

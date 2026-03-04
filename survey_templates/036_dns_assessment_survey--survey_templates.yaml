@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: dns_assessment_survey
+    pages:
+    - id: 1
+      name: dns_management_practices
+      label: dns_management_practices
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: dns_infrastructure_satisfaction
+      label: dns_infrastructure_satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 3
+      name: security_readiness
+      label: security_readiness
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,141 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Auto Repair Feedback Survey
+    pages:
+      - id: 1
+        name: service_details_header
+        label: -- Service Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: customer_name
+        label: Customer Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: repair_order_number
+        label: Repair Order Number
+        hint: Found on your invoice
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: date_of_service
+        label: Date of Service
+        hint: When was the repair performed?
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: vehicle_serviced
+        label: Vehicle Serviced
+        hint: Year, Make, and Model
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: satisfaction_rating_header
+        label: -- Satisfaction Rating --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: quality_of_repair
+        label: Quality of Repair
+        hint: How would you rate the work done?
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 8
+        name: timeliness_of_service
+        label: Timeliness of Service
+        hint: Was the work completed as promised?
+        type: select_one
+        options:
+          - Ahead of Schedule
+          - On Time
+          - Delayed
+        required: true
+      - id: 9
+        name: advisor_communication
+        label: Advisor Communication
+        hint: How well did your advisor keep you informed?
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 10
+        name: value_for_price
+        label: Value for Price
+        hint: Assessment of the cost versus quality
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 11
+        name: qualitative_feedback_header
+        label: -- Qualitative Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: what_well
+        label: What did we do well?
+        hint: Share your positive experiences
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: areas_improvement
+        label: Areas for Improvement
+        hint: How can we serve you better?
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: likely_to_return
+        label: Likely to Return
+        hint: Would you use our services again?
+        type: select_one
+        options:
+          - Very Likely
+          - Likely
+          - Unlikely
+        required: true
+      - id: 15
+        name: may_contact
+        label: May we contact you?
+        hint: To discuss your feedback further
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true

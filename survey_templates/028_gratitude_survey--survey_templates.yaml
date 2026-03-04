@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gratitude Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: what_would_you_like_to_talk_about_today
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: overall_happiness
+      label: overall_happiness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: teacher_support
+      label: do_you_feel_supported
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: classroom_environment
+      label: how_would_you_describe_your_classroom_environment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: teacher_support_2
+      label: teacher_support_2
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 6
+      name: classroom_support
+      label: how_much_support_from_colleagues
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: student_engagement
+      label: what_would_you_do_to_increase_student_engagement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: teacher_support_3
+      label: teacher_support_3
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 9
+      name: classroom_environment_2
+      label: classroom_environment_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: teacher_support_4
+      label: teacher_support_4
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 11
+      name: classroom_environment_3
+      label: classroom_environment_3
+      hint: null
+      type: number
+      options: []
+      required: false

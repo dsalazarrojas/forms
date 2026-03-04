@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Non Payment Information Survey
+    pages:
+    - id: 1
+      name: non_payment_information_survey_1
+      label: What type of service do you use?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 2
+      name: non_payment_information_survey_2
+      label: What was your experience like?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: non_payment_information_survey_3
+      label: How likely are you to recommend?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: non_payment_information_survey_4
+      label: What do you think about the service?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: non_payment_information_survey_5
+      label: How can we improve?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: non_payment_information_survey_6
+      label: How did you find the service overall?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: non_payment_information_survey_7
+      label: Would you like to share your email for follow-up questions?
+      hint: null
+      type: text
+      options: []
+      required: false

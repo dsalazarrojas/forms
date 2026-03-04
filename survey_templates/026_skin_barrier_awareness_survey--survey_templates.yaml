@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skin Barrier Awareness Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: skin_barrier_importance
+      label: skin barrier importance
+      hint: null
+      type: select_multiple
+      options:
+      - Dryness
+      - Acne
+      - Sensitive skin
+      - Rosacea
+      - Other
+      required: false
+    - id: 3
+      name: skin_barrier_importance_other
+      label: other skin barriers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: skin_frequency
+      label: how often do you
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: skin_frequency_other
+      label: other skin frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: skin_concerns
+      label: concerns about skin
+      hint: null
+      type: select_one
+      options:
+      - Skin problems
+      - Skin issues
+      - Other skin
+      required: false
+    - id: 7
+      name: skin_concerns_other
+      label: other skin concerns
+      hint: null
+      type: text
+      options: []
+      required: false

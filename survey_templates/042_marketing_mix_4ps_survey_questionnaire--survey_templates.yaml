@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Mix (4Ps) Survey Questionnaire
+    pages:
+    - id: 1
+      name: form_page_1
+      label: How often do you visit this store
+      hint: null
+      type: select_multiple
+      options:
+      - Store A
+      - Store B
+      - Store C
+      - Other
+      required: false
+    - id: 2
+      name: form_page_2
+      label: What is your relationship status with this brand?
+      hint: null
+      type: select_one
+      options:
+      - Customer
+      - Former Customer
+      - Never Purchased
+      - Not Aware
+      required: false
+    - id: 3
+      name: form_page_3
+      label: How satisfied are you with this product?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: form_page_4
+      label: What is your age?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: form_page_5
+      label: how do you rate the price of this product
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: form_page_6
+      label: how long do you think it takes to get your product?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: form_page_7
+      label: what is your gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 8
+      name: form_page_8
+      label: how do you rate the service of this store
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_page_9
+      label: what is your income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: form_page_10
+      label: what is your occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_page_11
+      label: what is your education level
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - College
+      - Master
+      - Phd
+      required: false
+    - id: 12
+      name: form_page_12
+      label: what is your marital status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      required: false
+    - id: 13
+      name: form_page_13
+      label: do you visit this store frequently
+      hint: null
+      type: text
+      options: []
+      required: false

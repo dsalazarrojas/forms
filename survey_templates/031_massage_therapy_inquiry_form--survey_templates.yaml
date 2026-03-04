@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Massage Therapy Inquiry Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: preferred_massage_area
+      label: Preferred Massage Area
+      hint: null
+      type: select_one
+      options:
+      - Abdomen
+      - Back
+      - Feet
+      - Head and neck
+      - Neck
+      required: true
+    - id: 4
+      name: preferred_massage_style
+      label: Preferred Massage Style
+      hint: null
+      type: select_multiple
+      options:
+      - deep_tissue
+      - hot_stone
+      - massage_oil
+      - sports
+      - swedish
+      required: true
+    - id: 5
+      name: inquiry_date
+      label: Inquiry Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: preferred_massage_time
+      label: Preferred Massage Time
+      hint: null
+      type: select_one
+      options:
+      - '60'
+      - '90'
+      - '120'
+      required: true
+    - id: 7
+      name: massage_frequency
+      label: Massage Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - one_time
+      - regular
+      - sporadic
+      required: false
+    - id: 8
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: therapist_notes
+      label: Therapist Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: therapist_signature
+      label: Therapist Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: massage_therapist
+      label: Massage Therapist
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: massage_duration
+      label: Massage Duration
+      hint: null
+      type: select_multiple
+      options:
+      - '30'
+      - '60'
+      - '90'
+      required: true
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - bank_transfer
+      - card
+      - other
+      required: true
+    - id: 15
+      name: special_request_2
+      label: Special Requests 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: massage_type
+      label: Massage Type
+      hint: null
+      type: select_multiple
+      options:
+      - aromatherapy
+      - couples
+      - sports
+      required: false
+    - id: 21
+      name: client_age
+      label: Client Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: client_gender
+      label: Client Gender
+      hint: null
+      type: select_one
+      options:
+      - female
+      - male
+      required: true
+    - id: 23
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: massage_area_2
+      label: Massage Area 2
+      hint: null
+      type: select_one
+      options:
+      - abdomen
+      - arms
+      - back
+      - chest
+      - face
+      - feet
+      - head_and_neck
+      - hips
+      - knees
+      - lower_back
+      - legs
+      - neck
+      - scalp
+      - shoulders
+      - upper_back
+      required: true
+    - id: 25
+      name: massage_style_2
+      label: Massage Style 2
+      hint: null
+      type: select_multiple
+      options:
+      - deep_tissue
+      - hot_stone
+      - massage_oil
+      - sports
+      - swedish
+      required: true

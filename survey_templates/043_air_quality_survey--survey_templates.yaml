@@ -1,0 +1,133 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Air Quality Survey
+    pages:
+    - id: 1
+      name: employee_info_header
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department / Floor
+      hint: Where do you work?
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: perception_header
+      label: -- Air Quality Perception --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: air_rating
+      label: How would you rate the air quality?
+      hint: Overall assessment
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: true
+    - id: 6
+      name: symptoms
+      label: Do you experience symptoms at work?
+      hint: Health effects
+      type: select_multiple
+      options:
+      - Headache
+      - Fatigue / Drowsiness
+      - Dry / Itchy Eyes
+      - Throat Irritation
+      - Coughing
+      - Dizziness
+      - None
+      required: true
+    - id: 7
+      name: symptom_timing
+      label: When do symptoms occur?
+      hint: Time of day
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - All Day
+      - Specific days only
+      - N/A
+      required: false
+    - id: 8
+      name: odors
+      label: Have you noticed any odors?
+      hint: Strange smells
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 9
+      name: odor_desc
+      label: Description of Odors
+      hint: If yes, describe
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comfort_header
+      label: -- Thermal Comfort --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: temp_comfort
+      label: Temperature Comfort
+      hint: How does it feel?
+      type: select_one
+      options:
+      - Too Cold
+      - Comfortably Cool
+      - Just Right
+      - Comfortably Warm
+      - Too Hot
+      required: true
+    - id: 12
+      name: humidity_comfort
+      label: Humidity Comfort
+      hint: Dryness or dampness
+      type: select_one
+      options:
+      - Too Dry
+      - Just Right
+      - Too Humid / Muggy
+      required: true
+    - id: 13
+      name: comments
+      label: Additional Comments
+      hint: Specific concerns
+      type: text
+      options: []
+      required: false

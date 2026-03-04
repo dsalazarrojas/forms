@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cheer Uniform Selection Survey
+    pages:
+    - id: 1
+      name: section_member_identification
+      label: -- Member Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: athlete_member_name
+      label: Member Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: member_team_level
+      label: Team Level
+      hint: null
+      type: select_one
+      options:
+      - Junior Varsity
+      - Varsity
+      - Competition Elite
+      - All-Stars
+      required: true
+    - id: 4
+      name: section_design_voting
+      label: -- Uniform Design Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: preferred_uniform_design_option
+      label: Primary Design Choice
+      hint: Which uniform option do you prefer most
+      type: select_one
+      options:
+      - Option A - Traditional Classic
+      - Option B - Modern Sleek
+      - Option C - Bold and Metallic
+      required: true
+    - id: 6
+      name: preferred_color_palette
+      label: Preferred Accent Color Palette
+      hint: null
+      type: select_one
+      options:
+      - Royal Blue and Silver
+      - Navy Blue and Gold
+      - Electric Blue and White
+      required: true
+    - id: 7
+      name: uniform_fabric_feedback
+      label: Thoughts on proposed fabric and material
+      hint: Breathability, comfort, durability
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: style_preference_rating
+      label: Overall Style Preference
+      hint: null
+      type: select_one
+      options:
+      - Traditional / Heritage
+      - Modern / High-Tech
+      - Flashy / Sparkly
+      required: true
+    - id: 9
+      name: section_fit_comfort
+      label: -- Fit and Comfort --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: importance_of_comfort_vs_style
+      label: Which is more important to you
+      hint: null
+      type: select_one
+      options:
+      - Comfort for Stunting
+      - Visual Impact on Stage
+      - Equal Balance
+      required: true
+    - id: 11
+      name: specific_fit_concerns_notes
+      label: Any specific fit or comfort concerns
+      hint: e.g. length of skirt, sleeve tightness
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_final_input
+      label: -- Final Input --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: additional_uniform_suggestions
+      label: Any other suggestions for the final design
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: vote_finalization_ack
+      label: I have reviewed all options and cast my vote
+      hint: null
+      type: select_one
+      options:
+      - Vote Cast
+      - Other
+      required: true
+    - id: 15
+      name: voting_submission_date
+      label: Date of Vote
+      hint: null
+      type: date
+      options: []
+      required: true

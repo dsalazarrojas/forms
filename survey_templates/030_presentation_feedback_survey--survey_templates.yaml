@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Presentation Feedback Survey
+    pages:
+    - id: 1
+      name: presentation_feedback_survey
+      label: How did you like the presentation?
+      hint: null
+      type: select_one
+      options:
+      - Strongly like
+      - Somewhat like
+      - Not like
+      required: true
+    - id: 2
+      name: presentation_feedback_survey_rating
+      label: Presentation Feedback Survey Rating
+      hint: Rate from 1-5
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: presentation_feedback_survey_rating_2
+      label: What did you find most impressive?
+      hint: null
+      type: select_multiple
+      options:
+      - Most of the presentation went well
+      - The presentation was good
+      - The speaker was engaging
+      - The content was clear and concise
+      - The slides were well-structured
+      required: false
+    - id: 4
+      name: presentation_feedback_survey_comments
+      label: What did you think of the presentation?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: presentation_feedback_survey_email
+      label: Presentation Feedback Survey Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: presentation_feedback_survey_phone
+      label: Presentation Feedback Survey Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: presentation_feedback_survey_date
+      label: Presentation Feedback Survey Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: presentation_feedback_survey_time
+      label: Presentation Feedback Survey Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: presentation_feedback_survey_notes
+      label: Presentation Feedback Survey Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: presentation_feedback_survey_additional_info
+      label: Presentation Feedback Survey Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: presentation_feedback_survey_rating_3
+      label: Rate the content?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 12
+      name: presentation_feedback_survey_rating_4
+      label: Rate the speaker?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 13
+      name: presentation_feedback_survey_rating_5
+      label: Rate the overall presentation?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 14
+      name: presentation_feedback_survey_rating_6
+      label: Rate the presentation team?
+      hint: null
+      type: select_multiple
+      options:
+      - Team A
+      - Team B
+      - Team C
+      required: false
+    - id: 15
+      name: presentation_feedback_survey_rating_7
+      label: Presentation Feedback Survey Rating 7
+      hint: Rate from 1-5
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: presentation_feedback_survey_rating_8
+      label: Rate the presenter?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 17
+      name: presentation_feedback_survey_rating_9
+      label: Rate the overall presentation?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 18
+      name: presentation_feedback_survey_additional_info_2
+      label: Presentation Feedback Survey Additional Info 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: presentation_feedback_survey_rating_10
+      label: Presentation Feedback Survey Rating 10
+      hint: Rate from 1-5
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: presentation_feedback_survey_rating_11
+      label: Rate the presentation format?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 21
+      name: presentation_feedback_survey_rating_12
+      label: Rate the presentation content?
+      hint: null
+      type: select_multiple
+      options:
+      - Content A
+      - Content B
+      - Content C
+      required: false
+    - id: 22
+      name: presentation_feedback_survey_rating_13
+      label: Rate the presentation style?
+      hint: null
+      type: select_multiple
+      options:
+      - Style A
+      - Style B
+      - Style C
+      required: false
+    - id: 23
+      name: presentation_feedback_survey_rating_14
+      label: Presentation Feedback Survey Rating 14
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: presentation_feedback_survey_rating_15
+      label: Rate the presentation pace?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 25
+      name: submission
+      label: What do you want to do next?
+      hint: null
+      type: select_one
+      options:
+      - Submit another presentation
+      - Continue with another team
+      - Take a break
+      - Provide feedback
+      required: true

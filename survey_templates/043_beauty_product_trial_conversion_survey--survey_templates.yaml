@@ -1,0 +1,184 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Product Trial Conversion Survey
+    pages:
+      - id: 1
+        name: trial_header
+        label: -- Trial Program Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: trial_program
+        label: Trial Program Participated In
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: trial_date
+        label: When Did You Receive the Trial Product
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: trial_status
+        label: What Is Your Current Status
+        hint: null
+        type: select_one
+        options: [Still in Trial Period, Completed Trial, Converted to Purchase, Not Yet Decided]
+        required: true
+      - id: 5
+        name: product_header
+        label: -- Product Assessment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: product_quality
+        label: Trial Product Quality Rating
+        hint: null
+        type: select_one
+        options: [Very Poor, Poor, Average, Good, Excellent]
+        required: true
+      - id: 7
+        name: product_effectiveness
+        label: Product Effectiveness Rating
+        hint: null
+        type: select_one
+        options: [Very Ineffective, Ineffective, Neutral, Effective, Very Effective]
+        required: true
+      - id: 8
+        name: value_perception
+        label: Value for Money Perception
+        hint: null
+        type: select_one
+        options: [Poor Value, Fair Value, Good Value, Great Value, Excellent Value]
+        required: true
+      - id: 9
+        name: vs_competitors
+        label: How Does It Compare to Competitors
+        hint: null
+        type: select_one
+        options: [Much Worse, Worse, About the Same, Better, Much Better]
+        required: true
+      - id: 10
+        name: experience_header
+        label: -- Trial Experience --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: trial_duration
+        label: How Long Did You Use the Trial Product
+        hint: null
+        type: select_one
+        options: [Never Opened, Less than 1 Week, 1-2 Weeks, 2-4 Weeks, Full Trial Period]
+        required: true
+      - id: 12
+        name: sufficient_sample
+        label: Was Sample Size Sufficient to Test
+        hint: null
+        type: select_one
+        options: ["Yes", "No"]
+        required: true
+      - id: 13
+        name: trial_convenience
+        label: Trial Program Convenience Rating
+        hint: Ease of signup, delivery, instructions, etc.
+        type: select_one
+        options: [Very Inconvenient, Inconvenient, Neutral, Convenient, Very Convenient]
+        required: true
+      - id: 14
+        name: conversion_header
+        label: -- Purchase Conversion --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: conversion_status
+        label: Have You Converted to Full-Size Purchase
+        hint: null
+        type: select_one
+        options: ["Yes - Already Purchased", "Yes - Planning to Purchase", "No - Not Planning to Purchase", "Undecided"]
+        required: true
+      - id: 16
+        name: purchase_decision_factors
+        label: Factors Influencing Purchase Decision
+        hint: Product quality, price, brand trust, etc.
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: barriers_to_purchase
+        label: Any Barriers to Purchase
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: motivation_header
+        label: -- Trial Program Motivation --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: motivation_discovery
+        label: Did Trial Help You Discover New Products
+        hint: null
+        type: select_one
+        options: ["Yes", "No"]
+        required: true
+      - id: 20
+        name: trial_likelihood_continue
+        label: Likelihood to Participate in Future Trials
+        hint: null
+        type: select_one
+        options: [Very Unlikely, Unlikely, Neutral, Likely, Very Likely]
+        required: true
+      - id: 21
+        name: recommend_program
+        label: Would You Recommend This Trial Program
+        hint: null
+        type: select_one
+        options: [Definitely Not, Probably Not, Unsure, Probably Yes, Definitely Yes]
+        required: true
+      - id: 22
+        name: improvement_header
+        label: -- Improvement Suggestions --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: program_improvements
+        label: How Could the Trial Program Be Improved
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: incentive_importance
+        label: Importance of Conversion Incentives
+        hint: Discount codes, exclusive offers, etc.
+        type: select_one
+        options: [Not Important, Somewhat Important, Very Important, Critical]
+        required: true

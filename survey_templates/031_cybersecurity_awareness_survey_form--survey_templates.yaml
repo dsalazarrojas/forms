@@ -1,0 +1,87 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cybersecurity Awareness Survey Form
+    pages:
+    - id: 1
+      name: employee_knowledge
+      label: What is the level of cybersecurity awareness among your employees?
+      hint: null
+      type: select_one
+      options:
+      - Basic knowledge
+      - Some knowledge
+      - Good knowledge
+      required: false
+    - id: 2
+      name: training_programs
+      label: Are any employee training programs available to improve cybersecurity
+        awareness?
+      hint: null
+      type: select_multiple
+      options:
+      - Basic awareness training
+      - Advanced awareness training
+      - No training
+      - Other
+      required: false
+    - id: 3
+      name: incident_response_plan
+      label: Does your organization have an Incident Response Plan?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 4
+      name: security_policies
+      label: Are any security policies and procedures in place to prevent cybersecurity
+        threats?
+      hint: null
+      type: select_multiple
+      options:
+      - Password policies
+      - Data backup policies
+      - Network security policies
+      - Other
+      required: false
+    - id: 5
+      name: security_policies_enforced
+      label: Are security polices and procedures actually enforced in your organization?
+      hint: null
+      type: select_multiple
+      options:
+      - Strongly enforced
+      - Somewhat enforced
+      - Not enforced
+      required: false
+    - id: 6
+      name: security_policies_enforced_further
+      label: How do you think you can improve policy enforcement?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: security_training
+      label: Are there any plans for additional security training to be conducted
+        within the next 6 months?
+      hint: null
+      type: select_multiple
+      options:
+      - Yes, within 6 months
+      - No, but planned for the future
+      - No, not planned
+      required: false

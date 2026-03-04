@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brake System Configuration Survey
+    pages:
+    - id: 1
+      name: section_header_vehicle
+      label: -- Vehicle Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Model year
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: vehicle_make
+      label: Vehicle Make
+      hint: Manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Model name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: vin_number
+      label: VIN Number
+      hint: Vehicle Identification Number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_header_current_brakes
+      label: -- Current Brake System --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: brake_type
+      label: Current Brake Type
+      hint: Type of brakes installed
+      type: select_one
+      options:
+      - Disc brakes front only
+      - Disc brakes all wheels
+      - Drum brakes all wheels
+      - Mixed disc and drum
+      - ABS equipped
+      - Electronic brakes
+      - Other
+      required: true
+    - id: 8
+      name: pad_condition
+      label: Brake Pad Condition
+      hint: Current state of pads
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Worn
+      - Critical
+      required: true
+    - id: 9
+      name: rotor_condition
+      label: Brake Rotor Condition
+      hint: Status of rotors
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Warped
+      - Needs replacement
+      required: false
+    - id: 10
+      name: section_header_performance
+      label: -- Brake Performance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: stopping_performance
+      label: Current Stopping Performance
+      hint: How well brakes perform
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Adequate
+      - Poor
+      - Unsafe
+      required: true
+    - id: 12
+      name: brake_noise
+      label: Brake Noise or Issues
+      hint: Any sounds or problems
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: brake_fade
+      label: Brake Fade or Loss of Pressure
+      hint: Performance degradation
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      - Always
+      required: false
+    - id: 14
+      name: section_header_upgrades
+      label: -- Upgrade Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: upgrade_interest
+      label: Interested in Brake Upgrades
+      hint: Want to improve brake system
+      type: select_one
+      options:
+      - Yes, definitely
+      - Maybe
+      - Not interested
+      - Already upgraded
+      required: true
+    - id: 16
+      name: upgrade_types
+      label: Types of Upgrades of Interest
+      hint: Select desired upgrades
+      type: select_multiple
+      options:
+      - Performance pads
+      - Slotted rotors
+      - Braided brake lines
+      - Larger rotors
+      - Upgrade calipers
+      - ABS installation
+      - Exotic materials
+      - Other
+      required: false
+    - id: 17
+      name: section_header_use
+      label: -- Vehicle Use --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: primary_use
+      label: Primary Vehicle Use
+      hint: How you use the vehicle
+      type: select_one
+      options:
+      - Daily commute
+      - Street performance
+      - Track use
+      - Off-road
+      - Towing
+      - Mixed use
+      - Other
+      required: true
+    - id: 19
+      name: brake_demands
+      label: Brake System Demands
+      hint: How hard you brake
+      type: select_one
+      options:
+      - Light use
+      - Moderate use
+      - Heavy use
+      - Extreme use
+      required: false
+    - id: 20
+      name: section_header_contact
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: contact_email
+      label: Email Address
+      hint: For recommendations
+      type: email
+      options: []
+      required: true

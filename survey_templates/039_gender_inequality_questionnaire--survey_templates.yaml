@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gender Inequality Questionnaire
+    pages:
+    - id: 1
+      name: gender_inequality_questionnaire_form
+      label: Gender Inequality Questionnaire Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: section_1
+      label: Do you identify as
+      hint: null
+      type: select_one
+      options:
+      - male
+      - female
+      - other
+      required: false
+    - id: 3
+      name: gender_inequality_questionnaire_form_section_2
+      label: How often do you feel like
+      hint: 0-4
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: gender_inequality_questionnaire_form_section_3
+      label: Gender inequality is
+      hint: null
+      type: select_one
+      options:
+      - very_severe
+      - somewhat_severe
+      - somewhat_mild
+      - none
+      required: false
+    - id: 5
+      name: gender_inequality_questionnaire_form_section_4
+      label: gender_inequality_questionnaire_form_section_4_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: gender_inequality_questionnaire_form_section_5
+      label: gender_inequality_questionnaire_form_section_5_label
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: gender_inequality_questionnaire_form_section_6
+      label: gender_inequality_questionnaire_form_section_6_label
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: gender_inequality_questionnaire_form_section_7
+      label: gender_inequality_questionnaire_form_section_7_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: gender_inequality_questionnaire_form_section_8
+      label: gender_inequality_questionnaire_form_section_8_label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: gender_inequality_questionnaire_form_section_9
+      label: gender_inequality_questionnaire_form_section_9_label
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      - option_4
+      - option_5
+      required: false

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workforce Diversity Survey Form
+    pages:
+    - id: 1
+      name: demographic_info
+      label: demographic_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: race
+      label: race
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: ethnicity
+      label: ethnicity
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: disability_status
+      label: disability_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: language
+      label: language
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: job_performance
+      label: job_performance
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: work_life_balance
+      label: work_life_balance
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recycling Survey
+    pages:
+    - id: 1
+      name: recycling_survey_first_page
+      label: Recycling Survey
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: survey_recycling_habits
+      label: survey_recycling_habits
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      - None
+      required: false
+    - id: 3
+      name: recycling_education
+      label: how_did_you_learn_about_recycling
+      hint: null
+      type: select_multiple
+      options:
+      - school
+      - internet
+      - friend
+      - family
+      required: false
+    - id: 4
+      name: recycling_facts
+      label: recycling_facts
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: household_waste
+      label: household_waste_production
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: recycling_frequency
+      label: recycling_frequency
+      hint: null
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      required: false
+    - id: 7
+      name: recycling_participation
+      label: participation_in_recycling_programs
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 8
+      name: recycling_barriers
+      label: barriers_to_recycling
+      hint: null
+      type: select_one
+      options:
+      - convenience
+      - cost
+      - lack_of_knowledge
+      required: false
+    - id: 9
+      name: recycling_goals
+      label: recycling_goals
+      hint: null
+      type: select_multiple
+      options:
+      - increase_recycling
+      - reduce_waste
+      - other
+      required: false
+    - id: 10
+      name: survey_conclusion
+      label: any_other_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: recycling_survey_completion
+      label: survey_completion
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: time_spent_recycling
+      label: time_spent_recycling
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: recycling_frequency_of_recycling
+      label: how_often_do_you_recycle
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 14
+      name: household_items_recycled
+      label: household_items_recycled
+      hint: null
+      type: select_multiple
+      options:
+      - plastic_bottles
+      - newspaper
+      - cardboard
+      required: false
+    - id: 15
+      name: survey_completion_date
+      label: survey_completion_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: contact
+      label: contact
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: survey_completion_time
+      label: survey_completion_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: recycling_survey_completion_comments
+      label: any_other_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: survey_recycling_awareness
+      label: survey_recycling_awareness
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false

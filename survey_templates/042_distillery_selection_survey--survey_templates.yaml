@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Distillery Selection Survey
+    pages:
+    - id: 1
+      name: tasting_room_preferences
+      label: Tasting Room Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: distillery_experience
+      label: Distillery Experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: tour_participants
+      label: Tour Participants
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: event_attendees
+      label: Event Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: tasting_room_services
+      label: Tasting Room Services
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: visitor_preferences
+      label: Visitor Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: distillery_selection
+      label: Distillery Selection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: comments_and_suggestions
+      label: Comments and Suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: distillery_location
+      label: Distillery Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: distillery_type
+      label: Distillery Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: tasting_room_hours
+      label: Tasting Room Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: tour_hours
+      label: Tour Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: events
+      label: Events
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: health_communication_equity_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: health_communication_channels
+      label: health_communication_channels
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''email''}'
+      - '{''value'': ''text''}'
+      - '{''value'': ''phone''}'
+      - '{''value'': ''in_person''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 3
+      name: preferred_channel
+      label: preferred_channel
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''email''}'
+      - '{''value'': ''text''}'
+      - '{''value'': ''phone''}'
+      - '{''value'': ''in_person''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 4
+      name: understandability_health_info
+      label: understandability_health_info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: access_to_health_info
+      label: access_to_health_info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      - '{''value'': ''unsure''}'
+      required: true
+    - id: 6
+      name: community_feedback
+      label: community_feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

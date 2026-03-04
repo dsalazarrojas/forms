@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tour Guide Experience Survey
+    pages:
+    - id: 1
+      name: survey_intro
+      label: Survey Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating_tour_guide
+      label: Rating for Tour Guide
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: tour_rating
+      label: Tour Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: communication_rating
+      label: Guide's Communication
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: helpfulness
+      label: Helpfulness of the Guide
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: knowledge_level
+      label: Guide's Knowledge Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: punctuality
+      label: Punctuality of the Guide
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: tour_condition
+      label: Guide's Overall Condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Poor
+      required: false
+    - id: 10
+      name: tour_recommendation
+      label: Would you Recommend?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

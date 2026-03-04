@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sustainable Lodging Partnership Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: sustainability_practices
+      label: sustainability_practices
+      hint: null
+      type: select_one
+      options:
+      - Sustainable Tourism
+      - Ecotourism
+      - Responsible Tourism
+      required: false
+    - id: 3
+      name: certifications
+      label: certifications
+      hint: null
+      type: select_multiple
+      options:
+      - GOTS
+      - IOTC
+      - ISO 20118
+      - ISO 14001
+      - ISO 22000
+      required: true
+    - id: 4
+      name: partnership_interests
+      label: partnership_interests
+      hint: null
+      type: select_one
+      options:
+      - Marketing
+      - Sales
+      - Training
+      - Other
+      required: true
+    - id: 5
+      name: accommodation_type
+      label: accommodation_type
+      hint: null
+      type: select_one
+      options:
+      - Hotel
+      - Resort
+      - Hostel
+      - Other
+      required: true
+    - id: 6
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: sustainability_certification
+      label: sustainability_certification
+      hint: null
+      type: select_multiple
+      options:
+      - GOTS
+      - IOTC
+      required: false
+    - id: 8
+      name: sustainability_practices
+      label: sustainability_practices
+      hint: null
+      type: select_multiple
+      options:
+      - Sustainable Tourism
+      - Responsible Tourism
+      - Ecotourism
+      - Conservation
+      required: false
+    - id: 9
+      name: sustainability_rating
+      label: sustainability_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: year_established
+      label: year_established
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: select_one
+      options:
+      - CEO
+      - Sustainability Officer
+      - Manager
+      - Other
+      required: true
+    - id: 12
+      name: email
+      label: email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: website
+      label: website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: sustainability_focus_areas
+      label: sustainability_focus_areas
+      hint: null
+      type: select_multiple
+      options:
+      - Environmental Impact
+      - Community Engagement
+      - Conservation
+      - Biodiversity
+      required: false
+    - id: 17
+      name: certification_date
+      label: certification_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: partner_since
+      label: partner_since
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: partnership_status
+      label: partnership_status
+      hint: null
+      type: select_one
+      options:
+      - Ongoing Partnership
+      - Inactive Partnership
+      required: true
+    - id: 20
+      name: last_evaluation
+      label: last_evaluation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: sustainability_focus_area_comments
+      label: sustainability_focus_area_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: certification_date_comment
+      label: certification_date_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: partner_since_comment
+      label: partner_since_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: last_evaluation_comment
+      label: last_evaluation_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

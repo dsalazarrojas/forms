@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Communications Strategy Audit Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: messaging_consistency
+      label: Messaging Consistency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: channel_performance
+      label: Channel Performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: stakeholder_communication
+      label: Stakeholder Communication
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: online_data_collection
+      label: Online Data Collection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: communication_channels
+      label: Communication Channels
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: key_findings
+      label: Key Findings
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: conclusion
+      label: Conclusion
+      hint: null
+      type: note
+      options: []
+      required: false

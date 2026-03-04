@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Garlic Product Feedback Survey
+    pages:
+    - id: 1
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: What could we improve on?
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: product_price
+      label: Price Range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: product_image
+      label: Upload Product Image
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: purchase_channel
+      label: Where do you usually buy this product?
+      hint: null
+      type: select_multiple
+      options:
+      - Store
+      - Online
+      - Other
+      required: false
+    - id: 8
+      name: purchase_frequency
+      label: How often do you buy this product?
+      hint: null
+      type: select_multiple
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      required: false
+    - id: 9
+      name: age_range
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: false
+    - id: 12
+      name: product_type
+      label: Product Type
+      hint: null
+      type: select_one
+      options:
+      - Garlic
+      - Onion
+      - Shallots
+      required: false
+    - id: 13
+      name: location
+      label: Location
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: true

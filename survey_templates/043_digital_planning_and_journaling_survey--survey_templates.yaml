@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Planning And Journaling Survey
+    pages:
+    - id: 1
+      name: digital_planning_and_journaling_survey
+      label: digital_planning_and_journaling_survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: question_1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question_2
+      label: how_do_you_use_our_app
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''option_3_label'', ''value'': ''option_3''}'
+      - Other
+      required: false
+    - id: 4
+      name: question_3
+      label: question_3_label
+      hint: null
+      type: text
+      options: []
+      required: false

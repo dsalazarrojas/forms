@@ -1,0 +1,183 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: "Abstract Decline Feedback Survey"
+    pages:
+    - id: 1
+      name: section_header_respondent_info
+      label: "-- Respondent Information --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: "Full name"
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: respondent_email
+      label: "Email address"
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: affiliation
+      label: "Organization or institutional affiliation"
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: abstract_title
+      label: "Title of the declined abstract"
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: conference_or_program
+      label: "Name of the conference, journal, or program"
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_header_feedback
+      label: "-- Feedback on the Decision --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: decision_clarity
+      label: "How clear was the decline notification you received"
+      hint: null
+      type: select_one
+      options:
+        - "Very clear"
+        - "Somewhat clear"
+        - "Neutral"
+        - "Somewhat unclear"
+        - "Very unclear"
+      required: true
+    - id: 9
+      name: feedback_received
+      label: "Did you receive constructive feedback with the decline notice"
+      hint: null
+      type: select_one
+      options:
+        - "Yes - detailed feedback"
+        - "Yes - brief feedback"
+        - "No feedback was provided"
+      required: true
+    - id: 10
+      name: feedback_helpfulness
+      label: "If feedback was provided, how helpful was it for improving your work"
+      hint: null
+      type: select_one
+      options:
+        - "Very helpful"
+        - "Somewhat helpful"
+        - "Not helpful"
+        - "Not applicable"
+      required: true
+    - id: 11
+      name: timeliness
+      label: "How would you rate the timeliness of the decision notification"
+      hint: null
+      type: select_one
+      options:
+        - "Very timely"
+        - "Acceptable"
+        - "Somewhat delayed"
+        - "Significantly delayed"
+      required: true
+    - id: 12
+      name: section_header_review_process
+      label: "-- Review Process --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: fairness_perception
+      label: "How fair do you feel the review process was"
+      hint: null
+      type: select_one
+      options:
+        - "Very fair"
+        - "Somewhat fair"
+        - "Neutral"
+        - "Somewhat unfair"
+        - "Very unfair"
+      required: true
+    - id: 14
+      name: review_criteria_transparency
+      label: "Were the review criteria clearly communicated before submission"
+      hint: null
+      type: select_one
+      options:
+        - "Yes - very clear"
+        - "Somewhat clear"
+        - "No - criteria were not clear"
+      required: true
+    - id: 15
+      name: would_submit_again
+      label: "Would you submit an abstract to this venue in the future"
+      hint: null
+      type: select_one
+      options:
+        - "Definitely yes"
+        - "Probably yes"
+        - "Unsure"
+        - "Probably not"
+        - "Definitely not"
+      required: true
+    - id: 16
+      name: section_header_improvement
+      label: "-- Suggestions for Improvement --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: improvement_suggestions
+      label: "What improvements would you suggest for the review and communication process"
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: overall_experience
+      label: "How would you rate your overall experience with the submission process"
+      hint: null
+      type: select_one
+      options:
+        - "Excellent"
+        - "Good"
+        - "Average"
+        - "Poor"
+        - "Very poor"
+      required: true
+    - id: 19
+      name: additional_comments
+      label: "Any additional comments or feedback"
+      hint: null
+      type: text
+      options: []
+      required: false

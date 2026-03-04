@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Household Survey For Child Development Form
+    pages:
+    - id: 1
+      name: household_location
+      label: Household Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: family_members
+      label: Family Members
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: child_age
+      label: Child's Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: safety_risks
+      label: Safety Risks
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: family_income
+      label: Family Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: survey_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: survey_time
+      label: Survey Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

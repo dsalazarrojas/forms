@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: RTSM System Design Experience Survey
+    pages:
+    - id: 1
+      name: project_title
+      label: What is the title of your project?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_manager
+      label: Project Manager's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_description
+      label: Describe your project
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction_level
+      label: How satisfied are you with the RWS system?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 5
+      name: challenges
+      label: What are some challenges you faced during the project?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: improvement_ideas
+      label: What are some ideas for improvement?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_project
+      label: Date of Project
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_project
+      label: Time of Project
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_team
+      label: Project Team
+      hint: null
+      type: select_one
+      options:
+      - Team A
+      - Team B
+      - Team C
+      required: false
+    - id: 12
+      name: project_phase
+      label: Project Phase
+      hint: null
+      type: select_one
+      options:
+      - Phase 1
+      - Phase 2
+      - Phase 3
+      - Phase 4
+      - Phase 5
+      required: false
+    - id: 13
+      name: system_use
+      label: Has the RWS system been used?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: system_uses
+      label: How often do you use the RWS system?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 15
+      name: system_value
+      label: How valuable is the RWS system?
+      hint: null
+      type: select_one
+      options:
+      - Very Valuable
+      - Somewhat Valuable
+      - Neutral
+      - Somewhat Not Valuable
+      - Not Very Valuable
+      required: false

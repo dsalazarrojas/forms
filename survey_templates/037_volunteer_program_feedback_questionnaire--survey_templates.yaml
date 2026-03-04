@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Program Feedback Questionnaire
+    pages:
+    - id: 1
+      name: program_name
+      label: Program name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_participants
+      label: Participants
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: rating
+      label: Overall rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,97 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Genetic Feedback Loop Research Data Collection Form
+    pages:
+    - id: 1
+      name: study_details
+      label: Study Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_info
+      label: Participant Info
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Participant Type'', ''label'': ''Participant Type'',
+        ''value'': ''Participant''}'
+      - '{''id'': 2, ''name'': ''Control'', ''label'': ''Control''}'
+      - '{''id'': 3, ''name'': ''Donor'', ''label'': ''Donor''}'
+      required: true
+    - id: 3
+      name: demographic_data
+      label: Demographic Data
+      hint: Please provide demographic information
+      type: select_multiple
+      options:
+      - '{''id'': 4, ''name'': ''participant_age'', ''label'': ''participant_age'',
+        ''value'': ''participant_age''}'
+      - '{''id'': 5, ''name'': ''study_group'', ''label'': ''study_group'', ''value'':
+        ''study_group''}'
+      - '{''id'': 6, ''name'': ''gender'', ''label'': ''gender'', ''value'': ''gender''}'
+      required: false
+    - id: 4
+      name: survey_data
+      label: Survey Data
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: Please provide contact information for study participants
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_relationships
+      label: Participant Relationships
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 7, ''name'': ''relationship_1'', ''label'': '''', ''value'': ''''}'
+      - '{''id'': 8, ''name'': ''relationship_2'', ''label'': '''', ''value'': ''''}'
+      - '{''id'': 9, ''name'': ''relationship_3'', ''label'': '''', ''value'': ''''}'
+      required: false
+    - id: 7
+      name: genetic_data_1
+      label: Genetic Data 1
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 10, ''name'': ''genetic_info_1'', ''label'': '''', ''value'': ''''}'
+      - '{''id'': 11, ''name'': ''genetic_info_2'', ''label'': '''', ''value'': ''''}'
+      required: false
+    - id: 8
+      name: genetic_data_2
+      label: Genetic Data 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 12, ''name'': ''genetic_option_1'', ''label'': '''', ''value'':
+        ''''}'
+      - '{''id'': 13, ''name'': ''genetic_option_2'', ''label'': '''', ''value'':
+        ''''}'
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

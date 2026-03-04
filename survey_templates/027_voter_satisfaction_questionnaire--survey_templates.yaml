@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Voter Satisfaction Questionnaire
+    pages:
+    - id: 1
+      name: election_date
+      label: Election Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: election_time
+      label: Election Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: voter_id
+      label: Voter ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: voting_location
+      label: Voting Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Very Satisfied''}'
+      - '{''text'': ''Somewhat Satisfied''}'
+      - '{''text'': ''Somewhat Dissatisfied''}'
+      - '{''text'': ''Very Dissatisfied''}'
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Tool 1''}'
+      - '{''text'': ''Tool 2''}'
+      - '{''text'': ''Tool 3''}'
+      required: false

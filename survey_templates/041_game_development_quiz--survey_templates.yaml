@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Game Development Quiz
+    pages:
+    - id: 1
+      name: game_development_quiz_form
+      label: Game Development Quiz
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: game_development_quiz_form_description
+      label: How would you rate your experience with game development?
+      hint: null
+      type: select_multiple
+      options:
+      - Very basic
+      - Basic
+      - Average
+      - Proficient
+      - Expert
+      required: false
+    - id: 5
+      name: participant_name
+      label: What is your name?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: participant_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_details
+      label: Additional details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: game_development_era
+      label: What era of game development do you focus on?
+      hint: null
+      type: select_multiple
+      options:
+      - Action
+      - Action-Adventure
+      - Action RPG
+      - RPG
+      - Strategy
+      required: false
+    - id: 10
+      name: game_genres
+      label: What game genre do you focus on?
+      hint: null
+      type: select_multiple
+      options:
+      - Adventure
+      - Action
+      - Role-Playing
+      - Strategy
+      - Sports
+      - Survival
+      required: false

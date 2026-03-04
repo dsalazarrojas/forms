@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Safety Audit Survey
+    pages:
+    - id: 1
+      name: general_safety_questions
+      label: General Safety Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: workplace_safety_procedure
+      label: Workplace Safety Procedure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_report
+      label: Incident Report
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: hazards_identified
+      label: Hazards Identified
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: corrective_action
+      label: Corrective Action
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 6
+      name: employee_comments
+      label: Employee Comments
+      hint: null
+      type: note
+      options: []
+      required: false

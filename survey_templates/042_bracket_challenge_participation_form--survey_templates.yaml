@@ -1,0 +1,259 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bracket Challenge Participation Form
+    pages:
+    - id: 1
+      name: participant_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For challenge communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY - must be 18 or older
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: age_verification
+      label: Age Verification
+      hint: I confirm I am 18 or older
+      type: select_one
+      options:
+      - Yes, I am 18 or older
+      - false
+      required: true
+    - id: 7
+      name: address
+      label: Address
+      hint: Complete home address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: State of residence
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP Code
+      hint: Home ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: challenge_name
+      label: Challenge Name
+      hint: Which bracket challenge
+      type: select_one
+      options:
+      - March Madness
+      - NFL Playoffs
+      - World Cup
+      - Stanley Cup
+      - Custom Challenge
+      - Other
+      required: true
+    - id: 12
+      name: team_name
+      label: Team Name
+      hint: Name for your bracket entry
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: entry_type
+      label: Entry Type
+      hint: Type of entry
+      type: select_one
+      options:
+      - Individual entry
+      - Team entry
+      - Office pool
+      - Family pool
+      required: true
+    - id: 14
+      name: team_members
+      label: Team Members
+      hint: List other members if applicable
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: entry_fee
+      label: Entry Fee
+      hint: Fee amount paid
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: How did you pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - PayPal
+      - Venmo
+      - Cash
+      - Check
+      required: true
+    - id: 17
+      name: payment_status
+      label: Payment Status
+      hint: Payment confirmation
+      type: select_one
+      options:
+      - Paid in full
+      - Pending
+      - Will pay later
+      required: true
+    - id: 18
+      name: bracket_submission
+      label: Bracket Submission
+      hint: How will you submit your bracket
+      type: select_one
+      options:
+      - Online submission
+      - Paper bracket
+      - Mobile app
+      - Email
+      required: true
+    - id: 19
+      name: bracket_deadline
+      label: Bracket Deadline
+      hint: Do you understand the deadline
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: scoring_system
+      label: Scoring System
+      hint: Do you understand the scoring
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: prize_structure
+      label: Prize Structure
+      hint: Do you understand the prizes
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: rules_acknowledgment
+      label: Rules Acknowledgment
+      hint: I have read and agree to the rules
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true
+    - id: 23
+      name: tiebreaker_understanding
+      label: Tiebreaker Understanding
+      hint: Do you understand tiebreaker rules
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: communication_preference
+      label: Communication Preference
+      hint: How should we contact you
+      type: select_multiple
+      options:
+      - Email
+      - Text message
+      - Phone call
+      - App notification
+      required: true
+    - id: 25
+      name: newsletter_signup
+      label: Newsletter Signup
+      hint: Receive updates and promotions
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 26
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: What brought you to this challenge
+      type: select_one
+      options:
+      - Friend referral
+      - Social media
+      - Website
+      - Advertisement
+      - Previous participant
+      - Other
+      required: false
+    - id: 27
+      name: experience_level
+      label: Bracket Challenge Experience
+      hint: How experienced are you
+      type: select_one
+      options:
+      - First time
+      - Some experience
+      - Experienced
+      - Very experienced
+      required: true
+    - id: 28
+      name: participant_signature
+      label: Participant Signature
+      hint: Type your full legal name as signature
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: signature_date
+      label: Signature Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true

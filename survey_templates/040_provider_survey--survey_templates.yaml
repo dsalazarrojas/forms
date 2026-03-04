@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Provider Survey
+    pages:
+    - id: 1
+      name: provider_name
+      label: provider_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: provider_address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: provider_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: provider_license
+      label: license
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: provider_specialties
+      label: specialties
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: provider_languages
+      label: languages
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: provider_languages_other
+      label: other_languages
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: provider_notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: provider_experience
+      label: experience
+      hint: null
+      type: time
+      options: []
+      required: false

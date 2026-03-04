@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wall Extraction Assessment Survey
+    pages:
+    - id: 1
+      name: site_conditions
+      label: Site Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: site_photos
+      label: Site Photos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: wall_feasibility
+      label: Wall Feasibility
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: wall_location
+      label: Wall Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: wall_characteristics
+      label: Wall Characteristics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: wall_condition
+      label: Wall Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Concrete
+      - Brick
+      - Wood
+      - Metal
+      - Glass
+      - Other
+      required: true
+    - id: 7
+      name: wall_height
+      label: Wall Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: wall_materials
+      label: Wall Materials
+      hint: null
+      type: select_multiple
+      options:
+      - Concrete
+      - Wood
+      - Metal
+      - Plastic
+      - Other
+      required: false
+    - id: 9
+      name: wall_width
+      label: Wall Width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: wall_thickness
+      label: Wall Thickness
+      hint: null
+      type: number
+      options: []
+      required: false

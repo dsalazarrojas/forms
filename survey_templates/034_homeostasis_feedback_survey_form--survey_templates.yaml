@@ -1,0 +1,66 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Homeostasis Feedback Survey Form
+    pages:
+    - id: 1
+      name: intro
+      label: intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: homeostasis_instruction
+      label: Homeostasis Instruction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question_one
+      label: question one
+      hint: What aspects of homeostasis do you think we need more work on?
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''A'', ''value'': ''A''}'
+      - '{''id'': 2, ''label'': ''B'', ''value'': ''B''}'
+      - '{''id'': 3, ''label'': ''C'', ''value'': ''C''}'
+      - '{''id'': 4, ''label'': ''D'', ''value'': ''D''}'
+      required: false
+    - id: 4
+      name: question_two
+      label: question two
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: question_three
+      label: question three
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''A'', ''value'': ''A''}'
+      - '{''id'': 2, ''label'': ''B'', ''value'': ''B''}'
+      - '{''id'': 3, ''label'': ''C'', ''value'': ''C''}'
+      - '{''id'': 4, ''label'': ''D'', ''value'': ''D''}'
+      required: false
+    - id: 6
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

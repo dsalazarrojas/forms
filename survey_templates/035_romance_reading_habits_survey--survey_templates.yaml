@@ -1,0 +1,273 @@
+inputSchema:
+  type: object
+  properties:
+    title: Romance Reading Habits Survey
+    pages:
+    - id: 1
+      name: romance_reading_habits_survey
+      label: Romance Reading Habits Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: audience
+      label: audience
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''authors''}'
+      - '{''value'': ''publishers''}'
+      - '{''value'': ''librarians''}'
+      - '{''value'': ''book_communities''}'
+      required: false
+    - id: 3
+      name: reading_frequency
+      label: Reading Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Daily''}'
+      - '{''value'': ''Weekly''}'
+      - '{''value'': ''Monthly''}'
+      required: false
+    - id: 4
+      name: reading_length
+      label: Reading Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: reading_length_hint
+      label: How often do you usually read?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: favorite_genre
+      label: Favorite Genre
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Romance''}'
+      - '{''value'': ''Fiction''}'
+      - '{''value'': ''Non-Fiction''}'
+      - '{''value'': ''Fantasy''}'
+      - '{''value'': ''Mystery''}'
+      - '{''value'': ''Thriller''}'
+      - '{''value'': ''Horror''}'
+      - '{''value'': ''Science Fiction''}'
+      required: false
+    - id: 7
+      name: favorite_author
+      label: Favorite Author
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: reading_format
+      label: Reading Format
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Hardcover''}'
+      - '{''value'': ''Paperback''}'
+      - '{''value'': ''E-Book''}'
+      - '{''value'': ''Audiobook''}'
+      required: false
+    - id: 9
+      name: recommended_source
+      label: Recommended Source
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Book Clubs''}'
+      - '{''value'': ''Online Communities''}'
+      - '{''value'': ''Social Media''}'
+      - '{''value'': ''Friends''}'
+      required: false
+    - id: 10
+      name: preferred_book_length
+      label: Preferred Book Length
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Short Story Collection''}'
+      - '{''value'': ''100-200 pages''}'
+      - '{''value'': ''200-300 pages''}'
+      - '{''value'': ''300-400 pages''}'
+      - '{''value'': ''400-600 pages''}'
+      - '{''value'': ''600-800 pages''}'
+      - '{''value'': ''800+ pages''}'
+      required: false
+    - id: 11
+      name: preferred_format
+      label: Preferred Format
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Physical Book''}'
+      - '{''value'': ''E-Book''}'
+      - '{''value'': ''Audiobook''}'
+      required: false
+    - id: 12
+      name: reading_device
+      label: Reading Device
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''E-Reader''}'
+      - '{''value'': ''Tablet''}'
+      - '{''value'': ''Smartphone''}'
+      - '{''value'': ''Paperback''}'
+      - '{''value'': ''Hardcover''}'
+      required: false
+    - id: 13
+      name: reading_location
+      label: Reading Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Home''}'
+      - '{''value'': ''Work''}'
+      - '{''value'': ''School''}'
+      - '{''value'': ''Public Place''}'
+      required: false
+    - id: 14
+      name: time_spent_reading
+      label: Time Spent Reading
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: how_do_you_get_your_books
+      label: How do you get your books?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Bookstore''}'
+      - '{''value'': ''Online''}'
+      - '{''value'': ''Recommendation''}'
+      - '{''value'': ''Gift''}'
+      required: false
+    - id: 16
+      name: why_do_you_read
+      label: Why Do You Read?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: how_much_do_you_agree
+      label: How Much Do You Agree?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1}'
+      - '{''value'': 2}'
+      - '{''value'': 3}'
+      - '{''value'': 4}'
+      - '{''value'': 5}'
+      - '{''value'': 6}'
+      - '{''value'': 7}'
+      - '{''value'': 8}'
+      - '{''value'': 9}'
+      - '{''value'': 10}'
+      required: false
+    - id: 18
+      name: favorite_book_type
+      label: Favorite Book Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Fiction''}'
+      - '{''value'': ''Non-Fiction''}'
+      - '{''value'': ''Comic Books''}'
+      - '{''value'': ''Magazine''}'
+      required: false
+    - id: 19
+      name: how_do_you_find_new_authors
+      label: How Do You Find New Authors?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Bookstore''}'
+      - '{''value'': ''Online''}'
+      - '{''value'': ''Recommendation''}'
+      - '{''value'': ''Social Media''}'
+      - '{''value'': ''Book Clubs''}'
+      required: false
+    - id: 20
+      name: what_dont_like
+      label: What Dont You Like
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Excessive Romance''}'
+      - '{''value'': ''Lack of Romance''}'
+      - '{''value'': ''Excessive Description''}'
+      - '{''value'': ''Not Enough Description''}'
+      required: false
+    - id: 21
+      name: favorite_character_type
+      label: Favorite Character Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Romance''}'
+      - '{''value'': ''Fantasy''}'
+      - '{''value'': ''Science Fiction''}'
+      - '{''value'': ''Horror''}'
+      - '{''value'': ''Comedy''}'
+      - '{''value'': ''Mystery''}'
+      - '{''value'': ''Adventure''}'
+      required: false
+    - id: 22
+      name: reading_mood
+      label: Reading Mood
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Relaxing''}'
+      - '{''value'': ''Exciting''}'
+      - '{''value'': ''Adventurous''}'
+      - '{''value'': ''Emotional''}'
+      - '{''value'': ''Informative''}'
+      required: false
+    - id: 23
+      name: reading_mood_reason
+      label: Reading Mood Reason
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Escape''}'
+      - '{''value'': ''Learn''}'
+      - '{''value'': ''Relax''}'
+      - '{''value'': ''Socialize''}'
+      - '{''value'': ''Challenge''}'
+      required: false
+    - id: 24
+      name: how_do_you_rate_your_reading_habits
+      label: How Do You Rate Your Reading Habits?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1}'
+      - '{''value'': 2}'
+      - '{''value'': 3}'
+      - '{''value'': 4}'
+      - '{''value'': 5}'
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

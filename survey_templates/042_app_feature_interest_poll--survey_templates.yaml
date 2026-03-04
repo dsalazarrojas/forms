@@ -1,0 +1,214 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: App Feature Interest Poll
+    pages:
+      - id: 1
+        name: poll_date
+        label: Poll date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: respondent_name
+        label: Your name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: email_address
+        label: Email address
+        hint: null
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: app_name
+        label: What app are you using?
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: user_type
+        label: How would you describe yourself?
+        hint: null
+        type: select_one
+        options:
+          - New user
+          - Regular user
+          - Power user
+          - Administrator or manager
+          - Other
+        required: true
+      - id: 6
+        name: user_experience_level
+        label: Your experience level with the app
+        hint: null
+        type: select_one
+        options:
+          - Beginner
+          - Intermediate
+          - Advanced
+          - Expert
+        required: true
+      - id: 7
+        name: current_satisfaction
+        label: Current satisfaction with the app
+        hint: null
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 8
+        name: feature_one_interest
+        label: Interest in Feature 1 - Advanced Analytics Dashboard
+        hint: null
+        type: select_one
+        options:
+          - Very interested
+          - Interested
+          - Neutral
+          - Not interested
+          - Not applicable
+        required: true
+      - id: 9
+        name: feature_two_interest
+        label: Interest in Feature 2 - Mobile App Integration
+        hint: null
+        type: select_one
+        options:
+          - Very interested
+          - Interested
+          - Neutral
+          - Not interested
+          - Not applicable
+        required: true
+      - id: 10
+        name: feature_three_interest
+        label: Interest in Feature 3 - Automated Workflows
+        hint: null
+        type: select_one
+        options:
+          - Very interested
+          - Interested
+          - Neutral
+          - Not interested
+          - Not applicable
+        required: true
+      - id: 11
+        name: feature_four_interest
+        label: Interest in Feature 4 - Enhanced Collaboration Tools
+        hint: null
+        type: select_one
+        options:
+          - Very interested
+          - Interested
+          - Neutral
+          - Not interested
+          - Not applicable
+        required: true
+      - id: 12
+        name: feature_five_interest
+        label: Interest in Feature 5 - API Access for Developers
+        hint: null
+        type: select_one
+        options:
+          - Very interested
+          - Interested
+          - Neutral
+          - Not interested
+          - Not applicable
+        required: true
+      - id: 13
+        name: highest_priority_feature
+        label: Which feature is highest priority for you?
+        hint: Select top choice
+        type: select_one
+        options:
+          - Advanced Analytics Dashboard
+          - Mobile App Integration
+          - Automated Workflows
+          - Enhanced Collaboration Tools
+          - API Access for Developers
+          - Other feature not listed
+        required: true
+      - id: 14
+        name: other_requested_features
+        label: Other features you would like to see
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: feature_timeline_importance
+        label: How important is quick rollout of new features?
+        hint: null
+        type: select_one
+        options:
+          - Very important
+          - Important
+          - Somewhat important
+          - Not important
+        required: true
+      - id: 16
+        name: willingness_pay_premium
+        label: Would you pay for a premium plan with advanced features?
+        hint: null
+        type: select_one
+        options:
+          - Yes, definitely
+          - Maybe
+          - Probably not
+          - No
+        required: true
+      - id: 17
+        name: acceptable_price_range
+        label: Acceptable price range for premium features
+        hint: Per month in dollars
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: improvement_suggestions
+        label: General improvement suggestions
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: beta_interest
+        label: Interested in beta testing new features?
+        hint: null
+        type: select_one
+        options:
+          - Yes, definitely
+          - Maybe
+          - No
+        required: true
+      - id: 20
+        name: contact_for_feedback
+        label: May we contact you for follow-up feedback?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true

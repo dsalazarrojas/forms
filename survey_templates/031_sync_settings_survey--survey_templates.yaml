@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sync Settings Survey
+    pages:
+    - id: 1
+      name: sync_settings_survey_form_1
+      label: how_often_do_you_sync
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: sync_issues
+      label: what_are_synchronized_issues
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: sync_frequency
+      label: sync_frequency_preference
+      hint: Select the option that best fits your needs
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly''}'
+      required: true
+    - id: 4
+      name: sync_behavior
+      label: how_do_you_synchronize
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Automatic''}'
+      - '{''id'': 2, ''label'': ''Manual''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      - '{''id'': 4, ''label'': ''Unknown''}'
+      required: true
+    - id: 5
+      name: sync_behavior_other
+      label: how_do_you_synchronize_other
+      hint: Specify other behavior
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: sync_issues_details
+      label: what_are_the_details_of_sync_issues
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: sync_pain_point
+      label: what_is_the_largest_pain_point
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: sync_frequency_pain_point
+      label: what_is_the_largest_pain_point_sync_frequency
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: sync_synchronization_issues
+      label: has_synchronization_issues
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Unknown''}'
+      required: true
+    - id: 10
+      name: sync_synchronization_issues_details
+      label: what_is_the_nature_of_synchronization_issues
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: sync_synchronization_frequency
+      label: what_is_your_sync_frequency_preference
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: sync_synchronization_frequency_pain_point
+      label: what_is_the_largest_pain_point_sync_frequency
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: sync_synchronization_frequency_details
+      label: what_is_the_nature_of_sync_frequency_issues
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: sync_synchronization_issues_impact
+      label: what_is_the_impact_of_sync_issues
+      hint: Select the option that best fits
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Performance''}'
+      - '{''id'': 2, ''label'': ''Security''}'
+      - '{''id'': 3, ''label'': ''Usability''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: true
+    - id: 15
+      name: sync_synchronization_issues_impact_details
+      label: what_is_the_specific_impact_of_sync_issues
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: sync_synchronization_issues_impact_other
+      label: what_is_the_specific_impact_of_sync_issues
+      hint: Specify other
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: sync_synchronization_issues_impact_other_details
+      label: what_is_the_specific_nature_of_sync_issues_impact_other
+      hint: Specify other
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: sync_synchronization_issues_impact_other_reason
+      label: what_is_the_reason_for_sync_issues_impact_other
+      hint: Specify other
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: sync_synchronization_issues_awareness
+      label: are_you_aware_of_synchronization_issues
+      hint: Select the option that best fits
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Unknown''}'
+      required: true
+    - id: 20
+      name: sync_synchronization_issues_awareness_details
+      label: what_do_you_know_about_synchronization_issues
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: sync_synchronization_issues_awareness_other
+      label: what_do_you_know_about_synchronization_issues_other
+      hint: Specify other
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: sync_synchronization_issues_awareness_other_details
+      label: what_is_the_specific_nature_of_synchronization_issues_other
+      hint: Specify other
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: sync_synchronization_issues_awareness_other_reason
+      label: what_is_the_reason_for_sync_issues_other
+      hint: Specify other
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: sync_synchronization_issues_preferred_frequency
+      label: what_is_your_preferred_sync_frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: sync_synchronization_issues_pain_point
+      label: what_is_the_largest_pain_point_in_sync_frequency
+      hint: null
+      type: note
+      options: []
+      required: false

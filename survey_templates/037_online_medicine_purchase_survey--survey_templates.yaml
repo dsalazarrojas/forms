@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Medicine Purchase Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Online Medicine Purchase Survey Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: habit_of_purchasing_medicines
+      label: Habits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: motivations_for_buying_medicine
+      label: Motivations
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: concerns_about_buying_medicine_online
+      label: Concerns
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: satisfaction_with_medicine_purchase
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: medicine_purchase_habits
+      label: How often do you buy medicine?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: age_range
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Other
+      - Prefer not to say
+      required: false
+    - id: 9
+      name: income_range
+      label: Income
+      hint: null
+      type: number
+      options: []
+      required: false

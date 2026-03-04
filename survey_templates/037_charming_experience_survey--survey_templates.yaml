@@ -1,0 +1,170 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Charming Experience Survey
+    pages:
+      - id: 1
+        name: section_respondent_info
+        label: -- Your Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Your Name
+        hint: Optional - can remain anonymous
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: respondent_email
+        label: Email Address
+        hint: For follow-up if needed
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: visit_date
+        label: Date of Visit
+        hint: When did you visit us
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: first_time_visit
+        label: Is This Your First Visit
+        hint: Have you been here before
+        type: select_one
+        options: ["Yes, First Time", "No, Regular Customer", "Returning Customer"]
+        required: true
+      - id: 6
+        name: section_experience
+        label: -- Overall Experience --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: overall_experience
+        label: Overall Experience Rating
+        hint: How was your visit
+        type: select_one
+        options: ["Excellent", "Very Good", "Good", "Average", "Poor"]
+        required: true
+      - id: 8
+        name: atmosphere
+        label: Atmosphere and Ambiance
+        hint: How charming was the setting
+        type: select_one
+        options: ["Excellent", "Very Good", "Good", "Average", "Poor"]
+        required: true
+      - id: 9
+        name: cleanliness
+        label: Cleanliness and Maintenance
+        hint: Was it clean and well-maintained
+        type: select_one
+        options: ["Excellent", "Very Good", "Good", "Average", "Poor"]
+        required: true
+      - id: 10
+        name: section_service
+        label: -- Service Quality --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: staff_friendliness
+        label: Staff Friendliness and Helpfulness
+        hint: How friendly was the staff
+        type: select_one
+        options: ["Excellent", "Very Good", "Good", "Average", "Poor"]
+        required: true
+      - id: 12
+        name: service_speed
+        label: Speed of Service
+        hint: How quickly were you served
+        type: select_one
+        options: ["Excellent", "Very Good", "Good", "Average", "Poor"]
+        required: true
+      - id: 13
+        name: staff_knowledge
+        label: Staff Knowledge and Expertise
+        hint: Were they knowledgeable
+        type: select_one
+        options: ["Excellent", "Very Good", "Good", "Average", "Poor"]
+        required: false
+      - id: 14
+        name: section_quality
+        label: -- Quality and Value --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: product_quality
+        label: Quality of Products or Services
+        hint: Rate what you purchased
+        type: select_one
+        options: ["Excellent", "Very Good", "Good", "Average", "Poor"]
+        required: true
+      - id: 16
+        name: value_for_money
+        label: Value for Money
+        hint: Was it worth the price
+        type: select_one
+        options: ["Excellent", "Very Good", "Good", "Average", "Poor"]
+        required: true
+      - id: 17
+        name: section_satisfaction
+        label: -- Satisfaction --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: likelihood_return
+        label: Likelihood to Return
+        hint: Will you visit again
+        type: select_one
+        options: ["Definitely", "Probably", "Maybe", "Unlikely"]
+        required: true
+      - id: 19
+        name: recommend_to_others
+        label: Would You Recommend Us to Others
+        hint: Will you tell your friends
+        type: select_one
+        options: ["Definitely", "Probably", "Maybe", "No"]
+        required: true
+      - id: 20
+        name: section_feedback
+        label: -- Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: what_went_well
+        label: What Went Well
+        hint: Best aspects of your experience
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: improvement_suggestions
+        label: Suggestions for Improvement
+        hint: How can we improve
+        type: text
+        options: []
+        required: false

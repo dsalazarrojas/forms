@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_time_simulation_feedback_form
+    pages:
+    - id: 1
+      name: form_intro
+      label: Form Intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: session_name
+      label: Session Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: scenario_rating
+      label: Scenario Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: feedback_rating
+      label: Feedback Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false

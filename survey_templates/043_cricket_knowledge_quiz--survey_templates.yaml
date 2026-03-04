@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cricket Knowledge Quiz
+    pages:
+    - id: 1
+      name: participant_details
+      label: Cricket Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: questions
+      label: Cricket Knowledge Quiz Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_score
+      label: Cricket Participant Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: participant_score_details
+      label: How many of the questions did you answer correctly? 0 or 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: school_or_club
+      label: School or Club Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: how_did_you_hear_about_us
+      label: How did you hear about us
+      hint: null
+      type: select_one
+      options:
+      - Cricket World Cup
+      - Google
+      - Social Media
+      - Word of Mouth
+      required: false
+    - id: 7
+      name: any_comments
+      label: Any comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_image
+      label: Participant Image
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: participant_audio
+      label: Participant Audio
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: participant_video
+      label: Participant Video
+      hint: null
+      type: note
+      options: []
+      required: false

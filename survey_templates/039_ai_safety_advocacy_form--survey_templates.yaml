@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: AI Safety Advocacy Form
+    pages:
+    - id: 1
+      name: personal_info_section
+      label: '--- Personal Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: We will use this for primary communication.
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: country_region
+      label: Country/Region
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: advocacy_interests_section
+      label: '--- Advocacy & Interests ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: safety_interests
+      label: Areas of AI Safety Interest
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - Technical Alignment
+      - Governance and Policy
+      - Ethics and Fairness
+      - Robustness and Interpretability
+      - Biosecurity and AI
+      - Long-term Risk Mitigation
+      required: true
+    - id: 8
+      name: expertise_level
+      label: Current level of expertise in AI Safety
+      hint: null
+      type: select_one
+      options:
+      - Beginner (Learning the basics)
+      - Intermediate (Knowledgeable in specific areas)
+      - Expert (Professional or researcher in the field)
+      required: true
+    - id: 9
+      name: professional_background
+      label: Professional background or current organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contribution_types
+      label: How would you like to contribute?
+      hint: null
+      type: select_multiple
+      options:
+      - Research & Analysis
+      - Community Organizing
+      - Policy & Advocacy
+      - Financial Contributions
+      - Event Support
+      - Content Creation/Translation
+      required: true
+    - id: 11
+      name: availability
+      label: Availability for meetings/events
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Occasionally
+      required: true
+    - id: 12
+      name: engagement_section
+      label: '--- Engagement Preferences ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: communication_channels
+      label: Preferred Communication Channels
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Slack/Discord
+      - WhatsApp/Telegram
+      - Monthly Newsletter
+      required: true
+    - id: 14
+      name: interest_reason
+      label: Why are you interested in AI safety advocacy?
+      hint: Share a brief explanation of your motivation.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: referral_source
+      label: How did you hear about us?
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Friend/Colleague
+      - Event/Conference
+      - Search Engine
+      - Online Community/Forum
+      required: false
+    - id: 16
+      name: consent_updates
+      label: I consent to receive advocacy updates and news.
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

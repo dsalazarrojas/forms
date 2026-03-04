@@ -1,0 +1,177 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Event Format Preference Survey
+    pages:
+      - id: 1
+        name: respondent_header
+        label: -- About You --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: name
+        label: Name
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: attendee_type
+        label: Type of Attendee
+        hint: null
+        type: select_one
+        options: [Professional, Student, Beauty Enthusiast, Media, Vendor, Other]
+        required: true
+      - id: 5
+        name: event_attendance_frequency
+        label: Beauty Event Attendance Frequency
+        hint: null
+        type: select_one
+        options: [Never, Rarely, Occasionally, Frequently, Very Frequently]
+        required: true
+      - id: 6
+        name: format_preferences_header
+        label: -- Event Format Preferences --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: format_type_preference
+        label: Preferred Event Format
+        hint: null
+        type: select_one
+        options: [In-Person Only, Virtual Only, Hybrid, No Preference]
+        required: true
+      - id: 8
+        name: in_person_appeal
+        label: Appeal of In-Person Events
+        hint: null
+        type: select_one
+        options: [Very Low, Low, Moderate, High, Very High]
+        required: true
+      - id: 9
+        name: virtual_appeal
+        label: Appeal of Virtual Events
+        hint: null
+        type: select_one
+        options: [Very Low, Low, Moderate, High, Very High]
+        required: true
+      - id: 10
+        name: in_person_benefits
+        label: Important In-Person Benefits
+        hint: Networking, hands-on demos, product testing, etc.
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: virtual_benefits
+        label: Important Virtual Benefits
+        hint: Convenience, accessibility, cost savings, etc.
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: event_content_header
+        label: -- Event Content Preferences --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: preferred_activities
+        label: Preferred Event Activities
+        hint: null
+        type: select_multiple
+        options: [Product Demonstrations, Workshops, Networking, Speed Dating, Panel Discussions, Hands-on Experiences, Keynote Speeches]
+        required: true
+      - id: 14
+        name: event_duration_preference
+        label: Preferred Event Duration
+        hint: null
+        type: select_one
+        options: [Half Day, Full Day, Multi-day, Flexible]
+        required: true
+      - id: 15
+        name: time_of_day
+        label: Preferred Time of Day
+        hint: null
+        type: select_one
+        options: [Morning, Afternoon, Evening, Weekend, Flexible]
+        required: true
+      - id: 16
+        name: practical_header
+        label: -- Practical Considerations --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: transportation_distance
+        label: Willing to Travel Distance for In-Person
+        hint: null
+        type: select_one
+        options: [Prefer Local, Under 50 miles, Under 100 miles, National, International]
+        required: true
+      - id: 18
+        name: accommodation_needs
+        label: Accommodation Needs for In-Person Events
+        hint: Hotel, meals, transportation, etc.
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: budget_tolerance
+        label: Budget Tolerance for Event Attendance
+        hint: null
+        type: select_one
+        options: [Free Only, Under 50 dollars, 50-100 dollars, 100-200 dollars, 200+ dollars]
+        required: true
+      - id: 20
+        name: technology_comfort
+        label: Comfort with Virtual Event Technology
+        hint: Zoom, streaming platforms, etc.
+        type: select_one
+        options: [Not Comfortable, Somewhat Comfortable, Comfortable, Very Comfortable]
+        required: true
+      - id: 21
+        name: accessibility_needs
+        label: Accessibility Needs
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: content_topics
+        label: Topics or Products of Most Interest
+        hint: Makeup, hair care, skincare, wellness, etc.
+        type: text
+        options: []
+        required: true
+      - id: 23
+        name: additional_feedback
+        label: Additional Comments or Suggestions
+        hint: null
+        type: text
+        options: []
+        required: false

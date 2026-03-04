@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: CRG Realty Buyers Information Form
+    pages:
+    - id: 1
+      name: buyer_name
+      label: Buyer Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: buyer_phone
+      label: Phone Number
+      hint: Best phone to reach you
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: buyer_email
+      label: Email Address
+      hint: For sending property information
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: co_buyer_name
+      label: Co-Buyer Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: co_buyer_phone
+      label: Co-Buyer Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: current_address
+      label: Current Street Address
+      hint: Where you live now
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: current_city_state_zip
+      label: City, State, ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: desired_location
+      label: Desired Location or Area
+      hint: Where you want to buy
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: price_range
+      label: Price Range
+      hint: Your budget for home purchase
+      type: select_one
+      options:
+      - Under 200000
+      - 200000-400000
+      - 400000-600000
+      - 600000-800000
+      - 800000-1000000
+      - Over 1000000
+      required: true
+    - id: 10
+      name: property_type
+      label: Type of Property Interested In
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Single family home
+      - Condo or townhouse
+      - Apartment
+      - Multi-family property
+      - Commercial property
+      - Land
+      - Other
+      required: true
+    - id: 11
+      name: bedrooms
+      label: Number of Bedrooms
+      hint: Preferred bedrooms
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: bathrooms
+      label: Number of Bathrooms
+      hint: Preferred bathrooms
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: square_footage
+      label: Desired Square Footage
+      hint: Approximate size preference
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: must_have_features
+      label: Must-Have Features
+      hint: Pool, garage, yard, etc.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: timeline_purchase
+      label: When Are You Planning to Purchase
+      hint: null
+      type: select_one
+      options:
+      - Immediately
+      - Within 1 month
+      - Within 3 months
+      - Within 6 months
+      - Within 1 year
+      - Looking but not urgent
+      required: true
+    - id: 16
+      name: preapproved_financing
+      label: Pre-Approved for Financing
+      hint: Do you have mortgage pre-approval
+      type: select_one
+      options:
+      - true
+      - false
+      - In process
+      required: true
+    - id: 17
+      name: realtor_representation
+      label: Currently Working with a Realtor
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: false
+    - id: 18
+      name: contact_preference
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone call
+      - Email
+      - Text message
+      - In-person meeting
+      - Either phone or email
+      required: true
+    - id: 19
+      name: additional_info
+      label: Additional Information or Preferences
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: consent_contact
+      label: I Consent to Be Contacted About Properties
+      hint: null
+      type: select_one
+      options:
+      - Yes, contact me
+      - No, do not contact
+      required: true

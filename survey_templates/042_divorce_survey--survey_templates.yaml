@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Divorce Survey
+    pages:
+    - id: 1
+      name: intro
+      label: Divorce Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Respondent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: respondent_info
+      label: Respondent Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_divorce
+      label: Date of Divorce
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_divorce
+      label: Reason for Divorce
+      hint: Please select one
+      type: select_one
+      options:
+      - Divorce
+      - Separation
+      - Annulment
+      - Judicial
+      - Judicial and Contested
+      required: false
+    - id: 6
+      name: number_of_children
+      label: Number of Children
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: spouse_name
+      label: Spouse Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: spouse_age
+      label: Spouse Age
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: spouse_income
+      label: Spouse Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: divorce_counselor
+      label: Divorce Counselor
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: other_issues
+      label: Other Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: respondent_income
+      label: Respondent Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: assets
+      label: Assets
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: liabilities
+      label: Liabilities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: assets_type
+      label: Assets Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: property_ownership
+      label: Property Ownership
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: property_description
+      label: Property Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: assets_value
+      label: Assets Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: assets_location
+      label: Assets Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: assets_type_description
+      label: Assets Type Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: assets_other
+      label: Assets Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: spouse_occupation
+      label: Spouse Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: divorce_status
+      label: Divorce Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 25
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false

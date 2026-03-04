@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Building Activity Proposal Request Form
+    pages:
+    - id: 1
+      name: team_building_activity_proposal_request_form
+      label: team-building-activity-proposal-request-form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_type
+      label: event-type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: budget
+      label: budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: attendees
+      label: attendees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: details
+      label: details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_person
+      label: contact-person
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_info
+      label: contact-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: team_leader
+      label: team-leader
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: event_manager
+      label: event-manager
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: manager_approval
+      label: manager-approval
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: team_approval
+      label: team-approval
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: file_upload
+      label: file-upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: file_url
+      label: file-url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: file_type
+      label: file-type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: uploaded_files
+      label: uploaded-files
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: report
+      label: report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: attachment
+      label: attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submission_report_attachment
+      label: submission-report-attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submission_comment
+      label: submission-comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_status
+      label: submission-status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

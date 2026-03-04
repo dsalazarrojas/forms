@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Earthquake Risk Assessment Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Earthquake Risk Assessment Questionnaire
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: risk_level
+      label: risk_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 3
+      name: damage_level
+      label: damage_level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 4
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: risk_level_1
+      label: High Risk
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: risk_level_2
+      label: Medium Risk
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: risk_level_3
+      label: Low Risk
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: risk_level_4
+      label: No Risk
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: damage_description
+      label: Damage Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: damage_location
+      label: Damage Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: prophets_location
+      label: Prophets Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: prophets_damage
+      label: Prophets Damage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: earthquake_date
+      label: Earthquake Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: earthquake_time
+      label: Earthquake Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: inspection_time
+      label: Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: earthquake_duration
+      label: Earthquake Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: earthquake_magnitude
+      label: Magnitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: inspectors_name
+      label: Inspectors Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: inspectors_title
+      label: Inspectors Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: inspectors_organization
+      label: Inspectors Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: inspectors_phone
+      label: Inspectors Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: inspectors_email
+      label: Inspectors Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: safety_team_name
+      label: Prophets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: safety_team_organization
+      label: Safety Team Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: safety_team_phone
+      label: Safety Team Phone
+      hint: null
+      type: text
+      options: []
+      required: false

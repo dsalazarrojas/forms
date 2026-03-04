@@ -1,0 +1,257 @@
+inputSchema:
+  type: object
+  properties:
+    title: Caravan Booking Survey
+    pages:
+    - id: 1
+      name: respondent_information
+      label: -- RESPONDENT INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Your name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: travel_preferences
+      label: -- TRAVEL PREFERENCES --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: preferred_travel_season
+      label: Preferred travel season
+      hint: null
+      type: select_one
+      options:
+      - Spring
+      - Summer
+      - Fall
+      - Winter
+      - Year-round
+      - No Preference
+      required: true
+    - id: 7
+      name: typical_trip_duration
+      label: Typical trip duration
+      hint: null
+      type: select_one
+      options:
+      - Weekend Getaway
+      - 1 Week
+      - 2 Weeks
+      - 3 Weeks
+      - 1 Month
+      - Longer Than 1 Month
+      - Varies
+      required: true
+    - id: 8
+      name: how_often_caravan_travel
+      label: How often do you travel by caravan?
+      hint: null
+      type: select_one
+      options:
+      - First Time
+      - Rarely
+      - Several Times a Year
+      - Regularly
+      - Very Frequently
+      required: true
+    - id: 9
+      name: caravan_experience
+      label: Your caravan experience level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Some Experience
+      - Very Experienced
+      - Expert Driver
+      required: false
+    - id: 10
+      name: travel_companion_count
+      label: Number of travelers typically
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: children_traveling
+      label: Will children travel with you?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Sometimes
+      required: false
+    - id: 12
+      name: pet_friendly_needed
+      label: Do you need a pet-friendly caravan?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: false
+    - id: 13
+      name: caravan_preferences
+      label: -- CARAVAN PREFERENCES --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: caravan_size
+      label: Preferred caravan size
+      hint: null
+      type: select_one
+      options:
+      - Small - Up to 18ft
+      - Medium - 18-24ft
+      - Large - 24-30ft
+      - Extra Large - 30ft+
+      - No Preference
+      required: true
+    - id: 15
+      name: sleeping_capacity
+      label: Minimum sleeping capacity needed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: must_have_amenities
+      label: Must-have amenities (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Kitchen Facilities
+      - Bathroom/Shower
+      - Heating System
+      - Air Conditioning
+      - TV/Entertainment
+      - WiFi
+      - Solar Panels
+      - Backup Generator
+      required: false
+    - id: 17
+      name: budget_range
+      label: Budget per night
+      hint: null
+      type: select_one
+      options:
+      - Under 50
+      - 50-100
+      - 100-150
+      - 150-200
+      - 200-300
+      - 300+
+      - Flexible
+      required: true
+    - id: 18
+      name: destinations
+      label: -- DESTINATION PREFERENCES --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: preferred_destinations
+      label: Preferred types of destinations
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Beach
+      - Mountains
+      - National Parks
+      - Cities
+      - Rural Areas
+      - Countryside
+      - Desert
+      - Lakes
+      - Campgrounds
+      required: false
+    - id: 20
+      name: domestic_or_international
+      label: Domestic or international travel?
+      hint: null
+      type: select_one
+      options:
+      - Domestic Only
+      - International Only
+      - Both
+      - No Preference
+      required: true
+    - id: 21
+      name: distance_willing_travel
+      label: Maximum distance willing to travel
+      hint: null
+      type: select_one
+      options:
+      - Within 200 miles
+      - Within 500 miles
+      - Within 1000 miles
+      - Across Country
+      - International
+      - No Limit
+      required: false
+    - id: 22
+      name: scenic_priority
+      label: How important are scenic views?
+      hint: null
+      type: select_one
+      options:
+      - Very Important
+      - Important
+      - Somewhat Important
+      - Not Important
+      required: false
+    - id: 23
+      name: booking_information
+      label: -- BOOKING INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: advance_booking_preference
+      label: How far in advance do you typically book?
+      hint: null
+      type: select_one
+      options:
+      - Last Minute
+      - 1-2 Weeks
+      - 1-3 Months
+      - 3-6 Months
+      - 6+ Months
+      - Varies
+      required: false
+    - id: 25
+      name: additional_information
+      label: Any additional information or special requests?
+      hint: null
+      type: text
+      options: []
+      required: false

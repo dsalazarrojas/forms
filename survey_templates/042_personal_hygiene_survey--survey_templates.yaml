@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Hygiene Survey
+    pages:
+    - id: 1
+      name: personal_hygiene_practices
+      label: What are your personal hygiene practices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: handwashing_frequency
+      label: hand washing frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: toothbrushing_frequency
+      label: tooth brushing frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: mouth_washing_frequency
+      label: mouth washing frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: hair_washing_frequency
+      label: hair washing frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: body_washing_frequency
+      label: body washing frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: showering_frequency
+      label: showering frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: deodorant_use
+      label: deodorant use
+      hint: null
+      type: select_one
+      options:
+      - Deodorant User
+      - Non-User
+      - Unsure
+      required: false
+    - id: 9
+      name: soap_use
+      label: soap use
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Sometimes
+      - Never
+      - Unsure
+      required: false
+    - id: 10
+      name: hand_sanitizer_use
+      label: hand sanitizer use
+      hint: null
+      type: select_multiple
+      options:
+      - Always
+      - Sometimes
+      - Never
+      required: false
+    - id: 11
+      name: face_washing_frequency
+      label: face washing frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: armpit_washing_frequency
+      label: armpit washing frequency
+      hint: null
+      type: number
+      options: []
+      required: false

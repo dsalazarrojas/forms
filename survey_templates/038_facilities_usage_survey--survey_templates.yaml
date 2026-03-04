@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: facilities_usage_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facility_used
+      label: facility_used
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: facility_visited
+      label: facility_visited
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: time_visited
+      label: time_visited
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: satisfaction_rating
+      label: satisfaction_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

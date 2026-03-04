@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nile River Experience Survey
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: Have you been on a Nile River cruise before?
+      hint: null
+      type: select_multiple
+      options:
+      - 'No'
+      - 'Yes'
+      required: false
+    - id: 3
+      name: question_2
+      label: What type of experience did you have?
+      hint: Choose one or more
+      type: select_multiple
+      options:
+      - River cruises
+      - On land tours
+      - Other
+      required: false
+    - id: 4
+      name: question_3
+      label: How satisfied are you with your experience?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Neutral
+      - Very dissatisfied
+      required: false
+    - id: 5
+      name: question_4
+      label: What would you like to see improved?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: question_5
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: question_7
+      label: Do you recommend our Nile River cruises to others?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: question_8
+      label: How many days did you spend on the cruise?
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Course Retention Factors Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: course_factors
+      label: What Factors Influence Student Retention
+      hint: null
+      type: select_multiple
+      options:
+      - Retention and Engagement
+      - Quality of Education
+      - Student Support
+      - Other
+      required: false
+    - id: 3
+      name: student_satisfaction
+      label: How Students Feel About Their Course
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 4
+      name: course_improvement
+      label: What Would Improve the Course
+      hint: null
+      type: select_multiple
+      options:
+      - Online Resources
+      - Course Content
+      - Instructor Support
+      - Other
+      required: true
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: retention_factors
+      label: Retention Factors
+      hint: null
+      type: select_multiple
+      options:
+      - Financial Constraints
+      - Family Obligations
+      - Other
+      required: false
+    - id: 7
+      name: email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: institution
+      label: Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: course_level
+      label: Course Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: course_section
+      label: Course Section
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: year
+      label: Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: term
+      label: Term
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: survey_completed
+      label: How Was the Survey for You
+      hint: null
+      type: select_one
+      options:
+      - Very Easy
+      - Somewhat Easy
+      - Somewhat Difficult
+      - Very Difficult
+      required: true
+    - id: 19
+      name: date_completed
+      label: When Did You Complete the Survey
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: time_spent
+      label: Time Spent on the Survey
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

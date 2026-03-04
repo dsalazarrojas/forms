@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Selfie Perception Survey
+    pages:
+    - id: 1
+      name: survey_questions
+      label: Survey Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 3
+      name: selfie_frequency
+      label: Selfie Frequency
+      hint: How often do you take selfies?
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: true
+    - id: 4
+      name: selfie_reasons
+      label: Selfie Reasons
+      hint: What motivates you to take selfies?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: self_image
+      label: Self-Image
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: survey_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: selfie_habits
+      label: Selfie Habits
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: participant_location
+      label: Participant Location
+      hint: null
+      type: select_multiple
+      options:
+      - Urban
+      - Rural
+      - Town
+      - City
+      required: true
+    - id: 9
+      name: selfie_frequency_other
+      label: Other Selfie Frequency
+      hint: If other, specify other
+      type: text
+      options: []
+      required: false

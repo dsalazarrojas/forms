@@ -1,0 +1,216 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Best Subscription Service Nomination Form
+    pages:
+      - id: 1
+        name: nominator_info_header
+        label: -- Nominator Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: nominator_full_name
+        label: Your Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: nominator_email_addr
+        label: Your Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: subscription_service_details_header
+        label: -- Subscription Service Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: service_name_text
+        label: Subscription Service Name
+        hint: The official name of the service
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: service_website_url
+        label: Website or App URL
+        hint: URL for product information or access
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: subscription_category_select
+        label: Category of Subscription
+        hint: What is the primary focus of the service
+        type: select_one
+        options:
+          - Entertainment and Streaming
+          - Food and Beverage
+          - Beauty and Fashion
+          - Health and Fitness
+          - Education and Learning
+          - Software and SaaS
+          - Lifestyle and Hobbies
+          - Other
+        required: true
+      - id: 8
+        name: subscription_frequency_choice
+        label: Subscription Frequency
+        hint: How often is the service billed or delivered
+        type: select_one
+        options:
+          - Weekly
+          - Monthly
+          - Quarterly
+          - Yearly
+        required: true
+      - id: 9
+        name: price_range_select
+        label: Price Range per Cycle
+        hint: Enter in USD
+        type: select_one
+        options:
+          - Under $10
+          - $10 - $25
+          - $26 - $50
+          - $51 - $100
+          - Over $100
+        required: true
+      - id: 10
+        name: quality_assessment_header
+        label: -- Quality and Value Assessment --
+        hint: Rate from 1 (Poor) to 5 (Excellent)
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: value_for_money_rating
+        label: Value for Money
+        hint: Is the cost justified by the service
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 12
+        name: product_quality_rating
+        label: Quality of Products or Content
+        hint: null
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 13
+        name: cancellation_ease_rating
+        label: Ease of Cancellation
+        hint: How user-friendly is the unsubscribe process
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 14
+        name: customer_support_rating
+        label: Customer Support Responsiveness
+        hint: null
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 15
+        name: variety_selection_rating
+        label: Variety and Selection
+        hint: Breadth of options available
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 16
+        name: narrative_header
+        label: -- Nomination Narrative --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: best_thing_desc
+        label: What is the best thing about this subscription service
+        hint: Highlight one key strength
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: nomination_reason_text
+        label: Why are you nominating this service for an award
+        hint: Describe what makes it stand out from competitors
+        type: text
+        options: []
+        required: true
+      - id: 19
+        name: recent_experience_desc
+        label: Describe your most recent experience with this service
+        hint: Why was it positive
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: conclusion_header
+        label: -- Conclusion --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: recommendation_status
+        label: Would you recommend this subscription to others
+        hint: null
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably
+          - Unsure
+          - No
+        required: true
+      - id: 22
+        name: nomination_date_stamp
+        label: Date of Nomination
+        hint: null
+        type: date
+        options: []
+        required: true

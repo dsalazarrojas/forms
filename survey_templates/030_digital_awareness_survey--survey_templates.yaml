@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Awareness Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: Survey title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: demographic_age
+      label: age
+      hint: Age
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: demographic_gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 4
+      name: demographic_location
+      label: location
+      hint: null
+      type: select_multiple
+      options:
+      - Urban
+      - Rural
+      - Other
+      required: false
+    - id: 5
+      name: demographic_awareness_awareness
+      label: awareness
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      - Very High
+      required: false
+    - id: 6
+      name: survey_questions
+      label: What is your understanding of digital literacy?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: survey_answers
+      label: How many hours a week do you spend on digital devices?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: survey_answers
+      label: What are your thoughts about AI?
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: false
+    - id: 9
+      name: survey_answers
+      label: How often do you use digital technologies?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Occasionally
+      - Frequently
+      - Almost always
+      required: false
+    - id: 10
+      name: survey_answers
+      label: What is your favorite digital device?
+      hint: null
+      type: select_multiple
+      options:
+      - Smartphone
+      - Laptop
+      - Tablet
+      - Other
+      required: false
+    - id: 11
+      name: survey_title
+      label: Thank you for taking the survey
+      hint: null
+      type: text
+      options: []
+      required: false

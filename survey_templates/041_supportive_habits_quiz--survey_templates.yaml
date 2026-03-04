@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supportive Habits Quiz
+    pages:
+    - id: 1
+      name: supportive_habits_quiz_form
+      label: Supportive Habits Quiz
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Survey Templates
+      - Other Templates
+      - More Templates
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: A description of the form.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other_tool
+      - no_tool
+      required: false
+    - id: 6
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false

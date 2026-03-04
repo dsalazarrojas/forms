@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wildlife Art Coaching Questionnaire
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: birth_date
+      label: Birth date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: session_topic
+      label: Session topic
+      hint: null
+      type: select_multiple
+      options:
+      - Coaching
+      - Feedback
+      - Other
+      required: false
+    - id: 7
+      name: session_length
+      label: Session length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: session_date
+      label: Session date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: session_time
+      label: Session time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: student_notes
+      label: Student notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: coach_comments
+      label: Coach comments
+      hint: null
+      type: note
+      options: []
+      required: false

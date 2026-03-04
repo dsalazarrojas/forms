@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Remedy Recipe Submission
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: remedy_name
+      label: Remedy Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: remedy_ingredients
+      label: Remedy Ingredients
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: remedy_directions
+      label: Remedy Directions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: photos
+      label: Photos
+      hint: Upload a list of photos or videos, max 5MB. Max file count 1.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: photo_upload
+      label: Upload Photos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: review
+      label: Review
+      hint: null
+      type: text
+      options: []
+      required: false

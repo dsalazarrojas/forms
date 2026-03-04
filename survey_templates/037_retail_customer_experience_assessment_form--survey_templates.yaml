@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Customer Experience Assessment Form
+    pages:
+    - id: 1
+      name: retail_customer_experience
+      label: retail_customer_experience
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: store_visits
+      label: store_visits
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: customer_service
+      label: customer_service
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Very Good''}'
+      - '{''id'': 2, ''name'': ''Good''}'
+      - '{''id'': 3, ''name'': ''Average''}'
+      - '{''id'': 4, ''name'': ''Needs Improvement''}'
+      required: true
+    - id: 4
+      name: product_quality
+      label: product_quality
+      hint: null
+      type: number
+      options: []
+      required: false

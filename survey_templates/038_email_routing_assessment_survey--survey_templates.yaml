@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Email Routing Assessment Survey
+    pages:
+    - id: 1
+      name: email_routing_form
+      label: Email Routing Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email_routing_process
+      label: How often do you use email routing?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly''}'
+      - '{''id'': 4, ''label'': ''Rarely''}'
+      required: false
+    - id: 3
+      name: email_routing_process2
+      label: How satisfied are you with our current email routing process?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: email_routing_process3
+      label: What are some areas you would like to see improved in our email routing
+        process?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email_routing_process4
+      label: What is your primary role?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''IT''}'
+      - '{''id'': 2, ''label'': ''Operations''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: email_routing_process6
+      label: Are there any obstacles that are hindering your ability to use the current
+        email routing process?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Difficulty in accessing information''}'
+      - '{''id'': 2, ''label'': ''Lack of clear instructions''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: email_routing_process7
+      label: Do you have any suggestions for improving the email routing process?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email_routing_process8
+      label: Do you have a primary contact for questions or issues regarding the email
+        routing process?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 9
+      name: email_routing_process9
+      label: Can we reach you by phone or email for questions or issues?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Phone''}'
+      - '{''id'': 2, ''label'': ''Email''}'
+      - '{''id'': 3, ''label'': ''Neither''}'
+      required: true
+    - id: 10
+      name: email_routing_process10
+      label: Can you give us feedback about the current email routing process?
+      hint: null
+      type: note
+      options: []
+      required: false

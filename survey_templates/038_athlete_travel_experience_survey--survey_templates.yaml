@@ -1,0 +1,251 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Travel Experience Survey
+    pages:
+      - id: 1
+        name: trip_overview_header
+        label: -- Trip and Athlete Overview --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: athlete_name
+        label: Athlete Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: trip_destination
+        label: Destination
+        hint: City and Country
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: travel_dates
+        label: Travel Dates
+        hint: e.g. February 1-5, 2026
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: travel_purpose
+        label: Primary Purpose of Travel
+        hint: null
+        type: select_one
+        options:
+          - Competition or Tournament
+          - Training Camp
+          - Media or Sponsorship Event
+          - Team Building Retreat
+          - Other
+        required: true
+      - id: 6
+        name: transportation_header
+        label: -- Transportation Assessment --
+        hint: 1 is Poor, 5 is Excellent
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: transport_mode
+        label: Primary Mode of Transport
+        hint: null
+        type: select_one
+        options:
+          - Flight (Commercial)
+          - Flight (Charter)
+          - Team Bus or Coach
+          - Train
+          - Team Van or Private Car
+        required: true
+      - id: 8
+        name: punctuality_rating
+        label: Punctuality of Departure and Arrival
+        hint: null
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2
+          - 3
+          - 4
+          - 5 - Excellent
+        required: true
+      - id: 9
+        name: comfort_rating
+        label: Comfort Level during Travel
+        hint: Legroom, seating, etc.
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2
+          - 3
+          - 4
+          - 5 - Excellent
+        required: true
+      - id: 10
+        name: boarding_efficiency
+        label: Efficiency of Check-in and Boarding Process
+        hint: null
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2
+          - 3
+          - 4
+          - 5 - Excellent
+        required: true
+      - id: 11
+        name: accommodation_header
+        label: -- Accommodation Assessment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: hotel_name
+        label: Hotel or Accommodation Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: room_quality
+        label: Quality and Cleanliness of Room
+        hint: null
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2
+          - 3
+          - 4
+          - 5 - Excellent
+        required: true
+      - id: 14
+        name: venue_proximity
+        label: Proximity of Accommodation to the Venue
+        hint: null
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2
+          - 3
+          - 4
+          - 5 - Excellent
+        required: true
+      - id: 15
+        name: rest_quality
+        label: Quietness and Quality of Environment for Rest
+        hint: null
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2
+          - 3
+          - 4
+          - 5 - Excellent
+        required: true
+      - id: 16
+        name: nutrition_amenities_header
+        label: -- Nutrition and Amenities --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: food_quality
+        label: Quality and Variety of Food Provided
+        hint: null
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2
+          - 3
+          - 4
+          - 5 - Excellent
+        required: true
+      - id: 18
+        name: performance_nutrition_access
+        label: Availability of Performance-Specific Nutrition
+        hint: null
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2
+          - 3
+          - 4
+          - 5 - Excellent
+        required: true
+      - id: 19
+        name: facility_access
+        label: Access to Recovery or Training Facilities at Hotel
+        hint: e.g. Gym, Pool, Ice Bath
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2
+          - 3
+          - 4
+          - 5 - Excellent
+        required: true
+      - id: 20
+        name: overall_experience_header
+        label: -- Overall Experience and Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: overall_logistics_satisfaction
+        label: Overall Satisfaction with Travel Logistics
+        hint: null
+        type: select_one
+        options:
+          - 1 - Dissatisfied
+          - 2
+          - 3 - Neutral
+          - 4
+          - 5 - Very Satisfied
+        required: true
+      - id: 22
+        name: positive_feedback
+        label: What went well on this trip?
+        hint: Highlight successful aspects
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: improvement_suggestions
+        label: What could be improved for next time?
+        hint: Be specific about logistics or services
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: equipment_issues
+        label: Describe any issues with luggage or equipment transport
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: survey_date
+        label: Date of Survey Completion
+        hint: null
+        type: date
+        options: []
+        required: true

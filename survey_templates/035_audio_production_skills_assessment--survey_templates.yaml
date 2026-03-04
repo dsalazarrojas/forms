@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audio Production Skills Assessment
+    pages:
+    - id: 1
+      name: section_bio
+      label: -- Candidate Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: experience_years
+      label: Years of Professional Audio Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: primary_daw
+      label: Primary Digital Audio Workstation (DAW)
+      hint: What you use most frequently
+      type: select_one
+      options:
+      - Avid Pro Tools
+      - Apple Logic Pro
+      - Ableton Live
+      - Adobe Audition
+      - FL Studio
+      - PreSonus Studio One
+      - Other
+      required: true
+    - id: 5
+      name: secondary_daws
+      label: Secondary DAWs (Proficient in)
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Pro Tools
+      - Logic Pro
+      - Ableton Live
+      - Audition
+      - Nuendo
+      - Reaper
+      required: false
+    - id: 6
+      name: section_technical
+      label: -- Technical Proficiency --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: signal_processing_knowledge
+      label: Knowledge of Signal Processing
+      hint: e.g., Compression, EQ, Gating, Reverb
+      type: select_one
+      options:
+      - Expert - In-depth understanding
+      - Proficient - Good working knowledge
+      - Intermediate - Understand basics
+      - Beginner - Learning
+      required: true
+    - id: 8
+      name: analog_hardware_exp
+      label: Experience with Analog Hardware
+      hint: Consoles, Outboard Gear, Patchbays
+      type: select_one
+      options:
+      - Extensive Experience
+      - Some Experience
+      - Digital/In-the-box only
+      required: true
+    - id: 9
+      name: microphone_techniques
+      label: Familiarity with Microphone Techniques
+      hint: e.g., XY, Mid-Side, Decca Tree, Blumlein
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: routing_proficiency
+      label: Signal Routing and Patching
+      hint: Can you navigate a complex studio patchbay?
+      type: select_one
+      options:
+      - Yes, with ease
+      - Yes, with some guidance
+      - false
+      required: true
+    - id: 11
+      name: section_post_prod
+      label: -- Post-Production and Mixing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: mixing_experience
+      label: Mixing Specialization
+      hint: null
+      type: select_multiple
+      options:
+      - Music Mixing
+      - Podcast/Voice Mixing
+      - Sound for Film/TV
+      - Game Audio/Middleware
+      required: true
+    - id: 13
+      name: mastering_basics
+      label: Do you have experience with basic mastering?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: section_samples
+      label: -- Work Samples --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: work_samples_link
+      label: Link to Portfolio or Work Samples
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: industry_certifications
+      label: List any relevant certifications
+      hint: e.g., Pro Tools Certified User, Dante Level 2
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: applicant_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true

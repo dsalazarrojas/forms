@@ -1,0 +1,253 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Book Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Full Name
+        hint: Enter your first and last name
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: email_address
+        label: Email Address
+        hint: Your contact email
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: age_group
+        label: Age Group
+        hint: Select your age range
+        type: select_one
+        options:
+          - Under 18
+          - 18-24
+          - 25-34
+          - 35-44
+          - 45-54
+          - 55-64
+          - 65 Plus
+        required: false
+      - id: 4
+        name: reading_frequency
+        label: How Often Do You Read Books
+        hint: Your reading frequency
+        type: select_one
+        options:
+          - Daily
+          - Several times a week
+          - Once a week
+          - 2-3 times a month
+          - Once a month
+          - Rarely
+        required: true
+      - id: 5
+        name: favorite_genres
+        label: Favorite Book Genres
+        hint: Select genres you enjoy
+        type: select_multiple
+        options:
+          - Fiction
+          - Mystery
+          - Thriller
+          - Romance
+          - Science Fiction
+          - Fantasy
+          - Historical Fiction
+          - Non-Fiction
+          - Biography
+          - Self-Help
+          - Business
+          - History
+          - Science
+          - Children Books
+          - Young Adult
+        required: true
+      - id: 6
+        name: preferred_format
+        label: Preferred Reading Format
+        hint: How do you prefer to read
+        type: select_one
+        options:
+          - Physical Hardcover
+          - Physical Paperback
+          - eBook
+          - Audiobook
+          - No preference
+        required: true
+      - id: 7
+        name: books_per_year
+        label: How Many Books Do You Read Per Year
+        hint: Your approximate reading rate
+        type: select_one
+        options:
+          - 0-5 books
+          - 6-10 books
+          - 11-20 books
+          - 21-30 books
+          - Over 30 books
+        required: true
+      - id: 8
+        name: where_do_you_read
+        label: Where Do You Usually Read
+        hint: Select your reading locations
+        type: select_multiple
+        options:
+          - At Home
+          - During Commute
+          - At Work
+          - At Library
+          - At School
+          - Outdoors
+          - Before Bed
+        required: false
+      - id: 9
+        name: how_do_you_choose_books
+        label: How Do You Choose Books
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Recommendations from Friends
+          - Social Media
+          - Book Reviews
+          - Best Seller Lists
+          - Library Displays
+          - Bookstore Browsing
+          - Author Reputation
+          - Book Clubs
+        required: true
+      - id: 10
+        name: where_do_you_get_books
+        label: Where Do You Get Books
+        hint: Select your sources
+        type: select_multiple
+        options:
+          - Purchase New
+          - Purchase Used
+          - Public Library
+          - School Library
+          - Borrow from Friends
+          - Book Subscription
+          - eBook Subscription
+          - Audiobook Subscription
+        required: true
+      - id: 11
+        name: average_spending
+        label: How Much Do You Spend on Books Monthly
+        hint: Your monthly book budget
+        type: select_one
+        options:
+          - Under $20
+          - $20-$50
+          - $50-$100
+          - $100-$200
+          - Over $200
+        required: false
+      - id: 12
+        name: book_discovery
+        label: How Do You Discover New Books
+        hint: Your discovery methods
+        type: select_multiple
+        options:
+          - Social Media
+          - Book Blogs
+          - Podcasts
+          - Friend Recommendations
+          - Library
+          - Bookstore
+          - Book Clubs
+          - Online Reviews
+        required: false
+      - id: 13
+        name: reading_goals
+        label: Do You Set Reading Goals
+        hint: Your goal-setting habits
+        type: select_one
+        options:
+          - Yes every year
+          - Sometimes
+          - No never
+        required: true
+      - id: 14
+        name: book_club_membership
+        label: Are You in a Book Club
+        hint: Your book club status
+        type: select_one
+        options:
+          - Yes currently
+          - Yes in the past
+          - No but interested
+          - No not interested
+        required: false
+      - id: 15
+        name: favorite_book_of_year
+        label: Favorite Book You Read This Year
+        hint: Title and author
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: reading_challenges
+        label: What Challenges Do You Face Reading
+        hint: Select any challenges
+        type: select_multiple
+        options:
+          - Not enough time
+          - Too expensive
+          - Difficulty concentrating
+          - Limited book access
+          - Eye strain
+          - No challenges
+        required: false
+      - id: 17
+        name: library_usage
+        label: How Often Do You Use the Library
+        hint: Your library usage
+        type: select_one
+        options:
+          - Weekly
+          - Monthly
+          - Few times a year
+          - Rarely
+          - Never
+        required: false
+      - id: 18
+        name: recommend_to_others
+        label: Do You Recommend Books to Others
+        hint: How often do you recommend
+        type: select_one
+        options:
+          - Very Often
+          - Often
+          - Sometimes
+          - Rarely
+          - Never
+        required: true
+      - id: 19
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other thoughts about reading
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: survey_date
+        label: Survey Date
+        hint: Date of survey completion
+        type: date
+        options: []
+        required: true

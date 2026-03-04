@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retreat Extra Nightly Rates Survey
+    pages:
+    - id: 1
+      name: form_questions
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: extra_nights
+      label: extra nights
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: pricing
+      label: pricing
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 10}'
+      - '{''value'': 20}'
+      - '{''value'': 30}'
+      - '{''value'': 40}'
+      - '{''value'': 50}'
+      required: false
+    - id: 4
+      name: amenity_preferences
+      label: desired amenities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''submit''}'
+      - '{''value'': ''exit''}'
+      required: true
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_questions_2
+      label: what_do_you_want_to_do_tomorrow
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''work''}'
+      - '{''value'': ''relax''}'
+      - '{''value'': ''play''}'
+      required: false
+    - id: 9
+      name: form_questions_3
+      label: what_do_you_want_to_do_the_day_after
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''work''}'
+      - '{''value'': ''relax''}'
+      - '{''value'': ''play''}'
+      required: false

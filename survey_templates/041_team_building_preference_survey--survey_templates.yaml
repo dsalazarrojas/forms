@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Building Preference Survey
+    pages:
+    - id: 1
+      name: survey_preferences
+      label: Team Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: availability_date
+      label: Availability
+      hint: When would you like to participate?
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: availability_time
+      label: Availability Time
+      hint: When would you like to participate?
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: preferred_team_size
+      label: Preferred Team Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: preferred_meeting_frequency
+      label: Preferred Meeting Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: availability_email
+      label: Availability Email
+      hint: null
+      type: email
+      options: []
+      required: false

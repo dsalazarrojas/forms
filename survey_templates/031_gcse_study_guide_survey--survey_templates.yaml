@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: GCSE Study Guide Survey
+    pages:
+    - id: 1
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: grade_level
+      label: What is your Grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: subject_interest
+      label: What subject are you interested in
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: study_materials
+      label: What study materials are you using
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Any other information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: select_one_survey_materials
+      label: Which one of these study materials is most useful?
+      hint: Select one only
+      type: select_one
+      options:
+      - Textbook
+      - Online resources
+      - Video tutorials
+      - Worksheet/past papers
+      required: false
+    - id: 12
+      name: select_multiple_survey_materials
+      label: Which of these study materials are helpful for you?
+      hint: Select multiple
+      type: select_multiple
+      options:
+      - Textbook
+      - Online resources
+      - Video tutorials
+      - Worksheet/past papers
+      required: false
+    - id: 13
+      name: study_time
+      label: How much time do you spend on revision?
+      hint: In hours
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: revision_frequency
+      label: How often do you revise?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Every other day
+      - 2-3 times a week
+      - 1 time a week
+      - Less than once a week
+      required: false

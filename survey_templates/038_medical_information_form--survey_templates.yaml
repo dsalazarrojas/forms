@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Information Form
+    pages:
+    - id: 1
+      name: diabetes_survey
+      label: diabetes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: health_issues
+      label: medical_issues
+      hint: null
+      type: select_multiple
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: false
+    - id: 3
+      name: doctor_visits
+      label: doctor_visits
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: medication
+      label: medication
+      hint: null
+      type: note
+      options: []
+      required: false

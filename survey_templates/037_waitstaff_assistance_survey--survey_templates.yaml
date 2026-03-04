@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Waitstaff Assistance Survey
+    pages:
+    - id: 1
+      name: waitstaff_friendliness
+      label: How friendly are our waitstaff?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: responsiveness
+      label: How responsive are our waitstaff?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: issue_resolution
+      label: How quickly do you resolve issues?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: feedback
+      label: What issues do you have?
+      hint: Write a little bit about your experience
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Your email
+      hint: null
+      type: email
+      options: []
+      required: false

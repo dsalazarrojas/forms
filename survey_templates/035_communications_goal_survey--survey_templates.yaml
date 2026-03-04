@@ -1,0 +1,287 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Communications Goal Survey
+    pages:
+      - id: 1
+        name: survey_introduction
+        label: Survey Introduction
+        hint: Help us define and prioritize communication goals
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: participant_name
+        label: Participant Name
+        hint: Your full name - optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: participant_email
+        label: Participant Email
+        hint: Your email address
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: department
+        label: Department
+        hint: Which department do you work in
+        type: select_one
+        options:
+          - Executive
+          - Sales
+          - Marketing
+          - Communications
+          - Human Resources
+          - Operations
+          - Finance
+          - IT
+          - Customer Service
+          - Product
+          - Other
+        required: true
+      - id: 5
+        name: role_level
+        label: Role Level
+        hint: Your level in the organization
+        type: select_one
+        options:
+          - Individual Contributor
+          - Team Lead
+          - Manager
+          - Senior Manager
+          - Director
+          - VP
+          - C-Level
+        required: true
+      - id: 6
+        name: current_state_assessment
+        label: Current State Assessment
+        hint: Questions about current communication state
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: current_effectiveness
+        label: Current Effectiveness
+        hint: How effective is current organizational communication
+        type: select_one
+        options:
+          - Very Effective
+          - Effective
+          - Neutral
+          - Ineffective
+          - Very Ineffective
+        required: true
+      - id: 8
+        name: current_clarity
+        label: Current Clarity
+        hint: How clear are current communication objectives
+        type: select_one
+        options:
+          - Very Clear
+          - Clear
+          - Somewhat Clear
+          - Unclear
+          - Very Unclear
+        required: true
+      - id: 9
+        name: current_alignment
+        label: Current Alignment
+        hint: How well aligned are teams on communication goals
+        type: select_one
+        options:
+          - Very Well Aligned
+          - Well Aligned
+          - Somewhat Aligned
+          - Poorly Aligned
+          - Not Aligned
+        required: true
+      - id: 10
+        name: goal_priorities
+        label: Goal Priorities
+        hint: Questions about communication goal priorities
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: top_priority_goal
+        label: Top Priority Goal
+        hint: What should be the top communication priority
+        type: select_one
+        options:
+          - Improve Internal Communication
+          - Enhance External Messaging
+          - Increase Brand Awareness
+          - Improve Crisis Communication
+          - Strengthen Leadership Communication
+          - Boost Employee Engagement
+          - Enhance Customer Communication
+          - Digital Transformation
+        required: true
+      - id: 12
+        name: priority_goals
+        label: Priority Goals
+        hint: Select your top 3 priority goals
+        type: select_multiple
+        options:
+          - Improve Internal Communication
+          - Enhance External Messaging
+          - Increase Brand Awareness
+          - Improve Crisis Communication
+          - Strengthen Leadership Communication
+          - Boost Employee Engagement
+          - Enhance Customer Communication
+          - Digital Transformation
+          - Improve Media Relations
+          - Strengthen Community Relations
+        required: true
+      - id: 13
+        name: internal_communication_goals
+        label: Internal Communication Goals
+        hint: What internal communication improvements are needed
+        type: select_multiple
+        options:
+          - More Frequent Updates
+          - Clearer Messaging
+          - Better Channels
+          - More Transparency
+          - Two-Way Communication
+          - Leadership Visibility
+          - Team Collaboration
+          - None Needed
+        required: true
+      - id: 14
+        name: external_communication_goals
+        label: External Communication Goals
+        hint: What external communication improvements are needed
+        type: select_multiple
+        options:
+          - Brand Consistency
+          - Message Clarity
+          - Media Presence
+          - Social Media Engagement
+          - Customer Responsiveness
+          - Public Relations
+          - Community Outreach
+          - None Needed
+        required: true
+      - id: 15
+        name: timeline_expectations
+        label: Timeline Expectations
+        hint: Questions about goal timelines
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: short_term_goals
+        label: Short-Term Goals
+        hint: What should be achieved in the next 3 months
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: medium_term_goals
+        label: Medium-Term Goals
+        hint: What should be achieved in 6-12 months
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: long_term_goals
+        label: Long-Term Goals
+        hint: What should be achieved in 1-3 years
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: success_metrics
+        label: Success Metrics
+        hint: How should success be measured
+        type: select_multiple
+        options:
+          - Employee Satisfaction Scores
+          - Engagement Rates
+          - Message Reach
+          - Media Coverage
+          - Brand Sentiment
+          - Customer Satisfaction
+          - Response Times
+          - Conversion Rates
+        required: true
+      - id: 20
+        name: resource_needs
+        label: Resource Needs
+        hint: What resources are needed to achieve goals
+        type: select_multiple
+        options:
+          - Additional Staff
+          - Training Programs
+          - Technology Tools
+          - Budget Increase
+          - External Consultants
+          - Better Processes
+          - Leadership Support
+          - None
+        required: true
+      - id: 21
+        name: barriers_challenges
+        label: Barriers and Challenges
+        hint: What barriers might prevent achieving goals
+        type: select_multiple
+        options:
+          - Limited Budget
+          - Lack of Staff
+          - Poor Technology
+          - Resistance to Change
+          - Lack of Leadership Support
+          - Unclear Priorities
+          - Siloed Teams
+          - None
+        required: true
+      - id: 22
+        name: accountability
+        label: Accountability
+        hint: Who should be accountable for communication goals
+        type: select_one
+        options:
+          - Communications Team
+          - Leadership Team
+          - Department Heads
+          - All Employees
+          - External Agency
+        required: true
+      - id: 23
+        name: support_needed
+        label: Support Needed
+        hint: What support do you need to contribute
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: additional_input
+        label: Additional Input
+        hint: Any other thoughts on communication goals
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: survey_date
+        label: Survey Date
+        hint: Date you completed this survey
+        type: date
+        options: []
+        required: true

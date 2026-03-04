@@ -1,0 +1,131 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Aerospace Program Feedback Form
+    pages:
+    - id: 1
+      name: program_details_header
+      label: -- Program Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: program_name
+      label: Program / Workshop Name
+      hint: e.g., Intro to Rocketry.
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_attended
+      label: Date Attended
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: instructor_name
+      label: Instructor / Facilitator
+      hint: Optional.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: satisfaction_header
+      label: -- Satisfaction Ratings --
+      hint: Rate from 1 (Poor) to 5 (Excellent).
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: content_quality
+      label: Quality of Content
+      hint: Was the material relevant and accurate?
+      type: select_one
+      options:
+      - 1 (Poor)
+      - 2
+      - 3 (Average)
+      - 4
+      - 5 (Excellent)
+      required: true
+    - id: 7
+      name: instructor_rating
+      label: Instructor Effectiveness
+      hint: Knowledge and delivery.
+      type: select_one
+      options:
+      - 1 (Poor)
+      - 2
+      - 3 (Average)
+      - 4
+      - 5 (Excellent)
+      required: true
+    - id: 8
+      name: hands_on_activities
+      label: Hands-on Activities
+      hint: Were the practical parts useful?
+      type: select_one
+      options:
+      - 1 (Poor)
+      - 2
+      - 3 (Average)
+      - 4
+      - 5 (Excellent)
+      - N/A
+      required: true
+    - id: 9
+      name: facilities_rating
+      label: Facilities / Equipment
+      hint: Quality of the lab/classroom.
+      type: select_one
+      options:
+      - 1 (Poor)
+      - 2
+      - 3 (Average)
+      - 4
+      - 5 (Excellent)
+      required: true
+    - id: 10
+      name: qualitative_feedback_header
+      label: -- Your Thoughts --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: key_learning
+      label: Most Valuable Takeaway
+      hint: What did you learn?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: improvements
+      label: Suggestions for Improvement
+      hint: What could be better?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: recommend
+      label: Would you recommend this program?
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Maybe
+      - No
+      required: true

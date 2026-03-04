@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: research_conference_paper_quality_evaluation_form
+    pages:
+    - id: 1
+      name: paper_title
+      label: Paper Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: authors
+      label: Authors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: paper_quality
+      label: Paper Quality
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 4
+      name: relevance_to_topic
+      label: Relevance to Topic
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: clarity_of_conference
+      label: Clarity of Conference
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: overall_score
+      label: Overall Score
+      hint: null
+      type: number
+      options: []
+      required: false

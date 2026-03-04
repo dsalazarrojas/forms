@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: information_advisor_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: What is the purpose of our organization?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: interaction_type
+      label: What type of interaction were you having with the advisor?
+      hint: Please choose the most suitable option
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: satisfaction
+      label: What is your satisfaction with the service provided by the advisor?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: Can you provide any additional feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: interaction_satisfaction
+      label: How satisfied were you with the interaction?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: interaction_quality
+      label: How would you rate the quality of the interaction?
+      hint: Please rate on a scale of 1-5
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date of interaction
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time of interaction
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: advisor_name
+      label: Advisor name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: team_name
+      label: Team name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitted_at
+      label: Submitted at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: interaction_type_2
+      label: How do you rate your interaction with the advisor?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitted_by_email
+      label: Submitted by email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: interaction_quality_2
+      label: How do you rate the quality of the interaction?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: interaction_satisfaction_2
+      label: How satisfied were you with the service provided by the advisor?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: feedback_2
+      label: Can you provide any additional feedback?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: phone_number_2
+      label: Phone number of interaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: date_2
+      label: Date of interaction 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: time_2
+      label: Time of interaction 2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: advisor_name_2
+      label: Advisor name 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: team_name_2
+      label: Team name 2
+      hint: null
+      type: text
+      options: []
+      required: true

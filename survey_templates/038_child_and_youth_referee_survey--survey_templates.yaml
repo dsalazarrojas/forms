@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child And Youth Referee Survey
+    pages:
+    - id: 1
+      name: survey_intro
+      label: -- Youth Referee Survey --
+      hint: Share your refereeing experience and feedback
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: referee_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: sport
+      label: Sport you referee
+      hint: null
+      type: select_one
+      options:
+      - Soccer
+      - Basketball
+      - Baseball
+      - Volleyball
+      - Football
+      - Hockey
+      - Tennis
+      - Other
+      required: true
+    - id: 5
+      name: league_or_organization
+      label: League or organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: years_refereeing
+      label: How long have you been refereeing?
+      hint: null
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6 months to 1 year
+      - 1-2 years
+      - 2-3 years
+      - More than 3 years
+      required: true
+    - id: 7
+      name: refereeing_satisfaction
+      label: Overall satisfaction with refereeing
+      hint: Rate from 1 (Very unsatisfied) to 5 (Very satisfied)
+      type: select_one
+      options:
+      - 1 - Very unsatisfied
+      - 2 - Unsatisfied
+      - 3 - Neutral
+      - 4 - Satisfied
+      - 5 - Very satisfied
+      required: true
+    - id: 8
+      name: training_quality
+      label: Quality of referee training provided
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very good
+      - Excellent
+      required: true
+    - id: 9
+      name: support_received
+      label: Support and mentoring from experienced referees
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Minimal
+      - Adequate
+      - Good
+      - Excellent
+      required: true
+    - id: 10
+      name: rules_knowledge
+      label: Confidence in knowledge of game rules
+      hint: null
+      type: select_one
+      options:
+      - Not confident
+      - Somewhat confident
+      - Moderately confident
+      - Very confident
+      - Extremely confident
+      required: true
+    - id: 11
+      name: game_management
+      label: Ability to manage games and players
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very good
+      - Excellent
+      required: true
+    - id: 12
+      name: player_behavior
+      label: How do players treat you during games?
+      hint: null
+      type: select_one
+      options:
+      - Very disrespectful
+      - Disrespectful
+      - Neutral
+      - Respectful
+      - Very respectful
+      required: true
+    - id: 13
+      name: coach_behavior
+      label: How do coaches treat you during games?
+      hint: null
+      type: select_one
+      options:
+      - Very disrespectful
+      - Disrespectful
+      - Neutral
+      - Respectful
+      - Very respectful
+      required: true
+    - id: 14
+      name: parent_behavior
+      label: How do parents treat you during games?
+      hint: null
+      type: select_one
+      options:
+      - Very disrespectful
+      - Disrespectful
+      - Neutral
+      - Respectful
+      - Very respectful
+      required: true
+    - id: 15
+      name: biggest_challenge
+      label: Biggest challenge as a referee
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: positive_experience
+      label: Most positive aspect of refereeing
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: improvement_needed
+      label: Improvements needed for youth referees
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: continue_refereeing
+      label: Will you continue refereeing next season?
+      hint: null
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Unsure
+      - Probably no
+      - Definitely no
+      required: true
+    - id: 19
+      name: additional_feedback
+      label: Additional feedback or comments
+      hint: null
+      type: text
+      options: []
+      required: false

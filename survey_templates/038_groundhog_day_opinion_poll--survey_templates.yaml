@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: groundhog_day_opinion_poll
+    pages:
+    - id: 1
+      name: familiarity_with_groundhog_day
+      label: How well do you know Groundhog Day?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: beliefs_about_groundhog_day
+      label: What do you believe about Groundhog Day?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: interest_in_groundhog_day
+      label: How interested are you in Groundhog Day?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: favorite_groundhog_day_character
+      label: Favorite Groundhog Day character?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: favorite_groundhog_day_character_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false

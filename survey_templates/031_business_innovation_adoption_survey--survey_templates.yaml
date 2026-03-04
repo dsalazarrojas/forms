@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Innovation Adoption Survey
+    pages:
+    - id: 1
+      name: section_innovation_culture
+      label: -- Innovation Culture Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: department_team_name_innovation
+      label: Department or Team
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: innovation_awareness_rating_score
+      label: Innovation Awareness Score
+      hint: How well do you understand the company's innovation goals (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: ease_of_adopting_new_tools_rating
+      label: Ease of Adopting New Tools
+      hint: Rate the process of integrating new software or methods (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: management_support_for_ideas_score
+      label: Management Support for New Ideas
+      hint: Does your manager encourage experimentation (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: section_barriers_and_channels
+      label: -- Barriers and Channels --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: barriers_to_innovation_selection
+      label: Primary Barriers to Innovation
+      hint: Select all that apply to your current workflow
+      type: select_multiple
+      options:
+      - Lack of time
+      - Insufficient budget
+      - Resistance to change
+      - Complicated approval processes
+      - Technical limitations
+      - Unclear communication
+      required: true
+    - id: 8
+      name: most_effective_innovation_channel_choice
+      label: Most Effective Innovation Channel
+      hint: Where do the best new ideas come from
+      type: select_one
+      options:
+      - Internal Brainstorming Sessions
+      - Customer Feedback
+      - External Research / Market Trends
+      - Cross-departmental Collaborations
+      - Suggestion Boxes / Employee Submissions
+      required: true
+    - id: 9
+      name: section_training_and_suggestions
+      label: -- Training and Improvement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: training_quality_for_new_tech_rating
+      label: Training Quality for New Technology
+      hint: How effective are the current training programs
+      type: select_one
+      options:
+      - Excellent (Very comprehensive)
+      - Good (Adequate for needs)
+      - Fair (Needs more depth)
+      - Poor (Insufficient)
+      required: true
+    - id: 11
+      name: recommended_tool_for_adoption_text
+      label: Recommended Tool for Adoption
+      hint: Is there a specific tool or method you believe we should adopt
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: willingness_to_experiment_choice
+      label: Personal Willingness to Experiment
+      hint: Are you comfortable testing unproven methods
+      type: select_one
+      options:
+      - Highly Willing
+      - Somewhat Willing
+      - Neutral
+      - Hesitant
+      required: true
+    - id: 13
+      name: innovation_improvement_suggestion_text
+      label: Suggestion for Improving Innovation Culture
+      hint: One change that would make a difference
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: survey_completion_date_innovation
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: true

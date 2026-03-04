@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fashion New Collection Popularity Assessment
+    pages:
+    - id: 1
+      name: new_collection
+      label: How would you rate this new fashion collection?
+      hint: Please rate on a scale of 1-10.
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: purchase_intent
+      label: How likely are you to purchase from this collection?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: collection_interest
+      label: Which category do you find this collection interesting?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: purchase_frequency
+      label: How often do you plan to purchase from this collection?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 5
+      name: price_range
+      label: What price range are you looking for?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: brand_preference
+      label: Which brand do you prefer?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: collection_opinion
+      label: Do you have any opinions about this collection?
+      hint: Please share your thoughts.
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional comments or suggestions?
+      hint: Please provide any additional comments or suggestions.
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: demographics
+      label: Do you identify as a?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: contact_info
+      label: Would you like to be contacted?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: zip
+      label: ZIP
+      hint: null
+      type: number
+      options: []
+      required: false

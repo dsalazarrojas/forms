@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Return To Office Survey
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Accounting
+      - Engineering
+      - HR
+      - Management
+      - Marketing
+      - Operations
+      - Sales
+      required: false
+    - id: 3
+      name: office_hours
+      label: Office Hours
+      hint: null
+      type: select_multiple
+      options:
+      - 8am-5pm
+      - 9am-4pm
+      - 10am-3pm
+      - 11am-2pm
+      required: false
+    - id: 4
+      name: work_from_home_fridays
+      label: Work From Home Fridays
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: work_from_home_days
+      label: Work From Home Days
+      hint: null
+      type: select_multiple
+      options:
+      - 1 day per week
+      - 2 days per week
+      - 3 days per week
+      - 4 days per week
+      required: false
+    - id: 6
+      name: work_from_client_location
+      label: Work From Client Location
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: work_location
+      label: Work Location
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Office
+      - Remote
+      required: false
+    - id: 8
+      name: manager_conversation
+      label: Manager Conversation
+      hint: null
+      type: select_multiple
+      options:
+      - Informal
+      - Formal
+      - Casual
+      - None
+      required: false
+    - id: 9
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

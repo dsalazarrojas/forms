@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: RPA Implementation Feedback Form
+    pages:
+    - id: 1
+      name: rpa_implementation_feedback_form
+      label: rpa_implementation_feedback
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Very Satisfied''}'
+      - '{''id'': 2, ''name'': ''Somewhat Satisfied''}'
+      - '{''id'': 3, ''name'': ''Somewhat Dissatisfied''}'
+      - '{''id'': 4, ''name'': ''Very Dissatisfied''}'
+      required: true
+    - id: 2
+      name: rpa_implementation_feedback_form_rating
+      label: What was the overall experience of the RPA implementation
+      hint: On a scale from 1 to 10
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: rpa_implementation_automated_tasks
+      label: What percentage of tasks were automated during this implementation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: rpa_implementation_satisfaction
+      label: What is your current level of satisfaction with the RPA implementation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Very Satisfied''}'
+      - '{''id'': 2, ''name'': ''Somewhat Satisfied''}'
+      - '{''id'': 3, ''name'': ''Somewhat Dissatisfied''}'
+      - '{''id'': 4, ''name'': ''Very Dissatisfied''}'
+      required: true
+    - id: 5
+      name: rpa_implementation_improvement_area
+      label: What area would you like to see improvement in the RPA implementation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Task Management''}'
+      - '{''id'': 2, ''name'': ''Process Efficiency''}'
+      - '{''id'': 3, ''name'': ''Communication''}'
+      - '{''id'': 4, ''name'': ''Training''}'
+      - '{''id'': 5, ''name'': ''Other (please specify)''}'
+      required: true
+    - id: 6
+      name: rpa_implementation_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: rpa_implementation_feedback_form_email
+      label: feedback email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: rpa_implementation_feedback_form_phone
+      label: feedback phone
+      hint: null
+      type: text
+      options: []
+      required: false

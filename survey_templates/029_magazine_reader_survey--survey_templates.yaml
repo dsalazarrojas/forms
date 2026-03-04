@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: magazine_reader_survey
+    pages:
+    - id: 1
+      name: first_page
+      label: Welcome
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question1
+      label: What
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question2
+      label: How
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: question3
+      label: Do you
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: question4
+      label: you
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: question5
+      label: use
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: question6
+      label: online
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: question7
+      label: or
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: question8
+      label: in
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: question9
+      label: store
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rebranding Project Intake Form
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_name
+      label: Contact Name
+      hint: Enter the name of the contact person
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_email
+      label: Email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: client_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: project_description
+      label: Project Description
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: start_date
+      label: Start Date
+      hint: Enter prophets in the format YYYY-MM-DD
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: project_lead
+      label: Project Lead
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: project_notes
+      label: Project Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: client_notes
+      label: Client Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: file_uploads
+      label: File Uploads
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: files
+      label: Files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: project_tags
+      label: Project Tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: project_tags_2
+      label: Tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: tags
+      label: Tag
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: tag_name
+      label: Tag Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: tag_description
+      label: Tag Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: tag_status
+      label: Tag Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 23
+      name: tag_status_2
+      label: Tag Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 24
+      name: tag_status_2_list
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 25
+      name: tag_status_2_list_2
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

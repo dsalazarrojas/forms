@@ -1,0 +1,281 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Investor Impact Survey
+    pages:
+    - id: 1
+      name: investor_name
+      label: Full Name
+      hint: Investor name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: organization
+      label: Organization
+      hint: Investment firm or company
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: investor_type
+      label: Investor Type
+      hint: What type of investor?
+      type: select_one
+      options:
+      - Individual
+      - Institutional
+      - Family Office
+      - Foundation
+      - Pension Fund
+      - Endowment
+      - Other
+      required: true
+    - id: 6
+      name: investment_year
+      label: Investment Year
+      hint: Which year is this for?
+      type: select_one
+      options:
+      - 2026
+      - 2025
+      - 2024
+      - 2023
+      required: true
+    - id: 7
+      name: investment_category
+      label: Investment Category
+      hint: What did you invest in?
+      type: select_one
+      options:
+      - Equities
+      - Fixed Income
+      - Real Estate
+      - Private Equity
+      - Venture Capital
+      - Hedge Funds
+      - Impact Investing
+      - Other
+      required: true
+    - id: 8
+      name: investment_amount_range
+      label: Investment Amount Range
+      hint: Approximate amount invested
+      type: select_one
+      options:
+      - Under $10,000
+      - $10,000-$50,000
+      - $50,001-$100,000
+      - $100,001-$500,000
+      - $500,001-$1,000,000
+      - Over $1,000,000
+      required: true
+    - id: 9
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: How satisfied are you?
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 10
+      name: return_performance
+      label: Return Performance
+      hint: Rate the returns
+      type: select_one
+      options:
+      - Exceeded Expectations
+      - Met Expectations
+      - Below Expectations
+      - Significantly Below
+      required: true
+    - id: 11
+      name: communication_quality
+      label: Communication Quality
+      hint: Rate our communication
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 12
+      name: reporting_frequency
+      label: Reporting Frequency
+      hint: Is current frequency adequate?
+      type: select_one
+      options:
+      - Too Frequent
+      - Just Right
+      - Not Frequent Enough
+      required: true
+    - id: 13
+      name: reporting_clarity
+      label: Reporting Clarity
+      hint: How clear are our reports?
+      type: select_one
+      options:
+      - Very Clear
+      - Clear
+      - Somewhat Clear
+      - Unclear
+      - Very Unclear
+      required: true
+    - id: 14
+      name: impact_measurement
+      label: Impact Measurement
+      hint: How well do we measure impact?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 15
+      name: esg_factors
+      label: ESG Factors Considered
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Environmental Impact
+      - Social Responsibility
+      - Governance Practices
+      - Carbon Footprint
+      - Diversity and Inclusion
+      - Community Impact
+      - Not Applicable
+      required: false
+    - id: 16
+      name: alignment_with_values
+      label: Alignment with Values
+      hint: Do investments align with your values?
+      type: select_one
+      options:
+      - Very Well
+      - Well
+      - Somewhat
+      - Not Well
+      - Not At All
+      required: true
+    - id: 17
+      name: risk_management
+      label: Risk Management
+      hint: Rate our risk management
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 18
+      name: transparency_rating
+      label: Transparency Rating
+      hint: Rate our transparency
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 19
+      name: team_responsiveness
+      label: Team Responsiveness
+      hint: Rate our responsiveness
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 20
+      name: likelihood_to_invest_more
+      label: Likelihood to Invest More
+      hint: Will you increase investment?
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 21
+      name: likelihood_to_recommend
+      label: Likelihood to Recommend
+      hint: Would you recommend us?
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 22
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we contact you?
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Video Call
+      - In Person
+      - Mail
+      required: false
+    - id: 23
+      name: additional_services_interest
+      label: Additional Services Interest
+      hint: What services interest you?
+      type: select_multiple
+      options:
+      - Financial Planning
+      - Tax Optimization
+      - Estate Planning
+      - Impact Reporting
+      - Educational Webinars
+      - Networking Events
+      - None
+      required: false
+    - id: 24
+      name: improvements_suggested
+      label: Improvements Suggested
+      hint: What could we improve?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

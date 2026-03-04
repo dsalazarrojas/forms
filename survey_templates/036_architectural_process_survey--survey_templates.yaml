@@ -1,0 +1,198 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Architectural Process Survey
+    pages:
+    - id: 1
+      name: section_respondent_info
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Your Name
+      hint: Optional for follow-up
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: respondent_role
+      label: Your Role in the Project
+      hint: null
+      type: select_one
+      options:
+      - Project owner or client
+      - Architect
+      - Project manager
+      - Contractor
+      - Consultant
+      - Other stakeholder
+      required: true
+    - id: 4
+      name: project_name
+      label: Project Name
+      hint: Name of the architectural project
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_planning_stage
+      label: -- Planning Stage --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: planning_satisfaction
+      label: Satisfaction with planning stage
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 7
+      name: planning_clarity
+      label: Clarity of project goals during planning
+      hint: null
+      type: select_one
+      options:
+      - Not clear at all
+      - Somewhat unclear
+      - Neutral
+      - Mostly clear
+      - Very clear
+      required: true
+    - id: 8
+      name: section_design_stage
+      label: -- Design Stage --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: design_satisfaction
+      label: Satisfaction with design process
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 10
+      name: design_communication
+      label: Quality of communication during design
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 11
+      name: design_revisions
+      label: Were revisions handled well?
+      hint: null
+      type: select_one
+      options:
+      - Not well
+      - Somewhat
+      - Neutral
+      - Mostly well
+      - Very well
+      required: false
+    - id: 12
+      name: section_implementation
+      label: -- Implementation Stage --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: implementation_satisfaction
+      label: Satisfaction with implementation
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 14
+      name: timeline_adherence
+      label: Project timeline adherence
+      hint: null
+      type: select_one
+      options:
+      - Significantly behind
+      - Behind schedule
+      - On schedule
+      - Ahead of schedule
+      required: true
+    - id: 15
+      name: budget_adherence
+      label: Budget management
+      hint: null
+      type: select_one
+      options:
+      - Significantly over
+      - Over budget
+      - On budget
+      - Under budget
+      required: true
+    - id: 16
+      name: section_challenges
+      label: -- Challenges and Improvements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: main_challenges
+      label: Main challenges encountered
+      hint: What problems did you face?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: improvement_areas
+      label: Areas for improvement
+      hint: What could be better?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: would_recommend
+      label: Would you recommend this process to others?
+      hint: null
+      type: select_one
+      options:
+      - Definitely not
+      - Probably not
+      - Maybe
+      - Probably yes
+      - Definitely yes
+      required: true

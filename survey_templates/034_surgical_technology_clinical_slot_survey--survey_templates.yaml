@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Surgical Technology Clinical Slot Survey
+    pages:
+    - id: 1
+      name: student_preferences
+      label: Student Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: clinical_rotations
+      label: Clinical Rotations
+      hint: null
+      type: select_one
+      options:
+      - 'Cardiothoracic Surgery: Cardiac & General Thoracic Surgery'
+      - 'ENT Surgery: Ear, Nose & Throat'
+      - 'General Surgery: General Surgery'
+      - 'Neuroscience: Neurosurgery'
+      - 'Orthopedic Surgery: Orthopedic Surgery'
+      - 'Plastics and Reconstructive Surgery: Plastics & Reconstructive Surgery'
+      - 'Surgical Oncology: Surgical Oncology'
+      required: false
+    - id: 3
+      name: availability
+      label: Availability
+      hint: "Please select dates of availability in 24-hour time format (e.g., 08:00)"
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: clinical_slot_preferences
+      label: Clinical Slot Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: rotation_length
+      label: Rotation Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: clinical_slot_length
+      label: Clinical Slot Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: rotation_start_date
+      label: Rotation Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: rotation_end_date
+      label: Rotation End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: clinical_slot_start_time
+      label: Clinical Slot Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: clinical_slot_end_time
+      label: Clinical Slot End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: student_notes
+      label: Student Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: program_name
+      label: Program Name
+      hint: Please select the name of the program
+      type: select_one
+      options:
+      - Name1
+      - Name2
+      - Name3
+      required: false

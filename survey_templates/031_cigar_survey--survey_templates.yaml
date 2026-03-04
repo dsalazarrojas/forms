@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cigar Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Your Name
+      hint: Optional - can remain anonymous
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For survey results
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: age
+      label: Your Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: smoking_experience
+      label: How Long Have You Been Smoking Cigars
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - More than 10 years
+      required: true
+    - id: 5
+      name: smoking_frequency
+      label: How Often Do You Smoke Cigars
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several times per week
+      - Weekly
+      - Monthly
+      - Special occasions only
+      required: true
+    - id: 6
+      name: preferred_size
+      label: Preferred Cigar Size
+      hint: null
+      type: select_one
+      options:
+      - Robusto
+      - Corona
+      - Churchill
+      - Toro
+      - Gordo
+      - Petit Corona
+      - No preference
+      required: true
+    - id: 7
+      name: preferred_strength
+      label: Preferred Strength
+      hint: null
+      type: select_one
+      options:
+      - Mild
+      - Mild to Medium
+      - Medium
+      - Medium to Full
+      - Full
+      required: true
+    - id: 8
+      name: preferred_wrapper
+      label: Preferred Wrapper Type
+      hint: null
+      type: select_one
+      options:
+      - Connecticut
+      - Habano
+      - Maduro
+      - Corojo
+      - Cameroon
+      - No preference
+      required: true
+    - id: 9
+      name: preferred_origin
+      label: Preferred Country of Origin
+      hint: null
+      type: select_one
+      options:
+      - Cuba
+      - Dominican Republic
+      - Nicaragua
+      - Honduras
+      - Ecuador
+      - Mexico
+      - No preference
+      required: true
+    - id: 10
+      name: price_range
+      label: Typical Price Range Per Cigar
+      hint: null
+      type: select_one
+      options:
+      - Under $5
+      - $5-$10
+      - $10-$15
+      - $15-$25
+      - Over $25
+      required: true
+    - id: 11
+      name: purchase_location
+      label: Where Do You Usually Purchase Cigars
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Local cigar shop
+      - Online retailer
+      - Tobacco shop
+      - Gas station
+      - Grocery store
+      - Duty-free
+      required: true
+    - id: 12
+      name: storage_method
+      label: How Do You Store Your Cigars
+      hint: null
+      type: select_one
+      options:
+      - Humidor
+      - Travel humidor
+      - Original packaging
+      - No special storage
+      required: true
+    - id: 13
+      name: accessories
+      label: Which Accessories Do You Use
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Guillotine cutter
+      - V-cut cutter
+      - Punch cutter
+      - Soft flame lighter
+      - Torch lighter
+      - Matches
+      - Cigar stand
+      - None
+      required: true
+    - id: 14
+      name: pairing_preference
+      label: What Do You Like to Pair with Cigars
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Coffee
+      - Whiskey/Bourbon
+      - Rum
+      - Wine
+      - Beer
+      - Cognac
+      - Nothing
+      required: true
+    - id: 15
+      name: favorite_brands
+      label: What Are Your Favorite Brands
+      hint: List up to 3
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: smoking_location
+      label: Where Do You Typically Smoke
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Cigar lounge
+      - Outdoor patio
+      - Bar or restaurant
+      - While traveling
+      required: true
+    - id: 17
+      name: social_aspect
+      label: Do You Enjoy Cigars Socially
+      hint: null
+      type: select_one
+      options:
+      - Always with others
+      - Mostly with others
+      - Mostly alone
+      - Always alone
+      required: true
+    - id: 18
+      name: brand_loyalty
+      label: How Loyal Are You to Specific Brands
+      hint: null
+      type: select_one
+      options:
+      - Very loyal
+      - Somewhat loyal
+      - Like to try new brands
+      - Always trying new things
+      required: true
+    - id: 19
+      name: satisfaction_level
+      label: Overall Satisfaction with Cigar Selection Available
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 20
+      name: recommendations
+      label: What Cigars Would You Recommend
+      hint: Share your favorites
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Any Additional Comments
+      hint: About cigar preferences or experiences
+      type: text
+      options: []
+      required: false

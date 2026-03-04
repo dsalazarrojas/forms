@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flight Punctuality And Delay Report Form
+    pages:
+    - id: 1
+      name: flight_punctuality_and_delay_report_form
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: flight_number
+      label: flight_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: flight_date
+      label: flight_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: flight_time
+      label: flight_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: departure_airport
+      label: departure_airport
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: arrival_airport
+      label: arrival_airport
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: flight_delayed_time
+      label: flight_delayed_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_delay
+      label: reason_for_delay
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: flight_status
+      label: flight_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: service_quality
+      label: service_quality
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submission_type
+      label: submission_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

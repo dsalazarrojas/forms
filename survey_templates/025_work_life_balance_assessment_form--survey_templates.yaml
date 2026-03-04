@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Work Life Balance Assessment Form
+    pages:
+    - id: 1
+      name: first_page
+      label: work_life_balance_questionnaire
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: work_life_balance
+      label: work_life_balance
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''High''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''Low''}'
+      required: false
+    - id: 3
+      name: work_life_balance_2
+      label: work_life_balance_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: time_spent_on_work
+      label: time_spent_on_work
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: time_spent_on_leisure
+      label: time_spent_on_leisure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: stress_level
+      label: stress_level
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''High''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''Low''}'
+      required: false
+    - id: 7
+      name: work_life_balance_3
+      label: work_life_balance_3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''High''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''Low''}'
+      required: false

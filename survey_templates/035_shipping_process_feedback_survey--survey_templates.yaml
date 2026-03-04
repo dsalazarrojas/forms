@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: shipping_process_feedback_survey
+    pages:
+    - id: 1
+      name: shipping_process
+      label: shipping_process
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: shipping_date
+      label: shipping_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: shipping_time
+      label: shipping_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: shipping_rate
+      label: shipping_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: shipping_company
+      label: shipping_company
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: shipping_service
+      label: shipping_service
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: shipping_address
+      label: shipping_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_agent
+      label: assigned_agent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: assigned_agent_comment
+      label: assigned_agent_comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: shipping_status
+      label: shipping_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

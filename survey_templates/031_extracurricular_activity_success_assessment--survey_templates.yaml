@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Extracurricular Activity Success Assessment
+    pages:
+    - id: 1
+      name: club_name
+      label: Club Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_one
+      options:
+      - Clubs
+      - Sports
+      - Enrichment
+      required: true
+    - id: 4
+      name: student_count
+      label: Student Count
+      hint: Number of students
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: participant_count
+      label: Participant Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: program_frequency
+      label: Program Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 7
+      name: participant_engagement
+      label: Participant Engagement
+      hint: Time spent engaged with program
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: program_location
+      label: Program Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: program_start_date
+      label: Program Start Date
+      hint: Date the program started
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: program_end_date
+      label: Program End Date
+      hint: Date the program ended
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: program_notes
+      label: Program Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email_addresses
+      label: Email Addresses
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone_numbers
+      label: Phone Numbers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: social_media_links
+      label: Social Media Links
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: club_coordinators
+      label: Club Coordinators
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: program_coordinators
+      label: Program Coordinators
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: program_coordinator_title
+      label: Program Coordinator Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: program_coordinator_email
+      label: Program Coordinator Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: program_coordinator_phone
+      label: Program Coordinator Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: program_coordinator_website
+      label: Program Coordinator Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: parent_permission
+      label: Parent Permission
+      hint: null
+      type: select_one
+      options:
+      - Given
+      - Not Given
+      required: false
+    - id: 23
+      name: participant_conference
+      label: Participant Conferences
+      hint: null
+      type: select_multiple
+      options:
+      - Pre-Registration
+      - Mid-Season
+      required: false
+    - id: 24
+      name: student_conference
+      label: Student Conferences
+      hint: null
+      type: select_multiple
+      options:
+      - Pre-Registration
+      - Mid-Season
+      required: false
+    - id: 25
+      name: program_evaluation
+      label: Program Evaluation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

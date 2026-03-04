@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sustainable Education Leadership Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Intro Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: education_rating
+      label: What is the level of emphasis on sustainability in education?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 3
+      name: education_rating_scale
+      label: What is your scale rating for the level of emphasis on sustainability
+        in education?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: challenges_page
+      label: What are some of the biggest sustainability challenges that you face?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: challenges
+      label: What are some of the biggest sustainability challenges that you face?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: leadership_perspectives_page
+      label: What are some of the leadership perspectives that you would like to see
+        from your institution?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: leadership_perspectives
+      label: What are some of the leadership perspectives that you would like to see
+        from your institution?
+      hint: null
+      type: select_multiple
+      options:
+      - Transparency and accountability
+      - Sustainability education and research
+      - Sustainable operations and supply chain management
+      - Sustainable leadership
+      - Other
+      required: true
+    - id: 8
+      name: leadership_perspectives_scale
+      label: What is your scale rating for the leadership perspectives that you would
+        like to see from your institution?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: follow_up_page
+      label: Follow-up Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_comments
+      label: Follow-up Comments
+      hint: null
+      type: note
+      options: []
+      required: false

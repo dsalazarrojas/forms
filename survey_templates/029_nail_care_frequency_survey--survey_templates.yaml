@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nail Care Frequency Survey
+    pages:
+    - id: 1
+      name: user_information
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: nail_care_habits
+      label: Frequent Nail Care Activities
+      hint: null
+      type: select_multiple
+      options:
+      - Get manicure
+      - File and shape nails
+      - Moisturize hands/nails
+      - Use hand sanitizer
+      - Use nail polish remover
+      required: false
+    - id: 3
+      name: nail_preferences
+      label: Nail Preferences
+      hint: null
+      type: select_one
+      options:
+      - Natural nail color
+      - Bright nail color
+      - Nail art
+      required: false
+    - id: 4
+      name: nail_products_used
+      label: Nail Products Used
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: nail_products_preferred
+      label: Preferred Nail Products
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: nail_frequency
+      label: How often do you perform the activities listed above?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 7
+      name: nail_frequency_2
+      label: How often do you perform the activities listed above? -
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: notes
+      label: Additional notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: user_agreement
+      label: User Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: submit
+      label: Submit Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: confirm
+      label: Confirm
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: confirm_yes
+      label: 'Yes'
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: confirm_no
+      label: 'No'
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

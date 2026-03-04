@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: product_testing_results_report_form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_name
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_testing_status
+      label: testing_status
+      hint: null
+      type: select_one
+      options:
+      - completed
+      - in_progress
+      - pending
+      required: false
+    - id: 4
+      name: testing_duration
+      label: testing_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: testing_notes
+      label: testing_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: testing_feedback
+      label: testing_feedback
+      hint: null
+      type: select_multiple
+      options:
+      - positive
+      - negative
+      - neutral
+      required: false
+    - id: 7
+      name: testing_outcomes
+      label: testing_outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - expected
+      - unexpected
+      - unknown
+      required: false
+    - id: 8
+      name: testing_recommendations
+      label: testing_recommendations
+      hint: null
+      type: text
+      options: []
+      required: false

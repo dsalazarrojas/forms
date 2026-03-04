@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Product Label Clarity Survey
+    pages:
+    - id: 1
+      name: intro
+      label: intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: pet_type
+      label: What type of pet do you have
+      hint: null
+      type: select_multiple
+      options:
+      - Cat
+      - Dog
+      - Other
+      required: true
+    - id: 3
+      name: label_clarity
+      label: product_label_clarity
+      hint: How clear was the product label on your pet food
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: label_effectiveness
+      label: product_label_effectiveness
+      hint: How effective were the product label instructions in guiding you
+      type: select_one
+      options:
+      - Very Clear
+      - Somewhat Clear
+      - Not Very Clear
+      required: true
+    - id: 5
+      name: satisfaction
+      label: overall_satisfaction
+      hint: How satisfied were you with the product label
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      required: true
+    - id: 6
+      name: compliance
+      label: compliance
+      hint: Did you comply with all the instructions on the product label
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: other
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false

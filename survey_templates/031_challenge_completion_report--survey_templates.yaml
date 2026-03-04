@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Challenge Completion Report
+    pages:
+    - id: 1
+      name: report_date
+      label: Report Date
+      hint: Date of completion report
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: Full name of participant
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: Email for confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: challenge_name
+      label: Challenge Name
+      hint: Name of the challenge completed
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: challenge_type
+      label: Challenge Type
+      hint: Category of challenge
+      type: select_one
+      options:
+      - Fitness challenge
+      - Weight loss challenge
+      - Reading challenge
+      - Business challenge
+      - Education challenge
+      - Wellness challenge
+      - Other
+      required: true
+    - id: 7
+      name: start_date
+      label: Challenge Start Date
+      hint: When did you start the challenge
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: completion_date
+      label: Challenge Completion Date
+      hint: When did you complete the challenge
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: challenge_duration
+      label: Challenge Duration
+      hint: How long was the challenge
+      type: select_one
+      options:
+      - 7 days
+      - 14 days
+      - 21 days
+      - 30 days
+      - 60 days
+      - 90 days
+      - Other
+      required: true
+    - id: 10
+      name: completion_status
+      label: Completion Status
+      hint: What is your completion status
+      type: select_one
+      options:
+      - Fully completed
+      - Partially completed
+      - Did not complete
+      required: true
+    - id: 11
+      name: goals_achieved
+      label: Goals Achieved
+      hint: Did you achieve your challenge goals
+      type: select_one
+      options:
+      - Exceeded all goals
+      - Met all goals
+      - Met some goals
+      - Did not meet goals
+      required: true
+    - id: 12
+      name: evidence_submitted
+      label: Evidence Submitted
+      hint: Have you submitted proof of completion
+      type: select_one
+      options:
+      - Yes - All evidence submitted
+      - Partially submitted
+      - No - Will submit later
+      required: true
+    - id: 13
+      name: evidence_type
+      label: Evidence Type
+      hint: Type of evidence submitted
+      type: select_multiple
+      options:
+      - Photos
+      - Videos
+      - Written log
+      - App screenshots
+      - Witness verification
+      - Performance metrics
+      - Other
+      required: false
+    - id: 14
+      name: final_results
+      label: Final Results
+      hint: Describe your final results
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: obstacles_faced
+      label: Obstacles Faced
+      hint: What challenges did you encounter
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: lessons_learned
+      label: Lessons Learned
+      hint: What did you learn from this challenge
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: overall_experience
+      label: Overall Experience
+      hint: Rate your overall experience
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 18
+      name: would_participate_again
+      label: Would Participate Again
+      hint: Would you join another challenge
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Not sure
+      - Probably not
+      - Definitely not
+      required: true
+    - id: 19
+      name: recommend_to_others
+      label: Recommend to Others
+      hint: Would you recommend this challenge
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Not sure
+      - Probably not
+      - Definitely not
+      required: true
+    - id: 20
+      name: favorite_aspect
+      label: Favorite Aspect
+      hint: What did you enjoy most
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: improvement_suggestions
+      label: Improvement Suggestions
+      hint: How could the challenge be improved
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: testimonial
+      label: Testimonial
+      hint: Share your experience for others
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: participant_signature
+      label: Participant Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true

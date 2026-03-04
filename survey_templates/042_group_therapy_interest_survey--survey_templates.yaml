@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Group Therapy Interest Survey
+    pages:
+    - id: 1
+      name: group_therapy_interest_survey_page
+      label: General Information
+      hint: Enter information about yourself
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: availability
+      label: Availability
+      hint: Please provide your availability for group sessions
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 4
+      name: therapy_topics
+      label: Therapy Topics
+      hint: Select the topics you are interested in discussing in group sessions
+      type: select_one
+      options:
+      - Anxiety
+      - Depression
+      - Trauma
+      - Stress
+      - Relationships
+      - Life Transitions
+      - Other
+      required: false
+    - id: 5
+      name: preferred_group_size
+      label: Preferred Group Size
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      required: false
+    - id: 6
+      name: preferred_facilitator
+      label: Preferred Facilitator
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: Any additional comments you would like to share
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email Address
+      hint: We will send you a reminder before each session
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

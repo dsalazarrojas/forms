@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inhibition Kinetics Survey
+    pages:
+    - id: 1
+      name: enzyme_name
+      label: Enzyme Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: enzyme_concentration
+      label: Enzyme Concentration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: inhibitor_concentration
+      label: Inhibitor Concentration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: reaction_time
+      label: Reaction Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: inhibitor_type
+      label: Inhibitor Type
+      hint: null
+      type: select_one
+      options:
+      - DMSO
+      - H2O
+      required: false
+    - id: 6
+      name: experimental_method
+      label: Experimental Method
+      hint: null
+      type: select_one
+      options:
+      - Standard Curve
+      - Steady State
+      required: false
+    - id: 7
+      name: experimental_setup
+      label: Experimental Setup
+      hint: null
+      type: select_one
+      options:
+      - Single Experiment
+      - Multiple Experiment
+      required: false
+    - id: 8
+      name: kinetic_data
+      label: Kinetic Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: researcher_name
+      label: Researcher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: institution
+      label: Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: research_group
+      label: Research Group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: research_topic
+      label: Research Topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: survey_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

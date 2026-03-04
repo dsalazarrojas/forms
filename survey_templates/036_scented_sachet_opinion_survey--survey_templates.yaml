@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scented Sachet Opinion Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: Scented Sachet Opinion Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: scent_preferences
+      label: What scents do you like
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      - option6
+      required: false
+    - id: 3
+      name: scent_usage
+      label: How often do you use scented products
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: satisfaction_level
+      label: How satisfied are you with scented products
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: recommendations
+      label: What do you recommend we improve on?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: follow_up
+      label: Would you like to be contacted by us?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: follow_up_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false

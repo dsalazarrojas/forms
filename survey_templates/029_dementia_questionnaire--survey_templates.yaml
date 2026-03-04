@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dementia Questionnaire
+    pages:
+    - id: 1
+      name: medical_practitioner
+      label: Medical Practitioner
+      hint: null
+      type: select_one
+      options:
+      - General Practitioner
+      - Neurologist
+      - Psychologist
+      - Other
+      required: false
+    - id: 2
+      name: cognitive_functioning
+      label: Cognitive Functioning
+      hint: null
+      type: select_multiple
+      options:
+      - Memory
+      - Language
+      - Attention
+      - Problem-solving
+      required: false
+    - id: 3
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Confusion
+      - Mood changes
+      - Agitation
+      - Sleep disturbances
+      required: false
+    - id: 4
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_multiple
+      options:
+      - HIV
+      - Cancer
+      - Stroke
+      - Traumatic Brain Injury
+      required: false
+    - id: 5
+      name: medication
+      label: Medication
+      hint: null
+      type: select_one
+      options:
+      - Aromatherapy
+      - Cognitive therapy
+      - Medication
+      - Other
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: medical_practitioner_notes
+      label: Medical Practitioner Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: patient_notes
+      label: Patient Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: date_last_seen
+      label: Date Last Seen
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time_last_seen
+      label: Time Last Seen
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: frequency_last_seen
+      label: Frequency Last Seen
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Never
+      required: false

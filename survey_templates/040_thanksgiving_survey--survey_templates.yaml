@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: thanksgiving_survey
+    pages:
+    - id: 1
+      name: intro
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question1
+      label: How did you hear about us
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Friend
+      - Other
+      required: true
+    - id: 3
+      name: answer1
+      label: Answer 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: question2
+      label: What is your favorite holiday dish?
+      hint: null
+      type: select_one
+      options:
+      - Turkey
+      - Ham
+      - Potatoes
+      - Pumpkin Pie
+      required: true
+    - id: 5
+      name: answer2
+      label: Answer 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: question3
+      label: How many guests will be at your table?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: answer3
+      label: Answer 3
+      hint: null
+      type: text
+      options: []
+      required: false

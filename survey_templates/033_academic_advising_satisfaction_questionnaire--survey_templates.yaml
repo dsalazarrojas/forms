@@ -1,0 +1,192 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: "Academic Advising Satisfaction Questionnaire"
+    pages:
+    - id: 1
+      name: section_header_student_info
+      label: "-- Student Information --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: "Student name (optional)"
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_email
+      label: "Student email"
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: academic_year
+      label: "Current academic year"
+      hint: null
+      type: select_one
+      options:
+        - "Freshman"
+        - "Sophomore"
+        - "Junior"
+        - "Senior"
+        - "Graduate"
+      required: true
+    - id: 5
+      name: major
+      label: "Major or program"
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_advising_experience
+      label: "-- Advising Experience --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: meetings_per_semester
+      label: "How many times did you meet with your advisor this semester"
+      hint: null
+      type: select_one
+      options:
+        - "0 times"
+        - "1 time"
+        - "2 to 3 times"
+        - "4 or more times"
+      required: true
+    - id: 8
+      name: ease_of_scheduling
+      label: "How easy was it to schedule an advising appointment"
+      hint: null
+      type: select_one
+      options:
+        - "Very easy"
+        - "Somewhat easy"
+        - "Neutral"
+        - "Somewhat difficult"
+        - "Very difficult"
+      required: true
+    - id: 9
+      name: advisor_availability
+      label: "My advisor was available when I needed help"
+      hint: null
+      type: select_one
+      options:
+        - "Strongly agree"
+        - "Agree"
+        - "Neutral"
+        - "Disagree"
+        - "Strongly disagree"
+      required: true
+    - id: 10
+      name: section_header_quality
+      label: "-- Quality of Advising --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: advisor_knowledge
+      label: "My advisor was knowledgeable about degree requirements and course options"
+      hint: null
+      type: select_one
+      options:
+        - "Strongly agree"
+        - "Agree"
+        - "Neutral"
+        - "Disagree"
+        - "Strongly disagree"
+      required: true
+    - id: 12
+      name: advisor_listening
+      label: "My advisor listened to my concerns and questions"
+      hint: null
+      type: select_one
+      options:
+        - "Strongly agree"
+        - "Agree"
+        - "Neutral"
+        - "Disagree"
+        - "Strongly disagree"
+      required: true
+    - id: 13
+      name: advisor_helpfulness
+      label: "The advising I received helped me make informed academic decisions"
+      hint: null
+      type: select_one
+      options:
+        - "Strongly agree"
+        - "Agree"
+        - "Neutral"
+        - "Disagree"
+        - "Strongly disagree"
+      required: true
+    - id: 14
+      name: career_guidance
+      label: "My advisor provided useful career or post-graduation guidance"
+      hint: null
+      type: select_one
+      options:
+        - "Strongly agree"
+        - "Agree"
+        - "Neutral"
+        - "Disagree"
+        - "Strongly disagree"
+        - "Not applicable"
+      required: true
+    - id: 15
+      name: overall_satisfaction
+      label: "Overall, how satisfied are you with your academic advising experience"
+      hint: null
+      type: select_one
+      options:
+        - "Very satisfied"
+        - "Satisfied"
+        - "Neutral"
+        - "Dissatisfied"
+        - "Very dissatisfied"
+      required: true
+    - id: 16
+      name: would_recommend
+      label: "Would you recommend your advisor to other students"
+      hint: null
+      type: select_one
+      options:
+        - "Definitely yes"
+        - "Probably yes"
+        - "Unsure"
+        - "Probably not"
+        - "Definitely not"
+      required: true
+    - id: 17
+      name: best_aspect
+      label: "What did you find most helpful about your advising experience"
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: improvement_suggestions
+      label: "What could be improved about the advising process"
+      hint: null
+      type: text
+      options: []
+      required: false

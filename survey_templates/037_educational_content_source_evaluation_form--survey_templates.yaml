@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Content Source Evaluation Form
+    pages:
+    - id: 1
+      name: form_1_name
+      label: Educational Content
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_1_rating
+      label: Rating
+      hint: Scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: form_1_rating_comment
+      label: Rating Comment
+      hint: Please provide a comment for your rating
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_1_recommendation
+      label: Recommendation
+      hint: null
+      type: select_one
+      options:
+      - Educational Technology
+      - Educational Resources
+      - Other
+      required: false
+    - id: 5
+      name: form_1_recommendation_why
+      label: Why
+      hint: Please explain your recommendation
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_1_learning_objectives
+      label: Learning Objectives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_1_content_type
+      label: Content Type
+      hint: null
+      type: select_multiple
+      options:
+      - Lecture
+      - Video
+      - Article
+      - Other
+      required: false
+    - id: 8
+      name: form_1_content_source
+      label: Content Source
+      hint: null
+      type: select_one
+      options:
+      - Online Course
+      - Offline Course
+      - Other
+      required: false
+    - id: 9
+      name: form_1_content_format
+      label: Content Format
+      hint: null
+      type: select_one
+      options:
+      - HTML
+      - PDF
+      - Image
+      - Video
+      required: false
+    - id: 10
+      name: form_1_content_length
+      label: Content Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: form_1_educational_level
+      label: Educational Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 12
+      name: form_1_time_spent
+      label: Time Spent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: form_1_difficulty_level
+      label: Difficulty Level
+      hint: null
+      type: select_one
+      options:
+      - Easy
+      - Medium
+      - Hard
+      required: false
+    - id: 14
+      name: form_1_satisfaction
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: form_1_recommendation_why
+      label: Why Recommended
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: form_1_content_source_why
+      label: Content Source Why
+      hint: null
+      type: select_one
+      options:
+      - Relevant
+      - Useful
+      - Interesting
+      - Not Applicable
+      required: false
+    - id: 17
+      name: form_1_educational_level_why
+      label: Educational Level Why
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: form_1_content_length_why
+      label: Content Length Why
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: form_1_learning_objectives_why
+      label: Learning Objectives Why
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: form_1_content_format_why
+      label: Content Format Why
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: form_1_difficulty_level_why
+      label: Difficulty Level Why
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_1_time_spent_why
+      label: Time Spent Why
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: form_1_satisfaction_why
+      label: Satisfaction Why
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: form_1_satisfaction_scale
+      label: Satisfaction Scale
+      hint: null
+      type: select_one
+      options:
+      - 1-3
+      - 4-5
+      required: false
+    - id: 25
+      name: form_1_recommendation_satisfied
+      label: Recommendation Satisfied
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Demographic Information & Consent Form
+    pages:
+    - id: 1
+      name: participant_background
+      label: participant_background
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Male''}'
+      - '{''label'': ''Female''}'
+      - '{''label'': ''Non-binary''}'
+      - '{''label'': ''Prefer not to answer''}'
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: participant_consent
+      label: participant_consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: country_of_birth
+      label: country_of_birth
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''United States''}'
+      - '{''label'': ''Canada''}'
+      - '{''label'': ''Mexico''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: participant_consent_date
+      label: participant_consent_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: participant_consent_given
+      label: participant_consent_given
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 10
+      name: participant_consent_reason
+      label: participant_consent_reason
+      hint: null
+      type: note
+      options: []
+      required: false

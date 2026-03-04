@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: ventilation_planning_survey
+    pages:
+    - id: 1
+      name: space_name
+      label: space name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: space_type
+      label: space_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: space_description
+      label: space description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: system_type
+      label: system type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: system_status
+      label: system status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: system_description
+      label: system description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_details
+      label: project details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_manager
+      label: project manager
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: space_location
+      label: space location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: space_size
+      label: space size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: space_height
+      label: space height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: system_capacity
+      label: system capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: air_exchange_rate
+      label: air exchange rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: air_temperature
+      label: air temperature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: humidity
+      label: humidity
+      hint: null
+      type: number
+      options: []
+      required: false

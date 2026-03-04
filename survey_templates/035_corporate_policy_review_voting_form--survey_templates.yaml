@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: corporate_policy_review_voting_form
+    pages:
+    - id: 1
+      name: policy_title
+      label: Policy Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: policy_description
+      label: Policy Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vote
+      label: Vote
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      - Abstain
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: Please provide additional feedback or comments.
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: policy_status
+      label: Policy Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Draft
+      required: false
+    - id: 9
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false

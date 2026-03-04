@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Referring Clinician Survey
+    pages:
+    - id: 1
+      name: practice_name
+      label: Practice Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person_name
+      label: Contact Person Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: practice_address
+      label: Practice Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: practice_city
+      label: Practice City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: practice_state
+      label: Practice State
+      hint: null
+      type: select_one
+      options:
+      - AL
+      - AK
+      - AZ
+      - '...'
+      required: true
+    - id: 6
+      name: practice_zip
+      label: Practice Zip
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: contact_person_phone
+      label: Contact Person Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: fax
+      label: Fax
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: medical_board_cert
+      label: Medical Board Cert
+      hint: null
+      type: select_one
+      options:
+      - M.D.
+      - D.O.
+      - D.D.S.
+      - '...'
+      required: true
+    - id: 11
+      name: medical_license_number
+      label: Medical License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: specialty
+      label: Specialty
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: practice_type
+      label: Practice Type
+      hint: null
+      type: select_one
+      options:
+      - Solo
+      - Partner
+      - '...'
+      required: true
+    - id: 14
+      name: insurance_payer
+      label: Insurance Payer
+      hint: null
+      type: select_one
+      options:
+      - Commercial
+      - '...'
+      required: true
+    - id: 15
+      name: practice_location
+      label: Practice Location
+      hint: null
+      type: select_one
+      options:
+      - Urban
+      - Rural
+      - '...'
+      required: true
+    - id: 16
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: practice_npi
+      label: Practice NPI
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: address_1_line
+      label: Address Line 1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: address_2_line
+      label: Address Line 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - AL
+      - AK
+      - AZ
+      - '...'
+      required: true
+    - id: 22
+      name: fax_national
+      label: Fax Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: email_national
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true

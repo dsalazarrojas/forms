@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Budget Allocation Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: respondent_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: respondent_department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: respondent_role
+      label: Your Role or Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: budget_year
+      label: Budget Year Being Assessed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: total_budget_priority
+      label: How should overall budget be allocated
+      hint: Priorities across all categories
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: personnel_allocation
+      label: Personnel and Salaries - Allocation Percentage
+      hint: 0-100%
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: personnel_feedback
+      label: Feedback on Personnel Budget
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: technology_allocation
+      label: Technology and Equipment - Allocation Percentage
+      hint: 0-100%
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: technology_feedback
+      label: Feedback on Technology Budget
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: operations_allocation
+      label: Operations and Facilities - Allocation Percentage
+      hint: 0-100%
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: operations_feedback
+      label: Feedback on Operations Budget
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: marketing_allocation
+      label: Marketing and Outreach - Allocation Percentage
+      hint: 0-100%
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: marketing_feedback
+      label: Feedback on Marketing Budget
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: training_allocation
+      label: Training and Development - Allocation Percentage
+      hint: 0-100%
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: training_feedback
+      label: Feedback on Training Budget
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contingency_allocation
+      label: Contingency or Reserve - Allocation Percentage
+      hint: 0-100%
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: funding_constraints
+      label: Are there funding constraints or limitations
+      hint: null
+      type: select_one
+      options:
+      - Yes, significant constraints
+      - Some constraints
+      - No major constraints
+      required: true
+    - id: 19
+      name: budget_concerns
+      label: Budget Concerns or Challenges
+      hint: What should be addressed
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_priorities
+      label: Any Additional Budget Priorities
+      hint: Areas that need more funding
+      type: text
+      options: []
+      required: false

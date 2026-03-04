@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Research Symposium Theme Poll
+    pages:
+    - id: 1
+      name: research_symposium_theme_poll_form_questions
+      label: Theme Options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: theme_1
+      label: What is your favorite theme?
+      hint: null
+      type: select_one
+      options:
+      - Theme A
+      - Theme B
+      - Theme C
+      required: true
+    - id: 3
+      name: theme_1_hint
+      label: Theme 1 Hint
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: theme_2
+      label: Theme 2
+      hint: null
+      type: select_one
+      options:
+      - Theme A
+      - Theme B
+      - Theme C
+      required: false
+    - id: 5
+      name: theme_3
+      label: Theme 3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: theme_4
+      label: Theme 4
+      hint: null
+      type: select_one
+      options:
+      - Theme A
+      - Theme B
+      - Theme C
+      required: false
+    - id: 7
+      name: theme_5
+      label: Theme 5
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: time
+      options: []
+      required: true

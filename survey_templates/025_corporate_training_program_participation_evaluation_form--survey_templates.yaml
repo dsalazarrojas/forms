@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Training Program Participation Evaluation Form
+    pages:
+    - id: 1
+      name: training_program_participation
+      label: Training Program Participation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: evaluation_time
+      label: Evaluation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: training_program_name
+      label: Training Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: training_program_rating
+      label: Training Program Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 12
+      name: training_program_rating_scale
+      label: Training Program Rating Scale
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 13
+      name: training_program_satisfaction
+      label: Training Program Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Highly Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Highly Dissatisfied
+      required: false
+    - id: 14
+      name: training_program_satisfaction_level
+      label: Training Program Satisfaction Level
+      hint: null
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Neutral
+      - Low
+      - Very Low
+      required: false
+    - id: 15
+      name: training_program_value
+      label: Training Program Value
+      hint: null
+      type: select_one
+      options:
+      - Very Valuable
+      - Valuable
+      - Neutral
+      - Somewhat Not Valuable
+      - Not Valuable
+      required: false
+    - id: 16
+      name: training_program_usefulness
+      label: Training Program Usefulness
+      hint: null
+      type: select_one
+      options:
+      - Very Useful
+      - Useful
+      - Neutral
+      - Somewhat Not Useful
+      - Not Useful
+      required: false

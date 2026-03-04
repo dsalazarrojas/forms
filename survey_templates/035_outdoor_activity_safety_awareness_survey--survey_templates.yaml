@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Outdoor Activity Safety Awareness Survey
+    pages:
+    - id: 1
+      name: outdoor_habits
+      label: Outdoor Habits
+      hint: null
+      type: select_multiple
+      options:
+      - Hiking
+      - Hiking
+      - Cycling
+      - Cycling
+      - Swimming
+      - Swimming
+      - Rock climbing
+      - Caving
+      - Rafting
+      - Horseback Riding
+      - Other
+      required: true
+    - id: 2
+      name: safety_equipment
+      label: Safety Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Helmet
+      - First Aid Kit
+      - Emergency Whistle
+      - Map and Compass
+      - First Aid Kit
+      - Other
+      required: false
+    - id: 3
+      name: training_needs
+      label: Training Needs
+      hint: null
+      type: select_multiple
+      options:
+      - Basic Wilderness First Aid
+      - Wilderness Survival
+      - Map and Compass Use
+      - Other
+      required: true
+    - id: 4
+      name: safety_programs
+      label: Safety Programs
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: education_needs
+      label: Education Needs
+      hint: null
+      type: select_one
+      options:
+      - Basic Outdoor Safety
+      - Safety and Emergency Response
+      - First Aid
+      - Other
+      required: true
+    - id: 6
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: other_needs
+      label: Other Needs
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submission_notes
+      label: Submission Notes
+      hint: null
+      type: note
+      options: []
+      required: false

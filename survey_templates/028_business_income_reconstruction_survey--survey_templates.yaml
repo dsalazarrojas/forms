@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Income Reconstruction Survey
+    pages:
+    - id: 1
+      name: section_business_identity_reconstruction
+      label: -- Business Identity --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_legal_name_reconstruction
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reconstruction_period_selection
+      label: Reconstruction Period
+      hint: Select the timeframe being analyzed
+      type: select_one
+      options:
+      - Last 6 Months
+      - Last Fiscal Year
+      - Current Year-to-Date
+      - Specific Audit Period
+      required: true
+    - id: 4
+      name: reason_for_reconstruction_selection
+      label: Reason for Reconstruction
+      hint: Why is the data being reconstructed
+      type: select_one
+      options:
+      - Loss of Records (Fire/Theft)
+      - Data Corruption / IT Failure
+      - Standard Audit Procedure
+      - Inaccurate Previous Reporting
+      required: true
+    - id: 5
+      name: section_estimated_income_data
+      label: -- Estimated Income Data --
+      hint: Based on available indirect evidence
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: estimated_monthly_sales_reconstructed
+      label: Estimated Average Monthly Sales (USD)
+      hint: Based on bank deposits or other indicators
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: cash_vs_card_revenue_ratio
+      label: Cash vs Card Revenue Ratio
+      hint: Select the approximate breakdown
+      type: select_one
+      options:
+      - Mostly Cash (Over 75%)
+      - Balanced (50/50)
+      - Mostly Card (Over 75%)
+      - Card Only (100%)
+      required: true
+    - id: 8
+      name: avg_daily_transaction_count_estimate
+      label: Average Daily Transaction Count
+      hint: Estimated number of customers per day
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: supplier_invoice_totals_period
+      label: Total Supplier Invoices for the Period (USD)
+      hint: Used for cost-of-goods-sold verification
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: inventory_valuation_method_used
+      label: Inventory Valuation Method
+      hint: null
+      type: select_one
+      options:
+      - FIFO (First-in First-out)
+      - LIFO (Last-in First-out)
+      - Weighted Average
+      - Specific Identification
+      required: true
+    - id: 11
+      name: gross_margin_percentage_estimate
+      label: Estimated Gross Margin Percentage
+      hint: null
+      type: select_one
+      options:
+      - Under 20%
+      - 20% - 40%
+      - 41% - 60%
+      - Above 60%
+      required: true
+    - id: 12
+      name: section_verification_status
+      label: -- Verification and Discrepancies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: supporting_documents_status_check
+      label: Supporting Documents Status
+      hint: Are secondary records available
+      type: select_one
+      options:
+      - All available (Bank statements/Supplier records)
+      - Partially available
+      - Minimal documentation exists
+      required: true
+    - id: 14
+      name: discrepancy_explanation_text
+      label: Explanation of Significant Discrepancies
+      hint: Please account for any major variations from expected results
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: reconstruction_preparer_signature
+      label: Signature of Preparer
+      hint: Type full name to certify the reconstruction
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: reconstruction_date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true

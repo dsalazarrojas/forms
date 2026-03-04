@@ -1,0 +1,114 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Brand Perception Analysis Customer Survey
+    pages:
+      - id: 1
+        name: demographics_header
+        label: -- Customer Demographics --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: age_group_select
+        label: Age Group
+        hint: null
+        type: select_one
+        options: [18-24, 25-34, 35-44, 45-54, 55+]
+        required: true
+      - id: 3
+        name: buy_freq
+        label: How often do you buy from us?
+        hint: null
+        type: select_one
+        options: [Weekly, Monthly, Once a Quarter, Once a Year, First Time]
+        required: true
+      - id: 4
+        name: positioning_header
+        label: -- Market Positioning --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: brand_recall
+        label: When you think of our industry, is our brand the first that comes to mind?
+        hint: null
+        type: select_one
+        options: [Yes, No]
+        required: true
+      - id: 6
+        name: competitor_name
+        label: Which other brand do you consider our main competitor?
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: perception_header
+        label: -- Perception Analysis --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: reliability_score
+        label: How reliable do you find our brand?
+        hint: null
+        type: select_one
+        options: [Very Reliable, Somewhat Reliable, Neutral, Somewhat Unreliable, Very Unreliable]
+        required: true
+      - id: 9
+        name: modern_score
+        label: Does our brand feel more traditional or more modern?
+        hint: null
+        type: select_one
+        options: [Highly Traditional, Somewhat Traditional, Balanced, Somewhat Modern, Highly Modern]
+        required: true
+      - id: 10
+        name: brand_persona
+        label: If our brand was a person, how would you describe their personality?
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: satisfaction_header
+        label: -- Experience and Satisfaction --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: nps_score
+        label: How likely are you to recommend us to a colleague?
+        hint: Scale of 0 to 10
+        type: select_one
+        options: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+        required: true
+      - id: 13
+        name: improve_idea
+        label: One thing we could change to improve your perception of us?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: survey_dt
+        label: Date of Survey
+        hint: null
+        type: date
+        options: []
+        required: true

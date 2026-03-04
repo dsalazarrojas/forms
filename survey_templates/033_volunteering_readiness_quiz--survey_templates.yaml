@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteering Readiness Quiz
+    pages:
+    - id: 1
+      name: volunteer_role
+      label: What type of volunteer role are you applying for?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: time_commitment
+      label: What is your expected time commitment per week?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: communication_style
+      label: How do you prefer to communicate?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: availability
+      label: What is your availability?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: work_style
+      label: What type of work environment do you prefer?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: skills
+      label: Please list your relevant skills
+      hint: Please be specific about your skills and experiences
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: previous_volunteering_experience
+      label: What relevant volunteering experiences do you have?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: availability_days
+      label: On average, how many days per month are you available?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: preferred_volunteer_time
+      label: On average, how many hours per week are you available for volunteering?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: volunteer_frequency
+      label: On average, how many hours per week are you available per session?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: volunteer_duration
+      label: How long would you like to volunteer for?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: volunteer_frequency_2
+      label: How often do you want to volunteer?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: volunteer_frequency_3
+      label: How long per session?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: volunteer_frequency_4
+      label: How many sessions per month?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: volunteer_frequency_5
+      label: What is your volunteer frequency?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: volunteer_frequency_6
+      label: How many months per year?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

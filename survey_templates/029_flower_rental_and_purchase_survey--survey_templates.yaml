@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: ประก prophets And Purchase survey
+    pages:
+    - id: 1
+      name: rental_and_purchase_survey
+      label: How do you usually buy flowers
+      hint: null
+      type: select_one
+      options:
+      - Rent
+      - Buy
+      - Other
+      required: false
+    - id: 2
+      name: occasion_type
+      label: What is the occasion
+      hint: null
+      type: select_multiple
+      options:
+      - Wedding
+      - Birthday
+      - Funeral
+      - Other
+      required: false
+    - id: 3
+      name: flower_type
+      label: What type of flower do you like
+      hint: null
+      type: select_one
+      options:
+      - Rose
+      - Liliu
+      - Carnation_goals
+      required: false
+    - id: 4
+      name: rented_flower_price
+      label: How much would you pay for renting
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: purchased_flower_price
+      label: How much would you pay for buying
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: rented_flower_quantity
+      label: How many flowers would you like to rent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: purchased_flower_quantity
+      label: How many flowers would you like to buy
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: rental_duration
+      label: How long would you like to rent
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: purchased_duration
+      label: How long would you like to buy
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: rental_service
+      label: Would you like any services with your rental
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Delivery
+      - Pickup
+      - In-store
+      - Other
+      required: false
+    - id: 11
+      name: purchased_service
+      label: Do you like any services with your purchase
+      hint: null
+      type: select_multiple
+      options:
+      - Delivery
+      - Pickup
+      - In-store
+      - Other
+      required: false
+    - id: 12
+      name: notes
+      label: Additional notes
+      hint: null
+      type: note
+      options: []
+      required: false

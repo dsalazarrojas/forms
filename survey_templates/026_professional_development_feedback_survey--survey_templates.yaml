@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: Professional Development Feedback Survey
+    pages:
+    - id: 1
+      name: seminar_rating
+      label: Seminars
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 2
+      name: speaker_performance
+      label: Speaker Performance
+      hint: Please rate the speaker's performance
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: seminar_content
+      label: Seminars Content
+      hint: Please rate the seminar's content
+      type: select_one
+      options:
+      - Informative
+      - Interesting
+      - Boring
+      required: false
+    - id: 4
+      name: seminar_organization
+      label: Seminars Organization
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: food_and_beverages
+      label: Food and Beverages
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false

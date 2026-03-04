@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: storm_impact_survey
+    pages:
+    - id: 1
+      name: storm_impact
+      label: storm_impact
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: infrastructure_damage
+      label: infrastructure_damage
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: home_damage
+      label: home_damage
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: storm_description
+      label: storm_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: environment_damage
+      label: environment_damage
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: storm_impact
+      label: storm_impact
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: infrastructure_damage
+      label: infrastructure_damage
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: home_damage
+      label: home_damage
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

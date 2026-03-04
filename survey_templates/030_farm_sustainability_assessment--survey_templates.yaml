@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Farm Sustainability Assessment
+    pages:
+    - id: 1
+      name: farm_sustainability_assessment
+      label: Farm Information
+      hint: null
+      type: select_one
+      options:
+      - No Information
+      - Some information
+      - Full information
+      required: false
+    - id: 2
+      name: farm_name
+      label: Farm name
+      hint: The name of your farm
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: farm_location
+      label: Farm location
+      hint: The county where your farm is located
+      type: select_multiple
+      options:
+      - Agricultural Land
+      - Forestry
+      - Urban
+      - Wildlife Preserve
+      required: false
+    - id: 4
+      name: farm_operation
+      label: Farm operation
+      hint: null
+      type: select_one
+      options:
+      - Crop
+      - Livestock
+      - Forestry
+      - Mixed (Both crop and livestock)
+      required: false
+    - id: 5
+      name: farm_type
+      label: Farm type
+      hint: What type of farm do you have? (Check all that apply)
+      type: select_multiple
+      options:
+      - Conventional
+      - Organic
+      - Biodynamic
+      - Biodynamic and organic
+      required: false
+    - id: 6
+      name: farm_size
+      label: farm_size
+      hint: Number of acres farmed
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: farm_production
+      label: Farm production
+      hint: What products do you produce? (Check all that apply)
+      type: select_multiple
+      options:
+      - Grains
+      - Dairy
+      - Poultry
+      - Nuts
+      required: false
+    - id: 8
+      name: farm_challenge
+      label: Farm challenges
+      hint: What are some of the key challenges you face in your farming operation?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: farm_goal
+      label: Farm goal
+      hint: What are your goals for the farm
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: farm_sustainability_practice
+      label: farm_sustainability_practice
+      hint: Please describe the following practices that you are using
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: farm_sustainability_level
+      label: farm_sustainability_level
+      hint: Please rate the sustainability level of the following practices that you
+        are using
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: farm_sustainability_progress
+      label: farm_sustainability_progress
+      hint: What progress have you made toward implementing these sustainable practices?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: farm_certification
+      label: farm_certification
+      hint: What certifications do you have (Check all that apply)
+      type: select_multiple
+      options:
+      - USDA Organic
+      - Non-GMO
+      - Biodynamic
+      - Certified Humane
+      required: false
+    - id: 14
+      name: farm_resources
+      label: Farm Resources
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: farm_support
+      label: Farm support
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: farm_partners
+      label: Farm partners
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: farm_partnership
+      label: Farm partnership
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: farm_financial
+      label: Farm financials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: farm_insurance
+      label: Farm insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: farm_legal
+      label: Farm legal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: farm_environment
+      label: Farm environment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: farm_health_and_safety
+      label: Farm health and safety
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: farm_energy_and_water
+      label: Farm energy and water
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: farm_waste_and_recycling
+      label: Farm waste and recycling
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: farm_safety_and_security
+      label: Farm safety and security
+      hint: null
+      type: text
+      options: []
+      required: false

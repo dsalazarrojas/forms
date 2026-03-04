@@ -1,0 +1,241 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Facilities Survey
+    pages:
+    - id: 1
+      name: school_facilities_survey
+      label: school_fundamentals
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: facilities_condition
+      label: facilities_condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: facilities_condition_facilities_type
+      label: facilities_type
+      hint: null
+      type: select_one
+      options:
+      - School Building Condition - Excellent
+      - School Building Condition - Very Good
+      - School Building Condition - Needs Improvement
+      - School Building Condition - Bad
+      required: true
+    - id: 4
+      name: facilities_condition_facilities_rating
+      label: facilities_rating
+      hint: null
+      type: select_one
+      options:
+      - 4 - Excellent
+      - 3 - Very Good
+      - 2 - Fair
+      - 1 - Poor
+      required: true
+    - id: 5
+      name: facilities_condition_facilities_equipment
+      label: facilities_equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Classrooms and Chairs
+      - Technology and Equipment
+      - Library and Resources
+      - Outdoor and Recreational Spaces
+      - Parking and Transportation
+      required: true
+    - id: 6
+      name: facilities_condition_facilities_safety
+      label: facilities_safety
+      hint: null
+      type: select_multiple
+      options:
+      - Fire Safety
+      - Access to Emergency Services
+      - Cleanliness and Hygiene
+      - Noise Levels
+      - Emergency Exits and Exit Signs
+      required: true
+    - id: 7
+      name: facilities_condition_facilities_safety_rating
+      label: facilities_safety_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: facilities_condition_facilities_accessibility
+      label: facilities_accessibility
+      hint: null
+      type: select_one
+      options:
+      - Fully Accessible
+      - Partially Accessible
+      - Not Accessible
+      required: true
+    - id: 9
+      name: facilities_condition_facilities_accessibility_rating
+      label: facilities_accessibility_rating
+      hint: null
+      type: select_one
+      options:
+      - 5 - Fully Accessible
+      - 4 - Mostly Accessible
+      - 3 - Mostly Not Accessible
+      - 2 - Not Accessible At All
+      - 1 - Very Not Accessible
+      required: true
+    - id: 10
+      name: facilities_condition_facilities_cleanliness
+      label: facilities_cleanliness
+      hint: null
+      type: select_multiple
+      options:
+      - Well Ventilated
+      - Adequate Lighting
+      - Good Temperature Control
+      - Clean and Tidy
+      - Well-Maintained
+      required: true
+    - id: 11
+      name: facilities_condition_facilities_hygiene
+      label: facilities_hygiene
+      hint: null
+      type: select_multiple
+      options:
+      - Hand Sanitization Stations
+      - Adequate Hand Wash
+      - Regular Waste Disposal
+      - Clean and Disinfect
+      - Adequate Water Supply
+      required: true
+    - id: 12
+      name: facilities_condition_facilities_health_and_safety
+      label: facilities_health_and_safety
+      hint: null
+      type: select_multiple
+      options:
+      - First Aid Kit Availability
+      - Fire Evacuation Plan
+      - Emergency Phone Availability
+      - Regular Fire Drills
+      - Emergency Contact Information
+      required: true
+    - id: 13
+      name: facilities_condition_facilities_health_and_safety_rating
+      label: facilities_health_and_safety_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: facilities_condition_facilities_health_and_safety_rating_2
+      label: facilities_health_and_safety_rating_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: facilities_condition_facilities_health_and_safety_rating_3
+      label: facilities_health_and_safety_rating_3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: facilities_condition_facilities_waste_disposal
+      label: facilities_waste_disposal
+      hint: null
+      type: select_multiple
+      options:
+      - Regular Waste Collection
+      - Adequate Waste Disposal
+      - Clean and Tidy Waste Storage
+      - Good Waste Disposal Practices
+      - No Waste Disposal
+      required: true
+    - id: 17
+      name: facilities_condition_facilities_waste_disposal_rating
+      label: facilities_waste_disposal_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: facilities_condition_facilities_waste_disposal_rating_2
+      label: facilities_waste_disposal_rating_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: facilities_condition_facilities_waste_disposal_rating_3
+      label: facilities_waste_disposal_rating_3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: facilities_condition_facilities_ventilation
+      label: facilities_ventilation
+      hint: null
+      type: select_multiple
+      options:
+      - Well Ventilated
+      - Adequate Ventilation
+      - Limited Ventilation
+      - Poor Ventilation
+      - No Ventilation
+      required: true
+    - id: 21
+      name: facilities_condition_facilities_ventilation_rating
+      label: facilities_ventilation_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: facilities_condition_facilities_ventilation_rating_2
+      label: facilities_ventilation_rating_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: facilities_condition_facilities_ventilation_rating_3
+      label: facilities_ventilation_rating_3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: facilities_condition_facilities_access_ramp_and_elevators
+      label: facilities_access_ramp_and_elevators
+      hint: null
+      type: select_multiple
+      options:
+      - Fully Accessible
+      - Partially Accessible
+      - Not Accessible
+      required: true
+    - id: 25
+      name: facilities_condition_facilities_access_ramp_and_elevators_rating
+      label: facilities_access_ramp_and_elevators_rating
+      hint: null
+      type: select_one
+      options:
+      - 5 - Fully Accessible
+      - 4 - Mostly Accessible
+      - 3 - Mostly Not Accessible
+      - 2 - Not Accessible At All
+      - 1 - Very Not Accessible
+      required: false

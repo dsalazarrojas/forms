@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Housing Survey
+    pages:
+    - id: 1
+      name: tenant_information
+      label: What Is Your Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: What Is Your Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: What Is Your Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: housing_experience
+      label: What Do You Think About Your Housing Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: suggestions
+      label: Do You Have Any Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: rating
+      label: How Do You Rate Your Experience
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 8
+      name: recommended
+      label: Would You Recommend This Housing
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false

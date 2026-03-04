@@ -1,0 +1,289 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Dynamics Self Assessment Survey
+    pages:
+    - id: 1
+      name: household_info
+      label: Household Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: relationship_status
+      label: Relationship Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Married''}'
+      - '{''label'': ''Single''}'
+      - '{''label'': ''Divorced''}'
+      - '{''label'': ''Separated''}'
+      - '{''label'': ''Widowed''}'
+      required: false
+    - id: 3
+      name: communication
+      label: Communication
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Average''}'
+      - '{''label'': ''Bad''}'
+      - '{''label'': ''Terrible''}'
+      required: false
+    - id: 4
+      name: conflict_resolution
+      label: Conflict Resolution
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Agree''}'
+      - '{''label'': ''Disagree''}'
+      required: false
+    - id: 5
+      name: roles
+      label: Roles
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Father''}'
+      - '{''label'': ''Mother''}'
+      - '{''label'': ''Grandparent''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: relationship_quality
+      label: Relationship Quality
+      hint: None
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: roles_awareness
+      label: Roles Awareness
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 8
+      name: conflict_frequency
+      label: Conflict Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Often''}'
+      - '{''label'': ''Sometimes''}'
+      - '{''label'': ''Rarely''}'
+      required: false
+    - id: 9
+      name: conflict_intensity
+      label: Conflict Intensity
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 10
+      name: conflict_resolution_effect
+      label: Conflict Resolution Effect
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Positive''}'
+      - '{''label'': ''Negative''}'
+      required: false
+    - id: 11
+      name: support_system
+      label: Support System
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Strong''}'
+      - '{''label'': ''Weak''}'
+      required: false
+    - id: 12
+      name: conflict_resolution_method
+      label: Conflict Resolution Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Discussion''}'
+      - '{''label'': ''Avoidance''}'
+      - '{''label'': ''Aggression''}'
+      required: false
+    - id: 13
+      name: family_support
+      label: Family Support
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Strong''}'
+      - '{''label'': ''Weak''}'
+      required: false
+    - id: 14
+      name: support_person
+      label: Support Person
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Father''}'
+      - '{''label'': ''Mother''}'
+      - '{''label'': ''Friend''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 15
+      name: conflict_effect_on_relationship
+      label: Conflict Effect on Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Positive''}'
+      - '{''label'': ''Negative''}'
+      required: false
+    - id: 16
+      name: family_relationship_quality
+      label: Family Relationship Quality
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Average''}'
+      - '{''label'': ''Bad''}'
+      required: false
+    - id: 17
+      name: support_method
+      label: Support Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Discussion''}'
+      - '{''label'': ''Avoidance''}'
+      - '{''label'': ''Aggression''}'
+      required: false
+    - id: 18
+      name: emotional_intelligence
+      label: Emotional Intelligence
+      hint: None
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: emotional_control
+      label: Emotional Control
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 20
+      name: conflict_control
+      label: Conflict Control
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 21
+      name: conflict_frequency_control
+      label: Conflict Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Often''}'
+      - '{''label'': ''Sometimes''}'
+      - '{''label'': ''Rarely''}'
+      required: false
+    - id: 22
+      name: support_frequency
+      label: Support Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Monthly''}'
+      required: false
+    - id: 23
+      name: conflict_resolution_control
+      label: Conflict Resolution
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 24
+      name: communication_frequency_control
+      label: Communication Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Monthly''}'
+      required: false
+    - id: 25
+      name: support_effectiveness
+      label: Support Effectiveness
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 26
+      name: emotional_control_frequency
+      label: Emotional Control Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Monthly''}'
+      required: false
+    - id: 27
+      name: conflict_control_frequency
+      label: Conflict Control
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Often''}'
+      - '{''label'': ''Sometimes''}'
+      - '{''label'': ''Rarely''}'
+      required: false
+    - id: 28
+      name: conflict_effectiveness
+      label: Conflict Effectiveness
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 29
+      name: support_control
+      label: Support Control
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 30
+      name: communication_control
+      label: Communication Control
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Low''}'
+      required: false

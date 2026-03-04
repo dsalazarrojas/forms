@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bocce Score Card
+    pages:
+    - id: 1
+      name: match_date
+      label: Match Date
+      hint: Date of the game
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: match_time
+      label: Match Time
+      hint: Start time
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: league_name
+      label: League Name
+      hint: Name of league
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: season
+      label: Season
+      hint: Current season
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: division
+      label: Division
+      hint: Division name or number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: court_number
+      label: Court Number
+      hint: Which court?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: team_1_name
+      label: Team 1 Name
+      hint: Home team
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: team_1_players
+      label: Team 1 Players
+      hint: List all players
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: team_2_name
+      label: Team 2 Name
+      hint: Away team
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: team_2_players
+      label: Team 2 Players
+      hint: List all players
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: game_type
+      label: Game Type
+      hint: Type of match
+      type: select_one
+      options:
+      - Singles
+      - Doubles
+      - Triples
+      - Quadruples
+      required: true
+    - id: 12
+      name: frame_1_winner
+      label: Frame 1 Winner
+      hint: Which team won?
+      type: select_one
+      options:
+      - Team 1
+      - Team 2
+      required: true
+    - id: 13
+      name: frame_1_score
+      label: Frame 1 Score
+      hint: Points scored
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: frame_2_winner
+      label: Frame 2 Winner
+      hint: Which team won?
+      type: select_one
+      options:
+      - Team 1
+      - Team 2
+      required: true
+    - id: 15
+      name: frame_2_score
+      label: Frame 2 Score
+      hint: Points scored
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: frame_3_winner
+      label: Frame 3 Winner
+      hint: Which team won?
+      type: select_one
+      options:
+      - Team 1
+      - Team 2
+      required: true
+    - id: 17
+      name: frame_3_score
+      label: Frame 3 Score
+      hint: Points scored
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: frame_4_winner
+      label: Frame 4 Winner
+      hint: Which team won?
+      type: select_one
+      options:
+      - Team 1
+      - Team 2
+      required: false
+    - id: 19
+      name: frame_4_score
+      label: Frame 4 Score
+      hint: Points scored
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: frame_5_winner
+      label: Frame 5 Winner
+      hint: Which team won?
+      type: select_one
+      options:
+      - Team 1
+      - Team 2
+      required: false
+    - id: 21
+      name: frame_5_score
+      label: Frame 5 Score
+      hint: Points scored
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: total_team_1
+      label: Team 1 Total Score
+      hint: Sum of all frames
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: total_team_2
+      label: Team 2 Total Score
+      hint: Sum of all frames
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: match_winner
+      label: Match Winner
+      hint: Overall winner
+      type: select_one
+      options:
+      - Team 1
+      - Team 2
+      - Tie
+      required: true
+    - id: 25
+      name: scorekeeper_name
+      label: Scorekeeper Name
+      hint: Person recording score
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: team_1_signature
+      label: Team 1 Captain Signature
+      hint: Type name as signature
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: team_2_signature
+      label: Team 2 Captain Signature
+      hint: Type name as signature
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: notes
+      label: Match Notes
+      hint: Any special circumstances
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Primary Care Speaker Presentation Survey
+    pages:
+    - id: 1
+      name: session_details
+      label: Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_rating
+      label: Session Rating
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Unsatisfactory
+      required: false
+    - id: 3
+      name: speaker_performance
+      label: Speaker Performance
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: session_topics
+      label: Session Topics
+      hint: null
+      type: select_multiple
+      options:
+      - Topic 1
+      - Topic 2
+      - Topic 3
+      required: false
+    - id: 5
+      name: speaker_experience
+      label: Speaker Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: speaker_rating
+      label: Speaker Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Unsatisfactory
+      required: false
+    - id: 7
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,291 @@
+inputSchema:
+  type: object
+  properties:
+    title: Discover Your Character Personality
+    pages:
+    - id: 1
+      name: intro_page
+      label: What's your name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: age
+      label: How old are you
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: character_name
+      label: What's your character's name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: personality_traits
+      label: Which of the following personality traits best describe you?
+      hint: null
+      type: select_multiple
+      options:
+      - Introvert
+      - Extrovert
+      - Ambitious
+      - Adventurous
+      - Outgoing
+      required: true
+    - id: 5
+      name: personality_type
+      label: What type of personality do you think you have?
+      hint: null
+      type: select_one
+      options:
+      - INTP
+      - ISTJ
+      - ISFJ
+      - INFJ
+      - ENTP
+      - ENFJ
+      - ESFP
+      - ESFJ
+      - ENFP
+      - ENF
+      - ISTP
+      - ISTE
+      - ISTJ
+      - ESTP
+      - ESTJ
+      - ESTF
+      - ENTP
+      - ENFP
+      - ENF
+      - INTP
+      - INTP
+      - INTJ
+      - INTP
+      - ISTF
+      - ISFP
+      - ESFP
+      - ESFP
+      - ESFJ
+      - ENF
+      - ESTF
+      - ESFP
+      - ESFP
+      - INTP
+      - ESTJ
+      - ENFP
+      - ESTP
+      - ESTJ
+      - ESFP
+      - ESTJ
+      required: true
+    - id: 6
+      name: preferences
+      label: What are your preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Evening
+      - Afternoon
+      - Night
+      - Weekdays
+      - Weekend
+      required: true
+    - id: 7
+      name: communication_style
+      label: What's your communication style?
+      hint: null
+      type: select_one
+      options:
+      - Verbal
+      - Non-verbal
+      - Body language
+      required: true
+    - id: 8
+      name: conflict_style
+      label: What's your conflict style?
+      hint: null
+      type: select_multiple
+      options:
+      - Competitive
+      - Collaborative
+      - Avoidant
+      - Accommodative
+      required: true
+    - id: 9
+      name: decision_making
+      label: What's your decision making style?
+      hint: null
+      type: select_one
+      options:
+      - Rational
+      - Emotional
+      - Intuitive
+      - Impulsive
+      - Spontaneous
+      required: true
+    - id: 10
+      name: work_style
+      label: What's your work style?
+      hint: null
+      type: select_multiple
+      options:
+      - Autonomy
+      - Structure
+      - Flexibility
+      - Creativity
+      - Independence
+      - Teamwork
+      required: true
+    - id: 11
+      name: values
+      label: What are your core values?
+      hint: null
+      type: select_multiple
+      options:
+      - Honesty
+      - Authenticity
+      - Empathy
+      - Fairness
+      - Justice
+      - Autonomy
+      required: true
+    - id: 12
+      name: goals
+      label: What are your short-term and long-term goals?
+      hint: null
+      type: select_multiple
+      options:
+      - Short-term
+      - Long-term
+      required: true
+    - id: 13
+      name: self_care
+      label: How important is self-care to you?
+      hint: null
+      type: select_one
+      options:
+      - Essential
+      - Important
+      - Neutral
+      - Not Important
+      - Very important
+      required: true
+    - id: 14
+      name: stress_management
+      label: How do you manage stress?
+      hint: null
+      type: select_multiple
+      options:
+      - Mindfulness
+      - Mindfulness
+      - Distraction
+      - Acceptance
+      required: false
+    - id: 15
+      name: relationships
+      label: What's your relationship status?
+      hint: null
+      type: select_multiple
+      options:
+      - Single
+      - In a relationship
+      - Married
+      - Widowed
+      - Divorced
+      required: true
+    - id: 16
+      name: education
+      label: What's your education background?
+      hint: null
+      type: select_multiple
+      options:
+      - High school
+      - College
+      - University
+      - Bachelor's
+      - Master's
+      - Ph.D.
+      required: false
+    - id: 17
+      name: work_history
+      label: What's your work history?
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Part-time
+      - Full-time
+      - Multiple
+      required: false
+    - id: 18
+      name: personality_assessment
+      label: Rate your personality assessment
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 19
+      name: personality_score
+      label: What's your personality score?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 20
+      name: personality_type_score
+      label: What's your personality type score?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 21
+      name: final_question
+      label: Do you want to get in touch with a coach or advisor?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: feedback
+      label: Do you have any feedback for the form creator?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: contact_info
+      label: What's your contact info?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Empowerment Perception Survey
+    pages:
+    - id: 1
+      name: tenant_empowerment
+      label: What does being a tenant mean to you
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: communication_satisfaction
+      label: How satisfied are you with the communication from your landlord/property
+        manager
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: empowerment_level
+      label: How does your landlord/property manager support your needs
+      hint: null
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Medium
+      - Low
+      - Very Low
+      required: false
+    - id: 4
+      name: improvement_ideas
+      label: What are some ideas for improvements you have for the property
+      hint: null
+      type: select_multiple
+      options:
+      - Landlords/Property Manager
+      - Maintenance/Repairs
+      - Communication
+      - Rent
+      - Amenities
+      required: false
+    - id: 5
+      name: rent_satisfaction
+      label: How satisfied are you with your rent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: communication_frequency
+      label: How often do you communicate with your landlord/property manager
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      - Almost always
+      required: false

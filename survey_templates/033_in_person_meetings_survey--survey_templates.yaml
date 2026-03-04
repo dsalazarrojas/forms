@@ -1,0 +1,84 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: in_person_meetings_survey
+    pages:
+    - id: 1
+      name: goals
+      label: goals
+      hint: null
+      type: select_multiple
+      options:
+      - Goal 1
+      - Goal 2
+      required: false
+    - id: 2
+      name: meeting_frequency
+      label: meeting_frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 3
+      name: meeting_length
+      label: meeting_length
+      hint: null
+      type: select_multiple
+      options:
+      - 30 minutes
+      - 60 minutes
+      - 90 minutes
+      required: false
+    - id: 4
+      name: meeting_purpose
+      label: meeting_purpose
+      hint: null
+      type: select_multiple
+      options:
+      - Informational
+      - Discussion
+      - Planning
+      required: false
+    - id: 5
+      name: feedback_frequency
+      label: feedback_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Always
+      - Often
+      - Rarely
+      required: false
+    - id: 6
+      name: feedback_value
+      label: feedback_value
+      hint: null
+      type: select_multiple
+      options:
+      - Very Positive
+      - Somewhat Positive
+      - Neutral
+      - Somewhat Negative
+      - Very Negative
+      required: false
+    - id: 7
+      name: additional_comments
+      label: additional_comments
+      hint: Any other comments about in-person meetings?
+      type: note
+      options: []
+      required: false

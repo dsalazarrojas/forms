@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Marketing Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: demographic_questions
+      label: What is your demographic information
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: age_question
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: income_range
+      label: Income
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 5
+      name: email_address
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: marketing_channels
+      label: What marketing channels do you follow
+      hint: null
+      type: select_multiple
+      options:
+      - Social media
+      - Email marketing
+      - SMS
+      - None
+      required: true
+    - id: 8
+      name: marketing_channels_2
+      label: What marketing channels do you follow 2
+      hint: null
+      type: select_multiple
+      options:
+      - Social media
+      - Email marketing
+      - SMS
+      - None
+      required: true
+    - id: 9
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: social_media_channels
+      label: social media
+      hint: null
+      type: select_multiple
+      options:
+      - Twitter
+      - Facebook
+      - Instagram
+      - Reddit
+      required: false
+    - id: 11
+      name: digital_tool_usage
+      label: What digital tools do you use
+      hint: null
+      type: select_multiple
+      options:
+      - Google AdWords
+      - Google Analytics
+      - Facebook Ads Manager
+      required: false
+    - id: 12
+      name: digital_tool_preference
+      label: preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Google Analytics
+      - Google AdWords
+      required: false
+    - id: 13
+      name: social_media_ads
+      label: social media ads
+      hint: null
+      type: select_multiple
+      options:
+      - Google AdWords
+      - Facebook Ads Manager
+      required: false
+    - id: 14
+      name: email_marketing_channel
+      label: email marketing channel
+      hint: null
+      type: select_multiple
+      options:
+      - Email marketing
+      - SMS
+      required: false
+    - id: 15
+      name: social_media_ad_channels
+      label: social media ad channels
+      hint: null
+      type: select_multiple
+      options:
+      - Twitter
+      - Facebook
+      - Instagram
+      required: false
+    - id: 16
+      name: email_marketing_strategy
+      label: email marketing strategy
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false

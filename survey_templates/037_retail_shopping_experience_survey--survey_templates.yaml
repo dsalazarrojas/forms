@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Shopping Experience Survey
+    pages:
+    - id: 1
+      name: survey_questions
+      label: How was your visit to our store?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: shopping_experience
+      label: What is your experience like in our store?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: staff_friendliness
+      label: How would you rate the friendliness of our staff?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 4
+      name: product_range
+      label: How would you rate the quality of our products?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: store_atmosphere
+      label: How would you rate the store atmosphere?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 6
+      name: product_quality
+      label: How would you rate the product quality?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 7
+      name: staff_knowledge
+      label: How would you rate the knowledge of our staff?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 8
+      name: store_location
+      label: How would you rate the location of our store?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 9
+      name: communication
+      label: How was the communication during your visit?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: product_return
+      label: How likely are you to return to our store?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: overall_experience
+      label: Overall, how would you rate your experience?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 12
+      name: product_recommendation
+      label: Would you recommend our store to a friend?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: product_purchase
+      label: How likely are you to make a purchase in our store?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: staff_helpfulness
+      label: How helpful were our staff during your visit?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: product_quality_investment
+      label: How much do you think we invest in product quality?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holistic Wellness Coaching Program Evaluation Form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: coaching_programs
+      label: coaching_programs
+      hint: null
+      type: select_multiple
+      options:
+      - options1
+      - options2
+      - options3
+      required: false
+    - id: 3
+      name: coaching_outcomes
+      label: coaching_outcomes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: client_experience
+      label: client_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: feedback
+      hint: null
+      type: select_one
+      options:
+      - options1
+      - options2
+      - options3
+      required: false
+    - id: 6
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: select_multiple
+      options:
+      - options1
+      - options2
+      - options3
+      required: false
+    - id: 7
+      name: overall_rating
+      label: overall_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: false

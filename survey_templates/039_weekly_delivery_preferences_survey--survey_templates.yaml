@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Delivery Preferences Survey
+    pages:
+    - id: 1
+      name: delivery_day
+      label: delivery_day
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: time_window
+      label: time_window
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: instruction
+      label: instruction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 5
+      name: delivery_instructions
+      label: delivery_instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: delivery_frequency
+      label: delivery_frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

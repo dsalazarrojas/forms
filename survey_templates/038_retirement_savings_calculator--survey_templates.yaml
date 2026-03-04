@@ -1,0 +1,233 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retirement Savings Calculator
+    pages:
+    - id: 1
+      name: monthly_contributions
+      label: Monthly Contributions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: monthly_rate_of_return
+      label: Monthly Rate of Return
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: target_wealth
+      label: Target Wealth
+      hint: null
+      type: select_one
+      options:
+      - Retirement
+      - Other
+      required: false
+    - id: 4
+      name: target_age
+      label: Target Age
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: inflation_rate
+      label: Inflation Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: years_to_retirement
+      label: Years to Retirement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: monthly_savings_requirement
+      label: Monthly Savings Requirement
+      hint: null
+      type: select_one
+      options:
+      - $1,000
+      - $2,000
+      - $3,000
+      - $4,000
+      - $5,000
+      - $6,000
+      - $7,000
+      - $8,000
+      - $9,000
+      - $10,000
+      required: false
+    - id: 8
+      name: inflation_adjusted_monthly_savings_requirement
+      label: Inflation Adjusted Monthly Savings Requirement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: monthly_savings
+      label: Monthly Savings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: total_savings
+      label: Total Savings
+      hint: null
+      type: select_multiple
+      options:
+      - $10,000
+      - $20,000
+      - $30,000
+      - $40,000
+      - $50,000
+      - $60,000
+      - $70,000
+      - $80,000
+      - $90,000
+      - $100,000
+      required: false
+    - id: 11
+      name: savings_frequency
+      label: Savings Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: retirement_goal
+      label: Retirement Goal
+      hint: null
+      type: select_one
+      options:
+      - Maximize wealth
+      - Minimize risk
+      - Maximize returns
+      - Other
+      required: false
+    - id: 13
+      name: max_inflation_rate
+      label: Max Inflation Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: max_inflation_adjusted_monthly_savings_requirement
+      label: Max Inflation Adjusted Monthly Savings Requirement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: max_monthly_savings
+      label: Max Monthly Savings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: max_total_savings
+      label: Max Total Savings
+      hint: null
+      type: select_multiple
+      options:
+      - $10,000
+      - $20,000
+      - $30,000
+      - $40,000
+      - $50,000
+      - $60,000
+      - $70,000
+      - $80,000
+      - $90,000
+      - $100,000
+      required: false
+    - id: 17
+      name: max_savings_frequency
+      label: Max Savings Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: retirement_goal_max
+      label: Retirement Goal Max
+      hint: null
+      type: select_one
+      options:
+      - Maximize wealth
+      - Minimize risk
+      - Maximize returns
+      - Other
+      required: false
+    - id: 19
+      name: min_inflation_rate
+      label: Min Inflation Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: min_inflation_adjusted_monthly_savings_requirement
+      label: Min Inflation Adjusted Monthly Savings Requirement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: min_monthly_savings
+      label: Min Monthly Savings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: min_total_savings
+      label: Min Total Savings
+      hint: null
+      type: select_multiple
+      options:
+      - $10,000
+      - $20,000
+      - $30,000
+      - $40,000
+      - $50,000
+      - $60,000
+      - $70,000
+      - $80,000
+      - $90,000
+      - $100,000
+      required: false
+    - id: 23
+      name: min_savings_frequency
+      label: Min Savings Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: retirement_goal_min
+      label: Retirement Goal Min
+      hint: null
+      type: select_one
+      options:
+      - Maximize wealth
+      - Minimize risk
+      - Maximize returns
+      - Other
+      required: false

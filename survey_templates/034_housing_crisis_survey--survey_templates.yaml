@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Housing Crisis Survey
+    pages:
+    - id: 1
+      name: demographic_data
+      label: demographic_data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: housing_type
+      label: housing_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''rent''}'
+      - '{''value'': ''own''}'
+      - '{''value'': ''mortgage''}'
+      - '{''value'': ''homeless''}'
+      required: false
+    - id: 3
+      name: housing_status
+      label: housing_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''stable''}'
+      - '{''value'': ''unstable''}'
+      - '{''value'': ''precarious''}'
+      required: false
+    - id: 4
+      name: rent_amount
+      label: rent_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: housing_crisis_experience
+      label: housing_crisis_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: housing_crisis_impact
+      label: housing_crisis_impact
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: housing_crisis_solutions
+      label: housing_crisis_solutions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: housing_crisis_comments
+      label: housing_crisis_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: contact_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_zip
+      label: zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: contact_state
+      label: state
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''AL''}'
+      - '{''value'': ''AK''}'
+      - '{''value'': ''AZ''}'
+      - '{''value'': ''AR''}'
+      required: false
+    - id: 17
+      name: contact_city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false

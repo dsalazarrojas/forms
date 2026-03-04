@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manufacturing Process Efficiency Assessment
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: production_process
+      label: production_process_label
+      hint: null
+      type: select_one
+      options:
+      - Production
+      - Non-production
+      - Other
+      required: false
+    - id: 3
+      name: production_capacity
+      label: production_capacity_label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: production_time
+      label: production_time_label
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: production_cost
+      label: production_cost_label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: manufacturing_process
+      label: manufacturing_process_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: production_capacity_2
+      label: production_capacity_2_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: production_time_2
+      label: production_time_2_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: production_cost_2
+      label: production_cost_2_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: bottlenecks
+      label: bottlenecks_label
+      hint: null
+      type: select_multiple
+      options:
+      - Bottleneck 1
+      - Bottleneck 2
+      - Bottleneck 3
+      required: false
+    - id: 11
+      name: prioritization
+      label: prioritization_label
+      hint: null
+      type: text
+      options: []
+      required: false

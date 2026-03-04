@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safety Training Feedback Form
+    pages:
+    - id: 1
+      name: safety_training_feedback
+      label: How would you rate the overall safety training?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: program_name
+      label: Training Program
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: feedback_comments
+      label: What did you think of the safety training?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: rating_scale
+      label: Overall Rating
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 5
+      name: email
+      label: Your email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Your phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: trainer_name
+      label: Trainer's Name
+      hint: null
+      type: text
+      options: []
+      required: true

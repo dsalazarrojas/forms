@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Communication Preference Poll
+    pages:
+    - id: 1
+      name: volunteer_communication_preference_poll
+      label: Volunteer Communication Preference Poll
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_contact_method
+      label: preferred_contact_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: volunteer_communication_frequency
+      label: volunteer_communication_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: volunteer_communication_method
+      label: volunteer_communication_method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: volunteer_email
+      label: volunteer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: volunteer_phone
+      label: volunteer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: volunteer_sms
+      label: volunteer_sms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: volunteer_inperson
+      label: volunteer_inperson
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: volunteer_online
+      label: volunteer_online
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: volunteer_both
+      label: volunteer_both
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

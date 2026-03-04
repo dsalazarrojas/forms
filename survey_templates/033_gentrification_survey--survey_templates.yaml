@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gentrification Survey
+    pages:
+    - id: 1
+      name: neighborhood_changes
+      label: What changes have you noticed in the neighborhood?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: gentrification_level
+      label: On a scale of 0-10, how much do you think gentrification has changed
+        the neighborhood?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: gentrification_concerns
+      label: What are your concerns about gentrification?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: gentrification_impacts
+      label: In what ways has gentrification impacted you?
+      hint: null
+      type: select_multiple
+      options:
+      - Increased housing costs
+      - Changes in community composition
+      - New businesses and amenities
+      - Other (please specify)
+      required: false
+    - id: 5
+      name: gentrification_perceptions
+      label: What are your perceptions about gentrification?
+      hint: null
+      type: select_one
+      options:
+      - Negative
+      - Positive
+      - Neutral
+      - Don't know/No answer
+      required: false
+    - id: 6
+      name: gentrification_satisfaction
+      label: How satisfied are you with gentrification in the neighborhood?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: gentrification_awareness
+      label: How aware are you of gentrification?
+      hint: null
+      type: select_one
+      options:
+      - Highly aware
+      - Somewhat aware
+      - Not very aware
+      - Not at all aware
+      required: false
+    - id: 8
+      name: gentrification_recommendation
+      label: Would you recommend gentrification to someone else?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

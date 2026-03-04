@@ -1,0 +1,181 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Specialist Offer Review
+    pages:
+      - id: 1
+        name: section_reviewer_info
+        label: -- Reviewer Information --
+        type: note
+        required: false
+      - id: 2
+        name: reviewer_name
+        label: Reviewer Name
+        hint: Your name
+        type: text
+        required: true
+      - id: 3
+        name: reviewer_department
+        label: Department
+        hint: Your department
+        type: text
+        required: false
+      - id: 4
+        name: reviewer_title
+        label: Title or Role
+        hint: Your position
+        type: text
+        required: true
+      - id: 5
+        name: review_date
+        label: Review Date
+        hint: Today's date
+        type: date
+        required: true
+      - id: 6
+        name: section_offer_details
+        label: -- Offer Details --
+        type: note
+        required: false
+      - id: 7
+        name: offer_name
+        label: Offer or Proposal Name
+        hint: What is being reviewed
+        type: text
+        required: true
+      - id: 8
+        name: offer_type
+        label: Type of Offer
+        hint: Category or classification
+        type: select_one
+        options:
+          - Product Promotion
+          - Service Offering
+          - Partnership Proposal
+          - Investment Opportunity
+          - Strategic Initiative
+          - Customer Package
+          - Other
+        required: true
+      - id: 9
+        name: offer_description
+        label: Brief Offer Description
+        hint: Overview of what is being proposed
+        type: text
+        required: true
+      - id: 10
+        name: target_audience
+        label: Target Audience or Segment
+        hint: Who is this intended for
+        type: text
+        required: true
+      - id: 11
+        name: section_evaluation
+        label: -- Evaluation Assessment --
+        type: note
+        required: false
+      - id: 12
+        name: market_alignment
+        label: Market Alignment
+        hint: Does this align with market needs
+        type: select_one
+        options:
+          - Poor alignment
+          - Moderate alignment
+          - Good alignment
+          - Excellent alignment
+        required: true
+      - id: 13
+        name: competitive_advantage
+        label: Competitive Advantage
+        hint: How does this compare to competitors
+        type: select_one
+        options:
+          - No advantage
+          - Minor advantage
+          - Moderate advantage
+          - Strong advantage
+          - Clear market leader
+        required: true
+      - id: 14
+        name: value_proposition
+        label: Value Proposition Clarity
+        hint: Is the value clear
+        type: select_one
+        options:
+          - Unclear
+          - Somewhat clear
+          - Clear
+          - Very clear
+          - Compelling
+        required: true
+      - id: 15
+        name: financial_viability
+        label: Financial Viability
+        hint: Does the economics make sense
+        type: select_one
+        options:
+          - Not viable
+          - Questionable
+          - Potentially viable
+          - Likely viable
+          - Highly viable
+        required: true
+      - id: 16
+        name: section_recommendations
+        label: -- Recommendation and Feedback --
+        type: note
+        required: false
+      - id: 17
+        name: overall_recommendation
+        label: Overall Recommendation
+        hint: What action should be taken
+        type: select_one
+        options:
+          - Reject
+          - Reject with suggestions
+          - Revise and resubmit
+          - Conditional approval
+          - Approve
+        required: true
+      - id: 18
+        name: strengths
+        label: Key Strengths
+        hint: What is good about this offer
+        type: text
+        required: false
+      - id: 19
+        name: weaknesses
+        label: Key Weaknesses or Concerns
+        hint: What needs improvement
+        type: text
+        required: false
+      - id: 20
+        name: suggested_improvements
+        label: Suggested Improvements
+        hint: How could this be made better
+        type: text
+        required: false
+      - id: 21
+        name: risk_assessment
+        label: Risk Assessment
+        hint: What risks should be considered
+        type: text
+        required: false
+      - id: 22
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        required: false

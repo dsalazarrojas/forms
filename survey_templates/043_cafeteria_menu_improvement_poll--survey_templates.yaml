@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cafeteria Menu Improvement Poll
+    pages:
+    - id: 1
+      name: respondent_role
+      label: Respondent role
+      hint: Student staff or visitor
+      type: select_one
+      options:
+      - Student
+      - Staff
+      - Visitor
+      required: true
+    - id: 2
+      name: meal_preference
+      label: Preferred meal type
+      hint: Breakfast lunch or dinner
+      type: select_one
+      options:
+      - Breakfast
+      - Lunch
+      - Dinner
+      required: true
+    - id: 3
+      name: dietary_requirements
+      label: Dietary requirements
+      hint: Allergies vegetarian vegan halal
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction_with_variety
+      label: Satisfaction with menu variety
+      hint: 1 low to 5 high
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: price_satisfaction
+      label: Satisfaction with price
+      hint: 1 low to 5 high
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: suggested_items
+      label: Suggested menu items
+      hint: Items you would like to see
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: frequency_of_use
+      label: Frequency of cafeteria use
+      hint: How often you visit
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

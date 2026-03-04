@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Award Naming Suggestions
+    pages:
+    - id: 1
+      name: section_contributor_info
+      label: -- Contributor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contributor_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For follow-up questions
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: affiliation_type
+      label: Affiliation
+      hint: What is your relationship with the organization?
+      type: select_one
+      options:
+      - Staff/Employee
+      - Organization Member
+      - Partner/Sponsor
+      - Member of the Public
+      required: true
+    - id: 5
+      name: section_award_context
+      label: -- Current Award Context --
+      hint: Information about the award being renamed
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: award_category_context
+      label: Current Award Category
+      hint: What type of award is this?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: current_name
+      label: Current Award Name
+      hint: Enter the current name (if any)
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_suggestions
+      label: -- New Award Name Suggestions --
+      hint: Provide your top ideas and why they work
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: suggestion_1_name
+      label: Suggested New Award Name 1
+      hint: Primary suggestion
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: suggestion_1_rationale
+      label: Rationale for Suggestion 1
+      hint: Why does this name fit the award?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: suggestion_2_name
+      label: Suggested New Award Name 2
+      hint: Alternate suggestion
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: suggestion_2_rationale
+      label: Rationale for Suggestion 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: attribute_reflection
+      label: Key Attributes the Name Should Reflect
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Innovation and Creativity
+      - Leadership and Vision
+      - Service and Dedication
+      - Excellence and Quality
+      - Growth and Potential
+      required: true
+    - id: 14
+      name: preferred_naming_tone
+      label: Preferred Tone for the Name
+      hint: What style should the name have?
+      type: select_one
+      options:
+      - Formal and Authoritative
+      - Modern and Catchy
+      - Creative and Abstract
+      - Traditional and Prestigious
+      required: true
+    - id: 15
+      name: committee_interest
+      label: Willing to Join the Naming Committee?
+      hint: To help make the final decision
+      type: select_one
+      options:
+      - Yes, I am interested
+      - No, thank you
+      required: true
+    - id: 16
+      name: additional_comments_suggestions
+      label: Additional Comments
+      hint: Any other thoughts on the naming process
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submission_confirmation
+      label: I certify that these suggestions are original
+      hint: null
+      type: select_one
+      options:
+      - Yes, I certify
+      - Other
+      required: true

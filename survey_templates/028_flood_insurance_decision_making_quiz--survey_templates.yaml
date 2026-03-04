@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flood Insurance Decision Making Quiz
+    pages:
+    - id: 1
+      name: page_1
+      label: page 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: flood_risk
+      label: flood risk
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: property_type
+      label: property type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: insurance_status
+      label: insurance status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: flood_zone
+      label: flood zone
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: flood_insuranc
+      label: flood insuranc
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: email_address
+      label: email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

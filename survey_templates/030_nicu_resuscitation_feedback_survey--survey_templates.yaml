@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: NICU Resuscitation Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: What happened
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_type
+      label: Event type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Cardiac Arrest''}'
+      - '{''id'': 2, ''label'': ''Seizure''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: staff_involved
+      label: Staff involved
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Doctor''}'
+      - '{''id'': 2, ''label'': ''Nurse''}'
+      - '{''id'': 3, ''label'': ''Respiratory''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: patient_age
+      label: Age of patient
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_weight
+      label: Weight of patient
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: Please provide your feedback
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: resuscitation_type
+      label: Resuscitation type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''CPAP''}'
+      - '{''id'': 2, ''label'': ''PPV''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: complications
+      label: Complications
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''None''}'
+      - '{''id'': 2, ''label'': ''Hypotension''}'
+      - '{''id'': 3, ''label'': ''Hypertension''}'
+      - '{''id'': 4, ''label'': ''Hypoxia''}'
+      - '{''id'': 5, ''label'': ''Bradycardia''}'
+      - '{''id'': 6, ''label'': ''Other''}'
+      required: false
+    - id: 9
+      name: outcome
+      label: Outcome
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Poor''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false

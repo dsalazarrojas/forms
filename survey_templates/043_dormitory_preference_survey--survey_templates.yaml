@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dormitory Preference Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: room_type
+      label: Room Type
+      hint: null
+      type: select_one
+      options:
+      - Building
+      - Dorm
+      - Private
+      required: true
+    - id: 3
+      name: floor_number
+      label: Floor Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: room_share
+      label: Room Share
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: false
+    - id: 5
+      name: roommate_preferences
+      label: Roommate Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Non-smoker
+      - Smoker
+      - Any
+      required: false
+    - id: 6
+      name: move_in_date
+      label: Move In Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: move_out_date
+      label: Move Out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: preferred_dorm
+      label: Preferred Dorm
+      hint: null
+      type: select_one
+      options:
+      - East Dorm
+      - West Dorm
+      - North Dorm
+      - South Dorm
+      required: true
+    - id: 9
+      name: preferred_floors
+      label: Preferred Floors
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false
+    - id: 10
+      name: roommate_type
+      label: Roommate Type
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Double
+      - Triple
+      required: false
+    - id: 11
+      name: meal_plans
+      label: Meal Plans
+      hint: null
+      type: select_multiple
+      options:
+      - Full
+      - Partial
+      - None
+      required: false
+    - id: 12
+      name: housing_assignments
+      label: Housing Assignments
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: residence_life
+      label: Residence Life
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: false
+    - id: 14
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

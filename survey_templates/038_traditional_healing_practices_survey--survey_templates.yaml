@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Traditional Healing Practices Survey
+    pages:
+    - id: 1
+      name: traditional_healing_methods_used
+      label: Traditional Healing Methods Used
+      hint: null
+      type: select_multiple
+      options:
+      - Traditional Healing Methods
+      - Acupuncture
+      - Herbalism
+      - Massage
+      - Aromatherapy
+      - Mindfulness
+      - Chiropractic
+      - Other
+      required: false
+    - id: 2
+      name: frequency_of_use
+      label: Frequency of Use
+      hint: How often do you use these methods?
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: years_of_use
+      label: Years of Use
+      hint: How many years have you been using these methods?
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: how_often_use
+      label: How Often Use
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: false
+    - id: 5
+      name: awareness_of_benefits
+      label: Awareness of Benefits
+      hint: How much do you know about the benefits of these methods?
+      type: select_multiple
+      options:
+      - Pain Relief
+      - Stress Relief
+      - Emotional Well-being
+      - Physical Well-being
+      - Mental Clarity
+      - Other
+      required: false
+    - id: 6
+      name: knowledge_level
+      label: Knowledge Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 7
+      name: perceptions_of_effectiveness
+      label: Perceptions of Effectiveness
+      hint: null
+      type: select_one
+      options:
+      - Very Effective
+      - Somewhat Effective
+      - Not Effective
+      required: false
+    - id: 8
+      name: trust_in_methods
+      label: Trust in Methods
+      hint: How much trust do you have in these methods?
+      type: select_one
+      options:
+      - A Lot
+      - Some
+      - None
+      required: false
+    - id: 9
+      name: confidence_level
+      label: Confidence Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: program_participation
+      label: Program Participation
+      hint: Are you involved in any programs that promote these methods?
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Not Sure
+      required: false
+    - id: 11
+      name: community_support
+      label: Community Support
+      hint: How much support do you get from your community?
+      type: select_one
+      options:
+      - A Lot
+      - Some
+      - None
+      required: false

@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: dietary_preferences_survey_template
+    pages:
+    - id: 1
+      name: first_page
+      label: survey_questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: first_question
+      label: First Question
+      hint: Please answer the following question
+      type: select_one
+      options:
+      - '{''option'': 1, ''label'': True}'
+      - '{''option'': 2, ''label'': False}'
+      required: false
+    - id: 3
+      name: first_question_answer
+      label: do_you_have_any_food_restrictions
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': 1, ''label'': True}'
+      - '{''option'': 2, ''label'': False}'
+      required: false
+    - id: 4
+      name: restriction_type
+      label: restriction_type
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': 1, ''label'': ''Vegetarian''}'
+      - '{''option'': 2, ''label'': ''Vegan''}'
+      - '{''option'': 3, ''label'': ''Gluten-Free''}'
+      - '{''option'': 4, ''label'': ''Dairy-Free''}'
+      required: false
+    - id: 5
+      name: first_question_answer
+      label: do_you_drink_alcohol
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': 1, ''label'': True}'
+      - '{''option'': 2, ''label'': False}'
+      required: false
+    - id: 6
+      name: first_question_answer_2
+      label: do_you_take_supplements
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': 1, ''label'': True}'
+      - '{''option'': 2, ''label'': False}'
+      required: false
+    - id: 7
+      name: supplements_type
+      label: Supplements Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: first_question_answer_2
+      label: do_you_have_any_food_allergies
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': 1, ''label'': True}'
+      - '{''option'': 2, ''label'': False}'
+      required: false
+    - id: 9
+      name: food_allergy
+      label: Food Allergy
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: do_you_tolerate_spicy
+      label: Do You Tolerate Spicy
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': 1, ''label'': True}'
+      - '{''option'': 2, ''label'': False}'
+      required: false
+    - id: 11
+      name: do_you_prefer_breakfast
+      label: Do You Prefer Breakfast
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': 1, ''label'': True}'
+      - '{''option'': 2, ''label'': False}'
+      required: false
+    - id: 12
+      name: do_you_prefer_lunch
+      label: do_you_prefer_lunch
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': 1, ''label'': True}'
+      - '{''option'': 2, ''label'': False}'
+      required: false
+    - id: 13
+      name: do_you_prefer_dinner
+      label: do_you_prefer_dinner
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': 1, ''label'': True}'
+      - '{''option'': 2, ''label'': False}'
+      required: false
+    - id: 14
+      name: do_you_prefer_snacks
+      label: Do You Prefer Snacks
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': 1, ''label'': True}'
+      - '{''option'': 2, ''label'': False}'
+      required: false
+    - id: 15
+      name: do_you_prefer_dessert
+      label: do_you_prefer_dessert
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': 1, ''label'': True}'
+      - '{''option'': 2, ''label'': False}'
+      required: false
+    - id: 16
+      name: do_you_prefer_beverages
+      label: Do You Prefer Beverages
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': 1, ''label'': True}'
+      - '{''option'': 2, ''label'': False}'
+      required: false
+    - id: 17
+      name: do_you_prefer_caffeine
+      label: Do You Prefer Caffeine
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': 1, ''label'': True}'
+      - '{''option'': 2, ''label'': False}'
+      required: false
+    - id: 18
+      name: do_you_prefer_sports
+      label: do_you_prefer_sports
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': 1, ''label'': True}'
+      - '{''option'': 2, ''label'': False}'
+      required: false
+    - id: 19
+      name: do_you_prefer_recreation
+      label: Do You Prefer Recreation
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': 1, ''label'': True}'
+      - '{''option'': 2, ''label'': False}'
+      required: false
+    - id: 20
+      name: do_you_prefer_social_activities
+      label: Do You Prefer Social Activities
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': 1, ''label'': True}'
+      - '{''option'': 2, ''label'': False}'
+      required: false
+    - id: 21
+      name: do_you_prefer_travel
+      label: Do You Prefer Travel
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': 1, ''label'': True}'
+      - '{''option'': 2, ''label'': False}'
+      required: false
+    - id: 22
+      name: do_you_prefer_outdoors
+      label: Do You Prefer Outdoors
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': 1, ''label'': True}'
+      - '{''option'': 2, ''label'': False}'
+      required: false
+    - id: 23
+      name: do_you_prefer_hobbies
+      label: Do You Prefer Hobbies
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': 1, ''label'': True}'
+      - '{''option'': 2, ''label'': False}'
+      required: false
+    - id: 24
+      name: do_you_prefer_learning
+      label: Do You Prefer Learning
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': 1, ''label'': True}'
+      - '{''option'': 2, ''label'': False}'
+      required: false
+    - id: 25
+      name: do_you_prefer_culture
+      label: Do You Prefer Culture
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': 1, ''label'': True}'
+      - '{''option'': 2, ''label'': False}'
+      required: false

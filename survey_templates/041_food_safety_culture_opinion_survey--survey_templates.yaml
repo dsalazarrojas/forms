@@ -1,0 +1,293 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Safety Culture Opinion Survey
+    pages:
+    - id: 1
+      name: survey_start_page
+      label: Welcome to the Food Safety Culture Opinion Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: food_safety_practices
+      label: On a scale of 1-5, how likely are you to follow good food safety practices?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: food_safety_practices_frequency
+      label: How often do you follow good food safety practices?
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 4
+      name: safety_training
+      label: Have you received safety training on food safety practices?
+      hint: null
+      type: select_multiple
+      options:
+      - Food safety basics
+      - Food safety procedures
+      - Hazard analysis and control
+      - Sanitation and cleaning
+      required: false
+    - id: 5
+      name: food_safety_practices_frequency_2
+      label: How often do you follow food safety practices during work hours?
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 6
+      name: food_safety_practices_frequency_3
+      label: How often do you follow food safety practices during breaks?
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 7
+      name: leadership_support
+      label: How much support do you receive from management to follow good food safety
+        practices?
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 8
+      name: feedback_frequency
+      label: How often do you provide feedback on food safety practices?
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 9
+      name: food_safety_practices_awareness
+      label: Do you feel that your awareness of good food safety practices is strong?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: food_safety_practices_concerns
+      label: Do you have any concerns about food safety practices?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: reporting_frequency
+      label: How often do you report food safety practices issues to management?
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 12
+      name: food_safety_practices_awareness_frequency
+      label: How often do you have the opportunity to learn about new food safety
+        practices?
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 13
+      name: management_support
+      label: Do you feel supported by management to follow good food safety practices?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: food_safety_practices_frequency_4
+      label: How often do you follow good food safety practices when handling raw
+        or ready-to-eat foods?
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 15
+      name: food_safety_practices_frequency_5
+      label: How often do you follow good food safety practices when handling ready-to-eat
+        foods that are not temperature controlled?
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 16
+      name: food_safety_practices_frequency_6
+      label: How often do you follow good food safety practices when handling food
+        products that are near their expiration date?
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 17
+      name: food_safety_practices_frequency_7
+      label: How often do you follow good food safety practices when handling foods
+        that are near their expiration date?
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 18
+      name: food_safety_practices_frequency_8
+      label: How often do you follow good food safety practices when preparing foods
+        with raw or ready-to-eat ingredients?
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 19
+      name: food_safety_practices_frequency_9
+      label: How often do you follow good food safety practices when preparing foods
+        with high-risk ingredients?
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 20
+      name: food_safety_practices_frequency_10
+      label: How often do you follow good food safety practices when preparing foods
+        with ready-to-eat ingredients?
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 21
+      name: food_safety_practices_frequency_11
+      label: How often do you follow good food safety practices when handling raw
+        or ready-to-eat foods that are not stored in a designated area?
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 22
+      name: food_safety_practices_frequency_12
+      label: How often do you follow good food safety practices when handling foods
+        that are near their expiration date?
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 23
+      name: food_safety_practices_frequency_13
+      label: How often do you follow good food safety practices when handling foods
+        with ready-to-eat ingredients?
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 24
+      name: food_safety_practices_frequency_14
+      label: How often do you follow good food safety practices when preparing foods
+        with high-risk ingredients?
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 25
+      name: survey_end_page
+      label: Thank you for taking the time to complete this survey!
+      hint: null
+      type: note
+      options: []
+      required: false

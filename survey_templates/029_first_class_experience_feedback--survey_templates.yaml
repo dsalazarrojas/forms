@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: first_class_experience_feedback
+    pages:
+    - id: 1
+      name: first_class_experience
+      label: First Class Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: route
+      label: Route
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''route_1''}'
+      - '{''id'': 2, ''name'': ''route_2''}'
+      - '{''id'': 3, ''name'': ''route_3''}'
+      required: false
+    - id: 3
+      name: airline
+      label: Airline
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''airline_1''}'
+      - '{''id'': 2, ''name'': ''airline_2''}'
+      required: true
+    - id: 4
+      name: flight_number
+      label: Flight Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: departure_date
+      label: Departure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: seat_class
+      label: Seat Class
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''First Class''}'
+      - '{''id'': 2, ''name'': ''Business Class''}'
+      - '{''id'': 3, ''name'': ''Economy Class''}'
+      required: false
+    - id: 8
+      name: cabin_service
+      label: Cabin Service
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''excellent''}'
+      - '{''id'': 2, ''name'': ''good''}'
+      - '{''id'': 3, ''name'': ''fair''}'
+      - '{''id'': 4, ''name'': ''poor''}'
+      required: false
+    - id: 9
+      name: food_quality
+      label: Food Quality
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''excellent''}'
+      - '{''id'': 2, ''name'': ''good''}'
+      - '{''id'': 3, ''name'': ''fair''}'
+      - '{''id'': 4, ''name'': ''poor''}'
+      required: false
+    - id: 10
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''very_good''}'
+      - '{''id'': 2, ''name'': ''good''}'
+      - '{''id'': 3, ''name'': ''fair''}'
+      - '{''id'': 4, ''name'': ''poor''}'
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false

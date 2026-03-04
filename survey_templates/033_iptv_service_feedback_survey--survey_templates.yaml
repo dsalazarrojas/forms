@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: IPTV Service Feedback Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: IPTV Service Feedback Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Write your name here
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: Email
+      hint: Enter your email address here
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: Tell us more about your experience
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: service_used
+      label: Which IPTV service do you use
+      hint: null
+      type: select_multiple
+      options:
+      - Amazon
+      - Fubud
+      - DazsSAT
+      required: false
+    - id: 7
+      name: watched_channels
+      label: How many channels do you watch
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: watched_time
+      label: How much time do you spend watching IPTV
+      hint: in hours
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: improvement_ideas
+      label: Improvement ideas
+      hint: Tell us more about your improvement ideas
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,239 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Celebrity Survey
+    pages:
+      - id: 1
+        name: section_producer_info
+        label: -- Producer or Casting Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Your Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: respondent_email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: organization
+        label: Production Company or Organization
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: role
+        label: Your Role
+        hint: Producer, casting director, writer, etc.
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: section_project_info
+        label: -- Project Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: project_name
+        label: Project Name
+        hint: Movie, TV show, advertisement, etc.
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: project_type
+        label: Project Type
+        hint: null
+        type: select_one
+        options:
+          - Feature Film
+          - Television Series
+          - Advertisement
+          - Music Video
+          - Streaming Series
+          - Documentary
+          - Other
+        required: true
+      - id: 9
+        name: genre
+        label: Genre or Style
+        hint: Drama, comedy, action, etc.
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: target_demographic
+        label: Target Demographic
+        hint: Who is the main audience
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: section_celebrity_evaluation
+        label: -- Celebrity Evaluation --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: celebrity_being_evaluated
+        label: Celebrity Being Evaluated
+        hint: Name and profession
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: current_popularity
+        label: Current Popularity Level
+        hint: null
+        type: select_one
+        options:
+          - A-List
+          - B-List
+          - Rising Star
+          - Established
+          - Niche Appeal
+          - Up and Coming
+        required: true
+      - id: 14
+        name: box_office_appeal
+        label: Box Office or Commercial Appeal
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - Unknown
+        required: true
+      - id: 15
+        name: section_fit_assessment
+        label: -- Project Fit Assessment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: role_fit
+        label: Role Fit
+        hint: How well does celebrity fit the role
+        type: select_one
+        options:
+          - Perfect Fit
+          - Good Fit
+          - Acceptable Fit
+          - Poor Fit
+          - Not Suitable
+        required: true
+      - id: 17
+        name: audience_appeal_match
+        label: Appeal to Target Audience
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - Very Poor
+        required: true
+      - id: 18
+        name: brand_alignment
+        label: Brand or Image Alignment
+        hint: Does celebrity align with project values
+        type: select_one
+        options:
+          - Excellent Alignment
+          - Good Alignment
+          - Moderate Alignment
+          - Misaligned
+          - Poorly Misaligned
+        required: true
+      - id: 19
+        name: section_career_trajectory
+        label: -- Career Trajectory --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: career_momentum
+        label: Career Momentum
+        hint: Career trajectory direction
+        type: select_one
+        options:
+          - Rising
+          - Stable
+          - Declining
+          - Resurgence
+          - Unknown
+        required: true
+      - id: 21
+        name: recent_projects_quality
+        label: Quality of Recent Projects
+        hint: Critical and commercial success
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: false
+      - id: 22
+        name: section_risk_assessment
+        label: -- Risk Assessment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: risk_factors
+        label: Potential Risk Factors
+        hint: Controversies, personal issues, etc.
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: overall_recommendation
+        label: Overall Recommendation
+        hint: null
+        type: select_one
+        options:
+          - Highly Recommended
+          - Recommended
+          - Neutral
+          - Not Recommended
+          - Strongly Not Recommended
+        required: true
+      - id: 25
+        name: additional_comments
+        label: Additional Comments or Notes
+        hint: null
+        type: text
+        options: []
+        required: false

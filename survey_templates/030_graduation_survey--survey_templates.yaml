@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Graduation Survey
+    pages:
+    - id: 1
+      name: graduation_experience
+      label: What was your experience at our school like?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: graduation_plans
+      label: Post-graduation plans
+      hint: What are your immediate plans after graduation?
+      type: select_one
+      options:
+      - Immediate employment
+      - Grad school
+      - Travel
+      - Internship
+      - Other (please specify)
+      required: false
+    - id: 3
+      name: satisfaction_level
+      label: Satisfaction with your academic program
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email address
+      hint: Your email address
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: Your phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: name_of_program
+      label: Name of your academic program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: years_attended
+      label: How many years did you attend the program?
+      hint: Number of years
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: graduation_date
+      label: Graduation date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_of_day
+      label: Time of day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Any additional comments
+      hint: null
+      type: note
+      options: []
+      required: false

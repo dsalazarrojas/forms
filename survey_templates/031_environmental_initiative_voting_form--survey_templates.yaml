@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Environmental Initiative Voting Form
+    pages:
+    - id: 1
+      name: community_input
+      label: Community Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sustainability_priorities
+      label: sustainability_priorities
+      hint: null
+      type: select_one
+      options:
+      - Climate Action
+      - Water Conservation
+      - Waste Reduction
+      required: false
+    - id: 3
+      name: organization_size
+      label: organization_size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: submitted_at
+      label: submitted_at
+      hint: null
+      type: time
+      options: []
+      required: false

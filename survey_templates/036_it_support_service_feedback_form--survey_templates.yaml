@@ -1,0 +1,38 @@
+inputSchema:
+  type: object
+  properties:
+    title: it_support_service_feedback_form
+    pages:
+    - id: 1
+      name: general_feedback
+      label: General Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: support_service_rating
+      label: Support Service Rating
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 3
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false

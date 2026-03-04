@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Union Officer Election Survey
+    pages:
+    - id: 1
+      name: union_officer_election_survey
+      label: union_officer_election_survey
+      hint: Please provide feedback about the union officer election
+      type: select_multiple
+      options:
+      - I am very likely to vote in the union officer election
+      - I am somewhat likely to vote in the union officer election
+      - I am not likely to vote in the union officer election
+      - I am not at all likely to vote in the union officer election
+      required: false
+    - id: 2
+      name: election_fairness
+      label: election_fairness
+      hint: How fair do you think the union officer election process is?
+      type: select_one
+      options:
+      - Fair
+      - Very Fair
+      - Neutral
+      - Not Fair
+      - Very Not Fair
+      required: false
+    - id: 3
+      name: election_satisfaction
+      label: election_satisfaction
+      hint: How satisfied are you with the union officer election
+      type: select_one
+      options:
+      - Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 4
+      name: officer_canditate_support
+      label: officer_canditate_support
+      hint: How supportive do you think the union officer candidates were
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: false
+    - id: 5
+      name: member_feedback
+      label: member_feedback
+      hint: Please provide any additional feedback about the election process
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: contact_email
+      hint: Your email address
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: election_date
+      label: election_date
+      hint: Date of the union officer election
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: election_time
+      label: election_time
+      hint: Time of the union officer election
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: election_location
+      label: election_location
+      hint: Location of the union officer election
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: election_venue
+      label: election_venue
+      hint: Name of the venue where the union officer election will be held
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: union_address
+      label: union_address
+      hint: Union address
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: union_phone
+      label: union_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: election_committee
+      label: election_committee
+      hint: Name of the election committee
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: officer_election_type
+      label: officer_election_type
+      hint: Type of the union officer election
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: officer_terms
+      label: officer_terms
+      hint: Term of the union officers
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: officer_election_date
+      label: officer_election_date
+      hint: Date of the next union officer election
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: election_recurring
+      label: election_recurring
+      hint: Will the union officer election be recurring
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Sure
+      required: false

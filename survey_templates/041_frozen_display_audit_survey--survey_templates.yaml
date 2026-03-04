@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Frozen Display Audit Survey
+    pages:
+    - id: 1
+      name: store_address
+      label: Store Address
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: store_name
+      label: store name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: audit_date
+      label: Audit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: freezer_condition
+      label: Freezer Condition
+      hint: 'null'
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: freezer_temperature
+      label: Freezer Temperature
+      hint: null
+      type: select_one
+      options:
+      - Below 0°C
+      - Above 0°C
+      - Not Applicable
+      required: false
+    - id: 6
+      name: display_layout
+      label: Display layout
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: store_manager_signature
+      label: Store Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: store_manager_name
+      label: Store Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: store_phone
+      label: store phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: store_email
+      label: store email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: store_manager_email
+      label: Store Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: store_notes
+      label: store notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: auditor_notes
+      label: Auditor Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: audit_complete
+      label: Audit Complete
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: auditor_name
+      label: auditor name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: store_number
+      label: Store Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: store_location
+      label: Store Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: store_region
+      label: Store Region
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: store_manager_title
+      label: Store Manager Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: store_manager_id
+      label: Store Manager ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: audit_frequency
+      label: Audit Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false

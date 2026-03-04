@@ -1,0 +1,280 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Animal Control Reporting Efficiency Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: agency_name
+      label: Agency or Organization
+      hint: Your organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: respondent_role
+      label: Your Role
+      hint: Position title
+      type: select_one
+      options:
+      - Director or manager
+      - Animal control officer
+      - Dispatcher
+      - Administrative staff
+      - Volunteer
+      - Other
+      required: true
+    - id: 4
+      name: survey_intro
+      label: Animal Control Reporting Efficiency Survey
+      hint: Help us improve reporting systems and workflows
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: agency_size
+      label: Size of Your Agency
+      hint: Staff count
+      type: select_one
+      options:
+      - 1-5 officers
+      - 6-15 officers
+      - 16-30 officers
+      - More than 30 officers
+      required: true
+    - id: 6
+      name: service_area
+      label: Population Served
+      hint: Service area size
+      type: select_one
+      options:
+      - Rural - less than 10,000
+      - Small town - 10,000 to 50,000
+      - Suburban - 50,000 to 200,000
+      - Urban - more than 200,000
+      required: true
+    - id: 7
+      name: annual_calls
+      label: Approximate Annual Call Volume
+      hint: Calls per year
+      type: select_one
+      options:
+      - Less than 500
+      - 500-2,000
+      - 2,001-5,000
+      - 5,001-10,000
+      - More than 10,000
+      required: true
+    - id: 8
+      name: reporting_system
+      label: What System Do You Use for Call Reporting
+      hint: Current system
+      type: select_one
+      options:
+      - Dedicated CAD system
+      - Custom database
+      - Paper forms
+      - Spreadsheet based
+      - Multiple systems
+      - Other
+      required: true
+    - id: 9
+      name: system_satisfaction
+      label: How Satisfied Are You with Current Reporting System
+      hint: Satisfaction
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 10
+      name: reporting_channels
+      label: What Reporting Channels Do You Offer
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Phone hotline
+      - Online form
+      - Email
+      - Mobile app
+      - In person
+      - Social media
+      - Third party reporting
+      required: true
+    - id: 11
+      name: response_time_goal
+      label: What Is Your Target Response Time
+      hint: Goal
+      type: select_one
+      options:
+      - Immediate - emergency
+      - Within 1 hour
+      - Within 4 hours
+      - Within 24 hours
+      - Within 48 hours
+      - No standard
+      required: true
+    - id: 12
+      name: actual_response_time
+      label: What Is Your Actual Average Response Time
+      hint: Reality
+      type: select_one
+      options:
+      - Meets goal consistently
+      - Usually meets goal
+      - Sometimes meets goal
+      - Rarely meets goal
+      - Never meets goal
+      required: true
+    - id: 13
+      name: biggest_bottlenecks
+      label: What Are the Biggest Bottlenecks
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Staffing shortages
+      - High call volume
+      - Dispatch delays
+      - Travel time
+      - Documentation burden
+      - System limitations
+      - Resource constraints
+      - Other
+      required: true
+    - id: 14
+      name: data_tracking
+      label: What Data Do You Track
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Call volume
+      - Response times
+      - Case outcomes
+      - Repeat offenses
+      - Geographic hotspots
+      - Officer activity
+      - Budget metrics
+      - None systematically
+      required: true
+    - id: 15
+      name: report_generation
+      label: How Easy Is It to Generate Reports
+      hint: Reporting ease
+      type: select_one
+      options:
+      - Very easy - automated
+      - Somewhat easy
+      - Neutral
+      - Difficult - manual work
+      - Very difficult
+      required: true
+    - id: 16
+      name: interagency_communication
+      label: How Well Do You Communicate with Other Agencies
+      hint: Collaboration
+      type: select_one
+      options:
+      - Excellent - seamless
+      - Good - usually effective
+      - Fair - sometimes challenging
+      - Poor - difficult
+      - Very poor - no system
+      required: false
+    - id: 17
+      name: technology_needs
+      label: What Technology Improvements Would Help Most
+      hint: Needs
+      type: select_multiple
+      options:
+      - Mobile data terminals
+      - GPS tracking
+      - Automated dispatch
+      - Better database
+      - Customer portal
+      - Analytics dashboard
+      - Integration with other systems
+      - None
+      required: true
+    - id: 18
+      name: training_adequacy
+      label: Is Staff Training on Reporting Systems Adequate
+      hint: Training
+      type: select_one
+      options:
+      - Yes - comprehensive
+      - Yes - basic
+      - No - needs improvement
+      - No training provided
+      required: true
+    - id: 19
+      name: public_satisfaction
+      label: How Would You Rate Public Satisfaction
+      hint: Public perception
+      type: select_one
+      options:
+      - Very high
+      - High
+      - Moderate
+      - Low
+      - Very low
+      - Don't know
+      required: false
+    - id: 20
+      name: improvement_priorities
+      label: What Should Be the Top Priority for Improvement
+      hint: Priority
+      type: select_one
+      options:
+      - Faster response times
+      - Better technology
+      - More staff
+      - Better training
+      - Improved data tracking
+      - Enhanced public communication
+      - Streamlined processes
+      required: true
+    - id: 21
+      name: budget_constraints
+      label: Do Budget Constraints Limit Your Efficiency
+      hint: Budget impact
+      type: select_one
+      options:
+      - Yes - severely limited
+      - Yes - somewhat limited
+      - No - adequate budget
+      - Unsure
+      required: true
+    - id: 22
+      name: success_stories
+      label: What Is Working Well in Your Current System
+      hint: Strengths
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_feedback
+      label: Additional Comments or Suggestions
+      hint: Any other insights
+      type: text
+      options: []
+      required: false

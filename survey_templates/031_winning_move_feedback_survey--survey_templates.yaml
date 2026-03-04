@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Winning Move Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: What was the main goal of this key initiative
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: initiative_name
+      label: initiative_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: communication_method
+      label: Who communicated this initiative
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Chat
+      - Meetings
+      - Other
+      required: true
+    - id: 4
+      name: communication_effectiveness
+      label: Provide details about the communication method used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: communication_effectiveness_scale
+      label: How would you rate the communication method?
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Somewhat Good
+      - Neither Good nor Bad
+      - Somewhat Bad
+      - Very Bad
+      required: true
+    - id: 6
+      name: content_quality
+      label: content_quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: content_relevance
+      label: content_relevance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: content_clarity
+      label: content_clarity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: team_response
+      label: Provide details about the team response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: team_response_scale
+      label: Agree
+      hint: null
+      type: select_multiple
+      options:
+      - Agree
+      - Disagree
+      - Neither Agree nor Disagree
+      required: true
+    - id: 11
+      name: individual_response
+      label: Provide details about individual response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: individual_response_scale
+      label: Agree
+      hint: null
+      type: select_multiple
+      options:
+      - Agree
+      - Disagree
+      - Neither Agree nor Disagree
+      required: true
+    - id: 13
+      name: strategy_improvement
+      label: Provide details about strategy improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: communication_frequency
+      label: communication_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: communication_frequency_scale
+      label: How often was the communication received?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Semi-Annually
+      - Yearly
+      required: true
+    - id: 16
+      name: impact_on_team
+      label: impact_on_team
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: impact_on_team_scale
+      label: How much impact did this initiative have on the team?
+      hint: null
+      type: select_one
+      options:
+      - Very Positive
+      - Somewhat Positive
+      - Neither Positive nor Negative
+      - Somewhat Negative
+      - Very Negative
+      required: true
+    - id: 18
+      name: impact_on_individuals
+      label: impact_on_individuals
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: impact_on_individuals_scale
+      label: How much impact did this initiative have on individuals?
+      hint: null
+      type: select_one
+      options:
+      - Very Positive
+      - Somewhat Positive
+      - Neither Positive nor Negative
+      - Somewhat Negative
+      - Very Negative
+      required: true
+    - id: 20
+      name: initiative_value
+      label: initiative_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: initiative_value_scale
+      label: How valuable was the initiative to the team?
+      hint: null
+      type: select_one
+      options:
+      - Very Valuable
+      - Somewhat Valuable
+      - Neither Valuable nor Not Valuable
+      - Somewhat Not Valuable
+      - Not Valuable
+      required: true
+    - id: 22
+      name: initiative_awareness
+      label: initiative_awareness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: initiative_awareness_scale
+      label: How well was the initiative communicated?
+      hint: null
+      type: select_one
+      options:
+      - Very Well
+      - Somewhat Well
+      - Neither Well nor Poorly
+      - Somewhat Poorly
+      - Very Poorly
+      required: true
+    - id: 24
+      name: initiative_awareness_details
+      label: Provide details about initiative awareness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: initiative_awareness_details_scale
+      label: Provide details about awareness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: open_comment
+      label: Any other comments youd like to share
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,239 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Ethics Assessment
+    pages:
+    - id: 1
+      name: intro_text
+      label: Social Media Ethics Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: What do you do when you see an online friend posting something that you
+        feel is not a good idea?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question_3
+      label: How often do you post sensitive personal or confidential information
+        online?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Never''}'
+      - '{''id'': 2, ''label'': ''Occasionally''}'
+      - '{''id'': 3, ''label'': ''Frequently''}'
+      required: true
+    - id: 4
+      name: question_4
+      label: What do you do when a friend or acquaintance posts something that offends
+        you or is hurtful online?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''I ignore it''}'
+      - '{''id'': 2, ''label'': ''I respond with a kind message''}'
+      - '{''id'': 3, ''label'': ''I block or limit their interactions''}'
+      - '{''id'': 4, ''label'': ''I report them''}'
+      required: true
+    - id: 5
+      name: question_5
+      label: What steps do you take when you're unsure about what information you
+        should share online?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': "I don''t share anything"}'
+      - '{''id'': 2, ''label'': ''I share only with close friends''}'
+      - '{''id'': 3, ''label'': ''I share with anyone''}'
+      required: true
+    - id: 6
+      name: question_6
+      label: How often do you use a pseudonym or anonymous account on social media?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Never''}'
+      - '{''id'': 2, ''label'': ''Occasionally''}'
+      - '{''id'': 3, ''label'': ''Frequently''}'
+      required: false
+    - id: 7
+      name: question_7
+      label: What do you do when you see someone posting fake news or misinformation
+        online?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: question_8
+      label: How likely are you to report fake news or misinformation to the platform
+        or the person who posted it?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: question_9
+      label: How would you rate your level of confidence when sharing information
+        on social media?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: question_10
+      label: What steps do you take to ensure that your social media posts are secure
+        and private?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''I use strong passwords and two-factor authentication''}'
+      - '{''id'': 2, ''label'': ''I use a separate email address and phone number
+        for social media''}'
+      - '{''id'': 3, ''label'': ''None of the above''}'
+      required: true
+    - id: 11
+      name: question_11
+      label: How often do you share personal or sensitive information with your social
+        media friends?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Never''}'
+      - '{''id'': 2, ''label'': ''Occasionally''}'
+      - '{''id'': 3, ''label'': ''Frequently''}'
+      required: false
+    - id: 12
+      name: question_12
+      label: What do you do when you're unsure about a social media platform's terms
+        of service or policies?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: question_13
+      label: How important do you think it is to have a clear privacy policy for your
+        social media usage?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Not very important''}'
+      - '{''id'': 2, ''label'': ''Somewhat important''}'
+      - '{''id'': 3, ''label'': ''Very important''}'
+      required: false
+    - id: 14
+      name: question_14
+      label: How would you rate your level of understanding of digital rights and
+        responsibilities?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: question_15
+      label: How often do you share your personal data with other online platforms
+        or third-party services?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Never''}'
+      - '{''id'': 2, ''label'': ''Occasionally''}'
+      - '{''id'': 3, ''label'': ''Frequently''}'
+      required: false
+    - id: 16
+      name: question_16
+      label: What do you do when you see a post that you know is fake or misleading?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: question_17
+      label: How likely are you to report a post that you know is fake or misleading?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: question_18
+      label: How confident are you in the accuracy of information you share online?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Not very confident''}'
+      - '{''id'': 2, ''label'': ''Somewhat confident''}'
+      - '{''id'': 3, ''label'': ''Very confident''}'
+      required: false
+    - id: 19
+      name: question_19
+      label: What do you do when you're posting information that could be considered
+        sensitive or confidential online?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''I only post it with close friends''}'
+      - '{''id'': 2, ''label'': ''I only post it with trusted people''}'
+      - '{''id'': 3, ''label'': ''I post it publicly''}'
+      - '{''id'': 4, ''label'': ''None of the above''}'
+      required: false
+    - id: 20
+      name: question_20
+      label: How do you handle conflicts or disagreements online, especially when
+        it involves a friend or acquaintance?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: question_21
+      label: What do you do when you see a post that you know could be considered
+        harassment or bullying online?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: question_22
+      label: How often do you report online harassment or bullying to the platform
+        or authorities?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Never''}'
+      - '{''id'': 2, ''label'': ''Occasionally''}'
+      - '{''id'': 3, ''label'': ''Frequently''}'
+      required: false
+    - id: 23
+      name: question_23
+      label: What steps do you take when you encounter a post that you feel is discriminatory
+        or biased online?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: question_24
+      label: How important do you think it is for you to be mindful of your digital
+        footprints?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Not very important''}'
+      - '{''id'': 2, ''label'': ''Somewhat important''}'
+      - '{''id'': 3, ''label'': ''Very important''}'
+      required: false
+    - id: 25
+      name: question_25
+      label: What do you do when you're feeling overwhelmed or upset by social media
+        usage?
+      hint: null
+      type: text
+      options: []
+      required: false

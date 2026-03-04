@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Candidate Feedback Survey
+    pages:
+    - id: 1
+      name: candidate_info_section
+      label: -- Candidate Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: candidate_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_id_code
+      label: Job ID
+      hint: As listed in the vacancy
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: position_applied_for
+      label: Position Applied For
+      hint: Name of the role
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_interview_feedback
+      label: Date of Interview
+      hint: When did the interview take place
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: feedback_questions_section
+      label: -- Feedback Questions --
+      hint: Please share your thoughts on the discussion
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: overall_interview_rating
+      label: Rate your overall interview experience
+      hint: Choose your level of satisfaction
+      type: select_one
+      options:
+      - 1 (Poor)
+      - 2
+      - 3
+      - 4
+      - 5 (Excellent)
+      required: true
+    - id: 8
+      name: jd_accuracy_check
+      label: Was the job description accurate
+      hint: Based on the interview details
+      type: select_one
+      options:
+      - true
+      - Somewhat
+      - false
+      required: true
+    - id: 9
+      name: interviewer_prep_rating
+      label: How would you rate the interviewers' preparation
+      hint: Did they seem ready and knowledgeable
+      type: select_one
+      options:
+      - Very Poor
+      - Poor
+      - Average
+      - Good
+      - Excellent
+      required: true
+    - id: 10
+      name: question_time_check
+      label: Did you have enough time to ask questions
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Neutral
+      required: true
+    - id: 11
+      name: recruiter_professionalism
+      label: Professionalism of the recruitment team
+      hint: Interaction with HR and recruiters
+      type: select_one
+      options:
+      - Very Poor
+      - Poor
+      - Average
+      - Good
+      - Excellent
+      required: true
+    - id: 12
+      name: process_ratings_section
+      label: -- Recruitment Process --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: application_ease_score
+      label: Ease of application
+      hint: 1 to 10 scale
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: next_steps_clarity
+      label: Clarity of next steps
+      hint: Did we explain what comes after the interview
+      type: select_one
+      options:
+      - Very Clear
+      - Clear
+      - Unclear
+      - Very Unclear
+      required: true
+    - id: 15
+      name: email_comm_rating
+      label: Communication via email
+      hint: How helpful were our electronic messages
+      type: select_one
+      options:
+      - Helpful
+      - Too Frequent
+      - Too Rare
+      - Irrelevant
+      required: true
+    - id: 16
+      name: final_thoughts_section
+      label: -- Final Thoughts --
+      hint: help us grow
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: interview_enjoyment
+      label: What did you enjoy most about the interview
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: improvement_suggestions
+      label: Any suggestions for improvement
+      hint: Be as honest as possible
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: recommend_as_employer
+      label: Would you recommend our company as an employer
+      hint: Based on your experience as a candidate
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: submission_date_val
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

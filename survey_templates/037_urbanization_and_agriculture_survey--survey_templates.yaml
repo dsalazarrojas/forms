@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Urbanization And Agriculture Survey
+    pages:
+    - id: 1
+      name: urbanization_and_agriculture_survey_form_page_1
+      label: urbanization_and_agriculture_survey_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: what_is_the_impact_of_urbanization
+      label: what is the impact of urbanization
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: true
+    - id: 3
+      name: how_much_time_do_you_spend_outside_of_work
+      label: how much time do you spend outside of work
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: what_are_your_employment_status
+      label: what are your employment status
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 5
+      name: urbanization_and_agriculture_survey_form_page_2
+      label: urbanization and agriculture survey form page 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: how_much_time_do_you_spend_outside_of_work_in_urban
+      label: how much time do you spend outside of work in urban
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false

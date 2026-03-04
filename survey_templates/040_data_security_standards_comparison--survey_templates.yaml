@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Security Standards Comparison
+    pages:
+    - id: 1
+      name: security_standards
+      label: Security Standards
+      hint: null
+      type: select_one
+      options:
+      - Confidentiality
+      - Integrity
+      - Availability
+      required: false
+    - id: 2
+      name: evaluation_method
+      label: Evaluation Method
+      hint: null
+      type: select_one
+      options:
+      - Questionnaire
+      - Checklist
+      - Framework
+      required: false
+    - id: 3
+      name: evaluation_method_selected
+      label: Selected Evaluation Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: recommendations
+      label: Recommendations
+      hint: Please provide recommendations for improvements
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: evaluation_score
+      label: Evaluation Score
+      hint: Enter a score out of 10
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: risk_factors
+      label: Risk Factors
+      hint: Please list risk factors
+      type: select_multiple
+      options:
+      - Confidentiality
+      - Integrity
+      - Availability
+      required: false
+    - id: 7
+      name: risk_factors_selected
+      label: Selected Risk Factors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: decision
+      label: Decision
+      hint: Enter a decision or recommendation
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: Any additional comments
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: date_completed
+      label: Date Completed
+      hint: 'Format: MM/DD/YYYY'
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: evaluator
+      label: Evaluator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: evaluator_title
+      label: Evaluator Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: email
+      label: Email
+      hint: 'Format: example@company.com'
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: phone
+      label: Phone
+      hint: 'Format: 123-456-7890'
+      type: text
+      options: []
+      required: false

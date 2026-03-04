@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: thanksgiving_potluck_survey
+    pages:
+    - id: 1
+      name: main_page
+      label: main_page
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_type
+      label: event_type
+      hint: null
+      type: select_one
+      options:
+      - Friendsgiving Party
+      - Family Gathering
+      - Office Celebration
+      - School Function
+      - Community Event
+      - Church Potluck
+      required: true
+    - id: 3
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: number_guests
+      label: number_guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: potluck_food
+      label: potluck_food
+      hint: null
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Meat
+      - Seafood
+      - Salad
+      required: true
+    - id: 8
+      name: food_items
+      label: food_items
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: food_dietary_restrictions
+      label: food_dietary_restrictions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true

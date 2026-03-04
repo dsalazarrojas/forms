@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Workshop Quality Assessment
+    pages:
+    - id: 1
+      name: session_feedback
+      label: Session Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: session_satisfaction
+      label: Session Satisfaction
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: session_satisfaction_score
+      label: Session Satisfaction Score
+      hint: 1-5, 1-2, 1-3, 1-4, 1-5 scale
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: next_workshop
+      label: Next Workshop
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 11, ''label'': True}'
+      - '{''id'': 12, ''label'': False}'
+      - '{''id'': 13, ''label'': ''Not Sure''}'
+      required: true
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: session_improvement
+      label: Session Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: session_improvement_score
+      label: Session Improvement Score
+      hint: 1-5, 1-2, 1-3, 1-4, 1-5 scale
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: session_improvement_plan
+      label: Session Improvement Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: session_follow_up
+      label: Session Follow-up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: session_follow_up_score
+      label: Session Follow-up Score
+      hint: 1-5, 1-2, 1-3, 1-4, 1-5 scale
+      type: number
+      options: []
+      required: false

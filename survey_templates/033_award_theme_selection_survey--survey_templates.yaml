@@ -1,0 +1,159 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Award Theme Selection Survey
+    pages:
+      - id: 1
+        name: section_user_info
+        label: -- User Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: full_name
+        label: Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email_address
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: department_group
+        label: Department or Group
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: section_theme_selection
+        label: -- Theme Selection --
+        hint: Please rate each of our proposed themes
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: theme_1_rating
+        label: Galactic Gala - Space and Future
+        hint: Rate from 1 (Least favorite) to 5 (Most favorite)
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Fair
+          - 3 - Average
+          - 4 - Good
+          - 5 - Excellent
+        required: true
+      - id: 7
+        name: theme_2_rating
+        label: Retro Rewind - 80s and 90s
+        hint: null
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Fair
+          - 3 - Average
+          - 4 - Good
+          - 5 - Excellent
+        required: true
+      - id: 8
+        name: theme_3_rating
+        label: Elegant Enigma - Masquerade and Mystery
+        hint: null
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Fair
+          - 3 - Average
+          - 4 - Good
+          - 5 - Excellent
+        required: true
+      - id: 9
+        name: theme_4_rating
+        label: Tropical Treasure - Beach and Island
+        hint: null
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Fair
+          - 3 - Average
+          - 4 - Good
+          - 5 - Excellent
+        required: true
+      - id: 10
+        name: preferred_colors
+        label: Preferred Color Palette
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Gold and Black (Classic)
+          - Blue and Silver (Cool)
+          - Red and White (Bold)
+          - Pastels (Soft)
+          - Neon (Vibrant)
+        required: true
+      - id: 11
+        name: suggested_theme_idea
+        label: Do you have a theme idea to suggest?
+        hint: Provide a brief name and description
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: important_theme_element
+        label: Most Important Element of a Theme
+        hint: What makes a theme successful?
+        type: select_one
+        options:
+          - Immersive Decoration
+          - Fun Dress Code
+          - Themed Music/Entertainment
+          - Specialized Food and Drink
+        required: true
+      - id: 13
+        name: decor_volunteer
+        label: Willing to help with the Decorating Committee?
+        hint: null
+        type: select_one
+        options:
+          - Yes, I am interested
+          - No, thank you
+        required: true
+      - id: 14
+        name: favorite_previous_theme
+        label: Previous Favorite Theme
+        hint: What was the best theme from past years?
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: additional_comments_theme
+        label: Any other comments on the theme selection?
+        hint: Provide any extra feedback
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: submission_date_theme
+        label: Date of Submission
+        hint: null
+        type: date
+        options: []
+        required: true

@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Solo Performer Training Survey
+    pages:
+    - id: 1
+      name: artist_discipline
+      label: Artist Discipline
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: performance_experience
+      label: Performance Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: training_goals
+      label: What are your training goals?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Improve technique''}'
+      - '{''id'': 2, ''label'': ''Increase performance''}'
+      - '{''id'': 3, ''label'': ''Both''}'
+      required: false
+    - id: 4
+      name: training_habits
+      label: What are your current training habits?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Several times a week''}'
+      - '{''id'': 3, ''label'': ''Rarely''}'
+      - '{''id'': 4, ''label'': ''Not at all''}'
+      required: false
+    - id: 5
+      name: support_needs
+      label: What kind of support do you need?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Technical''}'
+      - '{''id'': 2, ''label'': ''Emotional''}'
+      - '{''id'': 3, ''label'': ''Financial''}'
+      - '{''id'': 4, ''label'': ''None''}'
+      required: false
+    - id: 6
+      name: discipline_frequency
+      label: How frequently do you train in your discipline?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Several times a week''}'
+      - '{''id'': 3, ''label'': ''Rarely''}'
+      - '{''id'': 4, ''label'': ''Not at all''}'
+      required: false
+    - id: 7
+      name: performance_frequency
+      label: How frequently do you perform?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Frequently''}'
+      - '{''id'': 2, ''label'': ''Occasionally''}'
+      - '{''id'': 3, ''label'': ''Rarely''}'
+      - '{''id'': 4, ''label'': ''Never''}'
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

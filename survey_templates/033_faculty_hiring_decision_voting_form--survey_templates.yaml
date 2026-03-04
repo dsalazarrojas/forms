@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: faculty_hiring_decision_voting_form
+    pages:
+    - id: 1
+      name: candidate_name
+      label: candidate_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: position_title
+      label: position_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: candidate_evaluation
+      label: candidate_evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vote_for
+      label: vote_for
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 5
+      name: candidate_rating
+      label: candidate_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: evaluation_date
+      label: evaluation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: evaluation_time
+      label: evaluation_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: committee_member
+      label: committee_member
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 9
+      name: committee_position
+      label: committee_position
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: candidate_status
+      label: candidate_status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: committee_rating
+      label: committee_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: candidate_relevant_experience
+      label: candidate_relevant_experience
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

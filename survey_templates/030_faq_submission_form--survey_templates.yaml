@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: faq_submission_form
+    pages:
+    - id: 1
+      name: submission_form
+      label: Frequently Asked Questions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question_type
+      label: question_type
+      hint: What type of question would you like to ask?
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''General''}'
+      - '{''id'': 2, ''label'': ''Technical''}'
+      - '{''id'': 3, ''label'': ''Billing''}'
+      required: true
+    - id: 3
+      name: question_description
+      label: Question Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: question_answer
+      label: Question Answer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: submitter_info
+      label: Submitter Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false

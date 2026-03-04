@@ -1,0 +1,51 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Sports Center Survey Form
+    pages:
+    - id: 1
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55+
+      required: true
+    - id: 2
+      name: frequency_of_visit
+      label: Frequency of Visit
+      hint: null
+      type: select_one
+      options:
+      - Once a week
+      - Twice a week
+      - Rarely
+      required: true
+    - id: 3
+      name: sports_activity
+      label: Favorite Sports Activity
+      hint: null
+      type: select_multiple
+      options:
+      - Basketball
+      - Football
+      - Tennis
+      - Volleyball
+      - Golf
+      - Hockey
+      required: true

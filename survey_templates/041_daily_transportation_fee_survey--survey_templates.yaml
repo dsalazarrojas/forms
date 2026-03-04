@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Transportation Fee Survey
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: commute_frequency
+      label: Commute Frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: transportation_mode
+      label: Transportation Mode
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: commute_time
+      label: Commute Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments2
+      label: More Comments
+      hint: null
+      type: note
+      options: []
+      required: false

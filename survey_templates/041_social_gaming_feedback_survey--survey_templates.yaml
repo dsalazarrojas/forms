@@ -1,0 +1,44 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Social Gaming Feedback Survey
+    pages:
+    - id: 1
+      name: player_habits
+      label: Player Habits
+      hint: null
+      type: select_multiple
+      options:
+      - Casual gaming
+      - Frequent gaming
+      - Heavy gaming
+      required: false
+    - id: 2
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Highly Satisfied
+      - Somewhat Satisfied
+      - Somewhat Dissatisfied
+      - Highly Dissatisfied
+      required: false
+    - id: 3
+      name: feature_ideas
+      label: Feature Ideas
+      hint: Type in any new feature ideas you have for our games
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Education And Life Expectancy Quiz
+    pages:
+    - id: 1
+      name: education_and_life_expectancy_quiz_page_1
+      label: What is the relation between education and life expectancy?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: education_and_life_expectancy_quiz_page_2
+      label: How does one's education affect life expectancy?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: education_and_life_expectancy_quiz_page_3
+      label: How much does education impact life expectancy?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: education_and_life_expectancy_quiz_page_4
+      label: Life Expectancy and Education Quiz Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: education_and_life_expectancy_quiz_page_5
+      label: How does one's educational degree influence their life expectancy?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: education_and_life_expectancy_quiz_page_6
+      label: What is the most important factor for life expectancy?
+      hint: null
+      type: select_one
+      options:
+      - Very Important
+      - Not Important
+      required: false
+    - id: 7
+      name: education_and_life_expectancy_quiz_page_7
+      label: How does education affect life expectancy over time?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: education_and_life_expectancy_quiz_page_8
+      label: How does education impact life expectancy in developed vs underdeveloped
+        countries?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: education_and_life_expectancy_quiz_page_9
+      label: Education and Life Expectancy Quiz End of Quiz
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: education_and_life_expectancy_quiz_page_10
+      label: How many questions do you have about this quiz?
+      hint: null
+      type: text
+      options: []
+      required: false

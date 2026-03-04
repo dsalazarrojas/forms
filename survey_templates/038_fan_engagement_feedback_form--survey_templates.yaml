@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fan Engagement Feedback Form
+    pages:
+    - id: 1
+      name: fan_engagement_form
+      label: Fan Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: fan_preferred_content
+      label: Content Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: event_experience
+      label: Event Experience
+      hint: Please share any comments about your recent event experience
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: fan_suggestion
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_suggestion
+      label: Event Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_date
+      label: Date of Event
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: fan_type
+      label: Fan Type
+      hint: null
+      type: select_one
+      options:
+      - Fan
+      - Non-Fan
+      required: true
+    - id: 14
+      name: social_media
+      label: Social Media
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Twitter
+      - Instagram
+      - Reddit
+      required: false
+    - id: 15
+      name: followup
+      label: Follow-up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: followup_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: followup_location
+      label: Follow-up Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: followup_channel
+      label: Follow-up Channel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: followup_method
+      label: Follow-up Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: followup_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - Scheduled
+      - In Progress
+      - Completed
+      required: true
+    - id: 21
+      name: followup_notes
+      label: Follow-up Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: next_followup_date
+      label: Next Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: next_followup_time
+      label: Next Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: next_followup_location
+      label: Next Follow-up Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: next_followup_notes
+      label: Next Follow-up Notes
+      hint: null
+      type: text
+      options: []
+      required: false

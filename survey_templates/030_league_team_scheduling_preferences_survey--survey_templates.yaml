@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: League Team Scheduling Preferences Survey
+    pages:
+    - id: 1
+      name: team_availability
+      label: team_availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_days
+      label: preferred_days
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: preferred_times
+      label: preferred_times
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: blackout_dates
+      label: blackout_dates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: conflict_avoidance
+      label: conflict_avoidance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: team_conflict_avoidance
+      label: team_conflict_avoidance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lymphedema Device Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: device_usage
+      label: How often do you use your device?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Every day''}'
+      - '{''label'': ''Almost every day''}'
+      - '{''label'': ''Several times a week''}'
+      - '{''label'': ''Rarely''}'
+      - '{''label'': ''Never''}'
+      required: false
+    - id: 3
+      name: usage_patterns
+      label: What is your typical usage pattern with your device?
+      hint: Provide a brief description
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction
+      label: How satisfied are you with your device?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very satisfied''}'
+      - '{''label'': ''Somewhat satisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat dissatisfied''}'
+      - '{''label'': ''Very dissatisfied''}'
+      required: false
+    - id: 5
+      name: improvement_ideas
+      label: Do you have any suggestions for improvement?
+      hint: Provide a detailed description
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: pain_management
+      label: Pain management during usage
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''No issues''}'
+      - '{''label'': ''Minor issues''}'
+      - '{''label'': ''Some issues''}'
+      - '{''label'': ''Serious issues''}'
+      - '{''label'': ''Extremely serious issues''}'
+      required: false
+    - id: 7
+      name: comfort
+      label: How would you rate the comfort of your device?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not at all comfortable''}'
+      - '{''label'': ''Somewhat comfortable''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat uncomfortable''}'
+      - '{''label'': ''Very uncomfortable''}'
+      required: false
+    - id: 8
+      name: recommendation
+      label: Would you recommend this device to a friend or family member?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 9
+      name: feedback
+      label: Additional feedback or concerns?
+      hint: Please provide any additional feedback or concerns
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Category 1''}'
+      - '{''label'': ''Category 2''}'
+      - '{''label'': ''Category 3''}'
+      - '{''label'': ''Category 4''}'
+      - '{''label'': ''Category 5''}'
+      required: false
+    - id: 16
+      name: tags
+      label: Tags
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Tag 1''}'
+      - '{''label'': ''Tag 2''}'
+      - '{''label'': ''Tag 3''}'
+      - '{''label'': ''Tag 4''}'
+      - '{''label'': ''Tag 5''}'
+      required: false

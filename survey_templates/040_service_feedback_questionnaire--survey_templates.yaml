@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: service_feedback_questionnaire
+    pages:
+    - id: 1
+      name: first_question
+      label: What was your overall experience at this location?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: satisfaction
+      label: How satisfied are you with your experience?
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''reported_satisfied''}'
+      - '{''option2'': ''reported_dissatisfied''}'
+      - '{''option3'': ''reported_neutral''}'
+      required: false
+    - id: 4
+      name: comment
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: job_function
+      label: Job Function
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: staff_service_quality
+      label: Staff Service Quality
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''excellent''}'
+      - '{''option2'': ''fair''}'
+      - '{''option3'': ''poor''}'
+      required: false
+    - id: 16
+      name: staff_attitude
+      label: Staff Attitude
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''friendly''}'
+      - '{''option2'': ''unfriendly''}'
+      - '{''option3'': ''neutral''}'
+      required: false
+    - id: 17
+      name: staff_knowledge
+      label: Staff Knowledge
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''very_knowledgeable''}'
+      - '{''option2'': ''somewhat_knowledgeable''}'
+      - '{''option3'': ''not_knowledgeable''}'
+      required: false
+    - id: 18
+      name: communication
+      label: Communication
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''excellent''}'
+      - '{''option2'': ''fair''}'
+      - '{''option3'': ''reported''}'
+      required: false
+    - id: 19
+      name: resolution
+      label: Resolution
+      hint: null
+      type: select_multiple
+      options:
+      - option1:ประกreported_improved
+      - '{''option2'': ''not_improved''}'
+      - '{''option3'': ''not_applicable''}'
+      required: false
+    - id: 20
+      name: feedback
+      label: Additional Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: service_quality_improved
+      label: Service Quality Improved
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''reported_improved''}'
+      - '{''option2'': ''not_improved''}'
+      - '{''option3'': ''not_applicable''}'
+      required: false
+    - id: 22
+      name: service_quality_dropped
+      label: Service Quality Dropped
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''improved''}'
+      - '{''option2'': ''reported''}'
+      - '{''option3'': ''not_applicable''}'
+      required: false
+    - id: 23
+      name: service_quality_frequent_problem
+      label: Service Quality Frequent Problem
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''frequent''}'
+      - '{''option2'': ''sporadic''}'
+      - '{''option3'': ''not_applicable''}'
+      required: false
+    - id: 24
+      name: service_quality_uncommon_problem
+      label: Service Quality Uncommon Problem
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''uncommon''}'
+      - '{''option2'': ''frequent''}'
+      - '{''option3'': ''not_applicable''}'
+      required: false
+    - id: 25
+      name: service_quality_rare_problem
+      label: Service Quality Rare Problem
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''rare''}'
+      - '{''option2'': ''uncommon''}'
+      - '{''option3'': ''frequent''}'
+      required: false

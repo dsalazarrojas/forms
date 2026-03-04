@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: supplier_quality_assessment_form
+    pages:
+    - id: 1
+      name: supplier_name
+      label: Supplier Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: supplier_rating
+      label: supplier_rating
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 3
+      name: quality_of_service
+      label: quality_of_service
+      hint: null
+      type: select_multiple
+      options:
+      - excellent
+      - good
+      - fair
+      - poor
+      required: false
+    - id: 4
+      name: communication
+      label: communication
+      hint: null
+      type: select_one
+      options:
+      - excellent
+      - good
+      - fair
+      - poor
+      - very poor
+      required: true
+    - id: 5
+      name: reliability
+      label: reliability
+      hint: null
+      type: select_one
+      options:
+      - excellent
+      - good
+      - fair
+      - poor
+      required: true
+    - id: 6
+      name: response_time
+      label: response_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: supplier_email
+      label: supplier_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: supplier_phone
+      label: supplier_phone
+      hint: null
+      type: text
+      options: []
+      required: false

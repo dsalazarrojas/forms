@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health And Wellness Program Awareness Poll
+    pages:
+    - id: 1
+      name: awareness_level
+      label: current_awareness_level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 2
+      name: participation
+      label: participate_in_wellness_programs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: program_satisfaction
+      label: satisfaction_with_wellness_programs
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 4
+      name: initiative_participation
+      label: participate_in_initiatives
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: frequency_of_participation
+      label: how_frequent_do_you_participate
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Less than monthly
+      - About once a month
+      - About once every two months
+      - About once every three months
+      - About once every six months
+      - About once a year
+      - More than once a year
+      required: false
+    - id: 6
+      name: benefits_received
+      label: which_benefits_do_you_receive
+      hint: null
+      type: select_multiple
+      options:
+      - Stress reduction
+      - Improved physical health
+      - Improved mental health
+      - Increased productivity
+      - Improved relationships
+      - Better work-life balance
+      - Improved overall health
+      - Other (please specify)
+      - None
+      required: false
+    - id: 7
+      name: program_funding
+      label: who_funds_the_wellness_programs
+      hint: null
+      type: select_multiple
+      options:
+      - Employer
+      - Insurance Company
+      - Union
+      - Employee contributions
+      - Both employer and insurance
+      - Other (please specify)
+      required: false
+    - id: 8
+      name: satisfaction_with_programs
+      label: satisfaction_with_programs
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 9
+      name: program_awareness
+      label: program_awareness
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: false
+    - id: 10
+      name: communication
+      label: how_do_you_prefer_to_receive
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - In-person meetings
+      - Newsletters
+      - Print materials
+      - Text messages
+      - Other (please specify)
+      required: false
+    - id: 11
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false

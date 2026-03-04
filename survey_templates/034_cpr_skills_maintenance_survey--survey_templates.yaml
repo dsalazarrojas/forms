@@ -1,0 +1,215 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: CPR Skills Maintenance Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Your Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: respondent_email
+      label: Email Address
+      hint: For follow-up contact
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: training_date
+      label: CPR Training Date
+      hint: When you completed CPR training
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: instructor_name
+      label: Instructor Name
+      hint: Name of your CPR instructor
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: training_location
+      label: Training Location
+      hint: Where training was held
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: current_certification
+      label: Current CPR Certification Status
+      hint: null
+      type: select_one
+      options:
+      - Currently certified
+      - Recently expired
+      - Expired over 6 months ago
+      - Never certified
+      required: true
+    - id: 7
+      name: time_since_certification
+      label: Time Since Certification
+      hint: How long have you been certified
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6-12 months
+      - 1-2 years
+      - 2-3 years
+      - More than 3 years
+      required: false
+    - id: 8
+      name: confidence_level
+      label: Confidence in Performing CPR
+      hint: null
+      type: select_one
+      options:
+      - Very confident
+      - Confident
+      - Somewhat confident
+      - Not confident
+      - Very not confident
+      required: true
+    - id: 9
+      name: compression_skills
+      label: Chest Compression Skills Maintenance
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Needs refresher
+      required: true
+    - id: 10
+      name: airway_skills
+      label: Airway Management Skills
+      hint: Opening airway, rescue breathing
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Needs refresher
+      required: true
+    - id: 11
+      name: aed_skills
+      label: AED Operation Skills
+      hint: Using automated external defibrillator
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Needs refresher
+      required: true
+    - id: 12
+      name: cpr_practice_frequency
+      label: Frequency of CPR Practice
+      hint: How often do you practice CPR
+      type: select_one
+      options:
+      - Monthly or more
+      - Quarterly
+      - Annually
+      - Less frequently
+      - Never practice
+      required: true
+    - id: 13
+      name: refresher_needed
+      label: Feel Refresher Training Is Needed
+      hint: null
+      type: select_one
+      options:
+      - Yes, very much
+      - Yes, somewhat
+      - Neutral
+      - Probably not
+      - No, not needed
+      required: true
+    - id: 14
+      name: training_effectiveness
+      label: Effectiveness of Original Training
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 15
+      name: training_quality
+      label: Quality of Instruction
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 16
+      name: hands_on_practice
+      label: Hands-On Practice Opportunities
+      hint: Adequate time for skill practice
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 17
+      name: materials_quality
+      label: Quality of Training Materials
+      hint: Mannequins, models, equipment
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 18
+      name: recommendations
+      label: Recommended Training Improvements
+      hint: How could training be better
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: additional_courses
+      label: Interest in Additional Certification Courses
+      hint: Advanced CPR, pediatric CPR etc.
+      type: select_one
+      options:
+      - Yes, very interested
+      - Interested
+      - Maybe
+      - Not interested
+      required: false
+    - id: 20
+      name: feedback
+      label: Additional Comments or Feedback
+      hint: Any other thoughts on CPR training
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: public_composting_petition_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: select_one_1
+      label: What is your role in the community?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Student''}'
+      - '{''id'': 2, ''value'': ''Teacher''}'
+      - '{''id'': 3, ''value'': ''Parent''}'
+      - '{''id'': 4, ''value'': ''Community Leader''}'
+      - '{''id'': 5, ''value'': ''Other''}'
+      required: false
+    - id: 9
+      name: select_multiple_1
+      label: Which of the following are you interested in?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Community Composting''}'
+      - '{''id'': 2, ''value'': ''Food Waste Reduction''}'
+      - '{''id'': 3, ''value'': ''Urban Agriculture''}'
+      - '{''id'': 4, ''value'': ''Education and Outreach''}'
+      - '{''id'': 5, ''value'': ''Community Garden''}'
+      - '{''id'': 6, ''value'': ''Community Policy''}'
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

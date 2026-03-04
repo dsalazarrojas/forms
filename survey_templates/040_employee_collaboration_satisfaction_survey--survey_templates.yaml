@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Collaboration Satisfaction Survey
+    pages:
+    - id: 1
+      name: introduction_page
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: collaboration_questions_page
+      label: collaboration
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''very-satisfied'', ''value'': ''Very Satisfied''}'
+      - '{''label'': ''somewhat-satisfied'', ''value'': ''Somewhat Satisfied''}'
+      - '{''label'': ''not-at-all-satisfied'', ''value'': ''Not at all Satisfied''}'
+      required: false
+    - id: 3
+      name: communication_questions_page
+      label: communication
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''very-satisfied'', ''value'': ''Very Satisfied''}'
+      - '{''label'': ''somewhat-satisfied'', ''value'': ''Somewhat Satisfied''}'
+      - '{''label'': ''not-at-all-satisfied'', ''value'': ''Not at all Satisfied''}'
+      required: false
+    - id: 4
+      name: feedback_page
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: teamwork_questions_page
+      label: teamwork
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''very-satisfied'', ''value'': ''Very Satisfied''}'
+      - '{''label'': ''somewhat-satisfied'', ''value'': ''Somewhat Satisfied''}'
+      - '{''label'': ''not-at-all-satisfied'', ''value'': ''Not at all Satisfied''}'
+      required: false
+    - id: 6
+      name: communication_questions_page
+      label: communication
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''very-satisfied'', ''value'': ''Very Satisfied''}'
+      - '{''label'': ''somewhat-satisfied'', ''value'': ''Somewhat Satisfied''}'
+      - '{''label'': ''not-at-all-satisfied'', ''value'': ''Not at all Satisfied''}'
+      required: false
+    - id: 7
+      name: manager_questions_page
+      label: manager
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''very-satisfied'', ''value'': ''Very Satisfied''}'
+      - '{''label'': ''somewhat-satisfied'', ''value'': ''Somewhat Satisfied''}'
+      - '{''label'': ''not-at-all-satisfied'', ''value'': ''Not at all Satisfied''}'
+      required: false
+    - id: 8
+      name: manager_questions_page_2
+      label: manager-questions-2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: collaboration_questions_page
+      label: teamwork-questions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''very-satisfied'', ''value'': ''Very Satisfied''}'
+      - '{''label'': ''somewhat-satisfied'', ''value'': ''Somewhat Satisfied''}'
+      - '{''label'': ''not-at-all-satisfied'', ''value'': ''Not at all Satisfied''}'
+      required: false
+    - id: 10
+      name: collaboration_questions_page_2
+      label: collaboration-questions-2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: collaboration_satisfaction_question_page
+      label: satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: feedback_page
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: collaboration_satisfaction_question_page
+      label: satisfaction-questions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''very-satisfied'', ''value'': ''Very Satisfied''}'
+      - '{''label'': ''somewhat-satisfied'', ''value'': ''Somewhat Satisfied''}'
+      - '{''label'': ''not-at-all-satisfied'', ''value'': ''Not at all Satisfied''}'
+      required: false
+    - id: 14
+      name: manager_communication_page
+      label: manager-communication
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''very-satisfied'', ''value'': ''Very Satisfied''}'
+      - '{''label'': ''somewhat-satisfied'', ''value'': ''Somewhat Satisfied''}'
+      - '{''label'': ''not-at-all-satisfied'', ''value'': ''Not at all Satisfied''}'
+      required: false
+    - id: 15
+      name: manager_communication_questions_page
+      label: manager-communication-questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: collaboration_satisfaction_question_page_2
+      label: satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: communication_questions_page_2
+      label: communication-questions-2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''very-satisfied'', ''value'': ''Very Satisfied''}'
+      - '{''label'': ''somewhat-satisfied'', ''value'': ''Somewhat Satisfied''}'
+      - '{''label'': ''not-at-all-satisfied'', ''value'': ''Not at all Satisfied''}'
+      required: false
+    - id: 18
+      name: manager_communication_page_2
+      label: manager-communication-2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: manager_questions_questions_page
+      label: manager-questions-questions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''very-satisfied'', ''value'': ''Very Satisfied''}'
+      - '{''label'': ''somewhat-satisfied'', ''value'': ''Somewhat Satisfied''}'
+      - '{''label'': ''not-at-all-satisfied'', ''value'': ''Not at all Satisfied''}'
+      required: false
+    - id: 20
+      name: teamwork_page_questions
+      label: teamwork
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''very-satisfied'', ''value'': ''Very Satisfied''}'
+      - '{''label'': ''somewhat-satisfied'', ''value'': ''Somewhat Satisfied''}'
+      - '{''label'': ''not-at-all-satisfied'', ''value'': ''Not at all Satisfied''}'
+      required: false
+    - id: 21
+      name: communication_page_questions
+      label: communication
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''very-satisfied'', ''value'': ''Very Satisfied''}'
+      - '{''label'': ''somewhat-satisfied'', ''value'': ''Somewhat Satisfied''}'
+      - '{''label'': ''not-at-all-satisfied'', ''value'': ''Not at all Satisfied''}'
+      required: false
+    - id: 22
+      name: teamwork_questions_page_2
+      label: questions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''very-satisfied'', ''value'': ''Very Satisfied''}'
+      - '{''label'': ''somewhat-satisfied'', ''value'': ''Somewhat Satisfied''}'
+      - '{''label'': ''not-at-all-satisfied'', ''value'': ''Not at all Satisfied''}'
+      required: false
+    - id: 23
+      name: communication_questions_page_2
+      label: questions-2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: manager_questions_page_2
+      label: questions-2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: questions_page
+      label: questions
+      hint: null
+      type: text
+      options: []
+      required: false

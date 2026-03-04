@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Room Experience Survey
+    pages:
+    - id: 1
+      name: emergency_room_experience_survey
+      label: emergency room experience survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Cardiac''}'
+      - '{''label'': ''Neurologic''}'
+      - '{''label'': ''Surgical''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: provider_name
+      label: provider name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: visit_date
+      label: visit date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: visit_time
+      label: visit time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: rating
+      label: rating
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 7
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_name
+      label: patient name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: patient_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: patient_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

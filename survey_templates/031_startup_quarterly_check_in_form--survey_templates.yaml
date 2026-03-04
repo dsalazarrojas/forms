@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Startup Quarterly Check In Form
+    pages:
+    - id: 1
+      name: quarterly_progress
+      label: Track quarterly progress
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: startup_info
+      label: Company information
+      hint: Please provide your startup information
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: progress_update
+      label: Quarterly progress update
+      hint: Provide a clear and concise update on the progress
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: financial_progress
+      label: Financial progress
+      hint: Include any financial metrics (e.g., revenue, expenses, funding)
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: next_steps
+      label: Next steps
+      hint: Describe what you will do next
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: current_challenges
+      label: Current challenges
+      hint: List any current challenges
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: key_milestones
+      label: Key milestones
+      hint: List the key milestones for your startup
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: mentors_investors
+      label: Mentors and investors
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: progress_rating
+      label: Progress rating
+      hint: Rate your progress (e.g., 1-10)
+      type: number
+      options: []
+      required: false

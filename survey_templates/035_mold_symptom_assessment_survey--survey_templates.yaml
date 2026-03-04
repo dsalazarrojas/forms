@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mold Symptom Assessment Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: building_information
+      label: Building Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: mold_symptoms
+      label: Mold Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: symptom_description
+      label: Symptoms Description
+      hint: Please describe your mold symptoms in detail.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: exposure_history
+      label: Exposure History
+      hint: Please describe your mold exposure history in detail.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: mold_symptoms_frequency
+      label: How often do you experience mold symptoms?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Occasionally
+      - Rarely
+      - Never
+      required: false
+    - id: 7
+      name: exposure_location
+      label: Location of exposure
+      hint: Where have you been exposed to mold?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: symptoms_duration
+      label: Duration of symptoms
+      hint: How long have you experienced mold symptoms?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: exposure_duration
+      label: Exposure duration
+      hint: How long were you exposed to mold?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: health_effects
+      label: Health effects
+      hint: Describe any health effects experienced due to mold exposure.
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_attention
+      label: Have you sought medical attention due to mold exposure?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: medical_results
+      label: Medical results
+      hint: What were the medical results?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_planned
+      label: Will you follow up with your healthcare provider?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: follow_up_scheduled
+      label: Follow-up scheduled
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_completed
+      label: Follow-up completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_outcome
+      label: Follow-up outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: next_steps
+      label: Next steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_number
+      label: Contact Number
+      hint: Please enter your contact number.
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_doctor_name
+      label: Follow-up prophets name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_doctor_specialty
+      label: Doctor's specialty
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_doctor_phone
+      label: Doctor's phone number
+      hint: prophets phone number
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_doctor_notes
+      label: Doctor's notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_doctor_diagnosis
+      label: Doctor's diagnosis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_doctor_prescription
+      label: Doctor's prescription
+      hint: null
+      type: text
+      options: []
+      required: false

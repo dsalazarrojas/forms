@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bridal Party Survey
+    pages:
+    - id: 1
+      name: attendant_name
+      label: Bridesmaid or Attendant Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: bride_name
+      label: Bride Name
+      hint: Name of the bride
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: role_in_party
+      label: Your Role in the Bridal Party
+      hint: What is your position
+      type: select_one
+      options:
+      - Maid of honor
+      - Bridesmaid
+      - Groomsman
+      - Usher
+      - Other attendant
+      required: true
+    - id: 6
+      name: relationship_to_bride
+      label: Your Relationship to the Bride
+      hint: How do you know the bride
+      type: select_one
+      options:
+      - Best friend
+      - Close friend
+      - Sister or family
+      - College friend
+      - Coworker
+      - Other
+      required: true
+    - id: 7
+      name: dress_size
+      label: Dress Size
+      hint: Your typical dress size
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - 1X
+      - 2X
+      - 3X+
+      required: false
+    - id: 8
+      name: dress_style_preference
+      label: Dress Style Preference
+      hint: What style would you prefer
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: dress_budget
+      label: Dress Budget Comfort Level
+      hint: What can you afford for dress
+      type: select_one
+      options:
+      - Under 100
+      - 100 - 200
+      - 200 - 300
+      - 300 - 400
+      - 400+
+      required: false
+    - id: 10
+      name: shoe_size
+      label: Shoe Size
+      hint: Your shoe size
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: shoe_preference
+      label: Shoe Style Preference
+      hint: What type of shoes do you prefer
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: hair_preference
+      label: Hair and Makeup Preference
+      hint: Do you want hair and makeup done
+      type: select_one
+      options:
+      - Yes, with professional services
+      - Maybe, depends on cost
+      - No, I will do my own
+      - Not applicable
+      required: false
+    - id: 13
+      name: color_scheme
+      label: Preferred Color Scheme
+      hint: Any color preferences
+      type: select_multiple
+      options:
+      - Blush and gold
+      - Navy and silver
+      - Burgundy and champagne
+      - Green and copper
+      - Pastels
+      - Bold and vibrant
+      - Neutral tones
+      required: false
+    - id: 14
+      name: accessibility_needs
+      label: Accessibility or Mobility Needs
+      hint: Any special accommodations
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: guest_list
+      label: Number of Guests You Can Invite
+      hint: How many plus-ones
+      type: select_one
+      options:
+      - Plus 0
+      - Plus 1
+      - Plus 2
+      - Plus 3
+      - Plus family
+      - Other
+      required: false
+    - id: 16
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: Select any food restrictions
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Dairy-free
+      - Nut allergy
+      - Other allergy
+      - None
+      required: false
+    - id: 17
+      name: event_participation
+      label: Events You Will Attend
+      hint: Which events will you join
+      type: select_multiple
+      options:
+      - Bridal shower
+      - Bachelorette party
+      - Rehearsal dinner
+      - Wedding day
+      - Post-wedding brunch
+      - All events
+      required: true
+    - id: 18
+      name: event_responsibilities
+      label: Willing to Help With
+      hint: What can you help with
+      type: select_multiple
+      options:
+      - Planning events
+      - Hosting events
+      - Decorating
+      - Running errands
+      - Day-of coordination
+      - Speech or toasts
+      - Other
+      required: false
+    - id: 19
+      name: budget_concerns
+      label: Budget Concerns
+      hint: Any financial constraints
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: availability_concerns
+      label: Any Availability Concerns
+      hint: Work, school, or other conflicts
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: special_requests
+      label: Special Requests or Questions
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false

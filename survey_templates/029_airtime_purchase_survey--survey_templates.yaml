@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Airtime Purchase Survey
+    pages:
+    - id: 1
+      name: section_demographics
+      label: -- User Demographics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - Under 18
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55+
+      required: true
+    - id: 3
+      name: primary_network
+      label: Primary Mobile Network
+      hint: null
+      type: select_one
+      options:
+      - Network A
+      - Network B
+      - Network C
+      - Network D
+      - Other
+      required: true
+    - id: 4
+      name: section_purchase_habits
+      label: -- Airtime Purchase Habits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: purchase_frequency
+      label: How often do you purchase airtime?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Occasionally
+      required: true
+    - id: 6
+      name: typical_purchase_amount
+      label: Typical Purchase Amount
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: preferred_purchase_channel
+      label: Preferred Purchase Channel
+      hint: null
+      type: select_one
+      options:
+      - Mobile App
+      - USSD Code
+      - Online Website
+      - Physical Retail Store
+      - ATM
+      - Scratch Card
+      required: true
+    - id: 8
+      name: factor_influencing_purchase
+      label: What influences your choice of purchase channel?
+      hint: null
+      type: select_multiple
+      options:
+      - Convenience
+      - Speed
+      - Bonus/Promotions
+      - Ease of Use
+      - Safety/Security
+      required: true
+    - id: 9
+      name: section_satisfaction
+      label: -- Satisfaction and Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: purchase_ease_rating
+      label: Ease of Airtime Purchase Process
+      hint: 1 (Difficult) to 5 (Very Easy)
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: service_reliability
+      label: Reliability of Service Delivery (Receipt of Airtime)
+      hint: 1 (Unreliable) to 5 (Very Reliable)
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: promotion_awareness
+      label: Are you aware of current airtime promotions?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: promotion_influence
+      label: Do promotions influence when you buy airtime?
+      hint: null
+      type: select_one
+      options:
+      - Strongly Influence
+      - Somewhat Influence
+      - No Influence
+      required: true
+    - id: 14
+      name: improvement_suggestion
+      label: How can we improve the airtime purchase experience?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_for_prizes
+      label: Would you like to enter a prize draw for completing this survey?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: user_email
+      label: Email for Prize Entry (if Yes)
+      hint: null
+      type: email
+      options: []
+      required: false

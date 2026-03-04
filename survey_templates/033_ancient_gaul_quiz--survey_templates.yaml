@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ancient Gaul Quiz
+    pages:
+    - id: 1
+      name: section_quiz_header
+      label: -- Ancient Gaul History Quiz --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: section_tribes_regions
+      label: -- Tribes and Regions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: major_tribal_leader_against_caesar
+      label: Who was the major tribal leader who united Gaul against Julius Caesar?
+      hint: null
+      type: select_one
+      options:
+      - Vercingetorix
+      - Ambiorix
+      - Brennus
+      - Commius
+      required: true
+    - id: 5
+      name: primary_region_of_gaul
+      label: Ancient Gaul was primarily located in which modern-day country?
+      hint: null
+      type: select_one
+      options:
+      - Modern-day France
+      - Modern-day Italy
+      - Modern-day Spain
+      - Modern-day Greece
+      required: true
+    - id: 6
+      name: gaulish_fortification_types
+      label: Which of these were types of Gaulish fortifications?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Oppidum
+      - Hillfort
+      - Murus Gallicus
+      - Castrum
+      required: true
+    - id: 7
+      name: main_language_family
+      label: To which language family did the Gauls belong?
+      hint: null
+      type: select_one
+      options:
+      - Celtic
+      - Germanic
+      - Italic
+      - Slavic
+      required: true
+    - id: 8
+      name: section_roman_conquest
+      label: -- Roman Conquest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: battle_that_ended_gaulish_independence
+      label: Which decisive battle effectively ended Gaulish independence?
+      hint: null
+      type: select_one
+      options:
+      - Alesia
+      - Gergovia
+      - Bibracte
+      - Axona
+      required: true
+    - id: 10
+      name: year_caesar_began_gallic_wars_bc
+      label: In what year did Caesar begin the Gallic Wars (BC)?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: impact_of_romanization_on_gaul
+      label: Describe one major impact of Romanization on Gaul.
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: interested_in_more_history_quizzes
+      label: Are you interested in taking more ancient history quizzes?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false

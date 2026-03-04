@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: NLP Command Input Survey
+    pages:
+    - id: 1
+      name: survey_start
+      label: What is your role
+      hint: null
+      type: select_one
+      options:
+      - AI Team Member
+      - UX Researcher
+      - Product Owner
+      required: true
+    - id: 2
+      name: command_1
+      label: How often do you use natural language commands in your work
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 3
+      name: challenge_1
+      label: Most significant challenge faced while using natural language commands
+      hint: null
+      type: select_multiple
+      options:
+      - Lack of clarity in command definition
+      - Difficulty in understanding command context
+      - Limited command options
+      - None of the above
+      required: true
+    - id: 4
+      name: improvement_1
+      label: What would you like to see improved in natural language commands
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: command_context
+      label: How important is it to understand the context in which natural language
+        commands are used
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: command_important
+      label: How important is it to you that commands are well-documented
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true

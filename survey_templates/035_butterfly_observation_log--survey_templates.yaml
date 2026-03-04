@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Butterfly Observation Log
+    pages:
+    - id: 1
+      name: observer_name
+      label: Observer Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: observer_email
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: observation_date
+      label: Observation Date
+      hint: When did you observe the butterfly?
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: observation_time
+      label: Observation Time
+      hint: Approximate time of sighting
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: location_name
+      label: Location Name or Site
+      hint: Name of the location
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: location_address
+      label: Location Address or Coordinates
+      hint: Street address or GPS coordinates
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: habitat_type
+      label: Habitat Type
+      hint: What type of environment?
+      type: select_one
+      options:
+      - Garden or yard
+      - Forest
+      - Meadow or grassland
+      - Mountain
+      - Wetland
+      - Coastal area
+      - Urban park
+      - Agricultural area
+      - Other
+      required: true
+    - id: 8
+      name: butterfly_species
+      label: Butterfly Species
+      hint: What species is it? Use common name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: identification_confidence
+      label: Identification Confidence
+      hint: How certain are you of the species?
+      type: select_one
+      options:
+      - Certain - positive identification
+      - Very likely
+      - Likely
+      - Uncertain
+      - Just a guess
+      required: true
+    - id: 10
+      name: life_stage
+      label: Life Stage Observed
+      hint: What stage of life?
+      type: select_one
+      options:
+      - Egg
+      - Caterpillar or larva
+      - Chrysalis or pupa
+      - Adult butterfly
+      - Unsure
+      required: true
+    - id: 11
+      name: number_observed
+      label: Number of Butterflies Observed
+      hint: How many did you see?
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: behavior
+      label: Butterfly Behavior
+      hint: What was the butterfly doing?
+      type: select_multiple
+      options:
+      - Feeding on flowers
+      - Resting on plants
+      - Flying or in flight
+      - Mating
+      - Laying eggs
+      - Puddling (drinking from ground)
+      - Basking in sun
+      - Other behavior
+      required: true
+    - id: 13
+      name: host_plants
+      label: Host or Nectar Plants Observed
+      hint: What plants were nearby?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: weather_conditions
+      label: Weather Conditions
+      hint: What was the weather like?
+      type: select_multiple
+      options:
+      - Sunny
+      - Cloudy
+      - Rainy
+      - Warm
+      - Cool
+      - Windy
+      - Humid
+      - Clear
+      required: true
+    - id: 15
+      name: temperature_estimate
+      label: Temperature Estimate
+      hint: Approximate temperature in degrees
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: threats_observed
+      label: Threats or Disturbances Observed
+      hint: Were there any threats?
+      type: select_multiple
+      options:
+      - Pesticide use nearby
+      - Habitat damage
+      - Predators present
+      - Human activity
+      - No threats observed
+      required: false
+    - id: 17
+      name: photo_taken
+      label: Photo or Image Taken
+      hint: Did you capture a photo?
+      type: select_one
+      options:
+      - Yes, photo attached or provided
+      - Yes, photo will be submitted separately
+      - No photo taken
+      required: false
+    - id: 18
+      name: observation_notes
+      label: Additional Observation Notes
+      hint: Any other details about the sighting
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: data_use_permission
+      label: I Consent to Data Use for Research
+      hint: null
+      type: select_one
+      options:
+      - Yes, use my data
+      - No, keep my data private
+      - Unsure
+      required: true
+    - id: 20
+      name: follow_up_interest
+      label: Interested in Follow-Up Communication
+      hint: Would you like updates about the program?
+      type: select_one
+      options:
+      - Yes, contact me
+      - No, do not contact
+      - Maybe, unsure
+      required: false

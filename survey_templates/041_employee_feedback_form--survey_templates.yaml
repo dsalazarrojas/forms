@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Feedback Form
+    pages:
+    - id: 1
+      name: feedback_score
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: manager
+      label: Who is your Manager?
+      hint: null
+      type: select_one
+      options:
+      - CEO
+      - Manager 1
+      - Manager 2
+      required: false
+    - id: 3
+      name: feedback_message
+      label: Additional Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: feedback_suggestion
+      label: Have Any Suggestions
+      hint: null
+      type: note
+      options: []
+      required: false

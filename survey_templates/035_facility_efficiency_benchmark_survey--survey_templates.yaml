@@ -1,0 +1,74 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Facility Efficiency Benchmark Survey
+    pages:
+    - id: 1
+      name: facility_efficiency_benchmark_survey_form
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facility_performance_benchmark
+      label: What are your current facility performance metrics?
+      hint: null
+      type: select_multiple
+      options:
+      - Water usage per square foot
+      - Energy consumption per square foot
+      - Waste diversion rate
+      - Greenhouse gas emissions per square foot
+      - Other (please specify)
+      required: false
+    - id: 3
+      name: benchmarking_practices
+      label: Which efficiency practices do you currently use?
+      hint: null
+      type: select_multiple
+      options:
+      - Energy audits
+      - Commissioning
+      - Energy-efficient design
+      - Greenhouse gas inventory
+      - Other (please specify)
+      required: false
+    - id: 4
+      name: sustainability_goals
+      label: What are your facility's sustainability goals?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: data_collection
+      label: How do you currently collect data?
+      hint: null
+      type: select_multiple
+      options:
+      - Manual records
+      - Spreadsheets
+      - Software applications
+      - Other (please specify)
+      required: false
+    - id: 6
+      name: data_sharing
+      label: Do you share your data with others?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: Molecules And Compounds Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: compound_type
+      label: Compound Type
+      hint: null
+      type: select_one
+      options:
+      - Molecule
+      - Atom
+      - Compound
+      - Molecule
+      - Compound
+      required: true
+    - id: 3
+      name: molecular_weight
+      label: Molecular Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: molecular_weight_range
+      label: Molecular Weight Range
+      hint: null
+      type: select_one
+      options:
+      - 1-50
+      - 50-100
+      - 100-200
+      - 200-500
+      - 500-1000
+      - 1000+
+      required: false
+    - id: 5
+      name: molecular_weight_value
+      label: Molecular Weight Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: molecular_weight_error
+      label: Molecular Weight Error
+      hint: null
+      type: select_one
+      options:
+      - None
+      - High
+      - Low
+      required: false
+    - id: 7
+      name: molecular_weight_unit
+      label: Molecular Weight Unit
+      hint: null
+      type: select_one
+      options:
+      - Dalton
+      - Grams
+      - Grams/Moles
+      - Kilograms
+      - Milligrams
+      required: false
+    - id: 8
+      name: molecular_formula
+      label: Molecular Formula
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: molecular_formula_error
+      label: Molecular Formula Error
+      hint: null
+      type: select_one
+      options:
+      - None
+      - High
+      - Low
+      required: false
+    - id: 10
+      name: chemical_formula
+      label: Chemical Formula
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: chemical_formula_error
+      label: Chemical Formula Error
+      hint: null
+      type: select_one
+      options:
+      - None
+      - High
+      - Low
+      required: false
+    - id: 12
+      name: chemical_formula_type
+      label: Chemical Formula Type
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Inorganic
+      - Organic
+      required: false
+    - id: 13
+      name: chemical_formula_type_error
+      label: Chemical Formula Type Error
+      hint: null
+      type: select_one
+      options:
+      - None
+      - High
+      - Low
+      required: false
+    - id: 14
+      name: chemical_formula_value
+      label: Chemical Formula Value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: molecular_weight_unit_error
+      label: Molecular Weight Unit Error
+      hint: null
+      type: select_one
+      options:
+      - None
+      - High
+      - Low
+      required: false
+    - id: 16
+      name: compound_name
+      label: Compound Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: compound_name_error
+      label: Compound Name Error
+      hint: null
+      type: select_one
+      options:
+      - None
+      - High
+      - Low
+      required: false
+    - id: 18
+      name: compound_category
+      label: Compound Category
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Inorganic
+      - Organic
+      required: false
+    - id: 19
+      name: compound_category_error
+      label: Compound Category Error
+      hint: null
+      type: select_one
+      options:
+      - None
+      - High
+      - Low
+      required: false
+    - id: 20
+      name: compound_category_other
+      label: Compound Category Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: compound_category_other_error
+      label: Compound Category Other Error
+      hint: null
+      type: select_one
+      options:
+      - None
+      - High
+      - Low
+      required: false
+    - id: 22
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: notes_error
+      label: Additional Notes Error
+      hint: null
+      type: select_one
+      options:
+      - None
+      - High
+      - Low
+      required: false
+    - id: 24
+      name: date_of_last_update
+      label: Date of Last Update
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: date_of_last_update_error
+      label: Date of Last Update Error
+      hint: null
+      type: select_one
+      options:
+      - None
+      - High
+      - Low
+      required: false

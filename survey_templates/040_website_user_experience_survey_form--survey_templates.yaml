@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website User Experience Survey Form
+    pages:
+    - id: 1
+      name: user_experience
+      label: How often do you visit our website?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: website_satisfaction
+      label: Rate your experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: website_usability
+      label: How easy was it to use?
+      hint: null
+      type: select_one
+      options:
+      - Very easy
+      - Somewhat easy
+      - Neutral
+      - Somewhat difficult
+      - Very difficult
+      required: false
+    - id: 4
+      name: website_usability_2
+      label: How easy was it to find what you were looking for?
+      hint: null
+      type: select_one
+      options:
+      - Very easy
+      - Somewhat easy
+      - Neutral
+      - Somewhat difficult
+      - Very difficult
+      required: false
+    - id: 5
+      name: website_appearance
+      label: How would you rate the appearance of our website?
+      hint: null
+      type: select_multiple
+      options:
+      - Simple and clean
+      - Well-designed
+      - Unattractive
+      - Cluttered
+      required: false
+    - id: 6
+      name: website_content
+      label: How would you rate the content on our website?
+      hint: null
+      type: select_multiple
+      options:
+      - Well-organized
+      - Interesting
+      - Boring
+      - Unhelpful
+      required: false
+    - id: 7
+      name: website_navigation
+      label: How easy was it to navigate?
+      hint: null
+      type: select_one
+      options:
+      - Very easy
+      - Somewhat easy
+      - Neutral
+      - Somewhat difficult
+      - Very difficult
+      required: false
+    - id: 8
+      name: email
+      label: Would you like to provide an email address?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Would you like to provide a phone number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: What date did you visit our website?
+      hint: null
+      type: date
+      options: []
+      required: false

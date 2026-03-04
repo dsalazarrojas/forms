@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: share_your_recovery_journey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: recovery_story
+      label: recovery_story
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: permissions
+      label: permissions
+      hint: null
+      type: select_multiple
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: false
+    - id: 4
+      name: story_length
+      label: story_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: time_spent_in_recovery
+      label: time_spent_in_recovery
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: healing_supports
+      label: healing_supports
+      hint: null
+      type: select_one
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: false
+    - id: 7
+      name: support_groups
+      label: support_groups
+      hint: null
+      type: select_multiple
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

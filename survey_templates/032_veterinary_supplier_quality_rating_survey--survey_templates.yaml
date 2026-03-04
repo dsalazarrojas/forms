@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Supplier Quality Rating Survey
+    pages:
+    - id: 1
+      name: supplier_name
+      label: supplier_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 3
+      name: question_2
+      label: Rating
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 4
+      name: question_3
+      label: Rating
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 5
+      name: quality_service
+      label: quality_service
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 6
+      name: quality_facility
+      label: quality_facility
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 7
+      name: contact_facility
+      label: contact_facility
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: quality_communication
+      label: quality_communication
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 9
+      name: quality_response
+      label: quality_response
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 10
+      name: total_score
+      label: total_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: comments
+      hint: Please describe your experience with this supplier.
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: supplier_id
+      label: supplier_id
+      hint: Enter the ID number of this supplier.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: email
+      hint: Enter a valid email address.
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: phone
+      hint: Enter a valid phone number.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: date
+      label: date
+      hint: Enter the date you last contacted this supplier.
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: time_of_day
+      label: time_of_day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: time_of_week
+      label: time_of_week
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: time_of_day_of_week
+      label: time_of_day_of_week
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: time_of_day_of_weekend
+      label: time_of_day_of_weekend
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: time_of_day_of_day
+      label: time_of_day_of_day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: time_of_day_of_day_of_week
+      label: time_of_day_of_day_of_week
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: time_of_day_of_day_of_weekend
+      label: time_of_day_of_day_of_weekend
+      hint: null
+      type: time
+      options: []
+      required: false

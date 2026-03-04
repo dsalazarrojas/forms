@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Tournament Location Voting Form
+    pages:
+    - id: 1
+      name: location
+      label: sports_tournament_location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: date
+      label: tournament_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: tournament_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: note
+      label: additional_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false

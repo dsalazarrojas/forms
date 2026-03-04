@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nap Pod Usage Interest Survey
+    pages:
+    - id: 1
+      name: survey_template
+      label: Survey Template
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: usage_time_1
+      label: usage_time_1
+      hint: null
+      type: select_one
+      options:
+      - 08:00-09:00
+      - 12:00-13:00
+      - 16:00-17:00
+      - Other
+      required: false
+    - id: 3
+      name: usage_time_2
+      label: usage_time_2
+      hint: null
+      type: select_one
+      options:
+      - 08:00-09:00
+      - 12:00-13:00
+      - 16:00-17:00
+      - Other
+      required: false
+    - id: 4
+      name: usage_time_3
+      label: usage_time_3
+      hint: null
+      type: select_one
+      options:
+      - 08:00-09:00
+      - 12:00-13:00
+      - 16:00-17:00
+      - Other
+      required: false
+    - id: 5
+      name: usage_time_4
+      label: usage_time_4
+      hint: null
+      type: select_one
+      options:
+      - 08:00-09:00
+      - 12:00-13:00
+      - 16:00-17:00
+      - Other
+      required: false
+    - id: 6
+      name: interested_in_nap_pod
+      label: Interested in Nap Pod
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - unsure
+      required: false
+    - id: 7
+      name: nap_pod_location
+      label: Nap Pod Location
+      hint: null
+      type: select_multiple
+      options:
+      - lobby
+      - outside
+      - other
+      required: false
+    - id: 8
+      name: preferred_time_of_day_for_nap_pod
+      label: Preferred Time of Day for Nap Pod
+      hint: null
+      type: select_one
+      options:
+      - morning
+      - afternoon
+      - evening
+      - Other
+      required: false
+    - id: 9
+      name: why_do_you_want_to_use_a_nap_pod
+      label: Why Do You Want to Use A Nap Pod?
+      hint: null
+      type: select_multiple
+      options:
+      - concentration
+      - relaxation
+      - productivity
+      - other
+      required: false
+    - id: 10
+      name: how_often_do_you_want_to_use_a_nap_pod
+      label: How Often Do You Want to Use A Nap Pod?
+      hint: null
+      type: select_multiple
+      options:
+      - daily
+      - weekly
+      - monthly
+      - rarely
+      required: false
+    - id: 11
+      name: any_other_comments
+      label: Any Other Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: email_phone_label
+      label: Email/Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: other_email_phone
+      label: Other Email/Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: how_many_nap_pod_sessions
+      label: How Many Nap Pod Sessions?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: how_long_do_you_want_to_use_a_nap_pod
+      label: How Long Do You Want to Use A Nap Pod?
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performing Arts Leadership Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: role
+      label: role
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Executive Director''}'
+      - '{''id'': 2, ''label'': ''Department Head''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 4
+      name: years_experience
+      label: years experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: highest_degree
+      label: highest degree
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Bachelor''}'
+      - '{''id'': 2, ''label'': ''Master''}'
+      - '{''id'': 3, ''label'': ''PhD''}'
+      required: false
+    - id: 6
+      name: organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_title
+      label: job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: performance_history
+      label: performance history
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: performance_frequency
+      label: performance frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Often''}'
+      - '{''id'': 2, ''label'': ''Occasionally''}'
+      - '{''id'': 3, ''label'': ''Rarely''}'
+      required: true
+    - id: 12
+      name: performance_type
+      label: performance type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: leadership_experience
+      label: leadership experience
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 14
+      name: training_experience
+      label: training experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: leadership_development_program
+      label: leadership development program
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 16
+      name: performance_evaluation_process
+      label: performance evaluation process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: performance_evaluation_frequency
+      label: performance evaluation frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly''}'
+      - '{''id'': 4, ''label'': ''Yearly''}'
+      required: false
+    - id: 18
+      name: budgeted_funds
+      label: budgeted funds
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: actual_funds
+      label: actual funds
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: budget_variance
+      label: budget variance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: performance_goal
+      label: performance goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: evaluation_frequency
+      label: evaluation frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly''}'
+      - '{''id'': 4, ''label'': ''Yearly''}'
+      required: true
+    - id: 23
+      name: performance_measures
+      label: performance measures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: leadership_support
+      label: leadership support
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: text
+      options: []
+      required: false

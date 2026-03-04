@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Language Camp Experience Survey
+    pages:
+    - id: 1
+      name: participant_feedback
+      label: Participant Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: camp_staff
+      label: How would you rate the camp staff?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 4
+      name: facilities
+      label: Facilities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: activities
+      label: Activities offered
+      hint: Please specify the activities offered and enjoyed
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggestions
+      label: Do you have any suggestions for future camps?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: Please provide any other comments
+      type: note
+      options: []
+      required: false

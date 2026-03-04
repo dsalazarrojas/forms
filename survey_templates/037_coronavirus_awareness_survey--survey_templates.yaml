@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coronavirus Awareness Survey
+    pages:
+    - id: 1
+      name: first_page
+      label: survey_questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_one
+      label: how_would_you_rate_your_level_of_concern_about_coronavirus
+      hint: null
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Low
+      - None
+      required: false
+    - id: 3
+      name: question_two
+      label: have_you_ever_had_any_symptoms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: question_three
+      label: prevention_methods_used
+      hint: null
+      type: select_multiple
+      options:
+      - Wearing face mask
+      - Washing hands frequently
+      - Keeping social distancing
+      - Getting vaccinated
+      required: false
+    - id: 5
+      name: first_page_note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

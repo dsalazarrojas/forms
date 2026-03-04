@@ -1,0 +1,221 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Charity Gala Feedback Form
+    pages:
+      - id: 1
+        name: attendee_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: attendee_email
+        label: Email Address
+        hint: For follow-up
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: gala_name
+        label: Gala Event Name
+        hint: Which gala
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: gala_date
+        label: Gala Date
+        hint: When attended
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: ticket_type
+        label: Ticket Type
+        hint: Your admission
+        type: select_one
+        options:
+          - General admission
+          - VIP
+          - Table sponsor
+          - Event sponsor
+          - Complimentary
+        required: true
+      - id: 6
+        name: overall_satisfaction
+        label: Overall Satisfaction
+        hint: Rate your experience
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 7
+        name: venue_rating
+        label: Venue Rating
+        hint: Location quality
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very poor
+        required: true
+      - id: 8
+        name: ambiance_rating
+        label: Ambiance and Decor Rating
+        hint: Atmosphere
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very poor
+        required: true
+      - id: 9
+        name: food_quality
+        label: Food Quality
+        hint: Meal rating
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very poor
+          - Did not eat
+        required: true
+      - id: 10
+        name: beverage_service
+        label: Beverage Service
+        hint: Drink quality
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very poor
+          - Did not drink
+        required: true
+      - id: 11
+        name: entertainment_rating
+        label: Entertainment Rating
+        hint: Program quality
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very poor
+        required: true
+      - id: 12
+        name: auction_experience
+        label: Auction Experience
+        hint: If participated
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very poor
+          - Did not participate
+        required: true
+      - id: 13
+        name: program_flow
+        label: Program Flow and Timing
+        hint: Pacing
+        type: select_one
+        options:
+          - Very well paced
+          - Well paced
+          - Average
+          - Rushed
+          - Too slow
+        required: true
+      - id: 14
+        name: highlight_moment
+        label: Highlight of the Evening
+        hint: Best moment
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: improvement_areas
+        label: Areas for Improvement
+        hint: Suggestions
+        type: select_multiple
+        options:
+          - Venue selection
+          - Decor and ambiance
+          - Food quality
+          - Beverage service
+          - Entertainment
+          - Program length
+          - Auction process
+          - Check-in process
+          - Other
+        required: false
+      - id: 16
+        name: attend_next_gala
+        label: Will You Attend Next Year
+        hint: Future attendance
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Not sure
+          - Probably no
+          - Definitely no
+        required: true
+      - id: 17
+        name: recommend_to_others
+        label: Would You Recommend to Others
+        hint: Recommendation
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Not sure
+          - Probably no
+          - Definitely no
+        required: true
+      - id: 18
+        name: donation_likelihood
+        label: Likelihood to Donate in Future
+        hint: Future giving
+        type: select_one
+        options:
+          - Very likely
+          - Likely
+          - Neutral
+          - Unlikely
+          - Very unlikely
+        required: true
+      - id: 19
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scientific Conference Feedback Questionnaire
+    pages:
+    - id: 1
+      name: attendee_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: attendee_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: session_liked
+      label: Liked Sessions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: session_disliked
+      label: Disliked Sessions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: session_suggestion
+      label: Session Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: presentation_quality
+      label: Presentation Quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_satisfaction
+      label: Event Satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: improvement_areas
+      label: Improvement Areas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: feedback_submission
+      label: Submission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: follow_up
+      label: Follow up
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Mail
+      required: false
+    - id: 14
+      name: follow_up_frequency
+      label: Follow Up Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_next
+      label: Next Follow Up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_next_time
+      label: Next Follow Up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_next_place
+      label: Next Follow Up Place
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_next_note
+      label: Next Follow Up Note
+      hint: null
+      type: text
+      options: []
+      required: false

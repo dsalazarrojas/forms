@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rate My Website Form
+    pages:
+    - id: 1
+      name: rate_my_website_form
+      label: rate_my_website
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: customer_comments
+      label: customer_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: website_rating
+      label: website_rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 4
+      name: rate_my_website_form_rating_score
+      label: rate_my_website__score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false

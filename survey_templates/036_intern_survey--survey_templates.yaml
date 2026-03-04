@@ -1,0 +1,34 @@
+inputSchema:
+  type: object
+  properties:
+    title: Intern Survey
+    pages:
+    - id: 1
+      name: intern_survey_form
+      label: Intern Survey
+      hint: An intern survey is used by employers to collect feedbacks from interns
+        about their internship program.
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: comments
+      label: Comments
+      hint: Provide detailed feedback
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: intern_name
+      label: Intern Name
+      hint: null
+      type: text
+      options: []
+      required: false

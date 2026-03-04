@@ -1,0 +1,70 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Knock Down Experience Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: Knock Down Experience Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_date
+      label: Service Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: site
+      label: Site
+      hint: Enter the site address
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: team
+      label: Team
+      hint: Enter the team name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_type
+      label: Service Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: experience_rating
+      label: Experience Rating
+      hint: Scale 1-5
+      type: select_one
+      options:
+      - '{''label'': ''Very Poor''}'
+      - '{''label'': ''Poor''}'
+      - '{''label'': ''Average''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Excellent''}'
+      required: true
+    - id: 7
+      name: comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

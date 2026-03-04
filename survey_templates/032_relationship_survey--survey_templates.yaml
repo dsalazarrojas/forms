@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: relationship_survey
+    pages:
+    - id: 1
+      name: relationship_status
+      label: How long have you been in a relationship?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: communication
+      label: How do you usually communicate with your partner?
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Video call
+      - In person
+      - Other (please specify)
+      required: false
+    - id: 3
+      name: conflict_resolution
+      label: How do you usually resolve conflicts with your partner?
+      hint: null
+      type: select_one
+      options:
+      - Avoidance
+      - Confrontation
+      - Compromise
+      - Seek outside help
+      required: false
+    - id: 4
+      name: intimacy
+      label: How would you rate your level of intimacy with your partner?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: partner_support
+      label: How much support do you receive from your partner?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: personal_space
+      label: How important is personal space to you?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: sex_life
+      label: How do you usually approach sex and intimacy?
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Passive
+      - Indifferent
+      required: false
+    - id: 8
+      name: emotional_support
+      label: How would you rate your partner's emotional support?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: conflict_frequency
+      label: How often do you have conflicts with your partner?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: relationship_stress
+      label: How often do you feel stressed about your relationship?
+      hint: null
+      type: number
+      options: []
+      required: false

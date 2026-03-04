@@ -1,0 +1,313 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Anytime Fitness 7 Day Exit Survey
+    pages:
+    - id: 1
+      name: member_name
+      label: Member Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: member_id
+      label: Member ID
+      hint: Membership number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: home_club
+      label: Home Club Location
+      hint: Which club did you join
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: join_date
+      label: Join Date
+      hint: When did you join
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: cancellation_date
+      label: Cancellation Date
+      hint: Date of cancellation
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: membership_type
+      label: Membership Type
+      hint: What type did you have
+      type: select_one
+      options:
+        - Single club
+        - Multi-club
+        - Premium
+        - Corporate
+        - Student
+        - Other
+      required: true
+    - id: 8
+      name: facility_usage
+      label: How often did you use the facility
+      hint: Average frequency
+      type: select_one
+      options:
+        - Daily
+        - 4 to 6 times per week
+        - 2 to 3 times per week
+        - Once a week
+        - 2 to 3 times per month
+        - Once a month or less
+        - Never used
+      required: true
+    - id: 9
+      name: fitness_goals
+      label: What were your fitness goals
+      hint: Select all that apply
+      type: select_multiple
+      options:
+        - Weight loss
+        - Build muscle
+        - Improve cardiovascular health
+        - Increase flexibility
+        - General fitness
+        - Train for an event
+        - Rehabilitation
+        - Stress relief
+        - Social interaction
+        - Other
+      required: true
+    - id: 10
+      name: goals_achieved
+      label: Did you achieve your fitness goals
+      hint: Goal achievement
+      type: select_one
+      options:
+        - Yes, completely
+        - Yes, partially
+        - No, but made progress
+        - No, did not make progress
+        - Did not work toward goals
+      required: true
+    - id: 11
+      name: overall_experience
+      label: Overall Experience Rating
+      hint: Rate your experience
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Average
+        - Poor
+        - Very poor
+      required: true
+    - id: 12
+      name: facility_cleanliness
+      label: Facility Cleanliness
+      hint: Rate the cleanliness
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Average
+        - Poor
+        - Very poor
+      required: true
+    - id: 13
+      name: equipment_quality
+      label: Equipment Quality and Availability
+      hint: Rate the equipment
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Average
+        - Poor
+        - Very poor
+      required: true
+    - id: 14
+      name: staff_friendliness
+      label: Staff Friendliness
+      hint: Rate the staff
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Average
+        - Poor
+        - Very poor
+      required: true
+    - id: 15
+      name: staff_helpfulness
+      label: Staff Helpfulness
+      hint: How helpful was staff
+      type: select_one
+      options:
+        - Very helpful
+        - Helpful
+        - Neutral
+        - Unhelpful
+        - Very unhelpful
+      required: true
+    - id: 16
+      name: value_for_money
+      label: Value for Money
+      hint: Was it worth the cost
+      type: select_one
+      options:
+        - Excellent value
+        - Good value
+        - Fair value
+        - Poor value
+        - Very poor value
+      required: true
+    - id: 17
+      name: cancellation_reason
+      label: Reason for Cancellation
+      hint: Why are you leaving
+      type: select_one
+      options:
+        - Financial reasons
+        - Relocating
+        - Health issues
+        - Lack of time
+        - Lost motivation
+        - Found alternative
+        - Dissatisfied with service
+        - Equipment issues
+        - Cleanliness concerns
+        - Other
+      required: true
+    - id: 18
+      name: cancellation_reason_details
+      label: Please elaborate on your reason
+      hint: More details
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: used_personal_training
+      label: Did you use personal training
+      hint: Personal training services
+      type: select_one
+      options:
+        - Yes, regularly
+        - Yes, occasionally
+        - No, never
+      required: true
+    - id: 20
+      name: personal_training_rating
+      label: Personal Training Rating
+      hint: If used, how was it
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Average
+        - Poor
+        - Very poor
+        - Not applicable
+      required: true
+    - id: 21
+      name: used_group_classes
+      label: Did you attend group classes
+      hint: Group fitness classes
+      type: select_one
+      options:
+        - Yes, regularly
+        - Yes, occasionally
+        - No, never
+      required: true
+    - id: 22
+      name: group_classes_rating
+      label: Group Classes Rating
+      hint: If attended, how were they
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Average
+        - Poor
+        - Very poor
+        - Not applicable
+      required: true
+    - id: 23
+      name: peak_hours_experience
+      label: Experience During Peak Hours
+      hint: Crowding and wait times
+      type: select_one
+      options:
+        - Always available
+        - Usually available
+        - Sometimes crowded
+        - Often crowded
+        - Always too crowded
+      required: true
+    - id: 24
+      name: would_recommend
+      label: Would you recommend Anytime Fitness
+      hint: To friends or family
+      type: select_one
+      options:
+        - Definitely yes
+        - Probably yes
+        - Undecided
+        - Probably no
+        - Definitely no
+      required: true
+    - id: 25
+      name: consider_returning
+      label: Would you consider returning
+      hint: In the future
+      type: select_one
+      options:
+        - Yes, definitely
+        - Probably yes
+        - Undecided
+        - Probably no
+        - Definitely no
+      required: true
+    - id: 26
+      name: what_could_improve
+      label: What could we have improved
+      hint: Your suggestions
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: additional_feedback
+      label: Additional Comments
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: survey_date
+      label: Survey Completion Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true

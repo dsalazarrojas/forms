@@ -1,0 +1,250 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Health Assessment Survey
+    pages:
+    - id: 1
+      name: business_section
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: respondent_name
+      label: Respondent Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: respondent_role
+      label: Your Role
+      hint: Your position in the company
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: years_in_business
+      label: Years in Business
+      hint: How long has the business been operating?
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: financial_section
+      label: -- Financial Health --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: revenue_trend
+      label: Revenue Trend
+      hint: How is revenue trending?
+      type: select_one
+      options:
+      - Declining
+      - Stagnant
+      - Slight Growth
+      - Moderate Growth
+      - Strong Growth
+      required: true
+    - id: 8
+      name: profitability
+      label: Profitability Status
+      hint: Are you making profit?
+      type: select_one
+      options:
+      - Significant Loss
+      - Loss
+      - Break-even
+      - Modest Profit
+      - Strong Profit
+      required: true
+    - id: 9
+      name: cash_flow
+      label: Cash Flow Health
+      hint: How is your cash situation?
+      type: select_one
+      options:
+      - Critical Issues
+      - Strained
+      - Adequate
+      - Healthy
+      - Excellent
+      required: true
+    - id: 10
+      name: debt_level
+      label: Debt Level Management
+      hint: How well are you managing debt?
+      type: select_one
+      options:
+      - Unsustainable
+      - High Risk
+      - Moderate
+      - Well Managed
+      - Strong Position
+      required: true
+    - id: 11
+      name: operations_section
+      label: -- Operational Health --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: process_efficiency
+      label: Process Efficiency
+      hint: How efficient are operations?
+      type: select_one
+      options:
+      - Very Inefficient
+      - Inefficient
+      - Adequate
+      - Efficient
+      - Highly Efficient
+      required: true
+    - id: 13
+      name: cost_control
+      label: Cost Control and Management
+      hint: How well are costs controlled?
+      type: select_one
+      options:
+      - Poor Control
+      - Weak
+      - Adequate
+      - Good
+      - Excellent
+      required: true
+    - id: 14
+      name: supply_chain
+      label: Supply Chain and Logistics
+      hint: How stable is the supply chain?
+      type: select_one
+      options:
+      - Highly Unstable
+      - Unstable
+      - Stable
+      - Well Managed
+      - Optimized
+      required: true
+    - id: 15
+      name: quality_control
+      label: Quality Control Standards
+      hint: Product/service quality management
+      type: select_one
+      options:
+      - Significant Issues
+      - Inconsistent
+      - Adequate
+      - Good Standards
+      - Excellent Standards
+      required: true
+    - id: 16
+      name: people_section
+      label: -- People and Culture --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: team_morale
+      label: Team Morale and Engagement
+      hint: How is employee morale?
+      type: select_one
+      options:
+      - Very Low
+      - Low
+      - Neutral
+      - Good
+      - Excellent
+      required: true
+    - id: 18
+      name: talent_retention
+      label: Talent Retention
+      hint: Can you keep good employees?
+      type: select_one
+      options:
+      - High Turnover
+      - Moderate Turnover
+      - Acceptable
+      - Good Retention
+      - Strong Loyalty
+      required: true
+    - id: 19
+      name: skill_development
+      label: Skill Development and Training
+      hint: Do you invest in training?
+      type: select_one
+      options:
+      - None
+      - Minimal
+      - Some programs
+      - Regular programs
+      - Comprehensive
+      required: true
+    - id: 20
+      name: market_section
+      label: -- Market and Competition --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: market_position
+      label: Market Position
+      hint: How is your competitive position?
+      type: select_one
+      options:
+      - Losing Share
+      - Weak Position
+      - Stable Position
+      - Strong Position
+      - Market Leader
+      required: true
+    - id: 22
+      name: customer_satisfaction
+      label: Customer Satisfaction
+      hint: How satisfied are customers?
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 23
+      name: innovation_capacity
+      label: Innovation Capacity
+      hint: Can you innovate?
+      type: select_one
+      options:
+      - Minimal
+      - Limited
+      - Adequate
+      - Strong
+      - Exceptional
+      required: true
+    - id: 24
+      name: top_concerns
+      label: Top Business Concerns
+      hint: What worries you most?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: improvement_areas
+      label: Priority Areas for Improvement
+      hint: What needs the most attention?
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Network Cost Assessment Survey
+    pages:
+    - id: 1
+      name: network_cost_assessment_survey_form
+      label: Network Cost Assessment Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: total_cost
+      label: total_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: monthly_cost
+      label: monthly_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: yearly_cost
+      label: yearly_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: annualized_cost
+      label: annualized_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: frequency
+      label: frequency
+      hint: null
+      type: select_one
+      options:
+      - Cost 1
+      - Cost 2
+      - Cost 3
+      required: false
+    - id: 7
+      name: cost_1
+      label: cost_1
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: frequency_1
+      label: frequency_1
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: date_1
+      label: date_1
+      hint: null
+      type: date
+      options: []
+      required: false

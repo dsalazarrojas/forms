@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Campaign Reaction Poll
+    pages:
+    - id: 1
+      name: marketing_campaign_reaction_poll
+      label: Marketing Campaign Reaction Poll
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: campaign_title
+      label: campaign_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reaction_scale
+      label: reaction_scale
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 11, ''value'': ''Very Good''}'
+      - '{''id'': 12, ''value'': ''Good''}'
+      - '{''id'': 13, ''value'': ''Neutral''}'
+      - '{''id'': 14, ''value'': ''Bad''}'
+      - '{''id'': 15, ''value'': ''Very Bad''}'
+      required: false
+    - id: 4
+      name: reaction_scale_comments
+      label: reaction_scale_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: channel_performance
+      label: channel_performance
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 21, ''value'': ''Excellent''}'
+      - '{''id'': 22, ''value'': ''Good''}'
+      - '{''id'': 23, ''value'': ''Fair''}'
+      - '{''id'': 24, ''value'': ''Poor''}'
+      required: false
+    - id: 6
+      name: intent_to_act
+      label: intent_to_act
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 31, ''value'': True}'
+      - '{''id'': 32, ''value'': False}'
+      - '{''id'': 33, ''value'': ''Maybe''}'
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

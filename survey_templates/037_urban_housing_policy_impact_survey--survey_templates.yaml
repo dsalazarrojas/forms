@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Urban Housing Policy Impact Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: demographics
+      label: resident_demographics
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: housing_status
+      label: housing_status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      - option6
+      - option7
+      - option8
+      required: false
+    - id: 4
+      name: housing_needs
+      label: housing_needs
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 5
+      name: policy_impact
+      label: policy_impact
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: policy_effectiveness
+      label: policy_effectiveness
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: policy_awareness
+      label: policy_awareness
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: policy_participation
+      label: policy_participation
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: policy_suggestions
+      label: policy_suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false

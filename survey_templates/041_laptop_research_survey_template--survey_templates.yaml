@@ -1,0 +1,136 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Laptop Research Survey Template
+    pages:
+    - id: 1
+      name: intro
+      label: Laptop Research Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: laptop_usage
+      label: What is your laptop usage?
+      hint: null
+      type: select_one
+      options:
+      - Laptop for work
+      - Laptop for personal use
+      - Both
+      required: true
+    - id: 3
+      name: laptop_type
+      label: What type of laptop do you currently use?
+      hint: null
+      type: select_multiple
+      options:
+      - Mac
+      - PC
+      - Linux
+      - Other
+      required: false
+    - id: 4
+      name: laptop_brand
+      label: Laptop brand
+      hint: null
+      type: select_multiple
+      options:
+      - Apple
+      - Dell
+      - HP
+      - Lenovo
+      - Other
+      required: false
+    - id: 5
+      name: laptop_model
+      label: Laptop model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: laptop_purchase_year
+      label: Year laptop was purchased
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: laptop_use_frequency
+      label: How often do you use your laptop?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 8
+      name: laptop_usage_duration
+      label: How long do you typically use your laptop per day?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: laptop_screen_resolution
+      label: Laptop screen resolution
+      hint: null
+      type: select_multiple
+      options:
+      - 720p
+      - 1080p
+      - 1440p
+      - 2160p
+      - 4K
+      required: false
+    - id: 10
+      name: laptop_storage
+      label: Laptop storage capacity
+      hint: null
+      type: select_multiple
+      options:
+      - 128 GB
+      - 256 GB
+      - 512 GB
+      - 1 TB
+      - 2 TB
+      - More than 2 TB
+      required: false
+    - id: 11
+      name: laptop_connectivity
+      label: Laptop connectivity options
+      hint: null
+      type: select_multiple
+      options:
+      - Wi-Fi
+      - Ethernet
+      - Both
+      - None
+      required: false
+    - id: 12
+      name: laptop_operating_system
+      label: Laptop operating system
+      hint: null
+      type: select_multiple
+      options:
+      - Windows
+      - macOS
+      - Linux
+      - Chrome OS
+      - Other
+      required: false

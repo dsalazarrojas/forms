@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Safety Assessment
+    pages:
+    - id: 1
+      name: organization_name_val
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department_team_text
+      label: Department or Team Reviewed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: safety_officer_name
+      label: Workplace Safety Officer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: review_date_val
+      label: Date of Review
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: social_dist_score
+      label: Physical Distancing Protocol Score
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: mask_compliance_cat
+      label: Mask Mandate Compliance
+      hint: Based on observation and records
+      type: select_one
+      options:
+      - Full Compliance
+      - Partial Compliance
+      - Non-Compliant
+      - N/A
+      required: true
+    - id: 7
+      name: sanitation_station_yn
+      label: Sanitation Station Availability
+      hint: Hand sanitizer or handwashing stations accessible
+      type: select_one
+      options:
+      - Adequate
+      - Need more
+      - Inadequate
+      required: true
+    - id: 8
+      name: training_completion_yn
+      label: Staff Training Completion
+      hint: Have all staff received COVID-19 safety training?
+      type: select_one
+      options:
+      - true
+      - false
+      - In Progress
+      required: true
+    - id: 9
+      name: entry_screening_yn
+      label: Health Screening at Entry
+      hint: Temperature checks or symptom questionnaires for arrivals
+      type: select_one
+      options:
+      - true
+      - false
+      - Sometimes
+      required: true
+    - id: 10
+      name: ventilation_status_cat
+      label: Ventilation Improvement Status
+      hint: e.g. HEPA filters, increased fresh air intake
+      type: select_one
+      options:
+      - Completed
+      - Scheduled
+      - Not planned
+      - N/A
+      required: true
+    - id: 11
+      name: safety_gaps_desc
+      label: Identified Safety Gaps
+      hint: Describe any areas where protocols are failing
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: action_plan_text
+      label: Action Plan for Gaps
+      hint: Steps to be taken to address identified issues
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assessment_auth_ack
+      label: I certify this assessment is accurate and will be shared with management
+      hint: null
+      type: select_one
+      options:
+      - true
+      - 'False'
+      required: true

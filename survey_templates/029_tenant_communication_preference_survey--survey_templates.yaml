@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: tenant-communication-preference-survey
+    pages:
+    - id: 1
+      name: tenant_communication_method
+      label: How do you prefer to communicate with us
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 2
+      name: preferred_language
+      label: Preferred language
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 3
+      name: best_time_of_day
+      label: Best time of day to contact you
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 4
+      name: preferred_contact_frequency
+      label: How often do you like to be contacted
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 5
+      name: note
+      label: Additional information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

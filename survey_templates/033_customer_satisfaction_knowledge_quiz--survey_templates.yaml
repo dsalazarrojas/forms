@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Satisfaction Knowledge Quiz
+    pages:
+    - id: 1
+      name: first_question
+      label: customer_satisfaction_principles
+      hint: null
+      type: select_multiple
+      options:
+      - customer_satisfaction
+      - customer_service
+      required: true
+    - id: 2
+      name: correct_answer
+      label: correct_answer
+      hint: null
+      type: select_one
+      options:
+      - a
+      - b
+      - c
+      required: true
+    - id: 3
+      name: score
+      label: score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: notes
+      label: notes
+      hint: Please provide any additional comments or feedback
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: customer_satisfaction_score
+      label: customer_satisfaction_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: score_out_of_ten
+      label: score_out_of_ten
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: customer_satisfaction_principles
+      label: customer_satisfaction_principles
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_satisfaction_principles_list
+      label: customer_satisfaction_principles_list
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_satisfaction_principles_list_list
+      label: customer_satisfaction_principles_list_list
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer_satisfaction_knowledge
+      label: customer_satisfaction_knowledge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_satisfaction_knowledge_list
+      label: customer_satisfaction_knowledge_list
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: customer_satisfaction_knowledge_list_list
+      label: customer_satisfaction_knowledge_list_list
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_satisfaction_knowledge_score
+      label: customer_satisfaction_knowledge_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: customer_satisfaction_knowledge_score_out_of_ten
+      label: customer_satisfaction_knowledge_score_out_of_ten
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: customer_satisfaction_knowledge_score_out_of_ten_list
+      label: customer_satisfaction_knowledge_score_out_of_ten_list
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer_satisfaction_knowledge_score_out_of_ten_list_list
+      label: customer_satisfaction_knowledge_score_out_of_ten_list_list
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_satisfaction_knowledge_score_out_of_ten_score
+      label: customer_satisfaction_knowledge_score_out_of_ten_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: customer_satisfaction_knowledge_score_out_of_ten_score_out_of_ten
+      label: customer_satisfaction_knowledge_score_out_of_ten_score_out_of_ten
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: customer_satisfaction_knowledge_score_out_of_ten_score_out_of_ten_list
+      label: customer_satisfaction_knowledge_score_out_of_ten_score_out_of_ten_list
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: customer_satisfaction_knowledge_score_out_of_ten_score_out_of_ten_list_list
+      label: customer_satisfaction_knowledge_score_out_of_ten_score_out_of_ten_list_list
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: true

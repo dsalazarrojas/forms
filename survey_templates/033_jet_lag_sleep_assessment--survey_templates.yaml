@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Jet Lag Sleep Assessment
+    pages:
+    - id: 1
+      name: travel_history
+      label: Travel History
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: sleep_patterns
+      label: Sleep Patterns
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': ''Jet Lag''}'
+      - '{''options'': ''None''}'
+      - '{''options'': ''Sleep Disorders''}'
+      required: false
+    - id: 3
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: jet_lag_symptoms
+      label: Jet Lag Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: jet_lag_suggestions
+      label: Jet Lag Symptoms Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: follow_up_reminders
+      label: Follow-Up Reminders
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: follow_up_reminders_description
+      label: Follow-Up Reminders Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: jet_lag_sleep_assessment
+      label: Jet Lag Sleep Assessment
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': ''Yes''}'
+      - '{''options'': ''No''}'
+      required: false
+    - id: 9
+      name: sleep_assessment_comments
+      label: Sleep Assessment Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_contact
+      label: Follow-Up Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: travel_time_zone
+      label: Time Zone
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: jet_lag_days_post_travel
+      label: Days Post-Travel
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: sleep_duration
+      label: Total Sleep Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: sleep_quality
+      label: Sleep Quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: wake_up_time
+      label: Wake-Up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: sleep_schedule
+      label: Sleep Schedule
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: travel_destination
+      label: Travel Destination
+      hint: null
+      type: text
+      options: []
+      required: false

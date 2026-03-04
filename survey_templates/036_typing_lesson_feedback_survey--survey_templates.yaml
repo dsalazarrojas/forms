@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Typing Lesson Feedback Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Intro Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: survey_page
+      label: Lesson Feedback
+      hint: Please rate your experience with typing lessons.
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Not Satisfied
+      - Very Not Satisfied
+      required: false
+    - id: 3
+      name: lesson_effectiveness
+      label: Lesson Effectiveness
+      hint: How effective were the typing lessons?
+      type: select_one
+      options:
+      - Very Effective
+      - Somewhat Effective
+      - Neither Effective Nor Ineffective
+      - Somewhat Ineffective
+      - Very Ineffective
+      required: false
+    - id: 4
+      name: difficulty_level
+      label: Difficulty Level
+      hint: How difficult was the lesson?
+      type: select_one
+      options:
+      - Very Easy
+      - Somewhat Easy
+      - Neither Easy Nor Hard
+      - Somewhat Hard
+      - Very Hard
+      required: false
+    - id: 5
+      name: instructor_quality
+      label: Instructor Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Neither Good Nor Bad
+      - Bad
+      - Very Bad
+      required: false
+    - id: 6
+      name: lesson_materials
+      label: Lesson Materials
+      hint: Did you have everything you needed?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: lesson_length
+      label: Lesson Length
+      hint: How long was the lesson?
+      type: select_one
+      options:
+      - Just Right
+      - Too Long
+      - Too Short
+      required: false
+    - id: 8
+      name: suggestions
+      label: Any Suggestions or Comments
+      hint: Do you have any suggestions or comments?
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

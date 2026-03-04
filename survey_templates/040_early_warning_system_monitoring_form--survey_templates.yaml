@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Early Warning System Monitoring Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: warning_system
+      label: Early Warning System
+      hint: null
+      type: select_one
+      options:
+      - System 1
+      - System 2
+      - System 3
+      required: true
+    - id: 5
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 6
+      name: frequency_of_warnings
+      label: Frequency of Warnings
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 7
+      name: warning_threshold
+      label: Warning Threshold
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: intervention_time
+      label: Intervention Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: system_status
+      label: System Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true

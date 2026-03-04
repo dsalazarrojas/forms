@@ -1,0 +1,242 @@
+inputSchema:
+  type: object
+  properties:
+    title: Body And Facial Treatment Survey
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Client Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Client Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: visit_date
+      label: Visit Date
+      hint: Date of treatment
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: treatment_type
+      label: Treatment Type
+      hint: What treatment did you receive?
+      type: select_one
+      options:
+      - Facial Treatment
+      - Body Wrap
+      - Body Scrub
+      - Massage
+      - Chemical Peel
+      - Microdermabrasion
+      - LED Therapy
+      - Combination Treatment
+      - Other
+      required: true
+    - id: 6
+      name: specific_treatment
+      label: Specific Treatment Name
+      hint: Name of the service
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: therapist_name
+      label: Therapist Name
+      hint: Who performed your treatment?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: Rate your experience
+      type: select_one
+      options:
+      - 5 - Very Satisfied
+      - 4 - Satisfied
+      - 3 - Neutral
+      - 2 - Dissatisfied
+      - 1 - Very Dissatisfied
+      required: true
+    - id: 9
+      name: facility_cleanliness
+      label: Facility Cleanliness
+      hint: Rate the cleanliness
+      type: select_one
+      options:
+      - 5 - Excellent
+      - 4 - Good
+      - 3 - Average
+      - 2 - Below Average
+      - 1 - Poor
+      required: true
+    - id: 10
+      name: staff_friendliness
+      label: Staff Friendliness
+      hint: Rate staff courtesy
+      type: select_one
+      options:
+      - 5 - Excellent
+      - 4 - Good
+      - 3 - Average
+      - 2 - Below Average
+      - 1 - Poor
+      required: true
+    - id: 11
+      name: therapist_knowledge
+      label: Therapist Knowledge
+      hint: Rate therapist expertise
+      type: select_one
+      options:
+      - 5 - Excellent
+      - 4 - Good
+      - 3 - Average
+      - 2 - Below Average
+      - 1 - Poor
+      required: true
+    - id: 12
+      name: therapist_technique
+      label: Therapist Technique
+      hint: Rate the technique
+      type: select_one
+      options:
+      - 5 - Excellent
+      - 4 - Good
+      - 3 - Average
+      - 2 - Below Average
+      - 1 - Poor
+      required: true
+    - id: 13
+      name: treatment_effectiveness
+      label: Treatment Effectiveness
+      hint: How effective was the treatment?
+      type: select_one
+      options:
+      - 5 - Excellent
+      - 4 - Good
+      - 3 - Average
+      - 2 - Below Average
+      - 1 - Poor
+      required: true
+    - id: 14
+      name: value_for_money
+      label: Value for Money
+      hint: Rate the value
+      type: select_one
+      options:
+      - 5 - Excellent Value
+      - 4 - Good Value
+      - 3 - Fair Value
+      - 2 - Poor Value
+      - 1 - Very Poor Value
+      required: true
+    - id: 15
+      name: ambiance_rating
+      label: Ambiance Rating
+      hint: Rate the atmosphere
+      type: select_one
+      options:
+      - 5 - Excellent
+      - 4 - Good
+      - 3 - Average
+      - 2 - Below Average
+      - 1 - Poor
+      required: true
+    - id: 16
+      name: comfort_level
+      label: Comfort Level
+      hint: How comfortable did you feel?
+      type: select_one
+      options:
+      - Very Comfortable
+      - Comfortable
+      - Neutral
+      - Uncomfortable
+      - Very Uncomfortable
+      required: true
+    - id: 17
+      name: results_visible
+      label: Results Visible
+      hint: Are you seeing results?
+      type: select_one
+      options:
+      - Yes, Excellent Results
+      - Yes, Good Results
+      - Some Results
+      - No Visible Results Yet
+      - Too Soon to Tell
+      required: true
+    - id: 18
+      name: likelihood_to_recommend
+      label: Likelihood to Recommend
+      hint: Would you recommend us?
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 19
+      name: will_return
+      label: Will You Return?
+      hint: Will you book again?
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Maybe
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 20
+      name: treatments_interested
+      label: Other Treatments Interested In
+      hint: What else would you like to try?
+      type: select_multiple
+      options:
+      - Anti-Aging Facial
+      - Acne Treatment
+      - Body Contouring
+      - Cellulite Treatment
+      - Skin Tightening
+      - Laser Treatment
+      - None
+      required: false
+    - id: 21
+      name: best_part
+      label: Best Part of Treatment
+      hint: What did you enjoy most?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: What could be better?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

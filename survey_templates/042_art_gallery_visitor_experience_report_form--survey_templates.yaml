@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Gallery Visitor Experience Report Form
+    pages:
+    - id: 1
+      name: visit_summary_header
+      label: -- Visit Summary --
+      hint: Your feedback helps us create better art experiences
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: visitor_name_optional
+      label: Name (Optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_visit
+      label: Date of Your Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: exhibition_viewed
+      label: Which exhibition did you primarily come to see?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: overall_experience_rating
+      label: How would you rate your overall experience today?
+      hint: (1-5 stars)
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: exhibition_ratings_header
+      label: -- Exhibition and Gallery Ratings --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: curation_quality
+      label: Quality of Curation and Exhibition Theme
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 8
+      name: artwork_variety
+      label: Variety and Interest of Artworks Displayed
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      required: true
+    - id: 9
+      name: spatial_layout_flow
+      label: Gallery Layout and Movement Flow
+      hint: null
+      type: select_one
+      options:
+      - Easy to Navigate
+      - Somewhat Confusing
+      - Difficult to Navigate
+      required: true
+    - id: 10
+      name: facilities_cleanliness
+      label: Cleanliness and Comfort of the Gallery Facilities
+      hint: null
+      type: select_one
+      options:
+      - 5 - Outstanding
+      - 4 - Good
+      - 3 - Average
+      - 2 - Poor
+      - 1 - Very Poor
+      required: true
+    - id: 11
+      name: highlight_of_visit
+      label: What was the highlight of your visit?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: improvement_recommendation
+      label: What is one specific improvement you would recommend?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: referral_likelihood
+      label: How likely are you to recommend this gallery to a friend or colleague?
+      hint: (0-10 NPS Scale)
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: future_attendance_intent
+      label: Do you plan to attend our next exhibition?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Definitely
+      - Possibly
+      - false
+      required: true
+    - id: 15
+      name: contact_opt_in_header
+      label: -- Stay Connected --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: email_newsletter_subscription
+      label: Would you like to subscribe to our monthly newsletter?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Please subscribe me
+      - No - Thank you
+      required: true
+    - id: 17
+      name: contact_email
+      label: Your Email Address
+      hint: If subscribing
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Leisure Interest And Barriers Survey
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: demographics
+      label: Participant Demographics
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: interests_and_preferences
+      label: Participation and Preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: barriers_and_obstacles
+      label: Barriers and Obstacles
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: motivation
+      label: Motivation
+      hint: null
+      type: select_one
+      options:
+      - Motivation 1
+      - Motivation 2
+      - Motivation 3
+      required: true
+    - id: 6
+      name: participation_frequency
+      label: Participation Frequency
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Less than 1 time per month
+      - 1-2 times per month
+      - 3-4 times per month
+      - More than 4 times per month
+      required: true
+    - id: 7
+      name: frequency_of_participation
+      label: Frequency of Participation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: preferred_participation_days
+      label: Preferred Participation Days
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 9
+      name: preferred_participation_time
+      label: Preferred Participation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: postcode
+      label: Postcode
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: state_or_region
+      label: State or Region
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: goals
+      label: Goals
+      hint: null
+      type: text
+      options: []
+      required: false

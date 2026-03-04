@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Match Results Survey
+    pages:
+    - id: 1
+      name: match_outcome
+      label: Match Outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: home_score
+      label: Home Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: away_score
+      label: Away Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: match_winner
+      label: Match Winner
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: match_outcome_other
+      label: Other Match Outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: match_date
+      label: Match Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: match_time
+      label: Match Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: match_time_zone
+      label: Match Time Zone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: referee_id
+      label: Referee
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: match_venue
+      label: Venue
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

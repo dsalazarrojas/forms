@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Municipal Infrastructure Resident Feedback Questionnaire
+    pages:
+    - id: 1
+      name: neighborhood_services
+      label: neighborhood_services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: local_conditions
+      label: local_conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: community_satisfaction
+      label: community_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 4
+      name: services_improvement
+      label: services_improvement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: resident_suggestions
+      label: resident_suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

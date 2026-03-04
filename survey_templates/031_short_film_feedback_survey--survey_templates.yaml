@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Short Film Feedback Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: favorite_part
+      label: Favorite Part
+      hint: What part of the film was your favorite?
+      type: select_one
+      options:
+      - '{1: ''The opening scene''}'
+      - '{2: ''The ending''}'
+      - '{3: ''The middle section''}'
+      - '{4: "I couldn''t pick just one"}'
+      required: false
+    - id: 6
+      name: least_fav_part
+      label: Least Favorite Part
+      hint: What part of the film was your least favorite?
+      type: select_one
+      options:
+      - '{1: ''The opening scene''}'
+      - '{2: ''The ending''}'
+      - '{3: ''The middle section''}'
+      - '{4: "I couldn''t pick just one"}'
+      required: false
+    - id: 7
+      name: why_leave
+      label: Why Leave
+      hint: Why did you leave early?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: would_rewatch
+      label: Would Rewatch
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Yes''}'
+      - '{2: ''No''}'
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: Additional feedback
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: would_recommend
+      label: Would Recommend
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Yes''}'
+      - '{2: ''No''}'
+      required: false
+    - id: 12
+      name: share_on_social
+      label: Share on Social
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Yes''}'
+      - '{2: ''No''}'
+      required: false
+    - id: 13
+      name: share_on_email
+      label: Share on Email
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Yes''}'
+      - '{2: ''No''}'
+      required: false
+    - id: 14
+      name: watch_on_streaming
+      label: Watch on Streaming
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Yes''}'
+      - '{2: ''No''}'
+      required: false
+    - id: 15
+      name: watch_on_tv
+      label: Watch on TV
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Yes''}'
+      - '{2: ''No''}'
+      required: false
+    - id: 16
+      name: buy_on_dvd_bluray
+      label: Buy on DVD/BluRay
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Yes''}'
+      - '{2: ''No''}'
+      required: false
+    - id: 17
+      name: share_on_facebook
+      label: Share on Facebook
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Yes''}'
+      - '{2: ''No''}'
+      required: false
+    - id: 18
+      name: share_on_twitter
+      label: Share on Twitter
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Yes''}'
+      - '{2: ''No''}'
+      required: false
+    - id: 19
+      name: share_on_instagram
+      label: Share on Instagram
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Yes''}'
+      - '{2: ''No''}'
+      required: false
+    - id: 20
+      name: watch_on_vod
+      label: Watch on VOD
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Yes''}'
+      - '{2: ''No''}'
+      required: false
+    - id: 21
+      name: watch_on_other_platforms
+      label: Watch on Other Platforms
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Yes''}'
+      - '{2: ''No''}'
+      required: false
+    - id: 22
+      name: other_platforms
+      label: Other Platforms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: comments_other
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: watch_again
+      label: Would Watch Again
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Yes''}'
+      - '{2: ''No''}'
+      required: false

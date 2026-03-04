@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: home_network_safety_inspection_form
+    pages:
+    - id: 1
+      name: intro_page
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: network_info
+      label: network_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: network_devices
+      label: network_devices
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Router''}'
+      - '{''label'': ''Modem''}'
+      - '{''label'': ''Switch''}'
+      - '{''label'': ''Access Point''}'
+      - '{''label'': ''Other''}'
+      - '{''label'': ''None''}'
+      required: false
+    - id: 4
+      name: firewall
+      label: firewall
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Other (please describe)''}'
+      required: false
+    - id: 5
+      name: network_connections
+      label: network_connections
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Wired''}'
+      - '{''label'': ''Wireless''}'
+      - '{''label'': ''Both''}'
+      required: false
+    - id: 6
+      name: network_security
+      label: network_security
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: network_threats
+      label: network_threats
+      hint: null
+      type: number
+      options: []
+      required: false

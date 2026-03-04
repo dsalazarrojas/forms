@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Respondent Identification Questionnaire
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time_of_birth
+      label: Time of Birth
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Other
+      - Prefer not to say
+      required: true
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: Enter a 10-digit phone number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: study_program
+      label: Study Program
+      hint: null
+      type: select_one
+      options:
+      - Study 1
+      - Study 2
+      - Study 3
+      - Study 4
+      - Study 5
+      - Study 6
+      - Study 7
+      - Study 8
+      - Study 9
+      - Study 10
+      - Other
+      required: true
+    - id: 11
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_person_title
+      label: Contact Person Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_department
+      label: Contact Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: study_duration
+      label: Study Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: program_start_date
+      label: Program Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: program_end_date
+      label: Program End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: study_status
+      label: Study Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: study_stage
+      label: Study Stage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_contact_date
+      label: Follow-Up Contact Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 26
+      name: follow_up_contact_method
+      label: Follow-Up Contact Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: follow_up_contact_frequency
+      label: Follow-Up Contact Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: follow_up_contact_note
+      label: Follow-Up Contact Note
+      hint: null
+      type: text
+      options: []
+      required: false

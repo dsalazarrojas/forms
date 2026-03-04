@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Resource Allocation Survey
+    pages:
+    - id: 1
+      name: resource_allocation_survey
+      label: Resource Allocation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: select_one
+      options:
+      - Project Manager A
+      - Project Manager B
+      - Project Manager C
+      required: false
+    - id: 3
+      name: resource_type
+      label: Resource Type
+      hint: null
+      type: select_one
+      options:
+      - Type A
+      - Type B
+      - Type C
+      required: false
+    - id: 4
+      name: allocation_method
+      label: Allocation Method
+      hint: null
+      type: select_multiple
+      options:
+      - Method A
+      - Method B
+      - Method C
+      required: false
+    - id: 5
+      name: resource_quantity
+      label: Resource Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - Assigned To A
+      - Assigned To B
+      - Assigned To C
+      required: false

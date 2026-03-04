@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Counseling Experience Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: Survey Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_type
+      label: Session Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''In-person''}'
+      - '{''value'': ''Phone''}'
+      - '{''value'': ''Video''}'
+      - '{''value'': ''Online''}'
+      required: false
+    - id: 3
+      name: technology_rating
+      label: Technology Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: session_satisfaction
+      label: Session Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: improvement_areas
+      label: Improvement Areas
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Technology''}'
+      - '{''value'': ''Communication''}'
+      - '{''value'': ''Availability''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

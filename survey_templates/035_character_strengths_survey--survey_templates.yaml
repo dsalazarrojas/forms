@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: Character Strengths Survey
+    pages:
+    - id: 1
+      name: section_survey_intro
+      label: -- Character Strengths and Values --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name_strengths
+      label: Participant Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email_address_strengths
+      label: Participant Email Address
+      hint: For survey results and feedback
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: section_wisdom_and_knowledge
+      label: -- Wisdom and Knowledge --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: curiosity_self_rating_strengths
+      label: Curiosity Self-Rating
+      hint: How much do you enjoy exploring and discovering new things?
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: love_of_learning_rating
+      label: Love of Learning Rating
+      hint: How much do you value acquiring new knowledge?
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: critical_thinking_rating
+      label: Critical Thinking Rating
+      hint: How well do you analyze and evaluate information?
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: section_courage_and_bravery
+      label: -- Courage and Bravery --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: bravery_self_rating_strengths
+      label: Bravery Self-Rating
+      hint: How willing are you to face challenges or adversity?
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: persistence_self_rating
+      label: Persistence Self-Rating
+      hint: How well do you stay focused on long-term goals?
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: integrity_self_rating_strengths
+      label: Integrity Self-Rating
+      hint: How consistently do you act according to your values?
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: section_humanity_and_kindness
+      label: -- Humanity and Kindness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: love_and_caring_rating
+      label: Love and Caring Rating
+      hint: How much do you value close relationships and supporting others?
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: kindness_self_rating
+      label: Kindness Self-Rating
+      hint: How often do you perform acts of kindness for others?
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: social_intelligence_rating
+      label: Social Intelligence Rating
+      hint: How well do you understand and navigate social situations?
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: section_justice_and_fairness
+      label: -- Justice and Fairness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: teamwork_and_collaboration_rating
+      label: Teamwork and Collaboration Rating
+      hint: How well do you work with others toward a common goal?
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: fairness_and_justice_rating
+      label: Fairness and Justice Rating
+      hint: How much do you value equal treatment and fair play?
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: leadership_self_rating_strengths
+      label: Leadership Self-Rating
+      hint: How well do you inspire and guide others?
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: section_temperance_and_humility
+      label: -- Temperance and Humility --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: forgiveness_self_rating
+      label: Forgiveness Self-Rating
+      hint: How easily do you let go of grudges or resentments?
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: humility_and_modesty_rating
+      label: Humility and Modesty Rating
+      hint: How much do you value being humble and understated?
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: prudence_self_rating
+      label: Prudence Self-Rating
+      hint: How careful are you in making decisions and avoiding risks?
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: section_transcendence_and_meaning
+      label: -- Transcendence and Meaning --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: appreciation_of_beauty_rating
+      label: Appreciation of Beauty Rating
+      hint: How much do you value excellence and beauty in the world?
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: gratitude_self_rating
+      label: Gratitude Self-Rating
+      hint: How often do you feel and express thankfulness?
+      type: number
+      options: []
+      required: true
+    - id: 27
+      name: hope_and_optimism_rating
+      label: Hope and Optimism Rating
+      hint: How much do you look forward to the future with confidence?
+      type: number
+      options: []
+      required: true
+    - id: 28
+      name: section_final_strengths_confirmation
+      label: -- Strengths Finalization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: accuracy_confirmation_strengths_survey
+      label: Confirmation of Survey Completion
+      hint: I confirm that I have answered these questions thoughtfully and honestly
+      type: select_one
+      options:
+      - I Confirm and Submit
+      - Other
+      required: true
+    - id: 30
+      name: date_of_strengths_update_submission_log
+      label: Date of Completion
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 31
+      name: additional_strengths_notes_log
+      label: Additional Strengths Notes
+      hint: Any other relevant information or context
+      type: text
+      options: []
+      required: false

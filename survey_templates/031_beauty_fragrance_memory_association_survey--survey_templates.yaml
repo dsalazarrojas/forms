@@ -1,0 +1,191 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Fragrance Memory Association Survey
+    pages:
+      - id: 1
+        name: respondent_header
+        label: -- Respondent Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: age_group
+        label: Age Group
+        hint: null
+        type: select_one
+        options: [18-25, 26-35, 36-45, 46-55, 56+]
+        required: true
+      - id: 3
+        name: gender
+        label: Gender
+        hint: null
+        type: select_one
+        options: [Male, Female, Non-binary, Prefer Not to Say]
+        required: false
+      - id: 4
+        name: fragrance_experience
+        label: Fragrance Use Experience
+        hint: null
+        type: select_one
+        options: [Minimal - Rarely Use, Occasional User, Regular User, Heavy User]
+        required: true
+      - id: 5
+        name: scent_sensitivity
+        label: Scent Sensitivity Level
+        hint: null
+        type: select_one
+        options: [Low Sensitivity, Moderate Sensitivity, High Sensitivity, Very High Sensitivity]
+        required: true
+      - id: 6
+        name: fragrance_header
+        label: -- Fragrance Preference --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: favorite_scent_families
+        label: Favorite Scent Families
+        hint: null
+        type: select_multiple
+        options: [Floral, Fruity, Oriental, Fresh, Woody, Aromatic, Spicy, Citrus]
+        required: true
+      - id: 8
+        name: strongest_scent_memory
+        label: Strongest Scent Memory
+        hint: Describe a scent you strongly remember
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: memory_timeframe
+        label: When Did This Scent Memory Occur
+        hint: null
+        type: select_one
+        options: [Childhood, Adolescence, Early Adulthood, Recent Years]
+        required: true
+      - id: 10
+        name: memory_association_header
+        label: -- Memory Association --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: memory_context
+        label: What Context or Situation Associated with This Scent
+        hint: Person, place, event, emotion, etc.
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: emotional_response
+        label: Emotional Response to This Scent
+        hint: null
+        type: select_one
+        options: [Very Negative, Negative, Neutral, Positive, Very Positive]
+        required: true
+      - id: 13
+        name: nostalgic_feeling
+        label: Level of Nostalgia Associated
+        hint: null
+        type: select_one
+        options: [Not Nostalgic, Mildly Nostalgic, Moderately Nostalgic, Very Nostalgic, Extremely Nostalgic]
+        required: true
+      - id: 14
+        name: scent_vividness
+        label: Vividness of Memory When Encountering This Scent
+        hint: null
+        type: select_one
+        options: [Vague, Somewhat Clear, Clear, Very Clear, Extremely Vivid]
+        required: true
+      - id: 15
+        name: memory_reliability
+        label: How Reliable Is Your Memory of This Scent
+        hint: null
+        type: select_one
+        options: [Not Reliable, Somewhat Reliable, Reliable, Very Reliable]
+        required: true
+      - id: 16
+        name: multiple_memories_header
+        label: -- Multiple Memory Associations --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: multiple_memories
+        label: Does This Scent Evoke Multiple Memories
+        hint: null
+        type: select_one
+        options: ["Yes", "No"]
+        required: true
+      - id: 18
+        name: other_memories
+        label: Describe Other Memories Associated with This Scent
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: personality_header
+        label: -- Scent and Personality --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: fragrance_personality_match
+        label: Does Your Favorite Fragrance Match Your Personality
+        hint: null
+        type: select_one
+        options: [Not at All, Slightly, Moderately, Mostly, Completely]
+        required: true
+      - id: 21
+        name: fragrance_confidence_boost
+        label: Does Fragrance Boost Your Confidence
+        hint: null
+        type: select_one
+        options: [Not at All, Somewhat, Moderately, Significantly, Very Significantly]
+        required: true
+      - id: 22
+        name: triggers_header
+        label: -- Memory Triggers and Associations --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: involuntary_memory_recall
+        label: Frequency of Involuntary Memory Recall from Scents
+        hint: null
+        type: select_one
+        options: [Never, Rarely, Sometimes, Often, Very Often]
+        required: true
+      - id: 24
+        name: most_memorable_scents
+        label: Most Memorable Scents in Your Life
+        hint: List any past or present fragrances
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: scent_marketing_impact
+        label: Has Scent-Based Marketing Influenced Your Purchase
+        hint: null
+        type: select_one
+        options: ["Yes, Significantly", "Yes, Somewhat", "Neutral", "Not Really", "No, Never"]
+        required: true

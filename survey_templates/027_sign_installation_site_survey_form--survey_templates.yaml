@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sign Installation Site Survey Form
+    pages:
+    - id: 1
+      name: sign_installation_site_survey_form
+      label: site_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: site_info
+      label: site details
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''option1'', ''value'': ''option1_value''}'
+      - '{''label'': ''option2'', ''value'': ''option2_value''}'
+      - '{''label'': ''option3'', ''value'': ''option3_value''}'
+      required: true
+    - id: 3
+      name: contact_info
+      label: contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: contact info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_person
+      label: contact person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_details
+      label: project details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: site_address
+      label: site address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: site_description
+      label: site description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: site_notes
+      label: site notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: site_images
+      label: site images
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: site_documents
+      label: site documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: site_video
+      label: site video
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: site_audio
+      label: site audio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: site_date_installed
+      label: date_installed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: site_time_installed
+      label: time_installed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: site_status
+      label: site status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''option1'', ''value'': ''option1_value''}'
+      - '{''label'': ''option2'', ''value'': ''option2_value''}'
+      - '{''label'': ''option3'', ''value'': ''option3_value''}'
+      required: true
+    - id: 17
+      name: site_comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false

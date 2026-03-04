@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: ESD Safety Equipment Survey
+    pages:
+    - id: 1
+      name: esd_safety_equipment_survey
+      label: ESD Safety Equipment Survey
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: esd_controls_used
+      label: ESD Controls Used
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Control 1'', ''value'': ''Control 1''}'
+      - '{''label'': ''Control 2'', ''value'': ''Control 2''}'
+      - '{''label'': ''Control 3'', ''value'': ''Control 3''}'
+      required: false
+    - id: 3
+      name: safety_gear_used
+      label: Safety Gear Used
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: esd_safety_equipment_survey_notes
+      label: ESD Safety Equipment Survey Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: date_of_last_use
+      label: Date of Last Use
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_last_use
+      label: Time of Last Use
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: last_use_duration
+      label: Last Use Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: last_use_location
+      label: Last Use Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: was_last_use_at_work
+      label: Was last use at work?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 10
+      name: user_last_use
+      label: User Last Use
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Self'', ''value'': ''Self''}'
+      - '{''label'': ''Other'', ''value'': ''Other''}'
+      - '{''label'': ''Both'', ''value'': ''Both''}'
+      required: false
+    - id: 11
+      name: user_last_use_other_user
+      label: Other User Last Use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: last_use_by
+      label: Last Use By
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Self'', ''value'': ''Self''}'
+      - '{''label'': ''Another'', ''value'': ''Another''}'
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: last_use_duration_minutes
+      label: Last Use Duration (minutes)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: last_use_duration_hours
+      label: Last Use Duration (hours)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: last_use_duration_days
+      label: Last Use Duration (days)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: last_use_duration_years
+      label: Last Use Duration (years)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: last_use_duration_months
+      label: Last Use Duration (months)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: last_use_duration_weeks
+      label: Last Use Duration (weeks)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: last_use_duration_days_days
+      label: Last Use Duration (days)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: esd_safety_equipment_survey_form_completed_by
+      label: ESD Safety Equipment Survey Form Completed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: esd_safety_equipment_survey_form_completed
+      label: ESD Safety Equipment Survey Form Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: esd_safety_equipment_survey_form_completed_time
+      label: ESD Safety Equipment Survey Form Completed Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: esd_safety_equipment_survey_form_completed_at_work
+      label: ESD Safety Equipment Survey Form Completed At Work
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false

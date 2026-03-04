@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Agent Survey
+    pages:
+    - id: 1
+      name: travel_agent_survey
+      label: travel_agent_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: challenges_faced
+      label: travel_agent_survey_challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: affected_areas
+      label: travel_agent_survey_affected_areas
+      hint: null
+      type: select_multiple
+      options:
+      - Travel Agents
+      - Tour operators
+      - Travel Agencies
+      required: false
+    - id: 4
+      name: travel_agent_survey_travel_agency
+      label: travel_agent_survey_travel_agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: revenue_lost
+      label: travel_agent_survey_revenue_lost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: support_measures
+      label: travel_agent_survey_support_measures
+      hint: null
+      type: select_one
+      options:
+      - Travel Agents
+      - Tour operators
+      - Government support
+      - Other
+      required: false
+    - id: 7
+      name: affected_people
+      label: travel_agent_survey_affected_people
+      hint: null
+      type: select_multiple
+      options:
+      - CEO
+      - Managers
+      - Employees
+      - Customers
+      required: false
+    - id: 8
+      name: financial_loss
+      label: travel_agent_survey_financial_loss
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Puppy Club Election Survey
+    pages:
+    - id: 1
+      name: club_name
+      label: What is the name of your club?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: position_1
+      label: Who will be your club president?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: position_2
+      label: Who will be your club vice president?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: position_3
+      label: Who will be your club treasurer?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: position_4
+      label: Who will be your club secretary?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: club_president
+      label: How long will your president serve (1 year, 2 years, etc.)?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: What do you think about this election process?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: What email would you like to use to contact you?
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Diffraction Order Measurement Form
+    pages:
+    - id: 1
+      name: form_start
+      label: Start
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: input_experiment_name
+      label: Input Experiment Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: input_experiment_date
+      label: Input Experiment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: input_instrument_name
+      label: Input Instrument Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: input_order_of_diffraction
+      label: Input Order of Diffraction
+      hint: Enter multiple values separated by commas
+      type: select_multiple
+      options:
+      - first
+      - second
+      - third
+      required: true
+    - id: 6
+      name: input_angle_of_diffraction
+      label: Input Angle of Diffraction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: input_number_of_diffraction
+      label: Input Number of Diffraction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: input_position_of_diffraction
+      label: Input Position of Diffraction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: input_diffraction_angle
+      label: Input Diffraction Angle
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: input_angle_of_measurement
+      label: Input Angle of Measurement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: input_position_of_measurement
+      label: Input Position of Measurement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: input_measurement
+      label: Input Measurement
+      hint: null
+      type: number
+      options: []
+      required: false

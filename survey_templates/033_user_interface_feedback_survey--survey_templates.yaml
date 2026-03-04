@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: User Interface Feedback Survey
+    pages:
+    - id: 1
+      name: user_interface_rating
+      label: How would you rate the overall user interface?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: navigation
+      label: Navigation
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very good'', ''value'': 5}'
+      - '{''label'': ''Not very good'', ''value'': 1}'
+      required: false
+    - id: 3
+      name: feedback
+      label: Can you provide feedback about the user interface?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction
+      label: How would you rate the overall satisfaction with the user interface?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very satisfied'', ''value'': 5}'
+      - '{''label'': ''Not satisfied'', ''value'': 1}'
+      required: false
+    - id: 5
+      name: user_experience
+      label: How would you rate your overall experience?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: time_spent
+      label: How much time did you spend in the interface?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: How would you rate the contact info?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: search_info
+      label: Search info
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 9
+      name: user_interface_improvement
+      label: What could we improve in the user interface?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: What is your email?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: false

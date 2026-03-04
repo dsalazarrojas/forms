@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Student Career Goal Survey
+    pages:
+    - id: 1
+      name: student_interests
+      label: What are your interests?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: work_preferences
+      label: What type of work do you want to do after graduation?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: graduation_plans
+      label: What are your post-graduation plans?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_title
+      label: Job title
+      hint: null
+      type: select_one
+      options:
+      - Veterinarian
+      - Animal Care Technician
+      - Veterinary Researcher
+      - Veterinary Professor
+      required: false
+    - id: 5
+      name: work_environment
+      label: Work environment
+      hint: null
+      type: select_multiple
+      options:
+      - Clinic
+      - Laboratory
+      - Research Institution
+      - University
+      required: false
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - Urban
+      - Rural
+      - Suburban
+      - Coastal
+      required: false
+    - id: 7
+      name: salary
+      label: What salary are you expecting?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: benefits
+      label: What benefits are you expecting?
+      hint: null
+      type: select_multiple
+      options:
+      - Medical
+      - Dental
+      - Vision
+      - 401(k)
+      required: false
+    - id: 9
+      name: benefits_other
+      label: Are there any other benefits?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: benefits_details
+      label: Benefits details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: work_life_balance
+      label: Work life balance
+      hint: null
+      type: select_one
+      options:
+      - Flexible schedule
+      - Flexible work hours
+      - Job security
+      - Job flexibility
+      required: false
+    - id: 12
+      name: job_security
+      label: Job security
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: work_flexibility
+      label: Work flexibility
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: professional_certifications
+      label: What certifications do you need?
+      hint: null
+      type: select_multiple
+      options:
+      - Certified
+      - Registered
+      - Licensed
+      - Associate
+      required: false
+    - id: 15
+      name: education_background
+      label: Education background
+      hint: null
+      type: select_one
+      options:
+      - Bachelor
+      - Master
+      - Doctoral
+      - Postdoctoral
+      required: false
+    - id: 16
+      name: work_experience
+      label: What work experience do you have?
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Survey Participation Intake Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patientName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: phoneNumber
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: survey_type
+      label: surveyType
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''typeA''}'
+      - '{''id'': 2, ''value'': ''typeB''}'
+      required: true
+    - id: 6
+      name: questions
+      label: questions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,212 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Beneficiary Satisfaction Assessment Questionnaire
+    pages:
+      - id: 1
+        name: survey_date
+        label: Survey Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: beneficiary_name
+        label: Beneficiary Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: program_name
+        label: Name of Program
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: duration_in_program
+        label: How Long Have You Been in This Program
+        hint: null
+        type: select_one
+        options:
+          - Less than 3 months
+          - 3-6 months
+          - 6-12 months
+          - 1-2 years
+          - More than 2 years
+        required: true
+      - id: 5
+        name: overall_satisfaction
+        label: Overall Satisfaction with Program
+        hint: null
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 6
+        name: clarity_of_services
+        label: Clarity of Services Provided
+        hint: Were services clearly explained
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+        required: true
+      - id: 7
+        name: quality_of_services
+        label: Quality of Services Received
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+        required: true
+      - id: 8
+        name: staff_professionalism
+        label: Professionalism of Staff
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+        required: true
+      - id: 9
+        name: staff_responsiveness
+        label: Staff Responsiveness to Needs
+        hint: How responsive was staff to your needs
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+        required: true
+      - id: 10
+        name: communication_quality
+        label: Quality of Communication
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+        required: true
+      - id: 11
+        name: program_accessibility
+        label: Accessibility of Program
+        hint: Were services easy to access
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+        required: true
+      - id: 12
+        name: goal_progress
+        label: Progress Toward Your Goals
+        hint: null
+        type: select_one
+        options:
+          - Significant Progress
+          - Some Progress
+          - No Progress
+          - Going Backwards
+        required: true
+      - id: 13
+        name: meet_expectations
+        label: Program Meets Your Expectations
+        hint: null
+        type: select_one
+        options:
+          - Exceeded
+          - Met
+          - Partially Met
+          - Not Met
+        required: true
+      - id: 14
+        name: cultural_sensitivity
+        label: Cultural Sensitivity and Respect
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+        required: false
+      - id: 15
+        name: future_participation
+        label: Likelihood to Continue Program
+        hint: null
+        type: select_one
+        options:
+          - Very Likely
+          - Likely
+          - Neutral
+          - Unlikely
+          - Very Unlikely
+        required: true
+      - id: 16
+        name: recommend_program
+        label: Would You Recommend to Others
+        hint: null
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Unsure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 17
+        name: strengths
+        label: What Are Program Strengths
+        hint: What did you like most
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: improvements
+        label: Areas for Improvement
+        hint: What could be better
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: additional_comments
+        label: Additional Comments
+        hint: Anything else you would like to share
+        type: text
+        options: []
+        required: false

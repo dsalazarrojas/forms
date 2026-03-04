@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Presenter Feedback Survey
+    pages:
+    - id: 1
+      name: presenter_feedback_survey_first_page
+      label: What did you think?
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: feedback_on_content
+      label: Content of seminar was clear and concise
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Satisfactory
+      - Unsatisfactory
+      required: false
+    - id: 3
+      name: presenter_performance
+      label: Presenter's performance
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Satisfactory
+      - Unsatisfactory
+      - Average
+      required: false
+    - id: 4
+      name: feedback_on_materials
+      label: Materials used were relevant and up-to-date
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Satisfactory
+      - Unsatisfactory
+      required: false
+    - id: 5
+      name: presenter_availability
+      label: Presenter was available for questions
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Satisfactory
+      - Unsatisfactory
+      required: false
+    - id: 6
+      name: overall_experience
+      label: Overall experience
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Satisfactory
+      - Unsatisfactory
+      required: false
+    - id: 7
+      name: feedback_on_location
+      label: Location and facilities were good
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Satisfactory
+      - Unsatisfactory
+      required: false
+    - id: 8
+      name: presenter_feedback
+      label: Presenter feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: suggestions_for_improvement
+      label: Suggestions for improvement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_details
+      label: Contact details
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: seminar_date
+      label: Seminar date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: seminar_time
+      label: Seminar time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: seminar_location
+      label: Seminar location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: presenter_name
+      label: Presenter name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: seminar_title
+      label: Seminar title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: session_duration
+      label: Session duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: presentation_topic
+      label: Presentation topic
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: number_of_attendees
+      label: Number of attendees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: presenter_experience
+      label: Presenter experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: additional_info
+      label: Additional info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: seminar_starting_time
+      label: Seminar starting time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: seminar_ending_time
+      label: Seminar ending time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 24
+      name: survey_conducted_by
+      label: Survey conducted by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: survey_conductors_name
+      label: Survey conductors name
+      hint: null
+      type: text
+      options: []
+      required: true

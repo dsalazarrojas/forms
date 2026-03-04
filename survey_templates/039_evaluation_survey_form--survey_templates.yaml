@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Evaluation Survey Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_experience
+      label: What do you think about your experience at this school?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: education_quality
+      label: What do you think about the quality of the education offered by this
+        school?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: suggestions_for_improvement
+      label: Do you have any suggestions for improvement?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_of_completion
+      label: Time of Completion
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: select_all_that_apply
+      label: Select all that apply
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: select_one
+      label: Select one
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 12
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: back
+      label: Back
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: next
+      label: Next
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: previous
+      label: Previous
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submit_and_quit
+      label: Submit and quit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: save_and_exit
+      label: Save and exit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: continue_with_survey
+      label: Continue with survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submit_and_email
+      label: Submit and email
+      hint: null
+      type: text
+      options: []
+      required: false

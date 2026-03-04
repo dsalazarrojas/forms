@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: digital_care_communication_experience_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Male''}'
+      - '{''id'': 2, ''name'': ''Female''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      - '{''id'': 4, ''name'': ''Prefer not to say''}'
+      required: true
+    - id: 3
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: experience
+      label: Experience
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: true
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

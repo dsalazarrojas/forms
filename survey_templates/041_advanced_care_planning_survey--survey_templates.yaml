@@ -1,0 +1,153 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Advanced Care Planning Survey
+    pages:
+    - id: 1
+      name: section_demo
+      label: -- Patient Demographics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_full_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: section_awareness
+      label: -- Planning Awareness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: familiarity_with_advance_directives
+      label: Familiarity with Advance Directives
+      hint: documents like living wills and proxies
+      type: select_one
+      options:
+      - Very Familiar
+      - Somewhat Familiar
+      - Not Familiar
+      required: true
+    - id: 6
+      name: current_existence_of_living_will
+      label: Current Existence of Living Will
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - In Progress
+      required: true
+    - id: 7
+      name: healthcare_power_of_attorney_designated
+      label: Healthcare Power of Attorney Designated
+      hint: also known as a healthcare agent
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 8
+      name: section_prefs
+      label: -- Care Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: priority_values_at_end_of_life
+      label: Priority Values at End of Life
+      hint: What matters most to you?
+      type: select_multiple
+      options:
+      - Being free of pain
+      - Being at home
+      - Being with family
+      - Maintaining dignity
+      - Spiritual support
+      required: false
+    - id: 10
+      name: preference_for_life_support_if_comatose
+      label: Preference for Life Support if Comatose
+      hint: assuming no hope of recovery
+      type: select_one
+      options:
+      - Continue all care
+      - Selective care only
+      - No life-prolonging care
+      required: true
+    - id: 11
+      name: section_barriers
+      label: -- Barriers to Planning --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: barriers_to_completing_advance_plans
+      label: Barriers to Completing Advance Plans
+      hint: why haven't these been finalized?
+      type: select_multiple
+      options:
+      - Lack of information
+      - Difficulty discussing with family
+      - Procrastination
+      - Legal concerns
+      - None
+      required: false
+    - id: 13
+      name: additional_concerns_or_questions_about_planning
+      label: Additional Concerns or Questions about Planning
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_followup
+      label: -- Follow-up --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: request_educational_materials
+      label: Request Educational Materials
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 16
+      name: request_consultation_with_social_worker
+      label: Request Consultation with Social Worker
+      hint: to help complete the documents
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true

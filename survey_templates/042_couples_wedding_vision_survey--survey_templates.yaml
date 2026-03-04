@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Couples' Wedding Vision Survey
+    pages:
+    - id: 1
+      name: welcome_page
+      label: welcome_to_the_survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: wedding_details
+      label: Wedding Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: ceremony_preferences
+      label: ceremony_preferences
+      hint: null
+      type: select_one
+      options:
+      - Outdoor ceremony
+      - Indoor ceremony
+      - Other (please specify)
+      required: false
+    - id: 4
+      name: reception_preferences
+      label: reception_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Outdoor reception
+      - Indoor reception
+      - Other (please specify)
+      required: false
+    - id: 5
+      name: guest_preferences
+      label: Guest preferences
+      hint: null
+      type: select_one
+      options:
+      - Formal
+      - Cocktail dress
+      - Casual
+      required: false
+    - id: 6
+      name: budget
+      label: budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: timeline
+      label: timeline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: venue_preferences
+      label: venue_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Historic mansion
+      - Beach location
+      - Mountain view
+      required: false
+    - id: 9
+      name: vendor_preferences
+      label: vendor_preferences
+      hint: Please list the vendors you have worked with or are interested in working
+        with
+      type: text
+      options: []
+      required: false

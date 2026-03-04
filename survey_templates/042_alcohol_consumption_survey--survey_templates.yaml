@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alcohol Consumption Survey
+    pages:
+    - id: 1
+      name: section_demographics
+      label: -- Demographic Data --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: age_range
+      label: Age Range
+      hint: null
+      type: select_one
+      options:
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65+
+      required: true
+    - id: 3
+      name: gender_identity
+      label: Gender Identity
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 4
+      name: section_habits
+      label: -- Consumption Patterns --
+      hint: Please answer honestly for research accuracy
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: drinking_frequency
+      label: How often do you have a drink containing alcohol?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Monthly or less
+      - 2-4 times a month
+      - 2-3 times a week
+      - 4 or more times a week
+      required: true
+    - id: 6
+      name: units_per_typical_day
+      label: How many units of alcohol do you drink on a typical day when you are
+        drinking?
+      hint: 1 unit = half pint of beer, small glass of wine, or a single shot of spirits
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: binge_frequency
+      label: How often do you have six or more units on one occasion?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Less than monthly
+      - Monthly
+      - Weekly
+      - Daily or almost daily
+      required: true
+    - id: 8
+      name: primary_beverage_type
+      label: Preferred Type of Alcohol
+      hint: null
+      type: select_multiple
+      options:
+      - Beer/Lager
+      - Wine/Prosecco
+      - Spirits/Liquor
+      - Cocktails
+      - Cider
+      - Other
+      required: true
+    - id: 9
+      name: section_impact
+      label: -- Social and Health Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: guilt_feelings
+      label: Have you felt guilty or remorseful after drinking in the last year?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Less than monthly
+      - Monthly
+      - Weekly
+      - Daily or almost daily
+      required: true
+    - id: 11
+      name: injury_related
+      label: Have you or someone else been injured as a result of your drinking?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - Yes, but not in the last year
+      - Yes, during the last year
+      required: true
+    - id: 12
+      name: concern_from_others
+      label: Has a relative, friend, or doctor been concerned about your drinking?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - Yes, but not in the last year
+      - Yes, during the last year
+      required: true
+    - id: 13
+      name: section_context
+      label: -- Context of Use --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: drinking_locations
+      label: Where do you typically consume alcohol?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - At home
+      - Bars/Pubs
+      - Restaurants
+      - Parties/Social Gatherings
+      - Public spaces
+      required: true
+    - id: 15
+      name: reason_for_drinking
+      label: Primary Reason for Drinking
+      hint: null
+      type: select_one
+      options:
+      - Socializing
+      - Relaxation/Stress Relief
+      - Enhancement (Feeling good)
+      - Coping
+      - Conformity (Peer pressure)
+      required: true
+    - id: 16
+      name: survey_consent
+      label: I consent to my anonymized data being used for research purposes
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - Other
+      required: true

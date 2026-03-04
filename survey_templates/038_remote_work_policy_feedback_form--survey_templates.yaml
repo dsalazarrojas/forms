@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: remote_work_policy_feedback_form
+    pages:
+    - id: 1
+      name: remote_work_title
+      label: Remote Work Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: employee_department
+      label: employee_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback_date
+      label: feedback_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: feedback_time
+      label: feedback_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: feedback_hours
+      label: feedback_hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: feedback_location
+      label: feedback_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: feedback_comment
+      label: feedback_comment
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: feedback_satisfaction
+      label: feedback_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      - option_4
+      - option_5
+      required: false
+    - id: 11
+      name: feedback_important_issues
+      label: feedback_important_issues
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      - option_4
+      - option_5
+      required: false
+    - id: 12
+      name: feedback_comments
+      label: feedback_comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: employee_email
+      label: employee_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: employee_department
+      label: employee_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: submission_time
+      label: submission_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: submission_hours
+      label: submission_hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: submission_location
+      label: submission_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submission_comment
+      label: submission_comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: feedback_important_issues_comments
+      label: feedback_important_issues_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submission_important_issues
+      label: submission_important_issues
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      - option_4
+      - option_5
+      required: false
+    - id: 23
+      name: submission_important_issues_comments
+      label: submission_important_issues_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submission_satisfaction
+      label: submission_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      - option_4
+      - option_5
+      required: false
+    - id: 25
+      name: submission_comments
+      label: submission_comments
+      hint: null
+      type: note
+      options: []
+      required: false

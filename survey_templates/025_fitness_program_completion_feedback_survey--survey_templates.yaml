@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Program Completion Feedback Survey
+    pages:
+    - id: 1
+      name: user_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: program_completed
+      label: Program Completed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: goals
+      label: Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: true
+    - id: 11
+      name: program_goals
+      label: Program Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: program_progress
+      label: Program Progress
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: program_completion_date
+      label: Program Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: program_completion_time
+      label: Program Completion Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: program_duration
+      label: Program Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 17
+      name: goals_achieved
+      label: Goals Achieved
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 18
+      name: goals_not_achieved
+      label: Goals Not Achieved
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: program_completion_rating
+      label: Program Completion Rating
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 20
+      name: program_completion_comments
+      label: Program Completion Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: program_completion_suggestions
+      label: Program Completion Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: program_completion_rating_explanation
+      label: Program Completion Rating Explanation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: survey_comments
+      label: Survey Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: survey_suggestions
+      label: Survey Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: program_completion
+      label: Program Completion
+      hint: null
+      type: text
+      options: []
+      required: false

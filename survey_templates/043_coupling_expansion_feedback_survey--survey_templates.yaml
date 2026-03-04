@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coupling Expansion Feedback Survey
+    pages:
+    - id: 1
+      name: form_title
+      label: What is your name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_name
+      label: What is your email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: form_phone
+      label: What is your phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_rating
+      label: How would you rate this product
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 5
+      name: form_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

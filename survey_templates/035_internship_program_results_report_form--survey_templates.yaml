@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Internship Program Results Report Form
+    pages:
+    - id: 1
+      name: internship_application
+      label: Internship Application
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: application_status
+      label: Application Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Deferred
+      - Rejected
+      required: false
+    - id: 3
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: evaluation_method
+      label: Evaluation Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: intern_performance
+      label: Intern Performance
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      required: true
+    - id: 6
+      name: skills_gained
+      label: Skills Gained
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: feedback_to_organisation
+      label: Feedback to Organisation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: feedback_to_intern
+      label: Feedback to Intern
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: evaluation_notes
+      label: Evaluation Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: action_items
+      label: Action Items
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: action_items_status
+      label: Action Items Status
+      hint: null
+      type: select_multiple
+      options:
+      - Open
+      - In Progress
+      - Closed
+      required: false
+    - id: 15
+      name: evaluation_form_signed
+      label: Evaluation Form Signed
+      hint: null
+      type: text
+      options: []
+      required: false

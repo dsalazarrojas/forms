@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: poverty_survey
+    pages:
+    - id: 1
+      name: household_income
+      label: household_income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: household_size
+      label: household_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: age_range_start
+      label: age_range_start
+      hint: null
+      type: select_one
+      options:
+      - 0-20
+      - 21-40
+      - 41-60
+      - 61-80
+      required: true
+    - id: 4
+      name: household_head
+      label: household_head
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: employment_status
+      label: employment_status
+      hint: null
+      type: select_one
+      options:
+      - Unemployed
+      - Working
+      - Retired
+      - Student
+      required: true
+    - id: 6
+      name: family_relationship
+      label: family_relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      required: true
+    - id: 7
+      name: family_income
+      label: family_income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: household_assets
+      label: household_assets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: family_education
+      label: family_education
+      hint: null
+      type: select_one
+      options:
+      - Primary
+      - Some Secondary
+      - High School
+      - University
+      required: true
+    - id: 10
+      name: family_language
+      label: family_language
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: employment_sector
+      label: employment_sector
+      hint: null
+      type: select_multiple
+      options:
+      - Public Sector
+      - Private Sector
+      - Non-profit
+      - Self-Employed
+      required: true
+    - id: 12
+      name: poverty_level
+      label: poverty_level
+      hint: null
+      type: select_one
+      options:
+      - 0-20%
+      - 21-40%
+      - 41-60%
+      - 61-80%
+      - Above 80%
+      required: true
+    - id: 13
+      name: family_members_with_disability
+      label: family_members_with_disability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: family_members_with_disability_type
+      label: family_members_with_disability_type
+      hint: null
+      type: select_multiple
+      options:
+      - Visual
+      - Hearing
+      - Speech
+      - Mobility
+      - Intellectual
+      - Mental Health
+      required: true
+    - id: 15
+      name: family_members_with_disability_level
+      label: family_members_with_disability_level
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - 1-25%
+      - 26-50%
+      - 51-75%
+      - 76-100%
+      required: true
+    - id: 16
+      name: family_members_with_disability_income
+      label: family_members_with_disability_income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: family_members_without_disability_income
+      label: family_members_without_disability_income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: family_members_without_disability_assets
+      label: family_members_without_disability_assets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: family_members_without_disability_education
+      label: family_members_without_disability_education
+      hint: null
+      type: select_one
+      options:
+      - Primary
+      - Some Secondary
+      - High School
+      - University
+      required: true
+    - id: 20
+      name: family_members_without_disability_employment
+      label: family_members_without_disability_employment
+      hint: null
+      type: select_multiple
+      options:
+      - Public Sector
+      - Private Sector
+      - Non-profit
+      - Self-Employed
+      required: false
+    - id: 21
+      name: family_members_without_disability_pov_level
+      label: family_members_without_disability_pov_level
+      hint: null
+      type: select_one
+      options:
+      - 0-20%
+      - 21-40%
+      - 41-60%
+      - 61-80%
+      - Above 80%
+      required: false
+    - id: 22
+      name: poverty_area
+      label: poverty_area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: family_members_with_disability_income_type
+      label: family_members_with_disability_income_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: household_location
+      label: household_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: employment_sector_other
+      label: employment_sector_other
+      hint: null
+      type: text
+      options: []
+      required: false

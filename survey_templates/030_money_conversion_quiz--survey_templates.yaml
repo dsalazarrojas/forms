@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Money Conversion Quiz
+    pages:
+    - id: 1
+      name: base_info
+      label: Base Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: base_currency_from
+      label: Base Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      - CNY
+      required: true
+    - id: 3
+      name: base_amount_from
+      label: Base Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: base_exchange_rate_from
+      label: Base Exchange Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: target_currency
+      label: Target Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      - CNY
+      required: true
+    - id: 6
+      name: target_amount
+      label: Target Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: actual_exchange_rate
+      label: Actual Exchange Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: converted_amount
+      label: Converted Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: base_info_2
+      label: Base Information
+      hint: null
+      type: note
+      options: []
+      required: false

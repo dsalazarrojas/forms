@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Drainage Survey
+    pages:
+    - id: 1
+      name: drainage_survey_questionnaire
+      label: drainage_survey_questionnaire
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: drainage_system_description
+      label: drainage_system_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: system_status
+      label: system_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: flow_rate
+      label: flow_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: pressure_head
+      label: pressure_head
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: pipe_material
+      label: pipe_material
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: pipe_size
+      label: pipe_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: pipe_orientation
+      label: pipe_orientation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: pipe_slope
+      label: pipe_slope
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: pipe_grade
+      label: pipe_grade
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: flow_direction
+      label: flow_direction
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: water_quality
+      label: water_quality
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false

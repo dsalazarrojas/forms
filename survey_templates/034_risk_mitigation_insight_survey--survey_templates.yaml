@@ -1,0 +1,50 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Risk Mitigation Insight Survey
+    pages:
+    - id: 1
+      name: risk_mitigation_insight_survey_1
+      label: risk_mitigation_insight
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: risk_mitigation_insight_survey_2
+      label: risk_mitigation_priorities
+      hint: null
+      type: select_one
+      options:
+      - risk_mitigation_high
+      - risk_mitigation_medium
+      - risk_mitigation_low
+      required: false
+    - id: 3
+      name: risk_mitigation_insight_survey_3
+      label: risk_mitigation_effectiveness
+      hint: null
+      type: select_multiple
+      options:
+      - risk_mitigation_effective
+      - risk_mitigation_effective_1
+      - risk_mitigation_effective_2
+      required: false
+    - id: 4
+      name: risk_mitigation_insight_survey_4
+      label: risk_mitigation_comments
+      hint: null
+      type: text
+      options: []
+      required: false

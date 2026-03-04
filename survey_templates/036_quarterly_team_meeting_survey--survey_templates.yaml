@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quarterly Team Meeting Survey
+    pages:
+    - id: 1
+      name: quarterly_team_meeting_survey_form
+      label: What were the key takeaways from the meeting
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: meeting_effectiveness
+      label: How would you rate the effectiveness of the meeting
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: meeting_effectiveness_how
+      label: How could we improve the meeting
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: team_member_satisfaction
+      label: What did you think about the team members' participation
+      hint: null
+      type: select_one
+      options:
+      - Team members were well-prepared
+      - Team members were somewhat prepared
+      - Team members were not prepared
+      required: true
+    - id: 5
+      name: communication
+      label: What were the communication challenges you faced
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: communication_how_to_improve
+      label: How could we improve the communication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: action_items
+      label: What action items will you take on
+      hint: null
+      type: select_multiple
+      options:
+      - Action items are clear and achievable
+      - Action items are unclear or unachievable
+      required: true
+    - id: 8
+      name: action_items_how
+      label: How could we improve the action items
+      hint: null
+      type: text
+      options: []
+      required: false

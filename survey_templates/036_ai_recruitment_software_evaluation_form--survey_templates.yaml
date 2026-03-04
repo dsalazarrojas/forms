@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: AI Recruitment Software Evaluation Form
+    pages:
+    - id: 1
+      name: evaluation_context_header
+      label: '--- Software & Vendor Identification ---'
+      hint: Standard identifiers for the recruitment technology evaluation.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: evaluator_name
+      label: Evaluator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: evaluator_role
+      label: Your Primary Role
+      hint: null
+      type: select_one
+      options:
+      - label: HR / Talent Acquisition Manager
+        value: hr_manager
+      - label: Recruiter / Sourcer
+        value: recruiter
+      - label: IT / Systems Administrator
+        value: it_admin
+      - label: Procurement / Finance
+        value: procurement
+      - label: Department Head (Hiring Manager)
+        value: dept_head
+      required: true
+    - id: 4
+      name: vendor_software_name
+      label: Software / Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: evaluation_date
+      label: Date of Evaluation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: feature_assessment_header
+      label: '--- 1. Core AI Capabilities ---'
+      hint: Rate the effectiveness of the AI-driven features.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: resume_parsing_rating
+      label: Resume Parsing & Data Extraction
+      hint: Accuracy of converting CVs into structured profiles.
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: automated_screening_rating
+      label: Automated Candidate Screening / Ranking
+      hint: Quality of match between candidates and job descriptions.
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: interview_automation_rating
+      label: Interview Scheduling / Conversational AI
+      hint: Effectiveness of chatbots and scheduling logic.
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: ux_candidate_header
+      label: '--- 2. User & Candidate Experience ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: ux_recruiter_rating
+      label: Ease of use for Recruiting Teams
+      hint: Intuitiveness of the dashboard and workflows.
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: candidate_experience_rating
+      label: Candidate Experience
+      hint: Friction level for applicants during the process.
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: technical_compliance_header
+      label: '--- 3. Technical, Ethics & Compliance ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: ats_integration_capability
+      label: Integration with existing ATS (Applicant Tracking System)
+      hint: null
+      type: select_one
+      options:
+      - label: Native Integration Available
+        value: native
+      - label: API / Custom Integration Required
+        value: api_required
+      - label: Not Compatible
+        value: not_compatible
+      required: true
+    - id: 15
+      name: bias_mitigation_tools
+      label: Does the software include explicit bias mitigation or diversity tools?
+      hint: e.g., de-identifying resumes, diversity dashboards.
+      type: select_one
+      options:
+      - label: Yes, robust features
+        value: yes_robust
+      - label: Yes, basic features
+        value: yes_basic
+      - label: false
+        value: false
+      required: true
+    - id: 16
+      name: compliance_certification
+      label: Data Privacy & Compliance
+      hint: GDPR, EEO, etc.
+      type: select_multiple
+      options:
+      - label: GDPR Compliant
+        value: gdpr
+      - label: SOC 2 Certified
+        value: soc2
+      - label: EEO / OFCCP Compliant
+        value: eeo
+      - label: ISO 27001
+        value: iso27001
+      required: true
+    - id: 17
+      name: vendor_pricing_model
+      label: Pricing Model
+      hint: null
+      type: select_one
+      options:
+      - label: Per Seat / User
+        value: per_user
+      - label: Per Hire / Success-based
+        value: per_hire
+      - label: Flat Annual Subscription
+        value: flat_annual
+      - label: Usage-based (Per Application)
+        value: usage_based
+      required: true
+    - id: 18
+      name: final_recommendation
+      label: Final Recommendation
+      hint: null
+      type: select_one
+      options:
+      - label: Shortlist for Pilot
+        value: shortlist
+      - label: Approved for Purchase
+        value: buy
+      - label: Hold / Needs more info
+        value: hold
+      - label: Reject
+        value: reject
+      required: true
+    - id: 19
+      name: recommendation_justification
+      label: Key Reasons for Recommendation
+      hint: Strengths and weaknesses.
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: action_items
+      label: Next Steps / Action Items
+      hint: null
+      type: text
+      options: []
+      required: false

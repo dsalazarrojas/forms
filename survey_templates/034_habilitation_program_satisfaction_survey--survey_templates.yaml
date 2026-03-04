@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Habilitation Program Satisfaction Survey
+    pages:
+    - id: 1
+      name: overall_experiences
+      label: Overall Experiences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facility_experience
+      label: Facility Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: instructor_rating
+      label: Instructor Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: instructor_support
+      label: Instructor Support
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: instructor_guidance
+      label: Instructor Guided Sessions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: program_fulfillment
+      label: Program Fulfiment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: Additional Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false

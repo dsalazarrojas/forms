@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: library_visitor_new_service_feedback_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: service_used
+      label: Which library service did you use today?
+      hint: null
+      type: select_one
+      options:
+      - Service 1
+      - Service 2
+      - Service 3
+      required: true
+    - id: 3
+      name: service_used_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rating_service
+      label: How would you rate this service?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: rating_scale
+      label: Rating Scale
+      hint: null
+      type: select_one
+      options:
+      - '0.5'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 6
+      name: suggestion_service
+      label: Do you have any suggestions for this service?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_service
+      label: Contact details
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: How long did you spend using the service?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: visit_date
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: false

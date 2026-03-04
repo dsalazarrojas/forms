@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pilot Issue Reporting Survey
+    pages:
+    - id: 1
+      name: pre_flight_check
+      label: pre_flight_check
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1'', ''value'': ''Option 1'', ''default'':
+        True}'
+      - '{''id'': 2, ''label'': ''Option 2'', ''value'': ''Option 2'', ''default'':
+        False}'
+      required: false
+    - id: 2
+      name: flight_data
+      label: flight_data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: issue_description
+      label: issue_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: crew_involved
+      label: crew_involved
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: issue_severity
+      label: issue_severity
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Low'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''High'', ''value'': 2}'
+      required: false
+    - id: 7
+      name: safety_action
+      label: safety_action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_needed
+      label: follow_up_needed
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''label'': False, ''value'': False}'
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

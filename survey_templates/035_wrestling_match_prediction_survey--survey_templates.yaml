@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wrestling Match Prediction Survey
+    pages:
+    - id: 1
+      name: wrestler_one_id
+      label: Select Wrestler One
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      required: false
+    - id: 2
+      name: score_one_confidence
+      label: Score One's Confidence
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 3
+      name: score_two_confidence
+      label: Score Two's Confidence
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 4
+      name: reason_one
+      label: Reason One
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reason_two
+      label: Reason Two
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reason_three
+      label: Reason Three
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reason_four
+      label: Reason Four
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reason_five
+      label: Reason Five
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: match_result
+      label: Match Result
+      hint: null
+      type: select_one
+      options:
+      - '{''Winner'': ''Wrestler One''}'
+      - '{''Winner'': ''Wrestler Two''}'
+      required: false
+    - id: 10
+      name: wrestler_two_id
+      label: Select Wrestler Two
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Other
+      required: false
+    - id: 12
+      name: submit_button
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Other
+      required: false

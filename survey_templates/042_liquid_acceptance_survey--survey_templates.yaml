@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: liquid_acceptance_survey
+    pages:
+    - id: 1
+      name: brand
+      label: Brand
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: liquid_acceptance
+      label: Liquid Acceptance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: acceptance_levels
+      label: Acceptance Levels
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: influencing_factors
+      label: Influencing Factors
+      hint: null
+      type: note
+      options: []
+      required: false

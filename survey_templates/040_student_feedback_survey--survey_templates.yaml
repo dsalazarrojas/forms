@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: student_feedback_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_id
+      label: Student
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: class_experience
+      label: Class Experience
+      hint: How would you describe your experience in this class?
+      type: select_multiple
+      options:
+      - '{1: ''Excellent''}'
+      - '{2: ''Good''}'
+      - '{3: ''Fair''}'
+      required: false
+    - id: 4
+      name: instructor_support
+      label: Instructor Support
+      hint: How would you rate the level of support you receive from your instructor?
+      type: select_one
+      options:
+      - '{1: ''1 - Strongly Agree''}'
+      - '{2: ''2 - Somewhat Agree''}'
+      - '{3: ''3 - Neutral''}'
+      - '{4: ''4 - Somewhat Disagree''}'
+      - '{5: ''5 - Strongly Disagree''}'
+      required: false
+    - id: 5
+      name: class_materials
+      label: Class Materials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: class_size
+      label: Class Size
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''1-10 students''}'
+      - '{2: ''11-25 students''}'
+      - '{3: ''26-50 students''}'
+      - '{4: ''51+ students''}'
+      required: false
+    - id: 7
+      name: student_feedback
+      label: Comments
+      hint: Is there anything you would like to tell us about your classroom experience
+        that we haven't already asked?
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: student_satisfaction
+      label: Overall Satisfaction
+      hint: Rate your overall satisfaction with your classroom experience
+      type: select_one
+      options:
+      - '{1: ''1 - Very Satisfied''}'
+      - '{2: ''2 - Somewhat Satisfied''}'
+      - '{3: ''3 - Neutral''}'
+      - '{4: ''4 - Somewhat Dissatisfied''}'
+      - '{5: ''5 - Very Dissatisfied''}'
+      required: false

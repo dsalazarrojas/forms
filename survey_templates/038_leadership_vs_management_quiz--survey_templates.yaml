@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Leadership Vs Management Quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: Leadership Vs Management Quiz
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: leadership_questions
+      label: Leadership Questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: management_questions
+      label: Management Questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: score
+      label: Total Score
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lifestyle Task Completion Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: task_completion_score
+      label: Task Completion Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: habit_frequency_score
+      label: Habit Frequency Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: barriers
+      label: Barriers
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: habit_frequency
+      label: Habit Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Rarely
+      - Occasionally
+      - Often
+      - Very Often
+      required: true
+    - id: 7
+      name: follow_through
+      label: Follow-Through
+      hint: null
+      type: select_one
+      options:
+      - Rarely
+      - Occasionally
+      - Often
+      - Very Often
+      required: true
+    - id: 8
+      name: date_of_last_completion
+      label: Date of Last Completion
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_of_last_completion
+      label: Time of Last Completion
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: follow_through_barriers
+      label: Follow-Through Barriers
+      hint: null
+      type: select_multiple
+      options:
+      - Motivation
+      - Time
+      - Habits
+      - Motivation/Time
+      - Motivation/Habits
+      - Time/Habits
+      - Motivation/Time/Habits
+      required: false
+    - id: 11
+      name: support
+      label: Support
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Minimal
+      - Moderate
+      - Significant
+      - High
+      required: true
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_planned
+      label: Follow-up Planned
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: select_multiple
+      options:
+      - More Information
+      - Additional Support
+      - Referral
+      - Next Steps
+      required: false
+    - id: 15
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false

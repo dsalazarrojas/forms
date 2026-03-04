@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Office Information Coordination Survey
+    pages:
+    - id: 1
+      name: office_name
+      label: Office Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: office_email
+      label: office_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: office_phone
+      label: office_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: manager_phone
+      label: manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: communication_tools
+      label: Communication Tools
+      hint: List some tools used by your office for communication.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: challenges
+      label: Challenges
+      hint: List some challenges in communication that you face.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: improvement_ideas
+      label: Improvement Ideas
+      hint: Suggest some improvement ideas for better internal coordination.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit_button
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

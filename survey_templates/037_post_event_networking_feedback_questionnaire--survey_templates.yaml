@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post Event Networking Feedback Questionnaire
+    pages:
+    - id: 1
+      name: event_planner_id
+      label: Event Planner
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: event_attendance
+      label: Attended Event
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: networking_opportunities
+      label: Networking Opportunities
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback_score
+      label: Feedback Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_attendee_rating
+      label: How would you rate this event?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 10
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: event_planner_rating
+      label: How would you rate the event planner?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 12
+      name: event_planner_comment
+      label: Comments about Event Planner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_question
+      label: Would you like to receive follow-up questions for future events?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flea Market Experience Survey
+    pages:
+    - id: 1
+      name: market_day
+      label: Market Day
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: vendor_table
+      label: What was your overall experience at the vendor table?
+      hint: null
+      type: select_one
+      options:
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 3
+      name: food_and_drinks
+      label: Food and drinks
+      hint: null
+      type: select_multiple
+      options:
+      - Fruit
+      - Beverage
+      - Snacks
+      - Food
+      - Dessert
+      - Beverage
+      required: false
+    - id: 4
+      name: entertainment
+      label: Entertainment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: satisfaction
+      label: How would you rate your overall satisfaction with this market day?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false

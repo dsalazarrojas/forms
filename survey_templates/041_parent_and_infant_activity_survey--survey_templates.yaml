@@ -1,0 +1,30 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parent And Infant Activity Survey
+    pages:
+    - id: 1
+      name: parent_and_infant_survey
+      label: What Is Your Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: infant_age
+      label: What Is The Age Of The Infant
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: have_you_participated_in_any_of_the_activities_listed_above
+      label: Have You Participated In Any Of The Activities Listed Above
+      hint: null
+      type: select_multiple
+      options:
+      - Infant and Toddler Story Time
+      - Library Story Time
+      - Music and Movement Time
+      - Other (please describe)
+      required: false

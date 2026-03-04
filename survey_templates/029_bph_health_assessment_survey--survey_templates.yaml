@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: BPH Health Assessment Survey
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: contact_number
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: medical_history
+      label: Any Known Medical Conditions?
+      hint: List relevant health issues
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: current_medications
+      label: Current Medications
+      hint: Including over-the-counter
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: urinary_frequency_day
+      label: Urinary Frequency During Day
+      hint: Number of times per day
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: urinary_frequency_night
+      label: Urinary Frequency at Night
+      hint: Number of times per night
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: nocturia_impact
+      label: How Does Night Urination Impact Sleep?
+      hint: null
+      type: select_one
+      options:
+      - Not at all
+      - Slightly
+      - Moderately
+      - Significantly
+      - Very significantly
+      required: true
+    - id: 10
+      name: urinary_symptoms
+      label: Urinary Symptoms Experienced
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Weak urinary stream
+      - Difficulty starting urination
+      - Urinary urgency
+      - Urinary hesitancy
+      - Incomplete emptying
+      - Intermittent stream
+      - Pain with urination
+      - Dribbling
+      - None of the above
+      required: false
+    - id: 11
+      name: urgency_severity
+      label: Urgency Severity
+      hint: How severe is urinary urgency?
+      type: select_one
+      options:
+      - Not present
+      - Mild
+      - Moderate
+      - Severe
+      - Very severe
+      required: true
+    - id: 12
+      name: symptom_duration
+      label: How Long Have You Had These Symptoms?
+      hint: Weeks, months, or years
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: symptom_progression
+      label: Have Symptoms Been Getting Worse?
+      hint: null
+      type: select_one
+      options:
+      - Yes, significantly worse
+      - Yes, slightly worse
+      - Stable
+      - Improving
+      - Much better
+      required: false
+    - id: 14
+      name: impact_on_quality_of_life
+      label: Impact on Quality of Life
+      hint: How much do symptoms affect daily life?
+      type: select_one
+      options:
+      - No impact
+      - Minimal impact
+      - Moderate impact
+      - Significant impact
+      - Severe impact
+      required: true
+    - id: 15
+      name: previous_treatments
+      label: Previous Treatments Tried
+      hint: Medications, procedures, etc.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: family_history
+      label: Family History of BPH or Prostate Issues?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: false
+    - id: 17
+      name: additional_concerns
+      label: Additional Concerns or Questions
+      hint: null
+      type: text
+      options: []
+      required: false

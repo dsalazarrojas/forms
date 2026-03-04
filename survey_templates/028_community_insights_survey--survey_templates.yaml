@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Insights Survey
+    pages:
+    - id: 1
+      name: section_resident
+      label: -- Resident Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: residency_duration
+      label: Number of years you have lived in this community
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: section_satisfaction
+      label: -- Satisfaction and Safety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: government_satisfaction
+      label: Overall Satisfaction with Local Government Services
+      hint: 1 - Lowest, 5 - Highest
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 5
+      name: school_quality
+      label: Perception of Quality of Local Public Schools
+      hint: 1 - Poor, 5 - Excellent
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 6
+      name: safety_perception
+      label: General Sense of Safety in the Neighborhood
+      hint: null
+      type: select_one
+      options:
+      - Very Safe
+      - Somewhat Safe
+      - Neutral
+      - Somewhat Unsafe
+      - Very Unsafe
+      required: true
+    - id: 7
+      name: improvement_priority
+      label: Top Priority for Community Improvement
+      hint: What should be the first focus?
+      type: select_one
+      options:
+      - Road Infrastructure and Maintenance
+      - Parks and Recreational Spaces
+      - Public Safety and Policing
+      - Affordable Housing
+      - Public Education
+      required: true
+    - id: 8
+      name: event_awareness
+      label: Awareness of Local Community Events and Meetings
+      hint: null
+      type: select_one
+      options:
+      - High - Very Aware
+      - Medium - Sometimes Aware
+      - Low - Not Aware
+      required: true
+    - id: 9
+      name: amenity_usage
+      label: Use of Public Amenities in the last 6 months
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Public Library
+      - Neighborhood Park
+      - Community Swimming Pool
+      - Public Gym or Field
+      - Senior Center
+      required: false
+    - id: 10
+      name: neighbor_interaction
+      label: Frequency of Interaction with Neighbors
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely or Never
+      required: true
+    - id: 11
+      name: planning_suggestions
+      label: Suggestions for Better Community Planning and Growth
+      hint: Provide any detailed thoughts
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: participation_consent
+      label: I consent to share my insights for community research
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - Other
+      required: true

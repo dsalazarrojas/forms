@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Product Satisfaction Survey
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_rating
+      label: Product Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: select_multiple
+      options:
+      - Very good
+      - Good
+      - Medium
+      - Bad
+      - Very bad
+      required: false
+    - id: 4
+      name: product_feature
+      label: Product Features
+      hint: null
+      type: select_one
+      options:
+      - Product Design
+      - Quality
+      - Price
+      - Functionality
+      - Packaging
+      - Branding
+      - Ingredients
+      - Color
+      - Texture
+      required: false
+    - id: 5
+      name: product_feature_2
+      label: Additional Features
+      hint: null
+      type: select_multiple
+      options:
+      - Product Design
+      - Quality
+      - Price
+      - Functionality
+      - Packaging
+      - Branding
+      - Ingredients
+      - Color
+      - Texture
+      required: false
+    - id: 6
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: improvement_ideas
+      label: Improvement Ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments_and_suggestions
+      label: Comments and Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy
+      required: false
+    - id: 14
+      name: output_file
+      label: Output File
+      hint: null
+      type: select_one
+      options:
+      - 033_health_product_satisfaction_survey--survey_templates
+      - 033_health_product_satisfaction_survey--survey_templates
+      required: false
+    - id: 15
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

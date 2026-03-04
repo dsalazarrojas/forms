@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Norms Trivia Quiz
+    pages:
+    - id: 1
+      name: first_question
+      label: First question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: select_one
+      label: Which option is correct
+      hint: Choose one
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Additional notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: multiple_select
+      label: Which options
+      hint: Choose all that apply
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 9
+      name: number
+      label: Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: decimal
+      label: Decimal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: first_answer
+      label: First answer
+      hint: null
+      type: text
+      options: []
+      required: false

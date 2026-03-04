@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Conference Attendee Feedback Survey
+    pages:
+    - id: 1
+      name: session_attendance
+      label: Session Attendance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction_rating
+      label: Satisfaction Rating
+      hint: How would you rate your overall satisfaction with the conference?
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: improvement_ideas
+      label: Improvement Ideas
+      hint: What are some ideas for improvement for future conferences?
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: session_quality
+      label: Session Quality
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 5
+      name: session_value
+      label: Session Value
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: speaker
+      label: Speaker
+      hint: Who is your favorite speaker?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: communication
+      label: Communication
+      hint: How would you rate our communication during the conference?
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: venue
+      label: Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_time
+      label: Date & Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: session_length
+      label: Session Length
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: session_scheduling
+      label: Session Scheduling
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: note
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: email_1
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: phone_1
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_notes_1
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

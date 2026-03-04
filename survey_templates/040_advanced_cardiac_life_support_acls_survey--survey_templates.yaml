@@ -1,0 +1,160 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Advanced Cardiac Life Support (ACLS) Survey
+    pages:
+    - id: 1
+      name: section_cred
+      label: -- Participant Credentials --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: clinician_name
+      label: Clinician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: professional_role
+      label: Professional Role
+      hint: null
+      type: select_one
+      options:
+      - MD and DO
+      - RN
+      - Paramedic
+      - Respiratory Therapist
+      - Other
+      required: true
+    - id: 4
+      name: acls_certification_expiration_date
+      label: ACLS Certification Expiration Date
+      hint: check your current card
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_know
+      label: -- Knowledge Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: first_line_medication_for_vf_pvt
+      label: First Line Medication for VF and pVT
+      hint: VF -- Ventricular Fibrillation
+      type: select_one
+      options:
+      - Epinephrine
+      - Amiodarone
+      - Lidocaine
+      - Magnesium Sulfate
+      required: true
+    - id: 7
+      name: recommended_compression_depth_adult
+      label: Recommended Compression Depth Adult
+      hint: null
+      type: select_one
+      options:
+      - 1 inch
+      - 1.5 inches
+      - At least 2 inches
+      - Exactly 3 inches
+      required: true
+    - id: 8
+      name: treatment_for_unstable_bradycardia
+      label: Treatment for Unstable Bradycardia
+      hint: heart rate too slow with symptoms
+      type: select_one
+      options:
+      - Atropine
+      - Adenosine
+      - Synchronized Cardioversion
+      - Verapamil
+      required: true
+    - id: 9
+      name: section_self
+      label: -- Skills Self-Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: confidence_leading_a_mega_code
+      label: Confidence Leading a Mega Code
+      hint: Team leader role in resuscitation
+      type: select_one
+      options:
+      - Very Confident
+      - Confident
+      - Somewhat Confident
+      - Not Confident
+      required: true
+    - id: 11
+      name: confidence_in_ekg_interpretation
+      label: Confidence in EKG Interpretation
+      hint: identifying rhythm changes
+      type: select_one
+      options:
+      - Expert
+      - Proficient
+      - Competent
+      - Novice
+      required: true
+    - id: 12
+      name: section_feed
+      label: -- Training Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: quality_of_simulation_training
+      label: Quality of Simulation Training
+      hint: hands-on practice sessions
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: areas_within_acls_requiring_more_review
+      label: Areas within ACLS Requiring More Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: preferred_renewal_format
+      label: Preferred Renewal Format
+      hint: null
+      type: select_one
+      options:
+      - Full Classroom
+      - Blended and Online
+      - In-hospital
+      required: true
+    - id: 16
+      name: additional_comments_on_training_improvement
+      label: Additional Comments on Training Improvement
+      hint: null
+      type: text
+      options: []
+      required: false

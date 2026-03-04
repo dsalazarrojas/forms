@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pandemic Mental Health Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: demographic_info
+      label: Demographic Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: mental_health
+      label: Mental Health
+      hint: null
+      type: select_one
+      options:
+      - Anxiety
+      - Depression
+      - Stress
+      - Burnout
+      - Trauma
+      required: false
+    - id: 4
+      name: emotional_states
+      label: Emotional States
+      hint: null
+      type: select_multiple
+      options:
+      - Calm
+      - Frustrated
+      - Sad
+      - Anxious
+      - Angry
+      required: false
+    - id: 5
+      name: coping_strategies
+      label: Coping Strategies
+      hint: null
+      type: select_multiple
+      options:
+      - Self-Care
+      - Social Support
+      - Mindfulness
+      - Exercise
+      - Support Groups
+      required: false
+    - id: 6
+      name: support_resources
+      label: Support Resources
+      hint: null
+      type: select_multiple
+      options:
+      - Family
+      - Friends
+      - Community
+      - Professional Help
+      required: false
+    - id: 7
+      name: healthcare_access
+      label: Healthcare Access
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: healthcare_provider_contact
+      label: Healthcare Provider Contact
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: healthcare_provider_name
+      label: Healthcare Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: mental_health_history
+      label: Mental Health History
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      required: false
+    - id: 11
+      name: mental_health_services
+      label: Mental Health Services
+      hint: null
+      type: select_multiple
+      options:
+      - Counseling
+      - Medication
+      - Therapy
+      - Support Groups
+      required: false
+    - id: 12
+      name: mental_health_services_other
+      label: Mental Health Services Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: mental_health_services_other_description
+      label: Other Mental Health Services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: healthcare_facility_visits
+      label: Healthcare Facility Visits
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: healthcare_facility_visits_last_month
+      label: Healthcare Facility Visits Last Month
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: medication_use
+      label: Medication Use
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: medication_name
+      label: Medication Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medication_dosage
+      label: Medication Dosage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: symptoms_last_month
+      label: Symptoms Last Month
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: mental_health_survey
+      label: Mental Health Survey
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: mental_health_survey_last_month
+      label: Mental Health Survey Last Month
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 23
+      name: mental_health_survey_frequency
+      label: Mental Health Survey Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: false
+    - id: 24
+      name: survey_completion
+      label: Survey Completion
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: survey_completion_last_month
+      label: Survey Completion Last Month
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false

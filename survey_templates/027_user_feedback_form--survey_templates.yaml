@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: User Feedback Form
+    pages:
+    - id: 1
+      name: user_feedback_form
+      label: feedback_form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: rating
+      label: rate_us
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: your_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: your_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: suggestion
+      label: suggestion
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: submit
+      label: submit_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: feedback_question
+      label: feedback_question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_info
+      label: additional_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: agree_to_terms
+      label: agree_to_terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: agree_to_privacy
+      label: agree_to_privacy
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: submitter_info
+      label: submitter_info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: submitter_location
+      label: submitter_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitter_company
+      label: submitter_company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitter_job_title
+      label: submitter_job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitter_department
+      label: submitter_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitter_additional_info
+      label: submitter_additional_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: submitter_agree_to_terms
+      label: submitter_agree_to_terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: submitter_agree_to_privacy
+      label: submitter_agree_to_privacy
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: network_performance_feedback_form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: network_quality
+      label: What is the current state of your network quality?
+      hint: How satisfied are you with your network performance?
+      type: select_one
+      options:
+      - Excellent
+      - Fair
+      - Poor
+      required: false
+    - id: 3
+      name: identify_issues
+      label: Please identify any issues you have with your network
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: network_quality_2
+      label: How often do you encounter network issues?
+      hint: null
+      type: select_multiple
+      options:
+      - Very often
+      - Occasionally
+      - Rarely
+      required: false
+    - id: 5
+      name: issue_details
+      label: Can you provide more details about the issue?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: network_quality_3
+      label: How would you rate your network quality?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: network_quality_4
+      label: How satisfied are you with your network?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Top Fail Voting Survey
+    pages:
+    - id: 1
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Event
+      - Campaign
+      - Content
+      - Other
+      required: true
+    - id: 2
+      name: severity_rating
+      label: Severity Rating
+      hint: On a scale of 1-10
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: votes
+      label: Votes
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - None
+      - None
+      - None
+      - None
+      - None
+      - None
+      - None
+      - None
+      - None
+      - None
+      required: false
+    - id: 5
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: explanations
+      label: Explanations
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: audience_feedback
+      label: Audience Feedback
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: output_type
+      label: Output Type
+      hint: null
+      type: select_one
+      options:
+      - Output for Event
+      - Output for Campaign
+      - Output for Content
+      - Other
+      required: true
+    - id: 9
+      name: output
+      label: Output
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - None
+      - None
+      - None
+      - None
+      - None
+      - None
+      - None
+      - None
+      - None
+      - None
+      required: false
+    - id: 10
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false

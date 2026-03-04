@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: rooftop_farming_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: grower_experience
+      label: grower_experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: farming_methods
+      label: farming_methods
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: challenges_and_benefits
+      label: challenges_and_benefits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: research_programs
+      label: research_programs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: community_programs
+      label: community_programs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

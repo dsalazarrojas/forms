@@ -1,0 +1,231 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Beverage Launch Marketing Poll Form
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Enter your name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: respondent_email
+        label: Email Address
+        hint: For follow-up surveys if needed
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: age_range
+        label: Age Range
+        hint: Select your age group
+        type: select_one
+        options:
+          - Under 18
+          - 18 to 24
+          - 25 to 34
+          - 35 to 44
+          - 45 to 54
+          - 55 to 64
+          - 65 or Older
+        required: true
+      - id: 4
+        name: gender
+        label: Gender
+        hint: Select your gender
+        type: select_one
+        options:
+          - Male
+          - Female
+          - Non-Binary
+          - Prefer Not to Say
+          - Other
+        required: false
+      - id: 5
+        name: beverage_interest
+        label: Interest in New Beverages
+        hint: How interested are you in trying new drinks
+        type: select_one
+        options:
+          - Very Interested
+          - Interested
+          - Neutral
+          - Not Very Interested
+          - Not Interested at All
+        required: true
+      - id: 6
+        name: concept_appeal
+        label: Concept Appeal Rating
+        hint: How appealing is this new beverage concept
+        type: select_one
+        options:
+          - Very Appealing
+          - Appealing
+          - Neutral
+          - Not Very Appealing
+          - Not Appealing at All
+        required: true
+      - id: 7
+        name: flavor_interest
+        label: Flavor Interest
+        hint: How interested are you in the flavor profile
+        type: select_one
+        options:
+          - Very Interested
+          - Interested
+          - Neutral
+          - Not Very Interested
+          - Not Interested at All
+        required: true
+      - id: 8
+        name: packaging_appeal
+        label: Packaging Appeal
+        hint: Rate the attractiveness of the packaging
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 9
+        name: name_recall
+        label: Brand Name Recall
+        hint: How memorable is the brand name
+        type: select_one
+        options:
+          - Very Memorable
+          - Somewhat Memorable
+          - Neutral
+          - Not Very Memorable
+          - Not Memorable at All
+        required: true
+      - id: 10
+        name: purchase_intent
+        label: Purchase Intent
+        hint: How likely are you to purchase this beverage
+        type: select_one
+        options:
+          - Definitely Would Buy
+          - Probably Would Buy
+          - Might or Might Not
+          - Probably Would Not Buy
+          - Definitely Would Not Buy
+        required: true
+      - id: 11
+        name: price_expectation
+        label: Expected Price Range
+        hint: What price would you expect for this beverage
+        type: select_one
+        options:
+          - Under $2
+          - $2 to $3
+          - $3 to $4
+          - $4 to $5
+          - Over $5
+        required: true
+      - id: 12
+        name: purchase_frequency
+        label: Expected Purchase Frequency
+        hint: How often would you buy this beverage
+        type: select_one
+        options:
+          - Daily
+          - Several times a week
+          - Once a week
+          - 2-3 times a month
+          - Once a month
+          - Rarely
+        required: true
+      - id: 13
+        name: purchase_location
+        label: Preferred Purchase Location
+        hint: Where would you expect to buy this
+        type: select_multiple
+        options:
+          - Grocery Store
+          - Convenience Store
+          - Gas Station
+          - Online
+          - Vending Machine
+          - Restaurant
+          - Coffee Shop
+          - Gym or Fitness Center
+        required: true
+      - id: 14
+        name: marketing_channels
+        label: Effective Marketing Channels
+        hint: Which marketing would influence you most
+        type: select_multiple
+        options:
+          - Social Media Ads
+          - TV Commercials
+          - Influencer Endorsements
+          - In-Store Promotions
+          - Email Marketing
+          - Online Reviews
+          - Friend Recommendations
+          - Sampling Events
+        required: true
+      - id: 15
+        name: unique_selling_point
+        label: Most Appealing Feature
+        hint: What feature stands out most to you
+        type: select_one
+        options:
+          - Taste
+          - Health Benefits
+          - Natural Ingredients
+          - Brand Story
+          - Packaging Design
+          - Price
+          - Sustainability
+          - Caffeine Content
+        required: true
+      - id: 16
+        name: would_recommend
+        label: Would You Recommend to Others
+        hint: Would you tell friends about this beverage
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Not Sure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 17
+        name: concerns
+        label: Any Concerns or Hesitations
+        hint: What would make you hesitate to try this
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: improvement_suggestions
+        label: Suggestions for Improvement
+        hint: What would make this beverage more appealing
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback about this beverage launch
+        type: text
+        options: []
+        required: false

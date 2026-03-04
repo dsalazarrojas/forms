@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ethnographic Research Survey Template
+    pages:
+    - id: 1
+      name: research_template
+      label: Research Template
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: ethnographic_research_method
+      label: ethnographic_research_method
+      hint: null
+      type: select_one
+      options:
+      - Survey
+      - Ethnographic
+      - Observational
+      required: false
+    - id: 3
+      name: participant_behaviors
+      label: participant_behaviors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_activities
+      label: participant_activities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_acts
+      label: participant_acts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: research_form_accessibility
+      label: research_form_accessibility
+      hint: null
+      type: select_one
+      options:
+      - PC
+      - smartphones
+      - tablets
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Brand Survey
+    pages:
+    - id: 1
+      name: survey_intro
+      label: -- Client Brand Perception Survey --
+      hint: Your feedback helps us shape our brand identity and services.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_type
+      label: How would you describe your relationship with us?
+      hint: null
+      type: select_one
+      options:
+      - Current Client (Active Project)
+      - Long-term Partner (Retainer)
+      - Past Client
+      - Prospective Client
+      required: true
+    - id: 3
+      name: brand_awareness_source
+      label: How did you first learn about our brand?
+      hint: null
+      type: select_one
+      options:
+      - Industry Event
+      - Social Media
+      - Search Engine
+      - Professional Referral
+      - Advertisement
+      required: true
+    - id: 4
+      name: perception_header
+      label: -- Brand Attributes --
+      hint: How do you perceive our brand?
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: brand_personality_rating
+      label: Which words best describe our brand personality?
+      hint: Select up to 3
+      type: select_multiple
+      options:
+      - Innovative
+      - Reliable
+      - Traditional
+      - Modern
+      - Approachable
+      - Premium/Exclusive
+      - Cost-effective
+      required: true
+    - id: 6
+      name: quality_perception
+      label: Rate the perceived quality of our services
+      hint: 1 (Poor) to 5 (Superior)
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: value_perception
+      label: Rate the value for money we provide
+      hint: 1 (Poor) to 5 (Superior)
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: visual_identity_rating
+      label: How appealing do you find our visual identity (Logo, Website, Colors)?
+      hint: null
+      type: select_one
+      options:
+      - Highly Appealing
+      - Appealing
+      - Neutral
+      - Unappealing
+      required: true
+    - id: 9
+      name: competition_comparison
+      label: Compared to competitors, our brand is...
+      hint: null
+      type: select_one
+      options:
+      - Much Better
+      - Somewhat Better
+      - About the Same
+      - Somewhat Worse
+      required: true
+    - id: 10
+      name: emotional_connection
+      label: Do you feel an emotional connection or loyalty to our brand?
+      hint: null
+      type: select_one
+      options:
+      - Yes, very strong
+      - Yes, moderate
+      - Not particularly
+      - false
+      required: true
+    - id: 11
+      name: primary_reason_for_choosing
+      label: What was the single most important factor in choosing our brand?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: brand_promise_delivered
+      label: Do you feel we live up to our brand promises?
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Most of the time
+      - Rarely
+      - Never
+      required: true
+    - id: 13
+      name: improvement_areas
+      label: What is one thing we could do to improve our brand perception?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: recommend_nps
+      label: How likely are you to recommend our brand to a colleague?
+      hint: 0 (Not at all likely) to 10 (Extremely likely)
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: respondent_email
+      label: Email Address (Optional)
+      hint: For follow-up on your feedback
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: survey_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: survey_footer
+      label: -- Thank you for your valuable insight --
+      hint: null
+      type: note
+      options: []
+      required: false

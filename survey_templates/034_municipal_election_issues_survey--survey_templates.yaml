@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Municipal Election Issues Survey
+    pages:
+    - id: 1
+      name: home_page
+      label: Home Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_satisfaction
+      label: service_satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Not Satisfied
+      - Not At All Satisfied
+      required: false
+    - id: 3
+      name: local_priorities
+      label: local_priorities
+      hint: What are your top priorities for your local community?
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: community_involvement
+      label: community_involvement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: contact_us
+      label: contact_us
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false

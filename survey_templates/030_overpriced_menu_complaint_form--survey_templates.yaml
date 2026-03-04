@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: overpriced_menu_complaint_form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: menu_item_description
+      label: menu_item_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: price_description
+      label: price_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: restaurant_name
+      label: restaurant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_visited
+      label: date_visited
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_visited
+      label: time_visited
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: overpriced_menu_items
+      label: overpriced_menu_items
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''item1''}'
+      - '{''id'': 2, ''label'': ''item2''}'
+      - '{''id'': 3, ''label'': ''item3''}'
+      - '{''id'': 4, ''label'': ''item4''}'
+      - '{''id'': 5, ''label'': ''item5''}'
+      required: false
+    - id: 9
+      name: submit_comments
+      label: submit_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''chatjimmy''}'
+      - '{''id'': 2, ''label'': ''jenny''}'
+      required: true
+    - id: 11
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: timestamp
+      label: timestamp
+      hint: null
+      type: date
+      options: []
+      required: false

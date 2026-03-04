@@ -1,0 +1,258 @@
+inputSchema:
+  type: object
+  properties:
+    title: Intermodal Transport Feedback
+    pages:
+    - id: 1
+      name: transfer_id
+      label: Transfer Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: transfer_date
+      label: Transfer Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: rating_reason
+      label: Why did you rate your experience this way?
+      hint: null
+      type: select_multiple
+      options:
+      - Good - on time and convenient
+      - Good - but some issues with timing
+      - Bad - too much delay
+      - Bad - other
+      required: false
+    - id: 5
+      name: comment
+      label: Comments on transfer
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_id
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: feedback_reason
+      label: Why did you not have a positive experience?
+      hint: null
+      type: select_multiple
+      options:
+      - Lack of information
+      - Bad communication
+      - Bad service
+      - Bad service staff
+      - Unhelpful staff
+      - Other
+      required: false
+    - id: 13
+      name: transfer_time
+      label: Transfer time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: transfer_type
+      label: Transfer type
+      hint: null
+      type: select_one
+      options:
+      - Bus
+      - Train
+      - Ferry
+      - Bike
+      - Car
+      - Taxi
+      - Other
+      required: false
+    - id: 15
+      name: mode
+      label: Travel mode
+      hint: null
+      type: select_one
+      options:
+      - Car
+      - Train
+      - Bus
+      - Bike
+      - Walk
+      - Taxi
+      - Other
+      required: false
+    - id: 16
+      name: mode
+      label: Travel mode
+      hint: null
+      type: select_one
+      options:
+      - Car
+      - Train
+      - Bus
+      - Bike
+      - Walk
+      - Taxi
+      - Other
+      required: false
+    - id: 17
+      name: route
+      label: Route information
+      hint: null
+      type: select_one
+      options:
+      - Bus
+      - Train
+      - Ferry
+      - Other
+      required: false
+    - id: 18
+      name: route_id
+      label: Route id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: route_name
+      label: Route name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: origin
+      label: Origin
+      hint: null
+      type: select_one
+      options:
+      - Bus
+      - Train
+      - Ferry
+      - Other
+      required: false
+    - id: 21
+      name: origin
+      label: Origin
+      hint: null
+      type: select_one
+      options:
+      - Bus
+      - Train
+      - Ferry
+      - Other
+      required: false
+    - id: 22
+      name: destination
+      label: Destination
+      hint: null
+      type: select_one
+      options:
+      - Bus
+      - Train
+      - Ferry
+      - Other
+      required: false
+    - id: 23
+      name: destination
+      label: Destination
+      hint: null
+      type: select_one
+      options:
+      - Bus
+      - Train
+      - Ferry
+      - Other
+      required: false
+    - id: 24
+      name: mode_type
+      label: Mode type
+      hint: null
+      type: select_multiple
+      options:
+      - Bus
+      - Train
+      - Ferry
+      - Other
+      required: false
+    - id: 25
+      name: transfer_time
+      label: Transfer time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: route_type
+      label: Route type
+      hint: null
+      type: select_multiple
+      options:
+      - Direct
+      - Indirect
+      required: false
+    - id: 27
+      name: transfer_number
+      label: Transfer Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: transfer_date
+      label: Transfer Date
+      hint: null
+      type: date
+      options: []
+      required: false

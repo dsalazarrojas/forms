@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Services Awareness Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: awareness_rating
+      label: What is your rating for overall awareness of public services?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: usage_frequency
+      label: How often do you use public services?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Less than once a month
+      - About once a month
+      - Several times a month
+      - Almost every week
+      - Every week
+      required: true
+    - id: 4
+      name: access_satisfaction
+      label: How satisfied are you with access to public services?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: regions
+      label: Which region do you live in?
+      hint: null
+      type: select_multiple
+      options:
+      - Region 1
+      - Region 2
+      - Region 3
+      - Region 4
+      required: true
+    - id: 6
+      name: demographics
+      label: Demographics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: public_service_access
+      label: What are some public services that you have difficulty accessing?
+      hint: null
+      type: select_multiple
+      options:
+      - Service 1
+      - Service 2
+      - Service 3
+      required: false
+    - id: 9
+      name: contact_info
+      label: Would you like to be contacted for further discussion?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false

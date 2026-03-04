@@ -1,0 +1,242 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Hygiene Quiz
+    pages:
+    - id: 1
+      name: food_hygiene_1
+      label: What is the correct handwashing technique
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: food_hygiene_2
+      label: How often do you clean your hands
+      hint: null
+      type: select_one
+      options:
+      - Handwashing after each food handling event
+      - After using the toilet
+      - After blowing nose/burping
+      - After smoking
+      - After being in the rain
+      - Other
+      required: false
+    - id: 3
+      name: food_hygiene_3
+      label: What type of soap is used for handwashing
+      hint: null
+      type: select_one
+      options:
+      - Soap
+      - Sanitizer
+      - Water
+      required: false
+    - id: 4
+      name: food_hygiene_4
+      label: How do you sanitize your hands
+      hint: null
+      type: select_one
+      options:
+      - Hand sanitizer
+      - Hand sanitizer and water
+      - Soap and water
+      - Other
+      required: true
+    - id: 5
+      name: food_hygiene_5
+      label: Do you clean your food contact surfaces
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: food_hygiene_6
+      label: How do you clean your food contact surfaces
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: food_hygiene_7
+      label: Do you separate raw and cooked food
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: food_hygiene_8
+      label: Do you cover food while handling
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: food_hygiene_9
+      label: Food storage condition
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: food_hygiene_10
+      label: Do you store food at 40°F or below
+      hint: null
+      type: select_one
+      options:
+      - 40°F or below
+      - 45°F or below
+      - 50°F or below
+      - 55°F or below
+      - 60°F or below
+      required: true
+    - id: 11
+      name: food_hygiene_11
+      label: How do you keep hot foods hot
+      hint: null
+      type: select_one
+      options:
+      - Using a chafing dish with a heat source
+      - In a thermally insulated container
+      - Near the oven
+      - In the microwave
+      required: true
+    - id: 12
+      name: food_hygiene_12
+      label: How do you keep cold foods cold
+      hint: null
+      type: select_one
+      options:
+      - Near the freezer
+      - In a cold water bath
+      - In a refrigerator
+      - In an ice bath
+      required: true
+    - id: 13
+      name: food_hygiene_13
+      label: Food storage containers are
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: food_hygiene_14
+      label: Do you label food with date
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: food_hygiene_15
+      label: Food storage in the original packaging
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: food_hygiene_16
+      label: What do you do with leftover food
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: food_hygiene_17
+      label: Food storage in the correct position
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: food_hygiene_18
+      label: Do you store food in the right temperature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: food_hygiene_19
+      label: How do you store food for extended periods
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: food_hygiene_20
+      label: Do you store food in clean equipment
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: food_hygiene_21
+      label: Do you store food in covered areas
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: food_hygiene_22
+      label: Do you store food in airtight containers
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 23
+      name: food_hygiene_23
+      label: Do you store food in the correct location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: food_hygiene_24
+      label: Do you store food away from light and moisture
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: food_hygiene_25
+      label: Do you store food in the right humidity
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

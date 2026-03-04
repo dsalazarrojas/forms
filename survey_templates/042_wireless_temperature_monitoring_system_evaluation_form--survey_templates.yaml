@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: wireless_temperature_monitoring_system_evaluation_form
+    pages:
+    - id: 1
+      name: pilot_environment
+      label: pilot_environment
+      hint: null
+      type: select_one
+      options:
+      - Pilot Site 1
+      - Pilot Site 2
+      - Pilot Site 3
+      required: true
+    - id: 2
+      name: usability_rating
+      label: usability_rating
+      hint: Rate the overall usability of the system
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: issue_description
+      label: issue_description
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: issue_reporting_frequency
+      label: issue_reporting_frequency
+      hint: How often is the issue reported?
+      type: select_one
+      options:
+      - Frequent
+      - Infrequent
+      - Never
+      required: true
+    - id: 5
+      name: issue_resolution_time
+      label: issue_resolution_time
+      hint: How long did it take to resolve the issue?
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: issue_reporting_method
+      label: issue_reporting_method
+      hint: How was the issue reported?
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In-person
+      required: true
+    - id: 8
+      name: wireless_system_usability
+      label: wireless_system_usability
+      hint: Rate the overall usability of the wireless temperature monitoring system
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: wireless_system_effectiveness
+      label: wireless_system_effectiveness
+      hint: Rate the overall effectiveness of the wireless temperature monitoring
+        system
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: wireless_system_suitability
+      label: wireless_system_suitability
+      hint: Rate the overall suitability of the wireless temperature monitoring system
+      type: select_one
+      options:
+      - Highly Suitable
+      - Somewhat Suitable
+      - Somewhat Not Suitable
+      - Not Suitable
+      required: true
+    - id: 11
+      name: wireless_system_ease_of_use
+      label: wireless_system_ease_of_use
+      hint: Rate the ease of use of the wireless temperature monitoring system
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: team_feedback
+      label: team_feedback
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: true
+    - id: 14
+      name: issues_reported
+      label: issues_reported
+      hint: Check if there were any issues that needed to be reported
+      type: select_multiple
+      options:
+      - Issue 1
+      - Issue 2
+      - Issue 3
+      required: true

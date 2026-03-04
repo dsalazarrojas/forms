@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Story And Language Survey
+    pages:
+    - id: 1
+      name: multilingual_background
+      label: Multilingual Background
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: language_use
+      label: Language Use
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - Mandarin
+      - Arabic
+      - Japanese
+      - Russian
+      - Swahili
+      required: false
+    - id: 3
+      name: personal_narratives
+      label: Personal Narratives
+      hint: Write about a personal experience
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: demographics
+      label: Demographics
+      hint: Please enter the following information about yourself
+      type: select_one
+      options:
+      - White
+      - Black
+      - Hispanic
+      - Asian
+      - Pacific Islander
+      - American Indian/Alaska Native
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Social Media
+      required: false
+    - id: 6
+      name: language_skills
+      label: Language Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Read
+      - Speak
+      - Write
+      - Listen
+      - Understand
+      - Other
+      required: false
+    - id: 7
+      name: language_abilities
+      label: Language Abilities
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: multilingual_language_use
+      label: Multilingual Language Use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: language_ability_score
+      label: Language Ability Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_one
+      options:
+      - Primary
+      - Secondary
+      - Tertiary
+      - Post-Graduate
+      required: false
+    - id: 11
+      name: language_usage
+      label: Language Usage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: multilingual_family
+      label: Multilingual Family
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Professional Board Election Voting Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: candidate_list
+      label: Candidate List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: vote_for
+      label: Vote For
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: vote_for_candidate
+      label: Vote For
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: candidate_details
+      label: Candidate Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vote_confirmed
+      label: Vote Confirmed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: vote_confirmed_by
+      label: Vote Confirmed By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: vote_confirmed_date
+      label: Vote Confirmed Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,171 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Categorical Variable Relationship Survey
+    pages:
+      - id: 1
+        name: demographics_header
+        label: -- Demographic Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: age_group
+        label: Age Group
+        hint: null
+        type: select_one
+        options:
+          - "Under 18"
+          - "18-24"
+          - "25-34"
+          - "35-44"
+          - "45-54"
+          - "55-64"
+          - "65+"
+        required: true
+      - id: 3
+        name: gender_identity
+        label: Gender Identity
+        hint: null
+        type: select_one
+        options:
+          - "Male"
+          - "Female"
+          - "Non-binary"
+          - "Prefer not to say"
+        required: true
+      - id: 4
+        name: education_level
+        label: Highest Level of Education Completed
+        hint: null
+        type: select_one
+        options:
+          - "High School"
+          - "Associate Degree"
+          - "Bachelor Degree"
+          - "Master Degree"
+          - "Doctorate or Professional"
+        required: true
+      - id: 5
+        name: occupation_sector
+        label: Primary Employment Sector
+        hint: null
+        type: select_one
+        options:
+          - "Education"
+          - "Technology"
+          - "Healthcare"
+          - "Finance/Business"
+          - "Arts/Entertainment"
+          - "Student/Unemployed"
+          - "Other"
+        required: true
+      - id: 6
+        name: section_perception
+        label: -- Relationship Perception --
+        hint: Understanding the connection between variables
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: core_relationship_perception
+        label: In your view, how strongly does Category A influence Category B
+        hint: null
+        type: select_one
+        options:
+          - "Strong Positive Relationship"
+          - "Weak Positive Relationship"
+          - "No Relationship"
+          - "Weak Negative Relationship"
+          - "Strong Negative Relationship"
+        required: true
+      - id: 8
+        name: frequency_of_interaction
+        label: How often do you interact with elements from Category A
+        hint: null
+        type: select_one
+        options:
+          - "Daily"
+          - "Weekly"
+          - "Monthly"
+          - "Rarely"
+          - "Never"
+        required: true
+      - id: 9
+        name: category_b_importance
+        label: How important is Category B to your daily life or work
+        hint: null
+        type: select_one
+        options:
+          - "5 - Critically Important"
+          - "4"
+          - "3 - Neutral"
+          - "2"
+          - "1 - Not Important"
+        required: true
+      - id: 10
+        name: perceived_dependency
+        label: Do you believe Category B can exist without Category A
+        hint: null
+        type: select_one
+        options:
+          - "Yes, absolutely"
+          - "Possibly"
+          - "No, they are linked"
+        required: true
+      - id: 11
+        name: section_qualitative
+        label: -- Qualitative Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: open_ended_thoughts
+        label: Describe the relationship between these two categories in your own words
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: confounding_factors
+        label: Are there any other variables that might influence this relationship
+        hint: e.g. Location, Economic status
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: future_research_interest
+        label: Would you participate in a follow-up interview
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: true
+      - id: 15
+        name: email_follow_up
+        label: Follow-up Email (if yes)
+        hint: null
+        type: email
+        options: []
+        required: false
+      - id: 16
+        name: survey_date
+        label: Date
+        hint: null
+        type: date
+        options: []
+        required: true

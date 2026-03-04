@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Banking Assessment Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: digital_experience
+      label: Digital Experience
+      hint: How would you rate your overall digital banking experience with our institution?
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: account_accessibility
+      label: Account Accessibility
+      hint: How would you rate the ease of access to your account information?
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: online_transactions
+      label: Online Transactions
+      hint: How would you rate the ease of making online transactions?
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: mobile_banking
+      label: Mobile Banking
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Satisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Dissatisfied''}'
+      required: false
+    - id: 6
+      name: customer_support
+      label: Customer Support
+      hint: How would you rate the quality of customer support?
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: security
+      label: Security
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Strong''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Weak''}'
+      required: false
+    - id: 8
+      name: user_experience
+      label: User Experience
+      hint: How would you rate the overall user experience of our digital banking
+        system?
+      type: number
+      options: []
+      required: false

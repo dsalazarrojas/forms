@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skincare Product Preference Poll
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: skin_type
+      label: skin type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Normal''}'
+      - '{''id'': 2, ''label'': ''Oily''}'
+      - '{''id'': 3, ''label'': ''Dry''}'
+      required: false
+    - id: 3
+      name: routine
+      label: routine
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''AM''}'
+      - '{''id'': 2, ''label'': ''PM''}'
+      - '{''id'': 3, ''label'': ''Both''}'
+      - '{''id'': 4, ''label'': ''Never''}'
+      required: false
+    - id: 4
+      name: product_decision
+      label: product decision
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Price''}'
+      - '{''id'': 2, ''label'': ''Brand''}'
+      - '{''id'': 3, ''label'': ''Ingredients''}'
+      - '{''id'': 4, ''label'': ''Convenience''}'
+      required: false
+    - id: 5
+      name: purchase
+      label: purchase
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''In-store''}'
+      - '{''id'': 2, ''label'': ''Online''}'
+      - '{''id'': 3, ''label'': ''Both''}'
+      - '{''id'': 4, ''label'': ''Never''}'
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: example@domain.com
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: phone number
+      hint: 123-456-7890
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: income
+      label: income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: skincare_expertise
+      label: skincare expertise
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Beginner''}'
+      - '{''id'': 2, ''label'': ''Intermediate''}'
+      - '{''id'': 3, ''label'': ''Advanced''}'
+      required: false

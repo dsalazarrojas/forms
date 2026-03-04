@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marine Diagenesis Survey
+    pages:
+    - id: 1
+      name: sediment_samples
+      label: Sediment Samples
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: diagenetic_features
+      label: Diagenetic Features
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: methods_used
+      label: Methods Used
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: sample_location
+      label: Sample Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: supporting_files
+      label: Supporting Files
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: date_collected
+      label: Date Collected
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_collected
+      label: Time Collected
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: researcher_notes
+      label: Researcher Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: sample_id
+      label: Sample ID
+      hint: null
+      type: text
+      options: []
+      required: false

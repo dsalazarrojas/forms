@@ -1,0 +1,247 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Chamber Of Commerce Event Interest Poll
+    pages:
+      - id: 1
+        name: poll_date
+        label: Poll Date
+        hint: Date of poll submission
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: respondent_name
+        label: Respondent Name
+        hint: Your full name
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: respondent_email
+        label: Email Address
+        hint: Email for event updates
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: business_name
+        label: Business Name
+        hint: Name of your business
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: membership_status
+        label: Chamber Membership Status
+        hint: Are you a chamber member
+        type: select_one
+        options:
+          - Current member
+          - Former member
+          - Non-member
+          - Considering membership
+        required: true
+      - id: 6
+        name: event_type_preference
+        label: Event Type Preference
+        hint: What types of events interest you
+        type: select_multiple
+        options:
+          - Networking mixers
+          - Educational seminars
+          - Panel discussions
+          - Business workshops
+          - Award ceremonies
+          - Trade shows
+          - Community service
+          - Social gatherings
+          - Legislative updates
+          - Young professionals events
+        required: true
+      - id: 7
+        name: preferred_day
+        label: Preferred Day of Week
+        hint: Which days work best for you
+        type: select_multiple
+        options:
+          - Monday
+          - Tuesday
+          - Wednesday
+          - Thursday
+          - Friday
+          - Saturday
+          - Sunday
+        required: true
+      - id: 8
+        name: preferred_time
+        label: Preferred Time of Day
+        hint: What time works best
+        type: select_multiple
+        options:
+          - Early morning (7-9 AM)
+          - Morning (9-11 AM)
+          - Lunch (11 AM-1 PM)
+          - Afternoon (1-4 PM)
+          - Evening (5-8 PM)
+          - After hours (8 PM+)
+        required: true
+      - id: 9
+        name: event_frequency
+        label: Preferred Event Frequency
+        hint: How often would you like events
+        type: select_one
+        options:
+          - Weekly
+          - Bi-weekly
+          - Monthly
+          - Quarterly
+          - Semi-annually
+          - Annually
+        required: true
+      - id: 10
+        name: topic_interests
+        label: Topic Interests
+        hint: What topics interest you
+        type: select_multiple
+        options:
+          - Business growth strategies
+          - Marketing and branding
+          - Financial planning
+          - Technology trends
+          - Leadership development
+          - Human resources
+          - Legal compliance
+          - Economic updates
+          - Industry specific
+          - Community development
+        required: true
+      - id: 11
+        name: speaker_preferences
+        label: Speaker Preferences
+        hint: What type of speakers do you prefer
+        type: select_multiple
+        options:
+          - Industry experts
+          - Local business leaders
+          - Government officials
+          - Academic researchers
+          - Motivational speakers
+          - Panel discussions
+          - Workshop leaders
+        required: false
+      - id: 12
+        name: venue_preference
+        label: Venue Preference
+        hint: Preferred event locations
+        type: select_one
+        options:
+          - Chamber office
+          - Member business locations
+          - Hotels
+          - Convention centers
+          - Restaurants
+          - Outdoor venues
+          - Virtual online
+          - Hybrid format
+        required: true
+      - id: 13
+        name: price_range
+        label: Acceptable Price Range
+        hint: What would you pay for events
+        type: select_one
+        options:
+          - Free events only
+          - Under $25
+          - $25-$50
+          - $50-$100
+          - Over $100
+        required: true
+      - id: 14
+        name: meal_preference
+        label: Meal Preference
+        hint: What meal options do you prefer
+        type: select_one
+        options:
+          - Breakfast
+          - Lunch
+          - Dinner
+          - Light refreshments only
+          - No food needed
+        required: false
+      - id: 15
+        name: dietary_restrictions
+        label: Dietary Restrictions
+        hint: Any dietary requirements
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: childcare_needed
+        label: Childcare Needed
+        hint: Would childcare be helpful
+        type: select_one
+        options:
+          - Yes - Would use
+          - No - Not needed
+        required: false
+      - id: 17
+        name: virtual_attendance
+        label: Virtual Attendance Option
+        hint: Would you attend virtual events
+        type: select_one
+        options:
+          - Yes - Prefer virtual
+          - Yes - Hybrid option
+          - No - In-person only
+        required: true
+      - id: 18
+        name: volunteer_interest
+        label: Volunteer Interest
+        hint: Would you volunteer to help
+        type: select_one
+        options:
+          - Yes - Interested
+          - No - Not interested
+          - Maybe - Depends on role
+        required: true
+      - id: 19
+        name: sponsorship_interest
+        label: Sponsorship Interest
+        hint: Is your business interested in sponsoring
+        type: select_one
+        options:
+          - Yes - Interested
+          - No - Not interested
+          - Maybe - Need information
+        required: false
+      - id: 20
+        name: additional_suggestions
+        label: Additional Suggestions
+        hint: Any other event ideas or suggestions
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: likely_to_attend
+        label: Likelihood to Attend
+        hint: How likely are you to attend chamber events
+        type: select_one
+        options:
+          - Very likely
+          - Likely
+          - Neutral
+          - Unlikely
+          - Very unlikely
+        required: true

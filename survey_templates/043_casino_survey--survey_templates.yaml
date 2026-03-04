@@ -1,0 +1,253 @@
+inputSchema:
+  type: object
+  properties:
+    title: Casino Survey
+    pages:
+    - id: 1
+      name: respondent_info_section
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: survey_date
+      label: Survey Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: survey_time
+      label: Survey Time
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: first_name
+      label: First Name (optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - 18-25
+      - 26-35
+      - 36-45
+      - 46-55
+      - 56-65
+      - 65+
+      - Prefer not to answer
+      required: true
+    - id: 6
+      name: visit_information_section
+      label: -- Visit Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: visit_frequency
+      label: How often do you visit this casino?
+      hint: null
+      type: select_one
+      options:
+      - First time
+      - Once a month
+      - Several times a month
+      - Weekly
+      - Multiple times per week
+      - Daily
+      required: true
+    - id: 8
+      name: party_size
+      label: Size of Your Party Today
+      hint: Number of people
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: visit_duration
+      label: How long did you spend at the casino today?
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 hour
+      - 1-3 hours
+      - 3-5 hours
+      - 5-8 hours
+      - More than 8 hours
+      required: true
+    - id: 10
+      name: visit_purpose
+      label: Primary Purpose of Today's Visit
+      hint: null
+      type: select_one
+      options:
+      - Gaming and Gambling
+      - Dining
+      - Entertainment or Shows
+      - Social Gathering
+      - All of the above
+      - Other
+      required: true
+    - id: 11
+      name: gaming_preferences_section
+      label: -- Gaming Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: favorite_games
+      label: Favorite Games to Play
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Slot Machines
+      - Blackjack
+      - Roulette
+      - Poker
+      - Baccarat
+      - Craps
+      - Keno
+      - Sports Betting
+      - Other
+      required: true
+    - id: 13
+      name: playing_time_allocation
+      label: How did you allocate your gaming time today?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: gaming_budget
+      label: What is your typical gaming budget per visit?
+      hint: null
+      type: select_one
+      options:
+      - Under $50
+      - $50 - $100
+      - $100 - $250
+      - $250 - $500
+      - $500 - $1000
+      - Over $1000
+      required: true
+    - id: 15
+      name: facilities_services_section
+      label: -- Facilities and Services --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: gaming_floor_satisfaction
+      label: Satisfaction with gaming floor layout and equipment
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 17
+      name: dining_experience
+      label: Quality of dining options available
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Did not dine
+      required: true
+    - id: 18
+      name: entertainment_quality
+      label: Quality of entertainment and shows
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Did not attend
+      required: true
+    - id: 19
+      name: staff_service_section
+      label: -- Staff and Service --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: staff_friendliness
+      label: Staff friendliness and helpfulness
+      hint: null
+      type: select_one
+      options:
+      - Very Friendly
+      - Friendly
+      - Neutral
+      - Unfriendly
+      - Very Unfriendly
+      required: true
+    - id: 21
+      name: service_quality
+      label: Overall service quality during your visit
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 22
+      name: overall_section
+      label: -- Overall Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: overall_satisfaction
+      label: Overall satisfaction with your visit
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 24
+      name: would_return
+      label: Would you return to this casino?
+      hint: null
+      type: select_one
+      options:
+      - Definitely
+      - Probably
+      - Maybe
+      - Probably Not
+      - Definitely Not
+      required: true
+    - id: 25
+      name: suggestions
+      label: Suggestions for Improvement
+      hint: What could we do better?
+      type: text
+      options: []
+      required: false

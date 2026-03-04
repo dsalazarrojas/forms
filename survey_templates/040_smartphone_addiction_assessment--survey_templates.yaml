@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smartphone Addiction Assessment
+    pages:
+    - id: 1
+      name: screen_time
+      label: Screen time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: social_media
+      label: Social Media
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Never''}'
+      - Always
+      - Rarely
+      - Occasionally
+      - Frequently
+      required: false
+    - id: 3
+      name: phone_use
+      label: Smartphone use
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Never''}'
+      - Less than 1 hour
+      - 1-2 hours
+      - 2-4 hours
+      - More than 4 hours
+      required: false
+    - id: 4
+      name: distractions
+      label: Smartphone distractions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sleep
+      label: Sleep quality
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not a problem''}'
+      - Somewhat of a problem
+      - A problem
+      - Significant problem
+      required: false
+    - id: 6
+      name: mental_health
+      label: Mental health
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Not a problem''}'
+      - Somewhat of a problem
+      - A problem
+      - Significant problem
+      required: false
+    - id: 7
+      name: physical_health
+      label: Physical health
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Not a problem''}'
+      - Somewhat of a problem
+      - A problem
+      - Significant problem
+      required: false
+    - id: 8
+      name: relationships
+      label: Relationships
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Not a problem''}'
+      - Somewhat of a problem
+      - A problem
+      - Significant problem
+      required: false
+    - id: 9
+      name: work_life
+      label: Work-life balance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Not a problem''}'
+      - Somewhat of a problem
+      - A problem
+      - Significant problem
+      required: false
+    - id: 10
+      name: productivity
+      label: Productivity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: financial_concerns
+      label: Financial concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: addiction
+      label: Addictive behavior
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Not a problem''}'
+      - Somewhat of a problem
+      - A problem
+      - Significant problem
+      required: false
+    - id: 13
+      name: emotional_stress
+      label: Emotional stress
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Not a problem''}'
+      - Somewhat of a problem
+      - A problem
+      - Significant problem
+      required: false
+    - id: 14
+      name: physical_stress
+      label: Physical stress
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Not a problem''}'
+      - Somewhat of a problem
+      - A problem
+      - Significant problem
+      required: false
+    - id: 15
+      name: self_care
+      label: Self care
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Not a problem''}'
+      - Somewhat of a problem
+      - A problem
+      - Significant problem
+      required: false
+    - id: 16
+      name: digital_media
+      label: Digital Media
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: technology_usage
+      label: Technology usage
+      hint: null
+      type: text
+      options: []
+      required: false

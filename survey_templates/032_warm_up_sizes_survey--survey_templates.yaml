@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Warm Up Sizes Survey
+    pages:
+    - id: 1
+      name: home_page
+      label: Home Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: sizes_page
+      label: Warm Up Sizes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: sizes_question
+      label: What is your size?
+      hint: Select your warm up size below
+      type: select_one
+      options:
+      - 4XL
+      - 5XL
+      - 6XL
+      - 7XL
+      required: false
+    - id: 4
+      name: fit_preferences
+      label: Fit Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: fit_preferences_question
+      label: Do you prefer a loose or fitted fit?
+      hint: Select your fit preference
+      type: select_one
+      options:
+      - Loose
+      - Fitted
+      required: false
+    - id: 6
+      name: contact_details_page
+      label: Contact Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: school_club_coach
+      label: School or Club
+      hint: null
+      type: select_one
+      options:
+      - Coach
+      - School
+      - Club
+      required: false
+    - id: 11
+      name: sport
+      label: Sport
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: text
+      options: []
+      required: false

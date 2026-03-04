@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Background Check Service Feedback Survey
+    pages:
+    - id: 1
+      name: feedback_service_header
+      label: -- Client Feedback - Background Screening Experience --
+      hint: Help us improve our screening services
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: respondent_name_feedback
+      label: Your Name and Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: turnaround_time_rating
+      label: Satisfaction with turnaround time (TAT)
+      hint: 1 = Very slow, 5 = Very fast
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: report_accuracy_rating
+      label: Accuracy and quality of the final reports
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: portal_ease_of_use
+      label: Ease of use of the online submission portal
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: customer_service_professionalism
+      label: Professionalism and responsiveness of our support staff
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: value_for_price_rating
+      label: Overall value received for the price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: likelihood_to_recommend_bg
+      label: How likely are you to recommend our service to others?
+      hint: 0 = Not likely, 10 = Very likely
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: areas_of_excellence
+      label: What did we do particularly well?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: areas_for_improvement_bg
+      label: How can we improve our service?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments_bg_service
+      label: Any other comments or suggestions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: permission_to_quote
+      label: May we use your feedback as a testimonial?
+      hint: null
+      type: select_one
+      options:
+      - Yes, with company name
+      - Yes, anonymously
+      - false
+      required: true

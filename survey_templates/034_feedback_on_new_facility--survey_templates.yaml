@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Feedback On New Facility
+    pages:
+    - id: 1
+      name: visitor_data_collection
+      label: Visitor Data Collection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 3
+      name: identified_improvement
+      label: Identified Improvement
+      hint: Please provide a specific improvement you would like to see implemented.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: recommendation
+      label: Recommendation
+      hint: Any other feedback you have for the facility.
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: visitor_type
+      label: Visitor Type
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Returning
+      - Employee
+      - Guest
+      - Other
+      required: false
+    - id: 6
+      name: visit_length
+      label: Visit Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: visited_with
+      label: Visited With
+      hint: null
+      type: select_multiple
+      options:
+      - Alone
+      - With a friend
+      - With family
+      - With colleagues
+      - With a guide
+      required: false
+    - id: 8
+      name: visited_at
+      label: Visited At
+      hint: Please choose your visit time.
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: If you want, enter your email.
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: visited_location
+      label: Visited Location
+      hint: null
+      type: select_one
+      options:
+      - Main Entrance
+      - Main Hall
+      - Side Entrance
+      - Side Hall
+      - Other
+      required: false
+    - id: 12
+      name: visited_date
+      label: Visited Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: visited_time
+      label: Visited Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: visited_days
+      label: Visited Days
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 15
+      name: visited_hour
+      label: Visited Hour
+      hint: null
+      type: select_multiple
+      options:
+      - AM
+      - PM
+      required: false
+    - id: 16
+      name: visited_minute
+      label: Visited Minute
+      hint: null
+      type: select_multiple
+      options:
+      - '00'
+      - '15'
+      - '30'
+      - '45'
+      required: false
+    - id: 17
+      name: visited_second
+      label: Visited Second
+      hint: null
+      type: select_multiple
+      options:
+      - '0'
+      - '5'
+      - '10'
+      - '15'
+      - '20'
+      - '25'
+      - '30'
+      - '35'
+      - '40'
+      - '45'
+      - '50'
+      - '55'
+      required: false
+    - id: 18
+      name: visited_microsecond
+      label: Visited Microsecond
+      hint: null
+      type: select_multiple
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      required: false

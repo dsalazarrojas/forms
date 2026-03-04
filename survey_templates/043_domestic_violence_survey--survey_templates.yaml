@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Domestic Violence Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Domestic Violence Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: family_violence
+      label: Has your family experienced any domestic violence?
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: true
+    - id: 3
+      name: student_violence
+      label: Have you ever experienced any violence in your home?
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: true
+    - id: 4
+      name: support
+      label: Who do you feel you could talk to if you needed help or support?
+      hint: null
+      type: select_multiple
+      options:
+      - Parent/Teacher
+      - School Counselor
+      - Another family member
+      - Friend
+      - Someone at work
+      - Someone outside of school
+      required: false
+    - id: 5
+      name: date
+      label: When would you like to start the conversation?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: What time would you prefer to have the conversation?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: What is your email address?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Is there anything you would like to add?
+      hint: null
+      type: note
+      options: []
+      required: false

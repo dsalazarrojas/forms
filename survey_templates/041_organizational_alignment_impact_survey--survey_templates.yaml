@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Organizational Alignment Impact Survey
+    pages:
+    - id: 1
+      name: strategy_alignment
+      label: Alignment
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: true
+    - id: 2
+      name: strategic_focus
+      label: Strategic Focus
+      hint: null
+      type: select_multiple
+      options:
+      - A
+      - B
+      - C
+      required: true
+    - id: 3
+      name: organizational_capacity
+      label: Organisational Capacity
+      hint: Enter numbers only
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: impact_on_organisation
+      label: Impact On The Organisation
+      hint: null
+      type: select_multiple
+      options:
+      - A
+      - B
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: strategy_impact
+      label: What will be the impact of this strategy on the organization
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      required: true
+    - id: 7
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: email_address
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone_number
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: comments_2
+      label: Comments 2
+      hint: null
+      type: text
+      options: []
+      required: false

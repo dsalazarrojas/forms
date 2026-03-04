@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supervised Visit Feedback Form
+    pages:
+    - id: 1
+      name: session_outcome
+      label: Session Outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: observation
+      label: Observation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: supervisor_outcome
+      label: Supervisor Outcome
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Positive''}'
+      - '{''id'': 2, ''label'': ''Negative''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      required: false
+    - id: 5
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: supervisor_phone
+      label: Supervisor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: supervisor_email
+      label: Supervisor Email
+      hint: null
+      type: email
+      options: []
+      required: false

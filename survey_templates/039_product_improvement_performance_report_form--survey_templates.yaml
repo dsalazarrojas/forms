@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: product_improvement_performance_report_form
+    pages:
+    - id: 1
+      name: introduction
+      label: Welcome to the Product Improvement Performance Report Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Please enter your company name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_name
+      label: Contact Name
+      hint: Please enter your name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: Please enter your email
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: product_name
+      label: Product Name
+      hint: Please enter your product name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rating
+      label: Quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: rating
+      label: Ease of Use
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: rating
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: feedback
+      label: Feedback
+      hint: Please provide detailed feedback
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: suggestions
+      label: Suggestions
+      hint: Please provide any suggestions
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: product_features
+      label: What features would you like to see in our products
+      hint: null
+      type: select_multiple
+      options:
+      - Feature 1
+      - Feature 2
+      - Feature 3
+      - Feature 4
+      - Feature 5
+      required: false

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Group Evaluation Form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: group_name
+      label: group_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback_score_1
+      label: feedback_score_1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback_score_2
+      label: feedback_score_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: feedback_score_3
+      label: feedback_score_3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: feedback_score_4
+      label: feedback_score_4
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: feedback_score_5
+      label: feedback_score_5
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: group_feedback
+      label: group_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_feedback
+      label: manager_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit_button
+      label: submit
+      hint: null
+      type: select_multiple
+      options:
+      - Manager's Review
+      - Submit
+      required: false

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Debate Platform Survey
+    pages:
+    - id: 1
+      name: survey_start
+      label: How did you find the debate platform?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: debate_topics
+      label: What were your favorite topics during the debate?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: debate_topics_held
+      label: Which topics are you interested in holding?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: debate_topics_other
+      label: Other topics?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: overall_experience
+      label: How would you rate your overall experience with the debate platform?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: platform_ux
+      label: What could we improve with the platform's user experience?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: topic_refinements
+      label: What topics would you like to see refined or expanded?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional comments?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

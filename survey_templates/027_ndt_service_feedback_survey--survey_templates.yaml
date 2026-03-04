@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: NDT Service Feedback Survey
+    pages:
+    - id: 1
+      name: job_details
+      label: Job Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_provided
+      label: Service Provided
+      hint: null
+      type: select_one
+      options:
+      - Non Destructive Testing (NDT) Service
+      - Other Service
+      required: false
+    - id: 3
+      name: date_of_testing
+      label: Date of Testing
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: testing_duration
+      label: Testing Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: testing_type
+      label: Testing Type
+      hint: null
+      type: select_one
+      options:
+      - Mechanical
+      - Electrical
+      - Pneumatic
+      required: false
+    - id: 8
+      name: testing_area
+      label: Testing Area
+      hint: null
+      type: select_multiple
+      options:
+      - Area 1
+      - Area 2
+      - Area 3
+      required: false
+    - id: 9
+      name: technician_name
+      label: Technician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: technician_rating
+      label: Technician Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: technician_comment
+      label: Technician Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_rating
+      label: Customer Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: customer_comment
+      label: Customer Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false

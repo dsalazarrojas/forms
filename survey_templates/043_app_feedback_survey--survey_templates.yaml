@@ -1,0 +1,208 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: App Feedback Survey
+    pages:
+      - id: 1
+        name: survey_date
+        label: Survey date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: user_name
+        label: Your name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: email_address
+        label: Email address
+        hint: null
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: app_name
+        label: App name
+        hint: Which app are you evaluating
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: app_version
+        label: App version
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: device_type
+        label: Device type
+        hint: null
+        type: select_one
+        options:
+          - iPhone
+          - Android phone
+          - iPad
+          - Android tablet
+          - Web browser
+          - Other
+        required: true
+      - id: 7
+        name: usage_duration
+        label: How long have you been using this app?
+        hint: null
+        type: select_one
+        options:
+          - Less than 1 week
+          - 1-4 weeks
+          - 1-3 months
+          - 3-6 months
+          - 6-12 months
+          - 1-2 years
+          - 2+ years
+        required: true
+      - id: 8
+        name: usage_frequency
+        label: How frequently do you use the app?
+        hint: null
+        type: select_one
+        options:
+          - Daily
+          - Several times per week
+          - Weekly
+          - Monthly
+          - Rarely
+        required: true
+      - id: 9
+        name: overall_rating
+        label: Overall app rating
+        hint: null
+        type: select_one
+        options:
+          - 5 stars - Excellent
+          - 4 stars - Good
+          - 3 stars - Fair
+          - 2 stars - Poor
+          - 1 star - Very poor
+        required: true
+      - id: 10
+        name: likelihood_recommend
+        label: Likelihood to recommend this app
+        hint: null
+        type: select_one
+        options:
+          - Very likely
+          - Likely
+          - Neutral
+          - Unlikely
+          - Very unlikely
+        required: true
+      - id: 11
+        name: ease_of_use
+        label: Ease of use
+        hint: How intuitive is the app
+        type: select_one
+        options:
+          - Very easy
+          - Easy
+          - Moderate
+          - Difficult
+          - Very difficult
+        required: true
+      - id: 12
+        name: design_quality
+        label: Design and visual quality
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - Very poor
+        required: true
+      - id: 13
+        name: performance_quality
+        label: Performance and speed
+        hint: How fast and responsive is the app
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - Very poor
+        required: true
+      - id: 14
+        name: stability_quality
+        label: Stability and reliability
+        hint: Does it crash or have issues
+        type: select_one
+        options:
+          - Excellent - no crashes
+          - Good - rarely crashes
+          - Fair - occasional issues
+          - Poor - frequent issues
+          - Very poor - constantly crashes
+        required: true
+      - id: 15
+        name: features_meeting_needs
+        label: Features meet your needs
+        hint: null
+        type: select_one
+        options:
+          - Completely
+          - Mostly
+          - Partially
+          - Not at all
+        required: true
+      - id: 16
+        name: missing_features
+        label: What features are missing or needed?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: biggest_improvement_need
+        label: Biggest area needing improvement
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: best_aspect
+        label: Best aspect of the app
+        hint: What do you like most
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: worst_aspect
+        label: Worst aspect of the app
+        hint: What bothers you most
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: additional_comments
+        label: Additional comments or suggestions
+        hint: null
+        type: text
+        options: []
+        required: false

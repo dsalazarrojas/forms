@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_gaming_platform_overview
+    pages:
+    - id: 1
+      name: usage_habits
+      label: usage_habits
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: usage_frequency
+      label: usage_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: satisfaction_level
+      label: satisfaction_level
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_satisfied''}'
+      - '{''value'': ''somewhat_satisfied''}'
+      - '{''value'': ''not_satisfied''}'
+      - '{''value'': ''very_dissatisfied''}'
+      - '{''value'': ''not_at_all_satisfied''}'
+      required: false
+    - id: 4
+      name: game_preferences
+      label: game_preferences
+      hint: What type of games do you usually play?
+      type: select_multiple
+      options:
+      - '{''value'': ''action''}'
+      - '{''value'': ''adventure''}'
+      - '{''value'': ''role-playing''}'
+      - '{''value'': ''sports''}'
+      - '{''value'': ''puzzle''}'
+      - '{''value'': ''simulation''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 5
+      name: gaming_platforms
+      label: gaming_platforms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Xbox''}'
+      - '{''value'': ''PlayStation''}'
+      - '{''value'': ''Nintendo''}'
+      - '{''value'': ''PC''}'
+      - '{''value'': ''Mobile''}'
+      - '{''value'': ''Switch''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 6
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: platform_preferences
+      label: platform_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''mobile''}'
+      - '{''value'': ''browser''}'
+      - '{''value'': ''desktop''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 8
+      name: social_media
+      label: social_media
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: gaming_experience
+      label: gaming_experience
+      hint: How would you rate your gaming experience?
+      type: select_one
+      options:
+      - '{''value'': ''very_good''}'
+      - '{''value'': ''somewhat_good''}'
+      - '{''value'': ''neutral''}'
+      - '{''value'': ''somewhat_bad''}'
+      - '{''value'': ''very_bad''}'
+      required: false
+    - id: 10
+      name: goals
+      label: goals
+      hint: What are your goals for gaming?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: game_preferences_2
+      label: game_preferences_2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''action''}'
+      - '{''value'': ''adventure''}'
+      - '{''value'': ''role-playing''}'
+      - '{''value'': ''sports''}'
+      - '{''value'': ''puzzle''}'
+      - '{''value'': ''simulation''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 12
+      name: gaming_platforms_2
+      label: gaming_platforms_2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Xbox''}'
+      - '{''value'': ''PlayStation''}'
+      - '{''value'': ''Nintendo''}'
+      - '{''value'': ''PC''}'
+      - '{''value'': ''Mobile''}'
+      - '{''value'': ''Switch''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 13
+      name: contact_info_2
+      label: contact_info_2
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Lens Comfort Study Interest Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Study Interest Registration --
+      hint: Sign up to express interest in a contact lens comfort study
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant name
+      hint: Full name for study contact
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: Email for study communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: Optional phone for scheduling
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: age
+      label: Age
+      hint: Participant age in years
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: current_lens_use
+      label: Currently using contact lenses
+      hint: Indicate if you regularly wear contacts
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: lens_type
+      label: Current lens type
+      hint: Soft, rigid gas permeable, or none
+      type: select_one
+      options:
+      - Soft
+      - RGP
+      - Hybrid
+      - None
+      required: false
+    - id: 8
+      name: daily_wear_hours
+      label: Typical daily wear hours
+      hint: Average hours per day you wear lenses
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: comfort_issues
+      label: Experience of comfort issues
+      hint: Briefly describe any discomfort or symptoms
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: availability
+      label: Availability for study sessions
+      hint: Days or times you are typically available
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: consent_to_contact
+      label: Consent to be contacted about the study
+      hint: We will contact eligible participants
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 12
+      name: additional_notes
+      label: Additional notes
+      hint: Any other information relevant to participation
+      type: text
+      options: []
+      required: false

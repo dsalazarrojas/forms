@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Software Preference Voting Form
+    pages:
+    - id: 1
+      name: software_preference_voting_form
+      label: Software Preference Voting Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: ranking
+      label: Ranking
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: satisfaction_feedback
+      label: Satisfaction Feedback
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 4
+      name: software_tool_1
+      label: Software Tool 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: software_tool_1_ranking
+      label: Software Tool 1 Ranking
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: software_tool_2
+      label: Software Tool 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: software_tool_2_ranking
+      label: Software Tool 2 Ranking
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: software_tool_3
+      label: Software Tool 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: software_tool_3_ranking
+      label: Software Tool 3 Ranking
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: software_tool_4
+      label: Software Tool 4
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: software_tool_4_ranking
+      label: Software Tool 4 Ranking
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: software_preference_voting_form_comments
+      label: Software Preference Voting Form Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

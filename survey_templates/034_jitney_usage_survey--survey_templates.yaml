@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: jitney_usage_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: welcome_to_the_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: how_satisfied
+      label: how_satisfied_with_jitney
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''very_satisfied''}'
+      - '{''label'': ''somewhat_satisfied''}'
+      - '{''label'': ''not_satisfied''}'
+      required: false
+    - id: 3
+      name: why_didnt_use
+      label: why_didnt_use_jitney
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: suggestions
+      label: suggestions_for_improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: demographics
+      label: demographics
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false

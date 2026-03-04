@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Leave Management Software Review Survey
+    pages:
+    - id: 1
+      name: employee_leave_management_software_review_survey_page_1
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: software_type
+      label: Software Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: leave_types
+      label: Leave Types
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: feedback_on_adoption
+      label: Feedback on Adoption
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: feedback_on_satisfaction
+      label: Feedback on Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: improvement_priorities
+      label: Improvement Priorities
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

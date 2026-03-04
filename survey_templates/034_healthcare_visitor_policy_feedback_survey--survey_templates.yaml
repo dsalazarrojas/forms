@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Visitor Policy Feedback Survey
+    pages:
+    - id: 1
+      name: communication
+      label: How do you feel about how well the hospital communicated the visitor
+        policy to you?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 2
+      name: experience
+      label: How would you rate your overall experience?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: staff_response
+      label: How would you rate the responsiveness of hospital staff?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: rules
+      label: Were the visitation rules clear to you?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: comments
+      label: Do you have any comments or suggestions?
+      hint: null
+      type: note
+      options: []
+      required: false

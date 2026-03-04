@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Math Interest Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: survey_question_one
+      label: How do you feel about math?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: survey_question_two
+      label: Why do you like math?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: favorite_maths_topic
+      label: Favorite Math Topic
+      hint: null
+      type: select_multiple
+      options:
+      - Geometry
+      - Algebra
+      - Calculus
+      required: true
+    - id: 5
+      name: math_importance
+      label: How important is math in your daily life?
+      hint: null
+      type: select_one
+      options:
+      - Very Important
+      - Not Important
+      required: false
+    - id: 6
+      name: time_spent_on_maths
+      label: Time Spent on Math
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: favorite_subject
+      label: Favorite Subject
+      hint: null
+      type: select_one
+      options:
+      - Math
+      - English
+      - Science
+      - History
+      - Geography
+      - Arts
+      required: false
+    - id: 8
+      name: survey_comment
+      label: Do you have any comments on this topic?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: math_survey_comment
+      label: Math Survey Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: favorite_book
+      label: Favorite Book
+      hint: null
+      type: select_one
+      options:
+      - '{''Algebra'': ''A Comprehensive Introduction to the Theory of Numbers''}'
+      - '{''Calculus'': ''Early Indicators''}'
+      - Introduction to Differential Equations and Dynamical Systems
+      required: false
+    - id: 13
+      name: time_spent_on_reading
+      label: Time Spent Reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: math_survey_rating
+      label: Rating of the Math Survey
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: favorite_math_resource
+      label: Favorite Math Resource
+      hint: null
+      type: select_one
+      options:
+      - Khan Academy
+      - MIT K-12
+      - Wolfram Demonstrations
+      required: false
+    - id: 17
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: favorite_website
+      label: Favorite Website
+      hint: null
+      type: select_one
+      options:
+      - Mathway
+      - GeoGebra
+      - Wolfram Alpha
+      - MIT OpenCourseWare
+      required: false
+    - id: 20
+      name: favorite_app
+      label: Favorite Math App
+      hint: null
+      type: select_one
+      options:
+      - Mathway
+      - Wolfram Alpha
+      - GeoGebra
+      required: false
+    - id: 21
+      name: rating_of_teachers
+      label: Rating of Teachers
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 22
+      name: favorite_tool_used
+      label: Favorite Tool Used
+      hint: null
+      type: select_one
+      options:
+      - Grapher
+      - GeoGebra
+      - Mathematica
+      - Wolfram Alpha
+      required: false
+    - id: 23
+      name: rating_of_resources
+      label: Rating of Resources
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 24
+      name: favorite_educational_video
+      label: Favorite Educational Video
+      hint: null
+      type: select_one
+      options:
+      - 3Blue1Blue
+      - Crash Course
+      - 3Blue1Blue
+      - Khan Academy
+      - TED-Ed
+      required: false

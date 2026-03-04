@@ -1,0 +1,142 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bloodsucker Knowledge Quiz
+    pages:
+      - id: 1
+        name: quiz_intro
+        label: -- Bloodsucker Knowledge Quiz --
+        hint: Test your knowledge of blood-feeding animals and insects
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: participant_name
+        label: Your Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: participant_age
+        label: Age Group
+        hint: null
+        type: select_one
+        options: ["Under 10", "10-15", "16-18", "18-25", "25-35", "35-50", "50+"]
+        required: true
+      - id: 4
+        name: participant_education
+        label: Educational Background
+        hint: null
+        type: select_one
+        options: ["Elementary School", "Middle School", "High School", "College", "Graduate", "Other"]
+        required: false
+      - id: 5
+        name: question_1
+        label: Which insect is known for transmitting malaria?
+        hint: null
+        type: select_one
+        options: ["Mosquito", "Tick", "Bed bug", "Flea"]
+        required: true
+      - id: 6
+        name: question_2
+        label: How many species of mosquitoes can transmit diseases?
+        hint: null
+        type: select_one
+        options: ["Around 50", "Around 100", "Around 200", "Around 500"]
+        required: true
+      - id: 7
+        name: question_3
+        label: What disease do ticks commonly transmit?
+        hint: null
+        type: select_one
+        options: ["Dengue fever", "Lyme disease", "Yellow fever", "Zika virus"]
+        required: true
+      - id: 8
+        name: question_4
+        label: Vampire bats primarily feed on which animals?
+        hint: null
+        type: select_one
+        options: ["Humans", "Large mammals", "Birds", "Insects"]
+        required: true
+      - id: 9
+        name: question_5
+        label: In folklore, how do you typically kill a vampire?
+        hint: null
+        type: select_one
+        options: ["Garlic", "Sunlight", "Wooden stake through heart", "All of the above"]
+        required: true
+      - id: 10
+        name: question_6
+        label: Which is the largest blood-feeding insect?
+        hint: null
+        type: select_one
+        options: ["Mosquito", "Blackfly", "Horsefly", "Botfly"]
+        required: true
+      - id: 11
+        name: question_7
+        label: How much blood can a mosquito consume in one feeding?
+        hint: null
+        type: select_one
+        options: ["0.5 mg", "2 mg", "10 mg", "50 mg"]
+        required: true
+      - id: 12
+        name: question_8
+        label: Which animal is a blood-feeding fish?
+        hint: null
+        type: select_one
+        options: ["Piranha", "Lamprey", "Barracuda", "Shark"]
+        required: true
+      - id: 13
+        name: question_9
+        label: Bed bugs were nearly eliminated in which decade?
+        hint: null
+        type: select_one
+        options: ["1940s", "1960s", "1980s", "2000s"]
+        required: true
+      - id: 14
+        name: question_10
+        label: What percentage of a flea's life is spent on the host?
+        hint: null
+        type: select_one
+        options: ["5%", "25%", "50%", "75%"]
+        required: true
+      - id: 15
+        name: question_11
+        label: Which leech is used in modern medicine?
+        hint: null
+        type: select_one
+        options: ["Medicinal leech", "Land leech", "Marine leech", "Aquatic leech"]
+        required: true
+      - id: 16
+        name: question_12
+        label: How many eyes does a tick typically have?
+        hint: null
+        type: select_one
+        options: ["No eyes", "2 eyes", "6 eyes", "8 eyes"]
+        required: true
+      - id: 17
+        name: quiz_completion_time
+        label: Quiz Completion Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 18
+        name: quiz_feedback
+        label: Would you like to retake this quiz?
+        hint: null
+        type: select_one
+        options: ["Yes", "No"]
+        required: false

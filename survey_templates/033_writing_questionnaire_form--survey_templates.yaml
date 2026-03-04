@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Writing Questionnaire Form
+    pages:
+    - id: 1
+      name: writing_habits
+      label: Writing Habits
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: writing_progress
+      label: Writing Progress
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: goals_and_aspirations
+      label: Goals And Aspirations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: challenges_and_obstacles
+      label: Challenges And Obstacles
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: support_system
+      label: Support System
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submission
+      label: Submission
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: review
+      label: Review
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,139 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Ancient Human Sites Survey
+    pages:
+    - id: 1
+      name: section_survey_header
+      label: -- Ancient Human Sites Field Report --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: researcher_name
+      label: Researcher / Surveyor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: site_id_code
+      label: Site ID Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_survey
+      label: Date of Survey
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_site_location
+      label: -- Site Location --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: geographic_coordinates
+      label: Geographic Coordinates (Lat/Long)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: nearby_landmarks
+      label: Nearby Landmarks or Access Points
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: site_type
+      label: Primary Site Type
+      hint: null
+      type: select_one
+      options:
+      - Cave
+      - Settlement
+      - Burial Mound
+      - Ritual Site
+      - Industrial / Mining
+      required: true
+    - id: 9
+      name: section_site_condition
+      label: -- Site Condition --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: preservation_status
+      label: Current Preservation Status
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Critically Endangered
+      required: true
+    - id: 11
+      name: visible_features
+      label: Visible Archaeological Features
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Stone Tools
+      - Pottery Shards
+      - Structural Foundations
+      - Rock Art
+      - Human Remains
+      required: false
+    - id: 12
+      name: immediate_threats_to_site
+      label: Immediate Threats to Site
+      hint: e.g. Erosion, Development, Looting
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_recommendations
+      label: -- Recommendations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: priority_for_excavation
+      label: Priority for Further Excavation
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 15
+      name: suggested_conservation_measures
+      label: Suggested Conservation Measures
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_motivation_survey
+    pages:
+    - id: 1
+      name: motivation_score
+      label: Motivation Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: motivation_level
+      label: Motivation Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 3
+      name: engagement_level
+      label: Engagement Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 4
+      name: motivation_type
+      label: Motivation Type
+      hint: null
+      type: select_one
+      options:
+      - Self
+      - Team
+      - External
+      required: false
+    - id: 5
+      name: motivation_goal
+      label: Motivation Goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: motivation_time_frame
+      label: Motivation Time Frame
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: motivation_important
+      label: Motivation Important
+      hint: null
+      type: select_one
+      options:
+      - Very Important
+      - Somewhat Important
+      - Not Important
+      required: false
+    - id: 8
+      name: motivation_important_reasons
+      label: Motivation Important Reasons
+      hint: null
+      type: select_multiple
+      options:
+      - Career Development
+      - Financial Gain
+      - Social Recognition
+      required: false
+    - id: 9
+      name: motivation_barometer
+      label: Motivation Barometer
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: motivation_barometer_scale
+      label: Motivation Barometer Scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: motivation_score_scale
+      label: Motivation Score Scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: motivation_score
+      label: Motivation Score
+      hint: null
+      type: number
+      options: []
+      required: false

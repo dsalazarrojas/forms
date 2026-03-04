@@ -1,0 +1,150 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Advanced Biology And Genetics Survey
+    pages:
+    - id: 1
+      name: section_acad
+      label: -- Academic Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Respondent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: current_educational_level
+      label: Current Educational Level
+      hint: null
+      type: select_one
+      options:
+      - Undergraduate
+      - Graduate Student
+      - PhD and Researcher
+      - Educator
+      - Industry Professional
+      required: true
+    - id: 4
+      name: primary_area_of_research_or_study
+      label: Primary Area of Research or Study
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_know
+      label: -- Genetics Knowledge --
+      hint: Rate your familiarity with the following topics
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: familiarity_with_crispr_cas9
+      label: Familiarity with CRISPR-Cas9
+      hint: Gene editing technology
+      type: select_one
+      options:
+      - Expert
+      - Proficient
+      - Familiar
+      - Unfamiliar
+      required: true
+    - id: 7
+      name: knowledge_of_epigenetics
+      label: Knowledge of Epigenetics
+      hint: null
+      type: select_one
+      options:
+      - Expert
+      - Proficient
+      - Familiar
+      - Unfamiliar
+      required: true
+    - id: 8
+      name: areas_of_interest
+      label: Areas of Interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Molecular Genetics
+      - Population Genetics
+      - Genomics
+      - Synthetic Biology
+      - Bioethics
+      required: false
+    - id: 9
+      name: section_att
+      label: -- Attitudes and Opinions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: attitude_toward_genetic_modification_in_agriculture
+      label: Attitude toward Genetic Modification in Agriculture
+      hint: GMOs and crop improvement
+      type: select_one
+      options:
+      - Strongly Support
+      - Support
+      - Neutral
+      - Oppose
+      - Strongly Oppose
+      required: true
+    - id: 11
+      name: importance_of_bioethics_in_curriculum
+      label: Importance of Bioethics in Curriculum
+      hint: Integration into STEM programs
+      type: select_one
+      options:
+      - Crucial
+      - Important
+      - Secondary
+      - Not Important
+      required: true
+    - id: 12
+      name: thoughts_on_future_of_genomics
+      label: Thoughts on Future of Genomics
+      hint: Where is the field heading in 10 years?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_train
+      label: -- Training Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: interest_in_advanced_lab_training
+      label: Interest in Advanced Lab Training
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: false
+    - id: 15
+      name: specific_lab_techniques_to_learn
+      label: Specific Lab Techniques to Learn
+      hint: null
+      type: text
+      options: []
+      required: false

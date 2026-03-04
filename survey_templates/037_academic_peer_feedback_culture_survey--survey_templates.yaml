@@ -1,0 +1,110 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Peer Feedback Culture Survey
+    pages:
+      - id: 1
+        name: section_background
+        label: -- Background Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: role
+        label: Role in institution
+        hint: Select the option that applies
+        type: select_one
+        options:
+          - Faculty
+          - Postdoc
+          - Graduate student
+          - Undergraduate student
+          - Staff
+        required: true
+      - id: 3
+        name: frequency_of_feedback
+        label: Frequency of peer feedback
+        hint: How often do you give or receive peer feedback
+        type: select_one
+        options:
+          - Weekly
+          - Monthly
+          - Per term
+          - Rarely
+        required: false
+      - id: 4
+        name: feedback_culture_rating
+        label: Rating of feedback culture
+        hint: Rate openness and constructiveness of feedback
+        type: select_one
+        options:
+          - Very positive
+          - Positive
+          - Neutral
+          - Negative
+          - Very negative
+        required: true
+      - id: 5
+        name: barriers_to_peer_feedback
+        label: Barriers to peer feedback
+        hint: Select barriers that limit feedback
+        type: select_multiple
+        options:
+          - Lack of time
+          - Fear of retaliation
+          - Lack of training
+          - Hierarchical culture
+        required: false
+      - id: 6
+        name: training_interests
+        label: Interest in feedback training
+        hint: Areas for professional development
+        type: select_multiple
+        options:
+          - Giving feedback
+          - Receiving feedback
+          - Facilitating peer review
+          - Conflict resolution
+        required: false
+      - id: 7
+        name: successful_practices
+        label: Successful feedback practices
+        hint: Describe practices that worked well
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: improvement_recommendations
+        label: Recommendations to improve culture
+        hint: Practical steps to enhance peer feedback
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: anonymity_preference
+        label: Preference for anonymity in feedback
+        hint: Do you prefer anonymous options
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: false
+      - id: 10
+        name: additional_comments
+        label: Additional comments
+        hint: Any other feedback on peer culture
+        type: text
+        options: []
+        required: false

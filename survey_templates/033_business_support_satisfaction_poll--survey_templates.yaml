@@ -1,0 +1,189 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Support Satisfaction Poll
+    pages:
+    - id: 1
+      name: business_owner_name
+      label: Business Owner Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Name of your business
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_type
+      label: Type of Business
+      hint: Industry or business sector
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: poll_date
+      label: Poll Date
+      hint: Date of this poll
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: support_usage
+      label: Have You Used Support Services
+      hint: Did you receive support
+      type: select_one
+      options:
+      - Yes, Recently
+      - Yes, Previously
+      - No
+      required: true
+    - id: 6
+      name: support_type
+      label: Type of Support Received
+      hint: What kind of support
+      type: select_multiple
+      options:
+      - Consulting Services
+      - Financial Advice
+      - Training or Workshops
+      - Marketing Support
+      - Technical Support
+      - Networking Events
+      - Other
+      required: false
+    - id: 7
+      name: support_accessibility
+      label: Accessibility of Support Services
+      hint: How easy was it to access support
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Adequate
+      - Difficult
+      - Very Difficult
+      required: true
+    - id: 8
+      name: support_quality
+      label: Quality of Support Services
+      hint: Quality of service received
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Poor
+      required: true
+    - id: 9
+      name: response_timeliness
+      label: Response Time and Timeliness
+      hint: How quickly was help provided
+      type: select_one
+      options:
+      - Very Timely
+      - Timely
+      - Acceptable
+      - Slow
+      - Very Slow
+      required: true
+    - id: 10
+      name: expertise_level
+      label: Expertise Level of Support Staff
+      hint: Were staff knowledgeable
+      type: select_one
+      options:
+      - Highly Knowledgeable
+      - Knowledgeable
+      - Adequate
+      - Limited Knowledge
+      - Lacking
+      required: true
+    - id: 11
+      name: problem_resolution
+      label: Problem Resolution
+      hint: Were issues resolved
+      type: select_one
+      options:
+      - Fully Resolved
+      - Mostly Resolved
+      - Partially Resolved
+      - Not Resolved
+      required: true
+    - id: 12
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: Overall satisfaction with support
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 13
+      name: business_impact
+      label: Impact on Business
+      hint: Did support help your business
+      type: select_one
+      options:
+      - Significant Positive Impact
+      - Positive Impact
+      - Some Impact
+      - Limited Impact
+      - No Impact
+      required: true
+    - id: 14
+      name: likelihood_future_use
+      label: Likelihood to Use Again
+      hint: Will you use support again
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 15
+      name: would_recommend
+      label: Would Recommend to Others
+      hint: Would you recommend this support
+      type: select_one
+      options:
+      - Strongly Recommend
+      - Recommend
+      - Neutral
+      - Do Not Recommend
+      - Strongly Oppose
+      required: true
+    - id: 16
+      name: improvement_suggestions
+      label: Suggestions for Improvement
+      hint: How can support services improve
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_support_needs
+      label: Additional Support Needs
+      hint: What other support would help
+      type: text
+      options: []
+      required: false

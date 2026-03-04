@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donor Survey
+    pages:
+    - id: 1
+      name: donor_survey
+      label: Donor Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donation_amount
+      label: donation_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: frequency_of_donation
+      label: frequency_of_donation
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 7
+      name: frequency_of_donation_other
+      label: frequency_of_donation_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: first_donation
+      label: first_donation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: last_donation
+      label: last_donation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: frequency_of_donation_other_description
+      label: frequency_of_donation_other_description
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Feedback Survey
+    pages:
+    - id: 1
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: product_rating_comments
+      label: Product Rating Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: feedback_message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: feedbacker_name
+      label: Feedbacker Name
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: feedbacker_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: product_name
+      label: Product Name (again)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: company_website
+      label: Company Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: product_price
+      label: Product Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: product_rating
+      label: Product Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: product_type
+      label: Product Type
+      hint: null
+      type: select_multiple
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      required: false
+    - id: 13
+      name: feedback_time
+      label: Feedback Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: feedback_date
+      label: Feedback Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: feedback_category
+      label: Feedback Category
+      hint: null
+      type: select_one
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: false
+    - id: 16
+      name: feedbacker_phone
+      label: Feedbacker Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: company_phone
+      label: Company Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: company_website_url
+      label: Company Website URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: product_description
+      label: Product Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: product_image_url
+      label: Product Image URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: product_image_alt
+      label: Product Image Alt
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: company_address
+      label: Company Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: company_city
+      label: Company City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: company_state
+      label: Company State
+      hint: null
+      type: select_one
+      options:
+      - State 1
+      - State 2
+      - State 3
+      required: false
+    - id: 25
+      name: company_postal_code
+      label: Company Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false

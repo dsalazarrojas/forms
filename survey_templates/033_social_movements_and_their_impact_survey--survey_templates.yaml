@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Movements And Their Impact Survey
+    pages:
+    - id: 1
+      name: awareness_question
+      label: awareness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: participation_question
+      label: participation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: outcomes_question
+      label: outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: movement_type
+      label: type
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Labor''}'
+      - '{''option'': ''Civil Rights''}'
+      - '{''option'': ''Environmental''}'
+      - '{''option'': ''Social Change''}'
+      - '{''option'': ''Other''}'
+      required: false
+    - id: 5
+      name: movement_name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: cause_area
+      label: cause_area
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Economic''}'
+      - '{''option'': ''Social''}'
+      - '{''option'': ''Environmental''}'
+      - '{''option'': ''Other''}'
+      required: false
+    - id: 7
+      name: movement_description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: impact_statement
+      label: statement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Positive''}'
+      - '{''option'': ''Negative''}'
+      - '{''option'': ''Neutral''}'
+      required: false
+    - id: 9
+      name: movement_participant
+      label: participant
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Men''}'
+      - '{''option'': ''Women''}'
+      - '{''option'': ''Both''}'
+      required: false
+    - id: 10
+      name: participant_number
+      label: number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: survey_response
+      label: response
+      hint: null
+      type: text
+      options: []
+      required: false

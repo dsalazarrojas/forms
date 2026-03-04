@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nonprofit Ad Sentiment Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: ad_views
+      label: Have you seen our ad on social media?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: ad_views_views_frequency
+      label: How often have you seen our ad on social media?
+      hint: null
+      type: select_multiple
+      options:
+      - Less than once a week
+      - 1-2 times a week
+      - 3-4 times a week
+      - 5 or more times a week
+      required: false
+    - id: 4
+      name: ad_views_views_sentiment
+      label: What was your overall sentiment when you saw the ad on social media?
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: true
+    - id: 5
+      name: ad_views_views_impact
+      label: How did our ad on social media affect you?
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: true
+    - id: 6
+      name: ad_views_views_donate
+      label: Did you feel inspired to donate after seeing the ad on social media?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: ad_views_views_share
+      label: Will you share our ad on social media?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: ad_views_views_interest
+      label: Are you interested in learning more about our nonprofit organization?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: contact_info
+      label: What is your name?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_info_email
+      label: What is your email address?
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: contact_info_phone
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contact_info_message
+      label: What would you like to say to us?
+      hint: null
+      type: text
+      options: []
+      required: false

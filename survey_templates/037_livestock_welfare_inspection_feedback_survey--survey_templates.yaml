@@ -1,0 +1,179 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Livestock Welfare Inspection Feedback Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: Livestock Welfare Inspection Feedback Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: facility_contact
+      label: Facility Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_visited
+      label: Date Visited
+      hint: MM/DD/YY MM/DD/YY
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: facility_type
+      label: Facility Type
+      hint: null
+      type: select_one
+      options:
+      - Livestock Farm
+      - Slaughterhouse
+      - Feedlot
+      - Breeding Center
+      required: true
+    - id: 9
+      name: animal_species
+      label: Animal Species
+      hint: null
+      type: select_multiple
+      options:
+      - Cattle
+      - Pigs
+      - Sheep
+      - Goats
+      - Horses
+      - Other
+      required: true
+    - id: 10
+      name: condition_of_housing
+      label: Condition of Housing
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 11
+      name: handling_and_training
+      label: Handling and Training
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 12
+      name: food_water
+      label: Food and Water
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 13
+      name: shelter_and_shade
+      label: Shelter and Shade
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: veterinary_care
+      label: Veterinary Care
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 15
+      name: animal_behavior
+      label: Animal Behavior
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 16
+      name: observation
+      label: Observation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: recommendation
+      label: Recommendation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: survey_complete
+      label: Survey Complete
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

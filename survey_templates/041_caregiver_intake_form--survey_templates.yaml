@@ -1,0 +1,246 @@
+inputSchema:
+  type: object
+  properties:
+    title: Caregiver Intake Form
+    pages:
+    - id: 1
+      name: caregiver_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Include area code
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: position_applying
+      label: Position or Role Applying For
+      hint: Job title or type of caregiving role
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: employment_type
+      label: Type of Employment Desired
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Temporary
+      - On-call or PRN
+      - Contract work
+      required: true
+    - id: 11
+      name: facility_type
+      label: Facility Type You Prefer
+      hint: Where would you like to work?
+      type: select_one
+      options:
+      - Nursing home
+      - Assisted living facility
+      - Adult day center
+      - Home care
+      - Hospital
+      - Hospice
+      - Other healthcare setting
+      required: true
+    - id: 12
+      name: education_level
+      label: Highest Level of Education
+      hint: null
+      type: select_one
+      options:
+      - High school diploma or GED
+      - Some college
+      - Associate degree
+      - Bachelor's degree
+      - Master's degree or higher
+      - Vocational training
+      - Other certification
+      required: true
+    - id: 13
+      name: nursing_education
+      label: Nursing or Healthcare Education
+      hint: Certifications, licenses, training
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: certification_status
+      label: Certifications or Licenses
+      hint: CNA, LPN, RN, other certifications
+      type: select_multiple
+      options:
+      - Certified Nursing Assistant - CNA
+      - Licensed Practical Nurse - LPN
+      - Registered Nurse - RN
+      - Nursing Home Administrator
+      - Home Health Aide - HHA
+      - Medication Aide
+      - CPR Certified
+      - First Aid Certified
+      - Other certification
+      - None
+      required: true
+    - id: 15
+      name: certification_dates
+      label: Certification Expiration Dates
+      hint: When do certifications expire?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: work_experience
+      label: Total Years of Healthcare Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: previous_employers
+      label: Previous Healthcare Employers
+      hint: List facilities and positions held
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: experience_types
+      label: Types of Care Experience
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Elderly or geriatric care
+      - Disability care
+      - Dementia or Alzheimer's care
+      - Pediatric care
+      - Acute hospital care
+      - Post-operative care
+      - Palliative or hospice care
+      - Mental health care
+      - Behavioral care
+      required: true
+    - id: 19
+      name: skills_strengths
+      label: Key Skills and Strengths
+      hint: What are you good at?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: language_skills
+      label: Languages Spoken
+      hint: List all fluent languages
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: shift_preference
+      label: Shift Preference
+      hint: Preferred work schedule
+      type: select_one
+      options:
+      - Day shift
+      - Evening or night shift
+      - Overnight shift
+      - Rotating shifts
+      - Flexible schedule
+      - No preference
+      required: true
+    - id: 22
+      name: availability_start
+      label: Availability Start Date
+      hint: When can you start?
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: references
+      label: Professional References
+      hint: Names and contact info of 2-3 references
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: background_check_consent
+      label: Consent to Background Check
+      hint: Required for healthcare positions
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 25
+      name: health_screening
+      label: Health Screening Acknowledgment
+      hint: Tuberculosis test and physical may be required
+      type: select_one
+      options:
+      - Yes, I understand
+      - Have questions about health screening
+      required: true
+    - id: 26
+      name: transportation
+      label: Reliable Transportation
+      hint: Do you have reliable transportation?
+      type: select_one
+      options:
+      - Yes - own vehicle
+      - Yes - public transportation
+      - Yes - other arrangement
+      - No - need transportation assistance
+      required: true
+    - id: 27
+      name: additional_information
+      label: Additional Information
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false

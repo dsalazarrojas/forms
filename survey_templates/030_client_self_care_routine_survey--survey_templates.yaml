@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Self Care Routine Survey
+    pages:
+    - id: 1
+      name: survey_intro
+      label: -- Self-Care and Wellness Assessment --
+      hint: Tell us about your current self-care practices
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: current_wellness_level
+      label: Current Overall Wellness Level
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Struggling
+      required: true
+    - id: 5
+      name: self_care_priority
+      label: How Important is Self-Care to You?
+      hint: null
+      type: select_one
+      options:
+      - Very important
+      - Important
+      - Somewhat important
+      - Not very important
+      - Not important
+      required: true
+    - id: 6
+      name: exercise_frequency
+      label: Exercise Frequency
+      hint: How often do you exercise?
+      type: select_one
+      options:
+      - Daily
+      - 4-5 times per week
+      - 2-3 times per week
+      - Once per week
+      - Less than once per week
+      - Never
+      required: true
+    - id: 7
+      name: exercise_type
+      label: Types of Exercise You Do
+      hint: null
+      type: select_multiple
+      options:
+      - Cardio
+      - Strength training
+      - Yoga
+      - Stretching
+      - Walking
+      - Sports
+      - Other
+      required: false
+    - id: 8
+      name: sleep_quality
+      label: Sleep Quality
+      hint: How would you rate your sleep?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 9
+      name: sleep_hours
+      label: Average Hours of Sleep Per Night
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: nutrition_habits
+      label: Nutrition and Eating Habits
+      hint: How would you rate your nutrition?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 11
+      name: water_intake
+      label: Daily Water Intake
+      hint: How much water do you drink daily?
+      type: select_one
+      options:
+      - 8+ glasses
+      - 6-8 glasses
+      - 4-6 glasses
+      - 2-4 glasses
+      - Less than 2 glasses
+      required: false
+    - id: 12
+      name: stress_management
+      label: Stress Management Practices
+      hint: null
+      type: select_multiple
+      options:
+      - Meditation
+      - Deep breathing
+      - Journaling
+      - Therapy
+      - Exercise
+      - Hobbies
+      - Social time
+      - None
+      required: false
+    - id: 13
+      name: mental_health
+      label: Mental Health and Well-being
+      hint: How would you rate your mental health?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 14
+      name: skincare_routine
+      label: Skincare Routine
+      hint: Do you have a regular skincare routine?
+      type: select_one
+      options:
+      - Comprehensive routine
+      - Basic routine
+      - Minimal routine
+      - No routine
+      required: false
+    - id: 15
+      name: self_care_challenges
+      label: Challenges to Self-Care
+      hint: What prevents you from practicing self-care?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: self_care_goals
+      label: Self-Care Goals
+      hint: What wellness goals would you like to achieve?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: support_needed
+      label: What Support Would Help You?
+      hint: What would help you improve your self-care?
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,48 @@
+inputSchema:
+  type: object
+  properties:
+    title: Early Childhood Education Feedback Form
+    pages:
+    - id: 1
+      name: parent_survey
+      label: Parents Survey
+      hint: null
+      type: select_multiple
+      options:
+      - Parent 1
+      - Parent 2
+      - Parent 3
+      required: false
+    - id: 2
+      name: child_survey
+      label: Child Survey
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: education_program
+      label: Education Program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_one
+      options:
+      - Preschool
+      - Daycare
+      - Elementary School
+      required: false
+    - id: 5
+      name: feedback
+      label: feedback
+      hint: Write your feedback in detail!
+      type: text
+      options: []
+      required: false

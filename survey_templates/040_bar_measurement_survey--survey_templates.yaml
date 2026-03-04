@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bar Measurement Survey
+    pages:
+    - id: 1
+      name: survey_date
+      label: Survey Date
+      hint: Date of measurement survey
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: establishment_name
+      label: Establishment Name
+      hint: Name of bar or restaurant
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: location_address
+      label: Location Address
+      hint: Full address of establishment
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: surveyor_name
+      label: Surveyor Name
+      hint: Person conducting measurements
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: surveyor_company
+      label: Surveyor Company
+      hint: Company or organization
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: bar_counter_length
+      label: Bar Counter Length (feet)
+      hint: Measure from end to end
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: bar_counter_depth
+      label: Bar Counter Depth (feet)
+      hint: Front to back measurement
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: bar_counter_height
+      label: Bar Counter Height (inches)
+      hint: Standard or custom height
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: bar_material
+      label: Bar Counter Material
+      hint: What is the bar made of?
+      type: select_one
+      options:
+      - Wood
+      - Granite
+      - Marble
+      - Stainless Steel
+      - Laminate
+      - Concrete
+      - Other
+      required: true
+    - id: 10
+      name: bar_condition
+      label: Bar Condition
+      hint: Current condition of bar
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Needs Replacement
+      required: true
+    - id: 11
+      name: backing_wall_height
+      label: Backing Wall Height (feet)
+      hint: Wall height behind bar
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: shelving_width
+      label: Shelving Width (feet)
+      hint: Width of shelving units
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: shelving_depth
+      label: Shelving Depth (inches)
+      hint: Depth of shelves
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: number_of_shelves
+      label: Number of Shelf Levels
+      hint: How many shelves?
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: beer_tap_locations
+      label: Beer Tap Locations
+      hint: How many taps and where?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: number_of_draft_lines
+      label: Number of Draft Beer Lines
+      hint: Total draft taps
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: sink_dimensions
+      label: Bar Sink Dimensions
+      hint: Length x width x depth
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: ice_bin_capacity
+      label: Ice Bin Capacity (pounds)
+      hint: How many pounds of ice?
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: floor_material
+      label: Floor Material
+      hint: What is the floor made of?
+      type: select_one
+      options:
+      - Tile
+      - Wood
+      - Concrete
+      - Laminate
+      - Vinyl
+      - Stone
+      - Other
+      required: false
+    - id: 20
+      name: flooring_condition
+      label: Floor Condition
+      hint: Current condition
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Needs Replacement
+      required: false
+    - id: 21
+      name: electrical_outlets
+      label: Number of Electrical Outlets
+      hint: Count of available outlets
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: plumbing_connections
+      label: Plumbing Connections
+      hint: Number and location
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: hvac_considerations
+      label: HVAC and Ventilation Notes
+      hint: Any special ventilation needs?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_measurements
+      label: Additional Measurements
+      hint: Any other dimensions to note?
+      type: text
+      options: []
+      required: false

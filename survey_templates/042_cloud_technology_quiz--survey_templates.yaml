@@ -1,0 +1,268 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cloud Technology Quiz
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: quiz_date
+      label: Quiz Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: section_intro
+      label: -- Cloud Technology Fundamentals Quiz --
+      hint: Answer the following questions about cloud computing
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: question_1
+      label: What does IaaS stand for
+      hint: null
+      type: select_one
+      options:
+      - Infrastructure as a Service
+      - Internet as a Service
+      - Integration as a Service
+      - Internal as a Service
+      required: true
+    - id: 6
+      name: question_2
+      label: Which cloud deployment model is most secure
+      hint: null
+      type: select_one
+      options:
+      - Public cloud
+      - Private cloud
+      - Hybrid cloud
+      - All equally secure
+      required: true
+    - id: 7
+      name: question_3
+      label: What is the primary benefit of cloud computing
+      hint: null
+      type: select_one
+      options:
+      - Scalability
+      - High cost
+      - Reduced internet speed
+      - Physical hardware control
+      required: true
+    - id: 8
+      name: question_4
+      label: Which of the following is a disadvantage of cloud computing
+      hint: null
+      type: select_one
+      options:
+      - Requires internet connection
+      - Limited scalability
+      - Lower cost than on-premises
+      - Easier maintenance
+      required: true
+    - id: 9
+      name: question_5
+      label: What does SaaS stand for
+      hint: null
+      type: select_one
+      options:
+      - Software as a Service
+      - System as a Service
+      - Security as a Service
+      - Storage as a Service
+      required: true
+    - id: 10
+      name: question_6
+      label: Which company pioneered cloud computing with EC2
+      hint: null
+      type: select_one
+      options:
+      - Amazon Web Services
+      - Microsoft
+      - Google
+      - IBM
+      required: true
+    - id: 11
+      name: question_7
+      label: What is a key characteristic of cloud storage
+      hint: null
+      type: select_one
+      options:
+      - Accessible from anywhere with internet
+      - Only accessible locally
+      - Requires physical servers
+      - Limited to single user
+      required: true
+    - id: 12
+      name: question_8
+      label: What does PaaS provide to developers
+      hint: null
+      type: select_one
+      options:
+      - Platform for application development
+      - Physical hardware
+      - Internet connection
+      - Desktop computers
+      required: true
+    - id: 13
+      name: question_9
+      label: What is the main purpose of cloud backup
+      hint: null
+      type: select_one
+      options:
+      - Data protection and recovery
+      - Increasing internet speed
+      - Reducing costs only
+      - Physical hardware storage
+      required: true
+    - id: 14
+      name: question_10
+      label: Which of the following is a cloud service provider
+      hint: null
+      type: select_one
+      options:
+      - AWS, Azure, or Google Cloud
+      - Dell
+      - HP
+      - Lenovo
+      required: true
+    - id: 15
+      name: question_11
+      label: What is auto-scaling in cloud computing
+      hint: null
+      type: select_one
+      options:
+      - Automatic increase or decrease of resources
+      - Changing software versions
+      - Upgrading hardware
+      - Manual resource adjustment
+      required: true
+    - id: 16
+      name: question_12
+      label: What is multi-tenancy in cloud computing
+      hint: null
+      type: select_one
+      options:
+      - Multiple customers share same infrastructure
+      - Each customer has separate infrastructure
+      - Sharing files between users
+      - Cloud provider model
+      required: true
+    - id: 17
+      name: question_13
+      label: Which cloud model offers most control to customer
+      hint: null
+      type: select_one
+      options:
+      - IaaS
+      - PaaS
+      - SaaS
+      - All offer same control
+      required: true
+    - id: 18
+      name: question_14
+      label: What is a virtual machine in cloud
+      hint: null
+      type: select_one
+      options:
+      - Software-based computer running on cloud server
+      - Physical computer
+      - Internet browser
+      - Email service
+      required: true
+    - id: 19
+      name: question_15
+      label: What does CDN stand for in cloud
+      hint: null
+      type: select_one
+      options:
+      - Content Delivery Network
+      - Cloud Database Network
+      - Customer Data Network
+      - Computer Domain Network
+      required: true
+    - id: 20
+      name: additional_feedback
+      label: Any Questions You Found Difficult
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: quiz_difficulty
+      label: Overall Quiz Difficulty
+      hint: null
+      type: select_one
+      options:
+      - Too easy
+      - Easy
+      - Just right
+      - Difficult
+      - Too difficult
+      required: true
+    - id: 22
+      name: cloud_experience
+      label: How would you rate your cloud knowledge
+      hint: null
+      type: select_one
+      options:
+      - Expert
+      - Advanced
+      - Intermediate
+      - Beginner
+      - No knowledge
+      required: true
+    - id: 23
+      name: interest_cloud
+      label: Interest in learning more about cloud
+      hint: null
+      type: select_one
+      options:
+      - Very interested
+      - Interested
+      - Neutral
+      - Not interested
+      required: true
+    - id: 24
+      name: quiz_feedback
+      label: Feedback on this quiz
+      hint: Any suggestions for improvement
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: contact_for_results
+      label: May we contact you with your results
+      hint: null
+      type: select_one
+      options:
+      - Yes, email results
+      - Yes, by phone
+      - No, do not contact
+      required: false

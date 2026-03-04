@@ -1,0 +1,41 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transport Service Route Satisfaction Poll
+    pages:
+    - id: 1
+      name: page_1
+      label: Rider Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: page_2
+      label: Route Details
+      hint: null
+      type: select_multiple
+      options:
+      - Route 1
+      - Route 2
+      - Route 3
+      - Route 4
+      - Route 5
+      required: false
+    - id: 3
+      name: page_3
+      label: Route Performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: page_4
+      label: Frequency of Use
+      hint: null
+      type: select_one
+      options:
+      - Everyday
+      - Weekly
+      - Rarely
+      required: false

@@ -1,0 +1,245 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Staff Satisfaction Assessment
+    pages:
+    - id: 1
+      name: section_respondent_info
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: staff_name
+      label: Staff Member Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: position
+      label: Position
+      hint: Your role on the coaching staff
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: tenure
+      label: Years with Organization
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: section_role_satisfaction
+      label: -- Role and Responsibilities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: role_satisfaction
+      label: Satisfaction with Your Role
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 8
+      name: role_clarity
+      label: Clarity of Your Role and Responsibilities
+      hint: null
+      type: select_one
+      options:
+      - Very clear
+      - Clear
+      - Somewhat clear
+      - Unclear
+      - Very unclear
+      required: true
+    - id: 9
+      name: workload
+      label: Manageable Workload
+      hint: Is your workload reasonable?
+      type: select_one
+      options:
+      - Very manageable
+      - Manageable
+      - Somewhat manageable
+      - Unmanageable
+      - Very unmanageable
+      required: true
+    - id: 10
+      name: section_coaching_environment
+      label: -- Coaching Environment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: team_collaboration
+      label: Team Collaboration
+      hint: Do you work well with the team?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 12
+      name: management_support
+      label: Support from Management
+      hint: Do you feel supported?
+      type: select_one
+      options:
+      - Excellent support
+      - Good support
+      - Adequate support
+      - Limited support
+      - No support
+      required: true
+    - id: 13
+      name: resources_available
+      label: Available Resources and Equipment
+      hint: Are you well equipped?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Adequate
+      - Limited
+      - Inadequate
+      required: true
+    - id: 14
+      name: section_development
+      label: -- Professional Development --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: training_opportunities
+      label: Training and Development Opportunities
+      hint: Are there growth opportunities?
+      type: select_one
+      options:
+      - Excellent opportunities
+      - Good opportunities
+      - Some opportunities
+      - Limited opportunities
+      - No opportunities
+      required: true
+    - id: 16
+      name: professional_growth
+      label: Opportunities for Professional Growth
+      hint: null
+      type: select_one
+      options:
+      - Many opportunities
+      - Several opportunities
+      - Some opportunities
+      - Few opportunities
+      - No opportunities
+      required: true
+    - id: 17
+      name: section_compensation
+      label: -- Compensation and Benefits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: compensation_satisfaction
+      label: Satisfaction with Compensation
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 19
+      name: benefits_satisfaction
+      label: Satisfaction with Benefits
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 20
+      name: section_leadership
+      label: -- Leadership --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: head_coach_leadership
+      label: Head Coach Leadership
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 22
+      name: communication_with_leadership
+      label: Communication with Leadership
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 23
+      name: section_feedback
+      label: -- Overall Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: would_recommend
+      label: Would you recommend this organization as a place to work?
+      hint: null
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Neutral
+      - Probably no
+      - Definitely no
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments or Suggestions
+      hint: Any feedback or concerns?
+      type: text
+      options: []
+      required: false

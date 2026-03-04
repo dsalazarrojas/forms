@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music Festival Headliner Voting
+    pages:
+    - id: 1
+      name: music_festival_headliner_voting_form
+      label: Headliner Voting Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: headliner_selection
+      label: Who is your favorite headliner?
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 3
+      name: music_festival_experience
+      label: How would you rate the music festival experience?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: headliner_recommendation
+      label: Who would you recommend as headliner?
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 5
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: music_festival_interests
+      label: What interests you about the music festival?
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 9
+      name: music_festival_frequency
+      label: How often do you attend music festivals?
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false

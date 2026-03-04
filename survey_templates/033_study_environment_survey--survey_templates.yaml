@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Study Environment Survey
+    pages:
+    - id: 1
+      name: study_environment_settings
+      label: Study Settings
+      hint: null
+      type: select_multiple
+      options:
+      - '{}'
+      - Other
+      required: false
+    - id: 2
+      name: satisfaction_level
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: student_resources
+      label: Student Resources
+      hint: null
+      type: select_one
+      options:
+      - '{}'
+      - Other
+      required: false
+    - id: 4
+      name: time_spent_learning
+      label: Time Spent Learning
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: student_satisfaction
+      label: Student Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: learning_outcome
+      label: Learning Outcome
+      hint: null
+      type: select_multiple
+      options:
+      - '{}'
+      - Other
+      required: false
+    - id: 7
+      name: student_resources_fulfillment
+      label: Student Resources Fulfillment
+      hint: null
+      type: select_multiple
+      options:
+      - '{}'
+      - Other
+      required: false
+    - id: 8
+      name: instructor_support
+      label: Instructor Support
+      hint: null
+      type: select_multiple
+      options:
+      - '{}'
+      - Other
+      required: false
+    - id: 9
+      name: classroom_environment
+      label: Classroom Environment
+      hint: null
+      type: select_one
+      options:
+      - '{}'
+      - Other
+      required: false
+    - id: 10
+      name: study_environment_satisfaction
+      label: Study Environment Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: student_fulfillment
+      label: Student Fulfillment
+      hint: null
+      type: select_multiple
+      options:
+      - '{}'
+      - Other
+      required: false

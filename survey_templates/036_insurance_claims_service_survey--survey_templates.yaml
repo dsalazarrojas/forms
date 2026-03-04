@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Claims Service Survey
+    pages:
+    - id: 1
+      name: intro
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: introduction
+      label: what_do_you_have_to_say
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: satisfaction
+      label: how_satisfied_with_outcome
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''very_satisfied''}'
+      - '{''label'': ''somewhat_satisfied''}'
+      - '{''label'': ''not_satisfied''}'
+      - '{''label'': ''not_at_all_satisfied''}'
+      required: false
+    - id: 4
+      name: delay
+      label: were_delays_experienced
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 5
+      name: delay_reason
+      label: if_your_claim_was_delayed
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''communication''}'
+      - '{''label'': ''unclear_about_process''}'
+      - '{''label'': ''unclear_about_outcome''}'
+      - '{''label'': ''other''}'
+      required: false
+    - id: 6
+      name: communication
+      label: was_communication_effective
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''very_effective''}'
+      - '{''label'': ''somewhat_effective''}'
+      - '{''label'': ''not_effective''}'
+      - '{''label'': ''not_at_all_effective''}'
+      required: false
+    - id: 7
+      name: communication_reason
+      label: if_communication_was_not_effective
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: resolution
+      label: how_well_was_your_claim_resolved
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''very_satisfied''}'
+      - '{''label'': ''somewhat_satisfied''}'
+      - '{''label'': ''not_satisfied''}'
+      - '{''label'': ''not_at_all_satisfied''}'
+      required: false
+    - id: 9
+      name: resolution_reason
+      label: if_your_claim_was_not_resolved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: communication_method
+      label: what_would_you_prefer_as_a_communication_method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''call''}'
+      - '{''label'': ''email''}'
+      - '{''label'': ''message''}'
+      - '{''label'': ''phone''}'
+      - '{''label'': ''other''}'
+      required: false
+    - id: 11
+      name: email
+      label: do_you_wish_to_provide_your_email
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 12
+      name: email_addr
+      label: your_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: do_you_wish_to_provide_your_phone
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 14
+      name: phone_num
+      label: your_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: other
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: follow_up
+      label: do_you_wish_to_provide_a_follow_up
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 17
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_time
+      label: follow_up_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_reason
+      label: what_would_you_like_to_follow_up_for
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_method
+      label: what_method_would_you_like_to_follow_up
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''call''}'
+      - '{''label'': ''email''}'
+      - '{''label'': ''message''}'
+      - '{''label'': ''phone''}'
+      - '{''label'': ''other''}'
+      required: false
+    - id: 21
+      name: follow_up_message
+      label: follow_up_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: overall
+      label: overall
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''very_satisfied''}'
+      - '{''label'': ''somewhat_satisfied''}'
+      - '{''label'': ''not_satisfied''}'
+      - '{''label'': ''not_at_all_satisfied''}'
+      required: false
+    - id: 23
+      name: overall_reason
+      label: if_your_overall_satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false

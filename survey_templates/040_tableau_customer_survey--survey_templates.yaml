@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tableau Customer Survey
+    pages:
+    - id: 1
+      name: first_page
+      label: first page
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_info
+      label: contact info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_type
+      label: customer type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: customer_type_other
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_since
+      label: since
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: customer_since_month
+      label: since month
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: customer_since_year
+      label: since year
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: customer_support
+      label: customer support
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

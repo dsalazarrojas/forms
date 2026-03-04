@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Work Experience Survey Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: what_was_the_reason
+      label: what was the reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_title
+      label: job title
+      hint: null
+      type: select_one
+      options:
+      - Software Engineer
+      - Data Scientist
+      - Project Manager
+      - Marketing Manager
+      - Sales Manager
+      - Operations Manager
+      - Finance Manager
+      - Other
+      required: true
+    - id: 4
+      name: how_long_did_you_work
+      label: how long did you work
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: what_was_the_company_name
+      label: what was the company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: what_was_the_work_arrangement
+      label: what was the work arrangement
+      hint: null
+      type: select_multiple
+      options:
+      - Full-time
+      - Part-time
+      - Freelance
+      - Remote
+      - On-site
+      - Flexible
+      required: true
+    - id: 7
+      name: rate_your_experience
+      label: rate your experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: why_did_you_choose
+      label: why did you choose
+      hint: null
+      type: select_one
+      options:
+      - Flexibility
+      - Better work-life balance
+      - Reduced commuting time
+      - Increased productivity
+      - Improved relationships
+      - Other
+      required: true
+    - id: 9
+      name: how_did_you_feel
+      label: how did you feel
+      hint: null
+      type: select_one
+      options:
+      - Focused
+      - Energized
+      - Motivated
+      - Calm
+      - Bored
+      - Stressed
+      - Other
+      required: true
+    - id: 10
+      name: would_you_recommend
+      label: would you recommend
+      hint: null
+      type: select_one
+      options:
+      - Strongly agree
+      - Somewhat agree
+      - Neutral
+      - Somewhat disagree
+      - Strongly disagree
+      required: true
+    - id: 11
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: job_satisfaction
+      label: job satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: would_you_like_to_continue
+      label: would you like to continue
+      hint: null
+      type: select_one
+      options:
+      - Strongly agree
+      - Somewhat agree
+      - Neutral
+      - Somewhat disagree
+      - Strongly disagree
+      required: false
+    - id: 14
+      name: why_didnt_you
+      label: why didnt you
+      hint: null
+      type: select_one
+      options:
+      - Lack of job security
+      - No opportunities for advancement
+      - Limited career growth
+      - Other
+      required: false
+    - id: 15
+      name: how_did_it_affect
+      label: how did it affect
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: how_many_hours
+      label: how many hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: how_long_did_you_commute
+      label: how long did you commute
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: what_didnt_work
+      label: what didnt work
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: would_you
+      label: would you
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - No opinion
+      required: false
+    - id: 20
+      name: prophets_22
+      label: None
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: what_was_your_experience
+      label: what was your experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: job_satisfaction
+      label: job satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: would_you_like_to_continue
+      label: would you like to continue
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: additional_comments_2
+      label: additional comments 2
+      hint: null
+      type: note
+      options: []
+      required: false

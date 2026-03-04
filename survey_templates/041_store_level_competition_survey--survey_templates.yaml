@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Store Level Competition Survey
+    pages:
+    - id: 1
+      name: page_1
+      label: Store Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: store_number
+      label: Store Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: store_name
+      label: Store Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: competitor_awareness
+      label: Competitor Awareness
+      hint: Check your competitors.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: competitor_distance
+      label: Competitor Distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: store_type
+      label: Store Type
+      hint: null
+      type: select_one
+      options:
+      - Physical
+      - Online
+      required: false
+    - id: 7
+      name: price_point
+      label: Price Point
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 8
+      name: market_analysis
+      label: Market Analysis
+      hint: Please provide a description of your store's market prophets.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: competitor_analysis
+      label: Competitor Analysis
+      hint: Please provide a description of competitors' market analysis.
+      type: select_multiple
+      options:
+      - Price
+      - Quality
+      - Product Assortment
+      required: false
+    - id: 10
+      name: action_items
+      label: Action Items
+      hint: List actions to take based on the competitor analysis.
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: product_lineup
+      label: Product Lineup
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: competitor_store
+      label: Competitor Store
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: store_experience
+      label: Store Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: competitor_analysis_2
+      label: Competitor Analysis 2
+      hint: Please provide a description of competitors' market analysis.
+      type: select_multiple
+      options:
+      - Price
+      - Quality
+      - Product Assortment
+      required: false
+    - id: 16
+      name: action_items_2
+      label: Action Items 2
+      hint: List actions to take based on the competitor analysis.
+      type: text
+      options: []
+      required: false

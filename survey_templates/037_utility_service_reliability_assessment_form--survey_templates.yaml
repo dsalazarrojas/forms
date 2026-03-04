@@ -1,0 +1,104 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Utility Service Reliability Assessment Form
+    pages:
+    - id: 1
+      name: service_reliability
+      label: Service Reliability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: communication
+      label: Communication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_support
+      label: Customer Support
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reliability_of_service
+      label: Reliability of Service
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': 5, ''value'': 5}'
+      - '{''label'': 4, ''value'': 4}'
+      - '{''label'': 3, ''value'': 3}'
+      - '{''label'': 2, ''value'': 2}'
+      - '{''label'': 1, ''value'': 1}'
+      - '{''label'': None, ''value'': 0}'
+      required: true
+    - id: 6
+      name: frequency_of_outage
+      label: Frequency of Outage
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Daily'', ''value'': ''daily''}'
+      - '{''label'': ''Weekly'', ''value'': ''weekly''}'
+      - '{''label'': ''Monthly'', ''value'': ''monthly''}'
+      - '{''label'': ''Never'', ''value'': ''never''}'
+      required: true
+    - id: 7
+      name: cause_of_outage
+      label: Cause of Outage
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''High winds'', ''value'': ''high_winds''}'
+      - '{''label'': ''Lightning'', ''value'': ''lightning''}'
+      - '{''label'': ''Other (please specify)'', ''value'': ''other''}'
+      required: true
+    - id: 8
+      name: service_repairs
+      label: Service Repairs
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Completed'', ''value'': ''completed''}'
+      - '{''label'': ''Not completed'', ''value'': ''not_completed''}'
+      required: true
+    - id: 9
+      name: service_repairs_frequency
+      label: Frequency of Repairs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''1-5'', ''value'': ''1-5''}'
+      - '{''label'': ''6-10'', ''value'': ''6-10''}'
+      - '{''label'': ''More than 5'', ''value'': ''more_than_5''}'
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

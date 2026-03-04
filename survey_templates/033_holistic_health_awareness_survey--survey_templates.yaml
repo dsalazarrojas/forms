@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holistic Health Awareness Survey
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: well_being
+      label: Well-being
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Good''}'
+      - '{''option'': ''Fair''}'
+      - '{''option'': ''Poor''}'
+      required: false
+    - id: 3
+      name: holistic_practices
+      label: Holistic Practices
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Yoga''}'
+      - '{''option'': ''Meditation''}'
+      - '{''option'': ''Mindfulness''}'
+      required: false
+    - id: 4
+      name: stress_levels
+      label: Stress Levels
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''High''}'
+      - '{''option'': ''Medium''}'
+      - '{''option'': ''Low''}'
+      required: false
+    - id: 5
+      name: stressors
+      label: Stressors
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Financial''}'
+      - '{''option'': ''Family''}'
+      - '{''option'': ''Work''}'
+      - '{''option'': ''Health''}'
+      required: false
+    - id: 6
+      name: demographics
+      label: Demographics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: ethnicity
+      label: Ethnicity
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''White''}'
+      - '{''option'': ''Black''}'
+      - '{''option'': ''Other''}'
+      required: false
+    - id: 11
+      name: education
+      label: Education
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''High School''}'
+      - '{''option'': ''Some College''}'
+      - '{''option'': "Bachelor''s"}'
+      - '{''option'': "Master''s"}'
+      - '{''option'': ''Doctoral''}'
+      required: false
+    - id: 12
+      name: occupation
+      label: Occupation
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Student''}'
+      - '{''option'': ''Working''}'
+      - '{''option'': ''Unemployed''}'
+      - '{''option'': ''Other''}'
+      required: false
+    - id: 13
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Full-Time''}'
+      - '{''option'': ''Part-Time''}'
+      - '{''option'': ''Unemployed''}'
+      required: false
+    - id: 14
+      name: household_income
+      label: Household Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: annual_income
+      label: Annual Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: family_status
+      label: Family Status
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Married''}'
+      - '{''option'': ''Single''}'
+      - '{''option'': ''Divorced''}'
+      - '{''option'': ''Widowed''}'
+      required: false
+    - id: 17
+      name: health_coverage
+      label: Health Coverage
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Employer''}'
+      - '{''option'': ''Private Insurance''}'
+      - '{''option'': ''Medicaid''}'
+      - '{''option'': ''Medicare''}'
+      required: false
+    - id: 18
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Diabetes''}'
+      - '{''option'': ''High Blood Pressure''}'
+      - '{''option'': ''High Cholesterol''}'
+      required: false
+    - id: 19
+      name: medication
+      label: Medication
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': True}'
+      - '{''option'': False}'
+      required: false
+    - id: 20
+      name: exercise
+      label: Exercise
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': True}'
+      - '{''option'': False}'
+      required: false
+    - id: 21
+      name: nutrition
+      label: Nutrition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': True}'
+      - '{''option'': False}'
+      required: false
+    - id: 22
+      name: sleep
+      label: Sleep
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''7-8 Hours''}'
+      - '{''option'': ''8-10 Hours''}'
+      - '{''option'': ''10 Hours or more''}'
+      required: false
+    - id: 23
+      name: social_media
+      label: Social Media
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': True}'
+      - '{''option'': False}'
+      required: false
+    - id: 24
+      name: mental_health
+      label: Mental Health
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': True}'
+      - '{''option'': False}'
+      required: false

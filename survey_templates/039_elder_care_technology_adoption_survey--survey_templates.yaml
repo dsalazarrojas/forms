@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Elder Care Technology Adoption Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: survey_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: demographic_age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: demographic_gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: demographic_occupation
+      label: occupation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: technology_use
+      label: technology_use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: technology_type
+      label: technology_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: benefit
+      label: benefit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: barrier
+      label: barrier
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: recommendation
+      label: recommendation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: suggestion
+      label: suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: survey_completion
+      label: survey_completion
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: email_confirmation
+      label: email_confirmation
+      hint: null
+      type: email
+      options: []
+      required: false

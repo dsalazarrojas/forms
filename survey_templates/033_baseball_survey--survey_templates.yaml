@@ -1,0 +1,281 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Baseball Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: age_group
+        label: Age Group
+        hint: Select your age range
+        type: select_one
+        options:
+          - Under 18
+          - 18 to 24
+          - 25 to 34
+          - 35 to 44
+          - 45 to 54
+          - 55 to 64
+          - 65 or older
+        required: true
+      - id: 3
+        name: gender
+        label: Gender
+        hint: Select option
+        type: select_one
+        options:
+          - Male
+          - Female
+          - Other
+          - Prefer not to say
+        required: true
+      - id: 4
+        name: location
+        label: Location
+        hint: City and state
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: baseball_involvement
+        label: How Are You Involved in Baseball
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Current player
+          - Former player
+          - Coach
+          - Parent of player
+          - Fan only
+          - Umpire or official
+          - Administrator
+          - Other
+        required: true
+      - id: 6
+        name: years_playing
+        label: Years Playing Baseball
+        hint: If applicable
+        type: select_one
+        options:
+          - Never played
+          - 1 to 3 years
+          - 4 to 7 years
+          - 8 to 12 years
+          - More than 12 years
+        required: false
+      - id: 7
+        name: favorite_mlb_team
+        label: Favorite MLB Team
+        hint: Who do you root for
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: games_attended_per_year
+        label: Games Attended Per Year
+        hint: Approximate number
+        type: select_one
+        options:
+          - None
+          - 1 to 5 games
+          - 6 to 15 games
+          - 16 to 30 games
+          - More than 30 games
+        required: true
+      - id: 9
+        name: watch_games
+        label: How Do You Watch Games
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Live at stadium
+          - TV broadcast
+          - Streaming service
+          - Highlights online
+          - Do not watch
+        required: true
+      - id: 10
+        name: favorite_aspect
+        label: Favorite Aspect of Baseball
+        hint: What do you love most
+        type: select_one
+        options:
+          - Hitting
+          - Pitching
+          - Fielding
+          - Strategy
+          - History and tradition
+          - Family experience
+          - Atmosphere
+        required: true
+      - id: 11
+        name: youth_baseball_opinion
+        label: Opinion on Youth Baseball
+        hint: How important is youth baseball
+        type: select_one
+        options:
+          - Very important
+          - Somewhat important
+          - Neutral
+          - Not very important
+          - Not important at all
+        required: true
+      - id: 12
+        name: youth_baseball_issues
+        label: Issues Facing Youth Baseball
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Cost too high
+          - Time commitment
+          - Lack of facilities
+          - Competition from other sports
+          - Competition from electronics
+          - Poor coaching
+          - Too competitive
+          - Not enough fun
+        required: true
+      - id: 13
+        name: mlb_pace_of_game
+        label: Opinion on MLB Pace of Game
+        hint: Is it too slow
+        type: select_one
+        options:
+          - Too slow
+          - About right
+          - Could be faster
+          - Perfect as is
+        required: true
+      - id: 14
+        name: rule_changes_support
+        label: Support for Rule Changes
+        hint: Do you support recent changes
+        type: select_one
+        options:
+          - Strongly support
+          - Somewhat support
+          - Neutral
+          - Somewhat oppose
+          - Strongly oppose
+        required: true
+      - id: 15
+        name: favorite_rule_change
+        label: Favorite Rule Change
+        hint: Which do you like best
+        type: select_one
+        options:
+          - Pitch clock
+          - Larger bases
+          - Shift restrictions
+          - Extra innings runner
+          - None
+        required: false
+      - id: 16
+        name: all_star_game_opinion
+        label: Opinion on All Star Game
+        hint: Is it still exciting
+        type: select_one
+        options:
+          - Very exciting
+          - Somewhat exciting
+          - Neutral
+          - Not exciting
+          - Do not watch
+        required: true
+      - id: 17
+        name: hall_of_fame_opinion
+        label: Opinion on Hall of Fame
+        hint: Is selection process fair
+        type: select_one
+        options:
+          - Very fair
+          - Somewhat fair
+          - Neutral
+          - Somewhat unfair
+          - Very unfair
+        required: false
+      - id: 18
+        name: steroid_era_players
+        label: Steroid Era Players in Hall of Fame
+        hint: Should they be included
+        type: select_one
+        options:
+          - Yes, all eligible
+          - Yes, with notation
+          - No, never
+          - Not sure
+        required: true
+      - id: 19
+        name: baseball_popularity
+        label: Future of Baseball Popularity
+        hint: Will baseball grow or decline
+        type: select_one
+        options:
+          - Will grow significantly
+          - Will grow slightly
+          - Will stay the same
+          - Will decline slightly
+          - Will decline significantly
+        required: true
+      - id: 20
+        name: international_growth
+        label: International Growth Importance
+        hint: How important is global expansion
+        type: select_one
+        options:
+          - Very important
+          - Somewhat important
+          - Neutral
+          - Not very important
+          - Not important
+        required: true
+      - id: 21
+        name: favorite_baseball_memory
+        label: Favorite Baseball Memory
+        hint: Share a special moment
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: improvements_suggested
+        label: Suggested Improvements
+        hint: How can baseball improve
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: would_recommend
+        label: Would Recommend Baseball to Others
+        hint: Would you suggest baseball
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Not sure
+          - Probably no
+          - Definitely no
+        required: true
+      - id: 24
+        name: additional_comments
+        label: Additional Comments
+        hint: Anything else to share
+        type: text
+        options: []
+        required: false

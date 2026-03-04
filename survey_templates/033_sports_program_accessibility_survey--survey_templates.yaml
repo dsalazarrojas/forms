@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Program Accessibility Survey
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_gender
+      label: Participant Gender
+      hint: null
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Non-Binary
+      required: false
+    - id: 6
+      name: participant_age
+      label: Participant Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: participant_experience
+      label: Participant Experience
+      hint: null
+      type: select_multiple
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 8
+      name: participant_contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In-Person
+      required: false
+    - id: 9
+      name: accessibility_features
+      label: Accessibility Features
+      hint: null
+      type: select_multiple
+      options:
+      - Wheelchair Accessibility
+      - Sign Language Interpretation
+      - Large Print or Audio Materials
+      - Accessible Parking
+      required: false
+    - id: 10
+      name: feedback_on_program
+      label: Feedback on Program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: accessibility_barriers
+      label: Accessibility Barriers
+      hint: null
+      type: select_multiple
+      options:
+      - Physical Barriers
+      - Communication Barriers
+      - Social Barriers
+      - Cultural Barriers
+      required: false
+    - id: 13
+      name: suggestions_for_improvement
+      label: Suggestions for Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: staff_signature
+      label: Staff Signature
+      hint: null
+      type: note
+      options: []
+      required: false

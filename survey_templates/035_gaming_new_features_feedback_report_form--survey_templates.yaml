@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gaming New Features Feedback Report Form
+    pages:
+    - id: 1
+      name: game_title
+      label: Game Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feature_name
+      label: Feature Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - New Features
+      - Gameplay
+      - Storyline
+      - Gameplay Mechanics
+      - Sound
+      - Graphics
+      required: false
+    - id: 6
+      name: comment
+      label: Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

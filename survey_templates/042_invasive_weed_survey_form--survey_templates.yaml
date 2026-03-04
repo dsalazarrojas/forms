@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Invasive Weed Survey Form
+    pages:
+    - id: 1
+      name: survey_location
+      label: Survey Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sighting_date
+      label: Sighting Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: sighting_time
+      label: Sighting Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: species_id
+      label: Species ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: common_name
+      label: Common Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: scientific_name
+      label: Scientific Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: sighting_latitude
+      label: Sighting Latitude
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: sighting_longitude
+      label: Sighting Longitude
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: sighting_elevation
+      label: Sighting Elevation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: sighting_description
+      label: Sighting Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: photo_or_drawing
+      label: Photo or Drawing
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_status
+      label: Follow Up Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Resolved
+      - Not Needed
+      required: true
+    - id: 13
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_comment
+      label: Follow Up Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_contact
+      label: Follow Up Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_priority
+      label: Follow Up Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 17
+      name: follow_up_notes
+      label: Follow Up Notes
+      hint: null
+      type: text
+      options: []
+      required: false

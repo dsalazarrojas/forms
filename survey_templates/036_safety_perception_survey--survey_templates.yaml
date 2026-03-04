@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: safety_perception_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: how_safe
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: question_2
+      label: feel_safe
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''very_safe''}'
+      - '{''label'': ''somewhat_safe''}'
+      - '{''label'': ''neutral''}'
+      - '{''label'': ''somewhat_uneasy''}'
+      - '{''label'': ''very_uneasy''}'
+      required: false
+    - id: 4
+      name: question_3
+      label: feel_often
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''very_frequently''}'
+      - '{''label'': ''sometimes''}'
+      - '{''label'': ''rarely''}'
+      - '{''label'': ''never''}'
+      required: true
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: safety_measures
+      label: safety_measures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: concerns
+      label: concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 9
+      name: comments_follow_up
+      label: comments_follow_up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_message
+      label: follow_up_message
+      hint: null
+      type: text
+      options: []
+      required: false

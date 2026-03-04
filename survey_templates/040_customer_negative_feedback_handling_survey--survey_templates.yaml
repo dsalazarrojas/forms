@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Negative Feedback Handling Survey
+    pages:
+    - id: 1
+      name: customer_feedback_received
+      label: Customer Feedback Received
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: feedback_type
+      label: Feedback Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: issue_area
+      label: Issue Area
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: resolution_action_plan
+      label: Resolution Action Plan
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: followup
+      label: Follow-up
+      hint: null
+      type: time
+      options: []
+      required: false

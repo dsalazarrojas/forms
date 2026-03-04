@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness App Workout Plan Effectiveness Report
+    pages:
+    - id: 1
+      name: user_workout_feedback
+      label: User Workout Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_progress_insights
+      label: User Progress Insights
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: workout_plan_type
+      label: Workout Plan Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: exercise_selection
+      label: Exercises Selected
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: feedback_rating
+      label: Feedback Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: feedback_comments
+      label: Feedback Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: progress_bar
+      label: Progress Bar
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: user_workout_progress
+      label: User Workout Progress
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: trainer_comments
+      label: Trainer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false

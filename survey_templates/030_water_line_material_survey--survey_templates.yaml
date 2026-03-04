@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Water Line Material Survey
+    pages:
+    - id: 1
+      name: water_line_material_survey
+      label: Water Line Material Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: installation_year
+      label: Installation Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: service_line_condition
+      label: Service Line Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''New''}'
+      - '{''value'': ''Existing''}'
+      - '{''value'': ''Unknown''}'
+      required: false
+    - id: 4
+      name: material_type
+      label: Material Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''PVC''}'
+      - '{''value'': ''Copper''}'
+      - '{''value'': ''Galvanized''}'
+      - '{''value'': ''Ductile''}'
+      required: false
+    - id: 5
+      name: diameter_size_inches
+      label: Diameter Size (inches)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: diameter_size_mm
+      label: Diameter Size (mm)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: service_line_materials
+      label: Service Line Materials
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''PVC''}'
+      - '{''value'': ''Copper''}'
+      - '{''value'': ''Galvanized''}'
+      - '{''value'': ''Ductile''}'
+      required: false
+    - id: 8
+      name: installation_date
+      label: Installation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: installation_date_year
+      label: Installation Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: installation_date_month
+      label: Installation Month
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''January''}'
+      - '{''value'': ''February''}'
+      - '{''value'': ''March''}'
+      - '{''value'': ''April''}'
+      - '{''value'': ''May''}'
+      - '{''value'': ''June''}'
+      - '{''value'': ''July''}'
+      - '{''value'': ''August''}'
+      - '{''value'': ''September''}'
+      - '{''value'': ''October''}'
+      - '{''value'': ''November''}'
+      - '{''value'': ''December''}'
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wine Fermentation Data Collection
+    pages:
+    - id: 1
+      name: wine_fermentation_data_collection
+      label: Wine Fermentation Data Collection Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: winery_name
+      label: winery_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vintage
+      label: vintage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: wine_style
+      label: wine style
+      hint: null
+      type: select_one
+      options:
+      - Chardonnay
+      - Merlot
+      - Cabernet
+      - Pinot
+      - Other
+      required: false
+    - id: 5
+      name: fermentation_temperature
+      label: fermentation_temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: fermentation_duration
+      label: fermentation duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: yeast_used
+      label: yeast used
+      hint: null
+      type: select_multiple
+      options:
+      - Red Wine Yeast
+      - White Wine Yeast
+      - Rapid Yeast
+      - Champagne Yeast
+      - Other
+      required: false
+    - id: 8
+      name: winery_address
+      label: wines address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: wine_color
+      label: wine_color
+      hint: white, red, rosé, etc.
+      type: select_one
+      options:
+      - white
+      - red
+      - rosé
+      - pink
+      - Other
+      required: false
+    - id: 10
+      name: wine_grape_varietal
+      label: wine grape varietal
+      hint: grape type (ex. Chardonnay, Cabernet, Merlot, etc.)
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: fermentation_tank_size
+      label: fermentation tank size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: wine_type
+      label: wine_type
+      hint: null
+      type: select_one
+      options:
+      - Still Wine
+      - Sparkling Wine
+      - Dessert Wine
+      - Fortified Wine
+      - Other
+      required: false
+    - id: 18
+      name: wine_ph_level
+      label: wine ph level
+      hint: pH Level (7.0 - 7.5)
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: wine_titratable_acid
+      label: wine titratable acid
+      hint: Acid Level (0.9 - 1.2)
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: winery
+      label: winery
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contact_person
+      label: contact person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: winery_location
+      label: wines location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: region
+      label: region
+      hint: null
+      type: select_one
+      options:
+      - North America
+      - South America
+      - Europe
+      - Asia
+      - Africa
+      - Oceania
+      - Other
+      required: false
+    - id: 25
+      name: country
+      label: country
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Australia
+      - France
+      - Italy
+      - Spain
+      - Portugal
+      - Argentina
+      - Chile
+      - Other
+      required: false

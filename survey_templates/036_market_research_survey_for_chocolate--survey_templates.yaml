@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: market_research_survey_for_chocolate
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: chocolate_frequency
+      label: How often do you eat chocolate?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Never''}'
+      - '{''id'': 2, ''label'': ''Rarely''}'
+      - '{''id'': 3, ''label'': ''Occasionally''}'
+      - '{''id'': 4, ''label'': ''Frequently''}'
+      - '{''id'': 5, ''label'': ''Always''}'
+      required: false
+    - id: 3
+      name: preferred_chocolate_type
+      label: What type of chocolate do you prefer?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Dark Chocolate''}'
+      - '{''id'': 2, ''label'': ''Milk Chocolate''}'
+      - '{''id'': 3, ''label'': ''White Chocolate''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      - '{''id'': 5, ''label'': ''Unknown''}'
+      required: false
+    - id: 4
+      name: preferred_chocolate_brand
+      label: What chocolate brand do you prefer?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Lindt''}'
+      - '{''id'': 2, ''label'': "Hershey''s"}'
+      - '{''id'': 3, ''label'': ''Dove''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Male''}'
+      - '{''id'': 2, ''label'': ''Female''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: contact_method
+      label: How do you like to contact a store for a chocolate?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Phone''}'
+      - '{''id'': 2, ''label'': ''Email''}'
+      - '{''id'': 3, ''label'': ''In-Store''}'
+      required: false
+    - id: 8
+      name: note
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: timezone_offset
+      label: Timezone Offset
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: timezone
+      label: Timezone
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''PST''}'
+      - '{''id'': 2, ''label'': ''EST''}'
+      - '{''id'': 3, ''label'': ''CST''}'
+      - '{''id'': 4, ''label'': ''MST''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: false
+    - id: 21
+      name: note_1
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: note_2
+      label: More Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: customer_info_2
+      label: More Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: customer_info_3
+      label: Customer Info 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: customer_info_4
+      label: Customer Info 4
+      hint: null
+      type: text
+      options: []
+      required: false

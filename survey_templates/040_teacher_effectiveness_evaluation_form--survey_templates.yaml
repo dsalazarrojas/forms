@@ -1,0 +1,93 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: teacher_effectiveness_evaluation_form
+    pages:
+    - id: 1
+      name: teacher_evaluation
+      label: Teacher Evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: communication
+      label: How well does the teacher communicate effectively
+      hint: How well the teacher communicates with students and parents
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Fair''}'
+      - '{''id'': 4, ''label'': ''Poor''}'
+      required: false
+    - id: 3
+      name: feedback
+      label: Additional Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: teacher_performance
+      label: Overall Teacher Performance
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Needs Improvement''}'
+      - '{''id'': 3, ''label'': ''Unsatisfactory''}'
+      required: false
+    - id: 5
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: completed_by
+      label: Completed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: completed_at
+      label: Completed At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_period_start
+      label: Evaluation Period Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: evaluation_period_end
+      label: Evaluation Period End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: completed_by_name
+      label: Completed By Name
+      hint: null
+      type: text
+      options: []
+      required: false

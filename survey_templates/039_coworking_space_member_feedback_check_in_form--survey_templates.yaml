@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coworking Space Member Feedback Check In Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: feedback_type
+      label: How do you feel today?
+      hint: What is your feedback?
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Bad
+      required: true
+    - id: 4
+      name: reason
+      label: Why?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Medium
+      - Low
+      - Very Low
+      required: true
+    - id: 6
+      name: suggestions
+      label: Suggest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: team_name
+      label: Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: space_name
+      label: Space
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: team_name
+      label: Team
+      hint: null
+      type: text
+      options: []
+      required: false

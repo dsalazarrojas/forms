@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contestant Feedback Form
+    pages:
+    - id: 1
+      name: feedback_intro_header
+      label: -- Contestant Experience Feedback --
+      hint: Help us improve future events by sharing your thoughts
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contestant_name_optional
+      label: Your Name (Optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contest_event_name
+      label: Name of the Contest Event
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: ratings_header
+      label: -- Event Ratings --
+      hint: 1 = Poor, 5 = Excellent
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: rating_registration_process
+      label: Ease of Registration
+      hint: How was the signup process
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Average
+      - 4 - Good
+      - 5 - Excellent
+      required: true
+    - id: 6
+      name: rating_communication
+      label: Communication from Organizers
+      hint: Clarity of rules and schedule updates
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Average
+      - 4 - Good
+      - 5 - Excellent
+      required: true
+    - id: 7
+      name: rating_fairness_judging
+      label: Fairness of Judging
+      hint: Did you feel the evaluation was objective
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Average
+      - 4 - Good
+      - 5 - Excellent
+      required: true
+    - id: 8
+      name: rating_venue_facilities
+      label: Venue and Facilities Satisfaction
+      hint: If virtual, rate the platform used
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Average
+      - 4 - Good
+      - 5 - Excellent
+      required: true
+    - id: 9
+      name: qualitative_feedback_header
+      label: -- Detailed Thoughts --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: highlight_of_event
+      label: What was the best part of the contest
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: biggest_disappointment
+      label: What was your biggest disappointment (if any)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: suggestions_for_next_year
+      label: How can we make this better next year
+      hint: Share specific ideas or changes
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: net_promoter_score
+      label: How likely are you to recommend our contest to others
+      hint: 0 = Not likely, 10 = Very likely
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: future_participation_intent
+      label: Do you plan to enter our future contests
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Maybe
+      - No, I am done
+      required: true
+    - id: 15
+      name: feedback_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true

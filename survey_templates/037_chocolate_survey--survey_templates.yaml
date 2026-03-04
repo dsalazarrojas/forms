@@ -1,0 +1,500 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Chocolate Survey
+    pages:
+      - id: 1
+        name: respondent_information
+        label: Respondent Information
+        hint: About you
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: age_group
+        label: Age Group
+        hint: null
+        type: select_one
+        options:
+          - Under 18
+          - 18-24
+          - 25-34
+          - 35-44
+          - 45-54
+          - 55-64
+          - 65 or older
+        required: false
+      - id: 4
+        name: gender
+        label: Gender
+        hint: null
+        type: select_one
+        options:
+          - Male
+          - Female
+          - Non-binary
+          - Prefer not to say
+          - Other
+        required: false
+      - id: 5
+        name: location
+        label: General Location
+        hint: City or region
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: chocolate_preferences
+        label: Chocolate Preferences
+        hint: What you like
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: do_you_eat_chocolate
+        label: Do you eat chocolate
+        hint: null
+        type: select_one
+        options:
+          - Yes, regularly
+          - Yes, occasionally
+          - Rarely
+          - Never
+        required: true
+      - id: 8
+        name: favorite_chocolate_type
+        label: Favorite Type of Chocolate
+        hint: null
+        type: select_one
+        options:
+          - Dark chocolate
+          - Milk chocolate
+          - White chocolate
+          - Ruby chocolate
+          - No preference
+        required: true
+      - id: 9
+        name: chocolate_frequency
+        label: How often do you eat chocolate
+        hint: null
+        type: select_one
+        options:
+          - Daily
+          - Several times a week
+          - Once a week
+          - 2-3 times a month
+          - Once a month
+          - Rarely
+          - Never
+        required: true
+      - id: 10
+        name: preferred_flavors
+        label: Preferred Chocolate Flavors
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Plain chocolate
+          - Caramel
+          - Nuts
+          - Fruit
+          - Mint
+          - Coffee
+          - Orange
+          - Raspberry
+          - Coconut
+          - Peanut butter
+          - Sea salt
+          - Spicy
+          - Liquor-filled
+          - Other
+        required: true
+      - id: 11
+        name: chocolate_form
+        label: Preferred Form of Chocolate
+        hint: null
+        type: select_one
+        options:
+          - Bars
+          - Truffles
+          - Bonbons
+          - Chocolate-covered items
+          - Baking chocolate
+          - Hot chocolate
+          - No preference
+        required: true
+      - id: 12
+        name: dark_chocolate_preference
+        label: If dark chocolate, what cocoa percentage do you prefer
+        hint: null
+        type: select_one
+        options:
+          - 50-60%
+          - 61-70%
+          - 71-80%
+          - 81-90%
+          - Over 90%
+          - No preference
+          - Do not eat dark chocolate
+        required: false
+      - id: 13
+        name: brand_preferences
+        label: Brand Preferences
+        hint: Your favorite brands
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: favorite_brands
+        label: What are your favorite chocolate brands
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Godiva
+          - Lindt
+          - Ghirardelli
+          - Ferrero Rocher
+          - Hershey's
+          - Mars
+          - Cadbury
+          - Toblerone
+          - Ritter Sport
+          - Green & Black's
+          - Local artisan brands
+          - Store brands
+          - No preference
+          - Other
+        required: true
+      - id: 15
+        name: premium_chocolate
+        label: Do you prefer premium or artisan chocolate
+        hint: null
+        type: select_one
+        options:
+          - Yes, always premium
+          - Yes, sometimes
+          - No preference
+          - Prefer regular chocolate
+          - Only buy store brands
+        required: true
+      - id: 16
+        name: brand_loyalty
+        label: Are you loyal to specific brands
+        hint: null
+        type: select_one
+        options:
+          - Yes, very loyal
+          - Somewhat loyal
+          - Try different brands
+          - No brand preference
+        required: true
+      - id: 17
+        name: purchasing_habits
+        label: Purchasing Habits
+        hint: How you buy chocolate
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: where_buy_chocolate
+        label: Where do you usually buy chocolate
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Grocery store
+          - Convenience store
+          - Specialty chocolate shop
+          - Online
+          - Department store
+          - Warehouse club
+          - Gift shops
+          - Direct from manufacturer
+          - Other
+        required: true
+      - id: 19
+        name: monthly_spending
+        label: How much do you spend on chocolate monthly
+        hint: null
+        type: select_one
+        options:
+          - Under $10
+          - $10-$25
+          - $26-$50
+          - $51-$100
+          - Over $100
+        required: true
+      - id: 20
+        name: what_influences_purchase
+        label: What influences your chocolate purchases
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Price
+          - Brand
+          - Taste
+          - Quality
+          - Packaging
+          - Fair trade certification
+          - Organic
+          - Recommendations
+          - Impulse
+          - Gifts
+          - Sales or promotions
+        required: true
+      - id: 21
+        name: ethical_considerations
+        label: Ethical Considerations
+        hint: Important factors
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: fair_trade_important
+        label: Is fair trade certification important to you
+        hint: null
+        type: select_one
+        options:
+          - Very important
+          - Somewhat important
+          - Not important
+          - Not sure what it means
+        required: true
+      - id: 23
+        name: organic_important
+        label: Is organic certification important to you
+        hint: null
+        type: select_one
+        options:
+          - Very important
+          - Somewhat important
+          - Not important
+          - Not interested
+        required: true
+      - id: 24
+        name: sustainability_important
+        label: Is sustainable sourcing important to you
+        hint: null
+        type: select_one
+        options:
+          - Very important
+          - Somewhat important
+          - Not important
+          - Not sure
+        required: true
+      - id: 25
+        name: occasion_consumption
+        label: Occasion for Consumption
+        hint: When you eat chocolate
+        type: note
+        options: []
+        required: false
+      - id: 26
+        name: when_eat_chocolate
+        label: When do you typically eat chocolate
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - As a snack
+          - After meals
+          - When stressed
+          - As a treat
+          - During holidays
+          - At parties
+          - While watching TV
+          - At work
+          - As a gift
+          - Anytime
+        required: true
+      - id: 27
+        name: chocolate_for_gifts
+        label: Do you give chocolate as gifts
+        hint: null
+        type: select_one
+        options:
+          - Frequently
+          - Sometimes
+          - Rarely
+          - Never
+        required: true
+      - id: 28
+        name: favorite_occasions
+        label: Favorite Occasions for Chocolate
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Valentine's Day
+          - Christmas
+          - Easter
+          - Halloween
+          - Birthdays
+          - Anniversaries
+          - Mother's Day
+          - Just because
+          - Other
+        required: false
+      - id: 29
+        name: taste_preferences
+        label: Taste Preferences
+        hint: Your preferences
+        type: note
+        options: []
+        required: false
+      - id: 30
+        name: sweetness_level
+        label: Preferred Sweetness Level
+        hint: null
+        type: select_one
+        options:
+          - Very sweet
+          - Moderately sweet
+          - Slightly sweet
+          - Bitter
+          - No preference
+        required: true
+      - id: 31
+        name: texture_preference
+        label: Preferred Texture
+        hint: null
+        type: select_one
+        options:
+          - Smooth and creamy
+          - Crunchy
+          - Chewy
+          - Mixed textures
+          - No preference
+        required: true
+      - id: 32
+        name: additional_ingredients
+        label: Favorite Additional Ingredients
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Nuts
+          - Dried fruit
+          - Fresh fruit
+          - Caramel
+          - Mint
+          - Coffee
+          - Spices
+          - Alcohol
+          - None
+          - Other
+        required: true
+      - id: 33
+        name: dietary_restrictions
+        label: Dietary Restrictions
+        hint: Any restrictions
+        type: note
+        options: []
+        required: false
+      - id: 34
+        name: have_restrictions
+        label: Do you have any dietary restrictions
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 35
+        name: restrictions_list
+        label: What dietary restrictions do you have
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Vegan
+          - Vegetarian
+          - Gluten-free
+          - Dairy-free
+          - Nut-free
+          - Sugar-free
+          - Kosher
+          - Halal
+          - Other
+        required: false
+      - id: 36
+        name: new_products
+        label: New Products
+        hint: Trying new things
+        type: note
+        options: []
+        required: false
+      - id: 37
+        name: try_new_chocolates
+        label: Do you like to try new chocolate products
+        hint: null
+        type: select_one
+        options:
+          - Yes, always
+          - Yes, sometimes
+          - Rarely
+          - No, stick with favorites
+        required: true
+      - id: 38
+        name: interested_innovative
+        label: Are you interested in innovative chocolate flavors
+        hint: Unique combinations
+        type: select_one
+        options:
+          - Very interested
+          - Somewhat interested
+          - Not interested
+          - Prefer traditional
+        required: true
+      - id: 39
+        name: overall_satisfaction
+        label: Overall Satisfaction
+        hint: Your thoughts
+        type: note
+        options: []
+        required: false
+      - id: 40
+        name: satisfied_with_options
+        label: Are you satisfied with chocolate options available
+        hint: null
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 41
+        name: what_would_improve
+        label: What would improve your chocolate experience
+        hint: Your suggestions
+        type: text
+        options: []
+        required: false
+      - id: 42
+        name: favorite_chocolate_memory
+        label: What is your favorite chocolate-related memory
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 43
+        name: additional_comments
+        label: Any Additional Comments
+        hint: We value your feedback
+        type: text
+        options: []
+        required: false

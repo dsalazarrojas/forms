@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coronavirus Business Reopening Survey
+    pages:
+    - id: 1
+      name: business_status
+      label: business_status
+      hint: null
+      type: select_one
+      options:
+      - Fully Reopened
+      - Partially Reopened
+      - Closed
+      - Not Applicable
+      required: false
+    - id: 2
+      name: reopen_reason
+      label: business_reopen_reason
+      hint: null
+      type: select_multiple
+      options:
+      - Need help from government
+      - Not enough customers
+      - Not enough staff
+      - Other
+      required: false
+    - id: 3
+      name: reopen_help_needed
+      label: reopen_help_needed
+      hint: null
+      type: select_multiple
+      options:
+      - Financial support
+      - Supply chain support
+      - Marketing support
+      required: false
+    - id: 4
+      name: reopening_plans
+      label: reopening_plans
+      hint: null
+      type: select_one
+      options:
+      - Immediate re-open
+      - Short-term re-open
+      - Long-term re-open
+      - Not planning to re-open
+      required: false
+    - id: 5
+      name: reopen_date
+      label: reopen_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: reopen_time
+      label: reopen_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email_address
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: business_address
+      label: business_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: owner_name
+      label: owner_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: owner_contact
+      label: owner_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: business_type
+      label: business_type
+      hint: null
+      type: select_one
+      options:
+      - Restaurant
+      - Bar
+      - Store
+      - Hotel
+      - Other
+      required: false
+    - id: 14
+      name: business_license
+      label: business_license
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: business_location
+      label: business_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: business_zip
+      label: business_zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: owner_phone
+      label: owner_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: owner_email
+      label: owner_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: owner_notes
+      label: owner_notes
+      hint: null
+      type: note
+      options: []
+      required: false

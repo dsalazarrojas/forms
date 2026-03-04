@@ -1,0 +1,336 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anxiety Self Reflection Form
+    pages:
+    - id: 1
+      name: reflection_date
+      label: Date of Reflection
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: time_of_day
+      label: Time of Day
+      hint: When are you completing this
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Night
+      required: true
+    - id: 3
+      name: current_mood
+      label: Current Mood
+      hint: How are you feeling right now
+      type: select_one
+      options:
+      - Very calm
+      - Calm
+      - Neutral
+      - Anxious
+      - Very anxious
+      required: true
+    - id: 4
+      name: anxiety_level_1_to_10
+      label: Anxiety Level
+      hint: Rate from 1 to 10
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: sleep_quality
+      label: How well did you sleep last night
+      hint: Quality of sleep
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 6
+      name: sleep_hours
+      label: Hours of Sleep
+      hint: Approximately how many hours
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: energy_level
+      label: Energy Level Today
+      hint: How is your energy
+      type: select_one
+      options:
+      - Very high
+      - High
+      - Normal
+      - Low
+      - Very low
+      required: true
+    - id: 8
+      name: physical_symptoms
+      label: Physical Symptoms Today
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Muscle tension
+      - Headache
+      - Stomach discomfort
+      - Rapid heartbeat
+      - Shortness of breath
+      - Sweating
+      - Trembling
+      - Fatigue
+      - Other
+      required: true
+    - id: 9
+      name: thoughts_section
+      label: -- Thoughts and Feelings --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: primary_worries
+      label: What are your primary worries today
+      hint: Describe your main concerns
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: worry_intensity
+      label: How intense are these worries
+      hint: Rate the intensity
+      type: select_one
+      options:
+      - Very mild
+      - Mild
+      - Moderate
+      - Intense
+      - Overwhelming
+      required: true
+    - id: 12
+      name: thought_patterns
+      label: Thought Patterns Noticed
+      hint: Select any that apply
+      type: select_multiple
+      options:
+      - Catastrophizing
+      - All-or-nothing thinking
+      - Overgeneralization
+      - Mind reading
+      - Fortune telling
+      - Personalization
+      - Should statements
+      - Emotional reasoning
+      - Balanced thinking
+      - Other
+      required: true
+    - id: 13
+      name: triggers_section
+      label: -- Triggers and Situations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: anxiety_triggers_today
+      label: What triggered your anxiety today
+      hint: Describe any triggers
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: trigger_response
+      label: How did you respond to triggers
+      hint: Your reaction
+      type: select_one
+      options:
+      - Faced it directly
+      - Avoided the situation
+      - Used coping strategies
+      - Became overwhelmed
+      - Sought support
+      - Other
+      required: true
+    - id: 16
+      name: situations_avoided
+      label: Did you avoid any situations
+      hint: Avoidance behaviors
+      type: select_one
+      options:
+      - Yes, multiple situations
+      - Yes, one situation
+      - No, I faced everything
+      - Not applicable
+      required: true
+    - id: 17
+      name: coping_section
+      label: -- Coping Strategies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: strategies_used
+      label: Coping Strategies Used Today
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Deep breathing
+      - Meditation
+      - Exercise
+      - Journaling
+      - Talking to someone
+      - Progressive muscle relaxation
+      - Mindfulness
+      - Distraction
+      - Self-care activities
+      - None
+      - Other
+      required: true
+    - id: 19
+      name: strategy_effectiveness
+      label: How effective were these strategies
+      hint: Rate effectiveness
+      type: select_one
+      options:
+      - Very effective
+      - Effective
+      - Somewhat effective
+      - Not very effective
+      - Not effective
+      required: true
+    - id: 20
+      name: new_strategies_tried
+      label: Did you try any new strategies
+      hint: New approaches
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: new_strategy_description
+      label: Describe New Strategy
+      hint: What did you try
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: support_section
+      label: -- Support and Connections --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: social_interaction
+      label: Social Interaction Today
+      hint: How much social contact
+      type: select_one
+      options:
+      - A lot of positive interaction
+      - Some positive interaction
+      - Neutral interaction
+      - Minimal interaction
+      - No interaction
+      required: true
+    - id: 24
+      name: support_sought
+      label: Did you seek support from others
+      hint: Reaching out
+      type: select_one
+      options:
+      - Yes, from multiple people
+      - Yes, from one person
+      - No, but wanted to
+      - No, did not need to
+      required: true
+    - id: 25
+      name: support_received
+      label: Was support helpful
+      hint: If you received support
+      type: select_one
+      options:
+      - Very helpful
+      - Helpful
+      - Somewhat helpful
+      - Not helpful
+      - Did not seek support
+      required: true
+    - id: 26
+      name: accomplishments_section
+      label: -- Accomplishments and Gratitude --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: accomplishments_today
+      label: What did you accomplish today
+      hint: Big or small
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: gratitude_items
+      label: What are you grateful for today
+      hint: List at least one thing
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: self_care_activities
+      label: Self-Care Activities
+      hint: What did you do for yourself
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: learning_section
+      label: -- Reflection and Learning --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: what_worked_well
+      label: What worked well today
+      hint: Successes
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: what_was_challenging
+      label: What was challenging today
+      hint: Difficulties faced
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: what_did_you_learn
+      label: What did you learn about your anxiety
+      hint: Insights gained
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: tomorrow_goals
+      label: Goals for Tomorrow
+      hint: What do you want to focus on
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: encouragement_to_self
+      label: Words of Encouragement to Yourself
+      hint: Be kind to yourself
+      type: text
+      options: []
+      required: false

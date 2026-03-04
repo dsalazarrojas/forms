@@ -1,0 +1,165 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cheesecake Preferences Questionnaire
+    pages:
+      - id: 1
+        name: section_demographics
+        label: -- About You --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: consumer_age_range
+        label: What is your age group
+        hint: null
+        type: select_one
+        options:
+          - Under 18
+          - 18-24
+          - 25-34
+          - 35-44
+          - 45-54
+          - 55+
+        required: true
+      - id: 3
+        name: consumption_frequency_choice
+        label: How often do you eat cheesecake
+        hint: null
+        type: select_one
+        options:
+          - Weekly
+          - Monthly
+          - Once every few months
+          - Only on special occasions
+        required: true
+      - id: 4
+        name: section_preferences
+        label: -- Your Preferences --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: preferred_cake_texture
+        label: What texture do you prefer most
+        hint: null
+        type: select_one
+        options:
+          - Dense and Rich (NY Style)
+          - Light and Fluffy (Japanese Style)
+          - Smooth and Creamy
+          - No-Bake / Moussy
+        required: true
+      - id: 6
+        name: favorite_crust_material
+        label: Favorite type of crust
+        hint: null
+        type: select_one
+        options:
+          - Traditional Graham Cracker
+          - Chocolate / Oreo
+          - Shortbread Cookie
+          - Nut-Based (GF)
+          - No Crust
+        required: true
+      - id: 7
+        name: favorite_topping_category
+        label: Most important topping / sauce
+        hint: null
+        type: select_one
+        options:
+          - Fresh Fruit
+          - Fruit Compote / Glaze
+          - Chocolate / Ganache
+          - Caramel / Butterscotch
+          - Plain (No Topping)
+        required: true
+      - id: 8
+        name: preferred_flavor_profiles
+        label: Preferred flavor profiles
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Classic Vanilla
+          - Rich Chocolate
+          - Tangy Lemon / Citrus
+          - Sweet Berry
+          - Coffee / Mocha
+          - Savory (Cheese-Forward)
+        required: true
+      - id: 9
+        name: willingness_try_savory_cake
+        label: Would you try a savory cheesecake (e.g. blue cheese and pear)
+        hint: null
+        type: select_one
+        options:
+          - Definitely Yes
+          - Maybe
+          - Probably Not
+          - Definitely No
+        required: true
+      - id: 10
+        name: section_value_opinion
+        label: -- Market Opinions --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: premium_slice_price_opinion
+        label: Fair price for a premium slice of cheesecake ($)
+        hint: null
+        type: select_one
+        options:
+          - $4-00 - $6-00
+          - $6-00 - $8-00
+          - $8-00 - $10-00
+          - Over $10-00
+        required: true
+      - id: 12
+        name: buy_frozen_vs_fresh_pref
+        label: Do you buy frozen or fresh cheesecake more often
+        hint: null
+        type: select_one
+        options:
+          - Always Fresh from Bakery
+          - Mostly Fresh
+          - Mostly Frozen from Grocery
+          - Always Frozen
+        required: true
+      - id: 13
+        name: dream_flavor_description
+        label: Describe your absolute dream cheesecake flavor
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: preference_survey_date
+        label: Survey Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 15
+        name: newsletter_opt_in_cake
+        label: Receive new flavor alerts via email
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: false

@@ -1,0 +1,200 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Best Online Service Nomination Form
+    pages:
+      - id: 1
+        name: nominator_profile_header
+        label: -- Nominator Profile --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: nominator_name_input
+        label: Your Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: nominator_email_input
+        label: Your Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: online_service_details_header
+        label: -- Online Service Nominee Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: service_name_text
+        label: Online Service Name
+        hint: Official name of the digital service
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: service_website_url
+        label: Website or App URL
+        hint: URL for product information or access
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: service_category_select
+        label: Service Category
+        hint: Primary function of the digital service
+        type: select_one
+        options:
+          - E-commerce and Retail
+          - Software as a Service (SaaS)
+          - Streaming and Entertainment
+          - Social Media and Networking
+          - Financial and Fintech
+          - Health and Wellness
+          - Education and E-learning
+          - Other
+        required: true
+      - id: 8
+        name: evaluation_ratings_header
+        label: -- Performance Evaluation --
+        hint: Rate from 1 (Needs Improvement) to 5 (Outstanding)
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: user_experience_rating
+        label: User Experience and Interface Design
+        hint: How intuitive and well-designed is the service
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 10
+        name: customer_support_rating
+        label: Customer Support and Communication
+        hint: null
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 11
+        name: security_privacy_rating
+        label: Security and Privacy Features
+        hint: How safe do you feel using the service
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 12
+        name: value_for_money_rating
+        label: Value for Money and Free Tier Quality
+        hint: null
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 13
+        name: innovation_features_rating
+        label: Innovation and Feature Set
+        hint: Unique and useful features
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 14
+        name: nomination_narrative_header
+        label: -- Impact and Narrative --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: service_impact_desc
+        label: How has this service improved your daily life or business
+        hint: Describe specific improvements in productivity or quality
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: single_best_feature_desc
+        label: What is the single best thing about this service
+        hint: Highlight one key strength
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: win_justification_detailed
+        label: Why should this service win the award for Best Online Service
+        hint: Summarize your nomination argument
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: conclusion_header
+        label: -- Conclusion --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: recommendation_intent
+        label: Would you recommend this service to others
+        hint: null
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably
+          - Maybe
+          - No
+        required: true
+      - id: 20
+        name: final_additional_comments
+        label: Any other comments or feedback
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: nomination_date_timestamp
+        label: Date of Nomination
+        hint: null
+        type: date
+        options: []
+        required: true

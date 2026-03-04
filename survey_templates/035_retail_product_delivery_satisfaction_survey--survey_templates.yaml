@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Product Delivery Satisfaction Survey
+    pages:
+    - id: 1
+      name: delivery_experience
+      label: How was your delivery experience?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_quality
+      label: What is your impression of the product quality?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Poor''}'
+      required: true
+    - id: 3
+      name: delivery_speed
+      label: How quickly was your order delivered?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''1-2 business days''}'
+      - '{''value'': ''3-4 business days''}'
+      - '{''value'': ''5-6 business days''}'
+      - '{''value'': ''7 or more business days''}'
+      required: true
+    - id: 4
+      name: delivery_speed_how_satisfying
+      label: How satisfying was the delivery experience in terms of speed?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: delivery_speed_how_improving
+      label: How improving was the delivery process compared to last time?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: delivery_experience_rating
+      label: Overall delivery experience rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: contact_person
+      label: Who was your contact person?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_method
+      label: How did you contact the person?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Phone''}'
+      - '{''value'': ''Email''}'
+      - '{''value'': ''In-person''}'
+      required: false
+    - id: 9
+      name: satisfaction_score
+      label: Overall satisfaction score?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: suggestion
+      label: Do you have any suggestions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: rating
+      label: How likely are you to recommend our store to a friend or colleague?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: store_name
+      label: What is the name of the store where you received your order?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: store_address
+      label: What is the store address where you received your order?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: store_number
+      label: What is the store number where you received your order?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: date_received
+      label: Date received?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: time_received
+      label: Time received?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: email
+      label: Email address?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: phone
+      label: Phone number?
+      hint: null
+      type: text
+      options: []
+      required: false

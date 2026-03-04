@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: tech_conference_attendee_feedback_survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: intro_page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_info
+      label: Attendee_Info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: feedback_rating
+      label: feedback_rating
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 4
+      name: top_session
+      label: Top_Session
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: favorite_session_topic
+      label: favorite_session_topic
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: favorite_session_time
+      label: favorite_session_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: Phone_Numb
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: session_attended
+      label: Session_attended
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: session_preferred
+      label: Session_preferred
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: top_three_suggestions
+      label: top_three_suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: session_length
+      label: Session_Length
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: session_type
+      label: Session_Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: session_topic
+      label: Session_Topic
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: additional_feedback
+      label: Additional_Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: job_title
+      label: Job_Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: position
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: session_1
+      label: Session_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: session_2
+      label: Session_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: session_3
+      label: Session_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

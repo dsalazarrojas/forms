@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dental Hygiene Quiz – How Well Do You Brush?
+    pages:
+    - id: 1
+      name: main_page
+      label: What Is Your Age Group
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''18-24''}'
+      - '{''label'': ''25-34''}'
+      - '{''label'': ''35-44''}'
+      - '{''label'': ''45-54''}'
+      - '{''label'': ''55 or older''}'
+      required: false
+    - id: 2
+      name: main_page_hygiene_habits
+      label: Brushing Habits
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Morning and night''}'
+      - '{''label'': ''Morning only''}'
+      - '{''label'': ''None of the above''}'
+      required: false
+    - id: 3
+      name: main_page_hygiene_products
+      label: Hygiene Products
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Toothpaste''}'
+      - '{''label'': ''Mouthwash''}'
+      - '{''label'': ''Floss''}'
+      - '{''label'': ''None of the above''}'
+      required: false
+    - id: 4
+      name: main_page_healthy_snacks
+      label: Healthy Snacking
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Fresh fruit''}'
+      - '{''label'': ''Vegetables''}'
+      - '{''label'': ''Nuts''}'
+      - '{''label'': ''None of the above''}'
+      required: false
+    - id: 5
+      name: main_page_healthy_drinks
+      label: Healthy Drinking
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Water''}'
+      - '{''label'': ''Low-sugar drinks''}'
+      - '{''label'': ''Juice''}'
+      - '{''label'': ''None of the above''}'
+      required: false
+    - id: 6
+      name: main_page_smoking_and_tobacco
+      label: Smoking and Tobacco
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Never''}'
+      - '{''label'': ''Some days''}'
+      - '{''label'': ''Every day''}'
+      required: false
+    - id: 7
+      name: main_page_dental_checkups
+      label: Regular Check-Ups
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Regular check-ups with dentist''}'
+      - '{''label'': ''Irregular check-ups with dentist''}'
+      - '{''label'': ''Never''}'
+      required: false
+    - id: 8
+      name: main_page_dental_care_clinics
+      label: Dental Care Clinics
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Visit dental care clinic for regular check-ups''}'
+      - '{''label'': ''Visit dental care clinic for emergencies''}'
+      - '{''label'': ''Never''}'
+      required: false
+    - id: 9
+      name: main_page_dental_insurance
+      label: Dental Insurance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Have dental insurance''}'
+      - '{''label'': ''Do not have dental insurance''}'
+      required: false
+    - id: 10
+      name: main_page_happy
+      label: How Happy Are You
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: main_page_hygiene_habits_2
+      label: How Well Do You Floss
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Never''}'
+      required: false
+    - id: 12
+      name: main_page_hygiene_habits_3
+      label: How Often Do You Visit Dental Professional
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Regularly''}'
+      - '{''label'': ''Irregularly''}'
+      - '{''label'': ''Never''}'
+      required: true
+    - id: 13
+      name: main_page_hygiene_habits_4
+      label: How Well Do You Take Care of Your Teeth
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very well''}'
+      - '{''label'': ''Somewhat well''}'
+      - '{''label'': ''Not very well''}'
+      required: true
+    - id: 14
+      name: main_page_happy_2
+      label: How Happy Are You With Your Oral Health
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: main_page_hygiene_habits_5
+      label: How Much Do You Enjoy Flossing
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: main_page_hygiene_habits_6
+      label: How Important Do You Think Oral Hygiene Is
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: main_page_hygiene_habits_7
+      label: How Often Do You Practice Good Oral Hygiene Habits
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: main_page_hygiene_habits_8
+      label: How Well Do You Take Care of Your Tongue
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: main_page_hygiene_habits_9
+      label: How Well Do You Keep Your Mouth Clean
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: main_page_hygiene_habits_10
+      label: How Well Do You Practice Good Oral Hygiene Habits
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: main_page_happy_3
+      label: How Happy Are You With Your Overall Oral Health
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: main_page_hygiene_habits_11
+      label: How Often Do You Visit A Dental Hygienist
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Every 6 months''}'
+      - '{''label'': ''Every year''}'
+      - '{''label'': ''Less often''}'
+      required: true
+    - id: 23
+      name: main_page_hygiene_habits_12
+      label: How Well Do You Brush
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: main_page_happy_4
+      label: How Happy Are You With Your Current Oral Health Habits
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: main_page_hygiene_habits_13
+      label: Do You Floss
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Every day''}'
+      - '{''label'': ''Every week''}'
+      - '{''label'': ''Every month''}'
+      - '{''label'': ''Never''}'
+      required: true

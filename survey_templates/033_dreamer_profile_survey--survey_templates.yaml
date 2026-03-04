@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dreamer Profile Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: dream_frequencies
+      label: dream_frequencies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: sleep_habits
+      label: sleep_habits
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: sleep_quality
+      label: sleep_quality
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 5
+      name: wake_up_time
+      label: wake_up_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: wake_up_time_hour
+      label: wake_up_time_hour
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: wake_up_time_minute
+      label: wake_up_time_minute
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: sleep_duration
+      label: sleep_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: sleep_stages
+      label: sleep_stages
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: sleep_disorders
+      label: sleep_disorders
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: dream_frequency
+      label: dream_frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: most_common_dream
+      label: most_common_dream
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: most_common_dream_frequency
+      label: most_common_dream_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: most_common_dream_location
+      label: most_common_dream_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: most_common_dream_character
+      label: most_common_dream_character
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: most_common_dream_theme
+      label: most_common_dream_theme
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: most_common_dream_emotion
+      label: most_common_dream_emotion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: most_common_dream_objectives
+      label: most_common_dream_objectives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: most_common_dream_consequences
+      label: most_common_dream_consequences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: most_common_dream_outcomes
+      label: most_common_dream_outcomes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: morning_mood
+      label: morning_mood
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: energy_level
+      label: energy_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 23
+      name: sleep_quality_rating
+      label: sleep_quality_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: wake_up_feeling
+      label: wake_up_feeling
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

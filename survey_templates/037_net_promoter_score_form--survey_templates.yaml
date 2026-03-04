@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: net_promoter_score_form
+    pages:
+    - id: 1
+      name: net_promoter_score_form_1
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: net_promoter_score_form_2
+      label: how_did_you_rate_our_product
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: net_promoter_score_form_3
+      label: likely_to_recommend
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: net_promoter_score_form_4
+      label: net_promoter_score
+      hint: null
+      type: number
+      options: []
+      required: false

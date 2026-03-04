@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tech Conference Attendee Satisfaction Poll
+    pages:
+    - id: 1
+      name: attendee_satisfaction
+      label: How satisfied are you with the conference?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Satisfied'', ''value'': 4}'
+      - '{''label'': ''Somewhat Satisfied'', ''value'': 3}'
+      - '{''label'': ''Not Satisfied'', ''value'': 2}'
+      - '{''label'': ''Very Not Satisfied'', ''value'': 1}'
+      required: false
+    - id: 2
+      name: conference_topics
+      label: Which topics did you find most valuable?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Technical'', ''value'': ''technical''}'
+      - '{''label'': ''Business'', ''value'': ''business''}'
+      - '{''label'': ''Social'', ''value'': ''social''}'
+      required: false
+    - id: 3
+      name: speaker_performance
+      label: How would you rate the speaker performance?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent'', ''value'': 5}'
+      - '{''label'': ''Good'', ''value'': 4}'
+      - '{''label'': ''Fair'', ''value'': 3}'
+      - '{''label'': ''Poor'', ''value'': 2}'
+      - '{''label'': ''Very Poor'', ''value'': 1}'
+      required: false
+    - id: 4
+      name: feedback
+      label: Do you have any additional feedback?
+      hint: Please provide any additional feedback you have.
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Your Email
+      hint: Your email address will be used to contact you for follow-up questions.
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Your Phone
+      hint: Your phone number will be used to contact you for follow-up questions.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: name
+      label: Your Name
+      hint: Your name as you would like to be addressed.
+      type: text
+      options: []
+      required: false

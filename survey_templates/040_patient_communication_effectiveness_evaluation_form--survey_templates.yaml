@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Communication Effectiveness Evaluation Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: communication_quality
+      label: How often do you feel understood?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: care_planning
+      label: How would you rate the quality of care planning?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: provider_communication
+      label: How would you rate provider communication?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: patient_care_strategies
+      label: What do you think we could do to improve patient care?
+      hint: null
+      type: select_one
+      options:
+      - Improve patient education
+      - Improve medication management
+      - Improve patient support
+      - Improve appointment scheduling
+      required: false
+    - id: 6
+      name: communication_barriers
+      label: What barriers have you encountered that affect communication?
+      hint: null
+      type: select_multiple
+      options:
+      - Language barriers
+      - Cultural differences
+      - Technical difficulties
+      - Time constraints
+      required: false
+    - id: 7
+      name: patient_suggestions
+      label: Do you have any suggestions for how we can better communicate with you?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: provider_suggestions
+      label: Do you have any suggestions for your healthcare provider?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: communication_frequency
+      label: How often do you like to receive communication from us?
+      hint: null
+      type: select_one
+      options:
+      - Less frequently
+      - More frequently
+      - As needed
+      required: false
+    - id: 10
+      name: communication_preferences
+      label: What is your preferred way of communication with us?
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Text message
+      - Email
+      - In-person
+      required: false
+    - id: 11
+      name: provider_contact_info
+      label: What is your healthcare provider's contact information?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_comments
+      label: Any comments?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: false

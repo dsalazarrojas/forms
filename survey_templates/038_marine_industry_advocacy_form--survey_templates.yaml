@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marine Industry Advocacy Form
+    pages:
+    - id: 1
+      name: marine_industry_advocacy_form
+      label: marine-industry-advocacy-form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: issue_report
+      label: issue report
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: stakeholder_perspectives
+      label: stakeholder perspectives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: supporting_documentation
+      label: supporting documentation
+      hint: null
+      type: text
+      options: []
+      required: false

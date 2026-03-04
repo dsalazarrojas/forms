@@ -1,0 +1,128 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Botanical Energy Map Survey
+    pages:
+      - id: 1
+        name: participant_info_header
+        label: -- Participant Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: part_id
+        label: Participant ID / Name
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: visit_dt
+        label: Date of Visit
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: visit_tm
+        label: Time of Visit
+        hint: null
+        type: time
+        options: []
+        required: true
+      - id: 5
+        name: space_name
+        label: Name of Green Space / Garden
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: vitality_header
+        label: -- Perception of Vitality --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: energy_rating
+        label: How would you rate the overall energy / vitality of this space?
+        hint: null
+        type: select_one
+        options: [High - Vibrant, Moderate - Balanced, Low - Calming, Depleted]
+        required: true
+      - id: 8
+        name: contrib_elements
+        label: What elements contribute to this feeling?
+        hint: Select all that apply
+        type: select_multiple
+        options: [Birdsong, Lush Foliage, Moving Water, Sunlight, Fragrance, Colorful Flowers]
+        required: true
+      - id: 9
+        name: mapping_header
+        label: -- Map Mapping --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: spot_loc
+        label: Specific location within the space
+        hint: e.g. Near the fountain
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: emotional_resp
+        label: What is your primary emotional response to this spot?
+        hint: null
+        type: select_one
+        options: [Peaceful, Energized, Inspired, Melancholy, Safe]
+        required: true
+      - id: 12
+        name: env_factors_header
+        label: -- Environmental Factors --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: maint_rating
+        label: How well-maintained does this space feel?
+        hint: null
+        type: select_one
+        options: [Pristine, Well Kept, Natural/Wild, Neglected]
+        required: true
+      - id: 14
+        name: crowd_lvl
+        label: How crowded is the space today?
+        hint: null
+        type: select_one
+        options: [Empty, Few People, Moderately Busy, Very Crowded]
+        required: true
+      - id: 15
+        name: botanical_notes
+        label: Describe any specific botanical features that caught your attention
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: sub_date
+        label: Submission Date
+        hint: null
+        type: date
+        options: []
+        required: true

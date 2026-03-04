@@ -1,0 +1,266 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cleaning Service Feedback Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_address
+      label: Service Address
+      hint: Address where service was provided
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: service_date
+      label: Date of Service
+      hint: When was the cleaning service performed
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: service_type
+      label: Type of Service Received
+      hint: What type of cleaning did you receive
+      type: select_one
+      options:
+      - Regular Cleaning
+      - Deep Cleaning
+      - Move-In or Move-Out Cleaning
+      - Post-Construction Cleaning
+      - Spring Cleaning
+      - Office Cleaning
+      - Other
+      required: true
+    - id: 7
+      name: cleaner_name
+      label: Cleaner Name (If Known)
+      hint: Name of the cleaner or team
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: How satisfied are you with our cleaning service
+      type: select_one
+      options:
+      - Very Satisfied - Exceeded expectations
+      - Satisfied - Met expectations
+      - Neutral - Neither satisfied nor dissatisfied
+      - Dissatisfied - Below expectations
+      - Very Dissatisfied - Did not meet expectations
+      required: true
+    - id: 9
+      name: cleanliness_rating
+      label: Cleanliness Rating
+      hint: Rate the overall cleanliness after service
+      type: select_one
+      options:
+      - Excellent - Spotless
+      - Very Good - Very clean
+      - Good - Clean
+      - Fair - Adequately clean
+      - Poor - Not clean enough
+      required: true
+    - id: 10
+      name: punctuality_rating
+      label: Punctuality Rating
+      hint: Did our team arrive on time
+      type: select_one
+      options:
+      - Early - Arrived before scheduled time
+      - On Time - Arrived as scheduled
+      - Slightly Late - Less than 15 minutes
+      - Late - 15-30 minutes late
+      - Very Late - Over 30 minutes late
+      required: true
+    - id: 11
+      name: professionalism_rating
+      label: Professionalism Rating
+      hint: Rate the professionalism of our staff
+      type: select_one
+      options:
+      - Excellent - Very professional
+      - Very Good - Quite professional
+      - Good - Acceptable professionalism
+      - Fair - Some concerns
+      - Poor - Unprofessional behavior
+      required: true
+    - id: 12
+      name: attention_to_detail
+      label: Attention to Detail
+      hint: Rate the attention to detail
+      type: select_one
+      options:
+      - Excellent - Very thorough
+      - Very Good - Quite thorough
+      - Good - Adequately thorough
+      - Fair - Missed some areas
+      - Poor - Many areas missed
+      required: true
+    - id: 13
+      name: communication_rating
+      label: Communication Rating
+      hint: Rate the quality of communication
+      type: select_one
+      options:
+      - Excellent - Very clear and responsive
+      - Very Good - Good communication
+      - Good - Adequate communication
+      - Fair - Some communication issues
+      - Poor - Poor communication
+      required: true
+    - id: 14
+      name: value_for_money
+      label: Value for Money
+      hint: Do you feel the service was worth the cost
+      type: select_one
+      options:
+      - Excellent Value - Worth more than paid
+      - Good Value - Fair price for service
+      - Fair Value - Acceptable for the price
+      - Poor Value - Overpriced for service received
+      required: true
+    - id: 15
+      name: areas_cleaned
+      label: Areas That Were Cleaned
+      hint: Select all areas that were cleaned
+      type: select_multiple
+      options:
+      - Living Room
+      - Dining Room
+      - Kitchen
+      - Bedrooms
+      - Bathrooms
+      - Hallways
+      - Stairs
+      - Basement
+      - Garage
+      - Office Space
+      - Other
+      required: true
+    - id: 16
+      name: missed_areas
+      label: Missed Areas or Concerns
+      hint: Were there any areas that were not cleaned properly
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: best_aspect
+      label: What Did You Like Best
+      hint: What was the best part of our service
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: What could we improve
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: would_recommend
+      label: Would You Recommend Our Services
+      hint: Would you recommend us to friends or family
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Not Sure
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 20
+      name: would_use_again
+      label: Would You Use Our Services Again
+      hint: Will you book our services in the future
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Not Sure
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 21
+      name: likelihood_to_recommend
+      label: How Likely Are You to Recommend Us
+      hint: On a scale of 0-10
+      type: select_one
+      options:
+      - 10 - Extremely Likely
+      - 9 - Very Likely
+      - 8 - Likely
+      - 7 - Somewhat Likely
+      - 6 - Neutral
+      - 5 or Below - Unlikely
+      required: true
+    - id: 22
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: How did you find our services
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Friend or Family Referral
+      - Online Search
+      - Advertisement
+      - Direct Mail
+      - Previous Customer
+      - Other
+      required: false
+    - id: 23
+      name: additional_services_interest
+      label: Additional Services You Might Be Interested In
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Carpet Cleaning
+      - Window Cleaning
+      - Upholstery Cleaning
+      - Pressure Washing
+      - Floor Waxing or Polishing
+      - Organizing Services
+      - Laundry Services
+      - None at This Time
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional Comments or Feedback
+      hint: Any other comments about your experience
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_permission
+      label: May We Contact You for Follow-Up
+      hint: Can we contact you regarding your feedback
+      type: select_one
+      options:
+      - Yes - Please contact me
+      - No - No follow-up needed
+      required: true

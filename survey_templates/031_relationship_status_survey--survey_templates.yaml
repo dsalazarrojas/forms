@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Relationship Status Survey
+    pages:
+    - id: 1
+      name: relationship_status_survey_form
+      label: What Is Your Current Relationship Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 2
+      name: partner_1_name
+      label: Your Partner's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: partner_1_age
+      label: Your Partner's Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: partner_1_occupation
+      label: Your Partner's Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: how_did_you_meet_your_partner
+      label: How Did You Meet
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: partner_1_partner_status
+      label: Your Partner's Current Relationship Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 7
+      name: how_long_have_you_been_in_your_current_relationship
+      label: How Long Have You Been In Your Current Relationship
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: relationship_satisfaction_level
+      label: Relationship Satisfaction Level
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 9
+      name: partner_1_relationship_satisfaction_level
+      label: Your Partner's Relationship Satisfaction Level
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false

@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transfer Learning Research Survey
+    pages:
+    - id: 1
+      name: research_question
+      label: What is your research question
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: research_area
+      label: What is your field of research
+      hint: null
+      type: select_multiple
+      options:
+      - Artificial Intelligence
+      - Computer Vision
+      - Natural Language Processing
+      - Machine Learning
+      required: true
+    - id: 3
+      name: research_institution
+      label: Which institution is funding your research
+      hint: null
+      type: select_one
+      options:
+      - MIT
+      - University of California, Berkeley
+      - Stanford University
+      - Harvard University
+      required: true
+    - id: 4
+      name: research_interests
+      label: What are your interests in transfer learning
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: research_experience
+      label: How many years of research experience do you have?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: research_interests_other
+      label: Other interests in transfer learning
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: transfer_learning_method
+      label: How do you currently employ transfer learning?
+      hint: null
+      type: select_multiple
+      options:
+      - Source Separation
+      - Domain Adaptation
+      - Multi-Task Learning
+      - Meta-Learning
+      required: true
+    - id: 8
+      name: transfer_learning_method_other
+      label: Other transfer learning methods
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: transfer_learning_benefits
+      label: What are the benefits of transfer learning
+      hint: null
+      type: select_multiple
+      options:
+      - Improved model generalizability
+      - Reduced overfitting
+      - Increased model accuracy
+      - Improved model interpretability
+      required: true
+    - id: 10
+      name: transfer_learning_barriers
+      label: What are the challenges faced in transfer learning
+      hint: null
+      type: select_multiple
+      options:
+      - Data quality issues
+      - Data scarcity issues
+      - Model selection issues
+      - Model calibration issues
+      required: true
+    - id: 11
+      name: transfer_learning_future
+      label: What is your vision for the future of transfer learning
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: transfer_learning_publication
+      label: Have you published any research on transfer learning?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: publication_link
+      label: Link to publication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: transfer_learning_institution
+      label: Institution where research was conducted
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: transfer_learning_supervisor
+      label: Supervisor of research
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: transfer_learning_contributors
+      label: Other contributors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: transfer_learning_funding
+      label: Funding source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: transfer_learning_project
+      label: Project name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: transfer_learning_year
+      label: Project completion year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: transfer_learning_duration
+      label: Project duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: transfer_learning_outcome
+      label: Research outcome
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: true
+    - id: 22
+      name: transfer_learning_contribution
+      label: Contribution of this research
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: transfer_learning_references
+      label: References
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: transfer_learning_acknowledgement
+      label: Acknowledgement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

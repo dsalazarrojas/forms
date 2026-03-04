@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: craft_fair_vendor_survey
+    pages:
+    - id: 1
+      name: vendor_name
+      label: Vendors Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: business_address
+      label: business_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: products_sold
+      label: products_sold
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: price_range
+      label: price_range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: vendor_since_year
+      label: vendor_since_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: booth_number
+      label: booth_number
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - 08
+      - 09
+      - '10'
+      required: false
+    - id: 9
+      name: vendor_since
+      label: vendor_since
+      hint: null
+      type: time
+      options: []
+      required: false

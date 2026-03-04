@@ -1,0 +1,170 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Charity Program Feedback Form
+    pages:
+      - id: 1
+        name: section_participant_info
+        label: -- Participant Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: participant_name
+        label: Your Name
+        hint: Optional - can remain anonymous
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: participant_email
+        label: Email Address
+        hint: For follow-up if needed
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: program_attended
+        label: Which Program Did You Attend
+        hint: Name of the program
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: program_date
+        label: Date of Program
+        hint: When did you attend
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: first_time_attending
+        label: First Time Attending This Program
+        hint: Is this your first time
+        type: select_one
+        options: ["Yes", "No"]
+        required: false
+      - id: 7
+        name: section_content
+        label: -- Program Content --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: content_relevance
+        label: Relevance of Program Content
+        hint: Was the content relevant to you
+        type: select_one
+        options: ["Highly Relevant", "Relevant", "Somewhat Relevant", "Not Relevant"]
+        required: true
+      - id: 9
+        name: content_quality
+        label: Quality of Content and Information
+        hint: Rate the educational value
+        type: select_one
+        options: ["Excellent", "Very Good", "Good", "Average", "Poor"]
+        required: true
+      - id: 10
+        name: comprehension_level
+        label: Ease of Understanding Content
+        hint: Was it easy to follow
+        type: select_one
+        options: ["Very Easy", "Easy", "Moderate", "Difficult"]
+        required: false
+      - id: 11
+        name: section_delivery
+        label: -- Program Delivery --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: facilitator_quality
+        label: Quality of Facilitators or Instructors
+        hint: Rate the presenters
+        type: select_one
+        options: ["Excellent", "Very Good", "Good", "Average", "Poor"]
+        required: true
+      - id: 13
+        name: engagement_level
+        label: Participant Engagement and Interaction
+        hint: How engaging was the program
+        type: select_one
+        options: ["Very Engaging", "Engaging", "Moderately Engaging", "Not Engaging"]
+        required: false
+      - id: 14
+        name: pacing
+        label: Program Pacing
+        hint: Was the pace appropriate
+        type: select_one
+        options: ["Too Fast", "Just Right", "Too Slow"]
+        required: false
+      - id: 15
+        name: venue_quality
+        label: Venue and Facilities
+        hint: Quality of location and amenities
+        type: select_one
+        options: ["Excellent", "Good", "Average", "Poor"]
+        required: false
+      - id: 16
+        name: section_outcomes
+        label: -- Learning Outcomes --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: learned_something_new
+        label: Did You Learn Something New
+        hint: Did you gain new knowledge
+        type: select_one
+        options: ["Yes, a Lot", "Yes, Some", "A Little", "No"]
+        required: true
+      - id: 18
+        name: apply_learnings
+        label: Will You Apply What You Learned
+        hint: Can you use this information
+        type: select_one
+        options: ["Definitely", "Probably", "Maybe", "Unlikely"]
+        required: false
+      - id: 19
+        name: section_feedback
+        label: -- Overall Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: overall_satisfaction
+        label: Overall Satisfaction with Program
+        hint: Rate your experience
+        type: select_one
+        options: ["Excellent", "Very Good", "Good", "Average", "Poor"]
+        required: true
+      - id: 21
+        name: recommendations
+        label: Recommendations for Improvement
+        hint: How can we improve this program
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: attend_again
+        label: Will You Attend Future Programs
+        hint: Are you interested in returning
+        type: select_one
+        options: ["Definitely", "Probably", "Maybe", "Unlikely"]
+        required: false

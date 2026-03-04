@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safety Training Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: safety_topics
+      label: Safety Topics
+      hint: Which safety topics do you think are covered in the training?
+      type: select_multiple
+      options:
+      - Value 1
+      - Value 2
+      required: false
+    - id: 3
+      name: training_effectiveness
+      label: Effectiveness of the Training
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: training_leaders
+      label: Training Leaders
+      hint: Who were the training leaders that presented the training?
+      type: select_one
+      options:
+      - John
+      - Jane
+      required: false
+    - id: 5
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: safety_culture
+      label: Safety Culture
+      hint: What is the current state of the safety culture within your organization?
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

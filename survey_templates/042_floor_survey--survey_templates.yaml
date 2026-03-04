@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Floor Survey
+    pages:
+    - id: 1
+      name: floor_survey_first_floor
+      label: floor survey first floor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: floor_survey_second_floor
+      label: floor survey second floor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: building_name
+      label: building name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: location
+      label: location
+      hint: null
+      type: select_one
+      options:
+      - '{101: ''Floor 3''}'
+      - '{102: ''Floor 4''}'
+      - '{103: ''Other''}'
+      required: true
+    - id: 5
+      name: building_type
+      label: building type
+      hint: null
+      type: select_multiple
+      options:
+      - residential
+      - commercial
+      - industrial
+      required: true
+    - id: 6
+      name: building_size
+      label: building size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: floor_area
+      label: floor area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: building_address
+      label: building address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_person
+      label: contact person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_phone
+      label: contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: building_features
+      label: building features
+      hint: null
+      type: select_multiple
+      options:
+      - elevator
+      - parking
+      - security
+      required: false
+    - id: 13
+      name: building_image
+      label: building image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: building_notes
+      label: building notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_info
+      label: additional info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: floor_plan_image
+      label: floor plan image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: building_video
+      label: building video
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: building_audios
+      label: building audios
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: building_images
+      label: building images
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: building_videos
+      label: building videos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: floor_plan_videos
+      label: floor plan videos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: building_audios2
+      label: building audios2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: building_videos2
+      label: building videos2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: floor_plan_audios
+      label: floor plan audios
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: floor_survey_comments
+      label: floor survey comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dream Sharing Form
+    pages:
+    - id: 1
+      name: dream_sharing_form
+      label: Dream Sharing Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Survey Templates
+      - Questionnaire Templates
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: dream_narrative
+      label: Dream Narrative
+      hint: Write your dream narrative
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reflections
+      label: Reflections
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: researcher_id
+      label: Researcher ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: educator_id
+      label: Educator ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: counselor_id
+      label: Counselor ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: dream_collector
+      label: Dream Collector
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: dream_collector_email
+      label: Dream Collector Email
+      hint: null
+      type: email
+      options: []
+      required: false

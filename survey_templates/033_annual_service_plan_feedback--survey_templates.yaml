@@ -1,0 +1,230 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Annual Service Plan Feedback
+    pages:
+      - id: 1
+        name: customer_name
+        label: Your Name
+        hint: First and last name
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: customer_email
+        label: Email Address
+        hint: For follow-up communication
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: customer_id
+        label: Customer or Account ID
+        hint: If available
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: service_type
+        label: Type of Service
+        hint: Service plan or package you have
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: subscription_length
+        label: How long have you been a customer
+        hint: null
+        type: select_one
+        options:
+          - "Less than 3 months"
+          - "3-6 months"
+          - "6-12 months"
+          - "1-2 years"
+          - "More than 2 years"
+        required: true
+      - id: 6
+        name: overall_satisfaction
+        label: Overall satisfaction with service
+        hint: null
+        type: select_one
+        options:
+          - "Very satisfied"
+          - "Satisfied"
+          - "Neutral"
+          - "Dissatisfied"
+          - "Very dissatisfied"
+        required: true
+      - id: 7
+        name: service_quality
+        label: Quality of service provided
+        hint: null
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Satisfactory"
+          - "Poor"
+          - "Very poor"
+        required: true
+      - id: 8
+        name: value_for_money
+        label: Service provides good value for money
+        hint: null
+        type: select_one
+        options:
+          - "Strongly agree"
+          - "Agree"
+          - "Neutral"
+          - "Disagree"
+          - "Strongly disagree"
+        required: true
+      - id: 9
+        name: reliability
+        label: Service reliability and consistency
+        hint: Can you count on consistent service
+        type: select_one
+        options:
+          - "Very reliable"
+          - "Reliable"
+          - "Somewhat reliable"
+          - "Unreliable"
+          - "Very unreliable"
+        required: true
+      - id: 10
+        name: customer_support
+        label: Quality of customer support
+        hint: Help when you have issues
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Satisfactory"
+          - "Poor"
+          - "Have not needed support"
+        required: true
+      - id: 11
+        name: support_responsiveness
+        label: Support responsiveness and speed
+        hint: How quickly issues are resolved
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Satisfactory"
+          - "Slow"
+          - "Very slow"
+        required: true
+      - id: 12
+        name: communication_quality
+        label: Quality of communications
+        hint: Updates and information clarity
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Satisfactory"
+          - "Poor"
+          - "Very poor"
+        required: true
+      - id: 13
+        name: expectations_met
+        label: Service meets my expectations
+        hint: null
+        type: select_one
+        options:
+          - "Exceeds expectations"
+          - "Meets expectations"
+          - "Partially meets expectations"
+          - "Below expectations"
+        required: true
+      - id: 14
+        name: most_valued_features
+        label: Most valued service features
+        hint: What you appreciate most
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: improvement_areas
+        label: Areas for improvement
+        hint: What could be better
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: feature_requests
+        label: Desired new features or services
+        hint: What would enhance your experience
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: price_fairness
+        label: Price is fair for value received
+        hint: null
+        type: select_one
+        options:
+          - "Strongly agree"
+          - "Agree"
+          - "Neutral"
+          - "Disagree"
+          - "Strongly disagree"
+        required: true
+      - id: 18
+        name: price_change_willingness
+        label: Willingness to pay more for enhanced service
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "Maybe"
+          - "No"
+          - "Already too expensive"
+        required: false
+      - id: 19
+        name: competitor_consideration
+        label: Considered switching to competitor
+        hint: null
+        type: select_one
+        options:
+          - "Never"
+          - "Rarely"
+          - "Occasionally"
+          - "Frequently"
+        required: true
+      - id: 20
+        name: likelihood_renew
+        label: Likelihood to renew service
+        hint: null
+        type: select_one
+        options:
+          - "Very likely"
+          - "Likely"
+          - "Undecided"
+          - "Unlikely"
+          - "Very unlikely"
+        required: true
+      - id: 21
+        name: recommend_others
+        label: Would recommend to others
+        hint: null
+        type: select_one
+        options:
+          - "Definitely"
+          - "Probably"
+          - "Unsure"
+          - "Probably not"
+          - "Definitely not"
+        required: true

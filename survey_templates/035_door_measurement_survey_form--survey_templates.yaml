@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Door Measurement Survey Form
+    pages:
+    - id: 1
+      name: door_type
+      label: Door Type
+      hint: null
+      type: select_one
+      options:
+      - Panel Door
+      - Sliding Glass Door
+      - Steel Door
+      - Other
+      required: true
+    - id: 2
+      name: door_height
+      label: height
+      hint: None
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: door_width
+      label: width
+      hint: None
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: door_thickness
+      label: thickness
+      hint: None
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: door_material
+      label: material
+      hint: null
+      type: select_one
+      options:
+      - Wood
+      - Metal
+      - Glass
+      - Other
+      required: true
+    - id: 6
+      name: door_style
+      label: style
+      hint: null
+      type: select_multiple
+      options:
+      - Rounded
+      - Arch
+      - Raised Panel
+      - Flat
+      - Other
+      required: false
+    - id: 7
+      name: door_color
+      label: color
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: door_condition
+      label: condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 9
+      name: door_notes
+      label: notes
+      hint: None
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: installer_notes
+      label: installer_notes
+      hint: None
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: property_manager_notes
+      label: property_manager_notes
+      hint: None
+      type: note
+      options: []
+      required: false

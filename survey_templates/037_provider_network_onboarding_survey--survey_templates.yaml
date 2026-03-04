@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: provider_network_onboarding_survey
+    pages:
+    - id: 1
+      name: provider_organization
+      label: provider-organization
+      hint: null
+      type: select_multiple
+      options:
+      - Value 1
+      - Value 2
+      - Value 3
+      required: false
+    - id: 2
+      name: contact_name
+      label: contact-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: onboarding_date
+      label: onboarding-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: onboarding_status
+      label: onboarding-status
+      hint: null
+      type: select_one
+      options:
+      - Value 1
+      - Value 2
+      required: false
+    - id: 7
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: readiness_score
+      label: readiness-score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: readiness_insights
+      label: readiness-insights
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: onboarding_team
+      label: onboarding-team
+      hint: null
+      type: select_multiple
+      options:
+      - Value 1
+      - Value 2
+      required: false
+    - id: 12
+      name: follow_up
+      label: follow-up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_frequency
+      label: follow-up-frequency
+      hint: null
+      type: select_one
+      options:
+      - Value 1
+      - Value 2
+      required: false

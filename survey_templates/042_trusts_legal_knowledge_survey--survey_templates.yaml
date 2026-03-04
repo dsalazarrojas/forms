@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trusts Legal Knowledge Survey
+    pages:
+    - id: 1
+      name: survey_template
+      label: Survey Template
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: trusts_legal_knowledge_survey
+      label: What is a trust?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: trusts_facts_question
+      label: What are some key facts about trusts?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: key_facts_answers
+      label: Key Facts Answers
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: trusts_legal_knowledge_assessment
+      label: Legal Knowledge Assessment
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: improvement_recommendations
+      label: Improvement Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: educator_comments
+      label: Educator Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: legal_firm_name
+      label: Legal Firm Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: legal_firm_email
+      label: Legal Firm Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: legal_firm_phone
+      label: Legal Firm Phone
+      hint: null
+      type: text
+      options: []
+      required: false

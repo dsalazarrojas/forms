@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Word Puzzle Game Survey
+    pages:
+    - id: 1
+      name: game_developer_name
+      label: Game Developer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: game_puzzle_type
+      label: Game Puzzle Type
+      hint: null
+      type: select_one
+      options:
+      - Puzzle 1
+      - Puzzle 2
+      - Puzzle 3
+      required: false
+    - id: 3
+      name: game_puzzles_played
+      label: Games Puzzles Played
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: feature_ideas
+      label: Feature Ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: time_spent
+      label: Time Spent
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: game_difficulty_level
+      label: Game Difficulty Level
+      hint: null
+      type: select_one
+      options:
+      - Easy
+      - Medium
+      - Hard
+      required: false
+    - id: 10
+      name: play_again
+      label: Would You Like to Play Again?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 11
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: rating_value
+      label: Rating Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: game_type
+      label: Game Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: game_title
+      label: Game Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: game_description
+      label: Game Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: game_developer_url
+      label: Game Developer URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: game_puzzle_game_id
+      label: Game Puzzle Game ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: game_release_date
+      label: Game Release Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: game_purchase_date
+      label: Game Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: game_puzzles_played_per_session
+      label: Puzzles Played per Session
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: game_puzzles_time_to_complete
+      label: Puzzles Time to Complete
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 25
+      name: game_difficulty_rating
+      label: Difficulty Rating
+      hint: null
+      type: number
+      options: []
+      required: true

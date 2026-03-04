@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Driving Survey
+    pages:
+    - id: 1
+      name: driving_survey_page_1
+      label: how_do_you_drive
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: driving_survey_page_2
+      label: when_do_you_drive
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: driving_survey_page_3
+      label: do_you_drive_to_work
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 4
+      name: driving_survey_page_4
+      label: how_much_do_you_drive
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: driving_survey_page_5
+      label: how_often_do_you_drive
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: driving_survey_page_6
+      label: driving_license
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 7
+      name: driving_survey_page_7
+      label: how_far_from_work
+      hint: null
+      type: select_one
+      options:
+      - option4
+      - option5
+      required: false
+    - id: 8
+      name: driving_survey_page_8
+      label: driving_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: driving_survey_page_9
+      label: driving_day
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: driving_survey_page_10
+      label: driving_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: driving_survey_page_11
+      label: driving_phone
+      hint: null
+      type: text
+      options: []
+      required: false

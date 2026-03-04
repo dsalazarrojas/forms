@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Faculty Student Partnership Attitudes Survey
+    pages:
+    - id: 1
+      name: faculty_partnership
+      label: Faculty
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: student_partnership
+      label: Student
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: faculty_students_collaboration
+      label: Faculty
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: student_students_collaboration
+      label: Student
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: faculty_students_involvement
+      label: Faculty
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: student_students_involvement
+      label: Student
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: faculty_students_partnership
+      label: Faculty-Student
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: student_students_partnership
+      label: Faculty-Student
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: faculty_students_collaboration_frequency
+      label: Faculty-Student
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: student_students_collaboration_frequency
+      label: Faculty-Student
+      hint: null
+      type: note
+      options: []
+      required: false

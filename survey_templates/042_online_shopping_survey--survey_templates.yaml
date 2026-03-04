@@ -1,0 +1,265 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Shopping Survey
+    pages:
+    - id: 1
+      name: store_type
+      label: Online Store
+      hint: null
+      type: select_one
+      options:
+      - book
+      - magazine
+      - clothing
+      - furniture
+      required: false
+    - id: 2
+      name: customer_service
+      label: Customer Service
+      hint: null
+      type: select_multiple
+      options:
+      - very_good
+      - somewhat_good
+      - neutral
+      - very_bad
+      required: false
+    - id: 3
+      name: product_quality
+      label: Product Quality
+      hint: null
+      type: select_one
+      options:
+      - very_good
+      - somewhat_good
+      - neutral
+      - very_bad
+      required: false
+    - id: 4
+      name: price_range
+      label: Price Range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: delivery_speed
+      label: Delivery Speed
+      hint: null
+      type: select_one
+      options:
+      - very_fast
+      - somewhat_fast
+      - neutral
+      - very_slow
+      required: false
+    - id: 6
+      name: return_policy
+      label: Return Policy
+      hint: null
+      type: select_one
+      options:
+      - very_strict
+      - somewhat_strict
+      - neutral
+      - very_relaxed
+      required: false
+    - id: 7
+      name: customer_service_quality
+      label: Customer Service Quality
+      hint: null
+      type: select_one
+      options:
+      - very_good
+      - somewhat_good
+      - neutral
+      - very_bad
+      required: false
+    - id: 8
+      name: product_relevance
+      label: Product Relevance
+      hint: null
+      type: select_one
+      options:
+      - very_relevant
+      - somewhat_relevant
+      - neutral
+      - very_irrelevant
+      required: false
+    - id: 9
+      name: ease_of_purchasing
+      label: Ease of Purchasing
+      hint: null
+      type: select_one
+      options:
+      - very_easy
+      - somewhat_easy
+      - neutral
+      - very_difficult
+      required: false
+    - id: 10
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - very_satisfied
+      - somewhat_satisfied
+      - neutral
+      - very_dissatisfied
+      required: false
+    - id: 11
+      name: product_selection
+      label: Product Selection
+      hint: null
+      type: select_one
+      options:
+      - very_friendly
+      - somewhat_friendly
+      - neutral
+      - very_unfriendly
+      required: false
+    - id: 12
+      name: product_info
+      label: Product Information
+      hint: null
+      type: select_one
+      options:
+      - very_good
+      - somewhat_good
+      - neutral
+      - very_bad
+      required: false
+    - id: 13
+      name: store_layout
+      label: Store Layout
+      hint: null
+      type: select_one
+      options:
+      - very_intuitive
+      - somewhat_intuitive
+      - neutral
+      - very_non_intuitive
+      required: false
+    - id: 14
+      name: search_functionality
+      label: Search Functionality
+      hint: null
+      type: select_one
+      options:
+      - very_good
+      - somewhat_good
+      - neutral
+      - very_bad
+      required: false
+    - id: 15
+      name: checkout_process
+      label: Checkout Process
+      hint: null
+      type: select_one
+      options:
+      - very_easy
+      - somewhat_easy
+      - neutral
+      - very_difficult
+      required: false
+    - id: 16
+      name: product_price
+      label: Product Price
+      hint: null
+      type: select_one
+      options:
+      - very_affordable
+      - somewhat_affordable
+      - neutral
+      - very_expensive
+      required: false
+    - id: 17
+      name: product_availability
+      label: Product Availability
+      hint: null
+      type: select_one
+      options:
+      - always_available
+      - sometimes_available
+      - never_available
+      required: false
+    - id: 18
+      name: store_atmosphere
+      label: Store Atmosphere
+      hint: null
+      type: select_one
+      options:
+      - very_friendly
+      - somewhat_friendly
+      - neutral
+      - very_unfriendly
+      required: false
+    - id: 19
+      name: product_return
+      label: Product Return
+      hint: null
+      type: select_one
+      options:
+      - always_return
+      - sometimes_return
+      - never_return
+      required: false
+    - id: 20
+      name: customer_experience
+      label: Customer Experience
+      hint: null
+      type: select_one
+      options:
+      - very_good
+      - somewhat_good
+      - neutral
+      - very_bad
+      required: false
+    - id: 21
+      name: product_warranty
+      label: Product Warranty
+      hint: null
+      type: select_one
+      options:
+      - always_warranty
+      - sometimes_warranty
+      - never_warranty
+      required: false
+    - id: 22
+      name: order_speed
+      label: Order Speed
+      hint: null
+      type: select_one
+      options:
+      - very_fast
+      - somewhat_fast
+      - neutral
+      - very_slow
+      required: false
+    - id: 23
+      name: product_return_policy
+      label: Product Return Policy
+      hint: null
+      type: select_one
+      options:
+      - very_strict
+      - somewhat_strict
+      - neutral
+      - very_relaxed
+      required: false
+    - id: 24
+      name: customer_service_contact
+      label: Customer Service Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

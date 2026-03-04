@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tournament Safety Measures Feedback Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: introduction
+      label: How would you rate the overall safety level of the tournament venue?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: emergency_services
+      label: Availability of Emergency Services
+      hint: null
+      type: select_one
+      options:
+      - First Aid Station
+      - Security Guards
+      - Emergency Phone
+      required: true
+    - id: 4
+      name: incident_response
+      label: Response to incidents
+      hint: null
+      type: select_multiple
+      options:
+      - Prompt Response
+      - Effective Response
+      - Clear Communication
+      required: false
+    - id: 5
+      name: emergency_exit_plan
+      label: Emergency Exit Plan
+      hint: null
+      type: select_one
+      options:
+      - Well-Defined Plan
+      - Not Implemented
+      - Not Aware
+      required: true
+    - id: 6
+      name: first_aid_station
+      label: First Aid Station
+      hint: Availability and quality of first aid station
+      type: select_multiple
+      options:
+      - Well-equipped
+      - Basic
+      - None
+      required: false
+    - id: 7
+      name: safety_measures
+      label: Safety Measures
+      hint: Were there safety measures in place during the tournament?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: overall_safety_level
+      label: Overall Safety Level
+      hint: null
+      type: select_one
+      options:
+      - Very Safe
+      - Somewhat Safe
+      - Not Safe
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_info
+      label: Emergency Contact Info
+      hint: null
+      type: select_multiple
+      options:
+      - Name and Phone Number
+      - Name and Email
+      - Name and Both
+      required: false
+    - id: 11
+      name: follow_up
+      label: Follow up on safety measures
+      hint: null
+      type: select_one
+      options:
+      - Immediately
+      - Within 24 hours
+      - Not within 24 hours
+      required: false
+    - id: 12
+      name: contact_us
+      label: Would you like to be contacted?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: feedback_details
+      label: feedback_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: follow_up_following
+      label: Follow up following the feedback
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_date
+      label: Follow up date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_time
+      label: Follow up time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_details
+      label: Follow up details
+      hint: null
+      type: text
+      options: []
+      required: false

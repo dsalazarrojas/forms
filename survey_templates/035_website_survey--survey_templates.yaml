@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: website_survey
+    pages:
+    - id: 1
+      name: intro
+      label: What would you like to say
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: website_feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: website_url
+      label: website_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: website_experience
+      label: experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: website_satisfaction
+      label: satisfaction
+      hint: null
+      type: select_one
+      options:
+      - very_dissatisfied
+      - somewhat_dissatisfied
+      - neutral
+      - somewhat_satisfied
+      - very_satisfied
+      required: false
+    - id: 8
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,290 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Condition Assessment Survey
+    pages:
+    - id: 1
+      name: assessor_name
+      label: Assessor Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company
+      label: Company
+      hint: Assessment firm
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of assessment
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: building_name
+      label: Building Name
+      hint: Name of building
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: building_address
+      label: Building Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: building_type
+      label: Building Type
+      hint: Classification
+      type: select_one
+      options:
+      - Office
+      - Residential
+      - Retail
+      - Industrial
+      - Healthcare
+      - Educational
+      - Mixed Use
+      - Other
+      required: true
+    - id: 9
+      name: year_built
+      label: Year Built
+      hint: Construction year
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: total_square_footage
+      label: Total Square Footage
+      hint: Building size
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: number_of_floors
+      label: Number of Floors
+      hint: Total floors
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: foundation_condition
+      label: Foundation Condition
+      hint: Rate the foundation
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Critical
+      - Not Visible
+      required: true
+    - id: 13
+      name: structural_condition
+      label: Structural Condition
+      hint: Rate structural elements
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Critical
+      required: true
+    - id: 14
+      name: roof_condition
+      label: Roof Condition
+      hint: Rate the roof
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Critical
+      - Not Accessible
+      required: true
+    - id: 15
+      name: exterior_walls
+      label: Exterior Walls Condition
+      hint: Rate exterior
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Critical
+      required: true
+    - id: 16
+      name: windows_doors
+      label: Windows and Doors
+      hint: Rate condition
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Critical
+      required: true
+    - id: 17
+      name: plumbing_system
+      label: Plumbing System
+      hint: Rate plumbing
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Critical
+      - Not Assessed
+      required: true
+    - id: 18
+      name: electrical_system
+      label: Electrical System
+      hint: Rate electrical
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Critical
+      - Not Assessed
+      required: true
+    - id: 19
+      name: hvac_system
+      label: HVAC System
+      hint: Rate heating and cooling
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Critical
+      - Not Assessed
+      required: true
+    - id: 20
+      name: interior_condition
+      label: Interior Condition
+      hint: Rate interior spaces
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Critical
+      required: true
+    - id: 21
+      name: flooring_condition
+      label: Flooring Condition
+      hint: Rate floors
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Critical
+      required: true
+    - id: 22
+      name: fire_safety
+      label: Fire Safety Systems
+      hint: Rate fire safety
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Critical
+      - Not Assessed
+      required: true
+    - id: 23
+      name: accessibility_compliance
+      label: Accessibility Compliance
+      hint: Rate compliance
+      type: select_one
+      options:
+      - Fully Compliant
+      - Mostly Compliant
+      - Partially Compliant
+      - Non-Compliant
+      - Not Assessed
+      required: true
+    - id: 24
+      name: major_deficiencies
+      label: Major Deficiencies
+      hint: Describe significant issues
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: recommended_repairs
+      label: Recommended Repairs
+      hint: List needed repairs
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: priority_level
+      label: Overall Priority Level
+      hint: Urgency of work
+      type: select_one
+      options:
+      - Immediate Action Required
+      - Action Within 6 Months
+      - Action Within 1 Year
+      - Routine Maintenance
+      - No Action Needed
+      required: true
+    - id: 27
+      name: estimated_repair_cost
+      label: Estimated Repair Cost
+      hint: Approximate cost
+      type: select_one
+      options:
+      - Under $10,000
+      - $10,000 - $50,000
+      - $50,000 - $100,000
+      - $100,000 - $500,000
+      - Over $500,000
+      required: false
+    - id: 28
+      name: overall_rating
+      label: Overall Building Condition
+      hint: Final assessment
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Critical
+      required: true

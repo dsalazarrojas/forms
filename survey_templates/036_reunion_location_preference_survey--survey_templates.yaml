@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reunion Location Preference Survey
+    pages:
+    - id: 1
+      name: location_preference
+      label: Location Preference
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Hawaii''}'
+      - '{''text'': ''Florida''}'
+      - '{''text'': ''Las Vegas''}'
+      - '{''text'': ''California''}'
+      - '{''text'': ''Texas''}'
+      - '{''text'': ''Other''}'
+      required: false
+    - id: 2
+      name: attendance_likelihood
+      label: Attendance Likelihood
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Likely''}'
+      - '{''text'': ''Unlikely''}'
+      required: false
+    - id: 3
+      name: recommended_location
+      label: Recommended Location Preference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: Select start date for your reunion
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: Select end date for your reunion
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

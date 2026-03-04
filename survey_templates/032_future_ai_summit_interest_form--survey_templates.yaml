@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Future AI Summit Interest Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: role
+      label: Your Role
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Attendee''}'
+      - '{''label'': ''Partner''}'
+      - '{''label'': ''Speaker''}'
+      required: false
+    - id: 6
+      name: interests
+      label: Interests
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''AI Ethics''}'
+      - '{''label'': ''AI in Business''}'
+      - '{''label'': ''AI in Education''}'
+      - '{''label'': ''AI in Health''}'
+      - '{''label'': ''AI in Research''}'
+      required: false
+    - id: 7
+      name: how_did_you_hear
+      label: How did you hear about us?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: any_other_interests
+      label: Other interests
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Program Impact Evaluation Questionnaire
+    pages:
+    - id: 1
+      name: training_title
+      label: Training Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: training_outcomes
+      label: What were the outcomes from the training?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: program_impact
+      label: What impact did the training have on you?
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Somewhat positive
+      - Neutral
+      - Somewhat negative
+      - Negative
+      - Very negative
+      required: false
+    - id: 7
+      name: rating
+      label: Rating
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: program_location
+      label: Program Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: training_duration
+      label: Training Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: training_facilitator
+      label: Training Facilitator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: program_length
+      label: Program Length
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: training_length
+      label: Training Length
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: session_number
+      label: Session Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: sessions_total
+      label: Total Sessions
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: sessions_completed
+      label: Completed Sessions
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: program_id
+      label: Program ID
+      hint: null
+      type: text
+      options: []
+      required: true

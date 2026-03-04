@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Waiting Room Feedback Form
+    pages:
+    - id: 1
+      name: waiting_room_feedback_form
+      label: What is your experience like in the waiting room?
+      hint: Tell us about your wait time and comfort level
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction_survey
+      label: How satisfied are you with our waiting room?
+      hint: Rate your satisfaction with our waiting room
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: comfort_level
+      label: How would you rate your comfort level while waiting?
+      hint: Rate your comfort level while waiting
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: waiting_time
+      label: How long did you wait?
+      hint: Tell us about your wait time
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: time_of_day
+      label: What time of day was your visit?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: visit_length
+      label: How long was your visit
+      hint: Tell us about your visit length
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: contact_information
+      label: Do you have any contact information you'd like to provide?
+      hint: Provide your phone number or email
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Do you have any additional comments or suggestions?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Do you have an email address we can contact you at?
+      hint: If you'd like to be contacted
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Do you have a phone number we can contact you at?
+      hint: null
+      type: text
+      options: []
+      required: false

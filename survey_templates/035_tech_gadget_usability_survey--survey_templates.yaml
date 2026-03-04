@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tech Gadget Usability Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_id
+      label: product id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: gadget_name
+      label: gadget name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: gadget_model
+      label: gadget model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - 1 - Not Satisfied
+      - 2 - Satisfied
+      - 3 - Very Satisfied
+      - 4 - Extremely Satisfied
+      required: false
+    - id: 6
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: improvement_areas
+      label: improvement areas
+      hint: null
+      type: select_multiple
+      options:
+      - hardware
+      - software
+      - usability
+      - user_experience
+      required: false
+    - id: 8
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact
+      label: contact
+      hint: null
+      type: text
+      options: []
+      required: false

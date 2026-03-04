@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: improv_character_and_costume_survey
+    pages:
+    - id: 1
+      name: character_details
+      label: Character Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: character_name
+      label: Character Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: character_type
+      label: Character Type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': True}'
+      - '{''name'': False}'
+      required: false
+    - id: 4
+      name: costume_needs
+      label: Costume Needs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': True}'
+      - '{''name'': False}'
+      - '{''name'': ''Maybe''}'
+      required: false
+    - id: 5
+      name: experience_level
+      label: Experience Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 6
+      name: costume_name
+      label: Costume Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: costume_type
+      label: Costume Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: rehearsal_needs
+      label: Rehearsal Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: show_needs
+      label: Show Needs
+      hint: null
+      type: text
+      options: []
+      required: false

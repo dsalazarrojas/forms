@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: media_consumption_survey
+    pages:
+    - id: 1
+      name: media_consumption_survey_form
+      label: media_consumption_survey_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: media_consumption
+      label: how_do_you_consume_media
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: media_consumption_time
+      label: how_much_time_do_you_spend
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false

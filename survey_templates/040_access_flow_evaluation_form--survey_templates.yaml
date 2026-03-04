@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Access Flow Evaluation Form
+    pages:
+    - id: 1
+      name: section_demographics
+      label: -- User Demographics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: user_type
+      label: Your relationship with the facility
+      hint: Frequency of visit
+      type: select_one
+      options:
+      - Frequent User or Employee
+      - Occasional Visitor
+      - First-time User
+      required: true
+    - id: 3
+      name: mobility_requirements
+      label: Do you have specific mobility requirements?
+      hint: Select all that apply
+      type: select_one
+      options:
+      - Yes - Wheelchair
+      - Yes - Visual Impairment
+      - Yes - Hearing Impairment
+      - 'No'
+      required: true
+    - id: 4
+      name: section_entrance
+      label: -- Facility Entrance Flow --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: entrance_accessibility
+      label: How would you rate the ease of finding the main entrance?
+      hint: Visibility and navigation
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Neutral
+      - Difficult
+      required: true
+    - id: 6
+      name: automatic_door_function
+      label: Were automatic doors functioning and accessible?
+      hint: Operation check
+      type: select_one
+      options:
+      - Yes - Excellent
+      - No - Difficult to use
+      - N/A
+      required: true
+    - id: 7
+      name: section_interior
+      label: -- Interior Navigation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: signage_clarity
+      label: Rate the clarity of directional signage
+      hint: help with navigation
+      type: select_one
+      options:
+      - Very Clear
+      - Clear
+      - Confusing
+      - No Signage Found
+      required: true
+    - id: 9
+      name: hallway_width_adequacy
+      label: Were hallways and paths wide enough for easy movement?
+      hint: Spacing check
+      type: select_one
+      options:
+      - Adequate
+      - Somewhat Narrow
+      - Not Adequate
+      required: true
+    - id: 10
+      name: elevator_accessibility
+      label: Rate the accessibility of elevators or lifts
+      hint: Inclusion check
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Poor
+      - N/A
+      required: true
+    - id: 11
+      name: section_restrooms
+      label: -- Restrooms and Services --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: restroom_accessibility
+      label: Rate the accessibility of restroom facilities
+      hint: ADA compliance perception
+      type: select_one
+      options:
+      - Fully Accessible
+      - Partially Accessible
+      - Not Accessible
+      required: true
+    - id: 13
+      name: service_counter_height
+      label: Was the service counter at a comfortable height?
+      hint: Interaction check
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - N/A
+      required: true
+    - id: 14
+      name: section_overall
+      label: -- Overall Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: barriers_encountered
+      label: Describe any specific barriers you encountered
+      hint: Specific details help us improve
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: improvement_suggestions
+      label: How can we make this facility more inclusive?
+      hint: user-driven suggestions
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: overall_access_score
+      label: Rate the overall accessibility score 1-10
+      hint: 10 is perfectly accessible
+      type: number
+      options: []
+      required: true

@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: ROC Pass Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: How was your experience with our service?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction
+      label: How satisfied are you with our service?
+      hint: On a scale of 1-5
+      type: select_one
+      options:
+      - '{1: ''Very dissatisfied''}'
+      - '{2: ''Somewhat dissatisfied''}'
+      - '{3: ''Neutral''}'
+      - '{4: ''Somewhat satisfied''}'
+      - '{5: ''Very satisfied''}'
+      required: false
+    - id: 3
+      name: usage
+      label: How often do you use our service?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Occasionally
+      - Rarely
+      required: false
+    - id: 4
+      name: improvement
+      label: What are some areas that need improvement?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact
+      label: How would you like to be contacted for feedback?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In-person
+      required: false
+    - id: 6
+      name: email
+      label: What is your email address?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: false

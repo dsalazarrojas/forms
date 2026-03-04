@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Privacy And Information Security Training Feedback
+    pages:
+    - id: 1
+      name: training_session_details
+      label: Training Session Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: attended
+      label: Have you attended this training?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Yes''}'
+      - '{''label'': ''No''}'
+      required: true
+    - id: 3
+      name: attended_date
+      label: Date of attendance
+      hint: mm/dd
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: attended_time
+      label: Time of attendance
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: instructor_name
+      label: Name of Instructor
+      hint: Name of the Instructor
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: session_length
+      label: Length of Session
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: instructor_performance
+      label: Instructor Performance
+      hint: Rate the performance of the instructor
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: true

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Embossed Product Feedback Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: survey_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_name
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_type
+      label: product_type
+      hint: null
+      type: select_one
+      options:
+      - Embosed
+      - Non-Embosed
+      required: false
+    - id: 4
+      name: product_rating
+      label: product_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: product_price
+      label: product_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: product_description
+      label: product_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitted
+      label: submitted
+      hint: null
+      type: time
+      options: []
+      required: false

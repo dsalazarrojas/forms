@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Store Experience Inquiry Form
+    pages:
+    - id: 1
+      name: store_experience
+      label: Store Experience
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: product_quality
+      label: Product Quality
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_satisfied''}'
+      - '{''value'': ''neutral''}'
+      - '{''value'': ''not_satisfied''}'
+      required: false
+    - id: 3
+      name: service_quality
+      label: Service Quality
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''excellent''}'
+      - '{''value'': ''good''}'
+      - '{''value'': ''fair''}'
+      - '{''value'': ''poor''}'
+      required: false
+    - id: 4
+      name: employee_friendliness
+      label: Employee Friendliness
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_helpful''}'
+      - '{''value'': ''somewhat_helpful''}'
+      - '{''value'': ''not_helpful''}'
+      required: false
+    - id: 5
+      name: store_cleanliness
+      label: Store Cleanliness
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''excellent''}'
+      - '{''value'': ''good''}'
+      - '{''value'': ''fair''}'
+      - '{''value'': ''poor''}'
+      required: false
+    - id: 6
+      name: employee_knowledge
+      label: Employee Knowledge
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_knowledgeable''}'
+      - '{''value'': ''somewhat_knowledgeable''}'
+      - '{''value'': ''not_knowledgeable''}'
+      required: false
+    - id: 7
+      name: store_location
+      label: Store Location
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''excellent''}'
+      - '{''value'': ''good''}'
+      - '{''value'': ''fair''}'
+      - '{''value'': ''poor''}'
+      required: false
+    - id: 8
+      name: store_hours
+      label: Store Hours
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: visited_before
+      label: Visited Before
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 10
+      name: visited_other_locations
+      label: Visited Other Locations
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 11
+      name: first_time_customer
+      label: First Time Customer
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 12
+      name: referred_by
+      label: Referred By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: store_name
+      label: Store Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: store_location_map
+      label: Store Location Map
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''google_maps''}'
+      - '{''value'': ''apple_maps''}'
+      required: false
+    - id: 19
+      name: store_location_other
+      label: Other Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: store_name_other
+      label: Other Store Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: store_address
+      label: Store Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: store_website
+      label: Store Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: store_facebook
+      label: Store Facebook
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: store_twitter
+      label: Store Twitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: store_instagram
+      label: Store Instagram
+      hint: null
+      type: text
+      options: []
+      required: false

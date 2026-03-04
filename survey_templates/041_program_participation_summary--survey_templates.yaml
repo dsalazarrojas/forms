@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Program Participation Summary
+    pages:
+    - id: 1
+      name: program_participation_summary_form
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: Participant name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: program_outcomes
+      label: Program Outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: program_outcome_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_feedback
+      label: Participant Feedback
+      hint: null
+      type: select_one
+      options:
+      - Feedback 1
+      - Feedback 2
+      - Feedback 3
+      required: false
+    - id: 6
+      name: participant_feedback_comments
+      label: Comments
+      hint: Participant feedback
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_program_outcome_score
+      label: Participant Outcome Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: participant_program_outcome_score_scale
+      label: Outcome Scale
+      hint: null
+      type: select_one
+      options:
+      - Scale 1
+      - Scale 2
+      - Scale 3
+      required: false
+    - id: 9
+      name: participant_program_outcome_score_comments
+      label: Comments
+      hint: Participant outcome score comments
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false

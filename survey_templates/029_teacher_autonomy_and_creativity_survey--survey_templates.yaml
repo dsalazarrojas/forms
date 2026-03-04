@@ -1,0 +1,267 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Autonomy And Creativity Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Welcome
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: autonomy_freedum
+      label: How much freedom
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: creativity_support
+      label: Innovative teaching
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Not at all''}'
+      - '{''value'': 2, ''label'': ''A little''}'
+      - '{''value'': 3, ''label'': ''Somewhat''}'
+      - '{''value'': 4, ''label'': ''A lot''}'
+      required: false
+    - id: 4
+      name: teacher_influence
+      label: Teacher influence
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Not at all''}'
+      - '{''value'': 2, ''label'': ''A little''}'
+      - '{''value'': 3, ''label'': ''Somewhat''}'
+      - '{''value'': 4, ''label'': ''A lot''}'
+      required: false
+    - id: 5
+      name: decision_making
+      label: Decision making
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Not at all''}'
+      - '{''value'': 2, ''label'': ''A little''}'
+      - '{''value'': 3, ''label'': ''Somewhat''}'
+      - '{''value'': 4, ''label'': ''A lot''}'
+      required: false
+    - id: 6
+      name: communication
+      label: Communication
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Not at all''}'
+      - '{''value'': 2, ''label'': ''A little''}'
+      - '{''value'': 3, ''label'': ''Somewhat''}'
+      - '{''value'': 4, ''label'': ''A lot''}'
+      required: false
+    - id: 7
+      name: innovation_support
+      label: Innovative teaching support
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Not at all''}'
+      - '{''value'': 2, ''label'': ''A little''}'
+      - '{''value'': 3, ''label'': ''Somewhat''}'
+      - '{''value'': 4, ''label'': ''A lot''}'
+      required: false
+    - id: 8
+      name: teacher_ownership
+      label: Teacher ownership
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Not at all''}'
+      - '{''value'': 2, ''label'': ''A little''}'
+      - '{''value'': 3, ''label'': ''Somewhat''}'
+      - '{''value'': 4, ''label'': ''A lot''}'
+      required: false
+    - id: 9
+      name: school_environment
+      label: School environment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: principal_influence
+      label: Principal influence
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Not at all''}'
+      - '{''value'': 2, ''label'': ''A little''}'
+      - '{''value'': 3, ''label'': ''Somewhat''}'
+      - '{''value'': 4, ''label'': ''A lot''}'
+      required: false
+    - id: 11
+      name: peer_influence
+      label: Peer influence
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Not at all''}'
+      - '{''value'': 2, ''label'': ''A little''}'
+      - '{''value'': 3, ''label'': ''Somewhat''}'
+      - '{''value'': 4, ''label'': ''A lot''}'
+      required: false
+    - id: 12
+      name: student_influence
+      label: Student influence
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Not at all''}'
+      - '{''value'': 2, ''label'': ''A little''}'
+      - '{''value'': 4, ''label'': ''A lot''}'
+      required: false
+    - id: 13
+      name: teacher_influence_2
+      label: Teacher influence 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Not at all''}'
+      - '{''value'': 2, ''label'': ''A little''}'
+      - '{''value'': 3, ''label'': ''Somewhat''}'
+      - '{''value'': 4, ''label'': ''A lot''}'
+      required: false
+    - id: 14
+      name: other_influence
+      label: Other influence
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Not at all''}'
+      - '{''value'': 2, ''label'': ''A little''}'
+      - '{''value'': 3, ''label'': ''Somewhat''}'
+      - '{''value'': 4, ''label'': ''A lot''}'
+      required: false
+    - id: 15
+      name: teacher_influence_3
+      label: Teacher influence 3
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Not at all''}'
+      - '{''value'': 2, ''label'': ''A little''}'
+      - '{''value'': 3, ''label'': ''Somewhat''}'
+      - '{''value'': 4, ''label'': ''A lot''}'
+      required: false
+    - id: 16
+      name: other_influence_2
+      label: Other influence 2
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Not at all''}'
+      - '{''value'': 2, ''label'': ''A little''}'
+      - '{''value'': 3, ''label'': ''Somewhat''}'
+      - '{''value'': 4, ''label'': ''A lot''}'
+      required: false
+    - id: 17
+      name: teacher_influence_4
+      label: Teacher influence 4
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Not at all''}'
+      - '{''value'': 2, ''label'': ''A little''}'
+      - '{''value'': 3, ''label'': ''Somewhat''}'
+      - '{''value'': 4, ''label'': ''A lot''}'
+      required: false
+    - id: 18
+      name: other_influence_3
+      label: Other influence 3
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Not at all''}'
+      - '{''value'': 2, ''label'': ''A little''}'
+      - '{''value'': 3, ''label'': ''Somewhat''}'
+      - '{''value'': 4, ''label'': ''A lot''}'
+      required: false
+    - id: 19
+      name: teacher_influence_5
+      label: Teacher influence 5
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Not at all''}'
+      - '{''value'': 2, ''label'': ''A little''}'
+      - '{''value'': 3, ''label'': ''Somewhat''}'
+      - '{''value'': 4, ''label'': ''A lot''}'
+      required: false
+    - id: 20
+      name: other_influence_4
+      label: Other influence 4
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Not at all''}'
+      - '{''value'': 2, ''label'': ''A little''}'
+      - '{''value'': 3, ''label'': ''Somewhat''}'
+      - '{''value'': 4, ''label'': ''A lot''}'
+      required: false
+    - id: 21
+      name: teacher_influence_6
+      label: Teacher influence 6
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Not at all''}'
+      - '{''value'': 2, ''label'': ''A little''}'
+      - '{''value'': 3, ''label'': ''Somewhat''}'
+      - '{''value'': 4, ''label'': ''A lot''}'
+      required: false
+    - id: 22
+      name: teacher_influence_7
+      label: Teacher influence 7
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Not at all''}'
+      - '{''value'': 2, ''label'': ''A little''}'
+      - '{''value'': 3, ''label'': ''Somewhat''}'
+      - '{''value'': 4, ''label'': ''A lot''}'
+      required: false
+    - id: 23
+      name: other_influence_4
+      label: Other influence 4
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Not at all''}'
+      - '{''value'': 2, ''label'': ''A little''}'
+      - '{''value'': 3, ''label'': ''Somewhat''}'
+      - '{''value'': 4, ''label'': ''A lot''}'
+      required: false
+    - id: 24
+      name: teacher_influence_8
+      label: Teacher influence 8
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Not at all''}'
+      - '{''value'': 2, ''label'': ''A little''}'
+      - '{''value'': 3, ''label'': ''Somewhat''}'
+      - '{''value'': 4, ''label'': ''A lot''}'
+      required: false
+    - id: 25
+      name: other_influence_5
+      label: Other influence 5
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Not at all''}'
+      - '{''value'': 2, ''label'': ''A little''}'
+      - '{''value'': 3, ''label'': ''Somewhat''}'
+      - '{''value'': 4, ''label'': ''A lot''}'
+      required: false

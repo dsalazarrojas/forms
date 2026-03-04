@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Class Format Opinion Survey
+    pages:
+    - id: 1
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: instructor_title
+      label: Instructor Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: instructor_email
+      label: Instructor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: school_email
+      label: School Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: training_team
+      label: Training Team
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: virtual_learning_experience
+      label: Virtual Learning Experience
+      hint: How would you rate this virtual learning format in terms of overall quality?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: challenges_faced
+      label: Challenges Faced
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: school_url
+      label: School URL
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Google Drive''}'
+      - '{2: ''Google Sites''}'
+      - '{3: ''Other''}'
+      required: false

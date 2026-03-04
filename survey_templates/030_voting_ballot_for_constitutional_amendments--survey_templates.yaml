@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Voting Ballot For Constitutional Amendments
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: amendment_1
+      label: amendment_1
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 3
+      name: date
+      label: date
+      hint: Date of Vote
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: time
+      hint: Time of Vote
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: note
+      label: notes
+      hint: Additional Notes
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vote_result
+      label: vote_result
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true

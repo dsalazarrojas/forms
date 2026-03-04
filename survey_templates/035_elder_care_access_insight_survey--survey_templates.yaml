@@ -1,0 +1,327 @@
+inputSchema:
+  type: object
+  properties:
+    title: Elder Care Access Insight Survey
+    pages:
+    - id: 1
+      name: elder_care_services
+      label: What are the elder care services your organization provides?
+      hint: null
+      type: select_multiple
+      options:
+      - Home help with daily tasks
+      - Adult day care
+      - Respite care
+      - Adult day health care
+      - Assisted living
+      - Home help with bathing
+      - Home help with eating
+      - Home help with walking
+      - Hospice care
+      required: false
+    - id: 2
+      name: satisfaction
+      label: How satisfied are you with the elder care services your organization
+        provides?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: barriers
+      label: What barriers do you face when accessing these services?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: regional_access
+      label: What region(s) do you access these services in?
+      hint: null
+      type: select_multiple
+      options:
+      - Rural
+      - Urban
+      - Suburban
+      - Other
+      required: false
+    - id: 5
+      name: feedback
+      label: Any additional feedback about the elder care services your organization
+        provides?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: Enter an email if you have feedback or questions
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: Enter a phone number if you have a question or need help
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: MM/DD/YY
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Adult care
+      - Care for children with special needs
+      - HIV/AIDS care
+      - Maternal and child care
+      - Mental health
+      required: false
+    - id: 11
+      name: demographic
+      label: Age group
+      hint: Select the age group you are most representative of
+      type: select_multiple
+      options:
+      - 65 and older
+      - 60-64
+      - 55-59
+      - 50-54
+      - 45-49
+      - 40-44
+      - 35-39
+      - 30-34
+      - 25-29
+      - 18-24
+      required: false
+    - id: 12
+      name: location
+      label: Location
+      hint: Select the location you are most representative of
+      type: select_multiple
+      options:
+      - Urban
+      - Rural
+      - Suburban
+      - Other
+      required: false
+    - id: 13
+      name: services
+      label: Services
+      hint: null
+      type: select_multiple
+      options:
+      - Home help with daily tasks
+      - Adult day care
+      - Respite care
+      - Adult day health care
+      - Assisted living
+      - Hospice care
+      required: false
+    - id: 14
+      name: population
+      label: Population
+      hint: null
+      type: select_multiple
+      options:
+      - Older adults (65+ years)
+      - Children and youth (0-17 years)
+      - Adults with disabilities
+      - Family caregivers
+      - All of the above
+      required: false
+    - id: 15
+      name: population_size
+      label: Population size
+      hint: Select the approximate number that best describes the population your
+        organization serves
+      type: select_one
+      options:
+      - <50
+      - 50-100
+      - 101-200
+      - 201-500
+      - 500+
+      required: false
+    - id: 16
+      name: demographic_2
+      label: Age group 2
+      hint: Select the age group you are most representative of
+      type: select_multiple
+      options:
+      - 65 and older
+      - 60-64
+      - 55-59
+      - 50-54
+      - 45-49
+      - 40-44
+      - 35-39
+      - 30-34
+      - 25-29
+      - 18-24
+      required: false
+    - id: 17
+      name: location_2
+      label: Location 2
+      hint: Select the location you are most representative of
+      type: select_multiple
+      options:
+      - Urban
+      - Rural
+      - Suburban
+      - Other
+      required: false
+    - id: 18
+      name: services_2
+      label: Services 2
+      hint: null
+      type: select_multiple
+      options:
+      - Home help with daily tasks
+      - Adult day care
+      - Respite care
+      - Adult day health care
+      - Assisted living
+      - Hospice care
+      required: false
+    - id: 19
+      name: population_2
+      label: Population 2
+      hint: null
+      type: select_multiple
+      options:
+      - Older adults (65+ years)
+      - Children and youth (0-17 years)
+      - Adults with disabilities
+      - Family caregivers
+      - All of the above
+      required: false
+    - id: 20
+      name: population_size_2
+      label: Population size 2
+      hint: Select the approximate number that best describes the population your
+        organization serves
+      type: select_one
+      options:
+      - <50
+      - 50-100
+      - 101-200
+      - 201-500
+      - 500+
+      required: false
+    - id: 21
+      name: demographic_3
+      label: Age group 3
+      hint: null
+      type: select_multiple
+      options:
+      - 65 and older
+      - 60-64
+      - 55-59
+      - 50-54
+      - 45-49
+      - 40-44
+      - 35-39
+      - 30-34
+      - 25-29
+      - 18-24
+      required: false
+    - id: 22
+      name: location_3
+      label: Location 3
+      hint: null
+      type: select_multiple
+      options:
+      - Urban
+      - Rural
+      - Suburban
+      - Other
+      required: false
+    - id: 23
+      name: services_3
+      label: Services 3
+      hint: null
+      type: select_multiple
+      options:
+      - Home help with daily tasks
+      - Adult day care
+      - Respite care
+      - Adult day health care
+      - Assisted living
+      - Hospice care
+      required: false
+    - id: 24
+      name: population_3
+      label: Population 3
+      hint: null
+      type: select_multiple
+      options:
+      - Older adults (65+ years)
+      - Children and youth (0-17 years)
+      - Adults with disabilities
+      - Family caregivers
+      - All of the above
+      required: false
+    - id: 25
+      name: feedback_2
+      label: Additional feedback 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: email_2
+      label: Email 2
+      hint: Enter an email if you have feedback or questions
+      type: email
+      options: []
+      required: false
+    - id: 27
+      name: phone_2
+      label: Phone 2
+      hint: Enter a phone number if you have a question or need help
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: date_2
+      label: Date 2
+      hint: MM/DD/YY
+      type: date
+      options: []
+      required: false
+    - id: 29
+      name: time_2
+      label: Time 2
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 30
+      name: category_2
+      label: Category 2
+      hint: Select the category you are most representative of
+      type: select_one
+      options:
+      - Adult care
+      - Care for children with special needs
+      - HIV/AIDS care
+      - Maternal and child care
+      - Mental health
+      required: false

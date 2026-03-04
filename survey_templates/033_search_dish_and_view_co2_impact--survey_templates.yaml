@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: search_dish_and_view_co2_impact
+    pages:
+    - id: 1
+      name: search_dish_and_view_co2_impact_form
+      label: Search Dish And View Co2 Impact Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: dish_details
+      label: Dish Details
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: serving_size
+      label: Serving Size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: meal_related_co2_impact
+      label: Meal Related Co2 Impact
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: serving_method
+      label: Serving Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Raw''}'
+      - '{''label'': ''Cooked''}'
+      - '{''label'': ''Frozen''}'
+      required: false
+    - id: 6
+      name: co2_footprint
+      label: Co2 Footprint
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: co2_emissions
+      label: Co2 Emissions
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: co2_saved
+      label: Co2 Saved
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: co2_offset
+      label: Co2 Offset
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: co2_reduced
+      label: Co2 Reduced
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: co2_reductions
+      label: Co2 Reductions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Unknown''}'
+      required: false
+    - id: 12
+      name: co2_impact
+      label: Co2 Impact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: food_business
+      label: Food Business
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Individual''}'
+      - '{''label'': ''Food Business''}'
+      required: false
+    - id: 14
+      name: food_business_name
+      label: Food Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: co2_impact_source
+      label: Co2 Impact Source
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Default''}'
+      - '{''label'': ''Provided''}'
+      required: true
+    - id: 18
+      name: co2_impact_source_other
+      label: Co2 Impact Source Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: co2_impact_source_other_details
+      label: Co2 Impact Source Other Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: co2_footprint_units
+      label: Co2 Footprint Units
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''metric''}'
+      - '{''label'': ''imperial''}'
+      - '{''label'': ''unitless''}'
+      required: true
+    - id: 21
+      name: co2_footprint_value
+      label: Co2 Footprint Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: co2_footprint_calculations
+      label: Co2 Footprint Calculations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: co2_footprint_reference
+      label: Co2 Footprint Reference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: co2_footprint_url
+      label: Co2 Footprint URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: co2_footprint_source
+      label: Co2 Footprint Source
+      hint: null
+      type: text
+      options: []
+      required: false

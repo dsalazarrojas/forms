@@ -1,0 +1,257 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Demographic Survey
+    pages:
+      - id: 1
+        name: personal_demographics
+        label: -- Personal Demographics --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: age_range
+        label: Age Range
+        hint: Your age group
+        type: select_one
+        options:
+          - 18-25
+          - 26-35
+          - 36-45
+          - 46-55
+          - 56-65
+          - 65+
+          - Prefer not to answer
+        required: true
+      - id: 3
+        name: gender
+        label: Gender
+        hint: Your gender identity
+        type: select_one
+        options:
+          - Male
+          - Female
+          - Non-binary
+          - Other
+          - Prefer not to answer
+        required: true
+      - id: 4
+        name: education_level
+        label: Education Level
+        hint: Highest education completed
+        type: select_one
+        options:
+          - High School
+          - Some College
+          - Bachelor's Degree
+          - Master's Degree
+          - PhD or Higher
+          - Trade/Technical
+          - Other
+        required: true
+      - id: 5
+        name: years_experience
+        label: Years of Business Experience
+        hint: Total business experience
+        type: select_one
+        options:
+          - Less than 1 year
+          - 1-5 years
+          - 5-10 years
+          - 10-15 years
+          - 15+ years
+        required: true
+      - id: 6
+        name: business_demographics
+        label: -- Business Demographics --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: business_industry
+        label: Primary Business Industry
+        hint: What industry is your business in
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: business_location
+        label: Business Location
+        hint: Geographic location
+        type: select_one
+        options:
+          - Urban
+          - Suburban
+          - Rural
+          - Multiple Locations
+        required: true
+      - id: 9
+        name: business_age
+        label: Business Age
+        hint: How long has business existed
+        type: select_one
+        options:
+          - Startup (under 1 year)
+          - Early Stage (1-3 years)
+          - Growing (3-10 years)
+          - Established (10+ years)
+        required: true
+      - id: 10
+        name: company_size
+        label: Company Size
+        hint: Number of employees
+        type: select_one
+        options:
+          - Solo/Self-employed
+          - 2-10 employees
+          - 11-50 employees
+          - 51-100 employees
+          - 101-500 employees
+          - 500+ employees
+        required: true
+      - id: 11
+        name: annual_revenue_range
+        label: Annual Revenue Range
+        hint: Approximate annual revenue
+        type: select_one
+        options:
+          - Under 50k
+          - 50k-100k
+          - 100k-250k
+          - 250k-500k
+          - 500k-1M
+          - 1M-5M
+          - 5M-10M
+          - 10M+
+        required: true
+      - id: 12
+        name: ownership_structure
+        label: Business Ownership Structure
+        hint: How is business structured
+        type: select_one
+        options:
+          - Sole Proprietor
+          - Partnership
+          - Corporation
+          - LLC
+          - Non-Profit
+          - Cooperative
+          - Other
+        required: true
+      - id: 13
+        name: customer_demographics
+        label: -- Customer Demographics --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: primary_customer_age
+        label: Primary Customer Age Group
+        hint: Age range of main customers
+        type: select_one
+        options:
+          - 18-25
+          - 26-35
+          - 36-45
+          - 46-55
+          - 56-65
+          - 65+
+          - Mixed Ages
+        required: true
+      - id: 15
+        name: primary_customer_gender
+        label: Primary Customer Gender
+        hint: Gender of primary customers
+        type: select_one
+        options:
+          - Predominantly Male
+          - Predominantly Female
+          - Mixed
+          - Varies by Product
+          - Not Applicable
+        required: true
+      - id: 16
+        name: customer_income
+        label: Primary Customer Income Level
+        hint: Income range of customers
+        type: select_one
+        options:
+          - Low Income
+          - Lower-Middle Income
+          - Middle Income
+          - Upper-Middle Income
+          - High Income
+          - Mixed
+        required: true
+      - id: 17
+        name: customer_location
+        label: Primary Customer Location
+        hint: Where are your customers located
+        type: select_one
+        options:
+          - Local
+          - Regional
+          - National
+          - International
+          - Mixed
+        required: true
+      - id: 18
+        name: customer_type
+        label: Primary Customer Type
+        hint: Who are your main customers
+        type: select_one
+        options:
+          - Consumers
+          - Small Businesses
+          - Large Corporations
+          - Government
+          - Non-Profits
+          - Mixed
+        required: true
+      - id: 19
+        name: market_challenges
+        label: -- Market Challenges --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: biggest_challenge
+        label: Biggest Business Challenge
+        hint: Main challenge for your business
+        type: text
+        options: []
+        required: true
+      - id: 21
+        name: market_opportunity
+        label: Biggest Market Opportunity
+        hint: Greatest growth opportunity
+        type: text
+        options: []
+        required: true
+      - id: 22
+        name: competition_level
+        label: Competition Level in Your Market
+        hint: How competitive is your market
+        type: select_one
+        options:
+          - Very Low
+          - Low
+          - Moderate
+          - High
+          - Very High
+        required: true

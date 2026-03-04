@@ -1,0 +1,128 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cabinet Color Selection Survey
+    pages:
+      - id: 1
+        name: demographic_header
+        label: -- Participant Profile --
+        hint: Design Trends and Preferences Survey
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: participant_type
+        label: I am a...
+        hint: null
+        type: select_one
+        options: [Homeowner, Interior Designer, Architect, Contractor, Real Estate Agent]
+        required: true
+      - id: 3
+        name: design_style
+        label: Preferred Kitchen Design Style
+        hint: null
+        type: select_one
+        options: [Modern/Minimalist, Transitional, Traditional, Farmhouse, Industrial, Mid-Century Modern]
+        required: true
+      - id: 4
+        name: color_pref_header
+        label: -- Cabinet Color Preferences --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: primary_cabinet_color
+        label: Preferred Primary Cabinet Color
+        hint: null
+        type: select_one
+        options: [Pure White, Cream/Off-White, Light Grey, Navy Blue, Forest Green, Natural Wood, Charcoal/Black]
+        required: true
+      - id: 6
+        name: secondary_accent_color
+        label: Interest in a Two-Tone Kitchen (Islands/Lower Cabinets)
+        hint: null
+        type: select_one
+        options: [Very Interested, Somewhat Interested, Not Interested]
+        required: true
+      - id: 7
+        name: accent_color_choice
+        label: If two-tone, what accent color would you choose
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: finish_type
+        label: Preferred Cabinet Finish
+        hint: null
+        type: select_one
+        options: [Matte, Satin/Semi-gloss, High Gloss, Distressed, Natural Grain]
+        required: true
+      - id: 9
+        name: hardware_finish_header
+        label: -- Hardware and Coordination --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: hardware_finish
+        label: Preferred Hardware Finish
+        hint: pulls and knobs
+        type: select_one
+        options: [Brushed Gold, Matte Black, Polished Chrome, Satin Nickel, Antique Brass]
+        required: true
+      - id: 11
+        name: countertop_pairing
+        label: Desired Countertop Material to pair with colors
+        hint: null
+        type: select_one
+        options: [Quartz, Marble, Granite, Butcher Block, Concrete, Stainless Steel]
+        required: true
+      - id: 12
+        name: trend_awareness_header
+        label: -- Market Insights --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: influence_source
+        label: Where do you get your design inspiration
+        hint: null
+        type: select_multiple
+        options: [Pinterest, Instagram, Design Magazines, Showrooms, Friends/Family]
+        required: false
+      - id: 14
+        name: color_longevity
+        label: How important is it that the color remains trendy for 10 plus years
+        hint: null
+        type: select_one
+        options: [Critically Important, Somewhat Important, Not a Priority]
+        required: true
+      - id: 15
+        name: bold_color_willingness
+        label: Would you consider a "bold" color for your kitchen (e.g. Deep Red or Plum)
+        hint: null
+        type: select_one
+        options: [Yes - Absolutely, Maybe for a small area, No - Too risky]
+        required: true
+      - id: 16
+        name: email_for_results
+        label: Share your email to receive our 2026 Trend Report
+        hint: null
+        type: email
+        options: []
+        required: false

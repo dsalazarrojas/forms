@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telecommuting Productivity Impact Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: how_much_time
+      label: How much time do you work from home?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: how_much_time_worked_from_home
+      label: How much time do you work from home
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: productivity
+      label: What is your self-reported productivity level
+      hint: null
+      type: select_multiple
+      options:
+      - Increased Productivity
+      - Slightly Decreased Productivity
+      - No Change
+      - Slightly Decreased Productivity
+      - Much Decreased Productivity
+      required: true
+    - id: 5
+      name: satisfaction
+      label: How satisfied are you with your telecommuting experience
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 6
+      name: frequency_worked_from_home
+      label: How frequent do you work from home
+      hint: null
+      type: select_multiple
+      options:
+      - Always
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Never
+      required: true
+    - id: 7
+      name: work_arrangements
+      label: What kind of work arrangement are you in?
+      hint: null
+      type: select_multiple
+      options:
+      - Full Time Remote
+      - Part Time Remote
+      - Hybrid Remote
+      - In Office
+      - Other
+      required: true
+    - id: 8
+      name: communication
+      label: How often do you communicate with colleagues remotely
+      hint: null
+      type: select_multiple
+      options:
+      - Always
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Never
+      required: true
+    - id: 9
+      name: collaboration
+      label: How often do you collaborate with colleagues remotely
+      hint: null
+      type: select_multiple
+      options:
+      - Always
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Never
+      required: true
+    - id: 10
+      name: feedback
+      label: What is your feedback on Telecommuting?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: suggestions
+      label: Do you have suggestions to improve Telecommuting?
+      hint: null
+      type: text
+      options: []
+      required: false

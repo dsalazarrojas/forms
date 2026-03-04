@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audio Recording Consent Form
+    pages:
+    - id: 1
+      name: section_participant
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: section_recording
+      label: -- Recording Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: recording_purpose
+      label: Primary Purpose of Recording
+      hint: null
+      type: select_one
+      options:
+      - Research Study
+      - Podcast Interview
+      - Marketing Material
+      - Internal Training
+      - Public Performance
+      required: true
+    - id: 6
+      name: recording_date
+      label: Date of Recording Session
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: recording_method
+      label: Recording Method
+      hint: null
+      type: select_one
+      options:
+      - Remote (Video Call)
+      - In-Person (Studio)
+      - In-Person (Field)
+      - Telephone
+      required: true
+    - id: 8
+      name: section_consent
+      label: -- Consent and Rights --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: usage_permissions
+      label: I grant permission for the following uses
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Internal Organization Use
+      - Educational Purposes
+      - Public Website or Social Media
+      - Commercial Sale or Distribution
+      - Future Projects/Archiving
+      required: true
+    - id: 10
+      name: identity_disclosure
+      label: Disclosure of Identity
+      hint: How should you be identified in the recording?
+      type: select_one
+      options:
+      - Use Full Name
+      - Use First Name Only
+      - Remain Anonymous (Pseudonym)
+      required: true
+    - id: 11
+      name: revocation_acknowledgment
+      label: I understand I can revoke my consent in writing at any time before publication
+      hint: null
+      type: select_one
+      options:
+      - I Acknowledge
+      - Other
+      required: true
+    - id: 12
+      name: digital_signature
+      label: Participant Digital Signature (Type Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: consent_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true

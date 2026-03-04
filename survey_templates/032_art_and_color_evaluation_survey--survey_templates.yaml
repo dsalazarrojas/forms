@@ -1,0 +1,261 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Art And Color Evaluation Survey
+    pages:
+    - id: 1
+      name: section_respondent_info
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: survey_date
+      label: Date of Survey
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - Under 18
+      - 18-25
+      - 26-35
+      - 36-50
+      - 51-65
+      - 65+
+      required: false
+    - id: 5
+      name: art_background
+      label: Art Background or Training
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Some education
+      - Professional
+      - Casual interest
+      required: false
+    - id: 6
+      name: section_artwork_viewing
+      label: -- Artwork Viewing Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: artwork_title
+      label: Title or Name of Artwork Viewed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: artist_name
+      label: Artist Name - if known
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: viewing_setting
+      label: Where did you view this artwork
+      hint: null
+      type: select_one
+      options:
+      - Museum
+      - Gallery
+      - Online
+      - Home
+      - Public space
+      - Other
+      required: true
+    - id: 10
+      name: first_impression
+      label: First Impression of the Artwork
+      hint: null
+      type: select_one
+      options:
+      - Very positive
+      - Positive
+      - Neutral
+      - Negative
+      - Very negative
+      required: true
+    - id: 11
+      name: section_color_evaluation
+      label: -- Color Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: color_palette
+      label: Color Palette of the Artwork
+      hint: null
+      type: select_one
+      options:
+      - Vibrant and bright
+      - Warm and earthy
+      - Cool and calming
+      - Neutral and subtle
+      - Mixed and complex
+      required: true
+    - id: 13
+      name: color_harmony
+      label: Color Harmony and Balance
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Somewhat discordant
+      - Very discordant
+      required: true
+    - id: 14
+      name: color_emotional_response
+      label: Emotional Response to the Colors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: color_symbolism
+      label: Do the colors convey meaning or symbolism
+      hint: null
+      type: select_one
+      options:
+      - Yes - clearly
+      - Yes - somewhat
+      - Neutral
+      - Not apparent
+      required: false
+    - id: 16
+      name: section_artistic_impact
+      label: -- Artistic Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: composition_rating
+      label: Composition and Visual Structure
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Fair
+      - Poor
+      required: true
+    - id: 18
+      name: creativity_rating
+      label: Creativity and Originality
+      hint: null
+      type: select_one
+      options:
+      - Highly original
+      - Original
+      - Average
+      - Derivative
+      - Unoriginal
+      required: true
+    - id: 19
+      name: technical_skill
+      label: Technical Skill and Execution
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Fair
+      - Poor
+      required: true
+    - id: 20
+      name: emotional_impact
+      label: Overall Emotional Impact
+      hint: null
+      type: select_one
+      options:
+      - Very powerful
+      - Powerful
+      - Moderate
+      - Minimal
+      - None
+      required: true
+    - id: 21
+      name: section_engagement
+      label: -- Engagement and Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: hold_attention
+      label: Did the artwork hold your attention
+      hint: null
+      type: select_one
+      options:
+      - Definitely
+      - Somewhat
+      - Neutral
+      - Not really
+      - Not at all
+      required: true
+    - id: 23
+      name: would_revisit
+      label: Would you view this artwork again
+      hint: null
+      type: select_one
+      options:
+      - Definitely
+      - Probably
+      - Maybe
+      - Probably not
+      - Definitely not
+      required: true
+    - id: 24
+      name: recommend_others
+      label: Would you recommend to others
+      hint: null
+      type: select_one
+      options:
+      - Definitely
+      - Probably
+      - Maybe
+      - Probably not
+      - Definitely not
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments or Observations
+      hint: null
+      type: text
+      options: []
+      required: false

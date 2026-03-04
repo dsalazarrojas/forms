@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dreams Delivery Feedback Form
+    pages:
+    - id: 1
+      name: survey_title
+      label: Dreams Delivery Feedback Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: timeliness_rating
+      label: Timeliness
+      hint: Rate our timeliness from 1 to 5
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: product_condition
+      label: Product Condition
+      hint: How was the product condition?
+      type: select_multiple
+      options:
+      - New
+      - Gently used
+      - Used
+      - Damaged
+      required: false
+    - id: 4
+      name: communication_rating
+      label: Communication
+      hint: Rate our communication from 1 to 5
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: delivery_instructions
+      label: Delivery Instructions
+      hint: Were the delivery instructions clear?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not sure
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false

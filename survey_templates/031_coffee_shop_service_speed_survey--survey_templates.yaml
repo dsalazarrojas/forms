@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coffee Shop Service Speed Survey
+    pages:
+    - id: 1
+      name: section_visit
+      label: -- Visit Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: visit_date
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: visit_time
+      label: Time of Visit
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: shift
+      label: Which Shift
+      hint: When did you visit
+      type: select_one
+      options:
+      - Morning (6am-9am)
+      - Mid-morning (9am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-8pm)
+      - Late (8pm+)
+      required: true
+    - id: 5
+      name: transaction_type
+      label: Type of Transaction
+      hint: null
+      type: select_one
+      options:
+      - Drink only
+      - Food and drink
+      - Food only
+      - Pastry and drink
+      required: true
+    - id: 6
+      name: section_wait_time
+      label: -- Wait Time Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: wait_time_order
+      label: Time waiting to order - minutes
+      hint: Approximately how long
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: wait_time_order_acceptable
+      label: Was the wait time to order acceptable
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: wait_time_receive
+      label: Time waiting to receive order - minutes
+      hint: Approximately how long
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: wait_time_receive_acceptable
+      label: Was the wait time to receive order acceptable
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: total_service_time
+      label: Total service time - minutes
+      hint: From entering to receiving order
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: section_satisfaction
+      label: -- Service Speed Satisfaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: speed_rating
+      label: Service speed rating
+      hint: Rate from 1 - very slow to 5 - very fast
+      type: select_one
+      options:
+      - 1 - Very slow
+      - 2 - Slow
+      - 3 - Average
+      - 4 - Fast
+      - 5 - Very fast
+      required: true
+    - id: 14
+      name: speed_expectations
+      label: How did speed compare to expectations
+      hint: null
+      type: select_one
+      options:
+      - Much slower than expected
+      - Slower than expected
+      - As expected
+      - Faster than expected
+      - Much faster than expected
+      required: true
+    - id: 15
+      name: section_factors
+      label: -- Speed Factors --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: speed_factors
+      label: What affected the service speed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Staff availability
+      - Customer volume
+      - Technology issues
+      - Product availability
+      - Complexity of order
+      - Other
+      required: false
+    - id: 17
+      name: section_shift_comparison
+      label: -- Shift Performance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: staff_count
+      label: Number of staff members visible
+      hint: Approximate count
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: staff_busy
+      label: Staff appeared busy
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Somewhat
+      required: true
+    - id: 20
+      name: section_improvement
+      label: -- Improvement Suggestions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: speed_improvement
+      label: How could service speed be improved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: technology_improvements
+      label: Technology improvements that would help
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: overall_satisfaction
+      label: Overall satisfaction with visit
+      hint: null
+      type: select_one
+      options:
+      - 1 - Very unsatisfied
+      - 2 - Unsatisfied
+      - 3 - Neutral
+      - 4 - Satisfied
+      - 5 - Very satisfied
+      required: true

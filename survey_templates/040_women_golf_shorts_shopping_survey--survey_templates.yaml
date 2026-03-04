@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Women Golf Shorts Shopping Survey
+    pages:
+    - id: 1
+      name: shopper_preferences
+      label: shopper_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 2
+      name: satisfaction_rating
+      label: rating
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''rating1''}'
+      - '{''label'': ''rating2''}'
+      - '{''label'': ''rating3''}'
+      required: false
+    - id: 3
+      name: buying_habits
+      label: buying_habits
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: other_info
+      label: other_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_time
+      label: Date and time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: shopping_channels
+      label: shopping_channels
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''channel1''}'
+      - '{''label'': ''channel2''}'
+      - '{''label'': ''channel3''}'
+      required: false
+    - id: 9
+      name: audience
+      label: audience
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''audience1''}'
+      - '{''label'': ''audience2''}'
+      - '{''label'': ''audience3''}'
+      required: false

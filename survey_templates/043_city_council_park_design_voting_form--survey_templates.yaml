@@ -1,0 +1,240 @@
+inputSchema:
+  type: object
+  properties:
+    title: City Council Park Design Voting Form
+    pages:
+    - id: 1
+      name: section_header_instructions
+      label: -- Park Design Community Feedback --
+      hint: Help us design the park that our community needs
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Your Address
+      hint: Confirm you are a community member
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: park_proximity
+      label: Distance from Park
+      hint: null
+      type: select_one
+      options:
+      - Within 5 blocks
+      - 5-10 blocks
+      - 10-20 blocks
+      - More than 20 blocks
+      - Outside neighborhood
+      required: false
+    - id: 6
+      name: section_header_amenities
+      label: -- Park Amenities Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: playground_importance
+      label: Playground Equipment and Areas
+      hint: Rank importance 1-5
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: sports_courts_importance
+      label: Sports Courts (basketball, tennis)
+      hint: Rank importance 1-5
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: picnic_areas_importance
+      label: Picnic Areas and Seating
+      hint: Rank importance 1-5
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: walking_paths_importance
+      label: Walking and Biking Paths
+      hint: Rank importance 1-5
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: water_features_importance
+      label: Water Features (fountain, splash pad)
+      hint: Rank importance 1-5
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: trees_shade_importance
+      label: Trees and Shaded Areas
+      hint: Rank importance 1-5
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: dog_park_importance
+      label: Dog Park or Pet Area
+      hint: Rank importance 1-5
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: community_center_importance
+      label: Community Center or Meeting Space
+      hint: Rank importance 1-5
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: fitness_equipment_importance
+      label: Outdoor Fitness Equipment
+      hint: Rank importance 1-5
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: section_header_safety
+      label: -- Safety and Maintenance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: lighting_priority
+      label: Adequate Lighting
+      hint: Rank priority 1-5
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: security_priority
+      label: Security and Supervision
+      hint: Rank priority 1-5
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: maintenance_commitment
+      label: Regular Maintenance and Cleanliness
+      hint: Rank priority 1-5
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: section_header_design
+      label: -- Design Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: park_size_preference
+      label: Park Size Preference
+      hint: null
+      type: select_one
+      options:
+      - Small neighborhood park
+      - Medium park
+      - Large regional park
+      - No preference
+      required: false
+    - id: 22
+      name: design_aesthetic
+      label: Design Aesthetic Preference
+      hint: null
+      type: select_one
+      options:
+      - Modern and contemporary
+      - Natural and native plants
+      - Multi-cultural celebration
+      - Sports and recreation focus
+      - Mixed styles
+      required: false
+    - id: 23
+      name: eco_friendly_features
+      label: Eco-Friendly Features Desired (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Rain gardens
+      - Native plantings
+      - Composting stations
+      - Recycling areas
+      - Solar lighting
+      - Water conservation
+      required: false
+    - id: 24
+      name: section_header_usage
+      label: -- Expected Usage --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: expected_frequency
+      label: How Often Would You Use the Park
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several times a week
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: true
+    - id: 26
+      name: primary_use
+      label: Primary Use of the Park
+      hint: null
+      type: select_one
+      options:
+      - Recreation and play
+      - Exercise and sports
+      - Relaxation and peace
+      - Social gatherings
+      - Walking with pets
+      - Other
+      required: false
+    - id: 27
+      name: section_header_comments
+      label: -- Additional Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: must_have_feature
+      label: One Feature You Would Not Want the Park Without
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: additional_suggestions
+      label: Additional Suggestions or Comments
+      hint: null
+      type: text
+      options: []
+      required: false

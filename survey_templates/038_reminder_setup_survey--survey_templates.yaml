@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reminder Setup Survey
+    pages:
+    - id: 1
+      name: reminder_preferences
+      label: Reminder Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: select_multiple
+      options:
+      - 08:00-11:00
+      - 11:00-13:00
+      - 13:00-15:00
+      - 15:00-17:00
+      - 17:00-19:00
+      required: false
+    - id: 3
+      name: notification_method
+      label: Notification Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - SMS
+      - Phone
+      - Push
+      required: false
+    - id: 4
+      name: reminder_day
+      label: Reminder Day
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      required: false
+    - id: 5
+      name: reminder_frequency
+      label: Reminder Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 6
+      name: time_of_day
+      label: Time of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: reminder_message
+      label: Reminder Message
+      hint: A friendly reminder to check in with your team!
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

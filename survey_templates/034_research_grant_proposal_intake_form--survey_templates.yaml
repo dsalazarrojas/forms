@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: research_grant_proposal_intake_form
+    pages:
+    - id: 1
+      name: project_info
+      label: Project Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: funding_requirements
+      label: Funding Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: research_objectives
+      label: Research Objectives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: research_objectives_prophets
+      label: Prophets
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: research_team
+      label: Research Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: research_team_prophets
+      label: Prophets
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: budget_details
+      label: Budget Details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: project_duration
+      label: Project Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Archived
+      required: false
+    - id: 11
+      name: funding_status
+      label: Funding Status
+      hint: null
+      type: select_one
+      options:
+      - Funded
+      - Unfunded
+      - In Progress
+      required: false

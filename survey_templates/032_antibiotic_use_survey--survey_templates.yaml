@@ -1,0 +1,89 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Antibiotic Use Survey
+    pages:
+    - id: 1
+      name: section_antibiotic_use
+      label: -- Antibiotic Use --
+      hint: Collect information on recent antibiotic use and attitudes
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: used_antibiotics_recently
+      label: Have you used antibiotics in the past 12 months
+      hint: Select yes if you have taken any antibiotic courses
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: true
+    - id: 3
+      name: reason_for_use
+      label: Reason for antibiotic use
+      hint: Health condition or diagnosis
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: completed_course
+      label: Did you complete the prescribed course
+      hint: Important for stewardship evaluation
+      type: select_one
+      options:
+        - Yes
+        - No
+        - Not applicable
+      required: false
+    - id: 5
+      name: source_of_prescription
+      label: Where did you get the prescription
+      hint: Doctor pharmacy online other
+      type: select_one
+      options:
+        - General practitioner
+        - Specialist
+        - Emergency care
+        - Pharmacy or over the counter
+        - Other
+      required: false
+    - id: 6
+      name: knowledge_of_resistance
+      label: Awareness of antibiotic resistance
+      hint: Self rated awareness
+      type: select_one
+      options:
+        - Unaware
+        - Somewhat aware
+        - Aware
+        - Very aware
+      required: true
+    - id: 7
+      name: attitude_toward_prescribing
+      label: Attitude toward receiving an antibiotic prescription
+      hint: Personal preference or expectation when ill
+      type: select_one
+      options:
+        - Prefer to avoid antibiotics
+        - Neutral
+        - Prefer to receive antibiotics
+      required: false
+    - id: 8
+      name: suggestions_for_stewardship
+      label: Suggestions for improving antibiotic stewardship
+      hint: Public education clinical practice or policy suggestions
+      type: text
+      options: []
+      required: false

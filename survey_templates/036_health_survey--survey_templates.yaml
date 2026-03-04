@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: health_survey
+    pages:
+    - id: 1
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: symptoms
+      label: symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''John Doe''}'
+      - '{''id'': 2, ''name'': ''Jane Doe''}'
+      - '{''id'': 3, ''name'': ''Jim Doe''}'
+      required: false
+    - id: 4
+      name: doctor_notes
+      label: Doctor Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: date_of_last_contact
+      label: Date of Last Contact
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_last_contact
+      label: Time of Last Contact
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: medication
+      label: Medication
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: medical_procedures
+      label: Medical Procedures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: family_history
+      label: Family History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: doctor_specialties
+      label: Doctor Specialties
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: doctor_name
+      label: Doctor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: doctor_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: doctor_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: doctor_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: doctor_license
+      label: License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: doctor_degree
+      label: Degree
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: doctor_years_of_service
+      label: Years of Service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: doctor_office_hours
+      label: Office Hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: doctor_languages
+      label: Languages
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: doctor_additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: doctor_rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 24
+      name: doctor_recommendation
+      label: Recommendation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: doctor_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

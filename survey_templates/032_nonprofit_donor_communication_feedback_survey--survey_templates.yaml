@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nonprofit Donor Communication Feedback Survey
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: updates_question
+      label: How often do you receive updates from us
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Sometimes
+      - Often
+      required: false
+    - id: 3
+      name: preferred_channel
+      label: What is your preferred channel for receiving updates
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Social Media
+      - SMS/Text
+      - None
+      required: false
+    - id: 4
+      name: preferred_frequencey
+      label: What is your preferred frequency of updates
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Weekly
+      - Every other day
+      - Daily
+      - Never
+      required: false
+    - id: 5
+      name: communication_question
+      label: How do you prefer us to communicate with you
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: additional_feedback
+      label: Do you have any additional feedback or comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: What is your Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: What is your Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: name
+      label: What is your Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: confirm_donation
+      label: I confirm that I am a donor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: confirm_email
+      label: I confirm that the email I provided is correct
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

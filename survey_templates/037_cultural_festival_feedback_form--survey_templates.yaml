@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cultural Festival Feedback Form
+    pages:
+    - id: 1
+      name: name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event
+      label: Event
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''event1'', ''label'': ''Event 1''}'
+      - '{''id'': 2, ''name'': ''event2'', ''label'': ''Event 2''}'
+      - '{''id'': 3, ''name'': ''event3'', ''label'': ''Event 3''}'
+      required: false
+    - id: 5
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

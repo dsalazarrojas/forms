@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: ERP User Feedback Survey
+    pages:
+    - id: 1
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Administration
+      - Accounting
+      - Marketing
+      - Sales
+      - Support
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: adoption
+      label: Adoption
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: improvement_priorities
+      label: Improvement Priorities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false

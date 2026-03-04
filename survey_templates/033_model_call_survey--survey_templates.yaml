@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Model Call Survey
+    pages:
+    - id: 1
+      name: model_call_survey_form
+      label: model_call_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: output_file
+      label: output_file
+      hint: null
+      type: text
+      options: []
+      required: false

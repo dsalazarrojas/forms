@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tool User Feedback Poll Form
+    pages:
+    - id: 1
+      name: survey_title
+      label: Survey title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question1
+      label: How was your experience with our product?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very positive''}'
+      - '{''label'': ''Somewhat positive''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat negative''}'
+      - '{''label'': ''Very negative''}'
+      required: false
+    - id: 3
+      name: question2
+      label: What issue did you encounter during your last interaction?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      - '{''label'': ''Option 4''}'
+      - '{''label'': ''Option 5''}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false
+    - id: 4
+      name: question3
+      label: What do you think we could improve on?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date of last interaction
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false

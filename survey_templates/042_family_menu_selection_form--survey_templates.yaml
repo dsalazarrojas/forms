@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Menu Selection Form
+    pages:
+    - id: 1
+      name: family_menu_form
+      label: Goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: preferred_dishes
+      label: Preferred Dishes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: special_requests
+      label: Special Requests
+      hint: Please specify any other requests.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: family_name
+      label: Family Name
+      hint: null
+      type: text
+      options: []
+      required: true

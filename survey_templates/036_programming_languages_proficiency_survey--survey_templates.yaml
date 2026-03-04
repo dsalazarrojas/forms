@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Programming Languages Proficiency Survey
+    pages:
+    - id: 1
+      name: programming_languages_proficiency_survey_form
+      label: programming_languages_proficiency_survey_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: experience
+      label: experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: language_proficiency_survey
+      label: language_proficiency_survey
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''None''}'
+      - '{''value'': 2, ''label'': ''Some''}'
+      - '{''value'': 3, ''label'': ''A Lot''}'
+      - '{''value'': 4, ''label'': ''Almost Complete''}'
+      - '{''value'': 5, ''label'': ''Complete''}'
+      required: false
+    - id: 4
+      name: proficient_languages_list
+      label: proficient_languages_list
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''HTML''}'
+      - '{''value'': 2, ''label'': ''CSS''}'
+      - '{''value'': 3, ''label'': ''JavaScript''}'
+      - '{''value'': 4, ''label'': ''Python''}'
+      - '{''value'': 5, ''label'': ''Java''}'
+      required: false
+    - id: 5
+      name: years_of_experience
+      label: years_of_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: years_of_proficient_languages
+      label: years_of_proficient_languages
+      hint: null
+      type: number
+      options: []
+      required: false

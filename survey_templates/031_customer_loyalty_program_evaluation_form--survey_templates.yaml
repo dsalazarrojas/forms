@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Loyalty Program Evaluation Form
+    pages:
+    - id: 1
+      name: customer_loyalty_program
+      label: Customer Loyalty Program
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: customer_satisfaction
+      label: Customer Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 3
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: program_improvement
+      label: Program Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: program_value
+      label: Program Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: customer_service
+      label: Customer Service
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patch Creation Survey
+    pages:
+    - id: 1
+      name: workflow_title
+      label: Workflow Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: communication_method
+      label: Which Communication Method Do You Use?
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone call
+      - Chat
+      - Slack
+      required: false
+    - id: 3
+      name: workflow_type
+      label: What Type Of Workflow Are You In?
+      hint: null
+      type: select_one
+      options:
+      - Code Review
+      - Code Review and Deploy
+      - Code Review and Deploy and Verify
+      required: false
+    - id: 4
+      name: communication_frequency
+      label: How Often Do You Communicate?
+      hint: null
+      type: select_one
+      options:
+      - Less than once a week
+      - Once a week
+      - 2-3 times a week
+      - More than 3 times a week
+      required: false
+    - id: 5
+      name: tooling
+      label: What Tool Do You Use For Communication?
+      hint: null
+      type: select_multiple
+      options:
+      - Jotform
+      - Slack
+      - Trello
+      - Email
+      required: false
+    - id: 6
+      name: feedback_type
+      label: What Type Of Feedback Do You Give?
+      hint: null
+      type: select_multiple
+      options:
+      - Code Review
+      - Code Review and Deploy
+      - Code Review and Deploy and Verify
+      required: false
+    - id: 7
+      name: feedback_frequency
+      label: How Often Do You Give Feedback?
+      hint: null
+      type: select_one
+      options:
+      - Less than once a week
+      - Once a week
+      - 2-3 times a week
+      - More than 3 times a week
+      required: false
+    - id: 8
+      name: team_size
+      label: How Big Is Your Team?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: team_communication
+      label: Team Communication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: team_tooling
+      label: Team Tooling
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: tooling_satisfaction
+      label: How Satisfied Are You With Your Current Tooling?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: communication_satisfaction
+      label: How Satisfied Are You With Your Current Communication?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: feedback_satisfaction
+      label: How Satisfied Are You With Your Current Feedback?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

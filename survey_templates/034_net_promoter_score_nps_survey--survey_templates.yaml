@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Net Promoter Score (NPS) Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: likelihood_to_recommend
+      label: how_likely_to_recommend
+      hint: On a scale of 0-10, with 0 being not at all likely and 10 being extremely
+        likely
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: will_recommend
+      label: will_recommend
+      hint: null
+      type: select_one
+      options:
+      - Very unlikely
+      - Not very likely
+      - Somewhat unlikely
+      - Neither likely nor unlikely
+      - Somewhat likely
+      - Not very likely
+      - Very likely
+      - Definitely likely
+      required: false
+    - id: 7
+      name: will_recommend_business
+      label: will_recommend
+      hint: null
+      type: select_one
+      options:
+      - Very unlikely
+      - Not very likely
+      - Somewhat unlikely
+      - Neither likely nor unlikely
+      - Somewhat likely
+      - Not very likely
+      - Very likely
+      - Definitely likely
+      required: false
+    - id: 8
+      name: feedback
+      label: any_other_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: open_ended_questions
+      label: open_ended_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: open_ended_2
+      label: open_ended_2
+      hint: null
+      type: text
+      options: []
+      required: false

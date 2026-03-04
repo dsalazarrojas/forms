@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Inclusion Among Low Income Groups Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: household_income
+      label: What is the monthly household income?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: household_size
+      label: How many people live in your household?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: devices_owned
+      label: Which of the following devices do you own?
+      hint: null
+      type: select_one
+      options:
+      - Laptop
+      - Desktop
+      - Mobile phone
+      - Tablet
+      - Smart TV
+      required: false
+    - id: 5
+      name: internet_access
+      label: How do you access the internet?
+      hint: null
+      type: select_multiple
+      options:
+      - Mobile phone data
+      - Wi-Fi (home or public)
+      - Wi-Fi (school or work)
+      - Other (please specify)
+      required: false
+    - id: 6
+      name: internet_reliability
+      label: How often do you experience internet issues?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Occasionally
+      - Often
+      - Almost always
+      required: false
+    - id: 7
+      name: digital_barriers
+      label: What are the primary barriers to digital inclusion?
+      hint: null
+      type: select_multiple
+      options:
+      - Cost
+      - Language
+      - Lack of skills
+      - Digital literacy
+      - Other (please specify)
+      required: false
+    - id: 8
+      name: survey_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: survey_additional
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false

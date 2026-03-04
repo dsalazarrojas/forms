@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mobile Health App Usability Survey
+    pages:
+    - id: 1
+      name: navigation_section
+      label: App Navigation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction_rating
+      label: How satisfied are you with this app?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Satisfied''}'
+      - '{''label'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Not Satisfied''}'
+      - '{''label'': ''Not at All Satisfied''}'
+      required: false
+    - id: 3
+      name: issues_section
+      label: Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feature_requests_section
+      label: What features would you like to see added?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_last_use
+      label: When was the last time you used this app?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_of_last_use
+      label: Time of last use
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: satisfaction_likert_scale
+      label: How likely are you to recommend this app?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Likely''}'
+      - '{''label'': ''Somewhat Likely''}'
+      - '{''label'': ''Not Very Likely''}'
+      - '{''label'': ''Not at All Likely''}'
+      required: false
+    - id: 11
+      name: app_usability_rating
+      label: How would you rate the overall usability of this app?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Usable''}'
+      - '{''label'': ''Somewhat Usable''}'
+      - '{''label'': ''Not Very Usable''}'
+      - '{''label'': ''Not at All Usable''}'
+      required: false

@@ -1,0 +1,38 @@
+inputSchema:
+  type: object
+  properties:
+    title: Waste Management Services Poll
+    pages:
+    - id: 1
+      name: service_quality
+      label: How would you rate the quality of our waste management services?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: service_issues
+      label: What issues do you have with our waste management services?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: improvement_priorities
+      label: What are some areas where we can improve our waste management services?
+      hint: null
+      type: select_multiple
+      options:
+      - Improved collection routes
+      - Better communication
+      - Reduced waste disposal fees
+      - Improved recycling options
+      - Other (please specify)
+      required: false
+    - id: 4
+      name: contact_info
+      label: Would you like to be contacted by a member of our team?
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: law_enforcement_officer_employment_stress_and_support_review
+    pages:
+    - id: 1
+      name: job_title
+      label: What is your job title?
+      hint: null
+      type: select_one
+      options:
+      - Chief
+      - Deputy Chief
+      - Sergeant
+      - Officer
+      - Other
+      required: false
+    - id: 2
+      name: years_of_service
+      label: How many years of service do you have?
+      hint: Please enter the number of years you have served in law enforcement.
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: stressors
+      label: Which of the following stressors do you experience frequently in your
+        work?
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - High stress of work
+      - Unclear goals
+      - Unrealistic expectations
+      - Lack of resources
+      required: false
+    - id: 4
+      name: support_resources
+      label: What support resources do you have at work?
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - EAP
+      - ESO
+      - Peer support
+      - Supervisory support
+      - Employee assistance programs
+      required: false
+    - id: 5
+      name: wellness_programs
+      label: Are you enrolled in our agency's wellness program?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: retention_factors
+      label: What factors affect your likelihood to leave the agency?
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - Work-life balance
+      - Career advancement opportunities
+      - Pay and benefits
+      - Work environment
+      - Other
+      required: false
+    - id: 7
+      name: open_ended_comments
+      label: Do you have any other comments or suggestions?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_information
+      label: Do you have any contact information you would like us to have?
+      hint: Enter a phone number or email address.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact
+      label: Who is your emergency contact?
+      hint: null
+      type: select_one
+      options:
+      - Emergency contact 1
+      - Emergency contact 2
+      - Emergency contact 3
+      required: false

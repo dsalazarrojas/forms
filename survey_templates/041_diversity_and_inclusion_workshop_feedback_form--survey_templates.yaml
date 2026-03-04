@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Diversity And Inclusion Workshop Feedback Form
+    pages:
+    - id: 1
+      name: workshop_attended
+      label: Workshop Attended
+      hint: null
+      type: select_one
+      options:
+      - Workshop
+      - Training Session
+      - Webinar
+      required: false
+    - id: 2
+      name: session_date
+      label: Session Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: workshop_facilitator
+      label: Who was your workshop facilitator?
+      hint: null
+      type: select_multiple
+      options:
+      - Jimmy
+      - Sarah
+      - Other
+      required: false
+    - id: 4
+      name: workshop_content
+      label: What did you learn during the workshop?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: session_length
+      label: Session Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: workshop_satisfaction
+      label: How satisfied are you with the workshop?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 7
+      name: recommendations
+      label: Do you have any recommendations for future workshop topics?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: workshop_value
+      label: How valuable do you think this workshop was?
+      hint: null
+      type: select_one
+      options:
+      - Very Valuable
+      - Somewhat Valuable
+      - Not Very Valuable
+      - Not at All Valuable
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Change Readiness Assessment
+    pages:
+    - id: 1
+      name: assessment_date
+      label: Assessment Date
+      hint: When completing assessment
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: respondent_name
+      label: Respondent Name
+      hint: Your name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department or Division
+      hint: Where you work
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: change_initiative
+      label: Change Initiative Being Assessed
+      hint: Name of the change
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: change_description
+      label: Description of Change
+      hint: What will be changing
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: personal_readiness
+      label: Your Personal Readiness for Change
+      hint: How ready are you
+      type: select_one
+      options:
+      - Very Ready
+      - Ready
+      - Somewhat Ready
+      - Not Ready
+      - Resistant
+      required: true
+    - id: 8
+      name: team_readiness
+      label: Team Readiness for Change
+      hint: Is your team ready
+      type: select_one
+      options:
+      - Very Ready
+      - Ready
+      - Somewhat Ready
+      - Not Ready
+      - Resistant
+      required: true
+    - id: 9
+      name: organization_readiness
+      label: Organization Readiness for Change
+      hint: Is organization ready
+      type: select_one
+      options:
+      - Very Ready
+      - Ready
+      - Somewhat Ready
+      - Not Ready
+      - Resistant
+      required: true
+    - id: 10
+      name: skills_readiness
+      label: Confidence in Skills Needed
+      hint: Do you have necessary skills
+      type: select_one
+      options:
+      - Very Confident
+      - Confident
+      - Somewhat Confident
+      - Not Confident
+      required: false
+    - id: 11
+      name: knowledge_of_change
+      label: Knowledge of the Change Initiative
+      hint: Understanding of what will change
+      type: select_one
+      options:
+      - Excellent Understanding
+      - Good Understanding
+      - Some Understanding
+      - Little Understanding
+      - No Understanding
+      required: true
+    - id: 12
+      name: communication_adequacy
+      label: Adequacy of Communication About Change
+      hint: Have you been informed
+      type: select_one
+      options:
+      - Very Adequate
+      - Adequate
+      - Somewhat Adequate
+      - Inadequate
+      required: true
+    - id: 13
+      name: leadership_support
+      label: Leadership Support for Change
+      hint: Does leadership support this
+      type: select_one
+      options:
+      - Strong Support
+      - Moderate Support
+      - Minimal Support
+      - No Support
+      required: false
+    - id: 14
+      name: resource_availability
+      label: Available Resources for Change
+      hint: Are adequate resources available
+      type: select_one
+      options:
+      - Very Adequate
+      - Adequate
+      - Somewhat Adequate
+      - Inadequate
+      required: false
+    - id: 15
+      name: training_availability
+      label: Training or Support Available
+      hint: Will training be provided
+      type: select_one
+      options:
+      - Yes, Comprehensive
+      - Yes, Some
+      - Maybe
+      - 'No'
+      required: false
+    - id: 16
+      name: change_urgency_understanding
+      label: Understanding of Change Urgency
+      hint: Understand why change is urgent
+      type: select_one
+      options:
+      - Very Clear
+      - Clear
+      - Somewhat Clear
+      - Not Clear
+      required: false
+    - id: 17
+      name: concerns_about_change
+      label: Main Concerns About Change
+      hint: What worries you most
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: success_probability
+      label: Probability of Change Success
+      hint: Will this change succeed
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Moderate
+      - Low
+      - Very Low
+      required: false
+    - id: 19
+      name: support_needed
+      label: Support Needed for Readiness
+      hint: What would help you be ready
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: overall_readiness_score
+      label: Overall Readiness Score
+      hint: Rate overall readiness 1-10
+      type: number
+      options: []
+      required: true

@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Opinion Poll Questionnaire
+    pages:
+    - id: 1
+      name: survey_question
+      label: How do you rate yourself
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 2
+      name: answer
+      label: How many times have you attended this type of event in the past 12 months?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: event_frequency
+      label: What is the frequency of this event in terms of how often?
+      hint: null
+      type: select_multiple
+      options:
+      - Once
+      - Several times
+      - Never
+      required: false
+    - id: 4
+      name: contact_info
+      label: Do you have a website or blog that you would like us to visit?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

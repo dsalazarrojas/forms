@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: media_crew_support_survey_form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: issue
+      label: issue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: issue_type
+      label: issue_type
+      hint: null
+      type: select_one
+      options:
+      - Problem
+      - Feature
+      required: true
+    - id: 7
+      name: urgency
+      label: urgency
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 8
+      name: files
+      label: files
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: comment
+      label: comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: support_request
+      label: support_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: attachment
+      label: attachment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 14
+      name: deadline
+      label: deadline
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: resolution
+      label: resolution
+      hint: null
+      type: text
+      options: []
+      required: true

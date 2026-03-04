@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Character Name Voting Form
+    pages:
+    - id: 1
+      name: section_voter_info
+      label: -- Voter Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: voter_full_name
+      label: Voter Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: voter_email_address
+      label: Voter Email Address
+      hint: For voting results and updates
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: section_character_basics
+      label: -- Character Basics and Concept --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: character_concept_brief
+      label: Character Concept Brief
+      hint: Briefly describe the character's role or personality
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: character_gender_identity
+      label: Character Gender Identity
+      hint: What is the character's gender?
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Other
+      - Undetermined
+      required: true
+    - id: 7
+      name: character_age_group
+      label: Character Age Group
+      hint: What is the character's age category?
+      type: select_one
+      options:
+      - Child (Under 12)
+      - Teen (12-17)
+      - Young Adult (18-25)
+      - Adult (26-64)
+      - Senior (65+)
+      required: true
+    - id: 8
+      name: section_voting_options
+      label: -- Voting Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: primary_name_choice_vote
+      label: Primary Name Choice Vote
+      hint: Select your top choice for the character's name
+      type: select_one
+      options:
+      - Option A - Arthur
+      - Option B - Beatrice
+      - Option C - Charles
+      - Option D - Diana
+      - Option E - Edward
+      required: true
+    - id: 10
+      name: secondary_name_choice_vote
+      label: Secondary Name Choice Vote
+      hint: Select your second choice for the character's name
+      type: select_one
+      options:
+      - Option A - Arthur
+      - Option B - Beatrice
+      - Option C - Charles
+      - Option D - Diana
+      - Option E - Edward
+      required: false
+    - id: 11
+      name: reason_for_choice_comment
+      label: Reason for Your Choice
+      hint: Why did you choose this name?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_name_suggestions
+      label: -- Additional Name Suggestions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: user_suggested_name
+      label: Do you have a suggestion for a character name?
+      hint: Provide a name that is not listed above
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: suggestion_reason_comment
+      label: Reason for Your Suggestion
+      hint: Why do you think this name would be a good fit?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_voting_finalization
+      label: -- Voting Finalization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: accuracy_confirmation_voter
+      label: Confirmation of Voting Completion
+      hint: I confirm that I have voted for my preferred character name
+      type: select_one
+      options:
+      - I Confirm and Submit Vote
+      - Other
+      required: true
+    - id: 17
+      name: date_of_name_voting_log
+      label: Date of Voting
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: additional_voting_comments
+      label: Additional Voting Comments
+      hint: Any other thoughts on the character's development or the names
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: voting_interest_level_rating
+      label: Voting Interest Level Rating
+      hint: How much do you care about the character's name?
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: notification_request_results
+      label: Would you like to be notified of the voting results?
+      hint: null
+      type: select_one
+      options:
+      - Yes, please notify me
+      - No, thank you
+      required: false

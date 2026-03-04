@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Franchise Onboarding Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: franchise_name
+      label: Franchise Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: experience
+      label: Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: questions_list
+      label: Questions List
+      hint: null
+      type: select_multiple
+      options:
+      - What were you doing on your first day of work?
+      - Was the training process easy to follow?
+      - Did the franchisor communicate with you effectively?
+      - Were all of your questions answered?
+      - Did you feel supported by your franchisor?
+      - Do you have any suggestions or comments?
+      required: true
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: date_of_joins
+      label: Date of Join
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_of_joins
+      label: Time of Join
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: franchisor_name
+      label: Franchisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: franchisor_email
+      label: Franchisor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: franchisor_phone
+      label: Franchisor Phone
+      hint: null
+      type: text
+      options: []
+      required: false

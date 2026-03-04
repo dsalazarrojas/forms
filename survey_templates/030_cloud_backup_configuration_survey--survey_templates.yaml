@@ -1,0 +1,262 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cloud Backup Configuration Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Respondent Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: respondent_email
+      label: Email Address
+      hint: Work email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: organization_name
+      label: Organization Name
+      hint: Company or institution
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: IT, Operations, etc.
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_current
+      label: -- Current Backup Configuration --
+      hint: Your existing backup setup
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: backup_provider
+      label: Current Cloud Backup Provider
+      hint: null
+      type: select_one
+      options:
+      - AWS Backup
+      - Azure Backup
+      - Google Cloud Backup
+      - Acronis
+      - Veeam
+      - Commvault
+      - Other
+      - None currently
+      required: true
+    - id: 7
+      name: backup_data_type
+      label: Types of Data Being Backed Up
+      hint: null
+      type: select_multiple
+      options:
+      - Databases
+      - File systems
+      - Virtual machines
+      - Applications
+      - Email
+      - Cloud storage
+      - Mobile devices
+      - Other
+      required: true
+    - id: 8
+      name: data_volume
+      label: Total Data Volume Being Backed Up
+      hint: Approximate size in TB
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: backup_frequency
+      label: Backup Frequency
+      hint: null
+      type: select_one
+      options:
+      - Continuous or real-time
+      - Hourly
+      - Daily
+      - Weekly
+      - Monthly
+      - Other
+      required: true
+    - id: 10
+      name: section_recovery
+      label: -- Recovery Configuration --
+      hint: Recovery time and point objectives
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: rto_requirement
+      label: Required Recovery Time Objective (RTO)
+      hint: Maximum acceptable downtime
+      type: select_one
+      options:
+      - Less than 1 hour
+      - 1-4 hours
+      - 4-24 hours
+      - More than 24 hours
+      - No formal requirement
+      required: true
+    - id: 12
+      name: rpo_requirement
+      label: Required Recovery Point Objective (RPO)
+      hint: Maximum acceptable data loss
+      type: select_one
+      options:
+      - Real-time or continuous
+      - Less than 1 hour
+      - 1-4 hours
+      - 4-24 hours
+      - More than 24 hours
+      required: true
+    - id: 13
+      name: recovery_testing
+      label: How often do you test recovery procedures
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      - Never
+      - Ad hoc
+      required: true
+    - id: 14
+      name: section_satisfaction
+      label: -- Satisfaction Assessment --
+      hint: How satisfied are you with current backup
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: overall_satisfaction
+      label: Overall Satisfaction with Current Backup Solution
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 16
+      name: reliability_rating
+      label: Reliability of Backup System
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 17
+      name: ease_of_use
+      label: Ease of Use and Management
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Difficult
+      - Very difficult
+      required: true
+    - id: 18
+      name: performance_rating
+      label: Backup Performance and Speed
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Slow
+      - Very slow
+      required: true
+    - id: 19
+      name: section_challenges
+      label: -- Challenges and Issues --
+      hint: Problems with current backup setup
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: main_challenges
+      label: Main Challenges with Current Backup Solution
+      hint: null
+      type: select_multiple
+      options:
+      - High costs
+      - Complex configuration
+      - Slow recovery times
+      - Frequent failures
+      - Limited support
+      - Compliance issues
+      - Scalability concerns
+      - Vendor lock-in
+      - Other
+      required: false
+    - id: 21
+      name: improvement_areas
+      label: Areas Needing Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_future
+      label: -- Future Plans and Needs --
+      hint: Your backup requirements going forward
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: upgrade_timeline
+      label: Planning to Upgrade or Change Backup Solution
+      hint: null
+      type: select_one
+      options:
+      - Yes, within 6 months
+      - Yes, within 12 months
+      - Maybe, evaluating options
+      - No current plans
+      - Recent upgrade, no change needed
+      required: true
+    - id: 24
+      name: future_needs
+      label: Future Backup Needs or Requirements
+      hint: Increased capacity, new applications, etc.
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments or Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

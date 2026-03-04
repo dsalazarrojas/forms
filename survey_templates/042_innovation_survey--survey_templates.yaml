@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: innovation_survey
+    pages:
+    - id: 1
+      name: employee_survey
+      label: Employee Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: questions
+      label: Questions
+      hint: What questions would you like to answer?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: answers
+      label: Answers
+      hint: Enter your answers
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: questions_for_manager
+      label: Questions for Manager
+      hint: What questions would the manager like to answer?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: answers_for_manager
+      label: Answers for Manager
+      hint: Enter your answers for Manager
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: employee_comments
+      label: Employee Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: manager_comments_for_employees
+      label: Manager Comments for Employees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: questions_for_employees
+      label: Questions for Employees
+      hint: What questions would you like to answer?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: answers_for_employees
+      label: Answers for Employees
+      hint: Enter your answers for Employees
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: employee_comments_for_manager
+      label: Employee Comments for Manager
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: questions_for_employees_comments
+      label: Questions for Employees Comments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

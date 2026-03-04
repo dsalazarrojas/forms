@@ -1,0 +1,104 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Member Facility Satisfaction Report Form
+    pages:
+    - id: 1
+      name: visit_date
+      label: Visit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: member_name
+      label: Member Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: facility_name
+      label: Facility Name
+      hint: Name of the facility where you visited
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: question_1
+      label: How would you rate the cleanliness of the facility?
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Fair
+      - Poor
+      required: true
+    - id: 5
+      name: question_2
+      label: How would you rate the overall quality of service at the facility?
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Fair
+      - Poor
+      required: true
+    - id: 6
+      name: question_3
+      label: Were you satisfied with your visit to the facility?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: question_4
+      label: Would you like to receive a discount or promotion at the facility in
+        the future?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: question_5
+      label: Do you have any comments about your visit?
+      hint: Please provide any additional comments or suggestions.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: created_at
+      label: Created
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: updated_at
+      label: Updated
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Peer Code Review Feedback Form
+    pages:
+    - id: 1
+      name: review_form
+      label: Code Review Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: code_submissions
+      label: Code Submissions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Submission 1''}'
+      - '{''id'': 2, ''label'': ''Submission 2''}'
+      required: false
+    - id: 3
+      name: submission_notes
+      label: Submission Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: feedback_type
+      label: Feedback Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Review''}'
+      - '{''id'': 2, ''label'': ''Code Review''}'
+      - '{''id'': 3, ''label'': ''Code Quality''}'
+      required: false
+    - id: 5
+      name: reviewer_score
+      label: Reviewer Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reviewer_recommendations
+      label: Reviewer Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reviewer_signature
+      label: Reviewer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submission_signature
+      label: Submission Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reviewer_job_title
+      label: Reviewer Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: reviewer_department
+      label: Reviewer Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reviewer_email
+      label: Reviewer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''In Progress''}'
+      - '{''id'': 2, ''label'': ''Done''}'
+      - '{''id'': 3, ''label'': ''Archived''}'
+      required: false
+    - id: 15
+      name: reviewer_comments_date
+      label: Reviewer Comments Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: reviewer_comments_time
+      label: Reviewer Comments Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: reviewer_comments_duration
+      label: Reviewer Comments Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false

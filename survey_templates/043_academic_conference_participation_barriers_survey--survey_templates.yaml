@@ -1,0 +1,170 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Conference Participation Barriers Survey
+    pages:
+    - id: 1
+      name: survey_intro
+      label: -- Academic Conference Participation Barriers Survey --
+      hint: Help us understand obstacles to attending academic conferences
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Full name (optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: academic_position
+      label: Current academic position
+      hint: null
+      type: select_one
+      options:
+        - Undergraduate Student
+        - Graduate Student (Masters)
+        - Doctoral Candidate
+        - Postdoctoral Researcher
+        - Assistant Professor
+        - Associate Professor
+        - Full Professor
+      required: true
+    - id: 5
+      name: field_of_study
+      label: Primary field of study or research
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: country_of_residence
+      label: Country of residence
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: conferences_attended
+      label: How many academic conferences have you attended in the last 3 years
+      hint: null
+      type: select_one
+      options:
+        - None
+        - 1-2
+        - 3-5
+        - 6-10
+        - More than 10
+      required: true
+    - id: 8
+      name: barriers_section
+      label: -- Barriers to Participation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: financial_barriers
+      label: Have financial constraints prevented you from attending a conference
+      hint: null
+      type: select_one
+      options:
+        - Yes, frequently
+        - Yes, occasionally
+        - Rarely
+        - Never
+      required: true
+    - id: 10
+      name: specific_financial_barriers
+      label: Which financial barriers have you experienced
+      hint: Select all that apply
+      type: select_multiple
+      options:
+        - Registration fees too high
+        - Travel costs
+        - Accommodation expenses
+        - Lack of institutional funding
+        - Visa application fees
+        - Childcare costs during travel
+      required: false
+    - id: 11
+      name: institutional_barriers
+      label: Which institutional barriers have you experienced
+      hint: Select all that apply
+      type: select_multiple
+      options:
+        - Lack of travel funding support
+        - Heavy teaching load
+        - No release time for conferences
+        - Lack of mentorship or guidance
+        - Administrative bureaucracy
+      required: false
+    - id: 12
+      name: personal_barriers
+      label: Which personal barriers have you faced
+      hint: Select all that apply
+      type: select_multiple
+      options:
+        - Family or caregiving responsibilities
+        - Health concerns
+        - Visa or travel restrictions
+        - Language barriers
+        - Lack of confidence in presenting
+        - Time zone differences for virtual events
+      required: false
+    - id: 13
+      name: virtual_conferences
+      label: Has the availability of virtual conferences reduced your barriers
+      hint: null
+      type: select_one
+      options:
+        - Yes, significantly
+        - Somewhat
+        - Not really
+        - No, not at all
+        - I have not attended virtual conferences
+      required: true
+    - id: 14
+      name: preferred_format
+      label: What conference format do you prefer
+      hint: null
+      type: select_one
+      options:
+        - Fully in-person
+        - Fully virtual
+        - Hybrid
+        - No preference
+      required: true
+    - id: 15
+      name: support_needed
+      label: What support would most help you attend conferences
+      hint: Describe in a few sentences
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: additional_comments
+      label: Any additional comments about conference participation barriers
+      hint: null
+      type: text
+      options: []
+      required: false

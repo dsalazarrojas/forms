@@ -1,0 +1,227 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Wellness Program Evaluation Survey
+    pages:
+      - id: 1
+        name: program_details_header
+        label: -- Wellness Program Overview --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: athlete_name
+        label: Athlete Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: athlete_sport
+        label: Primary Sport
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: program_participation_length
+        label: Length of Program Participation
+        hint: e.g. 8 weeks, 1 season
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: wellness_pillars_header
+        label: -- Impact on Wellness Pillars --
+        hint: 1 is No Impact, 5 is Significant Positive Impact
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: sleep_impact
+        label: Impact on Sleep Quality and Consistency
+        hint: null
+        type: select_one
+        options:
+          - 1 - No Impact
+          - 2 - Minimal
+          - 3 - Moderate
+          - 4 - Significant
+          - 5 - Transformative
+        required: true
+      - id: 7
+        name: nutrition_impact
+        label: Impact on Daily Nutritional Habits
+        hint: null
+        type: select_one
+        options:
+          - 1 - No Impact
+          - 2 - Minimal
+          - 3 - Moderate
+          - 4 - Significant
+          - 5 - Transformative
+        required: true
+      - id: 8
+        name: mental_health_impact
+        label: Impact on Mental Health and Stress Management
+        hint: null
+        type: select_one
+        options:
+          - 1 - No Impact
+          - 2 - Minimal
+          - 3 - Moderate
+          - 4 - Significant
+          - 5 - Transformative
+        required: true
+      - id: 9
+        name: injury_prevention_impact
+        label: Impact on Injury Prevention and Recovery Awareness
+        hint: null
+        type: select_one
+        options:
+          - 1 - No Impact
+          - 2 - Minimal
+          - 3 - Moderate
+          - 4 - Significant
+          - 5 - Transformative
+        required: true
+      - id: 10
+        name: content_delivery_header
+        label: -- Content and Delivery Assessment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: educational_material_quality
+        label: Quality of Educational Materials Provided
+        hint: null
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Fair
+          - 3 - Good
+          - 4 - Very Good
+          - 5 - Excellent
+        required: true
+      - id: 12
+        name: workshop_relevance
+        label: Relevance of Wellness Workshops to your Sport
+        hint: null
+        type: select_one
+        options:
+          - 1 - Not Relevant
+          - 2 - Slightly Relevant
+          - 3 - Moderately Relevant
+          - 4 - Highly Relevant
+        required: true
+      - id: 13
+        name: resource_accessibility
+        label: Ease of Accessing Online Wellness Resources
+        hint: null
+        type: select_one
+        options:
+          - 1 - Difficult
+          - 2 - Fair
+          - 3 - Easy
+          - 4 - Very Easy
+        required: true
+      - id: 14
+        name: staff_communication
+        label: Effectiveness of Communication from Wellness Staff
+        hint: null
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Fair
+          - 3 - Good
+          - 4 - Very Good
+          - 5 - Excellent
+        required: true
+      - id: 15
+        name: outcomes_header
+        label: -- Personal Outcomes and Future Interest --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: overall_improvement_rating
+        label: Overall Wellness Improvement Rating
+        hint: 1 is No Improvement, 5 is Significant Improvement
+        type: select_one
+        options:
+          - 1 - No Improvement
+          - 2 - Slight
+          - 3 - Moderate
+          - 4 - Significant
+          - 5 - Exceptional
+        required: true
+      - id: 17
+        name: most_valuable_component
+        label: What was the most valuable part of the program?
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: improvement_suggestions
+        label: What areas of the program need improvement?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: staff_support_feeling
+        label: Did you feel adequately supported throughout the program?
+        hint: null
+        type: select_one
+        options:
+          - Yes, fully supported
+          - Partially supported
+          - No, not supported
+        required: true
+      - id: 20
+        name: habit_continuation
+        label: Will you continue the wellness practices learned here?
+        hint: null
+        type: select_one
+        options:
+          - Yes, all of them
+          - Most of them
+          - Some of them
+          - No, likely not
+        required: true
+      - id: 21
+        name: requested_topics
+        label: Any specific wellness topics you want covered in the future?
+        hint: e.g. Mindfulness, Advanced Nutrition, Sleep Hacking
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: general_comments
+        label: Any other general comments or feedback?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: survey_date
+        label: Date of Evaluation
+        hint: null
+        type: date
+        options: []
+        required: true

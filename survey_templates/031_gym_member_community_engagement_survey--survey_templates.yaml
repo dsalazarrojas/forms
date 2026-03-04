@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Member Community Engagement Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: gym member community engagement survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_interest
+      label: event interest
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: communication_frequency
+      label: communication frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''daily''}'
+      - '{''label'': ''weekly''}'
+      - '{''label'': ''monthly''}'
+      required: false
+    - id: 4
+      name: event_participation
+      label: event participation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''always''}'
+      - '{''label'': ''often''}'
+      - '{''label'': ''rarely''}'
+      - '{''label'': ''never''}'
+      required: false
+    - id: 5
+      name: communication_channels
+      label: communication channels
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''email''}'
+      - '{''label'': ''phone''}'
+      - '{''label'': ''in person''}'
+      - '{''label'': ''text message''}'
+      required: false
+    - id: 6
+      name: event_frequency
+      label: event frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''weekly''}'
+      - '{''label'': ''monthly''}'
+      - '{''label'': ''quarterly''}'
+      - '{''label'': ''never''}'
+      required: false
+    - id: 7
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

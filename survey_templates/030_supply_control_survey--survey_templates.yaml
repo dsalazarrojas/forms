@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supply Control Survey
+    pages:
+    - id: 1
+      name: stock_level
+      label: Stock Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: stockout
+      label: Stockout
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: ordering_performance
+      label: Order Performance
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Low'', ''value'': ''Low''}'
+      - '{''id'': 2, ''name'': ''Medium'', ''value'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''High'', ''value'': ''High''}'
+      required: false
+    - id: 4
+      name: ordering_frequency
+      label: Frequency Of Ordering
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Daily'', ''value'': ''Daily''}'
+      - '{''id'': 2, ''name'': ''Weekly'', ''value'': ''Weekly''}'
+      - '{''id'': 3, ''name'': ''Monthly'', ''value'': ''Monthly''}'
+      required: false
+    - id: 5
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: order_amount
+      label: Order Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: stock_out_reason
+      label: Stock out Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: stock_level_frequency
+      label: Stock Level Frequency
+      hint: null
+      type: date
+      options: []
+      required: false

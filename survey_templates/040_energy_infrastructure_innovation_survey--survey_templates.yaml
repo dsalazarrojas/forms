@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Energy Infrastructure Innovation Survey
+    pages:
+    - id: 1
+      name: survey_participant_info
+      label: Survey Participant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organization_info
+      label: Organization Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_participants
+      label: Project Participants
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: innovation_priorities
+      label: Innovation Priorities
+      hint: What are the top three innovation priorities for your organization?
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: barriers_to_innovation
+      label: Barriers To Innovation
+      hint: What are the top three barriers to innovation for your organization?
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: successful_projects
+      label: Successful Projects
+      hint: Can you describe a successful innovation project in your organization?
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false

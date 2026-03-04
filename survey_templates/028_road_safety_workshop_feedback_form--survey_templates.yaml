@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Road Safety Workshop Feedback Form
+    pages:
+    - id: 1
+      name: workshop_participant_name
+      label: Workshop Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: workshop_title
+      label: workshop_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: workshop_location
+      label: workshop_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_workshop
+      label: date_of_workshop
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_workshop
+      label: time_of_workshop
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: session_hours
+      label: session_hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: rating_of_workshop
+      label: rating_of_workshop
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: session_satisfaction
+      label: how_satisfied_with_workshop
+      hint: How satisfied are you with this workshop?
+      type: select_one
+      options:
+      - '{''label'': ''Very Satisfied''}'
+      - '{''label'': ''Satisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Dissatisfied''}'
+      - '{''label'': ''Very Dissatisfied''}'
+      required: false
+    - id: 9
+      name: areas_for_improvement
+      label: areas_for_improvement
+      hint: What areas do you think could be improved in this workshop?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

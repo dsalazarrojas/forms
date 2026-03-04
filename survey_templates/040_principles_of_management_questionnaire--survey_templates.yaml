@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Principles Of Management Questionnaire
+    pages:
+    - id: 1
+      name: principle1
+      label: What is your role in the organization?
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Trainer
+      - Team Lead
+      - HR Specialist
+      - Other
+      required: false
+    - id: 2
+      name: principle2
+      label: How often do you lead training programs?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: principle3
+      label: How much time do you have available each week for training?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: principle4
+      label: What is your current training experience?
+      hint: null
+      type: select_multiple
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      - Other
+      required: false
+    - id: 5
+      name: principle5
+      label: How many team members are you directly responsible for?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: principle6
+      label: On average, how many hours per week do you work with your team?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: principle7
+      label: What is the primary purpose of your role in the organization?
+      hint: null
+      type: select_one
+      options:
+      - Leadership
+      - Training
+      - Support
+      - Development
+      - Other
+      required: false
+    - id: 8
+      name: principle8
+      label: How many years of experience do you have in your current role?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: principle9
+      label: What type of training or development opportunities do you think you would
+        benefit from?
+      hint: null
+      type: select_multiple
+      options:
+      - Soft skills training
+      - Leadership development
+      - Technical skills training
+      - Mentorship or coaching
+      - Other
+      required: false
+    - id: 10
+      name: principle10
+      label: What is the primary industry or sector of your organization?
+      hint: null
+      type: select_one
+      options:
+      - Finance
+      - Healthcare
+      - IT
+      - Manufacturing
+      - Education
+      - Other
+      required: false

@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Carbon Footprint Assessment
+    pages:
+    - id: 1
+      name: organization_name
+      label: What is the name of your Organization?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_name
+      label: What is the name of your School?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: team_name
+      label: What is the name of your Team?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: team_type
+      label: What is your Team Type (School/Organization/Personal)?
+      hint: null
+      type: select_one
+      options:
+      - School
+      - Organization
+      - Personal
+      required: false
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: start_date
+      label: Start Date of Digital Activities
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_date
+      label: End Date of Digital Activities
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: average_daily_time_spent_online
+      label: Average Daily Time Spent Online
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: online_activities
+      label: What activities do you perform online?
+      hint: null
+      type: select_multiple
+      options:
+      - Gaming
+      - Social Media
+      - Online Shopping
+      - Streaming
+      - Browsing
+      - Other
+      required: false
+    - id: 11
+      name: social_media_platforms
+      label: Which social media platforms do you use?
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Instagram
+      - Twitter
+      - TikTok
+      - YouTube
+      - Other
+      required: false
+    - id: 12
+      name: average_monthly_data_usage
+      label: Average Monthly Data Usage (GB)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: carbon_emissions
+      label: What is your estimated monthly carbon footprint (in kg CO2e)?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: reduction_strategies
+      label: What strategies are you using to reduce carbon footprint?
+      hint: null
+      type: select_multiple
+      options:
+      - Reduce energy consumption
+      - Use renewable energy
+      - Invest in carbon offsetting
+      - Other
+      required: false
+    - id: 15
+      name: current_sustainability_status
+      label: What is your current sustainability status?
+      hint: null
+      type: select_one
+      options:
+      - Not started
+      - Started but not yet fully engaged
+      - Fully engaged
+      - Other
+      required: false
+    - id: 16
+      name: future_goals
+      label: What are your future goals regarding sustainability?
+      hint: null
+      type: select_multiple
+      options:
+      - Reduce energy consumption
+      - Use renewable energy
+      - Invest in carbon offsetting
+      - Other
+      required: false
+    - id: 17
+      name: sustainability_measures_taken
+      label: What measures do you take to reduce carbon footprint?
+      hint: null
+      type: select_multiple
+      options:
+      - Reduce energy consumption
+      - Use renewable energy
+      - Invest in carbon offsetting
+      - Other
+      required: false
+    - id: 18
+      name: carbon_footprint_reduction_percentage
+      label: What is your estimated reduction of carbon footprint?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: carbon_offsetting
+      label: Do you invest in carbon offsetting?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: sustainability_measures
+      label: What measures do you take to improve your sustainability?
+      hint: null
+      type: select_multiple
+      options:
+      - Reduce energy consumption
+      - Use renewable energy
+      - Invest in carbon offsetting
+      - Other
+      required: false
+    - id: 21
+      name: carbon_credit_offsetting
+      label: Do you buy carbon offsetting credits?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: offsetting_credits
+      label: How often do you buy carbon offsetting credits?
+      hint: null
+      type: select_multiple
+      options:
+      - Frequently
+      - Periodically
+      - Rarely
+      - Never
+      required: false
+    - id: 23
+      name: budget_for_offsetting
+      label: How much money do you allocate for carbon offsetting?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: carbon_offsetting_investment
+      label: What is the amount invested in carbon offsetting?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: other_offsetting
+      label: Other offsetting information
+      hint: null
+      type: text
+      options: []
+      required: false

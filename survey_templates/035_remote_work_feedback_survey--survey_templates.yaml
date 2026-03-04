@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Work Feedback Survey
+    pages:
+    - id: 1
+      name: intro
+      label: Remote work feedback survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: remote_work_experience
+      label: remote work experience
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 3
+      name: challenges
+      label: challenges
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

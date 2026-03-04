@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sexual Awareness Survey
+    pages:
+    - id: 1
+      name: survey_context
+      label: Survey Context
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sexual_education
+      label: Sexual Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: knowledge
+      label: Knowledge
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: awareness_gaps
+      label: Awareness Gaps
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: targeted_interventions
+      label: Targeted Interventions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: survey_completion
+      label: Survey Completion
+      hint: null
+      type: text
+      options: []
+      required: false

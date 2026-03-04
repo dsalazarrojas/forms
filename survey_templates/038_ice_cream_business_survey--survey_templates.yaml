@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: ice_cream_business_survey
+    pages:
+    - id: 1
+      name: first_page
+      label: What do you think about our ice cream?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_page_section
+      label: How would you rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: second_page
+      label: What is the best flavor of ice cream?
+      hint: null
+      type: select_one
+      options:
+      - Vanilla
+      - Chocolate
+      - Strawberry
+      required: false
+    - id: 4
+      name: best_flavor
+      label: What is the best flavor of ice cream?
+      hint: null
+      type: select_one
+      options:
+      - Vanilla
+      - Chocolate
+      - Strawberry
+      required: true
+    - id: 5
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

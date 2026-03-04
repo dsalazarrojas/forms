@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Lunch Menu Voting Form
+    pages:
+    - id: 1
+      name: school_lunch_menu_voting_form_page_1
+      label: School Lunch Menu Voting Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_lunch_menu_voting_form_page_2
+      label: Select Your Favorite
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option_1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option_2''}'
+      - '{''label'': ''Option 3'', ''value'': ''option_3''}'
+      required: false
+    - id: 3
+      name: school_lunch_menu_voting_form_page_3
+      label: Rate Your Meal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: school_lunch_menu_voting_form_page_4
+      label: Rate Your Meal
+      hint: null
+      type: time
+      options: []
+      required: false

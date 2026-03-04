@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Video Interview Appearance Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: evaluator_feedback
+      label: Evaluator Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: appearance
+      label: Appearance
+      hint: Describe the candidate's appearance
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: confidence
+      label: Confidence
+      hint: Rate the candidate's confidence level
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: eye_contact
+      label: Eye Contact
+      hint: Rate the candidate's eye contact
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: communication_skills
+      label: Communication Skills
+      hint: Rate the candidate's communication skills
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: poise
+      label: Poise
+      hint: Rate the candidate's poise
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: body_language
+      label: Body Language
+      hint: Rate the candidate's body language
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: overall_feeling
+      label: Overall Feeling
+      hint: Rate your overall feeling after the interview
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: appearance_comments
+      label: Appearance Comments
+      hint: Provide any additional comments about the candidate's appearance
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: Provide any additional comments about the candidate
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: selected_files
+      label: Selected Files
+      hint: null
+      type: select_multiple
+      options:
+      - Label 1
+      - Label 2
+      - Label 3
+      required: true
+    - id: 13
+      name: uploaded_files
+      label: Uploaded Files
+      hint: null
+      type: select_one
+      options:
+      - Label 1
+      - Label 2
+      - Label 3
+      required: true
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: uploaded_videos
+      label: Uploaded Videos
+      hint: null
+      type: select_one
+      options:
+      - Label 1
+      - Label 2
+      - Label 3
+      required: false
+    - id: 16
+      name: uploaded_audio
+      label: Uploaded Audio
+      hint: null
+      type: select_one
+      options:
+      - Label 1
+      - Label 2
+      - Label 3
+      required: false
+    - id: 17
+      name: selected_videos
+      label: Selected Videos
+      hint: null
+      type: select_multiple
+      options:
+      - Label 1
+      - Label 2
+      - Label 3
+      required: true
+    - id: 18
+      name: selected_audio
+      label: Selected Audio
+      hint: null
+      type: select_multiple
+      options:
+      - Label 1
+      - Label 2
+      - Label 3
+      required: true
+    - id: 19
+      name: additional
+      label: Additional
+      hint: null
+      type: text
+      options: []
+      required: false

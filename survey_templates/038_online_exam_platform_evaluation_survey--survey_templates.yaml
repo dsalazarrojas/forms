@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_exam_platform_evaluation_survey
+    pages:
+    - id: 1
+      name: usability
+      label: usability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: reliability
+      label: reliability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: platform_usability
+      label: platform usability
+      hint: null
+      type: select_one
+      options:
+      - Very good
+      - Somewhat good
+      - Fair
+      - Bad
+      required: false
+    - id: 6
+      name: platform_reliability
+      label: platform reliability
+      hint: null
+      type: select_multiple
+      options:
+      - Very reliable
+      - Somewhat reliable
+      - Fairly reliable
+      - Not reliable
+      required: false
+    - id: 7
+      name: user_experience
+      label: user experience
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 8
+      name: time_management
+      label: time management
+      hint: null
+      type: select_multiple
+      options:
+      - Very good
+      - Somewhat good
+      - Fair
+      - Not good
+      required: false
+    - id: 9
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

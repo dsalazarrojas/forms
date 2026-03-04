@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Current Affairs Quiz
+    pages:
+    - id: 1
+      name: intro_page
+      label: intro_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_1_page
+      label: question1_label
+      hint: null
+      type: select_one
+      options:
+      - option_a
+      - option_b
+      - option_c
+      - option_d
+      required: false
+    - id: 3
+      name: question_2_page
+      label: question2_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: question_3_page
+      label: question_3_label
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      - option_4
+      required: false
+    - id: 5
+      name: question_4_page
+      label: question_4_label
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: question_5_page
+      label: question_5_label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: note_page
+      label: note_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email_page
+      label: email_label
+      hint: null
+      type: email
+      options: []
+      required: false

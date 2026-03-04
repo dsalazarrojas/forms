@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Countdown Widget Feedback Form
+    pages:
+    - id: 1
+      name: widget_feedback
+      label: How would you rate the overall performance of your countdown widget?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: rating
+      label: What rating (1-5) would you give your countdown widget?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: suggestion
+      label: What do you think could be improved?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: comments
+      label: Any comments about your experience with our countdown widget?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email_address
+      label: Your Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Your Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: category
+      label: What category does this feedback belong to?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: true
+    - id: 9
+      name: contact_details
+      label: Do you want to be contacted about this feedback?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: contact_method
+      label: If yes, how do you want to be contacted?
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - None
+      required: false

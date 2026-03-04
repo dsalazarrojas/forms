@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Memory Test Feedback Form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: overall_difficulty_level
+      label: overall_difficulty_level
+      hint: null
+      type: select_one
+      options:
+      - Easy
+      - Medium
+      - Difficult
+      - Very Difficult
+      required: false
+    - id: 3
+      name: recall_level
+      label: recall_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: suggest_improvements
+      label: suggest_improvements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: trainer_feedback
+      label: trainer_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_feedback
+      label: participant_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - 1-2
+      - 3-4
+      - 5-6
+      - 7-8
+      - 9-10
+      required: false
+    - id: 8
+      name: event_memory_test
+      label: event_memory_test
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false

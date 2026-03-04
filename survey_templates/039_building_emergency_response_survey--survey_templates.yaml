@@ -1,0 +1,268 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Building Emergency Response Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Full name
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: department
+        label: Department
+        hint: Your department
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: role
+        label: Your Role
+        hint: Job title
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: email
+        label: Email Address
+        hint: Contact email
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: survey_date
+        label: Survey Date
+        hint: Date of survey
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: building_name
+        label: Building Name
+        hint: Which building
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: floor_level
+        label: Floor Level
+        hint: Your primary floor
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: tenure_in_building
+        label: Time in Building
+        hint: How long have you worked here
+        type: select_one
+        options:
+          - Less than 6 months
+          - 6 months to 1 year
+          - 1-3 years
+          - 3-5 years
+          - Over 5 years
+        required: true
+      - id: 9
+        name: evacuation_training
+        label: Evacuation Training Received
+        hint: Have you received training
+        type: select_one
+        options:
+          - Yes - Within Past Year
+          - Yes - Over 1 Year Ago
+          - No - Never
+          - Not Sure
+        required: true
+      - id: 10
+        name: drill_participation
+        label: Drill Participation
+        hint: Have you participated in drills
+        type: select_one
+        options:
+          - Yes - Multiple Times
+          - Yes - Once
+          - No - Never
+          - Not Aware of Drills
+        required: true
+      - id: 11
+        name: evacuation_route_knowledge
+        label: Evacuation Route Knowledge
+        hint: Do you know exit routes
+        type: select_one
+        options:
+          - Yes - All Routes from My Area
+          - Yes - Primary Routes
+          - Somewhat
+          - No - Not Sure
+        required: true
+      - id: 12
+        name: assembly_point_knowledge
+        label: Assembly Point Knowledge
+        hint: Do you know where to gather
+        type: select_one
+        options:
+          - Yes - All Assembly Points
+          - Yes - Primary Assembly Point
+          - Somewhat
+          - No - Not Sure
+        required: true
+      - id: 13
+        name: alarm_recognition
+        label: Alarm Recognition
+        hint: Can you identify alarm sounds
+        type: select_one
+        options:
+          - Yes - All Alarms
+          - Yes - Most Alarms
+          - Somewhat
+          - No - Not Sure
+        required: true
+      - id: 14
+        name: emergency_equipment_location
+        label: Emergency Equipment Location
+        hint: Do you know where equipment is
+        type: select_one
+        options:
+          - Yes - Fire Extinguishers and AEDs
+          - Yes - Fire Extinguishers Only
+          - Yes - AEDs Only
+          - No - Not Sure
+        required: true
+      - id: 15
+        name: emergency_contact_knowledge
+        label: Emergency Contact Knowledge
+        hint: Do you know who to call
+        type: select_one
+        options:
+          - Yes - All Contacts
+          - Yes - Main Number
+          - Somewhat
+          - No - Not Sure
+        required: true
+      - id: 16
+        name: signage_visibility
+        label: Emergency Signage Visibility
+        hint: Are signs clear
+        type: select_one
+        options:
+          - Very Clear and Visible
+          - Clear
+          - Somewhat Clear
+          - Unclear
+          - Not Visible
+        required: true
+      - id: 17
+        name: exit_accessibility
+        label: Exit Accessibility
+        hint: Are exits accessible
+        type: select_one
+        options:
+          - Always Accessible
+          - Usually Accessible
+          - Sometimes Blocked
+          - Often Blocked
+          - Always Blocked
+        required: true
+      - id: 18
+        name: communication_effectiveness
+        label: Emergency Communication
+        hint: How effective is communication
+        type: select_one
+        options:
+          - Very Effective
+          - Effective
+          - Somewhat Effective
+          - Ineffective
+          - Very Ineffective
+        required: true
+      - id: 19
+        name: confidence_level
+        label: Emergency Response Confidence
+        hint: How confident are you
+        type: select_one
+        options:
+          - Very Confident
+          - Confident
+          - Somewhat Confident
+          - Not Very Confident
+          - Not Confident at All
+        required: true
+      - id: 20
+        name: special_assistance_needs
+        label: Special Assistance Needs
+        hint: Do you or others need help
+        type: select_one
+        options:
+          - No Assistance Needed
+          - I Need Assistance
+          - Others in My Area Need Assistance
+          - Not Sure
+        required: true
+      - id: 21
+        name: barriers_identified
+        label: Barriers to Evacuation
+        hint: What would make evacuation difficult
+        type: select_multiple
+        options:
+          - None
+          - Mobility Limitations
+          - Blocked Exits
+          - Poor Signage
+          - Confusing Layout
+          - Language Barriers
+          - Lack of Training
+          - Inadequate Alarms
+        required: true
+      - id: 22
+        name: improvement_suggestions
+        label: Suggestions for Improvement
+        hint: Your recommendations
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: additional_training_needed
+        label: Additional Training Needed
+        hint: What training would help
+        type: select_multiple
+        options:
+          - None
+          - Evacuation Procedures
+          - Fire Extinguisher Use
+          - First Aid/CPR
+          - Emergency Communication
+          - Floor Warden Training
+          - Special Needs Assistance
+        required: true
+      - id: 24
+        name: overall_preparedness
+        label: Overall Preparedness Rating
+        hint: How prepared is the building
+        type: select_one
+        options:
+          - Very Well Prepared
+          - Well Prepared
+          - Somewhat Prepared
+          - Poorly Prepared
+          - Very Poorly Prepared
+        required: true
+      - id: 25
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

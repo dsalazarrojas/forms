@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Backflow Tester Registration Survey
+    pages:
+    - id: 1
+      name: tester_reg_header
+      label: -- Certified Backflow Tester Registration --
+      hint: Register to be an authorized tester for our municipality or utility service
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: tester_full_name_reg
+      label: Tester Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: tester_company_name
+      label: Company/Employer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email_tester
+      label: Business Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone_tester
+      label: Business Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: license_and_cert_header
+      label: -- Credentials and Licensing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: state_license_number
+      label: State Backflow Tester License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: license_expiration_date
+      label: License Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: years_experience_backflow
+      label: Years of Experience in Backflow Testing
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: certifications_held_tester
+      label: Specific Device Certifications
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - RPZ Specialist
+      - Double Check Valve Specialist
+      - Vacuum Breaker Specialist
+      - Large Diameter Devices
+      - Residential only
+      required: true
+    - id: 11
+      name: service_area_tester
+      label: Primary Service Area (Counties/Cities)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: test_kit_serial_number
+      label: Main Test Kit Serial Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: test_kit_calibration_date
+      label: Last Test Kit Calibration Date
+      hint: Must be within the last 12 months
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: proof_of_insurance_ack
+      label: I certify that I have current liability insurance as required
+      hint: null
+      type: select_one
+      options:
+      - I certify
+      - Other
+      required: true
+    - id: 15
+      name: tester_declaration_reg
+      label: I agree to submit all test reports within 48 hours of inspection
+      hint: null
+      type: select_one
+      options:
+      - I agree and understand
+      - Other
+      required: true

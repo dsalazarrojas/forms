@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Implementation Needs Assessment Survey
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: challenges
+      label: Challenges
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: resources
+      label: Resources
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: timelines
+      label: Timelines
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 6
+      name: consultant_name
+      label: Consultant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: project_notes
+      label: Project Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: resource_plan
+      label: Resource Plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: implementation_team
+      label: Implementation Team
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: project_scope
+      label: Project Scope
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: project_goals
+      label: Project Goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: project_objectives
+      label: Project Objectives
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: project_outcomes
+      label: Project Outcomes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: project_success_criteria
+      label: Project Success Criteria
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: project_success_indicators
+      label: Project Success Indicators
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: project_risks
+      label: Project Risks
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: project_constraints
+      label: Project Constraints
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: project_scope_items
+      label: Project Scope Items
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: project_scope_outcomes
+      label: Project Scope Outcomes
+      hint: null
+      type: text
+      options: []
+      required: true

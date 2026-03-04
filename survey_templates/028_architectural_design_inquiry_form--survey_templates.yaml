@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: Architectural Design Inquiry Form
+    pages:
+    - id: 1
+      name: section_client_info
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company or Organization
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_project_type
+      label: -- Project Type --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: project_category
+      label: Project Category
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      - Institutional
+      - Mixed-use
+      - Other
+      required: true
+    - id: 8
+      name: specific_project_type
+      label: Specific Project Type
+      hint: null
+      type: select_one
+      options:
+      - New building
+      - Renovation
+      - Addition
+      - Interior redesign
+      - Feasibility study
+      - Master planning
+      required: true
+    - id: 9
+      name: section_scope
+      label: -- Project Scope --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: project_description
+      label: Project Description
+      hint: Tell us about your project
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: primary_goals
+      label: Primary Goals for This Project
+      hint: What do you want to achieve?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: target_users
+      label: Target Users or Occupants
+      hint: Who will use this space?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_parameters
+      label: -- Project Parameters --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: project_location
+      label: Project Location
+      hint: City, region, or address
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: estimated_area
+      label: Estimated Square Footage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: budget_range
+      label: Budget Range
+      hint: Estimated budget for design
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: timeline
+      label: Desired Project Timeline
+      hint: When do you need to begin?
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: section_preferences
+      label: -- Design Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: design_style
+      label: Preferred Design Style
+      hint: Modern, traditional, contemporary, etc
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: sustainability_priorities
+      label: Sustainability or Green Building Priorities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: next_steps
+      label: What would you like to discuss first?
+      hint: null
+      type: text
+      options: []
+      required: false

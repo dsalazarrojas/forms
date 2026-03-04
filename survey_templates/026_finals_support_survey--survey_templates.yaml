@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Finals Support Survey
+    pages:
+    - id: 1
+      name: school_info
+      label: School Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: finals_resources
+      label: Finals Resources
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 3
+      name: resource_stress
+      label: Finals Resources Stress
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: support_ideas
+      label: Improvement Ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: submission
+      label: Submission
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false

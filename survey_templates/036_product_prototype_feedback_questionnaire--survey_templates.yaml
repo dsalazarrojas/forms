@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Prototype Feedback Questionnaire
+    pages:
+    - id: 1
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Product Category
+      hint: null
+      type: select_one
+      options:
+      - Product A
+      - Product B
+      - Product C
+      required: true
+    - id: 3
+      name: rating
+      label: Overall Rating
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: comment
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: Additional Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: suggestion
+      label: Suggestion
+      hint: null
+      type: select_multiple
+      options:
+      - Suggest a Feature
+      - Suggest a Bugfix
+      - Suggest an Improvement
+      required: false
+    - id: 9
+      name: product_version
+      label: Product Version
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: user_experience
+      label: User Experience
+      hint: null
+      type: select_one
+      options:
+      - Very Positive
+      - Positive
+      - Neutral
+      - Negative
+      - Very Negative
+      required: true
+    - id: 11
+      name: will_recommend
+      label: Will Recommend
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: suggestion_details
+      label: Suggestion Details
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: product_image
+      label: Product Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: product_url
+      label: Product URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: product_url_type
+      label: Product URL Type
+      hint: null
+      type: select_one
+      options:
+      - HTTP URL
+      - HTTPS URL
+      - Local URL
+      - File URL
+      required: true
+    - id: 18
+      name: attachment
+      label: Attachment
+      hint: null
+      type: note
+      options: []
+      required: false

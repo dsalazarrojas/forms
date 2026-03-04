@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stat Adjustment Survey
+    pages:
+    - id: 1
+      name: balance_before
+      label: balance_before
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: balance_after
+      label: balance_after
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: stat_adjustment
+      label: stat_adjustment
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: player_name
+      label: player_name
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: player_notes
+      label: player_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_name
+      label: team_name
+      hint: null
+      type: select_one
+      options:
+      - Team A
+      - Team B
+      required: false
+    - id: 7
+      name: player_feedback
+      label: player_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: team_feedback
+      label: team_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: suggestion
+      label: suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_time
+      label: follow_up_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_method
+      label: follow_up_method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In-app Message
+      required: false
+    - id: 14
+      name: follow_up_comment
+      label: follow_up_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: balance_change
+      label: balance_change
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

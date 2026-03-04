@@ -1,0 +1,238 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Class Scheduling Preference Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: intro_page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: class_type
+      label: class_type
+      hint: What type of classes do you usually attend?
+      type: select_one
+      options:
+      - yoga
+      - strength training
+      - cardio
+      required: false
+    - id: 3
+      name: class_frequency
+      label: class_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - monday
+      - tuesday
+      - wednesday
+      - thursday
+      - friday
+      - saturday
+      - sunday
+      required: false
+    - id: 4
+      name: class_time
+      label: class_time
+      hint: What time of day do you prefer for classes?
+      type: select_one
+      options:
+      - morning
+      - afternoon
+      - evening
+      required: false
+    - id: 5
+      name: preferred_time
+      label: preferred_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: start_time
+      label: start_time
+      hint: What time do you prefer to start your day with classes?
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: end_time
+      label: end_time
+      hint: What time do you prefer to end your day with classes?
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: preferred_days
+      label: preferred_days
+      hint: null
+      type: select_multiple
+      options:
+      - monday
+      - tuesday
+      - wednesday
+      - thursday
+      - friday
+      - saturday
+      - sunday
+      required: false
+    - id: 9
+      name: class_duration
+      label: class_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: availability
+      label: availability
+      hint: null
+      type: select_one
+      options:
+      - always
+      - mostly
+      - rarely
+      - never
+      required: false
+    - id: 11
+      name: morning_availability
+      label: morning_availability
+      hint: null
+      type: select_one
+      options:
+      - always
+      - mostly
+      - rarely
+      - never
+      required: false
+    - id: 12
+      name: afternoon_availability
+      label: afternoon_availability
+      hint: null
+      type: select_one
+      options:
+      - always
+      - mostly
+      - rarely
+      - never
+      required: false
+    - id: 13
+      name: evening_availability
+      label: evening_availability
+      hint: null
+      type: select_one
+      options:
+      - always
+      - mostly
+      - rarely
+      - never
+      required: false
+    - id: 14
+      name: available_days
+      label: available_days
+      hint: null
+      type: select_multiple
+      options:
+      - monday
+      - tuesday
+      - wednesday
+      - thursday
+      - friday
+      - saturday
+      - sunday
+      required: false
+    - id: 15
+      name: class_limit
+      label: class_limit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: morning_limit
+      label: morning_limit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: afternoon_limit
+      label: afternoon_limit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: evening_limit
+      label: evening_limit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: preferred_instructors
+      label: preferred_instructors
+      hint: null
+      type: select_multiple
+      options:
+      - female
+      - male
+      - other
+      required: false
+    - id: 20
+      name: instructor_gender
+      label: instructor_gender
+      hint: null
+      type: select_one
+      options:
+      - female
+      - male
+      - other
+      required: false
+    - id: 21
+      name: instructor_name
+      label: instructor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: preferred_class_sizes
+      label: preferred_class_sizes
+      hint: null
+      type: select_multiple
+      options:
+      - small
+      - medium
+      - large
+      required: false
+    - id: 23
+      name: class_size
+      label: class_size
+      hint: null
+      type: select_one
+      options:
+      - small
+      - medium
+      - large
+      required: false
+    - id: 24
+      name: preferred_instructor_experience
+      label: preferred_instructor_experience
+      hint: null
+      type: select_one
+      options:
+      - beginner
+      - intermediate
+      - advanced
+      required: false
+    - id: 25
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

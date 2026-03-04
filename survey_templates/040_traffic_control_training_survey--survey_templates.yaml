@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Traffic Control Training Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_completion
+      label: Time of Completion
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: course_attended
+      label: Which course attended?
+      hint: null
+      type: select_multiple
+      options:
+      - Traffic Control
+      - Traffic Control Basic
+      - Traffic Control Advanced
+      required: false
+    - id: 6
+      name: feedback_question_1
+      label: How satisfied are you with the course content?
+      hint: null
+      type: select_one
+      options:
+      - 5 - Extremely Satisfied
+      - 4 - Satisfied
+      - 3 - Neutral
+      - 2 - Dissatisfied
+      - 1 - Extremely Dissatisfied
+      required: false
+    - id: 7
+      name: feedback_question_2
+      label: How would you rate the instructor?
+      hint: null
+      type: select_one
+      options:
+      - 5 - Extremely Satisfied
+      - 4 - Satisfied
+      - 3 - Neutral
+      - 2 - Dissatisfied
+      - 1 - Extremely Dissatisfied
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

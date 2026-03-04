@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Feedback Checklist Form
+    pages:
+    - id: 1
+      name: form_page_1
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_page_2
+      label: contact_info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: form_page_2
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: form_page_1
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_page_3
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false

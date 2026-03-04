@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Program Evaluation Checklist
+    pages:
+    - id: 1
+      name: program_evaluation_checklist_form_section_1
+      label: Program Evaluation Checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_feedback
+      label: Participant Feedback
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Strongly Agree''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Disagree''}'
+      - '{''label'': ''Strongly Disagree''}'
+      required: false
+    - id: 3
+      name: stakeholder_feedback
+      label: Stakeholder Feedback
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Strongly Agree''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Disagree''}'
+      - '{''label'': ''Strongly Disagree''}'
+      required: false
+    - id: 4
+      name: program_evaluation_checklist_program_effectiveness
+      label: Program Evaluation Checklist - Program Effectiveness
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 5
+      name: program_evaluation_checklist_participant_engagement
+      label: Program Evaluation Checklist - Participant Engagement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 6
+      name: program_evaluation_checklist_stakeholder_engagement
+      label: Program Evaluation Checklist - Stakeholder Engagement
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 7
+      name: program_evaluation_checklist_recommendations
+      label: Program Evaluation Checklist - Recommendations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: program_evaluation_checklist_evaluation_frequency
+      label: Program Evaluation Checklist - Evaluation Frequency
+      hint: null
+      type: number
+      options: []
+      required: false

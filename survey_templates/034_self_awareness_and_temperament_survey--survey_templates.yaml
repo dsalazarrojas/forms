@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Self Awareness And Temperament Survey
+    pages:
+    - id: 1
+      name: personality_questions
+      label: Self Awareness Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: temperament_scale
+      label: Temperament Scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: emotional_responses
+      label: Emotional Responses
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: emotional_states
+      label: Emotional States
+      hint: null
+      type: date
+      options: []
+      required: false

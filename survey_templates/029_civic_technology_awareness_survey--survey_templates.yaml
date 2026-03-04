@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Civic Technology Awareness Survey
+    pages:
+    - id: 1
+      name: awareness_intro
+      label: -- Civic Tech Awareness and Usage --
+      hint: Understanding how citizens use technology to interact with government
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: familiar_with_civic_tech
+      label: Are you familiar with the term "Civic Technology"?
+      hint: null
+      type: select_one
+      options:
+      - Yes, very familiar
+      - Heard of it, but not sure
+      - No, first time hearing it
+      required: true
+    - id: 3
+      name: city_app_usage
+      label: Have you ever used a mobile app provided by the city government?
+      hint: e.g., for reporting potholes, paying tickets, or viewing schedules
+      type: select_one
+      options:
+      - Yes, frequently
+      - Yes, once or twice
+      - No, never
+      - Didn't know one existed
+      required: true
+    - id: 4
+      name: known_platforms
+      label: Which platforms are you aware of?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - City Official Portal
+      - Neighborhood Discussion Boards (e.g., Nextdoor)
+      - Open Data Portals
+      - Public Meeting Webcasts
+      - Reporting Tools (e.g., 311 app)
+      required: false
+    - id: 5
+      name: tech_engagement_benefits_header
+      label: -- Perceived Value and Barriers --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: tech_benefit_rating
+      label: Technology makes it easier for me to participate in local government
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 7
+      name: open_data_awareness
+      label: Are you aware of the city's Open Data Initiative?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: data_usage_interest
+      label: If yes, have you ever used city data for your own project or research?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: false
+    - id: 9
+      name: engagement_tool_preference
+      label: What is your preferred way to provide feedback to the city?
+      hint: null
+      type: select_one
+      options:
+      - Mobile App
+      - Web Form
+      - Social Media
+      - Email
+      - In-Person Meeting
+      required: true
+    - id: 10
+      name: tech_adoption_barriers
+      label: What stops you from using more civic tech tools?
+      hint: null
+      type: select_multiple
+      options:
+      - Privacy/Security concerns
+      - Tools are hard to use (poor design)
+      - Lack of internet access
+      - Tools don't seem to lead to real action
+      - Don't know where to find them
+      required: false
+    - id: 11
+      name: transparency_impact
+      label: Do you feel tech tools have improved government transparency?
+      hint: null
+      type: select_one
+      options:
+      - Significant Improvement
+      - Slight Improvement
+      - No Impact
+      - Made it more confusing
+      required: true
+    - id: 12
+      name: missing_tech_feature
+      label: What one digital tool is missing from our city services?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: demographic_tech_skill
+      label: How would you rate your own digital literacy?
+      hint: 1 = Very Low, 5 = Very High
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: further_participation_interest
+      label: Would you join a "Beta Tester" group for new city digital services?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: survey_timestamp
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

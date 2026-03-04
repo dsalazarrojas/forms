@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Video Reflection Feedback Form
+    pages:
+    - id: 1
+      name: video_title
+      label: Video Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: video_rating
+      label: Video Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: reflection
+      label: Reflection
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: rating_comment
+      label: Rating Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: watched_video
+      label: Watched Video
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: watched_video_comment
+      label: Watched Video Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: watched_video_rating
+      label: Watched Video Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: watched_video_comment
+      label: Watched Video Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: watched_video_rating2
+      label: Watched Video Rating2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: watched_video_comment2
+      label: Watched Video Comment2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: video_reflection_satisfied
+      label: Satisfied
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Not Satisfied
+      required: true
+    - id: 15
+      name: video_reflection_improved
+      label: Improved
+      hint: null
+      type: select_one
+      options:
+      - Much Improved
+      - A Little Improved
+      - Not Improved
+      required: true
+    - id: 16
+      name: video_reflection_likely_improve
+      label: Likely to Improve
+      hint: null
+      type: select_multiple
+      options:
+      - Content
+      - Engagement
+      - Both
+      required: true
+    - id: 17
+      name: video_reflection_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

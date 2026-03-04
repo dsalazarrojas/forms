@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: digital_form_creation_survey
+    pages:
+    - id: 1
+      name: form_creation_experience
+      label: Creating a digital form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_design_process
+      label: How did you find the form design process?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Easy''}'
+      - '{''label'': ''Difficult''}'
+      - '{''label'': ''Not sure''}'
+      required: false
+    - id: 3
+      name: user_feedback
+      label: What would you like to provide feedback on?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Form layout''}'
+      - '{''label'': ''Form design''}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false
+    - id: 4
+      name: overall_satisfaction
+      label: How satisfied were you with the form creation process?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: form_completion_time
+      label: How long did it take you to complete the form?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: form_completion_time_hours
+      label: Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: user_experience
+      label: How would you rate your experience creating the form?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: form_completion_time_minutes
+      label: Minutes
+      hint: null
+      type: number
+      options: []
+      required: false

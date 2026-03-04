@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Promotional Campaign Opinion Survey
+    pages:
+    - id: 1
+      name: campaign_performance
+      label: How would you rate this campaign?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: awareness
+      label: How aware were you of this campaign?
+      hint: null
+      type: select_one
+      options:
+      - Very Aware
+      - Not Very Aware
+      - Not at All Aware
+      required: false
+    - id: 3
+      name: preferences
+      label: What type of campaign preference do you have?
+      hint: null
+      type: select_multiple
+      options:
+      - Discount
+      - Promotional Email
+      - Other
+      required: false
+    - id: 4
+      name: performance
+      label: How would you rate the performance of this campaign?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: time_of_day
+      label: What time of day do you prefer to receive promotional emails?
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - No preference
+      required: false
+    - id: 6
+      name: frequency_of_email
+      label: What frequency of email would you prefer?
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Biweekly
+      - Monthly
+      - Quarterly
+      - Rarely
+      required: false

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hiking Trip Check Out Form
+    pages:
+    - id: 1
+      name: hiking_trip_check_out_form
+      label: hiking_trip_check_out_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: trip_details
+      label: trip_details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: gear_used
+      label: gear_used
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: check_out_date
+      label: check_out_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: check_out_time
+      label: check_out_time
+      hint: null
+      type: time
+      options: []
+      required: false

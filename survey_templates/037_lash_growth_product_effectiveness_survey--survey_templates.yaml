@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lash Growth Product Effectiveness Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: result_frequency
+      label: How frequently have you used the product?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - A few times a week
+      - A few times a month
+      - Rarely
+      required: false
+    - id: 3
+      name: result_quality
+      label: How effective was the product in achieving results?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction
+      label: How satisfied are you with the product?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: side_effects
+      label: Have you experienced any side effects while using the product?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: improvement_area
+      label: Which area of the product could use improvement?
+      hint: null
+      type: select_multiple
+      options:
+      - Price
+      - Ingredients
+      - Effectiveness
+      - Packaging
+      - Other
+      required: false
+    - id: 7
+      name: additional_comments
+      label: Do you have any additional comments or suggestions for the product?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

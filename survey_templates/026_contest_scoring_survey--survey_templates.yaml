@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contest Scoring Survey
+    pages:
+    - id: 1
+      name: judge_identification_header
+      label: -- Judge Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: judge_full_name
+      label: Judge Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: judging_category
+      label: Judging Category
+      hint: Which specific category are you scoring
+      type: select_one
+      options:
+      - Creative Arts
+      - Technical Performance
+      - Presentation Skills
+      - Innovation and Impact
+      required: true
+    - id: 4
+      name: contestant_info_header
+      label: -- Contestant Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: contestant_id_name
+      label: Contestant Name or ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: entry_title
+      label: Entry Title/Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: scoring_criteria_header
+      label: -- Scoring (1-10 Scale) --
+      hint: 1 = Poor, 10 = Exceptional
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: score_originality
+      label: Originality and Creativity
+      hint: How unique is the submission
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: score_technical_execution
+      label: Technical Execution
+      hint: Level of skill and craftsmanship
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: score_presentation
+      label: Presentation and Delivery
+      hint: Visual or verbal impact
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: score_relevance
+      label: Relevance to Theme
+      hint: Does it meet the contest objectives
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: feedback_comments_header
+      label: -- Qualitative Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: judge_comments
+      label: Constructive Feedback for Contestant
+      hint: Provide specific examples of what they did well or could improve
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: final_recommendation
+      label: Final Award Recommendation
+      hint: null
+      type: select_one
+      options:
+      - Gold/First Place
+      - Silver/Second Place
+      - Bronze/Third Place
+      - Honorable Mention
+      - No Award
+      required: true
+    - id: 15
+      name: judging_date
+      label: Date of Evaluation
+      hint: null
+      type: date
+      options: []
+      required: true

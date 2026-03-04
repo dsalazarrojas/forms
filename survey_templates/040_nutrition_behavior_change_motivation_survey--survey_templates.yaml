@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nutrition Behavior Change Motivation Survey
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: survey_responses
+      label: Survey Responses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: motivation_score
+      label: Motivation Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: motivation_level
+      label: Motivation Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: motivation_comment
+      label: Motivation Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: survey_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: survey_time
+      label: Survey Time
+      hint: null
+      type: time
+      options: []
+      required: false

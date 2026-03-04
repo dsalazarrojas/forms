@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: RNA Seq Analysis Survey
+    pages:
+    - id: 1
+      name: rna_seq_analysis_workflow
+      label: rna-seq-analysis-workflow
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lab_name
+      label: lab-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: contact-email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: contact-phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: lab_address
+      label: lab-address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: lab_url
+      label: lab-url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: workflow_stage
+      label: workflow-stage
+      hint: null
+      type: select_one
+      options:
+      - Workflow 1
+      - Workflow 2
+      - Workflow 3
+      - Workflow 4
+      - Workflow 5
+      - Workflow 6
+      - Workflow 7
+      - Workflow 8
+      required: true
+    - id: 8
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: workflow_stage2
+      label: workflow-stage2
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 12
+      name: contact_person
+      label: contact-person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: contact_role
+      label: contact-role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: contact_department
+      label: contact-department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: time_zones
+      label: time-zones
+      hint: null
+      type: select_multiple
+      options:
+      - Time Zone 1
+      - Time Zone 2
+      - Time Zone 3
+      - Time Zone 4
+      required: false
+    - id: 19
+      name: date_zones
+      label: date-zones
+      hint: null
+      type: select_multiple
+      options:
+      - Date Zone 1
+      - Date Zone 2
+      required: false
+    - id: 20
+      name: contact_email_cc
+      label: contact-email-cc
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: contact_phone_cc
+      label: contact-phone-cc
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_name
+      label: contact-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: contact_role_cc
+      label: contact-role-cc
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contact_department_cc
+      label: contact-department-cc
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: notes_cc
+      label: notes-cc
+      hint: null
+      type: text
+      options: []
+      required: false

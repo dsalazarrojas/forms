@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gardening Program Interest Survey
+    pages:
+    - id: 1
+      name: survey_templates_survey_program_interests
+      label: Survey Template Selection
+      hint: null
+      type: select_one
+      options:
+      - Gardening Club
+      - Gardening Class
+      - Other
+      required: false
+    - id: 2
+      name: user_interest
+      label: What are you interested in
+      hint: null
+      type: select_multiple
+      options:
+      - Gardening
+      - Gardening Club
+      - Gardening Class
+      required: false
+    - id: 3
+      name: available_months
+      label: When are you available
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: learning_preferences
+      label: What kind of learning preferences do you have?
+      hint: null
+      type: select_multiple
+      options:
+      - Visual
+      - Interactive
+      - Interactive and Visual
+      required: false
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: other_details
+      label: Other Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: survey_completion
+      label: How would you like to be contacted for this survey?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Both
+      required: false
+    - id: 9
+      name: survey_response
+      label: Response
+      hint: null
+      type: note
+      options: []
+      required: false

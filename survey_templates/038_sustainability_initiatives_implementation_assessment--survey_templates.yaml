@@ -1,0 +1,233 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sustainability Initiatives Implementation Assessment
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: initiative_type
+      label: initiative_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Green Housekeeping''}'
+      - '{''id'': 2, ''label'': ''Green Purchasing''}'
+      - '{''id'': 3, ''label'': ''Green Transportation''}'
+      - '{''id'': 4, ''label'': ''Green Supply Chain''}'
+      required: false
+    - id: 3
+      name: project_duration
+      label: project_duration
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Less than 6 months''}'
+      - '{''id'': 2, ''label'': ''6-12 months''}'
+      - '{''id'': 3, ''label'': ''1-2 years''}'
+      - '{''id'': 4, ''label'': ''2-5 years''}'
+      - '{''id'': 5, ''label'': ''More than 5 years''}'
+      required: false
+    - id: 4
+      name: target_area
+      label: target_area
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Community''}'
+      - '{''id'': 2, ''label'': ''Environment''}'
+      - '{''id'': 3, ''label'': ''Employees''}'
+      - '{''id'': 4, ''label'': ''Customers''}'
+      required: false
+    - id: 5
+      name: budget
+      label: budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: expected_impact
+      label: expected_impact
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: actual_impact
+      label: actual_impact
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: sustainability_committee
+      label: sustainability_committee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: greenhouse_gas
+      label: greenhouse_gas
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Electricity''}'
+      - '{''id'': 2, ''label'': ''Heat''}'
+      - '{''id'': 3, ''label'': ''Water''}'
+      - '{''id'': 4, ''label'': ''Waste''}'
+      required: false
+    - id: 10
+      name: carbon_offset
+      label: carbon_offset
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: water_conservation
+      label: water_conservation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: recycling_rate
+      label: recycling_rate
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''0-10%''}'
+      - '{''id'': 2, ''label'': ''11-20%''}'
+      - '{''id'': 3, ''label'': ''21-30%''}'
+      - '{''id'': 4, ''label'': ''31-40%''}'
+      - '{''id'': 5, ''label'': ''41-50%''}'
+      required: false
+    - id: 13
+      name: transportation_mode
+      label: transportation_mode
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Drive''}'
+      - '{''id'': 2, ''label'': ''Bus/Rail''}'
+      - '{''id'': 3, ''label'': ''Walk/Bycicle''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 14
+      name: energy_efficiency
+      label: energy_efficiency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''High''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 15
+      name: renewable_energy
+      label: renewable_energy
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Solar''}'
+      - '{''id'': 2, ''label'': ''Wind''}'
+      - '{''id'': 3, ''label'': ''Hydro''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 16
+      name: green_building
+      label: green_building
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Leed Certified''}'
+      - '{''id'': 2, ''label'': ''Green Building Standard''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 17
+      name: green_certification
+      label: green_certification
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''GBI''}'
+      - '{''id'': 2, ''label'': ''LEED''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 18
+      name: sustainable_water_sources
+      label: sustainable_water_sources
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: green_building_certification
+      label: green_building_certification
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''GBI''}'
+      - '{''id'': 2, ''label'': ''LEED''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 20
+      name: sustainable_land_use
+      label: sustainable_land_use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: transportation_mode
+      label: transportation_mode
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Bike''}'
+      - '{''id'': 2, ''label'': ''Bus/Rail''}'
+      - '{''id'': 3, ''label'': ''Car''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 22
+      name: carbon_offset
+      label: carbon_offset
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: green_building_certification
+      label: green_building_certification
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''GBI''}'
+      - '{''id'': 2, ''label'': ''LEED''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 24
+      name: green_housekeeping
+      label: green_housekeeping
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: transportation_mode
+      label: transportation_mode
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Bus''}'
+      - '{''id'': 2, ''label'': ''Walk/Bycicle''}'
+      - '{''id'': 3, ''label'': ''Drive''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false

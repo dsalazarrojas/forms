@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photography Tour Client Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: Rate Your Tour
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not Satisfied'', ''value'': ''Not Satisfied''}'
+      - '{''label'': ''Somewhat Satisfied'', ''value'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Satisfied'', ''value'': ''Satisfied''}'
+      - '{''label'': ''Very Satisfied'', ''value'': ''Very Satisfied''}'
+      - '{''label'': ''Extremely Satisfied'', ''value'': ''Extremely Satisfied''}'
+      required: false
+    - id: 4
+      name: routes
+      label: Routes
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Too short'', ''value'': ''Too short''}'
+      - '{''label'': ''Just right'', ''value'': ''Just right''}'
+      - '{''label'': ''Too long'', ''value'': ''Too long''}'
+      required: false
+    - id: 5
+      name: guide
+      label: Your Guide
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not Good'', ''value'': ''Not Good''}'
+      - '{''label'': ''Needs Improvement'', ''value'': ''Needs Improvement''}'
+      - '{''label'': ''Good'', ''value'': ''Good''}'
+      required: false
+    - id: 6
+      name: suggestions
+      label: What Would You Improve
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: self_harm_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: self_harm_experiences
+      label: self_harm_experiences
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: self_harm_knowledge
+      label: self_harm_knowledge
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: self_harm_coping_strategies
+      label: self_harm_coping_strategies
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 5
+      name: self_harm_emotional_states
+      label: self_harm_emotional_states
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: self_harm_physical_states
+      label: self_harm_physical_states
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: self_harm_support
+      label: self_harm_support
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: self_harm_prevention
+      label: self_harm_prevention
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: self_harm_resources
+      label: self_harm_resources
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: self_harm_additional_comments
+      label: self_harm_additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

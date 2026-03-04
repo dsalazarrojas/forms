@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: World's Fairs Knowledge Quiz
+    pages:
+    - id: 1
+      name: world_fairs_history
+      label: World Fairs History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: what_year
+      label: What Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: which_country
+      label: Which Country
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: select_multiple_countries
+      label: Select Multiple Countries
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: select_one_date
+      label: Select One Date
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: select_multiple_dates
+      label: Select Multiple Dates
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: note_answer
+      label: Note Answer
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: what_time
+      label: What Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: select_one_option
+      label: Select One Option
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: select_multiple_option
+      label: Select Multiple Options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: decimal_answer
+      label: Decimal Answer
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: date_answer
+      label: Date Answer
+      hint: null
+      type: date
+      options: []
+      required: false

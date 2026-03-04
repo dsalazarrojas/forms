@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: work_environment_survey
+    pages:
+    - id: 1
+      name: team_members
+      label: team_members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: work_environment
+      label: work_environment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: communication
+      label: communication
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: collaboration
+      label: collaboration
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: job_urgency
+      label: job_urgency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: team_leadership
+      label: team_leadership
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: workload_balance
+      label: workload_balance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: job_satisfaction
+      label: job_satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 10
+      name: work_life_balance
+      label: work_life_balance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

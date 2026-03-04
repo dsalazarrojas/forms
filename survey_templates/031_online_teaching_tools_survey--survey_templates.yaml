@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Teaching Tools Survey
+    pages:
+    - id: 1
+      name: form_page_one
+      label: online_teaching_tools_survey_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_title
+      label: online_teaching_tools_survey_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: page_question
+      label: what_online_teaching_tools_do_you_usually_use
+      hint: null
+      type: select_multiple
+      options:
+      - Google Classroom
+      - Zoom
+      - Microsoft Teams
+      - Discord
+      - Other
+      required: false
+    - id: 4
+      name: page_question
+      label: how_do_you_rate_the_ease_of_use_of_the_online_teaching_tools
+      hint: null
+      type: select_one
+      options:
+      - Easy
+      - Medium
+      - Hard
+      required: false
+    - id: 5
+      name: page_question
+      label: what_were_the_main_challenges_you_faced_when_using_the_online_teaching_tools
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: page_question
+      label: would_you_recommend_the_online_teaching_tools_to_other_teachers
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: form_comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: form_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: form_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

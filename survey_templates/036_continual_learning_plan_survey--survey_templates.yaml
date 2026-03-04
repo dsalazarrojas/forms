@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Continual Learning Plan Survey
+    pages:
+    - id: 1
+      name: employee_profile_header
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_full_name
+      label: Employee Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: current_job_title
+      label: Current Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department_team
+      label: Department/Team
+      hint: null
+      type: select_one
+      options:
+      - Sales and Marketing
+      - Engineering and Product
+      - Human Resources/Operations
+      - Finance/Legal
+      - Customer Success/Support
+      - Executive Leadership
+      required: true
+    - id: 5
+      name: skills_assessment_header
+      label: -- Skills and Development --
+      hint: Identify your learning priorities
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: current_skill_gaps
+      label: Identified Skill Gaps
+      hint: What skills do you need to develop for your current or future role
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: preferred_learning_formats
+      label: Preferred Learning Methods
+      hint: Select your top 2
+      type: select_multiple
+      options:
+      - Self-paced Online Courses
+      - Instructor-led Workshops (Live)
+      - Peer-to-Peer Mentoring
+      - Industry Conferences
+      - Reading/Whitepapers
+      - Hands-on Projects
+      required: true
+    - id: 8
+      name: career_goals_short_term
+      label: Short-term Career Goals (Next 12 Months)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: logistical_needs_header
+      label: -- Logistics and Support --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: weekly_training_hours
+      label: Hours per week available for training
+      hint: Realistic estimate during work hours
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: required_resources_software
+      label: Specific Resources or Software Needed
+      hint: e.g., LinkedIn Learning access, specific certification fee
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: manager_discussion_status
+      label: Have you discussed these goals with your manager
+      hint: null
+      type: select_one
+      options:
+      - Yes - We have an agreed plan
+      - Yes - But still refining details
+      - No - Planning to discuss soon
+      required: true
+    - id: 13
+      name: survey_completion_date
+      label: Date of Completion
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: additional_training_suggestions
+      label: Any other training suggestions for the team
+      hint: null
+      type: text
+      options: []
+      required: false

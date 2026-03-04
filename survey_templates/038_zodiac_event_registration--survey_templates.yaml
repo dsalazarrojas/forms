@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Zodiac Event Registration
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: zodiac_sign
+      label: Zodiac Sign
+      hint: null
+      type: select_one
+      options:
+      - Aries
+      - Taurus
+      - Gemini
+      - Cancer
+      - Leo
+      - Virgo
+      - Libra
+      - Scorpio
+      - Sagittarius
+      - Capricorn
+      - Aquarius
+      - Pisces
+      required: false
+    - id: 4
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Public
+      - Private
+      - Internal
+      - External
+      required: false
+    - id: 5
+      name: participant_type
+      label: Participant Type
+      hint: null
+      type: select_one
+      options:
+      - Participant
+      - Organizer
+      - Speaker
+      required: false
+    - id: 6
+      name: zodiac_event_participant_count
+      label: Zodiac Event Participant Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: zodiac_event_participant_percentage
+      label: Zodiac Event Participant Percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: participant_status
+      label: Participant Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Declined
+      required: false
+    - id: 9
+      name: participant_status_reason
+      label: Participant Status Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_status
+      label: Event Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Completed
+      required: false
+    - id: 11
+      name: event_status_reason
+      label: Event Status Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_start_time
+      label: Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: event_start_date
+      label: Event Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: event_end_time
+      label: Event End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: event_end_date
+      label: Event End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: event_notes
+      label: Event Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: participant_status_change_date
+      label: Participant Status Change Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: event_status_change_date
+      label: Event Status Change Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: participant_type_change_date
+      label: Participant Type Change Date
+      hint: null
+      type: date
+      options: []
+      required: false

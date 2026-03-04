@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sustainable Gift Ideas Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: intro
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: gift_preferences
+      label: gift_preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''eco_friendly'', ''label'': ''Eco-friendly''}'
+      - '{''id'': 2, ''name'': ''sustainable'', ''label'': ''Sustainable''}'
+      - '{''id'': 3, ''name'': ''not_important'', ''label'': ''Not important''}'
+      required: true
+    - id: 3
+      name: gift_motivation
+      label: motivations
+      hint: What motivates you to give gifts?
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: gift_idea
+      label: gift_idea
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''experience'', ''label'': ''Experience''}'
+      - '{''id'': 2, ''name'': ''physical'', ''label'': ''Physical''}'
+      - '{''id'': 3, ''name'': ''digital'', ''label'': ''Digital''}'
+      - '{''id'': 4, ''name'': ''other'', ''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: intro_page_repeat
+      label: intro_page_repeat
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: gift_preferences_repeat
+      label: gift_preferences_repeat
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''eco_friendly_repeat'', ''label'': ''Eco-friendly'',
+        ''hint'': None, ''required'': True}'
+      - '{''id'': 2, ''name'': ''sustainable_repeat'', ''label'': ''Sustainable'',
+        ''hint'': None}'
+      - '{''id'': 3, ''name'': ''not_important_repeat'', ''label'': ''Not important'',
+        ''hint'': None}'
+      required: true
+    - id: 12
+      name: gift_motivation_repeat
+      label: motivations_repeat
+      hint: What motivates you to give gifts?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: gift_idea_repeat
+      label: gift_idea_repeat
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''experience_repeat'', ''label'': ''Experience'', ''hint'':
+        None}'
+      - '{''id'': 2, ''name'': ''physical_repeat'', ''label'': ''Physical'', ''hint'':
+        None}'
+      - '{''id'': 3, ''name'': ''digital_repeat'', ''label'': ''Digital'', ''hint'':
+        None}'
+      - '{''id'': 4, ''name'': ''other_repeat'', ''label'': ''Other'', ''hint'': None}'
+      required: false
+    - id: 14
+      name: email_repeat
+      label: email_repeat
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: phone_number_repeat
+      label: phone_number_repeat
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: date_repeat
+      label: date_repeat
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: time_repeat
+      label: time_repeat
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: note_repeat
+      label: note_repeat
+      hint: null
+      type: text
+      options: []
+      required: false

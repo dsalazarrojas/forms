@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marriage Survey
+    pages:
+    - id: 1
+      name: how_old_are_you
+      label: How Old Are You
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: partner_age
+      label: Partner Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: marriage_date
+      label: Marriage Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: how_long_married
+      label: How Long Married
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: children
+      label: Children
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: reason_for_marriage
+      label: Reason For Marriage
+      hint: null
+      type: select_one
+      options:
+      - To get married
+      - To have children
+      - To have social status
+      - Other
+      required: false
+    - id: 7
+      name: happy_marriage
+      label: Happy Marriage
+      hint: null
+      type: note
+      options: []
+      required: false

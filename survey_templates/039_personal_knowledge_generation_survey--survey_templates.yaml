@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Knowledge Generation Survey
+    pages:
+    - id: 1
+      name: survey_start
+      label: What is your age?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: survey_question_answers
+      label: How do you usually start your day?
+      hint: null
+      type: select_one
+      options:
+      - Early riser
+      - Late riser
+      - As soon as possible
+      required: false
+    - id: 3
+      name: survey_question_answers
+      label: How often do you work on your personal projects?
+      hint: null
+      type: select_multiple
+      options:
+      - Rarely
+      - Occasionally
+      - Often
+      - Daily
+      required: false
+    - id: 4
+      name: survey_question_answers
+      label: How would you describe your motivation for creating content?
+      hint: null
+      type: select_one
+      options:
+      - For enjoyment
+      - For profit
+      - For recognition
+      - For a combination of the above
+      required: false
+    - id: 5
+      name: survey_question_answers
+      label: What time of day do you usually start work on your projects?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: survey_question_answers
+      label: How many hours do you usually work on your projects?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: survey_question_answers
+      label: How would you rate your self-efficacy?
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 8
+      name: survey_question_answers
+      label: What motivates you to learn?
+      hint: null
+      type: select_multiple
+      options:
+      - Curiosity
+      - Personal interests
+      - Career advancement
+      - Financial gain
+      required: false
+    - id: 9
+      name: survey_question_answers
+      label: What tools do you use to organize your knowledge?
+      hint: null
+      type: select_multiple
+      options:
+      - Notebooks
+      - Apps
+      - Software
+      - Physical storage
+      required: false
+    - id: 10
+      name: survey_question_answers
+      label: What do you usually do when you encounter a problem?
+      hint: null
+      type: select_one
+      options:
+      - Ask for help
+      - Research
+      - Experiment
+      - Seek guidance
+      required: false
+    - id: 11
+      name: survey_question_answers
+      label: What do you usually do to improve your knowledge?
+      hint: null
+      type: select_multiple
+      options:
+      - Read books
+      - Attend webinars
+      - Practice
+      - Discuss with others
+      required: false
+    - id: 12
+      name: survey_question_answers
+      label: How do you usually evaluate the relevance of content?
+      hint: null
+      type: select_one
+      options:
+      - Subject matter expert
+      - Peer evaluation
+      - User evaluation
+      - Algorithm
+      required: false
+    - id: 13
+      name: survey_question_answers
+      label: When do you usually evaluate the relevance of content?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: survey_question_answers
+      label: What do you usually do to maintain your knowledge?
+      hint: null
+      type: select_multiple
+      options:
+      - Set reminders
+      - Review regularly
+      - Use knowledge mapping tools
+      - Discuss with others
+      required: false

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: social_media_campaign_impact_questionnaire
+    pages:
+    - id: 1
+      name: social_media_campaign_impact
+      label: campaign_impact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: social_media_channels
+      label: social_media_channels
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: platform_awareness
+      label: platform_awareness
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: brand_awareness
+      label: brand_awareness
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: engagement
+      label: engagement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: conversion
+      label: conversion
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: customer_satisfaction
+      label: customer_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: social_media_message
+      label: message_implied
+      hint: null
+      type: time
+      options: []
+      required: true

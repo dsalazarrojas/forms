@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Open Education Resource Usage Survey
+    pages:
+    - id: 1
+      name: form_header
+      label: Form header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: institution_header
+      label: Institution information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: institution_name
+      label: Institution name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: oer_header
+      label: Open education resource usage
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: oer_awareness
+      label: What is OER?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: oer_usage
+      label: How have you used OER in teaching and learning?
+      hint: null
+      type: select_multiple
+      options:
+      - OER in course materials
+      - OER in course materials with students
+      - OER in course materials with students and instructors
+      - OER in other teaching and learning activities
+      - Other (please specify)
+      required: false
+    - id: 7
+      name: oer_awareness_aware
+      label: Have you ever used OER?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: oer_usage_aware
+      label: What OER have you used?
+      hint: Please specify the OER you have used.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: oer_satisfaction
+      label: How satisfied are you with your OER usage?
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Not satisfied
+      - Very dissatisfied
+      required: false
+    - id: 10
+      name: oer_benefits
+      label: What are the benefits of OER you have experienced?
+      hint: Please specify the benefits of OER you have experienced.
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: oer_challenges
+      label: What are the challenges of OER you have experienced?
+      hint: Please specify the challenges of OER you have experienced.
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: institution_info
+      label: Institution information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: job_title
+      label: Job title/position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: job_phone
+      label: Contact phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: job_dept
+      label: Job department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: job_institution
+      label: Job institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: job_organizational_unit
+      label: Job organizational unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: job_level
+      label: Job level
+      hint: null
+      type: select_one
+      options:
+      - Entry-level
+      - Mid-level
+      - Senior-level
+      required: false
+    - id: 20
+      name: form_footer
+      label: Thank you for participating in this survey!
+      hint: null
+      type: text
+      options: []
+      required: false

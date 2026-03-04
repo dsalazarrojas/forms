@@ -1,0 +1,238 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fleet Services Needs Assessment
+    pages:
+    - id: 1
+      name: vehicle_lease
+      label: Vehicle Leases
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: fleet_size
+      label: Fleet Size
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: false
+    - id: 3
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Car
+      - Truck
+      - Van
+      - SUV
+      - Bus
+      required: false
+    - id: 4
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: select_one
+      options:
+      - 2001-2010
+      - 2011-2020
+      - 2021-2025
+      required: false
+    - id: 7
+      name: vehicle_driver_type
+      label: Vehicle Driver Type
+      hint: null
+      type: select_one
+      options:
+      - Company
+      - Personal
+      - Government
+      required: false
+    - id: 8
+      name: vehicle_usage
+      label: Vehicle Usage
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: maintenance_frequency
+      label: Maintenance Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Quarterly
+      - Semi-Annual
+      - Annually
+      required: false
+    - id: 10
+      name: maintenance_costs
+      label: Maintenance Costs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: fuel_type
+      label: Fuel Type
+      hint: null
+      type: select_one
+      options:
+      - Gasoline
+      - Diesel
+      - Hybrid
+      - Electric
+      required: false
+    - id: 12
+      name: fuel_frequency
+      label: Fuel Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: maintenance_costs_2
+      label: Maintenance Costs 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: fuel_type_2
+      label: Fuel Type 2
+      hint: null
+      type: select_one
+      options:
+      - Gasoline
+      - Diesel
+      - Hybrid
+      - Electric
+      required: false
+    - id: 15
+      name: fuel_frequency_2
+      label: Fuel Frequency 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: vehicle_location
+      label: Vehicle Location
+      hint: null
+      type: select_one
+      options:
+      - Company
+      - Home
+      - Other
+      required: false
+    - id: 17
+      name: driver_experience
+      label: Driver Experience
+      hint: null
+      type: select_one
+      options:
+      - 1-5 years
+      - 5-10 years
+      - 10-20 years
+      - More than 20 years
+      required: false
+    - id: 18
+      name: vehicle_use
+      label: Vehicle Use
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: vehicle_inspection_frequency
+      label: Vehicle Inspection Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Six-Monthly
+      - Annually
+      required: false
+    - id: 20
+      name: vehicle_inspection_item
+      label: Vehicle Inspection Item
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: vehicle_inspection_item_2
+      label: Vehicle Inspection Item 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: vehicle_inspection_item_3
+      label: Vehicle Inspection Item 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: vehicle_inspection_item_4
+      label: Vehicle Inspection Item 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: vehicle_inspection_item_5
+      label: Vehicle Inspection Item 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

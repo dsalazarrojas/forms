@@ -1,0 +1,48 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Health SWOT Analysis Form
+    pages:
+    - id: 1
+      name: page_1
+      label: Public Health SWOT Analysis Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: strengths
+      label: Strengths
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: weaknesses
+      label: Weaknesses
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: opportunities
+      label: Opportunities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: threats
+      label: Threats
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

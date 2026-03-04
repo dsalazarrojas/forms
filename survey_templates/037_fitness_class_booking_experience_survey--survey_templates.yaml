@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Class Booking Experience Survey
+    pages:
+    - id: 1
+      name: survey_introduction
+      label: Survey Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: instructor_rating
+      label: Instructors
+      hint: Rate your instructor(s) in this class
+      type: select_multiple
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 3
+      name: class_rating
+      label: Class
+      hint: Rate your class experience
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 4
+      name: facilities_rating
+      label: Facilities
+      hint: Rate your facilities experience
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 5
+      name: feedback
+      label: Additional Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email_input
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false

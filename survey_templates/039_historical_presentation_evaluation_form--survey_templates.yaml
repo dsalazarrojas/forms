@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Historical Presentation Evaluation Form
+    pages:
+    - id: 1
+      name: user_input
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: presentation_score
+      label: Presentation Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback_score
+      label: Feedback Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: overall_score
+      label: Overall Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: feedback_comments
+      label: Feedback Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: presentation_date
+      label: Presentation Date
+      hint: YYYY-MM-dd
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: presentation_time
+      label: Presentation Time
+      hint: "HH:MM"
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: presentation_location
+      label: Presentation Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: presentation_type
+      label: Presentation Type
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Virtual
+      - Hybrid
+      required: false
+    - id: 11
+      name: presenter_name
+      label: Presenter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_date
+      label: Event Date
+      hint: YYYY-MM-dd
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: event_time
+      label: Event Time
+      hint: "HH:MM"
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: event_organizer
+      label: Event Organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: event_coordinator
+      label: Event Coordinator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: event_speaker
+      label: Event Speaker
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: presentation_topic
+      label: Presentation Topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: presentation_length
+      label: Presentation Length
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: presentation_notes
+      label: Presentation Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: evaluation_scale
+      label: Evaluation Scale
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 23
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: evaluation_scale_2
+      label: Evaluation Scale 2
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 25
+      name: evaluation_comments_2
+      label: Evaluation Comments 2
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Number Rounding Calculator
+    pages:
+    - id: 1
+      name: user_input
+      label: Number to round
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: rounding_method
+      label: Rounding method
+      hint: null
+      type: select_one
+      options:
+      - half_up
+      - half_down
+      - nearest_hundred
+      - nearest_ten
+      - nearest_one
+      - nearest_ten_up
+      - nearest_ten_down
+      - nearest_hundred_up
+      - nearest_hundred_down
+      required: true
+    - id: 3
+      name: rounded_value
+      label: Rounded value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: result_label
+      label: Result label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: result
+      label: Result
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: result_value
+      label: Result
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: error_message
+      label: Error message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: error
+      label: Error
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: rounding_method_description
+      label: Rounding method description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: result_description
+      label: Result description
+      hint: null
+      type: text
+      options: []
+      required: false

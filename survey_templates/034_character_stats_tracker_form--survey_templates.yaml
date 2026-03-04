@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Character Stats Tracker Form
+    pages:
+    - id: 1
+      name: section_basic_stats_info
+      label: -- Basic Stats and Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: player_name_identity
+      label: Player Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: character_name_identity
+      label: Character Name
+      hint: Enter the character's name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: character_class_profession_identity
+      label: Character Class or Profession
+      hint: e.g., Fighter, Rogue, Wizard, Medic
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: current_character_level_log
+      label: Current Character Level
+      hint: Enter the character's level as of this update
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: section_core_attributes_stats
+      label: -- Core Attributes and Stats --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: strength_attribute_score_update
+      label: Strength Attribute Score
+      hint: Physical power and carrying capacity
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: dexterity_attribute_score_update
+      label: Dexterity Attribute Score
+      hint: Agility, reflexes, and balance
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: constitution_attribute_score_update
+      label: Constitution Attribute Score
+      hint: Health, stamina, and vital force
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: intelligence_attribute_score_update
+      label: Intelligence Attribute Score
+      hint: Mental acuity, recall, and analytical skill
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: wisdom_attribute_score_update
+      label: Wisdom Attribute Score
+      hint: Perception, intuition, and willpower
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: charisma_attribute_score_update
+      label: Charisma Attribute Score
+      hint: Confidence, eloquence, and leadership
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: section_combat_health_update
+      label: -- Combat and Health Update --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: maximum_hit_points_hp_update
+      label: Maximum Hit Points (HP)
+      hint: Your character's total health
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: current_hit_points_hp_update
+      label: Current Hit Points (HP)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: armor_class_ac_value_update
+      label: Armor Class (AC) Value
+      hint: Defensive capability
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: section_xp_wealth_update
+      label: -- XP and Wealth Update --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: total_experience_points_xp_update
+      label: Total Experience Points (XP)
+      hint: Cumulative XP earned
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: gold_currency_total_update_stats
+      label: Gold and Currency Total Update
+      hint: Cumulative wealth
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: section_stats_finalization
+      label: -- Stats Finalization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: accuracy_confirmation_stats_tracker_form
+      label: Confirmation of Stats Log
+      hint: I confirm that these stats accurately reflect my character's progress
+      type: select_one
+      options:
+      - I Confirm and Log Stats
+      - Other
+      required: true
+    - id: 22
+      name: date_of_stats_update_submission_log
+      label: Date of Update
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: additional_stats_notes_log
+      label: Additional Stats Notes
+      hint: Any other relevant information or context
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: level_up_pending_status
+      label: Level-Up Pending?
+      hint: Are you ready to level up?
+      type: select_one
+      options:
+      - Yes, ready to level up
+      - No, level remains same
+      required: true

@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_development_voting_form
+    pages:
+    - id: 1
+      name: proposed_property_development
+      label: Proposed Property Development
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 2
+      name: sentiment_on_proposal
+      label: Sentiment on the Proposal
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: priority_concerns
+      label: Priority Concerns
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: updates_requests
+      label: Updates Requests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: proposed_site_location
+      label: Proposed Site Location
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 7
+      name: proposed_site_area
+      label: Proposed Site Area
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: proposed_site_price
+      label: Proposed Site Price
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 9
+      name: proposed_project_details
+      label: Proposed Project Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: proposed_start_date
+      label: Proposed Start Date
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: proposed_finish_date
+      label: Proposed Finish Date
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: proposed_completion_date
+      label: Proposed Completion Date
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: project_team_members
+      label: Project Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 14
+      name: project_stakeholders
+      label: Project Stakeholders
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 15
+      name: project_stakeholder_relationship
+      label: Project Stakeholder Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 16
+      name: communication_channels
+      label: Communication Channels
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 17
+      name: project_progress_updates
+      label: Project Progress Updates
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 18
+      name: project_documents
+      label: Project Documents
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 19
+      name: project_timeline
+      label: Project Timeline
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 21
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 22
+      name: real_estate_development_voting_form_comments
+      label: Real Estate Development Voting Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: real_estate_development_voting_form_agree
+      label: Real Estate Development Voting Form Agree
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 24
+      name: real_estate_development_voting_form_disagree
+      label: Real Estate Development Voting Form Disagree
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 25
+      name: real_estate_development_voting_form_comments
+      label: Real Estate Development Voting Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false

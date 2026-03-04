@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vacation Questioner
+    pages:
+    - id: 1
+      name: vacation_plan
+      label: Already thinking about your vacations?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: got_a_plan
+      label: Got that plan in your head?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: get_going
+      label: Help yourself with this survey!
+      hint: Get the facts and get going.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: vacation_details
+      label: Get going
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: vacation_duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Survey Templates''}'
+      - '{''id'': 2, ''label'': ''Quote Forms''}'
+      required: false
+    - id: 10
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

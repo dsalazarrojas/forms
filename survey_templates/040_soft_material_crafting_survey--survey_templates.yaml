@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Soft Material Crafting Survey
+    pages:
+    - id: 1
+      name: soft_material_crafting_survey_form
+      label: Soft Material Crafting Survey Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: soft_crafting_project_details
+      label: Soft Crafting Project Details
+      hint: Please provide the following information
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: fabric_used
+      label: Fabric Used
+      hint: null
+      type: select_multiple
+      options:
+      - Yarn
+      - Thread
+      - Felt
+      - Fabric
+      - Cotton
+      - Lycra
+      - Other (please specify)
+      required: true
+    - id: 4
+      name: yarn_weight
+      label: Yarn Weight
+      hint: null
+      type: select_one
+      options:
+      - Medium weight
+      - Lightweight
+      - Heavyweight
+      - Unknown
+      required: true
+    - id: 5
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_multiple
+      options:
+      - Handmade item
+      - Custom item
+      - Gift item
+      - Other (please specify)
+      required: true
+    - id: 6
+      name: time_spent
+      label: Time Spent
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: soft_material_crafting_survey_comments
+      label: Soft Material Crafting Survey Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: other_details
+      label: Other Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_photo_url
+      label: Project Photo URL
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Water Usage Questionnaire
+    pages:
+    - id: 1
+      name: house_type
+      label: What type of building do you live or work in?
+      hint: null
+      type: select_multiple
+      options:
+      - Single family residence
+      - Apartment complex
+      - Commercial building
+      - Other (please specify)
+      required: false
+    - id: 2
+      name: household_size
+      label: How many people live in your household?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: household_income
+      label: What is your household income (in USD)?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: usage_location
+      label: Where is your water tap/well/meter located?
+      hint: null
+      type: select_one
+      options:
+      - Front yard
+      - Backyard
+      - Kitchen
+      - Bathroom
+      - Other (please specify)
+      required: false
+    - id: 5
+      name: water_source
+      label: Where is your water source?
+      hint: null
+      type: select_multiple
+      options:
+      - Public tap
+      - Private well or borehole
+      - Wellpoint or rainwater collection system
+      - Other (please specify)
+      required: false
+    - id: 6
+      name: water_usage_frequency
+      label: How often do you use water?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Several times a week
+      - A few times a month
+      - Rarely
+      - Never
+      required: false
+    - id: 7
+      name: conservation_practices
+      label: What water conservation practices have you implemented in your household?
+      hint: null
+      type: select_multiple
+      options:
+      - Low-flow showerhead
+      - Low-flow faucet
+      - Dual-flush toilet
+      - Greywater use
+      - Other (please specify)
+      required: false
+    - id: 8
+      name: water_usage_insights
+      label: What insights do you have about water usage in your household?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Do you have any additional comments or questions?
+      hint: null
+      type: note
+      options: []
+      required: false

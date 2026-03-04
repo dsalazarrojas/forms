@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: learning_motivation_questionnaire
+    pages:
+    - id: 1
+      name: learner_motivation
+      label: what_motivates_you
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preference
+      label: what_do_you_prefer
+      hint: null
+      type: select_multiple
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: false
+    - id: 3
+      name: motivation_level
+      label: what_motivation_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: submission
+      label: submission
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: class_program
+      label: class_or_program
+      hint: null
+      type: select_one
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false

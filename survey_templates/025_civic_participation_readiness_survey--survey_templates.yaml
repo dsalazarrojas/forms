@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Civic Participation Readiness Survey
+    pages:
+    - id: 1
+      name: readiness_intro
+      label: -- Civic Readiness Assessment --
+      hint: Assess your preparedness for active community participation
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65 plus
+      required: true
+    - id: 3
+      name: voting_frequency_local
+      label: How often do you vote in local (municipal) elections?
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Often
+      - Occasionally
+      - Rarely
+      - Never
+      required: true
+    - id: 4
+      name: local_govt_knowledge
+      label: Rate your knowledge of how your local government functions
+      hint: 1 = No knowledge, 5 = Expert knowledge
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: advocacy_comfort_level
+      label: How comfortable are you speaking at a public meeting?
+      hint: 1 = Very Uncomfortable, 5 = Very Comfortable
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: civic_skills_header
+      label: -- Skills and Barriers --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: current_civic_strengths
+      label: Which of these civic skills do you currently possess?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Organizing community events
+      - Writing letters to representatives
+      - Social media advocacy
+      - Public speaking
+      - Researching local policies
+      - Mediating community conflicts
+      required: false
+    - id: 8
+      name: desired_skills_learning
+      label: Which skills would you like to develop?
+      hint: null
+      type: select_multiple
+      options:
+      - Navigating city council procedures
+      - Campaign management
+      - Effective lobbying techniques
+      - Data analysis for advocacy
+      - Community outreach strategies
+      required: false
+    - id: 9
+      name: participation_barriers
+      label: What are your biggest barriers to active participation?
+      hint: null
+      type: select_multiple
+      options:
+      - Time constraints (work/family)
+      - Lack of information on how to participate
+      - Don't feel my contribution will matter
+      - Financial costs
+      - Language or accessibility barriers
+      - Physical distance/transportation
+      required: true
+    - id: 10
+      name: community_influence_belief
+      label: I believe I can influence decisions in my local community
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 11
+      name: previous_year_participation
+      label: In the past 12 months, have you contacted a local official?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: readiness_score_self
+      label: On a scale of 1-10, how "ready" do you feel to take a leadership role?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: further_resources_interest
+      label: Would you like a toolkit on how to get started in civic leadership?
+      hint: null
+      type: select_one
+      options:
+      - Yes, please
+      - No thanks
+      required: false
+    - id: 14
+      name: email_for_toolkit
+      label: Your Email (for toolkit delivery)
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: assessment_date
+      label: Date of Assessment
+      hint: null
+      type: date
+      options: []
+      required: true

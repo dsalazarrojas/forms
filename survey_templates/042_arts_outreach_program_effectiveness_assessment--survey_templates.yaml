@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Arts Outreach Program Effectiveness Assessment
+    pages:
+    - id: 1
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: program_date
+      label: Program Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: program_location
+      label: Program Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: first_time_attending
+      label: First Time Attending This Program
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: program_effectiveness
+      label: Overall Program Effectiveness - Scale 1-10
+      hint: 1 = Not Effective, 10 = Highly Effective
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: instructors_quality
+      label: Quality of Instructors or Facilitators
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 9
+      name: content_relevance
+      label: Content Relevance and Usefulness
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 10
+      name: environment_quality
+      label: Learning Environment Quality
+      hint: Space, materials, accessibility
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 11
+      name: engagement_level
+      label: Participant Engagement Level
+      hint: null
+      type: select_one
+      options:
+      - Very Engaged
+      - Engaged
+      - Somewhat Engaged
+      - Not Engaged
+      required: false
+    - id: 12
+      name: skills_acquired
+      label: Skills or Knowledge Acquired
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: personal_growth
+      label: Impact on Personal or Creative Growth
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: arts_appreciation
+      label: Increase in Arts Appreciation
+      hint: null
+      type: select_one
+      options:
+      - Significant Increase
+      - Some Increase
+      - No Change
+      - Decreased
+      required: false
+    - id: 15
+      name: community_connection
+      label: Sense of Community or Belonging
+      hint: null
+      type: select_one
+      options:
+      - Strong
+      - Moderate
+      - Weak
+      - None
+      required: false
+    - id: 16
+      name: program_improvements
+      label: Suggested Improvements
+      hint: What could be better
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: recommend_program
+      label: Likelihood to Recommend to Others
+      hint: null
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Unsure
+      - Unlikely
+      required: true
+    - id: 18
+      name: future_participation
+      label: Interest in Future Program Participation
+      hint: null
+      type: select_one
+      options:
+      - Yes - Definitely
+      - Yes - Probably
+      - Maybe
+      - 'No'
+      required: false
+    - id: 19
+      name: demographic_info
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - Under 13
+      - 13-18
+      - 19-30
+      - 31-50
+      - 51+
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments or Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

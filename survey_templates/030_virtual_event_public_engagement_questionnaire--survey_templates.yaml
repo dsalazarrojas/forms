@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Event Public Engagement Questionnaire
+    pages:
+    - id: 1
+      name: session_type
+      label: Session Type
+      hint: null
+      type: select_one
+      options:
+      - Online Session
+      - In-Person Session
+      required: true
+    - id: 2
+      name: session_length
+      label: Session Length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: session_topic
+      label: Session Topic
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: session_duration
+      label: Session Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: session_attendees
+      label: Session Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - 1-5
+      - 6-10
+      - 11-20
+      - 21-50
+      - 51 or more
+      required: true
+    - id: 8
+      name: feedback_type
+      label: Feedback Type
+      hint: null
+      type: select_one
+      options:
+      - Technical Issues
+      - Content Quality
+      - Engagement
+      - Other
+      required: true
+    - id: 9
+      name: feedback_comments
+      label: Feedback Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: session_evaluations
+      label: Session Evaluations
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: session_likes
+      label: Session Likes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: session_dislikes
+      label: Session Dislikes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: session_likes_comments
+      label: Session Likes Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: session_dislikes_comments
+      label: Session Dislikes Comments
+      hint: null
+      type: text
+      options: []
+      required: false

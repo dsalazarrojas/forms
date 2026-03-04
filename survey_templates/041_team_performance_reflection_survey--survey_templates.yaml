@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: team_performance_reflection_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1001, ''name'': ''Member 1'', ''label'': ''Member 1''}'
+      - '{''id'': 1002, ''name'': ''Member 2'', ''label'': ''Member 2''}'
+      - '{''id'': 1003, ''name'': ''Member 3'', ''label'': ''Member 3''}'
+      required: false
+    - id: 3
+      name: question_1_answer
+      label: Question 1 Answer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: question_2_answer
+      label: Question 2 Answer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: question_3_answer
+      label: Question 3 Answer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Completed'', ''label'': ''Completed''}'
+      - '{''id'': 2, ''name'': ''Not Completed'', ''label'': ''Not Completed''}'
+      required: false
+    - id: 8
+      name: submission_status_comments
+      label: Submission Status Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: submission_email
+      label: Submission Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: submission_phone
+      label: Submission Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submission_notes
+      label: Submission Notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,287 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hair Salon Social Media Influence Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: Hair Salon Social Media Influence Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: salon_name
+      label: salon_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: social_media_platforms
+      label: social_media_platforms
+      hint: null
+      type: select_multiple
+      options:
+      - Instagram
+      - Facebook
+      - Twitter
+      - Pinterest
+      - Snapchat
+      - TikTok
+      required: false
+    - id: 4
+      name: social_media_goals
+      label: social_media_goals
+      hint: null
+      type: select_one
+      options:
+      - To increase awareness
+      - To engage
+      - To promote products
+      - To drive sales
+      - To build a community
+      - To generate leads
+      required: false
+    - id: 5
+      name: current_platforms
+      label: current_platforms
+      hint: null
+      type: select_multiple
+      options:
+      - Instagram
+      - Facebook
+      - Twitter
+      - Pinterest
+      - Snapchat
+      - TikTok
+      required: false
+    - id: 6
+      name: platforms_used
+      label: platforms_used
+      hint: null
+      type: select_multiple
+      options:
+      - Instagram
+      - Facebook
+      - Twitter
+      - Pinterest
+      - Snapchat
+      - TikTok
+      required: false
+    - id: 7
+      name: discovery_channel
+      label: discovery_channel
+      hint: null
+      type: select_one
+      options:
+      - Social media
+      - Friends and family
+      - Online search
+      - Print media
+      - Word of mouth
+      required: false
+    - id: 8
+      name: how_discovered
+      label: how_discovered
+      hint: null
+      type: select_multiple
+      options:
+      - Browsing
+      - Search engine
+      - Online ad
+      - Social media
+      - Email
+      - Word of mouth
+      required: false
+    - id: 9
+      name: social_media_influence
+      label: social_media_influence
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: survey_comments
+      label: survey_comments
+      hint: Comments about your experience with social media marketing.
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: website
+      label: website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: thank_you
+      label: thank_you
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: survey_completed
+      label: survey_completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: follow_up_method
+      label: follow_up_method
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Social media
+      - In-person visit
+      - Other
+      required: false
+    - id: 18
+      name: follow_up_frequency
+      label: follow_up_frequency
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Less than monthly
+      - Monthly
+      - Bi-monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 19
+      name: follow_up_message
+      label: follow_up_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_frequency_other
+      label: follow_up_frequency_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: survey_completed_date
+      label: survey_completed_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: thank_you_message
+      label: thank_you_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: survey_influenced
+      label: survey_influenced
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: survey_influenced_reason
+      label: survey_influenced_reason
+      hint: null
+      type: select_multiple
+      options:
+      - Cost
+      - Quality
+      - Selection of products or services
+      - Personal experience
+      - Other
+      required: false
+    - id: 26
+      name: survey_satisfied
+      label: survey_satisfied
+      hint: null
+      type: select_one
+      options:
+      - Very
+      - Somewhat
+      - Not at all
+      required: false
+    - id: 27
+      name: survey_satisfied_reason
+      label: survey_satisfied_reason
+      hint: null
+      type: select_multiple
+      options:
+      - Quality of service
+      - Variety of services
+      - Price
+      - Product quality
+      - Other
+      required: false
+    - id: 28
+      name: survey_recommend
+      label: survey_recommend
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 29
+      name: survey_recommend_reason
+      label: survey_recommend_reason
+      hint: null
+      type: select_multiple
+      options:
+      - Quality of service
+      - Variety of services
+      - Price
+      - Product quality
+      - Other
+      required: false
+    - id: 30
+      name: survey_completed_survey
+      label: survey_completed_survey
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Not completed
+      required: false

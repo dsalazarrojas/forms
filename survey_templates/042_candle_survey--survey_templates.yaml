@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Candle Survey
+    pages:
+    - id: 1
+      name: demographics_section
+      label: -- Customer Demographics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - Under 18
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55+
+      required: true
+    - id: 3
+      name: customer_gender_pref
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 4
+      name: purchase_frequency_candle
+      label: Frequency of purchasing candles
+      hint: How often do you buy new candles
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - Occasionally
+      - Rarely
+      - Never
+      required: true
+    - id: 5
+      name: product_feedback_section
+      label: -- Product Feedback --
+      hint: What do you think of our candles
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: favorite_scent_categories
+      label: Favorite Candle Scents
+      hint: Select all that you enjoy
+      type: select_multiple
+      options:
+      - Floral
+      - Fruity
+      - Woody or Spicy
+      - Fresh or Clean
+      - Sweet or Gourmand
+      - Unscented
+      required: true
+    - id: 7
+      name: scent_throw_rating
+      label: Rate the scent throw
+      hint: Strength of aroma while burning
+      type: select_one
+      options:
+      - Very Weak
+      - Weak
+      - Neutral
+      - Strong
+      - Very Strong
+      required: true
+    - id: 8
+      name: burn_time_rating
+      label: Rate the burn time of our candles
+      hint: How long do our candles last
+      type: select_one
+      options:
+      - Very Poor
+      - Poor
+      - Average
+      - Good
+      - Excellent
+      required: true
+    - id: 9
+      name: eco_friendly_importance
+      label: Importance of eco-friendly materials
+      hint: e.g. Soy wax, sustainable wicks
+      type: select_one
+      options:
+      - Not Important
+      - Somewhat Important
+      - Important
+      - Very Important
+      required: true
+    - id: 10
+      name: preferred_wax_type
+      label: Preferred candle type
+      hint: Your favorite base material
+      type: select_one
+      options:
+      - Soy Wax
+      - Beeswax
+      - Paraffin
+      - Coconut Wax
+      - Other
+      required: true
+    - id: 11
+      name: shopping_exp_section
+      label: -- Shopping Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: overall_shop_satisfaction
+      label: Overall satisfaction with the shop
+      hint: 1 to 10 scale
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: price_satisfaction_rating
+      label: Satisfaction with price point
+      hint: How do you feel about our costs
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 14
+      name: nps_recommendation_score
+      label: How likely are you to recommend us to a friend
+      hint: 1 to 10 scale
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: suggestions_section
+      label: -- Suggestions --
+      hint: help us improve
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: new_scent_wishlist
+      label: One new scent you would like to see
+      hint: Share your ideas for future products
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: packaging_improvement_feedback
+      label: Any improvements for our packaging
+      hint: Tell us about the box, jar, or label
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_comments_candle
+      label: Additional Comments
+      hint: Anything else you would like to share
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: testimonial_consent_candle
+      label: I consent to having my feedback used for testimonials
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: survey_completion_date
+      label: Date of Survey
+      hint: null
+      type: date
+      options: []
+      required: true

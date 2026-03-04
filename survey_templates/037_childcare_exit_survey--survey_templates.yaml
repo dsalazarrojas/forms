@@ -1,0 +1,257 @@
+inputSchema:
+  type: object
+  properties:
+    title: Childcare Exit Survey
+    pages:
+    - id: 1
+      name: survey_date
+      label: Survey Date
+      hint: Date of exit survey completion
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: parent_guardian_first_name
+      label: Parent or Guardian First Name
+      hint: Legal first name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parent_guardian_last_name
+      label: Parent or Guardian Last Name
+      hint: Legal last name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Primary email address for contact
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: child_first_name
+      label: Child First Name
+      hint: Legal first name of the child
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: child_last_name
+      label: Child Last Name
+      hint: Legal last name of the child
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: child_age
+      label: Child Age
+      hint: Current age of the child in years
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: enrollment_start_date
+      label: Enrollment Start Date
+      hint: When did your child start at this program?
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: enrollment_end_date
+      label: Enrollment End Date
+      hint: When is your child's last day?
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: reason_for_leaving
+      label: Reason for Leaving
+      hint: What is the primary reason for leaving?
+      type: select_one
+      options:
+      - Relocating to new area
+      - Child aging out of program
+      - Cost or financial reasons
+      - Schedule no longer works
+      - Found different program
+      - Returning to home care
+      - Dissatisfaction with program
+      - Family circumstances change
+      - Other
+      required: true
+    - id: 11
+      name: reason_for_leaving_details
+      label: Reason for Leaving Details
+      hint: Please provide more details about your reason for leaving
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: How satisfied were you with the program overall?
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 13
+      name: quality_of_care
+      label: Quality of Care
+      hint: How would you rate the quality of care provided?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 14
+      name: staff_professionalism
+      label: Staff Professionalism
+      hint: How would you rate staff professionalism?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 15
+      name: staff_caring
+      label: Staff Caring and Nurturing
+      hint: How would you rate how caring the staff was?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 16
+      name: communication_quality
+      label: Communication Quality
+      hint: How would you rate communication with staff?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 17
+      name: facility_cleanliness
+      label: Facility Cleanliness
+      hint: How would you rate the cleanliness of the facility?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 18
+      name: safety_measures
+      label: Safety Measures
+      hint: How would you rate the safety measures in place?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 19
+      name: curriculum_quality
+      label: Curriculum Quality
+      hint: How would you rate the curriculum and activities?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      - Not applicable
+      required: true
+    - id: 20
+      name: value_for_cost
+      label: Value for Cost
+      hint: How would you rate the value for the cost?
+      type: select_one
+      options:
+      - Excellent value
+      - Good value
+      - Fair value
+      - Poor value
+      - Very poor value
+      required: true
+    - id: 21
+      name: child_development_progress
+      label: Child Development Progress
+      hint: Did you observe positive development in your child?
+      type: select_one
+      options:
+      - Significant progress
+      - Moderate progress
+      - Some progress
+      - Minimal progress
+      - No progress observed
+      required: true
+    - id: 22
+      name: child_happiness
+      label: Child Happiness
+      hint: How happy was your child at this program?
+      type: select_one
+      options:
+      - Very happy
+      - Happy
+      - Neutral
+      - Unhappy
+      - Very unhappy
+      required: true
+    - id: 23
+      name: would_recommend
+      label: Would Recommend
+      hint: Would you recommend this program to others?
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Neutral
+      - Probably no
+      - Definitely no
+      required: true
+    - id: 24
+      name: best_aspect
+      label: Best Aspect of Program
+      hint: What was the best aspect of this program?
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: What could be improved about this program?
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: additional_comments
+      label: Additional Comments
+      hint: Any additional comments or feedback
+      type: text
+      options: []
+      required: false

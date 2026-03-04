@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hieroglyph Selection Survey
+    pages:
+    - id: 1
+      name: hieroglyph_symbol
+      label: Which hieroglyph symbol do you like best?
+      hint: null
+      type: select_one
+      options:
+      - Amarna
+      - Ankh
+      - Djes
+      - Djol
+      - Geb
+      - Hapy
+      - Imhotep
+      - Khnum
+      - Khepri
+      - Ptah
+      - Shu
+      - Sokar
+      - Tauret
+      - Tatenen
+      - Uatchet
+      - Wadjet
+      - Was
+      required: false
+    - id: 2
+      name: age
+      label: What is your age group?
+      hint: null
+      type: select_multiple
+      options:
+      - 18-25
+      - 26-35
+      - 36-45
+      - 46-55
+      - 56-65
+      - 66 or older
+      required: false
+    - id: 3
+      name: gender
+      label: What is your gender?
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 4
+      name: education_level
+      label: What is your highest level of education completed?
+      hint: null
+      type: select_one
+      options:
+      - High school or below
+      - Some college
+      - Bachelor's degree
+      - Master's degree
+      - Ph.D.
+      required: false
+    - id: 5
+      name: profession
+      label: What is your profession?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: What is your email address?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_visit
+      label: Date of visit?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_of_visit
+      label: Time of visit?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Any comments or notes?
+      hint: null
+      type: note
+      options: []
+      required: false

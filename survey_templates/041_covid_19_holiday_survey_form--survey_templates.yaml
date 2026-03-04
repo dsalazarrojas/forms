@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Holiday Survey Form
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: respondent_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: survey_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: section_header_1
+      label: -- Holiday Plans --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: celebrating_holiday
+      label: Planning to Celebrate Holiday
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: holiday_type
+      label: Which Holiday
+      hint: null
+      type: select_one
+      options:
+      - Christmas
+      - Thanksgiving
+      - New Year
+      - Hanukkah
+      - Kwanzaa
+      - Other
+      required: false
+    - id: 7
+      name: celebration_location
+      label: Where Will You Celebrate
+      hint: null
+      type: select_one
+      options:
+      - At home
+      - At family home
+      - With friends
+      - Traveling
+      - Not celebrating
+      - Other
+      required: true
+    - id: 8
+      name: num_gathering_people
+      label: Number of People in Gathering
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: section_header_2
+      label: -- Travel Plans --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: travel_planned
+      label: Planning to Travel
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: travel_destination
+      label: Travel Destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: travel_duration
+      label: Duration of Trip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: travel_method
+      label: Mode of Transportation
+      hint: null
+      type: select_one
+      options:
+      - Airplane
+      - Car
+      - Train
+      - Bus
+      - Other
+      - Not traveling
+      required: true
+    - id: 14
+      name: section_header_3
+      label: -- COVID-19 Precautions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: taking_precautions
+      label: Taking COVID-19 Precautions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Some measures
+      required: true
+    - id: 16
+      name: precaution_types
+      label: Types of Precautions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Wearing masks
+      - Social distancing
+      - Testing before gathering
+      - Vaccination verification
+      - Hand hygiene
+      - Ventilation
+      - Other
+      required: false
+    - id: 17
+      name: section_header_4
+      label: -- Vaccination Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Fully vaccinated with booster
+      - Fully vaccinated without booster
+      - Partially vaccinated
+      - Not vaccinated
+      - Prefer not to disclose
+      required: true
+    - id: 19
+      name: household_vaccination
+      label: Household Members Vaccinated
+      hint: null
+      type: select_one
+      options:
+      - All vaccinated
+      - Most vaccinated
+      - Some vaccinated
+      - None vaccinated
+      - Mix of vaccinated and unvaccinated
+      required: false
+    - id: 20
+      name: section_header_5
+      label: -- COVID-19 Concerns --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: covid_concerns
+      label: COVID-19 Concerns About Holiday
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: confidence_level
+      label: Confidence in Safety Measures
+      hint: null
+      type: select_one
+      options:
+      - Very confident
+      - Confident
+      - Neutral
+      - Not confident
+      - Very not confident
+      required: true
+    - id: 23
+      name: behavior_change
+      label: COVID-19 Changed Holiday Plans
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: contact_for_followup
+      label: May We Contact You for Follow-up
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

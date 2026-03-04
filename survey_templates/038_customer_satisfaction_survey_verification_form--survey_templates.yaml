@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Satisfaction Survey Verification Form
+    pages:
+    - id: 1
+      name: survey_form
+      label: customer_survey_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_feedback_questions
+      label: customer_feedback_questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: customer_service_quality
+      label: customer_service_quality
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_good''}'
+      - '{''value'': ''good''}'
+      - '{''value'': ''average''}'
+      - '{''value'': ''poor''}'
+      required: false
+    - id: 4
+      name: feedback_frequency
+      label: feedback_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: customer_service_improvement_plan
+      label: customer_service_improvement_plan
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: customer_survey_response
+      label: customer_survey_response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_survey_response_2
+      label: customer_survey_response_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_survey_response_3
+      label: customer_survey_response_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_service_quality_2
+      label: customer_service_quality_2
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_good''}'
+      - '{''value'': ''good''}'
+      - '{''value'': ''average''}'
+      - '{''value'': ''poor''}'
+      required: false
+    - id: 10
+      name: customer_service_quality_3
+      label: customer_service_quality_3
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_good''}'
+      - '{''value'': ''good''}'
+      - '{''value'': ''average''}'
+      - '{''value'': ''poor''}'
+      required: false

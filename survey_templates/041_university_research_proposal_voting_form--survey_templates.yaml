@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Research Proposal Voting Form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: research_proposal_id
+      label: Research Proposal ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: principal_investigator
+      label: Principal Investigator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: research_team
+      label: Research Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: research_title
+      label: Research Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: research_objectives
+      label: Research Objectives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: research_methodology
+      label: Research Methodology
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: research_budget
+      label: Research Budget
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: research_impact
+      label: Research Impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: review_criteria
+      label: Review Criteria
+      hint: null
+      type: select_one
+      options:
+      - Research Objectives
+      - Research Methodology
+      - Research Impact
+      required: false
+    - id: 11
+      name: evaluation_scale
+      label: Evaluation Scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: evaluation_result
+      label: Evaluation Result
+      hint: null
+      type: select_multiple
+      options:
+      - Pass
+      - Fail
+      required: false
+    - id: 13
+      name: vote_option
+      label: Vote Option
+      hint: null
+      type: select_one
+      options:
+      - Approve
+      - Reject
+      required: false
+    - id: 14
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

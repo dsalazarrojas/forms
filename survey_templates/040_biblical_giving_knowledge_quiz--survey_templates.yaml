@@ -1,0 +1,260 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Biblical Giving Knowledge Quiz
+    pages:
+      - id: 1
+        name: section_header_participant
+        label: -- Participant Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: participant_name
+        label: Your Name
+        hint: First and last name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email
+        label: Email Address
+        hint: For quiz results delivery
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: church_name
+        label: Church or Community Name
+        hint: Your faith community
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: quiz_date
+        label: Quiz Date
+        hint: When are you taking this?
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: section_header_quiz
+        label: -- Biblical Giving Knowledge Quiz --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: question_1
+        label: Question 1 - What is the Hebrew word for giving or offering
+        hint: null
+        type: select_one
+        options:
+          - Tzedakah
+          - Shalom
+          - Hesed
+          - Chaburah
+          - I don't know
+        required: true
+      - id: 8
+        name: question_2
+        label: Question 2 - In the Old Testament, what was a tithe
+        hint: null
+        type: select_one
+        options:
+          - One tenth of income or produce
+          - One fifth of income or produce
+          - Voluntary offering
+          - Temple tax only
+          - I don't know
+        required: true
+      - id: 9
+        name: question_3
+        label: Question 3 - Which biblical figure gave a tenth to the priest Melchizedek
+        hint: null
+        type: select_one
+        options:
+          - Abraham
+          - Jacob
+          - Moses
+          - David
+          - I don't know
+        required: true
+      - id: 10
+        name: question_4
+        label: Question 4 - What does Malachi 3 10 primarily address
+        hint: null
+        type: select_one
+        options:
+          - Tithing and blessings
+          - Prayer and worship
+          - Fasting and repentance
+          - Forgiveness and mercy
+          - I don't know
+        required: true
+      - id: 11
+        name: question_5
+        label: Question 5 - In the New Testament, what did Jesus teach about giving
+        hint: null
+        type: select_one
+        options:
+          - Give from excess, not from need
+          - Tithe strictly from income
+          - Give with a generous heart
+          - Only give to the temple
+          - I don't know
+        required: true
+      - id: 12
+        name: question_6
+        label: Question 6 - What does the parable of the widow's mite teach
+        hint: null
+        type: select_one
+        options:
+          - The amount given matters most
+          - Giving sacrificially is pleasing to God
+          - Poor people cannot give much
+          - Wealth determines spiritual value
+          - I don't know
+        required: true
+      - id: 13
+        name: question_7
+        label: Question 7 - What does 2 Corinthians 9 7 say about giving
+        hint: null
+        type: select_one
+        options:
+          - Give only what is required
+          - God loves a cheerful giver
+          - Giving should be kept secret
+          - All giving must be announced
+          - I don't know
+        required: true
+      - id: 14
+        name: question_8
+        label: Question 8 - What was the early church's approach to sharing resources
+        hint: null
+        type: select_one
+        options:
+          - Complete communal sharing
+          - Each person kept private property
+          - Voluntary sharing of surplus
+          - Only tithing was required
+          - I don't know
+        required: true
+      - id: 15
+        name: question_9
+        label: Question 9 - What does the concept of 'stewardship' imply
+        hint: null
+        type: select_one
+        options:
+          - We own all our possessions
+          - We are managers of God's resources
+          - Money has no spiritual significance
+          - Only clergy practice stewardship
+          - I don't know
+        required: true
+      - id: 16
+        name: question_10
+        label: Question 10 - How does Jesus address wealth in the Sermon on the Mount
+        hint: null
+        type: select_one
+        options:
+          - Wealth is sin
+          - Store treasures in heaven
+          - Money is neutral
+          - Only the rich can be righteous
+          - I don't know
+        required: true
+      - id: 17
+        name: question_11
+        label: Question 11 - What is the primary purpose of giving in Christianity
+        hint: null
+        type: select_one
+        options:
+          - Earning God's favor
+          - Supporting the church mission
+          - Impressing others
+          - Personal tax benefits
+          - I don't know
+        required: true
+      - id: 18
+        name: question_12
+        label: Question 12 - Which passage teaches that giving is better than receiving
+        hint: null
+        type: select_one
+        options:
+          - Acts 20 35
+          - Romans 12 6
+          - 1 John 3 17
+          - Proverbs 21 14
+          - I don't know
+        required: true
+      - id: 19
+        name: section_header_reflection
+        label: -- Personal Reflection --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: giving_practices
+        label: How Do You Currently Practice Giving
+        hint: Describe your giving practices
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: motivation
+        label: What Motivates Your Giving
+        hint: What drives your generosity?
+        type: select_multiple
+        options:
+          - Faith and gratitude
+          - Compassion for others
+          - Church/ministry support
+          - Personal conviction
+          - Family example
+          - Community impact
+        required: false
+      - id: 22
+        name: quiz_difficulty
+        label: How Would You Rate the Quiz Difficulty
+        hint: null
+        type: select_one
+        options:
+          - Too easy
+          - Easy
+          - Just right
+          - Difficult
+          - Too difficult
+        required: true
+      - id: 23
+        name: learning_interest
+        label: Interest in Learning More About Biblical Giving
+        hint: null
+        type: select_one
+        options:
+          - Very interested
+          - Somewhat interested
+          - Neutral
+          - Not interested
+          - Need more study
+        required: true
+      - id: 24
+        name: additional_comments
+        label: Additional Comments or Questions
+        hint: Any thoughts or questions?
+        type: text
+        options: []
+        required: false

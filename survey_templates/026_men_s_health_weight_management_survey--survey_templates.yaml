@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Men's Health Weight Management Survey
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Male''}'
+      - Female
+      - Other
+      required: false
+    - id: 4
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: exercise_frequency
+      label: Exercise
+      hint: How often do you exercise?
+      type: select_one
+      options:
+      - '{''label'': ''Daily''}'
+      - Most Days
+      - A few Times a Week
+      - Rarely
+      - Never
+      required: false
+    - id: 6
+      name: motivation_level
+      label: Motivation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: sleep_duration
+      label: Sleep Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: meal_frequency
+      label: Meal Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Three Meals a Day''}'
+      - 4 Meals a Day
+      - 5 Meals a Day
+      - Rarely
+      - Never
+      required: false
+    - id: 9
+      name: water_intake
+      label: Water Intake
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: goal
+      label: Goal
+      hint: What is your current weight goal?
+      type: select_one
+      options:
+      - '{''label'': ''Lose Weight''}'
+      - Maintain Weight
+      - Gain Weight
+      - Other
+      required: false
+    - id: 11
+      name: deadline
+      label: Deadline
+      hint: When would you like to achieve your weight goal?
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: notes_page
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

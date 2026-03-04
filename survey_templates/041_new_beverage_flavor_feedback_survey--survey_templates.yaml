@@ -1,0 +1,244 @@
+inputSchema:
+  type: object
+  properties:
+    title: new_beverage_flavor_feedback_survey
+    pages:
+    - id: 1
+      name: new_beverage_flavor_description
+      label: New Beverage Flavor Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: flavor_rating
+      label: Rate Flavor
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: true
+    - id: 3
+      name: new_beverage_flavor_description_2
+      label: New Beverage Flavor Description 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: recommended_for
+      label: Recommended For
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 5
+      name: new_beverage_flavor_description_3
+      label: New Beverage Flavor Description 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''18-24''}'
+      - '{''label'': ''25-34''}'
+      - '{''label'': ''35-44''}'
+      - '{''label'': ''45-54''}'
+      - '{''label'': ''55-64''}'
+      - '{''label'': ''65+''}'
+      required: true
+    - id: 9
+      name: new_beverage_flavor_rating
+      label: New Beverage Flavor Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: time_to_finish
+      label: Time To Finish
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: date_survey_taken
+      label: Date Survey Taken
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time_survey_taken
+      label: Time Survey Taken
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: other_comments
+      label: Other Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: agree
+      label: Agree
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Strongly Agree''}'
+      - '{''label'': ''Somewhat Agree''}'
+      - '{''label'': ''Neither Agree Nor Disagree''}'
+      - '{''label'': ''Somewhat Disagree''}'
+      - '{''label'': ''Strongly Disagree''}'
+      required: true
+    - id: 16
+      name: new_beverage_image_url
+      label: New Beverage Image Url
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': None}'
+      - '{''label'': None}'
+      - '{''label'': None}'
+      - '{''label'': None}'
+      - '{''label'': None}'
+      required: false
+    - id: 17
+      name: new_beverage_video_url
+      label: New Beverage Video Url
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': None}'
+      - '{''label'': None}'
+      - '{''label'': None}'
+      - '{''label'': None}'
+      - '{''label'': None}'
+      required: false
+    - id: 18
+      name: new_beverage_image_url_2
+      label: New Beverage Image Url 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': None}'
+      - '{''label'': None}'
+      - '{''label'': None}'
+      - '{''label'': None}'
+      - '{''label'': None}'
+      required: false
+    - id: 19
+      name: new_beverage_video_url_2
+      label: New Beverage Video Url 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': None}'
+      - '{''label'': None}'
+      - '{''label'': None}'
+      - '{''label'': None}'
+      - '{''label'': None}'
+      required: false
+    - id: 20
+      name: new_beverage_image_url_3
+      label: New Beverage Image Url 3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': None}'
+      - '{''label'': None}'
+      - '{''label'': None}'
+      - '{''label'': None}'
+      - '{''label'': None}'
+      required: false
+    - id: 21
+      name: new_beverage_video_url_3
+      label: New Beverage Video Url 3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': None}'
+      - '{''label'': None}'
+      - '{''label'': None}'
+      - '{''label'': None}'
+      - '{''label'': None}'
+      required: false
+    - id: 22
+      name: new_beverage_image_url_4
+      label: New Beverage Image Url 4
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': None}'
+      - '{''label'': None}'
+      - '{''label'': None}'
+      - '{''label'': None}'
+      - '{''label'': None}'
+      required: false
+    - id: 23
+      name: new_beverage_video_url_4
+      label: New Beverage Video Url 4
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': None}'
+      - '{''label'': None}'
+      - '{''label'': None}'
+      - '{''label'': None}'
+      - '{''label'': None}'
+      required: false
+    - id: 24
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Submit''}'
+      - '{''label'': ''Save Draft''}'
+      required: true
+    - id: 25
+      name: new_beverage_image_url_5
+      label: New Beverage Image Url 5
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': None}'
+      - '{''label'': None}'
+      - '{''label'': None}'
+      - '{''label'': None}'
+      - '{''label'': None}'
+      required: false

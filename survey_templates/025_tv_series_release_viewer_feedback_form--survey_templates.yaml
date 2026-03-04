@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: TV Series Release Viewer Feedback Form
+    pages:
+    - id: 1
+      name: name
+      label: whats-your-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: your-email-address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: release_date
+      label: release-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: watched
+      label: watched
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 6
+      name: watched_episodes
+      label: episodes-watched
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': 1}'
+      - '{''id'': 2, ''label'': 2}'
+      - '{''id'': 3, ''label'': 3}'
+      required: true
+    - id: 7
+      name: watched_series
+      label: series-watched
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 8
+      name: feedback_type
+      label: feedback-type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Positive''}'
+      - '{''id'': 2, ''label'': ''Negative''}'
+      required: true
+    - id: 9
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: true

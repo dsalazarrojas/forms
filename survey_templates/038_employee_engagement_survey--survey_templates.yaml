@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Engagement Survey
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: Enter the name of your company
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Small'', ''label'': ''Small''}'
+      - '{''id'': 2, ''name'': ''Medium'', ''label'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''Large'', ''label'': ''Large''}'
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: years_with_company
+      label: Years with Company
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Less than 1 year'', ''label'': ''Less than 1 year''}'
+      - '{''id'': 2, ''name'': ''1-2 years'', ''label'': ''1-2 years''}'
+      - '{''id'': 3, ''name'': ''2-5 years'', ''label'': ''2-5 years''}'
+      - '{''id'': 4, ''name'': ''5-10 years'', ''label'': ''5-10 years''}'
+      - '{''id'': 5, ''name'': ''More than 10 years'', ''label'': ''More than 10 years''}'
+      required: true
+    - id: 8
+      name: job_satisfaction
+      label: Job Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: communication
+      label: Communication
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 10, ''name'': ''Very Poor'', ''label'': ''Very Poor''}'
+      - '{''id'': 11, ''name'': ''Poor'', ''label'': ''Poor''}'
+      - '{''id'': 12, ''name'': ''Neutral'', ''label'': ''Neutral''}'
+      - '{''id'': 13, ''name'': ''Good'', ''label'': ''Good''}'
+      - '{''id'': 14, ''name'': ''Very Good'', ''label'': ''Very Good''}'
+      - '{''id'': 15, ''name'': ''Excellent'', ''label'': ''Excellent''}'
+      required: true
+    - id: 10
+      name: team_collaboration
+      label: Team Collaboration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: autonomy
+      label: Autonomy
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: feedback_opportunities
+      label: Feedback Opportunities
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: recognition
+      label: Recognition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: growth_opportunities
+      label: Growth Opportunities
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 16, ''name'': ''Very Good'', ''label'': ''Very Good''}'
+      - '{''id'': 17, ''name'': ''Good'', ''label'': ''Good''}'
+      - '{''id'': 18, ''name'': ''Neutral'', ''label'': ''Neutral''}'
+      - '{''id'': 19, ''name'': ''Fair'', ''label'': ''Fair''}'
+      - '{''id'': 20, ''name'': ''Very Fair'', ''label'': ''Very Fair''}'
+      required: true
+    - id: 15
+      name: diversity_inclusion
+      label: Diversity and Inclusion
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 21, ''name'': ''Very Important'', ''label'': ''Very Important''}'
+      - '{''id'': 22, ''name'': ''Somewhat Important'', ''label'': ''Somewhat Important''}'
+      - '{''id'': 23, ''name'': ''Not Very Important'', ''label'': ''Not Very Important''}'
+      required: true
+    - id: 16
+      name: job_security
+      label: Job Security
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: work_life_balance
+      label: Work Life Balance
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 24, ''name'': ''Very Good'', ''label'': ''Very Good''}'
+      - '{''id'': 25, ''name'': ''Good'', ''label'': ''Good''}'
+      - '{''id'': 26, ''name'': ''Fair'', ''label'': ''Fair''}'
+      - '{''id'': 27, ''name'': ''Very Fair'', ''label'': ''Very Fair''}'
+      required: true
+    - id: 18
+      name: open_communication
+      label: Open Communication
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 28, ''name'': ''Very Important'', ''label'': ''Very Important''}'
+      - '{''id'': 29, ''name'': ''Somewhat Important'', ''label'': ''Somewhat Important''}'
+      - '{''id'': 30, ''name'': ''Not Very Important'', ''label'': ''Not Very Important''}'
+      required: true

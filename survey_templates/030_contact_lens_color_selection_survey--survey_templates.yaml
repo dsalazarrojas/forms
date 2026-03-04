@@ -1,0 +1,130 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Contact Lens Color Selection Survey
+    pages:
+      - id: 1
+        name: header
+        label: -- Contact Lens Color Survey --
+        hint: Help us improve our color offerings by answering a few quick questions
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Your name
+        hint: Optional, leave blank for anonymous responses
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: age_group
+        label: Age group
+        hint: Select your age range
+        type: select_one
+        options:
+          - Under 18
+          - 18-24
+          - 25-34
+          - 35-44
+          - 45 and over
+        required: false
+      - id: 4
+        name: current_lens_color
+        label: Current contact lens color
+        hint: If you use colored lenses, specify current color
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: preferred_color_tone
+        label: Preferred color tone
+        hint: Choose the tone you prefer
+        type: select_one
+        options:
+          - Natural
+          - Vibrant
+          - Subtle enhancement
+          - Dramatic
+        required: true
+      - id: 6
+        name: color_opacity_preference
+        label: Color opacity preference
+        hint: How opaque do you prefer your lens color to appear
+        type: select_one
+        options:
+          - Sheer
+          - Moderate
+          - Opaque
+        required: true
+      - id: 7
+        name: occasions_for_use
+        label: Occasions for wearing colored lenses
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Daily use
+          - Special events
+          - Cosplay or costume
+          - Photography
+          - Other
+        required: false
+      - id: 8
+        name: comfort_importance
+        label: Importance of comfort
+        hint: How important is comfort relative to color appearance
+        type: select_one
+        options:
+          - Very important
+          - Somewhat important
+          - Not important
+        required: true
+      - id: 9
+        name: purchase_channels
+        label: Preferred purchase channels
+        hint: Where do you prefer to buy contact lenses
+        type: select_multiple
+        options:
+          - Optical store
+          - Online retailer
+          - Clinic
+          - Brand website
+        required: false
+      - id: 10
+        name: willingness_to_try_new_colors
+        label: Willingness to try new colors
+        hint: Would you try experimental shades
+        type: select_one
+        options:
+          - Yes
+          - Maybe
+          - No
+        required: true
+      - id: 11
+        name: price_sensitivity
+        label: Price sensitivity
+        hint: How sensitive are you to price when choosing lenses
+        type: select_one
+        options:
+          - Highly sensitive
+          - Moderately sensitive
+          - Not sensitive
+        required: false
+      - id: 12
+        name: additional_feedback
+        label: Additional feedback
+        hint: Any other thoughts on lens color options
+        type: text
+        options: []
+        required: false

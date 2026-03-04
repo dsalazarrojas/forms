@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Gym Facility Renovation Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: Which of our facilities have you used in the past week?
+      hint: null
+      type: select_multiple
+      options:
+      - Gym
+      - Pool
+      - Sauna
+      required: false
+    - id: 3
+      name: question_2
+      label: What do you think of our renovation?
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Very Good''}'
+      - '{2: ''Neutral''}'
+      - '{3: ''Very Bad''}'
+      required: false
+    - id: 4
+      name: question_3
+      label: How likely are you to recommend our facility to a friend or family member?
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Very Likely''}'
+      - '{2: ''Not Very Likely''}'
+      - '{3: ''Not At All Likely''}'
+      required: false
+    - id: 5
+      name: question_5
+      label: What would you suggest we improve?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: question_6
+      label: Would you like to be contacted for further information about our facility?
+      hint: null
+      type: select_one
+      options:
+      - '{1: True}'
+      - '{2: False}'
+      required: false
+    - id: 7
+      name: question_7
+      label: How satisfied are you with our facility overall?
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Very Satisfied''}'
+      - '{2: ''Neutral''}'
+      - '{3: ''Very Dissatisfied''}'
+      required: false
+    - id: 8
+      name: question_8
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

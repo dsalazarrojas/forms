@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trade Show Attendee Experience Questionnaire
+    pages:
+    - id: 1
+      name: introduction_page
+      label: Introduction
+      hint: This is the introduction
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: show_feedback
+      label: What did you think about the show?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 3
+      name: show_satisfaction
+      label: How satisfied were you with the show?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Unsatisfied
+      - Very Unsatisfied
+      required: false
+    - id: 4
+      name: show_improvement_ideas
+      label: What suggestions do you have to improve the show?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: show_programs
+      label: What type of programming would you like to see in the future?
+      hint: null
+      type: select_multiple
+      options:
+      - Theater
+      - Workshops
+      - Panels
+      - Speed Networking
+      - Product Demonstrations
+      required: false
+    - id: 6
+      name: show_likelihood_attendee
+      label: How likely are you to attend this show again?
+      hint: null
+      type: select_one
+      options:
+      - Highly Likely
+      - Somewhat Likely
+      - Not Likely
+      required: false
+    - id: 7
+      name: show_referral
+      label: How likely are you to refer a colleague?
+      hint: null
+      type: select_one
+      options:
+      - Highly Likely
+      - Somewhat Likely
+      - Not Likely
+      required: false
+    - id: 8
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: feedback
+      label: Additional Feedback
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,124 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: April Fools Day Prank Impact Survey
+    pages:
+    - id: 1
+      name: respondent_info
+      label: Respondent Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name (optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participated
+      label: Did you participate in any pranks
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Was Pranked
+      required: true
+    - id: 4
+      name: prank_impact
+      label: Overall Impact of Pranks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: morale_effect
+      label: Effect on Team Morale
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Somewhat Positive
+      - Neutral
+      - Somewhat Negative
+      - Negative
+      required: true
+    - id: 6
+      name: social_effect
+      label: Effect on Social Bonding
+      hint: null
+      type: select_one
+      options:
+      - Strengthened
+      - Somewhat Strengthened
+      - No Change
+      - Somewhat Weakened
+      - Weakened
+      required: false
+    - id: 7
+      name: productivity_effect
+      label: Effect on Productivity
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Neutral
+      - Negative
+      required: false
+    - id: 8
+      name: stress_effect
+      label: Effect on Stress Levels
+      hint: null
+      type: select_one
+      options:
+      - Reduced
+      - Slightly Reduced
+      - No Change
+      - Slightly Increased
+      - Increased
+      required: false
+    - id: 9
+      name: cultural_perception
+      label: Does Prank Culture Fit Our Organization
+      hint: null
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Neutral
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 10
+      name: future_pranks
+      label: Should We Continue Prank Tradition
+      hint: null
+      type: select_one
+      options:
+      - Enthusiastically Yes
+      - Yes
+      - Unsure
+      - Prefer Not To
+      - No
+      required: false
+    - id: 11
+      name: feedback
+      label: Additional Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

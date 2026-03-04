@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Santa Breakfast Participation Survey
+    pages:
+    - id: 1
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_satisfaction
+      label: Event Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Neutral
+      - Poor
+      - Very Poor
+      required: true
+    - id: 9
+      name: food_satisfaction
+      label: Food Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Neutral
+      - Poor
+      - Very Poor
+      required: true
+    - id: 10
+      name: food_quality
+      label: Food Quality
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Neutral
+      - Poor
+      - Very Poor
+      required: false
+    - id: 11
+      name: food_quality_rating
+      label: Food Quality Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: will_attend_again
+      label: Will Attend Again
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Sure
+      required: true
+    - id: 13
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: event_frequency
+      label: Event Frequency
+      hint: null
+      type: select_one
+      options:
+      - Very Often
+      - Often
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: email_opt_in
+      label: Email Opt In
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: social_media
+      label: Social Media
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Instagram
+      - Twitter
+      - YouTube
+      - Other
+      required: false
+    - id: 18
+      name: social_media_url
+      label: Social Media URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: photo_consent
+      label: Photo Consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 20
+      name: photo_use
+      label: Photo Use
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: photo_publication
+      label: Photo Publication
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: social_media_consent
+      label: Social Media Consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 23
+      name: social_media_publishing
+      label: Social Media Publishing
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: email_consent
+      label: Email Consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 25
+      name: email_publishing
+      label: Email Publishing
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

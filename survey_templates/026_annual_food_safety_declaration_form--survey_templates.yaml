@@ -1,0 +1,250 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Food Safety Declaration Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: Official name of food business
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: Contact Person Name
+      hint: Person responsible for food safety
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: position_title
+      label: Position Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_address
+      label: Business Address
+      hint: Full address of food facility
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: declaration_year
+      label: Declaration Year
+      hint: Which year is this for?
+      type: select_one
+      options:
+      - 2026
+      - 2025
+      - 2024
+      - 2023
+      required: true
+    - id: 8
+      name: business_type
+      label: Business Type
+      hint: Type of food business
+      type: select_one
+      options:
+      - Restaurant
+      - Cafe
+      - Food Truck
+      - Catering
+      - Grocery Store
+      - Food Manufacturing
+      - Bakery
+      - Bar
+      - Institutional Kitchen
+      - Other
+      required: true
+    - id: 9
+      name: employee_count
+      label: Number of Employees
+      hint: Total food handling staff
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: food_safety_certification
+      label: Food Safety Certification
+      hint: Do you have current certification?
+      type: select_one
+      options:
+      - Yes, Current
+      - Expired, Renewing
+      - false
+      - Not Required
+      required: true
+    - id: 11
+      name: certification_type
+      label: Certification Type
+      hint: Type of certification held
+      type: select_one
+      options:
+      - ServSafe
+      - HACCP
+      - ISO 22000
+      - Local Health Department
+      - Other
+      - Not Applicable
+      required: false
+    - id: 12
+      name: staff_trained
+      label: Staff Trained in Food Safety
+      hint: Percentage of staff trained
+      type: select_one
+      options:
+      - 100%
+      - 75-99%
+      - 50-74%
+      - 25-49%
+      - Less than 25%
+      - None
+      required: true
+    - id: 13
+      name: haccp_plan
+      label: HACCP Plan in Place
+      hint: Do you have a HACCP plan?
+      type: select_one
+      options:
+      - Yes, Implemented
+      - In Development
+      - false
+      - Not Required
+      required: true
+    - id: 14
+      name: temperature_monitoring
+      label: Temperature Monitoring
+      hint: Do you monitor food temperatures?
+      type: select_one
+      options:
+      - Yes, Regularly
+      - Occasionally
+      - false
+      required: true
+    - id: 15
+      name: allergen_management
+      label: Allergen Management
+      hint: Do you have allergen procedures?
+      type: select_one
+      options:
+      - Yes, Comprehensive
+      - Basic Procedures
+      - false
+      required: true
+    - id: 16
+      name: supplier_verification
+      label: Supplier Verification
+      hint: Do you verify suppliers?
+      type: select_one
+      options:
+      - Yes, All Suppliers
+      - Some Suppliers
+      - false
+      required: true
+    - id: 17
+      name: pest_control
+      label: Pest Control Program
+      hint: Do you have pest control?
+      type: select_one
+      options:
+      - Yes, Professional Service
+      - Yes, In-House
+      - false
+      required: true
+    - id: 18
+      name: last_inspection_date
+      label: Last Health Inspection Date
+      hint: When was last inspection?
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: last_inspection_result
+      label: Last Inspection Result
+      hint: Result of last inspection
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Unsatisfactory
+      - Not Inspected
+      required: false
+    - id: 20
+      name: violations_corrected
+      label: Violations Corrected
+      hint: Were any violations corrected?
+      type: select_one
+      options:
+      - Yes, All
+      - Some Pending
+      - No Violations
+      - Not Applicable
+      required: false
+    - id: 21
+      name: foodborne_illness_incidents
+      label: Foodborne Illness Incidents
+      hint: Any incidents this year?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: incident_details
+      label: Incident Details
+      hint: Describe if yes
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: recall_procedures
+      label: Recall Procedures
+      hint: Do you have recall procedures?
+      type: select_one
+      options:
+      - Yes, Documented
+      - Informal
+      - false
+      required: true
+    - id: 24
+      name: declaration_statement
+      label: Declaration Statement
+      hint: I declare this information is accurate
+      type: select_one
+      options:
+      - Yes, I Declare
+      - false
+      required: true
+    - id: 25
+      name: signature_date
+      label: Signature Date
+      hint: Date of declaration
+      type: date
+      options: []
+      required: true
+    - id: 26
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

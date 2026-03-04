@@ -1,0 +1,95 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Antibody And Antigen Survey
+    pages:
+    - id: 1
+      name: section_testing_history
+      label: -- Testing and Exposure History --
+      hint: Collect information on testing vaccination and symptoms
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: tested_for_antigen
+      label: Have you had an antigen test recently
+      hint: Within the last 14 days
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: true
+    - id: 3
+      name: antigen_test_result
+      label: Antigen test result
+      hint: If tested provide result
+      type: select_one
+      options:
+        - Positive
+        - Negative
+        - Indeterminate
+        - Not tested
+      required: false
+    - id: 4
+      name: tested_for_antibodies
+      label: Have you had an antibody test
+      hint: Ever tested for antibodies
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: true
+    - id: 5
+      name: antibody_test_result
+      label: Antibody test result
+      hint: Indicate positive negative or unknown
+      type: select_one
+      options:
+        - Positive
+        - Negative
+        - Unknown
+      required: false
+    - id: 6
+      name: vaccination_status
+      label: Vaccination status for relevant disease
+      hint: Number of doses and last dose date
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recent_symptoms
+      label: Recent symptoms experienced
+      hint: Select any that apply
+      type: select_multiple
+      options:
+        - Fever
+        - Cough
+        - Shortness of breath
+        - Loss of taste or smell
+        - None
+      required: false
+    - id: 8
+      name: exposure_history
+      label: Known exposure to confirmed case
+      hint: Provide approximate date if known
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional comments or clarifications
+      hint: Optional context about testing or symptoms
+      type: text
+      options: []
+      required: false

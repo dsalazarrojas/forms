@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business School Advisory Committee Survey
+    pages:
+    - id: 1
+      name: section_respondent
+      label: -- Respondent Information --
+      type: note
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Your Name
+      hint: Full name
+      type: text
+      required: true
+    - id: 3
+      name: committee_role
+      label: Role on Advisory Committee
+      hint: Your position or title
+      type: text
+      required: true
+    - id: 4
+      name: company_affiliation
+      label: Company or Organization
+      hint: Your business affiliation
+      type: text
+      required: true
+    - id: 5
+      name: years_on_committee
+      label: Years Serving on Committee
+      hint: Duration of your service
+      type: number
+      required: false
+    - id: 6
+      name: section_program_quality
+      label: -- Program Quality Assessment --
+      type: note
+      required: false
+    - id: 7
+      name: program_relevance
+      label: Relevance of Program Content to Industry
+      hint: How relevant is the curriculum
+      type: select_one
+      options:
+      - Not relevant
+      - Somewhat relevant
+      - Moderately relevant
+      - Very relevant
+      - Highly aligned
+      required: true
+    - id: 8
+      name: curriculum_currency
+      label: Currency of Course Material
+      hint: Is content up to date with industry trends
+      type: select_one
+      options:
+      - Very outdated
+      - Somewhat outdated
+      - Current
+      - Very current
+      - Industry leading
+      required: true
+    - id: 9
+      name: student_preparedness
+      label: Graduate Preparedness for Industry
+      hint: Are graduates ready for roles
+      type: select_one
+      options:
+      - Not prepared
+      - Somewhat prepared
+      - Adequately prepared
+      - Well prepared
+      - Exceptionally prepared
+      required: true
+    - id: 10
+      name: section_skills
+      label: -- Critical Skills Assessment --
+      type: note
+      required: false
+    - id: 11
+      name: technical_skills_emphasis
+      label: Emphasis on Technical Skills
+      hint: How well do students learn technical skills
+      type: select_one
+      options:
+      - Insufficient emphasis
+      - Limited emphasis
+      - Adequate emphasis
+      - Good emphasis
+      - Excellent emphasis
+      required: true
+    - id: 12
+      name: soft_skills_emphasis
+      label: Emphasis on Soft Skills
+      hint: Leadership, communication, teamwork
+      type: select_one
+      options:
+      - Insufficient emphasis
+      - Limited emphasis
+      - Adequate emphasis
+      - Good emphasis
+      - Excellent emphasis
+      required: true
+    - id: 13
+      name: critical_missing_skills
+      label: Critical Missing Skills
+      hint: What skills should students have that they lack
+      type: text
+      required: false
+    - id: 14
+      name: section_committee_effectiveness
+      label: -- Committee Effectiveness --
+      type: note
+      required: false
+    - id: 15
+      name: committee_meeting_frequency
+      label: Adequacy of Meeting Frequency
+      hint: Do you meet often enough
+      type: select_one
+      options:
+      - Too infrequent
+      - Somewhat infrequent
+      - About right
+      - More frequent would be better
+      - Well suited
+      required: false
+    - id: 16
+      name: committee_impact
+      label: Committee Impact on School Direction
+      hint: Does the committee influence policy
+      type: select_one
+      options:
+      - No impact
+      - Minimal impact
+      - Moderate impact
+      - Strong impact
+      - Highly influential
+      required: true
+    - id: 17
+      name: engagement_level
+      label: Your Engagement Satisfaction
+      hint: Are you engaged in committee work
+      type: select_one
+      options:
+      - Very dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very satisfied
+      required: false
+    - id: 18
+      name: section_recommendations
+      label: -- Recommendations --
+      type: note
+      required: false
+    - id: 19
+      name: program_improvements
+      label: Recommended Program Improvements
+      hint: What should the school focus on
+      type: text
+      required: false
+    - id: 20
+      name: industry_partnerships
+      label: Opportunities for Industry Partnership
+      hint: Ways to deepen industry engagement
+      type: text
+      required: false
+    - id: 21
+      name: additional_feedback
+      label: Additional Feedback
+      hint: Any other thoughts or suggestions
+      type: text
+      required: false

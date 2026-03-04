@@ -1,0 +1,97 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Public Awareness Of Sustainable Tourism Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: Public Awareness Of Sustainable Tourism Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Category A
+      - Category B
+      - Category C
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Contact Email
+      hint: Contact Email
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: Where did you visit?
+      type: select_multiple
+      options:
+      - Select Location
+      - Select Location 2
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: Date of Visit
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: Time of Visit
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: travel_reason
+      label: Travel Reason
+      hint: Why did you travel?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: sustainable_practices
+      label: Sustainable Practices
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 10
+      name: feedback
+      label: Feedback
+      hint: How satisfied are you with our sustainable practices?
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Not Satisfied
+      required: false

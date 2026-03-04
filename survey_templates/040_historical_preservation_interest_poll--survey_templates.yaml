@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Historical Preservation Interest Poll
+    pages:
+    - id: 1
+      name: preservation_interest
+      label: Preservation Interest
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: participation_interest
+      label: Participation Interest
+      hint: null
+      type: select_multiple
+      options:
+      - Interest in preserving historical sites
+      - Interest in preserving historical objects
+      - Interest in participating in community preservation efforts
+      required: false
+    - id: 3
+      name: participation_frequency
+      label: Participation Frequency
+      hint: How often do you participate in historical preservation activities?
+      type: select_one
+      options:
+      - 1-5 times a month
+      - 1-2 times a year
+      - 3-5 times a year
+      - Never
+      required: false
+    - id: 4
+      name: participation_methods
+      label: Participation Methods
+      hint: How do you participate in preservation activities?
+      type: select_multiple
+      options:
+      - Online events
+      - In-person events
+      - Volunteer opportunities
+      - Other (please specify)
+      required: false
+    - id: 5
+      name: conservation_priority
+      label: Conservation Priority
+      hint: What do you think is the top priority for preserving historical preservation?
+      type: select_one
+      options:
+      - Preservation of natural and cultural resources
+      - Preservation of buildings
+      - Preservation of historical documents
+      - None of the above
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Information
+      hint: Please provide your email address and/or phone number for follow-up
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: other_preservation_interests
+      label: Other preservation interests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: other_preservation_methods
+      label: Other preservation methods
+      hint: null
+      type: text
+      options: []
+      required: false

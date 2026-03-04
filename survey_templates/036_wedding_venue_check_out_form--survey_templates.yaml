@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: wedding_venue_check_out_form
+    pages:
+    - id: 1
+      name: venue_details
+      label: Venue Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_info
+      label: Event Info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Wedding'', ''value'': ''Wedding''}'
+      - '{''id'': 2, ''label'': ''Birthday'', ''value'': ''Birthday''}'
+      - '{''id'': 3, ''label'': ''Company Party'', ''value'': ''Company Party''}'
+      required: false
+    - id: 3
+      name: check_out_status
+      label: Check Out Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Not Checked'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Checked'', ''value'': 2}'
+      required: true
+    - id: 4
+      name: rental_items
+      label: Rental Items
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Chairs'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Tables'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Linens'', ''value'': 3}'
+      required: true
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: return_time
+      label: Return Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: return_status
+      label: Return Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Not Returned'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Returned'', ''value'': 2}'
+      required: true
+    - id: 11
+      name: comments_returned
+      label: Comments Returned
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: return_time
+      label: Return Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: return_status
+      label: Return Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Not Returned'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Returned'', ''value'': 2}'
+      required: true
+    - id: 21
+      name: comments_returned
+      label: Comments Returned
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: form_submitted
+      label: Form Submitted
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': 1}'
+      - '{''id'': 2, ''label'': False, ''value'': 2}'
+      required: true

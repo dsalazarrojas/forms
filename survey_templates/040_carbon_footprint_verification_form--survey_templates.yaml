@@ -1,0 +1,234 @@
+inputSchema:
+  type: object
+  properties:
+    title: Carbon Footprint Verification Form
+    pages:
+    - id: 1
+      name: entity_information
+      label: -- ENTITY INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: entity_name
+      label: Entity name (individual or organization)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: entity_type
+      label: Entity type
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Small Business
+      - Large Corporation
+      - Non-profit
+      - Educational Institution
+      - Government Agency
+      - Other
+      required: true
+    - id: 4
+      name: contact_name
+      label: Contact person name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: verification_period
+      label: Verification period
+      hint: null
+      type: select_one
+      options:
+      - Calendar Year 2023
+      - Calendar Year 2024
+      - Fiscal Year
+      - Custom Period
+      - Other
+      required: true
+    - id: 8
+      name: baseline_emissions
+      label: -- BASELINE EMISSIONS DATA --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: reported_total_emissions
+      label: Total reported carbon emissions (mtCO2e)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: scope_1_portion
+      label: Scope 1 emissions (mtCO2e)
+      hint: Direct emissions
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: scope_2_portion
+      label: Scope 2 emissions (mtCO2e)
+      hint: Indirect energy
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: scope_3_portion
+      label: Scope 3 emissions (mtCO2e)
+      hint: Other indirect
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: calculation_methodology
+      label: Calculation methodology used
+      hint: null
+      type: select_one
+      options:
+      - ISO 14064
+      - GHG Protocol
+      - PAS 2050
+      - Other Standard
+      - Custom Method
+      - Unknown
+      required: true
+    - id: 14
+      name: data_sources
+      label: Data sources for calculations
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Utility Bills
+      - Fuel Purchases
+      - Vehicle Odometer
+      - Flight Records
+      - Third-party Database
+      - Estimation Methods
+      - Other
+      required: false
+    - id: 15
+      name: data_quality
+      label: Data quality assessment
+      hint: null
+      type: select_one
+      options:
+      - Excellent - Primary Data
+      - Good - Mix of Primary and Secondary
+      - Fair - Mostly Secondary Data
+      - Poor - Estimated Data
+      required: true
+    - id: 16
+      name: verification_checklist
+      label: -- VERIFICATION CHECKLIST --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: data_completeness
+      label: Is data complete for all scopes?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Partially
+      - false
+      required: true
+    - id: 18
+      name: documentation_available
+      label: Supporting documentation available?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Full Documentation
+      - Yes - Partial
+      - Limited Documentation
+      - false
+      required: true
+    - id: 19
+      name: calculation_accuracy
+      label: Calculation accuracy assessment
+      hint: null
+      type: select_one
+      options:
+      - Verified Accurate
+      - Likely Accurate
+      - Reasonable Estimates
+      - Uncertain
+      - Unable to Verify
+      required: true
+    - id: 20
+      name: boundary_consistency
+      label: Organizational boundary consistency
+      hint: null
+      type: select_one
+      options:
+      - Fully Consistent
+      - Mostly Consistent
+      - Somewhat Inconsistent
+      - Not Consistent
+      required: true
+    - id: 21
+      name: verification_outcome
+      label: -- VERIFICATION OUTCOME --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: verification_status
+      label: Verification status
+      hint: null
+      type: select_one
+      options:
+      - Verified
+      - Conditionally Verified
+      - Under Review
+      - Unable to Verify
+      - Failed Verification
+      required: true
+    - id: 23
+      name: confidence_level
+      label: Verification confidence level
+      hint: null
+      type: select_one
+      options:
+      - Very High - 95%+
+      - High - 85-95%
+      - Moderate - 70-85%
+      - Low - Below 70%
+      required: false
+    - id: 24
+      name: issues_found
+      label: Issues or discrepancies found
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: recommendations
+      label: Recommendations for improvement
+      hint: null
+      type: text
+      options: []
+      required: false

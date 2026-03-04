@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Clarity Assessment
+    pages:
+    - id: 1
+      name: intro_page
+      label: Welcome to the Personal Clarity Assessment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: life_direction
+      label: What are your values and priorities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: obstacles
+      label: What obstacles prevent you from achieving your goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: self_reflection
+      label: Reflect on your current situation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: goals
+      label: What are your long term goals
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: obstacles_2
+      label: Obstacles to achieving goals
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: values
+      label: What are your core values
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: self_reflection_2
+      label: Reflect on your current situation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: self_reflection_3
+      label: Reflect on your current situation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: next_steps
+      label: What are your next steps
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: final_steps
+      label: Finalize your assessment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: results
+      label: View your results
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: submit
+      label: Submit your assessment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

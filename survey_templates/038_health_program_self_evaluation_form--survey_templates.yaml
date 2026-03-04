@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: health_program_self_evaluation_form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_info
+      label: participant_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: program_participation
+      label: program_participation
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      - maybe
+      required: false
+    - id: 4
+      name: wellness_clinics
+      label: wellness_clinics
+      hint: null
+      type: select_multiple
+      options:
+      - clinic1
+      - clinic2
+      - clinic3
+      required: false
+    - id: 5
+      name: program_topics
+      label: program_topics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: program_topics_2
+      label: program_topics_2
+      hint: null
+      type: select_multiple
+      options:
+      - topic1
+      - topic2
+      - topic3
+      required: false
+    - id: 7
+      name: rating
+      label: rating
+      hint: On a scale of 1-10
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Other
+      required: false

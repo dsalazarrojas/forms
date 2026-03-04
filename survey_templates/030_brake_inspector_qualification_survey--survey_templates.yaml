@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brake Inspector Qualification Survey
+    pages:
+    - id: 1
+      name: section_header_inspector
+      label: -- Inspector Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID Number
+      hint: Internal identification
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Professional email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_education
+      label: -- Education and Certifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: highest_degree
+      label: Highest Educational Degree
+      hint: Education level completed
+      type: select_one
+      options:
+      - High school diploma
+      - Associate degree
+      - Bachelor degree
+      - Master degree
+      - Professional certification
+      - Other
+      required: true
+    - id: 8
+      name: automotive_schooling
+      label: Automotive Training or Schooling
+      hint: Years of formal training
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: brake_certification
+      label: Brake Certification Status
+      hint: Current certifications held
+      type: select_multiple
+      options:
+      - ASE (Automobile Service Excellence)
+      - Manufacturer specific
+      - EPA certification
+      - State license
+      - Brake system specialist
+      - None
+      required: true
+    - id: 10
+      name: section_header_experience
+      label: -- Work Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: total_experience
+      label: Total Years of Experience
+      hint: Total automotive/brake experience
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: brake_specific_years
+      label: Years Specifically in Brake Work
+      hint: Brake system focused experience
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: inspection_experience
+      label: Brake Inspection Experience
+      hint: Years conducting inspections
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: section_header_skills
+      label: -- Technical Skills Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: hydraulic_knowledge
+      label: Hydraulic Systems Knowledge
+      hint: Assess your knowledge level
+      type: select_one
+      options:
+      - Expert
+      - Advanced
+      - Intermediate
+      - Basic
+      - Minimal
+      required: true
+    - id: 16
+      name: diagnostic_skills
+      label: Diagnostic and Testing Skills
+      hint: Ability to diagnose brake issues
+      type: select_one
+      options:
+      - Expert
+      - Advanced
+      - Intermediate
+      - Basic
+      - Minimal
+      required: true
+    - id: 17
+      name: safety_knowledge
+      label: Safety Compliance Knowledge
+      hint: Understanding of safety standards
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - None
+      required: true
+    - id: 18
+      name: section_header_equipment
+      label: -- Equipment and Tools --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: equipment_proficiency
+      label: Proficiency with Testing Equipment
+      hint: Brake testing devices and tools
+      type: select_one
+      options:
+      - Expert
+      - Advanced
+      - Intermediate
+      - Basic
+      - None
+      required: true
+    - id: 20
+      name: section_header_performance
+      label: -- Performance and References --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: reference_contact
+      label: Professional Reference
+      hint: Previous supervisor or colleague
+      type: text
+      options: []
+      required: false

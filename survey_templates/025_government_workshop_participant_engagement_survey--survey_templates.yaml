@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Government Workshop Participant Engagement Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: workshop_educational_value
+      label: How much did you find the workshop educational?
+      hint: null
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Medium
+      - Low
+      - Very Low
+      required: true
+    - id: 4
+      name: workshop_facilities
+      label: Facilities
+      hint: null
+      type: select_multiple
+      options:
+      - Yes, they were excellent
+      - No, they were poor
+      - Yes, they met my expectations
+      required: false
+    - id: 5
+      name: workshop_materials
+      label: Materials
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: workshop_presenters
+      label: Presenters
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Average
+      - Poor
+      required: true
+    - id: 7
+      name: workshop_location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Offline
+      required: true
+    - id: 8
+      name: workshop_diet
+      label: Food and Beverages
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Not Good
+      required: false
+    - id: 9
+      name: workshop_parking
+      label: Parking
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: workshop_improvement
+      label: What can be improved in future workshops?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: contact_details
+      label: How would you like to be contacted for further feedback?
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Post
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: overall_experience_rating
+      label: Overall Experience Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: workshop_facilities_rating
+      label: Facilities Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: workshop_presenters_rating
+      label: Presenters Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: workshop_location_rating
+      label: Location Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: overall_satisfaction_rating
+      label: Overall Satisfaction Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: workshop_improvement_rating
+      label: Improvement Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: contact_details_rating
+      label: Contact Details Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: comments_rating
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false

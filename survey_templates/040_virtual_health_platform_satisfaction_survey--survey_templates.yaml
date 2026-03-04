@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: virtual_health_platform_satisfaction_survey
+    pages:
+    - id: 1
+      name: intro
+      label: Intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: introduction_to_vhps
+      label: Introduction to Vhps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: satisfaction_with_vhps
+      label: Satisfaction with Vhps
+      hint: How satisfied are you with our services?
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: true
+    - id: 4
+      name: satisfaction_with_vhps_services
+      label: Satisfaction with Vhps Services
+      hint: How satisfied are you with our services?
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 5
+      name: rating_vhps
+      label: Rating Vhps
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: suggestions_for_improvement
+      label: Suggestions for Improvement
+      hint: Do you have any suggestions for us?
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_us
+      label: Contact Us
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

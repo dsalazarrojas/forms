@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Promo Code Validation Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: What was your experience with this promo code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: code_used
+      label: Was this promo code used on this purchase
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: code_type
+      label: Promo code type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: discount_amount
+      label: Discount amount of promo code
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: purchase_date
+      label: Date of purchase
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: product
+      label: Product purchased with promo code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: store
+      label: Store where purchase made
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: purchase_time
+      label: Time of purchase
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: feedback
+      label: How did you find the use of this promo code
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: other_comments
+      label: Other comments about promo code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: contact_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: contact_store
+      label: Store
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: contact_email
+      label: Additional Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: contact_phone
+      label: Additional Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contact_department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: contact_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contact_fax
+      label: Fax Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: contact_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: general_purpose_worksheet
+    pages:
+    - id: 1
+      name: general_purpose_worksheet_page_1
+      label: form_header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: header_text
+      label: header_text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: text_1
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: text_2
+      label: project_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: select_1
+      label: project_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Completed''}'
+      - '{''label'': ''In Progress''}'
+      required: false
+    - id: 6
+      name: select_2
+      label: project_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Type 1''}'
+      - '{''label'': ''Type 2''}'
+      - '{''label'': ''Type 3''}'
+      required: false
+    - id: 7
+      name: date_1
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: date_2
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_1
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: time_2
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: note_1
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email_1
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone_1
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: text_3
+      label: other_details
+      hint: null
+      type: text
+      options: []
+      required: false

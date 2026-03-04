@@ -1,0 +1,284 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Animal Exhibit Visitor Satisfaction Assessment
+    pages:
+    - id: 1
+      name: visitor_name
+      label: Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Optional - for follow-up
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: visit_date
+      label: Date of Visit
+      hint: When did you visit
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: survey_intro
+      label: Animal Exhibit Visitor Satisfaction Survey
+      hint: Help us improve your experience
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: group_type
+      label: What Type of Group Are You With
+      hint: Group composition
+      type: select_one
+      options:
+      - Solo visitor
+      - Couple
+      - Family with children
+      - Friends
+      - School group
+      - Tour group
+      - Other
+      required: true
+    - id: 6
+      name: number_in_group
+      label: How Many People in Your Group
+      hint: Group size
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3-5
+      - 6-10
+      - More than 10
+      required: true
+    - id: 7
+      name: children_present
+      label: Are There Children in Your Group
+      hint: Children
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 8
+      name: visit_duration
+      label: How Long Did You Spend at the Exhibit
+      hint: Duration
+      type: select_one
+      options:
+      - Less than 30 minutes
+      - 30 minutes to 1 hour
+      - 1-2 hours
+      - 2-3 hours
+      - More than 3 hours
+      required: true
+    - id: 9
+      name: overall_satisfaction
+      label: Overall How Satisfied Were You with Your Visit
+      hint: Overall rating
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 10
+      name: exhibit_quality
+      label: How Would You Rate the Quality of the Exhibits
+      hint: Quality rating
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 11
+      name: animal_welfare
+      label: How Would You Rate the Apparent Welfare of the Animals
+      hint: Welfare perception
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      - Did not observe
+      required: true
+    - id: 12
+      name: educational_value
+      label: How Would You Rate the Educational Value
+      hint: Education rating
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 13
+      name: cleanliness
+      label: How Would You Rate the Cleanliness of the Facility
+      hint: Cleanliness
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 14
+      name: staff_friendliness
+      label: How Would You Rate Staff Friendliness
+      hint: Staff rating
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      - Did not interact with staff
+      required: true
+    - id: 15
+      name: staff_knowledge
+      label: How Would You Rate Staff Knowledge
+      hint: Knowledge rating
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      - Did not interact with staff
+      required: false
+    - id: 16
+      name: value_for_money
+      label: How Would You Rate the Value for Money
+      hint: Value rating
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      - Free admission
+      required: true
+    - id: 17
+      name: favorite_exhibit
+      label: What Was Your Favorite Exhibit or Animal
+      hint: Favorite
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: least_favorite
+      label: What Could Be Improved
+      hint: Least favorite
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: accessibility
+      label: How Would You Rate Accessibility
+      hint: Accessibility rating
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      - Not applicable
+      required: false
+    - id: 20
+      name: amenities
+      label: How Would You Rate Facilities and Amenities
+      hint: Restrooms, seating, etc.
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: false
+    - id: 21
+      name: likelihood_recommend
+      label: How Likely Are You to Recommend This Exhibit
+      hint: Recommendation likelihood
+      type: select_one
+      options:
+      - Very likely
+      - Somewhat likely
+      - Neutral
+      - Somewhat unlikely
+      - Very unlikely
+      required: true
+    - id: 22
+      name: return_visit
+      label: How Likely Are You to Return
+      hint: Return likelihood
+      type: select_one
+      options:
+      - Very likely
+      - Somewhat likely
+      - Neutral
+      - Somewhat unlikely
+      - Very unlikely
+      required: true
+    - id: 23
+      name: first_time
+      label: Is This Your First Visit
+      hint: Visit history
+      type: select_one
+      options:
+      - Yes - first time
+      - No - returning visitor
+      required: false
+    - id: 24
+      name: how_heard
+      label: How Did You Hear About Us
+      hint: Referral source
+      type: select_one
+      options:
+      - Website
+      - Social media
+      - Friend or family
+      - Tourism office
+      - Hotel concierge
+      - Advertisement
+      - Other
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Any Additional Comments or Suggestions
+      hint: Feedback
+      type: text
+      options: []
+      required: false

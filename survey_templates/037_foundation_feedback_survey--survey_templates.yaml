@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Foundation Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: suggestion
+      label: suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: program_participation
+      label: program participation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Not Applicable''}'
+      required: false
+    - id: 7
+      name: program_satisfaction
+      label: program satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: program_likely_to_participate
+      label: likely to participate
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Not Applicable''}'
+      required: false
+    - id: 9
+      name: program_why
+      label: why
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_info
+      label: contact info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: time_spent
+      label: time spent
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: date_spent
+      label: date spent
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: frequency
+      label: frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: other_comments
+      label: other comments
+      hint: null
+      type: text
+      options: []
+      required: false

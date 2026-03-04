@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Thailand Travel Experience Survey
+    pages:
+    - id: 1
+      name: satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: travel_date
+      label: Travel Date
+      hint: Please select a date
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: travel_duration
+      label: Travel Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: travel_team_size
+      label: Travel Team Size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: team_leaders
+      label: Team Leaders
+      hint: Select team leaders
+      type: select_multiple
+      options:
+      - John Smith
+      - Jane Doe
+      - Bob Johnson
+      required: true
+    - id: 6
+      name: team_members
+      label: Team Members
+      hint: Select team members
+      type: select_multiple
+      options:
+      - John Doe
+      - Jane Doe
+      - Bob Johnson
+      required: true
+    - id: 7
+      name: destinations
+      label: Destinations
+      hint: Select a destination
+      type: select_one
+      options:
+      - Bangkok
+      - Chiang Mai
+      - Ayutthaya
+      required: true
+    - id: 8
+      name: activities
+      label: Activities
+      hint: What were some of the activities you participated in?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: recommendations
+      label: Recommendations
+      hint: What would you recommend to improve our travel experience?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: satisfaction_comments
+      label: Satisfaction Comments
+      hint: Additional comments about your overall satisfaction
+      type: text
+      options: []
+      required: false

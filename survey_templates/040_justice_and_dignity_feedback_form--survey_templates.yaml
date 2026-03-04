@@ -1,0 +1,58 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Justice And Dignity Feedback Form
+    pages:
+    - id: 1
+      name: service_treatment
+      label: How was your service treatment?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Average
+      - Bad
+      - Very Bad
+      required: false
+    - id: 2
+      name: fairness
+      label: How fair were you treated?
+      hint: null
+      type: select_one
+      options:
+      - Very Fair
+      - Fairly Fair
+      - "\u0E1B\u0E23\u0E30\u0E01 \"Somewhat Unfair\""
+      - Unfair
+      - Very Unfair
+      required: false
+    - id: 3
+      name: follow_up
+      label: Were you approached for follow-up?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: contact_request
+      label: Would you like to contact the service staff?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

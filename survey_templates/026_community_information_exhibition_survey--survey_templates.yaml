@@ -1,0 +1,117 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Information Exhibition Survey
+    pages:
+      - id: 1
+        name: exhibition_topic
+        label: Name of the Exhibition or Exhibition Topic
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: attendee_name
+        label: Your Full Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: marketing_source
+        label: How did you find out about this exhibition?
+        hint: null
+        type: select_one
+        options:
+          - Social Media
+          - Local News or Newspaper
+          - Printed Flyer or Poster
+          - Word of Mouth
+          - Email Newsletter
+        required: true
+      - id: 4
+        name: overall_rating
+        label: Overall Exhibition Rating
+        hint: 1 - Poor, 5 - Excellent
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 5
+        name: info_clarity
+        label: Clarity and Readability of Information Provided
+        hint: e.g., Display boards, brochures
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 6
+        name: favorite_exhibit
+        label: What was the most interesting exhibit or display?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: least_favorite_exhibit
+        label: What was the least interesting exhibit or display?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: staff_rating
+        label: Professionalism and Helpfulness of Staff
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - N/A
+        required: true
+      - id: 9
+        name: future_suggestions
+        label: Suggestions for Future Exhibitions
+        hint: What topics or formats would you like to see next?
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: return_likelihood
+        label: How likely are you to attend a similar event in the future?
+        hint: null
+        type: select_one
+        options:
+          - Very Likely
+          - Likely
+          - Neutral
+          - Unlikely
+          - Very Unlikely
+        required: true
+      - id: 11
+        name: visit_date
+        label: Date of Visit
+        hint: null
+        type: date
+        options: []
+        required: true

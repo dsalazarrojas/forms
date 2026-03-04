@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Paper Reduction Ideas Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: paper_usage
+      label: paper_usage
+      hint: Enter a number
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: idea
+      label: ideas
+      hint: null
+      type: select_one
+      options:
+      - Option1
+      - Option2
+      - Option3
+      required: true
+    - id: 5
+      name: idea_details
+      label: idea_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: idea_details_1
+      label: additional_info_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: idea_details_2
+      label: additional_info_2
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,230 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Body Outline Documentation Survey
+    pages:
+      - id: 1
+        name: documentation_date
+        label: Documentation Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: documentation_time
+        label: Documentation Time
+        hint: null
+        type: time
+        options: []
+        required: true
+      - id: 3
+        name: documenter_name
+        label: Documenter Name
+        hint: Person creating documentation
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: documenter_title
+        label: Documenter Title or Role
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: subject_name
+        label: Subject Name
+        hint: Person being documented
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: subject_identifier
+        label: Subject Identifier
+        hint: Patient ID, Employee ID, etc
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: documentation_purpose
+        label: Purpose of Documentation
+        hint: null
+        type: select_one
+        options:
+          - Initial Intake Assessment
+          - Injury Documentation
+          - Medical Examination
+          - Legal Record
+          - Insurance Claim
+          - Suspected Abuse Report
+          - Routine Assessment
+          - Follow-up Examination
+          - Other
+        required: true
+      - id: 8
+        name: head_and_face_findings
+        label: Head and Face Findings
+        hint: Document any marks, bruises, or injuries
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: neck_findings
+        label: Neck Findings
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: upper_extremities_findings
+        label: Upper Extremities Findings
+        hint: Arms, hands, shoulders
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: chest_and_torso_findings
+        label: Chest and Torso Findings
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: abdomen_findings
+        label: Abdomen Findings
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: genitalia_findings
+        label: Genitalia Findings
+        hint: If applicable and relevant
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: lower_extremities_findings
+        label: Lower Extremities Findings
+        hint: Legs, feet, ankles
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: back_findings
+        label: Back Findings
+        hint: Posterior examination
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: overall_body_observations
+        label: Overall Body Observations
+        hint: General assessment of findings
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: injury_type
+        label: Type of Injury or Condition
+        hint: null
+        type: select_multiple
+        options:
+          - Bruises
+          - Lacerations
+          - Burns
+          - Fractures
+          - Contusions
+          - Abrasions
+          - Scarring
+          - Swelling
+          - Other
+        required: false
+      - id: 18
+        name: injury_severity
+        label: Overall Injury Severity
+        hint: null
+        type: select_one
+        options:
+          - Minor
+          - Moderate
+          - Severe
+          - Critical
+          - No Injuries
+        required: true
+      - id: 19
+        name: pattern_of_injuries
+        label: Pattern or Clustering of Injuries
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: photographic_documentation
+        label: Photographic Documentation
+        hint: Were photos taken
+        type: select_one
+        options:
+          - Yes - Photos Attached
+          - Yes - Photos Taken Separately
+          - No - Not Taken
+          - No - Subject Refused
+          - Not Applicable
+        required: false
+      - id: 21
+        name: measurements_recorded
+        label: Measurements Recorded
+        hint: Size of injuries documented
+        type: select_one
+        options:
+          - Yes - Detailed Measurements
+          - Yes - General Measurements
+          - No - Not Recorded
+        required: false
+      - id: 22
+        name: subject_statement
+        label: Subject Statement Regarding Injuries
+        hint: What did the subject report
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: suspected_cause
+        label: Suspected Cause of Injuries
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: referral_or_reporting
+        label: Referral or Reporting Action
+        hint: null
+        type: select_one
+        options:
+          - Referred to Medical Care
+          - Referred to Counseling
+          - Reported to Authorities
+          - No Referral Needed
+          - Pending Decision
+        required: true
+      - id: 25
+        name: documentation_completion_acknowledgment
+        label: I acknowledge this documentation is accurate
+        hint: null
+        type: select_one
+        options:
+          - I Acknowledge
+          - I Do Not Acknowledge
+          - Subject Also Acknowledges
+        required: true

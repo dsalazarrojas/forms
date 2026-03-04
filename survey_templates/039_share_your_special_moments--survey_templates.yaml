@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: share_your_special_moments
+    pages:
+    - id: 1
+      name: share_your_special_moment
+      label: share_your_special_moment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: share_your_special_moment_1
+      label: share_your_story
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: share_your_special_moment_2
+      label: what_happened_next
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: special_people_involved
+      label: people_involved
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: special_place_visited
+      label: place_visited
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: special_thing_happened
+      label: thing_happened
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: special_date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: special_time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: special_memory_type
+      label: memory_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''photo''}'
+      - '{''id'': 2, ''label'': ''video''}'
+      - '{''id'': 3, ''label'': ''text''}'
+      required: false
+    - id: 10
+      name: special_comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

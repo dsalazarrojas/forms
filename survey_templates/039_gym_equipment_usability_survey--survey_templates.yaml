@@ -1,0 +1,76 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Gym Equipment Usability Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: equipment_usability
+      label: How often do you use the equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Rarely
+      - Occasionally
+      - Often
+      required: false
+    - id: 3
+      name: equipment_availability
+      label: How often is the equipment available
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Sometimes
+      - Never
+      required: false
+    - id: 4
+      name: facility_improvements
+      label: What would you like to see improved
+      hint: null
+      type: select_multiple
+      options:
+      - Equipment
+      - Flooring
+      - Hours of operation
+      - Other
+      - 'Other: ____________________'
+      required: false
+    - id: 5
+      name: other_improvement
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: introduction2
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: thank_you
+      label: Thank you
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: pomodoro_technique_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: background
+      label: background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pomodoro_sessions
+      label: POMODORO_SESSIONS
+      hint: How many pomodoro sessions do you usually have per day?
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: session_length
+      label: session_length
+      hint: What is the average length of your POMODORO sessions?
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: breaks
+      label: BREAKS
+      hint: How many breaks do you usually take in between your POMODORO sessions?
+      type: select_one
+      options:
+      - Pomodoro sessions with no breaks
+      - Pomodoro sessions with 5-10 minute breaks
+      - Pomodoro sessions with 15-30 minute breaks
+      - Pomodoro sessions with 30-60 minute breaks
+      - Other (please specify)
+      required: false
+    - id: 6
+      name: breaks_frequency
+      label: breaks_frequency
+      hint: How often do you usually take breaks during your POMODORO sessions?
+      type: select_one
+      options:
+      - Before each session
+      - Every 25% of sessions
+      - Every 50% of sessions
+      - Every session
+      - Other (please specify)
+      required: false
+    - id: 7
+      name: focus
+      label: FOCUS
+      hint: How focused do you feel during your POMODORO sessions?
+      type: select_one
+      options:
+      - Not at all
+      - Somewhat
+      - Somewhat focused
+      - Very focused
+      - Extremely focused
+      required: false
+    - id: 8
+      name: productivity
+      label: productivity
+      hint: How productive do you feel during your POMODORO sessions?
+      type: select_one
+      options:
+      - Not productive at all
+      - Somewhat productive
+      - Somewhat productive
+      - Very productive
+      - Extremely productive
+      required: false
+    - id: 9
+      name: satisfaction
+      label: satisfaction
+      hint: How satisfied are you with the POMODORO Technique?
+      type: select_one
+      options:
+      - Not satisfied at all
+      - Somewhat satisfied
+      - Somewhat satisfied
+      - Very satisfied
+      - Extremely satisfied
+      required: false
+    - id: 10
+      name: recommend
+      label: RECOMMEND
+      hint: Do you recommend the POMODORO Technique to others?
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: comment
+      label: comments
+      hint: Is there anything else you would like to add or suggest related to the
+        POMODORO Technique?
+      type: text
+      options: []
+      required: false

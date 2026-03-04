@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: self_reflection_survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: self_reflection_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: self_improvement_goals
+      label: self_improvement_goals
+      hint: null
+      type: select_multiple
+      options:
+      - Career Development
+      - Financial Management
+      - Health and Wellness
+      - Personal Growth
+      required: false
+    - id: 3
+      name: self_reflection_frequency
+      label: how_often
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Occasionally
+      - Daily
+      - Weekly
+      - Monthly
+      - Yearly
+      required: false
+    - id: 4
+      name: self_reflection_time
+      label: how_long
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: self_reflection_notes
+      label: self_reflection_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: self_reflection_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: self_reflection_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: self_reflection_comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false

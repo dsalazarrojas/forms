@@ -1,0 +1,260 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Operations Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Respondent Name
+        hint: Your full name - optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: department
+        label: Department
+        hint: Your department
+        type: select_one
+        options:
+          - Operations
+          - Administration
+          - Finance
+          - Human Resources
+          - IT
+          - Sales
+          - Marketing
+          - Customer Service
+          - Executive
+          - Other
+        required: true
+      - id: 3
+        name: role_level
+        label: Role Level
+        hint: Your level in organization
+        type: select_one
+        options:
+          - Entry level
+          - Individual contributor
+          - Team lead
+          - Manager
+          - Senior manager
+          - Director
+          - Executive
+        required: true
+      - id: 4
+        name: tenure
+        label: Time with Company
+        hint: How long have you worked here
+        type: select_one
+        options:
+          - Less than 6 months
+          - 6 months to 1 year
+          - 1 to 3 years
+          - 3 to 5 years
+          - 5 to 10 years
+          - Over 10 years
+        required: true
+      - id: 5
+        name: process_efficiency_rating
+        label: Process Efficiency Rating
+        hint: Rate overall process efficiency
+        type: select_one
+        options:
+          - Excellent
+          - Very good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 6
+        name: communication_effectiveness
+        label: Communication Effectiveness
+        hint: Rate internal communication
+        type: select_one
+        options:
+          - Excellent
+          - Very good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 7
+        name: resource_availability
+        label: Resource Availability
+        hint: Do you have resources needed
+        type: select_one
+        options:
+          - Always have what I need
+          - Usually have what I need
+          - Sometimes have what I need
+          - Rarely have what I need
+          - Never have what I need
+        required: true
+      - id: 8
+        name: technology_tools_rating
+        label: Technology and Tools Rating
+        hint: Rate the technology and tools provided
+        type: select_one
+        options:
+          - Excellent
+          - Very good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 9
+        name: workflow_bottlenecks
+        label: Workflow Bottlenecks
+        hint: Where do bottlenecks occur
+        type: select_multiple
+        options:
+          - Approval processes
+          - Inter-departmental handoffs
+          - Resource constraints
+          - Technology limitations
+          - Communication gaps
+          - Unclear responsibilities
+          - None identified
+        required: true
+      - id: 10
+        name: process_improvement_suggestions
+        label: Process Improvement Suggestions
+        hint: What processes need improvement
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: cross_department_collaboration
+        label: Cross-Department Collaboration
+        hint: Rate collaboration across departments
+        type: select_one
+        options:
+          - Excellent
+          - Very good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 12
+        name: decision_making_speed
+        label: Decision Making Speed
+        hint: How would you rate decision making
+        type: select_one
+        options:
+          - Very fast
+          - Fast
+          - Average
+          - Slow
+          - Very slow
+        required: true
+      - id: 13
+        name: quality_standards
+        label: Quality Standards
+        hint: Are quality standards clear and met
+        type: select_one
+        options:
+          - Yes - clear and consistently met
+          - Yes - clear but not always met
+          - Somewhat - could be clearer
+          - No - standards unclear
+        required: true
+      - id: 14
+        name: customer_satisfaction_focus
+        label: Customer Satisfaction Focus
+        hint: How well does the organization focus on customers
+        type: select_one
+        options:
+          - Excellent focus
+          - Good focus
+          - Average focus
+          - Limited focus
+          - Poor focus
+        required: true
+      - id: 15
+        name: performance_metrics_clarity
+        label: Performance Metrics Clarity
+        hint: Are performance metrics clear
+        type: select_one
+        options:
+          - Very clear
+          - Clear
+          - Somewhat clear
+          - Unclear
+          - Very unclear
+        required: true
+      - id: 16
+        name: training_development_adequacy
+        label: Training and Development Adequacy
+        hint: Is training adequate for your role
+        type: select_one
+        options:
+          - More than adequate
+          - Adequate
+          - Somewhat adequate
+          - Inadequate
+          - Very inadequate
+        required: true
+      - id: 17
+        name: biggest_operational_challenges
+        label: Biggest Operational Challenges
+        hint: Select all major challenges
+        type: select_multiple
+        options:
+          - Staffing levels
+          - Process complexity
+          - Technology issues
+          - Budget constraints
+          - Time constraints
+          - Quality issues
+          - Communication problems
+          - Leadership direction
+        required: true
+      - id: 18
+        name: automation_opportunities
+        label: Automation Opportunities
+        hint: What tasks could be automated
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: employee_engagement
+        label: Employee Engagement Level
+        hint: How engaged do you feel
+        type: select_one
+        options:
+          - Very engaged
+          - Engaged
+          - Neutral
+          - Disengaged
+          - Very disengaged
+        required: true
+      - id: 20
+        name: would_recommend_company
+        label: Would Recommend Company
+        hint: Would you recommend working here
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Not sure
+          - Probably no
+          - Definitely no
+        required: true
+      - id: 21
+        name: additional_feedback
+        label: Additional Feedback
+        hint: Any other operational feedback
+        type: text
+        options: []
+        required: false

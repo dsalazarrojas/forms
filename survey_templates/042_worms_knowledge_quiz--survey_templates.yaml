@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Worms Knowledge Quiz
+    pages:
+    - id: 1
+      name: form_1
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_2
+      label: quiz
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: form_3
+      label: submission
+      hint: null
+      type: text
+      options: []
+      required: false

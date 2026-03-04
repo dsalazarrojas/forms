@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Movie Rental Survey
+    pages:
+    - id: 1
+      name: home_page
+      label: home-page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: movie_preference
+      label: movie-preference
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: favorite_movies
+      label: favorite-movies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: watch_again
+      label: watch-again
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false

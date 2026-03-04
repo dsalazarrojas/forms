@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: field-research-documentation-evaluation-form
+    pages:
+    - id: 1
+      name: researcher_name
+      label: researcher-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: research_question
+      label: research-question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: data_collection_method
+      label: data-collection-method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: data_collection_tool
+      label: data-collection-tool
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: evaluation_criteria
+      label: evaluation-criteria
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback_sources
+      label: feedback-sources
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: data_quality
+      label: data-quality
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 8
+      name: research_outcomes
+      label: research-outcomes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: research_challenges
+      label: research-challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: research_benefits
+      label: research-benefits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: research_limitations
+      label: research-limitations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: researcher_notes
+      label: researcher-notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: research_duration
+      label: research-duration
+      hint: null
+      type: time
+      options: []
+      required: false

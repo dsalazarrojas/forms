@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: inclusive_wellness_program_feedback_survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: 'Format: [name@email.com]'
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback_date
+      label: Feedback Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time_of_day
+      label: Time of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: select_program_area
+      label: Select Program Area
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Wellness''}'
+      - '{''id'': 2, ''label'': ''Mindfulness''}'
+      - '{''id'': 3, ''label'': ''Self-Care''}'
+      - '{''id'': 4, ''label'': ''Nutrition''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: true
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: rating
+      label: Rating (1-5)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: suggestions
+      label: Suggest Improvements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up
+      label: Would You Like To Receive Follow-Up Materials or Communications
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Unsure''}'
+      required: true
+    - id: 11
+      name: contact_method
+      label: How Would You Prefer to Receive Contact
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Email''}'
+      - '{''id'': 2, ''label'': ''Phone''}'
+      - '{''id'': 3, ''label'': ''In Person''}'
+      required: false

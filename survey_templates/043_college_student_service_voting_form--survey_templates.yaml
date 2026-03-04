@@ -1,0 +1,230 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: College Student Service Voting Form
+    pages:
+      - id: 1
+        name: student_id
+        label: Student ID Number
+        hint: Optional - for tracking purposes only
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: student_email
+        label: Email Address
+        hint: For survey verification
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: year_in_school
+        label: Year in School
+        hint: null
+        type: select_one
+        options:
+          - Freshman
+          - Sophomore
+          - Junior
+          - Senior
+          - Graduate
+          - Other
+        required: true
+      - id: 4
+        name: survey_intro
+        label: -- Campus Services Voting and Feedback --
+        hint: Please rate your satisfaction with student services
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: dining_services_satisfaction
+        label: Dining Services Satisfaction
+        hint: Cafeteria, restaurants, food quality
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 6
+        name: library_services_satisfaction
+        label: Library Services Satisfaction
+        hint: Resources, staff, study spaces
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 7
+        name: it_tech_support_satisfaction
+        label: IT and Technology Support
+        hint: Tech services, computer labs, WiFi
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 8
+        name: health_wellness_satisfaction
+        label: Health and Wellness Services
+        hint: Health center, counseling, fitness
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 9
+        name: student_housing_satisfaction
+        label: Student Housing Services
+        hint: Dorms, maintenance, conditions
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+          - N/A
+        required: true
+      - id: 10
+        name: academic_advising_satisfaction
+        label: Academic Advising Services
+        hint: Advisor availability and helpfulness
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 11
+        name: career_services_satisfaction
+        label: Career Services and Job Placement
+        hint: Internships, job fairs, resume help
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 12
+        name: student_activities_satisfaction
+        label: Student Activities and Clubs
+        hint: Variety and engagement opportunities
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 13
+        name: recreation_satisfaction
+        label: Recreation and Athletics
+        hint: Gym, sports facilities, programs
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 14
+        name: priority_improvements
+        label: Service Improvement Priorities
+        hint: Select top 3 priorities
+        type: select_multiple
+        options:
+          - Dining Services
+          - Library Services
+          - Technology Support
+          - Health Services
+          - Housing Conditions
+          - Academic Advising
+          - Career Services
+          - Student Activities
+        required: true
+      - id: 15
+        name: most_needed_service
+        label: Most Needed New Service or Resource
+        hint: What service would benefit students most
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: service_quality_trend
+        label: Overall quality of student services this year
+        hint: Compared to last year
+        type: select_one
+        options:
+          - Significantly Better
+          - Better
+          - Same
+          - Worse
+          - Significantly Worse
+        required: true
+      - id: 17
+        name: communication_effectiveness
+        label: Effectiveness of service communications
+        hint: How well are services promoted
+        type: select_one
+        options:
+          - Very Effective
+          - Effective
+          - Adequate
+          - Ineffective
+          - Very Ineffective
+        required: true
+      - id: 18
+        name: additional_feedback_suggestions
+        label: Additional Feedback or Suggestions
+        hint: Specific improvements or concerns
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: feedback_action
+        label: May we contact you for follow-up questions
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: true
+      - id: 20
+        name: survey_completion
+        label: Survey Completion Consent
+        hint: I have answered honestly and completely
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: true

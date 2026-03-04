@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ancient Architecture Quiz
+    pages:
+    - id: 1
+      name: section_quiz_header
+      label: -- Ancient Architecture Quiz --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: section_quiz_questions
+      label: -- Quiz Questions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: parthenon_location
+      label: In which city is the Parthenon located?
+      hint: null
+      type: select_one
+      options:
+      - Athens
+      - Rome
+      - Alexandria
+      - Istanbul
+      required: true
+    - id: 6
+      name: colosseum_primary_use
+      label: What was the primary use of the Roman Colosseum?
+      hint: null
+      type: select_one
+      options:
+      - Gladiatorial Games
+      - Religious Ceremonies
+      - Market Place
+      - Theater
+      required: true
+    - id: 7
+      name: mesopotamian_architectural_features
+      label: Which of these are features of Mesopotamian architecture?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Ziggurats
+      - Mud Bricks
+      - Arches
+      - Glass Windows
+      - Steel Columns
+      required: true
+    - id: 8
+      name: great_wall_of_china_dynasty
+      label: Which dynasty began the construction of the Great Wall of China?
+      hint: null
+      type: select_one
+      options:
+      - Qin
+      - Han
+      - Ming
+      - Tang
+      required: true
+    - id: 9
+      name: year_the_great_pyramid_was_completed_bc
+      label: Approximately what year was the Great Pyramid of Giza completed (BC)?
+      hint: Enter numbers only
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: purpose_of_stonehenge
+      label: What is a widely accepted theory for the purpose of Stonehenge?
+      hint: null
+      type: select_one
+      options:
+      - Astronomical Observatory
+      - Burial Site
+      - Market
+      - Palace
+      required: true
+    - id: 11
+      name: describe_the_roman_arch_impact
+      label: Briefly describe the impact of the Roman Arch on ancient construction.
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_finalize
+      label: -- Finalize --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: send_score_immediately
+      label: Would you like to see your score immediately after submission?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

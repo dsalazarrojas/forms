@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Human Rights Literacy Level Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: questions
+      label: Questions
+      hint: Please answer the following questions
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: awareness
+      label: Awareness
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''High''}'
+      - '{''text'': ''Medium''}'
+      - '{''text'': ''Low''}'
+      required: false
+    - id: 4
+      name: attitudes
+      label: Attitudes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: engagement
+      label: Engagement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: conclusion
+      label: Conclusion
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: demographics
+      label: Demographics
+      hint: null
+      type: text
+      options: []
+      required: false

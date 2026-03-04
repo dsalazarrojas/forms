@@ -1,0 +1,479 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Amorphous Solar Cells Survey
+    pages:
+    - id: 1
+      name: section_introduction
+      label: -- Amorphous Solar Cells Survey --
+      hint: This survey collects feedback on amorphous solar cell technology from professionals, students, and consumers.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: section_respondent_info
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: respondent_type
+      label: What Best Describes You
+      hint: null
+      type: select_one
+      options:
+      - Industry professional
+      - Researcher/Scientist
+      - Student
+      - Consumer/Homeowner
+      - Investor
+      - Policy maker
+      - Other
+      required: true
+    - id: 4
+      name: field_of_work
+      label: Field of Work/Study
+      hint: null
+      type: select_one
+      options:
+      - Renewable energy
+      - Engineering
+      - Physics
+      - Materials science
+      - Environmental science
+      - Business/Finance
+      - Policy/Government
+      - Other
+      required: false
+    - id: 5
+      name: years_experience
+      label: Years of Experience in Field
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 4-7 years
+      - 8-15 years
+      - More than 15 years
+      - Not applicable
+      required: false
+    - id: 6
+      name: section_familiarity
+      label: -- Familiarity with Technology --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: familiarity_level
+      label: How Familiar Are You with Amorphous Solar Cells
+      hint: null
+      type: select_one
+      options:
+      - Very familiar - Expert knowledge
+      - Familiar - Good understanding
+      - Somewhat familiar - Basic knowledge
+      - Slightly familiar - Heard of it
+      - Not familiar at all
+      required: true
+    - id: 8
+      name: knowledge_sources
+      label: Sources of Information
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Academic journals
+      - Industry publications
+      - Conferences
+      - Online research
+      - Colleagues
+      - Training programs
+      - News media
+      - Other
+      required: false
+    - id: 9
+      name: section_technical_understanding
+      label: -- Technical Understanding --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: understand_advantages
+      label: Do You Understand the Advantages of Amorphous Solar Cells
+      hint: null
+      type: select_one
+      options:
+      - Yes - Completely
+      - Yes - Mostly
+      - Somewhat
+      - No - Not really
+      - No - Not at all
+      required: false
+    - id: 11
+      name: advantages_known
+      label: What Advantages Are You Aware Of
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Lower manufacturing cost
+      - Flexible applications
+      - Better low-light performance
+      - Lightweight
+      - Less material required
+      - Easier production
+      - Other
+      - None
+      required: false
+    - id: 12
+      name: understand_disadvantages
+      label: Do You Understand the Disadvantages
+      hint: null
+      type: select_one
+      options:
+      - Yes - Completely
+      - Yes - Mostly
+      - Somewhat
+      - No - Not really
+      - No - Not at all
+      required: false
+    - id: 13
+      name: disadvantages_known
+      label: What Disadvantages Are You Aware Of
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Lower efficiency
+      - Degradation over time
+      - Limited lifespan
+      - Temperature sensitivity
+      - Limited applications
+      - Higher long-term cost
+      - Other
+      - None
+      required: false
+    - id: 14
+      name: section_comparison
+      label: -- Comparison with Other Technologies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: compared_to_crystalline
+      label: How Does Amorphous Compare to Crystalline Silicon
+      hint: null
+      type: select_one
+      options:
+      - Much better
+      - Somewhat better
+      - About the same
+      - Somewhat worse
+      - Much worse
+      - Do not know
+      required: false
+    - id: 16
+      name: compared_to_thin_film
+      label: How Does Amorphous Compare to Other Thin-Film
+      hint: null
+      type: select_one
+      options:
+      - Much better
+      - Somewhat better
+      - About the same
+      - Somewhat worse
+      - Much worse
+      - Do not know
+      required: false
+    - id: 17
+      name: best_application
+      label: Best Application for Amorphous Solar Cells
+      hint: null
+      type: select_one
+      options:
+      - Residential rooftops
+      - Commercial buildings
+      - Portable devices
+      - Building-integrated PV
+      - Utility-scale
+      - Remote/off-grid
+      - Consumer electronics
+      - Other
+      required: false
+    - id: 18
+      name: section_satisfaction
+      label: -- Satisfaction (If User) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: have_used
+      label: Have You Used Amorphous Solar Cell Products
+      hint: null
+      type: select_one
+      options:
+      - Yes - Currently using
+      - Yes - Previously used
+      - No - Never used
+      required: true
+    - id: 20
+      name: product_type
+      label: What Type of Product
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: usage_duration
+      label: Duration of Use
+      hint: If applicable
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6 months - 1 year
+      - 1-3 years
+      - 3-5 years
+      - More than 5 years
+      - Not applicable
+      required: false
+    - id: 22
+      name: performance_satisfaction
+      label: Satisfaction with Performance
+      hint: If applicable
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      - Not applicable
+      required: false
+    - id: 23
+      name: value_satisfaction
+      label: Satisfaction with Value for Money
+      hint: If applicable
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      - Not applicable
+      required: false
+    - id: 24
+      name: reliability_rating
+      label: Reliability Rating
+      hint: If applicable
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      - Not applicable
+      required: false
+    - id: 25
+      name: section_perception
+      label: -- Perception and Attitudes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: future_potential
+      label: What Is the Future Potential of This Technology
+      hint: null
+      type: select_one
+      options:
+      - Very high potential
+      - High potential
+      - Moderate potential
+      - Low potential
+      - Very low potential
+      required: true
+    - id: 27
+      name: investment_worthiness
+      label: Is It Worth Investing In
+      hint: null
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Neutral
+      - Probably not
+      - Definitely not
+      required: false
+    - id: 28
+      name: recommend_to_others
+      label: Would You Recommend to Others
+      hint: null
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Neutral
+      - Probably not
+      - Definitely not
+      - Not applicable
+      required: false
+    - id: 29
+      name: section_concerns
+      label: -- Concerns and Barriers --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: main_concerns
+      label: What Are Your Main Concerns
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Efficiency
+      - Durability
+      - Cost
+      - Lifespan
+      - Maintenance
+      - Aesthetics
+      - Environmental impact
+      - Recycling/disposal
+      - Performance in my climate
+      - Other
+      required: false
+    - id: 31
+      name: adoption_barriers
+      label: What Barriers Prevent Adoption
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - High initial cost
+      - Lack of information
+      - Limited availability
+      - Technical concerns
+      - Aesthetic concerns
+      - Regulatory issues
+      - Installer availability
+      - Warranty concerns
+      - Other
+      - None
+      required: false
+    - id: 32
+      name: section_market
+      label: -- Market and Industry --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: market_awareness
+      label: How Would You Rate Market Awareness
+      hint: Of amorphous solar technology
+      type: select_one
+      options:
+      - Very high
+      - High
+      - Moderate
+      - Low
+      - Very low
+      required: false
+    - id: 34
+      name: government_support
+      label: Is There Adequate Government Support
+      hint: null
+      type: select_one
+      options:
+      - Yes - More than adequate
+      - Yes - Adequate
+      - Neutral
+      - No - Inadequate
+      - No - Very inadequate
+      required: false
+    - id: 35
+      name: industry_growth
+      label: How Do You See Industry Growth
+      hint: Next 5 years
+      type: select_one
+      options:
+      - Rapid growth
+      - Moderate growth
+      - Slow growth
+      - No growth
+      - Decline
+      required: false
+    - id: 36
+      name: section_research
+      label: -- Research and Development --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 37
+      name: research_priority
+      label: What Should Research Focus On
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Improving efficiency
+      - Extending lifespan
+      - Reducing costs
+      - Better materials
+      - Manufacturing processes
+      - Recycling methods
+      - New applications
+      - Energy storage integration
+      - Other
+      required: false
+    - id: 38
+      name: section_additional
+      label: -- Additional Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 39
+      name: interested_in_updates
+      label: Interested in Technology Updates
+      hint: null
+      type: select_one
+      options:
+      - Yes - Please send updates
+      - No - Not interested
+      required: false
+    - id: 40
+      name: email_updates
+      label: Email for Updates
+      hint: If yes
+      type: email
+      options: []
+      required: false
+    - id: 41
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other thoughts
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: suggestions
+      label: Suggestions for Industry
+      hint: null
+      type: text
+      options: []
+      required: false

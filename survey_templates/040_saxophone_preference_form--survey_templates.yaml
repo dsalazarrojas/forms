@@ -1,0 +1,32 @@
+inputSchema:
+  type: object
+  properties:
+    title: Saxophone Preference Form
+    pages:
+    - id: 1
+      name: alto_sax
+      label: Alto Sax
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: tenor_sax
+      label: Tenor Sax
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: baritone_sax
+      label: Baritone Sax
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

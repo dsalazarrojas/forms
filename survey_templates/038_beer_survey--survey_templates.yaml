@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beer Survey
+    pages:
+    - id: 1
+      name: section_drinking_habits
+      label: -- Your Beer Habits --
+      hint: help us understand your preferences
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: consumption_frequency
+      label: How often do you enjoy a beer?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - 3-5 times per week
+      - Weekends only
+      - Occasionally
+      - Rarely
+      required: true
+    - id: 3
+      name: preferred_beer_styles
+      label: What are your favorite beer styles?
+      hint: Select up to 3
+      type: select_multiple
+      options:
+      - Lager / Pilsner
+      - IPA (India Pale Ale)
+      - Stout / Porter
+      - Wheat / Hefeweizen
+      - Sour / Lambic
+      - Pale Ale
+      - Belgian Styles
+      required: true
+    - id: 4
+      name: selection_criteria
+      label: What is the most important factor when choosing a beer?
+      hint: null
+      type: select_one
+      options:
+      - Brand Reputation
+      - Flavor Profile
+      - Alcohol Content (ABV)
+      - Price
+      - Package Design / Labels
+      - Local / Craft status
+      required: true
+    - id: 5
+      name: section_brewery_feedback
+      label: -- Brewery Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: favorite_local_brewery
+      label: What is your favorite local brewery?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: brewery_atmosphere_rating
+      label: How important is brewery atmosphere to your experience?
+      hint: 1 to 5 scale
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: taproom_service_quality
+      label: Rate the average service quality in taprooms you visit
+      hint: 1 to 5 scale
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: section_pricing_value
+      label: -- Pricing and Value --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: acceptable_price_6pack
+      label: What is an acceptable price for a premium craft 6-pack?
+      hint: null
+      type: select_one
+      options:
+      - Under $10
+      - $10 - $13
+      - $14 - $17
+      - Over $18
+      required: true
+    - id: 11
+      name: value_perception_craft
+      label: Do you feel craft beer provides good value compared to mass-market beer?
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Sometimes
+      - false
+      required: true
+    - id: 12
+      name: section_future_trends
+      label: -- Future Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: interest_in_na_beer
+      label: How interested are you in Non-Alcoholic (NA) craft beer?
+      hint: null
+      type: select_one
+      options:
+      - Very Interested
+      - Somewhat Interested
+      - Neutral
+      - Not Interested
+      required: true
+    - id: 14
+      name: desired_seasonal_flavors
+      label: Which seasonal flavors do you look forward to most?
+      hint: null
+      type: select_multiple
+      options:
+      - Pumpkin / Fall Spices
+      - Summer Fruit (Citrus, Berry)
+      - Winter Warmers (Spices, Cacao)
+      - Spring Fresh (Floral, Herbal)
+      required: false
+    - id: 15
+      name: additional_suggestions_brewers
+      label: Any advice for brewers to improve their products?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: survey_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

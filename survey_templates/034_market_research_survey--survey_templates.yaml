@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: market_research_survey
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: market_segment
+      label: Target Market Segment
+      hint: Please choose the relevant market segment for your business.
+      type: select_multiple
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      required: true
+    - id: 4
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: survey_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_day
+      label: Time of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

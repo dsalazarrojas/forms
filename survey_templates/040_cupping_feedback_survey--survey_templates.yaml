@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cupping Feedback Survey
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question1
+      label: How do you rate the quality of service
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: question2
+      label: How likely are you to recommend
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: Client email address
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: Client phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: question3
+      label: How do you rate the value for money
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

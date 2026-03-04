@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: neurodiversity_in_learning_environments_survey
+    pages:
+    - id: 1
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: What category of education do you work in?
+      hint: null
+      type: select_one
+      options:
+      - primary
+      - secondary
+      - higher
+      required: false
+    - id: 3
+      name: role
+      label: What is your role in the school or university?
+      hint: null
+      type: select_multiple
+      options:
+      - student
+      - teacher
+      - staff
+      - other
+      required: false
+    - id: 4
+      name: support_neurodivergent_students
+      label: How well do you support neurodivergent students in your learning environment?
+      hint: null
+      type: select_one
+      options:
+      - excellent
+      - good
+      - fair
+      - poor
+      required: false
+    - id: 5
+      name: support_neurodivergent_students_comments
+      label: Comments about supporting neurodivergent students
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: accommodations_and_support_for_neurodivergent_students
+      label: What accommodations and support do you provide for neurodivergent students?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: accommodations_and_support_for_neurodivergent_students_comments
+      label: Comments about accommodations and support for neurodivergent students
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: neurodivergent_support_services
+      label: Are there any neurodivergent support services available at your school
+        or university?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: neurodivergent_support_services_comments
+      label: Comments about neurodivergent support services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: recommendations_for_improvement
+      label: What recommendations do you have for improving support for neurodivergent
+        students?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: recommendations_for_improvement_comments
+      label: Comments about recommendations for improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: contact_other
+      label: Other Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

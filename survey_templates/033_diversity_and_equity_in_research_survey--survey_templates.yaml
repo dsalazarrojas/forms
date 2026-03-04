@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Diversity And Equity In Research Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: diversity_index
+      label: What Is Your Experience With Diversity In The Research Environment
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Strongly Disagree''}'
+      - '{''value'': ''Somewhat Disagree''}'
+      - '{''value'': ''Neither''}'
+      - '{''value'': ''Somewhat Agree''}'
+      - '{''value'': ''Strongly Agree''}'
+      required: true
+    - id: 3
+      name: research_diversity
+      label: Research Diversities How Important Is It To Have A Diverse Research Team
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: equity_index
+      label: What Is Your Experience With Equity In The Research Environment
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Strongly Disagree''}'
+      - '{''value'': ''Somewhat Disagree''}'
+      - '{''value'': ''Neither''}'
+      - '{''value'': ''Somewhat Agree''}'
+      - '{''value'': ''Strongly Agree''}'
+      required: true
+    - id: 5
+      name: research_equity
+      label: Research Diversities How Important Is It To Have A Diverse Research Team
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: demographics
+      label: What Are Your Demographics
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''White''}'
+      - '{''value'': ''Asian''}'
+      - '{''value'': ''Black or African American''}'
+      - '{''value'': ''Hispanic or Latino''}'
+      - '{''value'': ''Native American or Alaskan Native''}'
+      required: true
+    - id: 7
+      name: department
+      label: What Department Do You Belong To
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Arts and Sciences''}'
+      - '{''value'': ''Engineering''}'
+      - '{''value'': ''Life Sciences''}'
+      - '{''value'': ''Social Sciences''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 8
+      name: suggestion
+      label: Do You Have Any Suggestions For Improving The Research Environment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_info
+      label: Please Provide Your Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false

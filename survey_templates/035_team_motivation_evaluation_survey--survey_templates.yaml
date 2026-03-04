@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Motivation Evaluation Survey
+    pages:
+    - id: 1
+      name: morale
+      label: Morale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: recognition
+      label: Recognition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: communication
+      label: Communication
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: workload
+      label: Workload
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: team_name
+      label: Team
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: evaluation_period
+      label: Evaluation Period
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: manager_name
+      label: Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: team_member_count
+      label: Team Members
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: team_size
+      label: Team Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: evaluation_score
+      label: Evaluation Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: team_motivation
+      label: Team Motivation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: team_performance
+      label: Team Performance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: employee_engagement
+      label: Employee Engagement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: manager_support
+      label: Manager Support
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: communication_effectiveness
+      label: Communication Effectiveness
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: job_satisfaction
+      label: Job Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 21
+      name: collaboration
+      label: Collaboration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: workload_balance
+      label: Workload Balance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: feedback_frequency
+      label: Feedback Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: employee_satisfaction
+      label: Employee Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 25
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 26
+      name: team_lead_name
+      label: Team Lead Name
+      hint: null
+      type: text
+      options: []
+      required: true

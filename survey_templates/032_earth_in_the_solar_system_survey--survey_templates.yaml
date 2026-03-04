@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Earth In The Solar System Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: Survey Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: planet_selected
+      label: planet
+      hint: null
+      type: select_multiple
+      options:
+      - Mars
+      - Jupiter
+      - Earth
+      - Venus
+      - Saturn
+      - Uranus
+      - Neptune
+      - Pluto
+      required: false
+    - id: 5
+      name: favorite_planet
+      label: favorite
+      hint: null
+      type: select_one
+      options:
+      - Mars
+      - Jupiter
+      - Earth
+      - Venus
+      - Saturn
+      - Uranus
+      - Pluto
+      - Mercury
+      required: false
+    - id: 6
+      name: question_1
+      label: question 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: question_2
+      label: question 2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: year_born
+      label: year
+      hint: Year born
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: month_born
+      label: month
+      hint: Month born
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: date_born
+      label: date
+      hint: Date born
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time_born
+      label: time
+      hint: Time born
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: planet_size
+      label: size
+      hint: null
+      type: number
+      options: []
+      required: false

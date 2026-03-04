@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Participant Feedback Form
+    pages:
+    - id: 1
+      name: participant_feedback_form
+      label: Participant Feedback Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Participant Email
+      hint: Participant email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: feedback_question_1
+      label: Feedback Question 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback_question_2
+      label: Feedback Question 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback_question_3
+      label: Feedback Question 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_comment
+      label: Participant Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: feedback_question_4
+      label: Feedback Question 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_feedback
+      label: Additional Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_rating
+      label: Participant Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: participant_recommend
+      label: Participant Recommend
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Somewhat Agree
+      - Neither Agree nor Disagree
+      - Somewhat Disagree
+      - Strongly Disagree
+      required: false
+    - id: 12
+      name: participant_will_recommend
+      label: Participant Will Recommend
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Reference Check Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: past_client
+      label: Past Client
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Unknown''}'
+      required: false
+    - id: 7
+      name: reference_name
+      label: Reference Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reference_title
+      label: Reference Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reference_contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: reference_contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

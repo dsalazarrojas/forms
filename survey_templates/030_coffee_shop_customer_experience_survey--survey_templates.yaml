@@ -1,0 +1,291 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Coffee Shop Customer Experience Survey
+    pages:
+      - id: 1
+        name: section_customer_info
+        label: -- Customer Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: visit_date
+        label: Date of Your Visit
+        hint: null
+        type: date
+        options: []
+        required: false
+      - id: 3
+        name: time_of_visit
+        label: Time of Visit
+        hint: When did you visit
+        type: select_one
+        options:
+          - Morning (6am-9am)
+          - Mid-morning (9am-12pm)
+          - Afternoon (12pm-5pm)
+          - Evening (5pm-8pm)
+          - Late evening (8pm+)
+        required: false
+      - id: 4
+        name: frequency
+        label: How often do you visit our coffee shop
+        hint: null
+        type: select_one
+        options:
+          - First time
+          - Once a month
+          - Few times a month
+          - Weekly
+          - Several times a week
+          - Daily
+        required: true
+      - id: 5
+        name: section_service
+        label: -- Service Experience --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: wait_time
+        label: Wait time at counter
+        hint: Rate from 1 - too long to 5 - very quick
+        type: select_one
+        options:
+          - "1 - Too long"
+          - "2 - Long"
+          - "3 - Reasonable"
+          - "4 - Quick"
+          - "5 - Very quick"
+        required: true
+      - id: 7
+        name: staff_friendliness
+        label: Staff friendliness and courtesy
+        hint: null
+        type: select_one
+        options:
+          - "1 - Unfriendly"
+          - "2 - Rude"
+          - "3 - Neutral"
+          - "4 - Friendly"
+          - "5 - Very friendly"
+        required: true
+      - id: 8
+        name: staff_knowledge
+        label: Staff knowledge about menu items
+        hint: null
+        type: select_one
+        options:
+          - "1 - Lacking"
+          - "2 - Fair"
+          - "3 - Good"
+          - "4 - Very knowledgeable"
+          - "5 - Expert"
+        required: true
+      - id: 9
+        name: order_accuracy
+        label: Order was made correctly
+        hint: null
+        type: select_one
+        options:
+          - "1 - Wrong order"
+          - "2 - Several errors"
+          - "3 - Minor error"
+          - "4 - Mostly correct"
+          - "5 - Perfect"
+        required: true
+      - id: 10
+        name: section_product
+        label: -- Product Quality --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: coffee_quality
+        label: Quality of coffee
+        hint: Rate from 1 - poor to 5 - excellent
+        type: select_one
+        options:
+          - "1 - Poor"
+          - "2 - Fair"
+          - "3 - Good"
+          - "4 - Very Good"
+          - "5 - Excellent"
+        required: true
+      - id: 12
+        name: drink_temperature
+        label: Temperature of your drink
+        hint: Was it at the right temperature
+        type: select_one
+        options:
+          - Too cold
+          - Cold
+          - Just right
+          - Hot
+          - Too hot
+        required: true
+      - id: 13
+        name: food_quality
+        label: Quality of food items
+        hint: If you purchased food
+        type: select_one
+        options:
+          - "1 - Poor"
+          - "2 - Fair"
+          - "3 - Good"
+          - "4 - Very Good"
+          - "5 - Excellent"
+        required: false
+      - id: 14
+        name: value_for_money
+        label: Value for money
+        hint: Was the price worth it
+        type: select_one
+        options:
+          - "1 - Poor value"
+          - "2 - Below average"
+          - "3 - Fair value"
+          - "4 - Good value"
+          - "5 - Excellent value"
+        required: true
+      - id: 15
+        name: section_atmosphere
+        label: -- Atmosphere and Ambiance --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: cleanliness
+        label: Cleanliness of the shop
+        hint: null
+        type: select_one
+        options:
+          - "1 - Dirty"
+          - "2 - Untidy"
+          - "3 - Acceptable"
+          - "4 - Clean"
+          - "5 - Very clean"
+        required: true
+      - id: 17
+        name: noise_level
+        label: Noise level
+        hint: Was the ambient noise appropriate
+        type: select_one
+        options:
+          - Too quiet
+          - Quiet
+          - Just right
+          - Loud
+          - Too loud
+        required: true
+      - id: 18
+        name: seating_comfort
+        label: Seating comfort
+        hint: null
+        type: select_one
+        options:
+          - "1 - Very uncomfortable"
+          - "2 - Uncomfortable"
+          - "3 - Adequate"
+          - "4 - Comfortable"
+          - "5 - Very comfortable"
+        required: true
+      - id: 19
+        name: wifi_access
+        label: WiFi availability and speed
+        hint: If you used WiFi
+        type: select_one
+        options:
+          - "1 - Not available"
+          - "2 - Poor"
+          - "3 - Adequate"
+          - "4 - Good"
+          - "5 - Excellent"
+        required: false
+      - id: 20
+        name: section_likelihood
+        label: -- Recommendation and Loyalty --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: recommend
+        label: Would you recommend this coffee shop
+        hint: null
+        type: select_one
+        options:
+          - "Yes, definitely"
+          - "Yes, probably"
+          - "Maybe"
+          - "No, probably not"
+          - "No, definitely not"
+        required: true
+      - id: 22
+        name: likelihood_return
+        label: Likelihood of returning
+        hint: Rate from 1 - unlikely to 5 - very likely
+        type: select_one
+        options:
+          - "1 - Very unlikely"
+          - "2 - Unlikely"
+          - "3 - Neutral"
+          - "4 - Likely"
+          - "5 - Very likely"
+        required: true
+      - id: 23
+        name: section_feedback
+        label: -- Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 24
+        name: what_liked_most
+        label: What did you like most about your visit
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: improvement_suggestions
+        label: Areas for improvement
+        hint: What could we do better
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: new_items
+        label: Suggestions for new menu items
+        hint: What would you like to see
+        type: text
+        options: []
+        required: false
+      - id: 27
+        name: overall_rating
+        label: Overall Rating
+        hint: Rate your overall experience
+        type: select_one
+        options:
+          - "1 - Poor"
+          - "2 - Fair"
+          - "3 - Good"
+          - "4 - Very Good"
+          - "5 - Excellent"
+        required: true

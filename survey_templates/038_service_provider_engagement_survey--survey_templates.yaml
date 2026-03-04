@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Provider Engagement Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: provider_rating
+      label: Service Provider Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: vendor_performance_rating
+      label: Overall Performance Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: communication_quality_rating
+      label: Communication Quality Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: timeliness_rating
+      label: Timeliness Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: recommendation
+      label: Recommendation or Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: service_quality
+      label: What did you like or dislike about the service?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: provider_rating_options
+      label: Service Provider Rating
+      hint: null
+      type: select_one
+      options:
+      - Very Poor
+      - Poor
+      - Average
+      - Good
+      - Excellent
+      required: true
+    - id: 12
+      name: vendor_performance_rating_options
+      label: Overall Performance Rating
+      hint: null
+      type: select_one
+      options:
+      - Very Poor
+      - Poor
+      - Average
+      - Good
+      - Excellent
+      required: true
+    - id: 13
+      name: communication_quality_rating_options
+      label: Communication Quality Rating
+      hint: null
+      type: select_one
+      options:
+      - Very Poor
+      - Poor
+      - Average
+      - Good
+      - Excellent
+      required: true
+    - id: 14
+      name: timeliness_rating_options
+      label: Timeliness Rating
+      hint: null
+      type: select_one
+      options:
+      - Very Poor
+      - Poor
+      - Average
+      - Good
+      - Excellent
+      required: true
+    - id: 15
+      name: overall_satisfaction_options
+      label: Overall Satisfaction Rating
+      hint: null
+      type: select_one
+      options:
+      - Very Unsatisfied
+      - Unsatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true

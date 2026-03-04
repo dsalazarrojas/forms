@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Preparedness Drill Evaluation Form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: observation_area_question
+      label: Was there a designated observation area?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 3
+      name: observation_area_description
+      label: What was observed in the observation area?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: communication_question
+      label: Was communication effective?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - Partially
+      - Not At All
+      required: false
+    - id: 5
+      name: communication_description
+      label: Can you explain?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: observation_area_visibility
+      label: Was the observation area visible to all?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: observation_area_size
+      label: What was the size of the observation area?
+      hint: null
+      type: select_one
+      options:
+      - Large
+      - Medium
+      - Small
+      - Other
+      required: false
+    - id: 8
+      name: observation_area_visibility_to_participants
+      label: Was the observation area visible to participants?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: communication_questionnaire
+      label: Was the communication questionnaire clear?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - Partially
+      - Not At All
+      - None
+      required: false
+    - id: 10
+      name: observation_area_equipment
+      label: What was in the observation area?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: observer_instructions
+      label: Were observer instructions clear?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - Partially
+      - Not At All
+      - None
+      required: false
+    - id: 12
+      name: observer_count
+      label: Observer count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: drill_time
+      label: Drill time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: observation_prophets
+      label: Observation prophets count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: participants_count
+      label: Participant count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: communication_questionnaire_type
+      label: Was there an observation area for the communication questionnaire?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: observation_area_location
+      label: Location of the observation area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: observation_area_equipment_description
+      label: Equipment in the observation area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: communication_questionnaire_visibility
+      label: Was the observation area for the communication questionnaire visible
+        to all?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

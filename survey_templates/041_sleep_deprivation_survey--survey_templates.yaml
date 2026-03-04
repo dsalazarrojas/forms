@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sleep Deprivation Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 4
+      name: occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: bedtime
+      label: Bedtime
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: wake_time
+      label: Wake Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: sleep_duration
+      label: Sleep Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: sleep_difficulties
+      label: sleep difficulties
+      hint: null
+      type: select_multiple
+      options:
+      - Difficulty sleeping
+      - Difficulty falling asleep
+      - Staying asleep
+      - Waking up too early
+      - Other
+      required: true
+    - id: 9
+      name: sleep_impact
+      label: Sleep impact
+      hint: null
+      type: select_one
+      options:
+      - Significant impact
+      - Some impact
+      - No impact
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false

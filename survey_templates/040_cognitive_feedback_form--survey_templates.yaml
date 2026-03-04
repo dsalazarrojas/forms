@@ -1,0 +1,268 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cognitive Feedback Form
+    pages:
+      - id: 1
+        name: section_participant
+        label: -- Participant Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: participant_name
+        label: Your Name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: session_date
+        label: Session Date
+        hint: Date of the cognitive session
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: session_type
+        label: Session Type
+        hint: Type of cognitive session
+        type: select_one
+        options:
+          - Training
+          - Assessment
+          - Coaching
+          - Workshop
+          - Other
+        required: true
+      - id: 6
+        name: section_experience
+        label: -- Session Experience --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: overall_satisfaction
+        label: Overall Satisfaction with Session
+        hint: Rate from 1 - very unsatisfied to 5 - very satisfied
+        type: select_one
+        options:
+          - "1 - Very unsatisfied"
+          - "2 - Unsatisfied"
+          - "3 - Neutral"
+          - "4 - Satisfied"
+          - "5 - Very satisfied"
+        required: true
+      - id: 8
+        name: content_relevance
+        label: Content Relevance to Your Needs
+        hint: null
+        type: select_one
+        options:
+          - "1 - Not relevant"
+          - "2 - Somewhat relevant"
+          - "3 - Moderately relevant"
+          - "4 - Very relevant"
+          - "5 - Highly relevant"
+        required: true
+      - id: 9
+        name: content_clarity
+        label: Clarity of Content
+        hint: Was the material easy to understand
+        type: select_one
+        options:
+          - "1 - Very unclear"
+          - "2 - Unclear"
+          - "3 - Somewhat clear"
+          - "4 - Clear"
+          - "5 - Very clear"
+        required: true
+      - id: 10
+        name: pace_appropriateness
+        label: Pace of the Session
+        hint: Was the speed appropriate
+        type: select_one
+        options:
+          - "1 - Too slow"
+          - "2 - Somewhat slow"
+          - "3 - Just right"
+          - "4 - Somewhat fast"
+          - "5 - Too fast"
+        required: true
+      - id: 11
+        name: engagement_level
+        label: Level of Engagement
+        hint: How engaged were you
+        type: select_one
+        options:
+          - "1 - Not engaged"
+          - "2 - Slightly engaged"
+          - "3 - Moderately engaged"
+          - "4 - Engaged"
+          - "5 - Highly engaged"
+        required: true
+      - id: 12
+        name: section_learning
+        label: -- Learning Outcomes --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: knowledge_gain
+        label: Knowledge or Skills Gained
+        hint: Did you learn something valuable
+        type: select_one
+        options:
+          - "1 - Nothing learned"
+          - "2 - Minimal learning"
+          - "3 - Some learning"
+          - "4 - Significant learning"
+          - "5 - Substantial learning"
+        required: true
+      - id: 14
+        name: practical_application
+        label: Ability to Apply What Was Learned
+        hint: Can you use this knowledge
+        type: select_one
+        options:
+          - "1 - Not applicable"
+          - "2 - Difficult to apply"
+          - "3 - Somewhat applicable"
+          - "4 - Applicable"
+          - "5 - Highly applicable"
+        required: true
+      - id: 15
+        name: confidence_improvement
+        label: Improvement in Confidence
+        hint: Increased confidence in cognitive skills
+        type: select_one
+        options:
+          - "1 - Decreased"
+          - "2 - No change"
+          - "3 - Slight improvement"
+          - "4 - Moderate improvement"
+          - "5 - Significant improvement"
+        required: true
+      - id: 16
+        name: section_facilitator
+        label: -- Facilitator Performance --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: facilitator_knowledge
+        label: Facilitator Knowledge and Expertise
+        hint: null
+        type: select_one
+        options:
+          - "1 - Poor"
+          - "2 - Fair"
+          - "3 - Good"
+          - "4 - Very Good"
+          - "5 - Excellent"
+        required: true
+      - id: 18
+        name: facilitator_communication
+        label: Communication and Teaching Skills
+        hint: null
+        type: select_one
+        options:
+          - "1 - Poor"
+          - "2 - Fair"
+          - "3 - Good"
+          - "4 - Very Good"
+          - "5 - Excellent"
+        required: true
+      - id: 19
+        name: facilitator_support
+        label: Support and Responsiveness
+        hint: How helpful was the facilitator
+        type: select_one
+        options:
+          - "1 - Not supportive"
+          - "2 - Somewhat supportive"
+          - "3 - Moderately supportive"
+          - "4 - Supportive"
+          - "5 - Very supportive"
+        required: true
+      - id: 20
+        name: section_resources
+        label: -- Resources and Materials --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: materials_quality
+        label: Quality of Materials Provided
+        hint: null
+        type: select_one
+        options:
+          - "1 - Poor quality"
+          - "2 - Fair quality"
+          - "3 - Good quality"
+          - "4 - Very good quality"
+          - "5 - Excellent quality"
+        required: true
+      - id: 22
+        name: materials_usefulness
+        label: Usefulness of Materials
+        hint: Will you use these materials again
+        type: select_one
+        options:
+          - "1 - Not useful"
+          - "2 - Slightly useful"
+          - "3 - Moderately useful"
+          - "4 - Useful"
+          - "5 - Highly useful"
+        required: true
+      - id: 23
+        name: section_feedback
+        label: -- Feedback and Suggestions --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 24
+        name: session_strengths
+        label: Strengths of the Session
+        hint: What went well
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: improvement_areas
+        label: Areas for Improvement
+        hint: What could be enhanced
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: future_sessions
+        label: Topics for Future Sessions
+        hint: What would you like to explore
+        type: text
+        options: []
+        required: false

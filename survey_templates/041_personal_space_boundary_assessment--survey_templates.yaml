@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Space Boundary Assessment
+    pages:
+    - id: 1
+      name: personal_space_boundary_assessment_form
+      label: Personal Space Boundary Assessment Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: comfort_levels
+      label: Personal Space Comfort Levels
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: true
+    - id: 3
+      name: boundary_preferences
+      label: Boundary Preferences
+      hint: What do you prefer?
+      type: select_multiple
+      options:
+      - '[{1: None, ''label'': ''None'', ''value'': 1}, {2: None, ''label'': ''Some'',
+        ''value'': 2}, {3: None, ''label'': ''Most'', ''value'': 3}]'
+      - Other
+      required: true
+    - id: 4
+      name: training_intake_workplace_classroom_norms
+      label: Training, Intake, Workplace or Classroom Norms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: counselor_or_educator
+      label: Who is the person completing this form?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Counselor'', ''value'': 1}'
+      - '{''label'': ''Educator'', ''value'': 2}'
+      - '{''label'': ''HR'', ''value'': 3}'
+      - '{''label'': ''Other'', ''value'': 4}'
+      required: true
+    - id: 6
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: jotform_jotform
+      label: Jotform
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: cancel
+      label: Cancel
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

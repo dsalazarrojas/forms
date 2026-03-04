@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Group Meeting Availability
+    pages:
+    - id: 1
+      name: group_meeting_availability_form
+      label: Meeting Availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: meeting_location
+      label: Meeting Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_zone_offset
+      label: Time Zone Offset
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: meeting_format
+      label: Meeting Format
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: attendees
+      label: Attendees
+      hint: null
+      type: text
+      options: []
+      required: false

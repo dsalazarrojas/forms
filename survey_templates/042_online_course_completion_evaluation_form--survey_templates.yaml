@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Course Completion Evaluation Form
+    pages:
+    - id: 1
+      name: form_questions
+      label: Form Questions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: course_satisfaction
+      label: course_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: instructors_performance
+      label: instructors_performance
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 1, ''value'': 1}'
+      - '{''label'': 2, ''value'': 2}'
+      - '{''label'': 3, ''value'': 3}'
+      required: false
+    - id: 4
+      name: teaching_materials
+      label: teaching_materials
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 1, ''value'': 1}'
+      - '{''label'': 2, ''value'': 2}'
+      - '{''label'': 3, ''value'': 3}'
+      required: false
+    - id: 5
+      name: overall_effectiveness
+      label: overall_effectiveness
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': 1, ''value'': 1}'
+      - '{''label'': 2, ''value'': 2}'
+      required: false
+    - id: 6
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

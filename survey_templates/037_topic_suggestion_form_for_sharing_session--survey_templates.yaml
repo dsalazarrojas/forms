@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Topic Suggestion Form For Sharing Session
+    pages:
+    - id: 1
+      name: session_details
+      label: Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: topics
+      label: Topics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_topics
+      label: Session Topics
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: topic_suggestions
+      label: Topic Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

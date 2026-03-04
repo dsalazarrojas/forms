@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Internet Addiction Disorder Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: internet_use
+      label: internet_use
+      hint: How often do you use the Internet?
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: internet_frequency
+      label: internet_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option_1'': 1}'
+      - '{''option_2'': 2}'
+      - '{''option_3'': 3}'
+      - '{''option_4'': 4}'
+      - '{''option_5'': 5}'
+      required: false
+    - id: 4
+      name: internet_duration
+      label: internet_duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: internet_amount
+      label: internet_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: internet_addiction_score
+      label: internet_addiction_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: teacher_support
+      label: teacher_support
+      hint: How often do you feel your teacher is supportive of your online activities?
+      type: select_one
+      options:
+      - '{''option_1'': True}'
+      - '{''option_2'': False}'
+      - '{''option_3'': ''Sometimes''}'
+      required: false

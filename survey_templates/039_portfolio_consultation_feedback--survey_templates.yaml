@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Portfolio Consultation Feedback
+    pages:
+    - id: 1
+      name: portfolio_consultation_feedback_form
+      label: Client Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: consultant_name
+      label: Consultant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consultant_rating
+      label: Rating (1-5)
+      hint: Please rate the session on a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: qualitative_feedback
+      label: Qualitative Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: name_of_client
+      label: Name of Client
+      hint: null
+      type: text
+      options: []
+      required: false

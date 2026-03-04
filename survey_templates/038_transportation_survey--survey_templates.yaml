@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transportation Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: How Do You Commute
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: transportation_mode
+      label: What Is Your Preferred Mode Of Transportation
+      hint: null
+      type: select_one
+      options:
+      - Bike
+      - Car
+      - Train
+      required: false
+    - id: 3
+      name: how_many_days
+      label: How Many Days A Week Do You Travel For Work
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: travel_distance
+      label: How Far You Travel For Work
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: What Time Do You Leave Home
+      hint: 24-hour time format
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: What Time You Arrive At Work
+      hint: 24-hour time format
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: how_frequent
+      label: How Frequently Do You Use Public Transportation
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 8
+      name: favorite_transportation_method
+      label: What Is Your Favorite Mode Of Transportation
+      hint: null
+      type: select_one
+      options:
+      - Car
+      - Bus
+      - Bike
+      - Train
+      required: false
+    - id: 9
+      name: transportation_cost
+      label: What Mode Of Transportation Do You Think Is The Most Cost-Effective
+      hint: null
+      type: select_one
+      options:
+      - Car
+      - Bus
+      - Bike
+      - Train
+      required: false
+    - id: 10
+      name: travel_time
+      label: How Long Do You Travel In Your Commute
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: how_satisfied
+      label: Are You Satisfied With Your Current Mode Of Transportation
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Not Satisfied
+      required: false
+    - id: 12
+      name: transportation_survey_comments
+      label: Do You Have Any Comments About Transportation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: transportation_survey_additional_comments
+      label: Do You Have Any Additional Comments About Transportation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

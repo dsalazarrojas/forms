@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Publishing Reader Feedback Report Form
+    pages:
+    - id: 1
+      name: magazine_name
+      label: Magazine Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_question
+      label: What do you think about our current issue?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: How would you rate this issue?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: agree_disagree
+      label: Do you agree with what we publish?
+      hint: null
+      type: select_multiple
+      options:
+      - Agree
+      - Disagree
+      required: false
+    - id: 7
+      name: favorite_section
+      label: What section is your favorite?
+      hint: null
+      type: select_one
+      options:
+      - News
+      - Reviews
+      - Features
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: agree_disagree_other
+      label: Do you generally agree or disagree with what we publish?
+      hint: null
+      type: select_multiple
+      options:
+      - Agree
+      - Disagree
+      required: false
+    - id: 11
+      name: contact_info
+      label: Would you like to be contacted for further discussion?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: contact_method
+      label: How would you like to be contacted?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - None
+      required: false

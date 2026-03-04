@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Campaign Effectiveness Survey
+    pages:
+    - id: 1
+      name: '1'
+      label: What was the main objective of this campaign?
+      hint: Tell us about the main goal of this campaign
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: '2'
+      label: What is your job title?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: r_3
+      label: What is your role in this project?
+      hint: Please provide details
+      type: select_one
+      options:
+      - Project Manager
+      - Marketing Manager
+      - Other
+      required: false
+    - id: 4
+      name: r_4
+      label: What is your role in this organization?
+      hint: null
+      type: select_multiple
+      options:
+      - Sales
+      - Marketing
+      - Product
+      - Other
+      required: false
+    - id: 5
+      name: t_5
+      label: When did this campaign start?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: t_6
+      label: When did this campaign end?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: n_7
+      label: What was the primary source of leads for this campaign?
+      hint: Please specify
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: n_8
+      label: How many leads generated this campaign?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: e_9
+      label: How would you rate the campaign's performance?
+      hint: null
+      type: select_one
+      options:
+      - Goals
+      - Results
+      - Results Prophets
+      required: false
+    - id: 10
+      name: n_10
+      label: Was your team involved in this campaign?
+      hint: Only if yes, please provide team's names
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: r_11
+      label: Who is your go-to contact for this campaign?
+      hint: Contact info
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: n_12
+      label: What is the budget for this campaign?
+      hint: null
+      type: select_multiple
+      options:
+      - Under 50,000
+      - 50,000-200,000
+      - Over 200,000
+      required: false
+    - id: 13
+      name: r_13
+      label: How would you rate your campaign experience?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: r_14
+      label: How long would you rate the campaign length?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: '15'
+      label: How many campaigns are you running currently?
+      hint: null
+      type: select_multiple
+      options:
+      - One campaign
+      - Multiple campaigns
+      - None
+      required: false
+    - id: 16
+      name: r_16
+      label: How much was your team involved in this campaign?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: e_17
+      label: How did you hear about this campaign?
+      hint: null
+      type: select_multiple
+      options:
+      - Social media
+      - Email
+      - Word of mouth
+      - Other
+      required: false
+    - id: 18
+      name: n_18
+      label: Would you recommend this campaign to others?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: r_19
+      label: What would you like to see as the next campaign?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: n_20
+      label: Have you been involved in other similar campaigns?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: r_21
+      label: How did this campaign help you?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: r_22
+      label: How did you use the campaign?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: r_23
+      label: Have you been using this campaign?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: r_24
+      label: How did this campaign help your organization?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: '25'
+      label: How did this campaign help your organization?
+      hint: null
+      type: text
+      options: []
+      required: false

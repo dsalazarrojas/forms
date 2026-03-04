@@ -1,0 +1,158 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Child Protection Awareness Survey
+    pages:
+      - id: 1
+        name: section_awareness_assessment
+        label: -- Awareness Assessment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: aware_of_signs
+        label: Are you aware of the signs of child abuse?
+        hint: Physical, emotional, or neglect signs
+        type: select_one
+        options:
+          - label: Yes - Fully Aware
+            value: yes
+          - label: No - Not Aware
+            value: no
+          - label: Unsure - Need Information
+            value: unsure
+        required: true
+      - id: 3
+        name: know_reporting_contact
+        label: Do you know who to contact if you suspect abuse?
+        hint: Internal or external reporting lines
+        type: select_one
+        options:
+          - label: Yes - I know the procedure
+            value: yes
+          - label: No - I am unsure
+            value: no
+        required: true
+      - id: 4
+        name: section_training_education
+        label: -- Training and Education --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: received_training
+        label: Have you received child protection training?
+        hint: Official sessions or workshops
+        type: select_one
+        options:
+          - label: Yes
+            value: yes
+          - label: No
+            value: no
+        required: true
+      - id: 6
+        name: last_training_date
+        label: How recently was your last training?
+        hint: Choose most accurate bracket
+        type: select_one
+        options:
+          - label: Within the last 1 year
+            value: recent
+          - label: 1 to 3 years ago
+            value: mid
+          - label: Over 3 years ago
+            value: old
+          - label: Never had training
+            value: never
+        required: true
+      - id: 7
+        name: section_policies
+        label: -- Institutional Policies --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: policies_visible
+        label: Are child protection policies clearly visible?
+        hint: At your place of work or organization
+        type: select_one
+        options:
+          - label: Yes - Clearly Posted
+            value: yes
+          - label: No - Hard to Find
+            value: no
+          - label: Not Applicable
+            value: na
+        required: true
+      - id: 9
+        name: reporting_confidence
+        label: Do you feel confident in the reporting procedure?
+        hint: Level of comfort with the process
+        type: select_one
+        options:
+          - label: Strongly Agree
+            value: strongly_agree
+          - label: Agree
+            value: agree
+          - label: Neutral
+            value: neutral
+          - label: Disagree
+            value: disagree
+        required: true
+      - id: 10
+        name: section_resource_needs
+        label: -- Resource Needs --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: additional_resources
+        label: What additional resources would help improve awareness?
+        hint: Ideas for better education
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: preferred_formats
+        label: Preferred learning formats
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - label: Online Training Modules
+            value: online
+          - label: In-person Workshops
+            value: workshops
+          - label: Print Handouts and Guides
+            value: handouts
+          - label: Educational Videos
+            value: videos
+        required: false
+      - id: 13
+        name: final_comments
+        label: Final comments or suggestions
+        hint: Anything else you want to share
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: survey_date
+        label: Date of Survey
+        hint: Today date
+        type: date
+        options: []
+        required: true

@@ -1,0 +1,82 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Gulf Water Quality Survey
+    pages:
+    - id: 1
+      name: survey_page_1
+      label: Gulf Water Quality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: water_body
+      label: Water Body
+      hint: Where did you observe this water condition?
+      type: select_one
+      options:
+      - Gulf
+      - River
+      - Lake
+      - Reservoir
+      - Other
+      required: false
+    - id: 3
+      name: water_location
+      label: Water Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: water_quality_parameter
+      label: Water Quality Parameter
+      hint: What parameter were you observing?
+      type: select_multiple
+      options:
+      - pH
+      - Temperature
+      - Dissolved Oxygen
+      - Salinity
+      - Other
+      required: false
+    - id: 5
+      name: observation_date
+      label: Observation Date
+      hint: Date of observation
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: observation_time
+      label: Observation Time
+      hint: Time of observation
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: observer
+      label: Observer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

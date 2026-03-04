@@ -1,0 +1,227 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Class Evaluation Form
+    pages:
+      - id: 1
+        name: participant_name
+        label: Your Name
+        hint: Optional - for follow-up
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: email_address
+        label: Email Address
+        hint: Optional - for results
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: class_name
+        label: Class or Training Name
+        hint: What class did you attend
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: instructor_name
+        label: Instructor Name
+        hint: Who taught the class
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: class_date
+        label: Date of Class
+        hint: When did you attend
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: class_duration
+        label: How Long Was the Class
+        hint: Duration
+        type: select_one
+        options:
+          - Half day (under 4 hours)
+          - Full day (4-8 hours)
+          - Multi-day
+          - Weekly sessions
+          - Other
+        required: true
+      - id: 7
+        name: overall_rating
+        label: Overall Class Rating
+        hint: Rate your experience
+        type: select_one
+        options:
+          - Excellent
+          - Very good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 8
+        name: content_rating
+        label: Quality of Content Rating
+        hint: Rate the material
+        type: select_one
+        options:
+          - Excellent
+          - Very good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 9
+        name: instructor_rating
+        label: Instructor Effectiveness Rating
+        hint: Rate the instructor
+        type: select_one
+        options:
+          - Excellent
+          - Very good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 10
+        name: objectives_met
+        label: Were Learning Objectives Met
+        hint: Did you learn what was promised
+        type: select_one
+        options:
+          - Yes, completely
+          - Yes, mostly
+          - Somewhat
+          - Not really
+          - No, not at all
+        required: true
+      - id: 11
+        name: difficulty_level
+        label: How Would You Rate the Difficulty Level
+        hint: For your skill level
+        type: select_one
+        options:
+          - Too easy
+          - Somewhat easy
+          - Just right
+          - Somewhat difficult
+          - Too difficult
+        required: true
+      - id: 12
+        name: pace_rating
+        label: How Was the Pace of the Class
+        hint: Speed of instruction
+        type: select_one
+        options:
+          - Too slow
+          - Somewhat slow
+          - Just right
+          - Somewhat fast
+          - Too fast
+        required: true
+      - id: 13
+        name: materials_rating
+        label: Quality of Materials and Resources
+        hint: Handouts, slides, etc.
+        type: select_one
+        options:
+          - Excellent
+          - Very good
+          - Good
+          - Fair
+          - Poor
+          - Not applicable
+        required: true
+      - id: 14
+        name: environment_rating
+        label: Learning Environment Rating
+        hint: Classroom or virtual setting
+        type: select_one
+        options:
+          - Excellent
+          - Very good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 15
+        name: skills_gained
+        label: What Skills Did You Gain
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Technical skills
+          - Communication skills
+          - Problem-solving skills
+          - Leadership skills
+          - Time management
+          - Teamwork
+          - Critical thinking
+          - Other
+        required: true
+      - id: 16
+        name: apply_learning
+        label: How Likely Are You to Apply What You Learned
+        hint: In your work or studies
+        type: select_one
+        options:
+          - Very likely
+          - Somewhat likely
+          - Neutral
+          - Not very likely
+          - Not likely at all
+        required: true
+      - id: 17
+        name: recommend_class
+        label: Would You Recommend This Class
+        hint: To colleagues or peers
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Neutral
+          - Probably not
+          - Definitely not
+        required: true
+      - id: 18
+        name: best_aspect
+        label: What Was the Best Aspect of the Class
+        hint: What worked well
+        type: text
+        options: []
+        required: true
+      - id: 19
+        name: improvement_areas
+        label: What Could Be Improved
+        hint: Suggestions for improvement
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: additional_topics
+        label: What Additional Topics Would You Like
+        hint: For future classes
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

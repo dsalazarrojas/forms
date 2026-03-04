@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: population_density_assessment_form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: population
+      label: population
+      hint: Enter the estimated population of the city, town, or region
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: area
+      label: area
+      hint: Enter the total area of the city, town, or region
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: density
+      label: density
+      hint: Enter the population density of the city, town, or region
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: urban_areas
+      label: Urban areas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: rural_areas
+      label: Rural areas
+      hint: Enter the percentage of rural areas within the city, town, or region
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: population_growth
+      label: Population growth
+      hint: Enter the estimated annual population growth rate
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: population_growth_rate
+      label: Population growth rate
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: contact_name
+      label: Contact name
+      hint: Enter the name of the contact person
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact email
+      hint: Enter the email of the contact person
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: Contact phone
+      hint: Enter the phone number of the contact person
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: population_density_assessment
+      label: Population density assessment
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 14
+      name: area_type
+      label: Area type
+      hint: Select the type of area
+      type: select_multiple
+      options:
+      - Urban
+      - Rural
+      - Mixed
+      required: false
+    - id: 15
+      name: population_density
+      label: Population density
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Medium
+      required: false
+    - id: 16
+      name: region
+      label: Region
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: region_other
+      label: Other region
+      hint: Enter the name of the region (optional)
+      type: text
+      options: []
+      required: false

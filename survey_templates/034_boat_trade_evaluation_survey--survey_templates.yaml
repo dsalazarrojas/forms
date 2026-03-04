@@ -1,0 +1,254 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boat Trade Evaluation Survey
+    pages:
+    - id: 1
+      name: owner_name
+      label: Owner Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_email
+      label: Owner Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: owner_phone
+      label: Owner Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: boat_make
+      label: Boat Make
+      hint: Manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: boat_model
+      label: Boat Model
+      hint: Model name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: boat_year
+      label: Boat Year
+      hint: Year of manufacture
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: boat_hull_id
+      label: Boat Hull ID
+      hint: HIN number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: engine_hours
+      label: Engine Hours
+      hint: Total hours
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: overall_condition
+      label: Overall Condition
+      hint: Rate the condition
+      type: select_one
+      options:
+      - Excellent - Like New
+      - Very Good - Minor Wear
+      - Good - Normal Wear
+      - Fair - Noticeable Wear
+      - Poor - Significant Wear
+      required: true
+    - id: 10
+      name: hull_condition
+      label: Hull Condition
+      hint: Rate hull condition
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 11
+      name: engine_condition
+      label: Engine Condition
+      hint: Rate engine condition
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 12
+      name: interior_condition
+      label: Interior Condition
+      hint: Rate interior condition
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 13
+      name: exterior_condition
+      label: Exterior Condition
+      hint: Rate exterior condition
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: known_defects
+      label: Known Defects
+      hint: List any issues
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: recent_upgrades
+      label: Recent Upgrades
+      hint: List improvements
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: included_equipment
+      label: Included Equipment
+      hint: What is included?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: trailer_included
+      label: Trailer Included
+      hint: Is trailer included?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: trade_in_value_estimate
+      label: Expected Trade-In Value
+      hint: Your estimated value
+      type: select_one
+      options:
+      - Under $5,000
+      - $5,000 - $10,000
+      - $10,001 - $20,000
+      - $20,001 - $35,000
+      - $35,001 - $50,000
+      - Over $50,000
+      required: false
+    - id: 19
+      name: reason_for_trading
+      label: Reason for Trading
+      hint: Why are you trading?
+      type: select_one
+      options:
+      - Upgrading to Larger Boat
+      - Downgrading to Smaller Boat
+      - Different Type Needed
+      - Financial Reasons
+      - No Longer Using
+      - Other
+      required: true
+    - id: 20
+      name: purchase_timeline
+      label: Purchase Timeline
+      hint: When looking to buy?
+      type: select_one
+      options:
+      - Immediate
+      - Within 1 Month
+      - Within 3 Months
+      - Within 6 Months
+      - Just Browsing
+      required: true
+    - id: 21
+      name: interested_in_new_boat
+      label: Interested in New Boat
+      hint: Looking at new inventory?
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 22
+      name: evaluation_experience
+      label: Evaluation Experience
+      hint: How was your evaluation experience?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 23
+      name: staff_knowledge
+      label: Staff Knowledge
+      hint: Rate staff expertise
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 24
+      name: fairness_of_offer
+      label: Fairness of Offer
+      hint: Was the offer fair?
+      type: select_one
+      options:
+      - Very Fair
+      - Fair
+      - Neutral
+      - Below Fair
+      - Unfair
+      required: true
+    - id: 25
+      name: likelihood_to_recommend
+      label: Likelihood to Recommend
+      hint: Would you recommend us?
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 26
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

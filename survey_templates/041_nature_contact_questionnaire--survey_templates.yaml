@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nature Contact Questionnaire
+    pages:
+    - id: 1
+      name: survey_start
+      label: start_survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_frequency
+      label: how_do_you_spend_your_time_outdoors
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: favorite_nature_activity
+      label: what_do_you_like_to_do_in_nature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: contact_with_water
+      label: do_you_contact_nature_western_water_bodies
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: nature_environment_impact
+      label: how_does_your_activity_impact_nature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: other_nature_activity
+      label: what_other_nature_activities_do_you_participate_in
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: hours_spend_outdoors
+      label: how_many_hours_do_you_spend_outdoors
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: nature_contact_frequency_per_week
+      label: how_frequently_do_you_contact_nature_per_week
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: age_range
+      label: what_s_age_range
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: contact_location
+      label: where_do_you_spend_most_of_your_nature_contact_time
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: survey_end
+      label: end_survey
+      hint: null
+      type: note
+      options: []
+      required: false

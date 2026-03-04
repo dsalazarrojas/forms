@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: SOP Maturity Survey
+    pages:
+    - id: 1
+      name: review_cadence
+      label: Review Cadence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: communication
+      label: Communication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: review_frequency
+      label: Review Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: adherence_rates
+      label: Adherence Rates
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: review_process
+      label: Review Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback_mechanisms
+      label: Feedback Mechanisms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: training_programs
+      label: Training Programs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: documentation
+      label: Documentation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: review_cycle
+      label: Review Cycle
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: metrics_tracking
+      label: Metrics Tracking
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: review_scheduling
+      label: Review Scheduling
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Monthly''}'
+      required: false
+    - id: 12
+      name: team_involvement
+      label: Team Involvement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 13
+      name: automation
+      label: Automation
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 14
+      name: communication_channels
+      label: Communication Channels
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''Video Conference''}'
+      required: false
+    - id: 15
+      name: training_resources
+      label: Training Resources
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 16
+      name: documentation_type
+      label: Documentation Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Standardized''}'
+      - '{''label'': ''Ad Hoc''}'
+      - '{''label'': ''Automated''}'
+      required: false
+    - id: 17
+      name: review_process_implement
+      label: Review Process Implemented
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 18
+      name: review_cycle_length
+      label: Review Cycle Length
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: documentation_location
+      label: Documentation Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: metrics_tracking_location
+      label: Metrics Tracking Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: team_involvement_location
+      label: Team Involvement Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: documentation_frequency
+      label: Documentation Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: metrics_frequency
+      label: Metrics Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: team_involvement_frequency
+      label: Team Involvement Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: review_scheduling_frequency
+      label: Review Scheduling Frequency
+      hint: null
+      type: time
+      options: []
+      required: false

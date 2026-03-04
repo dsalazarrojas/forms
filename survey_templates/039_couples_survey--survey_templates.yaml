@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Couples Survey
+    pages:
+    - id: 1
+      name: relationship_status
+      label: Is in a relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: relationship_type
+      label: Relationship type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: partner_awareness
+      label: Partner awareness
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: partner_influence
+      label: Partner influence
+      hint: Describe how much influence does your partner have on your life
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: communication
+      label: Communication style
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: conflict_resolution
+      label: Conflict resolution
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: emotional_intelligence
+      label: emotional intelligence
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: emotional_support
+      label: Emotional support
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: intimacy_level
+      label: Intimacy level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: conflict_frequency
+      label: Conflicts frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: communication_channel
+      label: Communication channel
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

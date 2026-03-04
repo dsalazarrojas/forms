@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Management Feedback Form
+    pages:
+    - id: 1
+      name: website_performance
+      label: Website Performance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: usability
+      label: Usability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Feedback Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Contact Phone Number
+      hint: 'Format: XXX-XXX-XXXX'
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: website_features
+      label: Website Features
+      hint: null
+      type: select_multiple
+      options:
+      - Feature 1
+      - Feature 2
+      - Feature 3
+      required: true
+    - id: 6
+      name: submit_form
+      label: Submit Feedback
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Save for Later
+      required: true

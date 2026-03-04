@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pool Survey
+    pages:
+    - id: 1
+      name: pool_survey
+      label: Pool Quality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pool_type
+      label: What type of pool?
+      hint: null
+      type: select_multiple
+      options:
+      - Inground
+      - Outdoors
+      - Above Ground
+      required: false
+    - id: 3
+      name: pool_shape
+      label: Pool shape
+      hint: null
+      type: select_one
+      options:
+      - Rectangle'
+      - Octagon
+      - Free Form
+      required: false
+    - id: 4
+      name: pool_size
+      label: Pool size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: pool_height
+      label: Pool height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: pool_depth
+      label: Pool depth
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: water_temperature
+      label: Water Temperature
+      hint: null
+      type: select_one
+      options:
+      - 70-80°F'
+      - 80-90°F
+      - 90-100°F
+      - 100-110°F
+      required: false
+    - id: 8
+      name: time_spent_at_pool
+      label: Time Spent at Pool
+      hint: null
+      type: time
+      options: []
+      required: false

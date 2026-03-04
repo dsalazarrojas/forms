@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commercial Mortgage Qualification Survey
+    pages:
+    - id: 1
+      name: section_broker_info
+      label: -- Referral/Broker Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: referring_broker
+      label: Name of Referring Broker (If applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: section_borrower_info
+      label: -- Borrower and Property Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: borrower_name
+      label: Entity or Individual Borrower Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: property_address
+      label: Subject Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Multi-Family
+      - Office
+      - Retail
+      - Industrial/Warehouse
+      - Mixed-Use
+      - Hotel/Hospitality
+      - Self-Storage
+      - Other
+      required: true
+    - id: 7
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - Owner Occupied
+      - Investment/Leased
+      - Development/Construction
+      required: true
+    - id: 8
+      name: occupancy_rate
+      label: Current Occupancy Rate (%)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: section_loan_terms
+      label: -- Proposed Loan Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: estimated_property_value
+      label: Estimated Current Property Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: mortgage_loan_amount
+      label: Desired Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: loan_transaction_type
+      label: Transaction Type
+      hint: null
+      type: select_one
+      options:
+      - Purchase
+      - Refinance (Rate and Term)
+      - Cash-Out Refinance
+      - Bridge Loan
+      required: true
+    - id: 13
+      name: estimated_credit_score
+      label: Borrower Estimated Credit Score
+      hint: null
+      type: select_one
+      options:
+      - 740+ (Excellent)
+      - 700-739 (Good)
+      - 660-699 (Fair)
+      - Below 660
+      required: true
+    - id: 14
+      name: section_borrower_contact
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: primary_contact_name
+      label: Primary Contact Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: primary_contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: primary_contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: additional_loan_notes
+      label: Additional Loan or Property Details
+      hint: null
+      type: text
+      options: []
+      required: false

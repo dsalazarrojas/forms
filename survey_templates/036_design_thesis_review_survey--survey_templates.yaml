@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Design Thesis Review Survey
+    pages:
+    - id: 1
+      name: form_title
+      label: Design Thesis Review Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_name
+      label: Page Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: faculty_feedback
+      label: What is your role in the design school?
+      hint: null
+      type: select_one
+      options:
+      - Faculty
+      - Guest
+      - Alumni
+      required: false
+    - id: 4
+      name: external_critic
+      label: Are you an external critic?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: faculty_external_critic
+      label: Are you a faculty member or an external critic?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

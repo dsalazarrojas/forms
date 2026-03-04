@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Productive Systems Assessment
+    pages:
+    - id: 1
+      name: productive_systems_assessment_form
+      label: productive systems assessment form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_members
+      label: team members
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: productivity_tools
+      label: productivity tools
+      hint: Which tools are you currently using for productivity?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: satisfaction_level
+      label: satisfaction level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Medium
+      required: false
+    - id: 5
+      name: department_satisfaction
+      label: department satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - North
+      - East
+      - South
+      required: false
+    - id: 6
+      name: comments_and_suggestions
+      label: comments and suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

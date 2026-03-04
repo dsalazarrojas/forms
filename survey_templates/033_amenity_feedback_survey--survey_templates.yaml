@@ -1,0 +1,594 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Amenity Feedback Survey
+    pages:
+    - id: 1
+      name: section_introduction
+      label: -- Amenity Feedback Survey --
+      hint: Thank you for taking the time to provide feedback about our amenities. Your input helps us improve.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: section_resident_info
+      label: -- Resident/Guest Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: resident_type
+      label: Are You a Resident or Guest
+      hint: null
+      type: select_one
+      options:
+      - Resident
+      - Guest
+      - Family Member of Resident
+      required: true
+    - id: 4
+      name: length_of_stay
+      label: Length of Stay/Residency
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 month
+      - 1-6 months
+      - 6 months - 1 year
+      - 1-3 years
+      - More than 3 years
+      - First visit
+      required: false
+    - id: 5
+      name: unit_building
+      label: Unit/Building Number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_amenity_usage
+      label: -- Amenity Usage --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: amenities_used
+      label: Which Amenities Do You Use
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fitness Center/Gym
+      - Swimming Pool
+      - Community Room
+      - Business Center
+      - Library
+      - Outdoor Spaces/Parks
+      - Playground
+      - Tennis/Basketball Courts
+      - Spa/Sauna
+      - Clubhouse
+      - BBQ/Picnic Areas
+      - Walking Trails
+      - Pet Areas
+      - Other
+      required: true
+    - id: 8
+      name: frequency_of_use
+      label: How Often Do You Use Amenities
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several times a week
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: true
+    - id: 9
+      name: section_fitness_center
+      label: -- Fitness Center --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: fitness_center_rating
+      label: Fitness Center Rating
+      hint: If you use it
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      - Do not use
+      required: false
+    - id: 11
+      name: fitness_equipment
+      label: Fitness Equipment Condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      - Do not use
+      required: false
+    - id: 12
+      name: fitness_cleanliness
+      label: Fitness Center Cleanliness
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      - Do not use
+      required: false
+    - id: 13
+      name: section_pool
+      label: -- Swimming Pool --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: pool_rating
+      label: Swimming Pool Rating
+      hint: If you use it
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      - Do not use
+      required: false
+    - id: 15
+      name: pool_cleanliness
+      label: Pool Cleanliness
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      - Do not use
+      required: false
+    - id: 16
+      name: pool_hours
+      label: Pool Hours Satisfaction
+      hint: Operating hours
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      - Do not use
+      required: false
+    - id: 17
+      name: section_community_spaces
+      label: -- Community Spaces --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: community_room_rating
+      label: Community Room Rating
+      hint: If you use it
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      - Do not use
+      required: false
+    - id: 19
+      name: community_room_cleanliness
+      label: Community Room Cleanliness
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      - Do not use
+      required: false
+    - id: 20
+      name: booking_process
+      label: Reservation/Booking Process
+      hint: Ease of booking
+      type: select_one
+      options:
+      - Very easy
+      - Easy
+      - Neutral
+      - Difficult
+      - Very difficult
+      - Have not booked
+      required: false
+    - id: 21
+      name: section_outdoor_spaces
+      label: -- Outdoor Spaces --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: outdoor_spaces_rating
+      label: Outdoor Spaces Rating
+      hint: Parks, gardens, etc.
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      - Do not use
+      required: false
+    - id: 23
+      name: outdoor_maintenance
+      label: Outdoor Maintenance
+      hint: Landscaping, upkeep
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      - Do not use
+      required: false
+    - id: 24
+      name: outdoor_seating
+      label: Outdoor Seating Availability
+      hint: null
+      type: select_one
+      options:
+      - More than adequate
+      - Adequate
+      - Insufficient
+      - Very limited
+      - Do not use
+      required: false
+    - id: 25
+      name: section_business_center
+      label: -- Business Center --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: business_center_rating
+      label: Business Center Rating
+      hint: If you use it
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      - Do not use
+      required: false
+    - id: 27
+      name: business_equipment
+      label: Business Equipment/Technology
+      hint: Computers, printers, etc.
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      - Do not use
+      required: false
+    - id: 28
+      name: wifi_quality
+      label: WiFi Quality
+      hint: In common areas
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      - Do not use
+      required: false
+    - id: 29
+      name: section_additional_amenities
+      label: -- Additional Amenities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: parking_rating
+      label: Parking Facilities
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: false
+    - id: 31
+      name: security_rating
+      label: Security Measures
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: false
+    - id: 32
+      name: lighting_rating
+      label: Lighting in Common Areas
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: false
+    - id: 33
+      name: signage_rating
+      label: Signage and Directions
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: false
+    - id: 34
+      name: section_maintenance
+      label: -- Maintenance and Upkeep --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: overall_cleanliness
+      label: Overall Amenity Cleanliness
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 36
+      name: maintenance_responsiveness
+      label: Maintenance Request Responsiveness
+      hint: If you have submitted requests
+      type: select_one
+      options:
+      - Very responsive
+      - Responsive
+      - Neutral
+      - Slow
+      - Very slow
+      - Have not submitted
+      required: false
+    - id: 37
+      name: repair_quality
+      label: Quality of Repairs
+      hint: If applicable
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      - Not applicable
+      required: false
+    - id: 38
+      name: section_accessibility
+      label: -- Accessibility --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 39
+      name: accessibility_rating
+      label: Accessibility for Disabled Persons
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      - Not applicable
+      required: false
+    - id: 40
+      name: elevator_functionality
+      label: Elevator Functionality
+      hint: If applicable
+      type: select_one
+      options:
+      - Always working
+      - Usually working
+      - Sometimes issues
+      - Frequently broken
+      - Not applicable
+      required: false
+    - id: 41
+      name: section_hours_access
+      label: -- Hours and Access --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 42
+      name: amenity_hours
+      label: Amenity Operating Hours
+      hint: null
+      type: select_one
+      options:
+      - Very convenient
+      - Convenient
+      - Neutral
+      - Inconvenient
+      - Very inconvenient
+      required: false
+    - id: 43
+      name: access_method
+      label: Access Method (Key, Code, etc.)
+      hint: Ease of use
+      type: select_one
+      options:
+      - Very easy
+      - Easy
+      - Neutral
+      - Difficult
+      - Very difficult
+      required: false
+    - id: 44
+      name: section_overall
+      label: -- Overall Satisfaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 45
+      name: overall_satisfaction
+      label: Overall Satisfaction with Amenities
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 46
+      name: value_for_money
+      label: Value for Money
+      hint: Do amenities justify the cost
+      type: select_one
+      options:
+      - Excellent value
+      - Good value
+      - Fair value
+      - Poor value
+      - Very poor value
+      required: false
+    - id: 47
+      name: recommendation
+      label: Would You Recommend Our Amenities
+      hint: null
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Neutral
+      - Probably not
+      - Definitely not
+      required: true
+    - id: 48
+      name: section_feedback
+      label: -- Feedback and Suggestions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 49
+      name: favorite_amenity
+      label: What Is Your Favorite Amenity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 50
+      name: least_favorite_amenity
+      label: What Is Your Least Favorite Amenity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 51
+      name: improvements_needed
+      label: What Improvements Are Needed
+      hint: Be specific
+      type: text
+      options: []
+      required: false
+    - id: 52
+      name: new_amenities_requested
+      label: What New Amenities Would You Like
+      hint: Suggestions
+      type: text
+      options: []
+      required: false
+    - id: 53
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 54
+      name: contact_permission
+      label: May We Contact You for Follow-up
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: false
+    - id: 55
+      name: email_followup
+      label: Email for Follow-up
+      hint: Optional
+      type: email
+      options: []
+      required: false

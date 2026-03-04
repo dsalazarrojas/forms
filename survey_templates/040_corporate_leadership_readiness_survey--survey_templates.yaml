@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Leadership Readiness Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: leader_self_assessment
+      label: Leader Self-Assessment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: team_leadership
+      label: Team Leadership
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: business_accomplishments
+      label: Business Accompplishments
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: personal_leadership
+      label: Personal Leadership
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: development_needs
+      label: Development Needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: action_planning
+      label: Action Planning
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: coaching_goals
+      label: Coaching Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: coaching_outcomes
+      label: Coaching Outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: leadership_skills
+      label: Leadership Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: leadership_development
+      label: Leadership Development
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: evaluation
+      label: Evaluation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: evaluation_frequency
+      label: Evaluation Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: evaluation_scale
+      label: Evaluation Scale
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: evaluation_frequency_comments
+      label: Evaluation Frequency Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: evaluation_frequency_scale
+      label: Evaluation Frequency Scale
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: evaluation_scale_comments
+      label: Evaluation Scale Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: action_plan
+      label: Action Plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: next_steps_follow_up
+      label: Next Steps Follow Up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: completion_status
+      label: Completion Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true

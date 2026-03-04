@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Energy Audit Checklist Form
+    pages:
+    - id: 1
+      name: intro_page_1
+      label: home_energy_audit_checklist_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: energy_use_page_2
+      label: energy_use
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: energy_sources_page_3
+      label: energy_sources
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: energy_waste_page_4
+      label: energy_waste
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: potential_savings_page_5
+      label: potential_savings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: home_improvements_page_6
+      label: home_improvements
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: energy_affect_page_7
+      label: energy_affect
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: final_steps_page_8
+      label: final_steps
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments_page_9
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false

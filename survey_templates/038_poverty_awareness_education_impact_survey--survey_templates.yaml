@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Poverty Awareness Education Impact Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Poverty Awareness Education Impact Survey Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_quality
+      label: Session Quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: knowledge_gains
+      label: Knowledge Gains
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Very Good''}'
+      - '{''text'': ''Good''}'
+      - '{''text'': ''Fair''}'
+      - '{''text'': ''Poor''}'
+      required: true
+    - id: 4
+      name: behavior_intentions
+      label: Behavior Intentions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Very Good''}'
+      - '{''text'': ''Good''}'
+      - '{''text'': ''Fair''}'
+      required: true
+    - id: 5
+      name: session_attendance
+      label: Session Attendance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: total_attendance
+      label: Total Attendance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: total_number_of_sessions
+      label: Total Number of Sessions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

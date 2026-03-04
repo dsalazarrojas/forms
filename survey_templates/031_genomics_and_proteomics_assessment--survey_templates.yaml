@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Genomics And Proteomics Assessment
+    pages:
+    - id: 1
+      name: training_needs
+      label: Training Needs
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      - Medium
+      required: true
+    - id: 2
+      name: knowledge_level
+      label: Knowledge Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - None
+      required: false
+    - id: 3
+      name: workshop_needs
+      label: Workshop Needs
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      - Medium
+      required: false
+    - id: 4
+      name: onboarding_needs
+      label: Onboarding Needs
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      - Medium
+      required: false
+    - id: 5
+      name: research_support_needs
+      label: Research Support Needs
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      - Medium
+      required: false
+    - id: 6
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: knowledge_level2
+      label: Knowledge Level2
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - None
+      required: false
+    - id: 11
+      name: onboarding_needs2
+      label: Onboarding Needs2
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      - Medium
+      required: false
+    - id: 12
+      name: workshop_needs2
+      label: Workshop Needs2
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      - Medium
+      required: false
+    - id: 13
+      name: research_support_needs2
+      label: Research Support Needs2
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      - Medium
+      required: false
+    - id: 14
+      name: training_needs2
+      label: Training Needs2
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      - Medium
+      required: false

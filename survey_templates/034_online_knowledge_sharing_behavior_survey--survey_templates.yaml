@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Knowledge Sharing Behavior Survey
+    pages:
+    - id: 1
+      name: home_page
+      label: Home Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_1_title
+      label: What do you do when faced with new information?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: page_1_question_1
+      label: Do you share new information with others?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: page_1_question_1_option_1
+      label: Yes, always
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: page_1_question_1_option_2
+      label: Sometimes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: page_2_title
+      label: Why do you share new information?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: page_2_question_1
+      label: What motivates you to share?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''7-1'', ''name'': ''page_2_question_1_option_1'', ''label'': ''Curiosity'',
+        ''hint'': None}'
+      - '{''id'': ''7-2'', ''name'': ''page_2_question_1_option_2'', ''label'': ''To
+        help others'', ''hint'': None}'
+      - '{''id'': ''7-3'', ''name'': ''page_2_question_1_option_3'', ''label'': ''For
+        personal gain'', ''hint'': None}'
+      required: false
+    - id: 8
+      name: page_3_title
+      label: What barriers do you face?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: page_3_question_1
+      label: What is your role?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''9-1'', ''name'': ''page_3_question_1_option_1'', ''label'': ''Researcher'',
+        ''hint'': None}'
+      - '{''id'': ''9-2'', ''name'': ''page_3_question_1_option_2'', ''label'': ''HR'',
+        ''hint'': None}'
+      - '{''id'': ''9-3'', ''name'': ''page_3_question_1_option_3'', ''label'': ''Educator'',
+        ''hint'': None}'
+      required: false

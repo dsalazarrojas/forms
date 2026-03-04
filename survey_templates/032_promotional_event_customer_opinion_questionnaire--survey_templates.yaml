@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: promotional_event_customer_opinion_questionnaire
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_details
+      label: Attendee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: satisfaction_rating
+      label: Satisfaction Rating
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback_question
+      label: Feedback Question
+      hint: Can be as short or as long as you like.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_satisfaction
+      label: Event Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Neutral
+      - Poor
+      - Very Poor
+      required: false
+    - id: 6
+      name: recommend_event
+      label: Recommend Event
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

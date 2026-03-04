@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Natural Hazard Risk Assessment
+    pages:
+    - id: 1
+      name: intro_form
+      label: Natural Hazard Risk Assessment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_info
+      label: event_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: natural_hazards
+      label: natural_hazards
+      hint: List all natural hazards in the affected area.
+      type: select_multiple
+      options:
+      - earthquake
+      - landslide
+      - flood
+      required: false
+    - id: 4
+      name: affected_areas
+      label: affected_areas
+      hint: null
+      type: select_multiple
+      options:
+      - urban
+      - suburban
+      - rural
+      - industrial
+      - agricultural
+      required: false
+    - id: 5
+      name: risk_level
+      label: risk_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: risk_factors
+      label: risk_factors
+      hint: null
+      type: select_one
+      options:
+      - physical
+      - social
+      - economic
+      required: false
+    - id: 7
+      name: risk_characteristics
+      label: risk_characteristics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: risk_consequences
+      label: risk_consequences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: mitigation_actions
+      label: mitigation_actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: risk_management_plan
+      label: risk_management_plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: risk_monitoring
+      label: risk_monitoring
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_preparedness
+      label: emergency_preparedness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: response_capacity
+      label: response_capacity
+      hint: null
+      type: select_multiple
+      options:
+      - high
+      - medium
+      - low
+      required: false
+    - id: 14
+      name: recovery_planning
+      label: recovery_planning
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: review_date
+      label: review_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: review_time
+      label: review_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: submit_form
+      label: submit_form
+      hint: null
+      type: select_one
+      options:
+      - submitted
+      - not_submitted
+      - submitted_pending
+      required: false
+    - id: 18
+      name: submitter
+      label: submitter
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: submitter_comments
+      label: submitter_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitter_name
+      label: submitter_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitter_organization
+      label: submitter_organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter_title
+      label: submitter_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_notes
+      label: submitter_notes
+      hint: null
+      type: text
+      options: []
+      required: false

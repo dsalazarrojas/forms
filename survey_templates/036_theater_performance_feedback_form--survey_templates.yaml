@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: theater_performance_feedback_form
+    pages:
+    - id: 1
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: performance_quality
+      label: performance_quality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sound_quality
+      label: sound_quality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: lighting_quality
+      label: lighting_quality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: set_design
+      label: set_design
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: overall_impact
+      label: overall_impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: suggestions_for_improvement
+      label: suggestions_for_improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: attendee_name
+      label: attendee_name
+      hint: Enter your name, please
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: attendee_email
+      label: attendee_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: attendee_phone
+      label: attendee_phone
+      hint: null
+      type: text
+      options: []
+      required: false

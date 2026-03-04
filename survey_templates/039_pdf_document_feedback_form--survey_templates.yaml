@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: pdf_document_feedback_form
+    pages:
+    - id: 1
+      name: pdf_document
+      label: PDF Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: Rate This Document
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1}'
+      - '{''value'': 2}'
+      - '{''value'': 3}'
+      - '{''value'': 4}'
+      - '{''value'': 5}'
+      required: false
+    - id: 3
+      name: feedback
+      label: What Did You Find Helpful?
+      hint: Enter your feedback about the document
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: suggestions
+      label: Any Suggestions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: EMail Address
+      hint: Enter a valid email
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expense Categorization Insight Survey
+    pages:
+    - id: 1
+      name: expense_categorization_insight_survey
+      label: Expense Categorization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: review_process
+      label: Review Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: categories
+      label: Categories
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: categorized_expenses
+      label: Categorized Expenses
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: review_cycle
+      label: Review Cycle
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: categorized_expenses_2
+      label: Categorized Expenses 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: expense_type
+      label: Expense Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: review_process_2
+      label: Review Process 2
+      hint: null
+      type: text
+      options: []
+      required: false

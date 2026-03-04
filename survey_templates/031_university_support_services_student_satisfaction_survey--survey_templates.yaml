@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: university_support_services_student_satisfaction_survey
+    pages:
+    - id: 1
+      name: survey_purpose
+      label: What is the purpose of this survey
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: contact name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: campus_service
+      label: What is your primary use of campus services?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: satisfaction_rating
+      label: Overall satisfaction rating
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: suggestions
+      label: Do you have any suggestions or comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: campus_support_services
+      label: Which campus support services did you use?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: communication_effectiveness
+      label: How would you rate the communication effectiveness of campus support
+        services?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: time_efficiency
+      label: How would you rate the time efficiency of campus support services?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: campus_service_quality
+      label: How would you rate the quality of campus support services?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: follow_up
+      label: Are you likely to use campus support services again?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: campus_service_frequencies
+      label: Frequency of use of campus services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

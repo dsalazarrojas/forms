@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: self_checkout_instructions_form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: self_checkout_experience
+      label: self_checkout_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: how_did_you_hear_about_us
+      label: how_did_you_hear_about_us
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: how_did_you_find_us
+      label: how_did_you_find_us
+      hint: null
+      type: select_multiple
+      options:
+      - online
+      - social media
+      - in-store
+      - other
+      required: false
+    - id: 8
+      name: what_is_your_primary_contact_method
+      label: what_is_your_primary_contact_method
+      hint: null
+      type: select_multiple
+      options:
+      - email
+      - phone
+      - in-store
+      - mail
+      required: false
+    - id: 9
+      name: what_is_your_age
+      label: what_is_your_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: how_satisfied
+      label: how_satisfied
+      hint: null
+      type: select_one
+      options:
+      - very_satisfied
+      - somewhat_satisfied
+      - neutral
+      - somewhat_dissatisfied
+      - very_dissatisfied
+      required: false
+    - id: 11
+      name: when_did_you_visit
+      label: when_did_you_visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time_of_visit
+      label: time_of_visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: what_time_of_day
+      label: what_time_of_day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: how_long_did_you_want_to_wait
+      label: how_long_did_you_want_to_wait
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: how_long_did_you_have_to_wait
+      label: how_long_did_you_have_to_wait
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: why_did_you_wait
+      label: why_did_you_wait
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: how_clearly_was_the_kiosk_signage
+      label: how_clearly_was_the_kiosk_signage
+      hint: null
+      type: select_one
+      options:
+      - very_clear
+      - somewhat_clear
+      - not_at_all
+      required: false
+    - id: 18
+      name: how_clearly_was_the_instructions
+      label: how_clearly_was_the_instructions
+      hint: null
+      type: select_one
+      options:
+      - very_clear
+      - somewhat_clear
+      - not_at_all
+      required: false
+    - id: 19
+      name: how_clearly_was_the_kiosk
+      label: how_clearly_was_the_kiosk
+      hint: null
+      type: select_one
+      options:
+      - very_clear
+      - somewhat_clear
+      - not_at_all
+      required: false
+    - id: 20
+      name: was_the_kiosk_clean
+      label: was_the_kiosk_clean
+      hint: null
+      type: select_one
+      options:
+      - very_clean
+      - somewhat_clean
+      - not_at_all
+      required: false
+    - id: 21
+      name: was_the_kiosk_stocked
+      label: was_the_kiosk_stocked
+      hint: null
+      type: select_one
+      options:
+      - very_stocked
+      - somewhat_stocked
+      - not_at_all
+      required: false
+    - id: 22
+      name: was_helpful
+      label: was_helpful
+      hint: null
+      type: select_one
+      options:
+      - very_helpful
+      - somewhat_helpful
+      - not_at_all
+      required: false
+    - id: 23
+      name: would_use_self_check_out
+      label: would_use_self_check_out
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: would_recommend
+      label: would_recommend
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - very_satisfied
+      - somewhat_satisfied
+      - neutral
+      - somewhat_dissatisfied
+      - very_dissatisfied
+      required: false

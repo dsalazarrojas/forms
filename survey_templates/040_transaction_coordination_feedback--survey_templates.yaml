@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transaction Coordination Feedback
+    pages:
+    - id: 1
+      name: transaction_coordination_feedback
+      label: Feedback
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: transaction_coordination_status
+      label: Transaction Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''In-progress''}'
+      - '{''value'': ''Completed''}'
+      - '{''value'': ''Pending''}'
+      required: true
+    - id: 3
+      name: transaction_type
+      label: Transaction Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Residential''}'
+      - '{''value'': ''Commercial''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 4
+      name: buyer_agent
+      label: Buyer Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: listing_agent
+      label: Listing Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: closing_date
+      label: Closing Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: transaction_comments
+      label: Transaction Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_required
+      label: Follow-up Required
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 9
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: client_comments
+      label: Client Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: agent_comments
+      label: Agent Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: transaction_status_update
+      label: Transaction Status Update
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_method
+      label: Follow-up Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: transaction_coordination_team
+      label: Transaction Coordination Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: agent_name
+      label: Agent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: transaction_date
+      label: Transaction Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: transaction_time
+      label: Transaction Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: transaction_number
+      label: Transaction Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: transaction_amount
+      label: Transaction Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: transaction_location
+      label: Transaction Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: transaction_notes
+      label: Transaction Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''User''}'
+      - '{''value'': ''System''}'
+      - '{''value'': ''Other''}'
+      required: false

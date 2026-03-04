@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workshop Profitability Assessment
+    pages:
+    - id: 1
+      name: workshop_profitability_assessment_form
+      label: Revenue
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: costs
+      label: costs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: participant_rating
+      label: Participant Rating
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 4
+      name: participant_feedback
+      label: Participant Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: facilitator_rating
+      label: Facilitator Rating
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false

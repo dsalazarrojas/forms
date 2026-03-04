@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Strike Vote Participation Form
+    pages:
+    - id: 1
+      name: proposed_strike_action
+      label: Proposed Strike Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: affiliation
+      label: Affiliation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: vote
+      label: Vote
+      hint: null
+      type: select_one
+      options:
+      - Union
+      - Non-Union
+      required: true
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: additional_feedback
+      label: Additional Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

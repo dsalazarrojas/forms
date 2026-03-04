@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Stewardship Commitment Form
+    pages:
+    - id: 1
+      name: supporter_name
+      label: Your Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: supporter_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: supporter_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: organization_name
+      label: Organization Name
+      hint: Business or company name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: supporter_type
+      label: Type of Supporter
+      hint: null
+      type: select_one
+      options:
+      - Individual donor
+      - Corporate sponsor
+      - Foundation
+      - Volunteer
+      - Partner organization
+      - Other
+      required: true
+    - id: 6
+      name: engagement_history
+      label: History with our organization
+      hint: How long have you been involved
+      type: select_one
+      options:
+      - New supporter
+      - 1-2 years
+      - 2-5 years
+      - 5-10 years
+      - 10+ years
+      required: true
+    - id: 7
+      name: commitment_level
+      label: Annual Commitment Level
+      hint: null
+      type: select_one
+      options:
+      - Major gift - $10,000+
+      - Significant - $5,000-$9,999
+      - Substantial - $1,000-$4,999
+      - Regular - $500-$999
+      - Friend - Under $500
+      - In-kind donation
+      - Volunteer commitment
+      required: true
+    - id: 8
+      name: commitment_amount
+      label: Specific Commitment Amount
+      hint: Dollar amount of annual commitment
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: commitment_timing
+      label: Commitment Timing
+      hint: When commitment will be provided
+      type: select_one
+      options:
+      - Lump sum upfront
+      - Quarterly installments
+      - Monthly contributions
+      - Year-end
+      - Flexible timing
+      required: true
+    - id: 10
+      name: giving_purpose
+      label: Purpose or area of support
+      hint: Program or initiative to support
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: impact_area
+      label: Preferred impact area
+      hint: null
+      type: select_one
+      options:
+      - Education
+      - Healthcare
+      - Environment
+      - Community services
+      - Research
+      - Arts and culture
+      - No preference
+      - Other
+      required: false
+    - id: 12
+      name: volunteer_hours
+      label: Annual volunteer hours commitment
+      hint: Hours willing to dedicate
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: volunteer_roles
+      label: Volunteer roles or activities
+      hint: Types of work you can contribute
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: in_kind_donation
+      label: In-kind donation offered
+      hint: Goods, services, or expertise
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: motivation
+      label: What motivates your support
+      hint: Why you support this organization
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: impact_recognition
+      label: Preferred recognition
+      hint: How you would like to be acknowledged
+      type: select_one
+      options:
+      - Public recognition
+      - Private recognition
+      - No recognition needed
+      - Confidential donor
+      required: true
+    - id: 17
+      name: naming_opportunity
+      label: Interest in naming opportunity
+      hint: Naming gift for program or facility
+      type: select_one
+      options:
+      - Yes - interested
+      - Maybe - provide information
+      - 'No'
+      required: false
+    - id: 18
+      name: communication_preference
+      label: Preferred communication method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      - In-person meeting
+      - No preference
+      required: true
+    - id: 19
+      name: communication_frequency
+      label: Preferred update frequency
+      hint: How often you want to hear from us
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-annually
+      - Annually
+      - Only impact reports
+      required: false
+    - id: 20
+      name: legacy_giving
+      label: Interest in legacy or planned giving
+      hint: null
+      type: select_one
+      options:
+      - Yes - interested
+      - Maybe - provide information
+      - 'No'
+      required: false
+    - id: 21
+      name: commitment_agreement
+      label: I agree to this stewardship commitment
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 22
+      name: additional_notes
+      label: Additional comments or questions
+      hint: null
+      type: text
+      options: []
+      required: false

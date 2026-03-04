@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports_photography_satisfaction_survey
+    pages:
+    - id: 1
+      name: overall_quality
+      label: overall_quality
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 2
+      name: professionalism
+      label: professionalism
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 3
+      name: communication
+      label: communication
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 4
+      name: delivery_time
+      label: delivery_time
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Fast''}'
+      - '{''label'': ''Average''}'
+      - '{''label'': ''Slow''}'
+      - '{''label'': ''Very_Slow''}'
+      required: false
+    - id: 5
+      name: value_for_money
+      label: value_for_money
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Overpriced''}'
+      - '{''label'': ''Priced_right''}'
+      - '{''label'': ''Underpriced''}'
+      - '{''label'': "Don''t_know"}'
+      required: false
+    - id: 6
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Satisfied''}'
+      - '{''label'': ''Somewhat_Satisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat_Dissatisfied''}'
+      - '{''label'': ''Dissatisfied''}'
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: photo_shoot_details
+      label: photo_shoot_details
+      hint: Please provide the date and time of your photo shoot.
+      type: select_multiple
+      options:
+      - '{''label'': ''AM''}'
+      - '{''label'': ''PM''}'
+      - '{''label'': ''Both''}'
+      required: false
+    - id: 12
+      name: photo_shoot_date
+      label: photo_shoot_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: photo_shoot_time
+      label: photo_shoot_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: photo_shoot_duration
+      label: photo_shoot_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: photographer
+      label: photographer
+      hint: Please enter your photographer's name
+      type: select_multiple
+      options:
+      - '{''label'': ''Jim''}'
+      - '{''label'': ''Bob''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 16
+      name: photo_shoot_type
+      label: photo_shoot_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Wedding''}'
+      - '{''label'': ''Event''}'
+      - '{''label'': ''Commercial''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 17
+      name: number_of_photos
+      label: number_of_photos
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: price_range
+      label: price_range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: review_text
+      label: review_text
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: rating_10
+      label: rating_10
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: rating_50
+      label: rating_50
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: rating_100
+      label: rating_100
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: rating_1000
+      label: rating_1000
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: submitted
+      label: submitted
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Undecided''}'
+      required: false

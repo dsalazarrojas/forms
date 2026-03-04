@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports_club_survey_form
+    pages:
+    - id: 1
+      name: food_selection
+      label: Food Selection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: visit_frequency
+      label: How often do you visit?
+      hint: null
+      type: select_one
+      options:
+      - Once a month
+      - Several times a month
+      - Every week
+      - Every 2 weeks
+      - Every 3 weeks
+      - Every day
+      required: false
+    - id: 3
+      name: preferred_beverage
+      label: Preferred Beverage
+      hint: null
+      type: select_one
+      options:
+      - Juice
+      - Coffee
+      - Tea
+      - Water
+      required: false
+    - id: 4
+      name: improve_facility
+      label: Ideas to Improve
+      hint: null
+      type: text
+      options: []
+      required: false

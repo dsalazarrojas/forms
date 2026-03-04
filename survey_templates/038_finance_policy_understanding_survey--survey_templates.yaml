@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: finance_policy_understanding_survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: policy_awareness
+      label: policy_awareness
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: feedback_page
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: compliance_teams
+      label: compliance_teams
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: finance_teams
+      label: finance_teams
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: guideline_improvement
+      label: guideline_improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: guideline_clarity
+      label: guideline_clarity
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: guideline_clarity_rating
+      label: guideline_clarity_rating
+      hint: null
+      type: number
+      options: []
+      required: false

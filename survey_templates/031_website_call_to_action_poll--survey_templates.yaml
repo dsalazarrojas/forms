@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Call To Action Poll
+    pages:
+    - id: 1
+      name: intro_page
+      label: Intro Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_page
+      label: What do you like most about our website?
+      hint: Please provide your feedback
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: submit_page
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: rating_page
+      label: Rate the website?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: feedback_page
+      label: What can we do better?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: website_url
+      label: Your website URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_info
+      label: Your Contact Info
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: email_page
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: name_page
+      label: Name
+      hint: Enter your name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: comment_page
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: email_confirmation
+      label: Confirm Email
+      hint: Confirm your email address
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

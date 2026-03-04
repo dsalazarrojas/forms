@@ -1,0 +1,249 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Sustainability Program Opinion Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: How likely are you to recommend our sustainability program to a friend
+        or colleague?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not Likely''}'
+      - '{''label'': ''Somewhat Likely''}'
+      - '{''label'': ''Very Likely''}'
+      - '{''label'': ''Extremely Likely''}'
+      required: false
+    - id: 3
+      name: question_2
+      label: How important is sustainability in your work life?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Not Important''}'
+      - '{''label'': ''Somewhat Important''}'
+      - '{''label'': ''Very Important''}'
+      - '{''label'': ''Extremely Important''}'
+      required: false
+    - id: 4
+      name: question_3
+      label: What would you rate your level of engagement with our company’s sustainability
+        initiatives?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: question_4
+      label: What is the main area of focus for our company’s sustainability efforts?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Climate Change''}'
+      - '{''label'': ''Diversity & Inclusion''}'
+      - '{''label'': ''Supply Chain''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: question_5
+      label: How would you rate the overall effectiveness of our sustainability program?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Not Effective''}'
+      - '{''label'': ''Somewhat Effective''}'
+      - '{''label'': ''Very Effective''}'
+      - '{''label'': ''Extremely Effective''}'
+      required: false
+    - id: 7
+      name: question_6
+      label: Do you have access to information about our sustainability performance
+        in your role?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': False}'
+      - '{''label'': ''Somewhat''}'
+      - '{''label'': True}'
+      required: false
+    - id: 8
+      name: question_7
+      label: How likely are you to support our sustainability efforts?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: question_8
+      label: Which of the following initiatives would you like to see the company
+        prioritize in the future?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Reduce our carbon footprint''}'
+      - '{''label'': ''Invest in renewable energy''}'
+      - '{''label'': ''Promote diversity and inclusion''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 10
+      name: question_9
+      label: What would you like to see the company do more of in the area of sustainability?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: question_10
+      label: How can we improve our sustainability program?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: question_11
+      label: What would you like to see the company do more of in the area of sustainability?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: question_12
+      label: How likely are you to participate in future sustainability initiatives?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not Likely''}'
+      - '{''label'': ''Somewhat Likely''}'
+      - '{''label'': ''Very Likely''}'
+      - '{''label'': ''Extremely Likely''}'
+      required: false
+    - id: 14
+      name: question_13
+      label: Are you an employee with the company for less than 6 months?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 15
+      name: question_14
+      label: Which department do you work in?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Marketing''}'
+      - '{''label'': ''Operations''}'
+      - '{''label'': ''Sales''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 16
+      name: question_15
+      label: How long have you been working with our company?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Less than 1 year''}'
+      - '{''label'': ''1-2 years''}'
+      - '{''label'': ''2-5 years''}'
+      - '{''label'': ''5-10 years''}'
+      - '{''label'': ''More than 10 years''}'
+      required: false
+    - id: 17
+      name: question_16
+      label: What level of education do you have?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''High School Diploma''}'
+      - '{''label'': ''Some College''}'
+      - '{''label'': ''College Diploma''}'
+      - '{''label'': "Master''s Degree"}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 18
+      name: question_17
+      label: What type of degree do you hold?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''High School Diploma''}'
+      - '{''label'': ''Some College''}'
+      - '{''label'': ''College Diploma''}'
+      - '{''label'': "Master''s Degree"}'
+      - '{''label'': ''Doctorate''}'
+      required: false
+    - id: 19
+      name: question_18
+      label: What is your current role in the company?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: question_19
+      label: How many years have you been working in your current role?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Less than 1 year''}'
+      - '{''label'': ''1-2 years''}'
+      - '{''label'': ''2-5 years''}'
+      - '{''label'': ''5-10 years''}'
+      - '{''label'': ''More than 10 years''}'
+      required: false
+    - id: 21
+      name: question_20
+      label: What level of experience do you have in sustainability?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Beginner''}'
+      - '{''label'': ''Intermediate''}'
+      - '{''label'': ''Advanced''}'
+      required: false
+    - id: 22
+      name: question_21
+      label: Which of the following best describes your level of interest in sustainability?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Not Interested''}'
+      - '{''label'': ''Somewhat Interested''}'
+      - '{''label'': ''Very Interested''}'
+      - '{''label'': ''Extremely Interested''}'
+      required: false
+    - id: 23
+      name: question_22
+      label: What is the primary reason you participate in sustainability efforts?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: question_23
+      label: Which of the following initiatives would you say is most important for
+        sustainability in our company?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Climate Change''}'
+      - '{''label'': ''Diversity & Inclusion''}'
+      - '{''label'': ''Supply Chain''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 25
+      name: question_24
+      label: Any additional comments?
+      hint: null
+      type: text
+      options: []
+      required: false

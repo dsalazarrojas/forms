@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: ingredient_label_review_form
+    pages:
+    - id: 1
+      name: intro
+      label: welcome_to_the_ingredient_label_review_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: product_name
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: ingredient_list
+      label: list_of_ingredients
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: ingredient_name
+      label: ingredient_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: ingredient_type
+      label: ingredient_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: product_label
+      label: product_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: review_comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: submitted_at
+      label: submitted_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: submitted_at_time
+      label: submitted_at_time
+      hint: null
+      type: time
+      options: []
+      required: false

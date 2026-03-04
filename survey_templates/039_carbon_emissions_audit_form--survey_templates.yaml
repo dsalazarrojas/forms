@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Carbon Emissions Audit Form
+    pages:
+    - id: 1
+      name: organization_details
+      label: -- ORGANIZATION DETAILS --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_size
+      label: Organization size (employees)
+      hint: null
+      type: select_one
+      options:
+      - Small - 1-50
+      - Medium - 51-250
+      - Large - 251-1000
+      - Enterprise - 1000+
+      required: true
+    - id: 4
+      name: industry_sector
+      label: Industry sector
+      hint: null
+      type: select_one
+      options:
+      - Manufacturing
+      - Retail
+      - Healthcare
+      - Technology
+      - Education
+      - Finance
+      - Transportation
+      - Hospitality
+      - Construction
+      - Agriculture
+      - Other
+      required: true
+    - id: 5
+      name: audit_date
+      label: Audit date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: audit_scope
+      label: Audit scope
+      hint: null
+      type: select_one
+      options:
+      - Entire Organization
+      - Specific Facility
+      - Department Only
+      - Scope 1 and 2 Only
+      - All Scopes
+      required: true
+    - id: 7
+      name: scope_1_emissions
+      label: -- SCOPE 1 EMISSIONS (DIRECT) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: stationary_combustion
+      label: Stationary combustion (boilers, furnaces) - mtCO2e
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: mobile_combustion
+      label: Mobile combustion (fleet vehicles) - mtCO2e
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: refrigerant_emissions
+      label: Refrigerant/air conditioning emissions - mtCO2e
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: chemical_processes
+      label: Chemical processes or manufacturing - mtCO2e
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: scope_2_emissions
+      label: -- SCOPE 2 EMISSIONS (INDIRECT ENERGY) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: purchased_electricity
+      label: Purchased electricity - mtCO2e
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: purchased_steam
+      label: Purchased steam/heating - mtCO2e
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: electricity_source
+      label: Electricity source
+      hint: null
+      type: select_multiple
+      options:
+      - Coal
+      - Natural Gas
+      - Nuclear
+      - Hydroelectric
+      - Solar
+      - Wind
+      - Other Renewable
+      required: false
+    - id: 16
+      name: scope_3_emissions
+      label: -- SCOPE 3 EMISSIONS (INDIRECT OTHER) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: business_travel
+      label: Business travel (flights) - mtCO2e
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: employee_commuting
+      label: Employee commuting - mtCO2e
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: supply_chain
+      label: Supply chain/purchased goods - mtCO2e
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: waste_disposal
+      label: Waste disposal - mtCO2e
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: audit_summary
+      label: -- AUDIT SUMMARY --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: total_emissions
+      label: Total estimated emissions (mtCO2e)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: emissions_intensity
+      label: Emissions intensity (mtCO2e per employee)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: reduction_recommendations
+      label: Recommended emissions reduction strategies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: auditor_notes
+      label: Auditor notes and observations
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Office Innovation Award Voting
+    pages:
+    - id: 1
+      name: survey_templates_form
+      label: Survey Templates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: voting_process
+      label: Voting Process
+      hint: null
+      type: select_one
+      options:
+      - Award
+      - Innovation
+      - Award and Innovation
+      required: false
+    - id: 3
+      name: home_office_setup
+      label: Home Office Setup
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: description_of_innovation
+      label: Description of Innovation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: voting_participants
+      label: Voting Participants
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

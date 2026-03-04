@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Library Resources Feedback Request Form
+    pages:
+    - id: 1
+      name: page1
+      label: feedback_on_resources
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: resource_used
+      label: resource_used
+      hint: null
+      type: select_one
+      options:
+      - Online Resources
+      - Books
+      - Articles
+      - Journals
+      - Databases
+      required: false
+    - id: 3
+      name: resource_satisfaction
+      label: resource_satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Slightly Dissatisfied
+      - Somewhat Slightly Satisfied
+      - Somewhat Very Satisfied
+      - Very Satisfied
+      - Neither Satisfied Nor Dissatisfied
+      required: false
+    - id: 4
+      name: improvement_opportunities
+      label: improvement_opportunities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: resource_improvement
+      label: resource_improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: comment
+      label: comment
+      hint: null
+      type: note
+      options: []
+      required: false

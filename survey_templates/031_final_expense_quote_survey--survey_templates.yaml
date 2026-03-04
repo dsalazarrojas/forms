@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Final Expense Quote Survey
+    pages:
+    - id: 1
+      name: client_information
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: policy_details
+      label: Policy Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: policy_type
+      label: Policy Type
+      hint: null
+      type: select_multiple
+      options:
+      - Life
+      - Health
+      - Annuity
+      required: false
+    - id: 5
+      name: policy_status
+      label: Policy Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 6
+      name: premium_frequency
+      label: Premium Frequency
+      hint: null
+      type: select_one
+      options:
+      - Annually
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 7
+      name: premium_amount
+      label: Premium Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: premium_start_date
+      label: Premium Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: premium_end_date
+      label: Premium End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: policy_effective_date
+      label: Policy Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: policy_expiration_date
+      label: Policy Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: premium_frequency_2
+      label: Premium Frequency 2
+      hint: null
+      type: select_one
+      options:
+      - Annually
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 13
+      name: premium_amount_2
+      label: Premium Amount 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: premium_start_date_2
+      label: Premium Start Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: premium_end_date_2
+      label: Premium End Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: policy_type_2
+      label: Policy Type 2
+      hint: null
+      type: select_one
+      options:
+      - Life
+      - Health
+      - Annuity
+      required: false

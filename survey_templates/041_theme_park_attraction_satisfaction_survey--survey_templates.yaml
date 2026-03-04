@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Theme Park Attraction Satisfaction Survey
+    pages:
+    - id: 1
+      name: attraction_name
+      label: Theme Park Attraction Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attraction_rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: visited_before
+      label: Visited Before
+      hint: null
+      type: select_one
+      options:
+      - Park Name
+      - Theme Park
+      - 'True'
+      - 'False'
+      required: false
+    - id: 4
+      name: visited_last_visit
+      label: Visited Last Visit
+      hint: null
+      type: select_multiple
+      options:
+      - Last 30 days
+      - Between 1-30 days
+      - More than 30 days
+      required: false
+    - id: 5
+      name: attraction_type
+      label: Attraction Type
+      hint: null
+      type: select_one
+      options:
+      - Roller Coaster
+      - Water Ride
+      - Live Show
+      required: false
+    - id: 6
+      name: time_spent
+      label: Time Spent
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: comment
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false

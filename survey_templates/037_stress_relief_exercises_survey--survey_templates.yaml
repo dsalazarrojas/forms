@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stress Relief Exercises Survey
+    pages:
+    - id: 1
+      name: survey_intro
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: stress_levels
+      label: Stress Levels
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''High''}'
+      - '{''option'': ''Medium''}'
+      - '{''option'': ''Low''}'
+      required: false
+    - id: 3
+      name: stress_habits
+      label: Stress Habits
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: program_needs
+      label: Program Needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Screen Time Survey
+    pages:
+    - id: 1
+      name: section_screen_habits
+      label: -- Screen Habits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: child_name
+      label: Child Name
+      hint: Name of the child for this survey
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_age_bracket
+      label: Age of Child
+      hint: Select the appropriate age group
+      type: select_one
+      options:
+      - label: Under 2 years
+        value: baby
+      - label: 2 to 5 years
+        value: toddler
+      - label: 6 to 10 years
+        value: child
+      - label: 11 to 13 years
+        value: tween
+      - label: 14 to 17 years
+        value: teen
+      required: true
+    - id: 4
+      name: section_daily_usage
+      label: -- Daily Usage --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: daily_screen_hours
+      label: Average hours of screen time per day
+      hint: Enter a whole number
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: screen_types
+      label: Types of screens used
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - label: Smartphone
+        value: phone
+      - label: Tablet or IPad
+        value: tablet
+      - label: Television
+        value: tv
+      - label: Computer or Laptop
+        value: computer
+      - label: Gaming Console
+        value: console
+      required: true
+    - id: 7
+      name: section_supervision
+      label: -- Content and Supervision --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: primary_activities
+      label: Primary Screen Activities
+      hint: What does the child do most?
+      type: select_multiple
+      options:
+      - label: Educational games and apps
+        value: educational
+      - label: Videos or YouTube
+        value: videos
+      - label: Social media or Messaging
+        value: social
+      - label: Entertainment Video games
+        value: gaming
+      - label: School work and Research
+        value: school
+      required: true
+    - id: 9
+      name: parental_controls
+      label: Do you use parental controls?
+      hint: Filtering or monitoring software
+      type: select_one
+      options:
+      - label: Yes - Always Active
+        value: always
+      - label: Yes - Sometimes Active
+        value: sometimes
+      - label: No - Not used
+        value: false
+      required: true
+    - id: 10
+      name: time_limit_status
+      label: Do you set a specific daily time limit?
+      hint: Enforced boundaries
+      type: select_one
+      options:
+      - label: true
+        value: true
+      - label: false
+        value: false
+      required: true
+    - id: 11
+      name: section_impact
+      label: -- Behavioral Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: screen_behavior_impact
+      label: How does screen time affect child behavior?
+      hint: General mood and focus
+      type: select_one
+      options:
+      - label: Positively - Helps learning
+        value: positive
+      - label: Neutrally - No major change
+        value: neutral
+      - label: Negatively - Causes irritability
+        value: negative
+      required: true
+    - id: 13
+      name: screen_habits_comments
+      label: Additional comments on screen habits
+      hint: Share any specific concerns or observations
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: today_date
+      label: Today Date
+      hint: Survey completion date
+      type: date
+      options: []
+      required: true

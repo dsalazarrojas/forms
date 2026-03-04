@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: Infected Blood Incident Inquiry Questionnaire
+    pages:
+    - id: 1
+      name: incident_date
+      label: incident_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_type
+      label: incident_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: personal_account
+      label: personal_account
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: follow_up_status
+      label: follow_up_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_message
+      label: follow_up_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_status
+      label: follow_up_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: incident_review_date
+      label: incident_review_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: incident_review_status
+      label: incident_review_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: organization_name
+      label: organization_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: organization_contact
+      label: organization_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: organization_email
+      label: organization_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: organization_phone
+      label: organization_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: organization_address
+      label: organization_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: organization_website
+      label: organization_website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: group_name
+      label: group_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: group_contact
+      label: group_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: group_email
+      label: group_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: group_phone
+      label: group_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: group_website
+      label: group_website
+      hint: null
+      type: text
+      options: []
+      required: false

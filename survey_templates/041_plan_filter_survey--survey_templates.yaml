@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Plan Filter Survey
+    pages:
+    - id: 1
+      name: page_1
+      label: Plan Filter Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: plan_type
+      label: Plan Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Plan A''}'
+      - '{''label'': ''Plan B''}'
+      - '{''label'': ''Plan C''}'
+      required: false
+    - id: 4
+      name: plan_benefit
+      label: Plan Benefit
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Benefit A''}'
+      - '{''label'': ''Benefit B''}'
+      - '{''label'': ''Benefit C''}'
+      required: false
+    - id: 5
+      name: plan_budget
+      label: Plan Budget
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: user_phone
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: user_comments
+      label: User Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: plan_schedule
+      label: Plan Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: plan_start_time
+      label: Plan Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: plan_duration
+      label: Plan Duration
+      hint: null
+      type: text
+      options: []
+      required: false

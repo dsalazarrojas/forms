@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health and Wellbeing Quiz
+    pages:
+    - id: 1
+      name: wellbeing_quiz_questions
+      label: How often do you practice mindfulness
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: mental_health
+      label: How would you rate your mental health
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: physical_health
+      label: How would you rate your physical health
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: relationships
+      label: How would you rate your relationships
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 5
+      name: sleep_health
+      label: Sleep quality and duration
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 6
+      name: work_life_balance
+      label: Work life balance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: nutrition
+      label: Nutrition and diet
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: physical_activity
+      label: How often are you physically active
+      hint: How often do you exercise, go for a walk, or do other physical activities
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: stress_management
+      label: Stress Management
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: self_care
+      label: How much time do you spend on self-care
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: social_connections
+      label: How often do you feel connected to others
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: self_maintenance
+      label: How often do you take care of yourself
+      hint: How often do you practice self-maintenance
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

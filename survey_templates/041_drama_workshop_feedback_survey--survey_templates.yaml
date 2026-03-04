@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: drama_workshop_feedback_survey
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: workshop_title
+      label: Workshop Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: How would you rate your overall feedback on this workshop?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: rating
+      label: Rate the workshop
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: comment
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: attended_workshop
+      label: Attended Workshop
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: attended_session
+      label: Attended Session
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: session_length
+      label: Session Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: time_slot
+      label: Time Slot
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_workshop
+      label: Date of Workshop
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_workshop
+      label: Time of Workshop
+      hint: null
+      type: time
+      options: []
+      required: false

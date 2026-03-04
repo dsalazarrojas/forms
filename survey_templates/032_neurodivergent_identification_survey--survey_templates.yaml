@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: neurodivergent_identification_survey
+    pages:
+    - id: 1
+      name: intro
+      label: Neurodivergent Identification Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: neurodivergent_status
+      label: Neurodivergent Status
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Neurotypical
+      - Probable Neurodivergent
+      - Possible Neurodivergent
+      - Confirmed Neurodivergent
+      required: true
+    - id: 6
+      name: self_reflection
+      label: Self Reflection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

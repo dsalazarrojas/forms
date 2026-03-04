@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Album Of The Year Voting Form
+    pages:
+    - id: 1
+      name: section_voter
+      label: -- Voter Registration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: voter_email
+      label: Voter Email Address
+      hint: To prevent duplicate voting
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: voter_location
+      label: Region/Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: primary_genre_interest
+      label: Primary Music Genre of Interest
+      hint: null
+      type: select_one
+      options:
+      - Pop
+      - Rock/Alternative
+      - Hip Hop/R&B
+      - Electronic
+      - Country/Folk
+      - Metal
+      - Jazz/Classical
+      required: true
+    - id: 5
+      name: section_voting
+      label: -- The Nominations --
+      hint: Choose your winner for each category
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: album_of_the_year_vote
+      label: Main Category - Album of the Year
+      hint: Select the one album that defined your year
+      type: select_one
+      options:
+      - Nominee Album A - Artist 1
+      - Nominee Album B - Artist 2
+      - Nominee Album C - Artist 3
+      - Nominee Album D - Artist 4
+      - Nominee Album E - Artist 5
+      - Write-in Candidate (Enter in notes)
+      required: true
+    - id: 7
+      name: best_debut_album
+      label: Best Debut Album
+      hint: null
+      type: select_one
+      options:
+      - Debut A
+      - Debut B
+      - Debut C
+      - Debut D
+      required: true
+    - id: 8
+      name: best_production
+      label: Best Produced Album
+      hint: Focus on sound design and engineering
+      type: select_one
+      options:
+      - Album X
+      - Album Y
+      - Album Z
+      required: true
+    - id: 9
+      name: breakthrough_artist
+      label: Breakthrough Artist of the Year
+      hint: null
+      type: select_one
+      options:
+      - Artist Alpha
+      - Artist Beta
+      - Artist Gamma
+      required: true
+    - id: 10
+      name: section_additional
+      label: -- Honorable Mentions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: hidden_gem
+      label: Hidden Gem or Under-the-radar Favorite
+      hint: Tell us about a great album people might have missed
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: reason_for_main_vote
+      label: Why did you choose your Album of the Year?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: fan_loyalty
+      label: Are you a member of any of the nominees fan clubs?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 14
+      name: mailing_list_optin
+      label: Opt-in to our music awards newsletter for results
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: validation_check
+      label: I confirm this is my only vote for this year
+      hint: null
+      type: select_one
+      options:
+      - I confirm
+      - Other
+      required: true

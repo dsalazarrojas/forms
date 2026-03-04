@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Preschool Parent Survey Form
+    pages:
+    - id: 1
+      name: parent_satisfaction
+      label: How satisfied are you with our school
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 2
+      name: communication
+      label: How would you rate the communication between teachers
+      hint: null
+      type: select_multiple
+      options:
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 3
+      name: teacher_support
+      label: How supportive are your child's teachers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: school_environment
+      label: What do you like most about our school
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: school_environment_2
+      label: What do you dislike most about our school
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: teacher_support_2
+      label: How supportive are your child's teachers
+      hint: null
+      type: select_one
+      options:
+      - Very supportive
+      - Somewhat supportive
+      - Not very supportive
+      - Not at all supportive
+      required: false
+    - id: 7
+      name: teacher_availability
+      label: How available are your child's teachers
+      hint: null
+      type: select_one
+      options:
+      - Very available
+      - Somewhat available
+      - Not very available
+      - Not at all available
+      required: false
+    - id: 8
+      name: class_size
+      label: How many students are in your child's class
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: teaching_style
+      label: What type of teaching style is most used
+      hint: null
+      type: select_one
+      options:
+      - Traditional
+      - Progressive
+      - Montessori
+      - Other
+      required: false
+    - id: 10
+      name: feedback
+      label: Do you have any suggestions or feedback
+      hint: null
+      type: text
+      options: []
+      required: false

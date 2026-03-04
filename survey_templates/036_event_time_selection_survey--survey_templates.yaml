@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Time Selection Survey
+    pages:
+    - id: 1
+      name: event_time_selection_survey_first_page
+      label: What date would you like to attend
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: event_time_selection_survey_second_page
+      label: What time would you like to attend at this date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: event_time_selection_survey_third_page
+      label: Format for this meeting/training/event
+      hint: null
+      type: select_multiple
+      options:
+      - In-person
+      - Virtual
+      - Phone
+      required: false
+    - id: 4
+      name: event_time_selection_survey_fourth_page
+      label: What time of day would you prefer for this event
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 5
+      name: event_time_selection_survey_fifth_page
+      label: How long would you like this event to last
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: event_time_selection_survey_sixth_page
+      label: What is your availability from 8am-9am
+      hint: null
+      type: select_multiple
+      options:
+      - Available
+      - Busy
+      - Unknown
+      required: false
+    - id: 7
+      name: event_time_selection_survey_seventh_page
+      label: How many days advance notice do you need for events
+      hint: null
+      type: select_one
+      options:
+      - 1 day
+      - 2 days
+      - More than 2 days
+      required: false
+    - id: 8
+      name: event_time_selection_survey_eighth_page
+      label: Do you prefer AM or PM
+      hint: null
+      type: select_one
+      options:
+      - AM
+      - PM
+      required: false

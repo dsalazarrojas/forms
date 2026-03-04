@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Football Awards Nomination Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: award_category
+      label: Award Category
+      hint: null
+      type: select_one
+      options:
+      - Football
+      - Soccer
+      - Award
+      required: true
+    - id: 5
+      name: award_year
+      label: Award Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: nomination_reason
+      label: Nomination Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: nominee_name
+      label: Nominee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: nominee_position
+      label: Nominee Position
+      hint: null
+      type: select_one
+      options:
+      - Goalkeeper
+      - Defender
+      - Midfielder
+      - Forward
+      - Other
+      required: true
+    - id: 9
+      name: nominator_name
+      label: Nominator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: nominator_position
+      label: Nominator Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: nominator_email
+      label: Nominator Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: nominator_phone
+      label: Nominator Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: nominator_institute
+      label: Nominator Institute
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: nomination_type
+      label: Nomination Type
+      hint: null
+      type: select_one
+      options:
+      - Automatic
+      - Manual
+      - Both
+      required: true
+    - id: 17
+      name: nomination_status
+      label: Nomination Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Complete
+      - Rejected
+      required: true
+    - id: 18
+      name: nomination_comment
+      label: Nomination Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submission_comment
+      label: Submission Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submission_confirmation
+      label: Submission Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 22
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: nominator_note
+      label: Nominator Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submission_note
+      label: Submission Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: nominator_agreement
+      label: Nominator Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

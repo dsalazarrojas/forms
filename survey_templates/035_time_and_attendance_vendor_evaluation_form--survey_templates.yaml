@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Time And Attendance Vendor Evaluation Form
+    pages:
+    - id: 1
+      name: vendor_info
+      label: vendor_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor_rating
+      label: rate_vendor
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: timekeeping
+      label: timekeeping
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: time_sheets
+      label: time_sheets
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: payroll_integration
+      label: payroll_integration
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: reporting
+      label: reporting
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: support
+      label: support
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: billing
+      label: billing
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: implementation
+      label: implementation
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: communication
+      label: communication
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

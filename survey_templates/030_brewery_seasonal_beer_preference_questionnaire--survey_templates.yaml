@@ -1,0 +1,225 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Brewery Seasonal Beer Preference Questionnaire
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Optional - for recognition purposes
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: respondent_email
+        label: Email Address
+        hint: For contact regarding your preferences
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: survey_date
+        label: Survey Date
+        hint: Today's date
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: season_selecting
+        label: Which Season Are We Planning For
+        hint: Select the upcoming season
+        type: select_one
+        options:
+          - Spring
+          - Summer
+          - Fall
+          - Winter
+        required: true
+      - id: 5
+        name: customer_loyalty
+        label: How Often Do You Visit Our Brewery
+        hint: Your frequency of visits
+        type: select_one
+        options:
+          - Weekly or more
+          - 2-3 times monthly
+          - Monthly
+          - Several times per year
+          - Occasionally
+          - First time
+        required: true
+      - id: 6
+        name: favorite_beer_style
+        label: Your Favorite Beer Style
+        hint: Pick your top beer style
+        type: select_one
+        options:
+          - IPA - India Pale Ale
+          - Lager
+          - Stout
+          - Porter
+          - Wheat Beer
+          - Sour
+          - Pale Ale
+          - Pilsner
+        required: true
+      - id: 7
+        name: beer_strength_preference
+        label: Preferred Beer Strength
+        hint: What ABV range do you prefer
+        type: select_one
+        options:
+          - Light - Under 4% ABV
+          - Session - 4-5% ABV
+          - Standard - 5-6.5% ABV
+          - Strong - 6.5-8% ABV
+          - Very Strong - 8%+ ABV
+        required: true
+      - id: 8
+        name: seasonal_flavors
+        label: Seasonal Flavor Preferences
+        hint: What flavors appeal to you seasonally
+        type: select_multiple
+        options:
+          - Floral and hoppy
+          - Fruity and citrus
+          - Spicy and warming
+          - Chocolate and coffee
+          - Vanilla and caramel
+          - Herbal and earthy
+          - Sour and tart
+        required: true
+      - id: 9
+        name: seasonal_beer_interest
+        label: Would You Like Seasonal Limited Editions
+        hint: Interest in seasonal offerings
+        type: select_one
+        options:
+          - Yes, very interested
+          - Interested
+          - Neutral
+          - Less interested
+          - Not interested
+        required: true
+      - id: 10
+        name: innovation_willingness
+        label: How Open Are You to New Beer Styles
+        hint: Your willingness to try new things
+        type: select_one
+        options:
+          - Very open - love trying new styles
+          - Open to new styles
+          - Prefer familiar favorites
+          - Stick to what I know
+          - Never try new beers
+        required: true
+      - id: 11
+        name: experimental_interest
+        label: Interest in Experimental Brews
+        hint: Would you like to see experimental beers
+        type: select_one
+        options:
+          - Definitely yes
+          - Yes
+          - Maybe
+          - Probably not
+          - Definitely not
+        required: false
+      - id: 12
+        name: abv_seasonal_preference
+        label: Seasonal ABV Preference
+        hint: Different seasons have different preferences
+        type: select_multiple
+        options:
+          - Spring - Lighter lower ABV
+          - Summer - Light crisp beers
+          - Fall - Medium bodied beers
+          - Winter - Higher ABV warming beers
+        required: false
+      - id: 13
+        name: packaging_preference
+        label: Preferred Packaging Format
+        hint: How do you prefer to buy beer
+        type: select_multiple
+        options:
+          - Draft on tap
+          - Cans
+          - Bottles
+          - Flight tastings
+          - Growlers
+        required: true
+      - id: 14
+        name: price_sensitivity
+        label: Price Point Consideration
+        hint: What price range is acceptable
+        type: select_one
+        options:
+          - Budget-friendly
+          - Moderate pricing
+          - Premium pricing acceptable
+          - Willing to pay for special releases
+          - Price doesn't matter
+        required: false
+      - id: 15
+        name: past_seasonal_feedback
+        label: Feedback on Previous Seasonal Offerings
+        hint: What did you think of past releases
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: must_have_features
+        label: Must-Have Features in Seasonal Beer
+        hint: What is most important to you
+        type: select_multiple
+        options:
+          - Great taste
+          - Balanced flavor profile
+          - Unique ingredients
+          - Consistency
+          - Interesting story
+          - Limited availability
+          - Award potential
+        required: false
+      - id: 17
+        name: collaboration_interest
+        label: Interest in Collaborative Beers
+        hint: Would you like us to collaborate with other breweries
+        type: select_one
+        options:
+          - Yes, very interested
+          - Interested
+          - Neutral
+          - Less interested
+          - Not interested
+        required: false
+      - id: 18
+        name: event_participation
+        label: Would You Attend Seasonal Release Events
+        hint: Event participation interest
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Maybe
+          - Probably not
+          - Definitely not
+        required: false
+      - id: 19
+        name: additional_suggestions
+        label: Additional Suggestions or Ideas
+        hint: What would you like to see
+        type: text
+        options: []
+        required: false

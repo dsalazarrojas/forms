@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Moment Observation Log Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Contact Moment Observation Log --
+      hint: Use this form to record interaction observations for quality coaching
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: observer_name
+      label: Observer name
+      hint: Person recording the observation
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date
+      label: Observation date
+      hint: Date of the interaction observed
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_method
+      label: Contact method observed
+      hint: Phone, email, chat, or in-person
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Chat
+      - In person
+      required: true
+    - id: 5
+      name: customer_name
+      label: Customer name
+      hint: Optional - name of the customer observed
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: outcome
+      label: Outcome of interaction
+      hint: Result of the contact moment
+      type: select_one
+      options:
+      - Resolved
+      - Escalated
+      - Follow up required
+      - No action
+      required: true
+    - id: 7
+      name: adherence_to_script
+      label: Adherence to script
+      hint: Did the agent follow procedures
+      type: select_one
+      options:
+      - true
+      - Partially
+      - false
+      required: true
+    - id: 8
+      name: empathy_rating
+      label: Empathy rating
+      hint: Rate agent empathy from 1 to 5
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: professionalism_rating
+      label: Professionalism rating
+      hint: Rate agent professionalism from 1 to 5
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: coaching_recommendations
+      label: Coaching recommendations
+      hint: Suggested coaching actions for the agent
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_notes
+      label: Additional notes
+      hint: Any other observations
+      type: text
+      options: []
+      required: false

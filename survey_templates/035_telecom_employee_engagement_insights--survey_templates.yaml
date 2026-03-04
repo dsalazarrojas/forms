@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telecom Employee Engagement Insights
+    pages:
+    - id: 1
+      name: intro
+      label: Telecom Employee Engagement Insights
+      hint: 'null'
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: job title
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: department
+      hint: 'null'
+      type: select_one
+      options:
+      - IT
+      - Marketing
+      - Sales
+      - Support
+      required: false
+    - id: 5
+      name: engagement_score
+      label: Engagement Score
+      hint: 'null'
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_comment
+      label: Manager Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: telecom_survey
+      label: Telecom Survey
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: telecom_survey_frequency
+      label: Telecom Survey Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false

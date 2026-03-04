@@ -1,0 +1,510 @@
+inputSchema:
+  type: object
+  properties:
+    title: American Dream Survey
+    pages:
+    - id: 1
+      name: section_introduction
+      label: -- American Dream Survey --
+      hint: This survey explores perceptions and experiences related to the American
+        Dream. Your responses are confidential.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: section_demographics
+      label: -- Demographic Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: false
+    - id: 5
+      name: birth_country
+      label: Country of Birth
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: current_residence
+      label: Current Country of Residence
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: years_in_us
+      label: Years Living in the United States
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: immigration_status
+      label: Immigration Status
+      hint: null
+      type: select_one
+      options:
+      - U.S. Citizen by birth
+      - Naturalized U.S. Citizen
+      - Permanent Resident (Green Card)
+      - Work Visa
+      - Student Visa
+      - Asylum/Refugee
+      - Undocumented
+      - Not applicable
+      - Prefer not to say
+      required: false
+    - id: 9
+      name: section_american_dream_definition
+      label: -- Definition of American Dream --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: what_is_american_dream
+      label: What Does the American Dream Mean to You
+      hint: Describe in your own words
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: american_dream_components
+      label: What Components Are Essential to the American Dream
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Homeownership
+      - Financial stability
+      - Career success
+      - Education
+      - Freedom
+      - Equality
+      - Family security
+      - Retirement comfort
+      - Starting a business
+      - Upward mobility
+      - Other
+      required: true
+    - id: 12
+      name: importance_level
+      label: How Important Is the American Dream to You
+      hint: null
+      type: select_one
+      options:
+      - Very important
+      - Important
+      - Somewhat important
+      - Not very important
+      - Not important at all
+      required: true
+    - id: 13
+      name: section_achievability
+      label: -- Achievability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: is_american_dream_achievable
+      label: Do You Believe the American Dream Is Achievable
+      hint: null
+      type: select_one
+      options:
+      - Yes - Definitely achievable
+      - Yes - Achievable with hard work
+      - Maybe - Depends on circumstances
+      - No - Very difficult
+      - No - Not achievable for most
+      required: true
+    - id: 15
+      name: achievability_reasons
+      label: Why Do You Feel This Way
+      hint: Explain your answer
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: compared_to_past
+      label: Is the American Dream More or Less Achievable Than in the Past
+      hint: null
+      type: select_one
+      options:
+      - Much more achievable
+      - Somewhat more achievable
+      - About the same
+      - Somewhat less achievable
+      - Much less achievable
+      required: true
+    - id: 17
+      name: barriers_to_achievement
+      label: What Are the Main Barriers to Achieving the American Dream
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Economic inequality
+      - Cost of education
+      - Housing costs
+      - Healthcare costs
+      - Discrimination
+      - Lack of opportunities
+      - Immigration policies
+      - Tax burden
+      - Debt
+      - Other
+      required: true
+    - id: 18
+      name: section_personal_experience
+      label: -- Personal Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: pursuing_american_dream
+      label: Are You Currently Pursuing the American Dream
+      hint: null
+      type: select_one
+      options:
+      - Yes - Actively pursuing
+      - Yes - Have achieved
+      - No - Not pursuing
+      - No - Gave up
+      - Unsure
+      required: true
+    - id: 20
+      name: progress_made
+      label: How Much Progress Have You Made
+      hint: If pursuing
+      type: select_one
+      options:
+      - Significant progress
+      - Moderate progress
+      - Some progress
+      - Little progress
+      - No progress
+      - Not applicable
+      required: false
+    - id: 21
+      name: goals_achieved
+      label: Which Goals Have You Achieved
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Completed education
+      - Stable employment
+      - Own a home
+      - Started a business
+      - Financial security
+      - Brought family to US
+      - Became citizen
+      - None yet
+      - Other
+      required: false
+    - id: 22
+      name: goals_remaining
+      label: Which Goals Remain
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Complete education
+      - Find stable employment
+      - Buy a home
+      - Start a business
+      - Achieve financial security
+      - Bring family to US
+      - Become citizen
+      - Retire comfortably
+      - Other
+      required: false
+    - id: 23
+      name: section_motivation
+      label: -- Motivation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: reason_for_coming_to_us
+      label: What Was Your Primary Reason for Coming to the United States
+      hint: Select primary reason
+      type: select_one
+      options:
+      - Economic opportunities
+      - Education
+      - Family reunification
+      - Political freedom
+      - Religious freedom
+      - Safety/Security
+      - Better quality of life
+      - Already born in US
+      - Other
+      required: true
+    - id: 25
+      name: motivation_detail
+      label: Describe Your Motivation
+      hint: More details
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: sacrifices_made
+      label: What Sacrifices Have You Made
+      hint: To pursue the American Dream
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: section_opportunities
+      label: -- Opportunities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: opportunities_in_us
+      label: How Do Opportunities in the US Compare to Your Home Country
+      hint: null
+      type: select_one
+      options:
+      - Much better in US
+      - Somewhat better in US
+      - About the same
+      - Somewhat worse in US
+      - Much worse in US
+      - Not applicable
+      required: false
+    - id: 29
+      name: field_of_opportunity
+      label: In What Field Do You See Most Opportunity
+      hint: null
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Education
+      - Business/Entrepreneurship
+      - Skilled trades
+      - Arts/Entertainment
+      - Service industry
+      - Other
+      required: false
+    - id: 30
+      name: section_challenges
+      label: -- Challenges --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: challenges_faced
+      label: What Challenges Have You Faced
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Language barrier
+      - Cultural adjustment
+      - Discrimination
+      - Finding employment
+      - Housing
+      - Healthcare access
+      - Education costs
+      - Legal/immigration issues
+      - Family separation
+      - Financial struggles
+      - Other
+      required: false
+    - id: 32
+      name: biggest_challenge
+      label: What Was Your Biggest Challenge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: how_overcame_challenges
+      label: How Did You Overcome Challenges
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: section_support_system
+      label: -- Support System --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: support_available
+      label: What Support Do You Have
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Family in US
+      - Friends in US
+      - Community organizations
+      - Religious community
+      - Employer support
+      - Government programs
+      - Educational institutions
+      - No support
+      - Other
+      required: false
+    - id: 36
+      name: support_helpfulness
+      label: How Helpful Has Support Been
+      hint: null
+      type: select_one
+      options:
+      - Very helpful
+      - Helpful
+      - Somewhat helpful
+      - Not very helpful
+      - Not helpful at all
+      required: false
+    - id: 37
+      name: section_satisfaction
+      label: -- Satisfaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 38
+      name: life_satisfaction_us
+      label: How Satisfied Are You with Your Life in the United States
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 39
+      name: would_recommend
+      label: Would You Recommend Others Come to the United States
+      hint: null
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Neutral
+      - Probably not
+      - Definitely not
+      required: true
+    - id: 40
+      name: regret_decision
+      label: Do You Regret Your Decision to Come to the United States
+      hint: null
+      type: select_one
+      options:
+      - No - No regrets
+      - No - Mostly positive
+      - Sometimes - Mixed feelings
+      - Yes - Some regrets
+      - Yes - Major regrets
+      required: false
+    - id: 41
+      name: section_future
+      label: -- Future Outlook --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 42
+      name: future_optimism
+      label: How Optimistic Are You About Your Future
+      hint: null
+      type: select_one
+      options:
+      - Very optimistic
+      - Optimistic
+      - Neutral
+      - Pessimistic
+      - Very pessimistic
+      required: true
+    - id: 43
+      name: children_future
+      label: Do You Believe Your Children Will Have Better Lives
+      hint: If applicable
+      type: select_one
+      options:
+      - Yes - Definitely
+      - Yes - Probably
+      - Maybe
+      - Probably not
+      - Definitely not
+      - Not applicable
+      required: false
+    - id: 44
+      name: staying_in_us
+      label: Do You Plan to Stay in the United States Long-term
+      hint: null
+      type: select_one
+      options:
+      - Yes - Permanently
+      - Yes - Long-term
+      - Maybe
+      - No - Plan to return home
+      - No - Plan to move elsewhere
+      required: false
+    - id: 45
+      name: section_additional
+      label: -- Additional Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 46
+      name: advice_for_newcomers
+      label: What Advice Would You Give to Newcomers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 47
+      name: policy_changes
+      label: What Policy Changes Would Help Immigrants
+      hint: Suggestions
+      type: text
+      options: []
+      required: false
+    - id: 48
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false
+    - id: 49
+      name: survey_language
+      label: What Language Did You Take This Survey In
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Chinese
+      - Other
+      required: false

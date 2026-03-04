@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Development Survey
+    pages:
+    - id: 1
+      name: customer_development_survey_form
+      label: Customer Development Survey Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_website
+      label: Company Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 5
+      name: employee_count
+      label: Employee Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: feedback_areas
+      label: Areas of Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - Sales
+      - Marketing
+      - Product
+      - Development
+      - Support
+      required: false
+    - id: 9
+      name: feedback_description
+      label: Feedback Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: improvement_areas
+      label: Improvement Areas
+      hint: null
+      type: select_multiple
+      options:
+      - Cost
+      - Quality
+      - Functionality
+      - User Experience
+      - Performance
+      required: false
+    - id: 11
+      name: expected_outcome
+      label: Expected Outcome
+      hint: null
+      type: select_multiple
+      options:
+      - Revenue Growth
+      - Customer Growth
+      - Market Growth
+      - Product Growth
+      - Process Growth
+      required: false
+    - id: 12
+      name: actual_outcome
+      label: Actual Outcome
+      hint: null
+      type: select_multiple
+      options:
+      - Revenue Growth
+      - Customer Growth
+      - Market Growth
+      - Product Growth
+      - Process Growth
+      required: false

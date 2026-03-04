@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Superlatives Nomination Form
+    pages:
+    - id: 1
+      name: nomination_page
+      label: Nomination Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lecturer_nominations
+      label: Most Inspiring Lecturer
+      hint: null
+      type: select_one
+      options:
+      - Most Inspiring
+      - Outstanding
+      - Innovative
+      required: false
+    - id: 3
+      name: lecturer_nominant_student_name
+      label: Nominator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: lecturer_nominant_contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: lecturer_nominant_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: lecturer_nominations
+      label: Midnight Warrior
+      hint: null
+      type: select_one
+      options:
+      - Midnight
+      - Outstanding
+      - Innovative
+      required: false
+    - id: 7
+      name: nominant_contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: nominant_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: nominant_name
+      label: Nominator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: nominant_title
+      label: Nominator's Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: nominant_department
+      label: Nominator's Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: nominant_position
+      label: Nominator's Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: nominant_phone
+      label: Nominator's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: nominant_email_2
+      label: Nominator's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: other_nominations
+      label: Other
+      hint: null
+      type: select_multiple
+      options:
+      - Outstanding
+      - Innovative
+      - Midnight
+      - Most Inspiring
+      - Future
+      - Other
+      required: false

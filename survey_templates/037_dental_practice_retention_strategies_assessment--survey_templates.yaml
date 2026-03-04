@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dental Practice Retention Strategies Assessment
+    pages:
+    - id: 1
+      name: patient_satisfaction
+      label: Patient Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Somewhat Dissatisfied
+      - Neutral
+      - Somewhat Satisfied
+      - Very Satisfied
+      required: true
+    - id: 2
+      name: retention_efforts
+      label: Retention Efforts
+      hint: Describe the efforts made to retain current patients
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_satisfaction_score
+      label: Patient Satisfaction Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: staff_satisfaction
+      label: Staff Satisfaction
+      hint: Describe the efforts made to satisfy your staff
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_retention_score
+      label: Patient Retention Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: retention_strategy
+      label: Retention Strategy
+      hint: null
+      type: select_multiple
+      options:
+      - Social Media
+      - Referrals
+      - Word of Mouth
+      - Patient Education
+      - Staff
+      - Other
+      - None
+      required: true
+    - id: 7
+      name: retention_efforts
+      label: Retention Efforts
+      hint: null
+      type: select_multiple
+      options:
+      - Social Media
+      - Referrals
+      - Word of Mouth
+      - Patient Education
+      - Staff
+      - Other
+      required: false
+    - id: 8
+      name: improvement_areas
+      label: Areas of Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: action_plan
+      label: Action Plan
+      hint: null
+      type: select_one
+      options:
+      - Short-Term
+      - Mid-Term
+      - Long-Term
+      - None
+      required: false
+    - id: 10
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: select_multiple
+      options:
+      - Short-Term
+      - Mid-Term
+      - Long-Term
+      - None
+      required: false

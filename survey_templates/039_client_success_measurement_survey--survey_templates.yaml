@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Success Measurement Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: -- Client Success Evaluation --
+      hint: Help us measure our success in supporting you
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: account_manager
+      label: Your Account Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: relationship_duration
+      label: How Long Have You Been a Client?
+      hint: null
+      type: select_one
+      options:
+      - Less than 3 months
+      - 3-6 months
+      - 6-12 months
+      - 1-2 years
+      - 2+ years
+      required: true
+    - id: 5
+      name: goals_achievement
+      label: Have We Helped You Achieve Your Goals?
+      hint: null
+      type: select_one
+      options:
+      - Exceeded goals
+      - Achieved goals
+      - Partially achieved
+      - Not yet achieved
+      - Goals changed
+      required: true
+    - id: 6
+      name: roi_achieved
+      label: Return on Investment (ROI)
+      hint: What ROI have you seen?
+      type: select_one
+      options:
+      - Significant ROI
+      - Good ROI
+      - Modest ROI
+      - Minimal ROI
+      - Negative ROI
+      - Too early to tell
+      required: false
+    - id: 7
+      name: success_metrics_met
+      label: Success Metrics Met
+      hint: Specific measures of success achieved
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: product_adoption
+      label: Product or Service Adoption Level
+      hint: How much are you utilizing our offering?
+      type: select_one
+      options:
+      - Full adoption
+      - High usage
+      - Moderate usage
+      - Low usage
+      - Minimal usage
+      required: true
+    - id: 9
+      name: team_satisfaction
+      label: Team Satisfaction with the Service
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 10
+      name: customer_health_score
+      label: Overall Customer Health Score
+      hint: On a scale of 1-10
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: risk_factors
+      label: Any Risk Factors or Concerns
+      hint: Potential issues that might affect our relationship
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: expansion_opportunity
+      label: Expansion or Upsell Opportunity
+      hint: Interest in additional services or products
+      type: select_one
+      options:
+      - Yes, definitely interested
+      - Possibly interested
+      - Not interested at this time
+      - Currently evaluating
+      required: false
+    - id: 13
+      name: retention_likelihood
+      label: Likelihood to Continue Service
+      hint: Will you renew or continue with us?
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Uncertain
+      - Probably not
+      - Definitely not
+      required: true
+    - id: 14
+      name: recommendation_likelihood
+      label: Likelihood to Recommend Us
+      hint: On a scale of 1-10
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: improvement_areas
+      label: Areas for Improvement
+      hint: What could we do better?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: success_enablers
+      label: What Enabled Your Success?
+      hint: Key factors that helped you succeed
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_feedback
+      label: Additional Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

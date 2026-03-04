@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music Album Critic Release Form
+    pages:
+    - id: 1
+      name: album_name
+      label: Album Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: album_url
+      label: Album URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: music_genre
+      label: Music Genre
+      hint: null
+      type: select_one
+      options:
+      - Electronic
+      - Classical
+      - Folk
+      - Rock
+      - Pop
+      - Jazz
+      - RnB
+      - Hip Hop
+      - Musical
+      required: true
+    - id: 4
+      name: music_style
+      label: Music Style
+      hint: null
+      type: select_one
+      options:
+      - Electronic
+      - Classical
+      - Folk
+      - Rock
+      - Pop
+      - Jazz
+      - RnB
+      - Hip Hop
+      - Musical
+      required: true
+    - id: 5
+      name: critic_name
+      label: Critic Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: music_label
+      label: Music Label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: music_artist
+      label: Music Artist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: music_album_release_date
+      label: Music Album Release Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: music_album_rating
+      label: Music Album Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: music_album_release_status
+      label: Music Album Release Status
+      hint: null
+      type: select_one
+      options:
+      - Unreleased
+      - In Progress
+      - Published
+      required: true
+    - id: 11
+      name: critic_feedback
+      label: Critic Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: music_publisher
+      label: Music Publisher
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: publication_permissions
+      label: Publication-Ready
+      hint: null
+      type: select_multiple
+      options:
+      - Print
+      - Web
+      - Audio
+      - Video
+      - Digital
+      required: false
+    - id: 14
+      name: critic_contact_info
+      label: Critic Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: music_album_review
+      label: Music Album Review
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: music_album_rating_score
+      label: Music Album Rating Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: publication_notes
+      label: Publication Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: music_album_release_version
+      label: Music Album Release Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: music_album_tracklist
+      label: Music Album Tracklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: music_release_date_notes
+      label: Music Release Date Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: music_album_length
+      label: Music Album Length
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: music_album_format
+      label: Music Album Format
+      hint: null
+      type: select_multiple
+      options:
+      - Audio
+      - Video
+      - CD
+      - Vinyl
+      - Digital
+      - LP
+      required: false
+    - id: 23
+      name: music_album_cover_art
+      label: Music Album Cover Art
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: music_album_release_notes
+      label: Music Album Release Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: music_album_additional_notes
+      label: Music Album Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false

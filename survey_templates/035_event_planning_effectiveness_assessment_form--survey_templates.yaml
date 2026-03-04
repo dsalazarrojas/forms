@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Planning Effectiveness Assessment Form
+    pages:
+    - id: 1
+      name: event_planning_assessment
+      label: Event Planning Assessment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_success_factors
+      label: Event Success Factors
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: event_outcomes
+      label: Event Outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: communication_effectiveness
+      label: Communication Effectiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_spent
+      label: Time Spent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: event_outcome_rating
+      label: Event Outcome Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: feedback_frequency
+      label: Feedback Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: communication_channels
+      label: Communication Channels
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: communication_channels_rating
+      label: Communication Channels Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_status
+      label: Follow Up Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

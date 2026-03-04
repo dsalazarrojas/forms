@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Vendor Post Event Satisfaction Check In
+    pages:
+    - id: 1
+      name: wedding_vendor_post_event_satisfaction_check_in_form
+      label: wedding_vendor_post_event_satisfaction_check_in_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor
+      label: vendor
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Wedding Venue''}'
+      - '{''label'': ''Caterer''}'
+      - '{''label'': ''Florist''}'
+      required: false
+    - id: 3
+      name: rating
+      label: rating
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': 1}'
+      - '{''label'': 2}'
+      - '{''label'': 3}'
+      - '{''label'': 4}'
+      - '{''label'': 5}'
+      required: false
+    - id: 4
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: contact
+      label: contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: rating_1
+      label: vendor_rating_1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: rating_2
+      label: vendor_rating_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: rating_3
+      label: vendor_rating_3
+      hint: null
+      type: number
+      options: []
+      required: false

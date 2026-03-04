@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stylist Academy Feedback Survey
+    pages:
+    - id: 1
+      name: form_1
+      label: feedback_question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_2
+      label: satisfaction_level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''very_satisfied'', ''value'': 5}'
+      - '{''id'': 2, ''name'': ''somewhat_satisfied'', ''value'': 4}'
+      - '{''id'': 3, ''name'': ''not_satisfied'', ''value'': 3}'
+      - '{''id'': 4, ''name'': ''very_dissatisfied'', ''value'': 2}'
+      - '{''id'': 5, ''name'': ''not_satisfied_at_all'', ''value'': 1}'
+      required: false
+    - id: 3
+      name: form_3
+      label: recommended
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''highly_recommended'', ''value'': ''Yes''}'
+      - '{''id'': 2, ''name'': ''somewhat_recommended'', ''value'': ''Maybe''}'
+      - '{''id'': 3, ''name'': ''not_recommended'', ''value'': False}'
+      required: false
+    - id: 4
+      name: form_4
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: form_5
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: form_6
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_7
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: form_8
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: form_9
+      label: date_time
+      hint: null
+      type: date
+      options: []
+      required: false

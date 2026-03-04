@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: International Buyer Return Policy Survey
+    pages:
+    - id: 1
+      name: return_policy
+      label: Return Policy
+      hint: null
+      type: select_one
+      options:
+      - Return Policy 1
+      - Return Policy 2
+      - Return Policy 3
+      required: true
+    - id: 2
+      name: return_challenges
+      label: Return Challenges
+      hint: null
+      type: select_multiple
+      options:
+      - Challenge 1
+      - Challenge 2
+      - Challenge 3
+      required: true
+    - id: 3
+      name: return_clarity
+      label: Return Clarity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: return_satisfaction
+      label: Return Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: return_process
+      label: Return Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: return_fees
+      label: Return Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: international_experience
+      label: International Experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: return_cancellations
+      label: Return Cancellations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: global_return_satisfaction
+      label: Global Return Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,269 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Animal Care Innovation Study Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Full Name
+      hint: Optional - may remain anonymous
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For follow-up if interested
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: organization
+      label: Organization or Institution
+      hint: Where you work
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: survey_intro
+      label: Animal Care Innovation Study Survey
+      hint: This survey explores innovative practices and technologies in animal care
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: professional_role
+      label: What is Your Professional Role
+      hint: Select your position
+      type: select_one
+      options:
+      - Veterinarian
+      - Veterinary technician
+      - Animal researcher
+      - Shelter manager
+      - Animal care attendant
+      - Animal behaviorist
+      - Pet business owner
+      - Student
+      - Other
+      required: true
+    - id: 6
+      name: years_experience
+      label: Years of Experience in Animal Care
+      hint: Total experience
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 4-7 years
+      - 8-15 years
+      - More than 15 years
+      required: true
+    - id: 7
+      name: work_setting
+      label: Primary Work Setting
+      hint: Where you work
+      type: select_one
+      options:
+      - Private veterinary practice
+      - Veterinary hospital
+      - Animal shelter
+      - Research institution
+      - Zoo or wildlife park
+      - Farm or agricultural setting
+      - Home-based care
+      - Other
+      required: true
+    - id: 8
+      name: innovation_awareness
+      label: How Would You Rate Your Awareness of New Innovations in Animal Care
+      hint: Self-assessment
+      type: select_one
+      options:
+      - Very aware - actively follow trends
+      - Somewhat aware - occasional reading
+      - Neutral
+      - Not very aware
+      - Not aware at all
+      required: true
+    - id: 9
+      name: technology_adoption
+      label: How Quickly Do You Adopt New Technologies
+      hint: Adoption rate
+      type: select_one
+      options:
+      - Early adopter - first to try
+      - Early majority - after proof of concept
+      - Late majority - after widespread use
+      - Laggard - resist change
+      required: true
+    - id: 10
+      name: innovations_used
+      label: Which Innovations Have You Implemented
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Digital medical records
+      - Telemedicine
+      - Wearable health monitors
+      - Advanced imaging
+      - Laser therapy
+      - Regenerative medicine
+      - Pain management innovations
+      - Enrichment technologies
+      - None yet
+      required: true
+    - id: 11
+      name: technology_barriers
+      label: What Barriers Prevent You from Adopting New Technologies
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Cost
+      - Lack of training
+      - Lack of evidence
+      - Resistance from staff
+      - Technical complexity
+      - Time constraints
+      - No barriers
+      required: false
+    - id: 12
+      name: most_impactful_innovation
+      label: What Innovation Has Had the Greatest Impact on Your Work
+      hint: Most valuable
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: care_improvements
+      label: How Have Innovations Improved Animal Care in Your Setting
+      hint: Describe improvements
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: future_interest
+      label: Which Areas Interest You for Future Innovation
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Diagnostic tools
+      - Treatment methods
+      - Pain management
+      - Behavioral health
+      - Nutrition
+      - Preventive care
+      - Remote monitoring
+      - Data analytics
+      - AI applications
+      required: true
+    - id: 15
+      name: research_participation
+      label: Would You Participate in Research Studies
+      hint: Research involvement
+      type: select_one
+      options:
+      - Yes - actively participate
+      - Yes - if relevant
+      - Maybe - depends on study
+      - No
+      required: false
+    - id: 16
+      name: collaboration_interest
+      label: Are You Interested in Collaborating with Other Professionals
+      hint: Collaboration
+      type: select_one
+      options:
+      - Yes - very interested
+      - Yes - somewhat interested
+      - No - prefer to work independently
+      required: false
+    - id: 17
+      name: knowledge_sharing
+      label: How Do You Typically Learn About New Innovations
+      hint: Information sources
+      type: select_multiple
+      options:
+      - Professional journals
+      - Conferences
+      - Online webinars
+      - Social media
+      - Colleagues
+      - Vendor presentations
+      - Continuing education
+      required: false
+    - id: 18
+      name: training_needs
+      label: What Training Would Help You Adopt Innovations
+      hint: Training needs
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: funding_sources
+      label: How Do You Fund New Technology Adoption
+      hint: Funding methods
+      type: select_one
+      options:
+      - Organization budget
+      - Grants
+      - Donations
+      - Personal funds
+      - Do not adopt new technology
+      required: false
+    - id: 20
+      name: outcome_measurement
+      label: How Do You Measure the Success of New Innovations
+      hint: Evaluation methods
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: ethical_considerations
+      label: What Ethical Considerations Are Important in Animal Care Innovation
+      hint: Ethics
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: biggest_challenge
+      label: What Is the Biggest Challenge in Animal Care Today
+      hint: Main challenge
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: innovation_suggestions
+      label: What Innovations Would You Like to See Developed
+      hint: Suggestions
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: willingness_share
+      label: Would You Be Willing to Share Your Experiences in an Interview
+      hint: Follow-up
+      type: select_one
+      options:
+      - Yes - happy to share
+      - Yes - with conditions
+      - No
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments or Insights
+      hint: Anything else
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,162 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bookstore New Release Feedback Report Form
+    pages:
+      - id: 1
+        name: staff_name
+        label: Staff Member Name
+        hint: Your name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: report_date
+        label: Report Date
+        hint: Date of this feedback
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: book_title
+        label: Book Title
+        hint: Title of the new release
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: book_author
+        label: Author Name
+        hint: Author or authors
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: genre
+        label: Genre
+        hint: Primary genre of the book
+        type: select_one
+        options:
+          - Fiction
+          - Mystery
+          - Romance
+          - Science Fiction
+          - Fantasy
+          - Biography
+          - Non-fiction
+          - Self-help
+          - History
+          - Children
+          - Other
+        required: true
+      - id: 6
+        name: publisher_name
+        label: Publisher Name
+        hint: Publishing company
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: release_date
+        label: Release Date
+        hint: Official publication date
+        type: date
+        options: []
+        required: false
+      - id: 8
+        name: cover_design_rating
+        label: Cover Design Rating
+        hint: Rate the cover design
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Average
+          - Poor
+        required: true
+      - id: 9
+        name: book_quality
+        label: Book Quality and Production
+        hint: Print quality, binding, etc.
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Average
+          - Poor
+        required: true
+      - id: 10
+        name: reader_reaction
+        label: Expected Reader Reaction
+        hint: How will customers respond
+        type: select_one
+        options:
+          - Very positive
+          - Positive
+          - Neutral
+          - Negative
+          - Very negative
+        required: true
+      - id: 11
+        name: sales_potential
+        label: Sales Potential
+        hint: Expected sales performance
+        type: select_one
+        options:
+          - High
+          - Moderate
+          - Low
+          - Very low
+        required: true
+      - id: 12
+        name: display_recommendation
+        label: Display Recommendation
+        hint: Should we feature this prominently
+        type: select_one
+        options:
+          - Front display
+          - Window display
+          - Staff picks
+          - Regular shelf
+          - Not recommended
+        required: true
+      - id: 13
+        name: target_audience
+        label: Target Audience
+        hint: Who would buy this book
+        type: select_multiple
+        options:
+          - Young adults
+          - Adults
+          - Seniors
+          - Students
+          - General public
+          - Niche audience
+        required: true
+      - id: 14
+        name: comparison_titles
+        label: Similar Books Already Selling
+        hint: Comparable titles in store
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: additional_feedback
+        label: Additional Feedback
+        hint: Any other comments
+        type: text
+        options: []
+        required: false

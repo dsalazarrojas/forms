@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Mood Check In Survey
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: mood_rating
+      label: Mood Rating
+      hint: null
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Medium
+      - Low
+      - Very Low
+      required: false
+    - id: 4
+      name: work_life_balance
+      label: Work-Life Balance
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: emotional_state
+      label: Emotional State
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      required: false
+    - id: 6
+      name: job_satisfaction
+      label: Job Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Accounting
+      - Engineering
+      - HR
+      - Management
+      - Sales
+      required: false
+    - id: 9
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: team_member_name
+      label: Team Member Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: team_member_email
+      label: Team Member Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: team_member_phone
+      label: Team Member Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: work_location
+      label: Work Location
+      hint: null
+      type: select_one
+      options:
+      - On-site
+      - Remote
+      - Hybrid
+      - Other
+      required: false
+    - id: 17
+      name: work_location_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Contract
+      - Intern
+      - Other
+      required: false
+    - id: 19
+      name: job_type_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - On Leave
+      - On Vacation
+      - On Sabbatical
+      - Other
+      required: false
+    - id: 21
+      name: job_status_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: job_urgency
+      label: Job Urgency
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      - None
+      required: false
+    - id: 23
+      name: job_urgency_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: manager_rating
+      label: Manager Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: manager_rating_scale
+      label: Manager Rating Scale
+      hint: null
+      type: number
+      options: []
+      required: false

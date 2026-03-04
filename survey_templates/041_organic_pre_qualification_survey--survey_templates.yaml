@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Organic Pre Qualification Survey
+    pages:
+    - id: 1
+      name: organic_pre_qualification_survey
+      label: Organic Pre Qualification Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: company_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organic_products_sold
+      label: organic_products_sold
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 4
+      name: customer_segmentation
+      label: customer_segmentation
+      hint: null
+      type: select_multiple
+      options:
+      - demographics
+      - behavior
+      - interests
+      required: true
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_birth
+      label: time_of_birth
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,157 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: relationship_satisfaction_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: This form is to help us better understand your feelings
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: relationship_expectations
+      label: What are your relationship expectations?
+      hint: null
+      type: select_one
+      options:
+      - Expectations 1
+      - Expectations 2
+      - Expectations 3
+      required: true
+    - id: 3
+      name: feelings
+      label: How do you feel in your relationship?
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      required: true
+    - id: 4
+      name: suggestions
+      label: What would improve your relationship?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: relationship_history
+      label: How long have you been in your relationship?
+      hint: Please format as MM/DD/YY
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: communication
+      label: How would you rate communication in your relationship?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 7
+      name: intimacy
+      label: How would you rate intimacy in your relationship?
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      - None
+      required: false
+    - id: 8
+      name: trust
+      label: How would you rate trust in your relationship?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 9
+      name: emotional
+      label: How would you rate emotional support?
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      - None
+      required: true
+    - id: 10
+      name: physical_kontakt
+      label: How would you rate physical contact in your relationship?
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      - None
+      required: false
+    - id: 11
+      name: shared_goals
+      label: What are your shared goals for your relationship?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: relationship
+      label: Do you think this relationship is headed towards marriage?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 13
+      name: children
+      label: Do you have children?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 14
+      name: relationship_status
+      label: What is your relationship status?
+      hint: null
+      type: select_one
+      options:
+      - Married
+      - In a relationship
+      - Divorced
+      - Widowed
+      - It's complicated
+      required: true
+    - id: 15
+      name: comments
+      label: Any comments?
+      hint: null
+      type: note
+      options: []
+      required: false

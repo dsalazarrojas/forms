@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: support_customer_feedback_survey
+    pages:
+    - id: 1
+      name: customer_feedback_survey
+      label: Customer Feedback Survey
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: question_1
+      label: How was your support experience?
+      hint: Rate your experience from 1-5
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: question_2
+      label: Did our support team answer all your questions?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: question_3
+      label: What type of support did you receive?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Live Chat
+      - Support Article
+      - Other
+      required: false
+    - id: 5
+      name: question_4
+      label: How likely are you to recommend our product or service?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: question_5
+      label: Do you have any other comments about your support experience?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_service
+      label: Customer Service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: received_support
+      label: Received Support
+      hint: null
+      type: number
+      options: []
+      required: false

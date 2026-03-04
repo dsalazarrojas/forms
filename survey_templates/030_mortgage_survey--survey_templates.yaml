@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mortgage Survey
+    pages:
+    - id: 1
+      name: property_info
+      label: Property Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: loan_info
+      label: Loan Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: credit_score
+      label: Credit Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: income
+      label: Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: assets
+      label: Assets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: property_location
+      label: Property Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: loan_term
+      label: Loan Term
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Cash'', ''label'': ''Cash''}'
+      - '{''id'': 2, ''name'': ''Check'', ''label'': ''Check''}'
+      - '{''id'': 3, ''name'': ''Wire Transfer'', ''label'': ''Wire Transfer''}'
+      required: false
+    - id: 13
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false

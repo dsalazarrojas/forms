@@ -1,0 +1,287 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Transport Safety Standards Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: respondent_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: organization_name
+      label: Organization Name
+      hint: Your company or organization
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: years_in_transport
+      label: Years Working in Animal Transport
+      hint: Experience in the field
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Your Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_current_practices
+      label: -- Current Practices --
+      hint: Your current safety practices
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: safety_training_frequency
+      label: Staff Safety Training Frequency
+      hint: How often staff training occurs
+      type: select_one
+      options:
+      - Never
+      - Annually
+      - Quarterly
+      - Monthly
+      - Ongoing
+      required: true
+    - id: 8
+      name: animal_welfare_practices
+      label: Animal Welfare Practices Implemented
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Temperature monitoring
+      - Regular health checks
+      - Proper ventilation
+      - Water and food provision
+      - Stress reduction measures
+      - Emergency protocols
+      required: true
+    - id: 9
+      name: vehicle_safety_features
+      label: Vehicle Safety Features
+      hint: Select all available features
+      type: select_multiple
+      options:
+      - Emergency brake systems
+      - Backup cameras
+      - GPS tracking
+      - Climate control
+      - Secure crates and enclosures
+      - First aid kits
+      required: true
+    - id: 10
+      name: accident_incident_rate
+      label: Accident or Incident Rate
+      hint: How often incidents occur
+      type: select_one
+      options:
+      - Never
+      - Very Rare
+      - Occasionally
+      - Frequently
+      - Very Frequently
+      required: true
+    - id: 11
+      name: section_regulations
+      label: -- Regulatory Compliance --
+      hint: Your awareness of regulations
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: aware_of_regulations
+      label: Aware of Current Regulations
+      hint: Knowledge of transport regulations
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partially
+      required: true
+    - id: 13
+      name: regulatory_compliance_effort
+      label: Effort Required for Compliance
+      hint: How difficult is compliance
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Moderate
+      - Difficult
+      - Very Difficult
+      required: true
+    - id: 14
+      name: regulation_adequacy
+      label: Are Current Regulations Adequate
+      hint: Do regulations protect animals
+      type: select_one
+      options:
+      - Inadequate
+      - Somewhat Inadequate
+      - Adequate
+      - Very Adequate
+      - Excessive
+      required: true
+    - id: 15
+      name: needed_regulation_changes
+      label: Needed Changes to Regulations
+      hint: What changes would help
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_challenges
+      label: -- Challenges and Barriers --
+      hint: Main challenges in animal transport
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: main_safety_challenges
+      label: Main Safety Challenges
+      hint: Select the biggest challenges
+      type: select_multiple
+      options:
+      - Staff training gaps
+      - Vehicle maintenance costs
+      - Weather conditions
+      - Animal behavior issues
+      - Time pressures
+      - Inadequate facilities
+      - Regulatory uncertainty
+      - Cost constraints
+      required: true
+    - id: 18
+      name: greatest_barrier
+      label: Greatest Barrier to Safety
+      hint: What impacts safety most
+      type: select_one
+      options:
+      - Cost
+      - Time constraints
+      - Lack of training
+      - Equipment limitations
+      - Regulatory complexity
+      - Animal cooperation
+      - Other
+      required: true
+    - id: 19
+      name: staff_training_barriers
+      label: Barriers to Staff Training
+      hint: Why training might not be completed
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_improvements
+      label: -- Improvements and Recommendations --
+      hint: How safety can be improved
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: priority_improvements
+      label: Priority Areas for Improvement
+      hint: What should be improved first
+      type: select_multiple
+      options:
+      - Vehicle technology
+      - Staff training programs
+      - Facility design
+      - Equipment quality
+      - Regulatory guidance
+      - Monitoring systems
+      - Emergency response
+      required: true
+    - id: 22
+      name: industry_standard_support
+      label: Support for Industry Standards
+      hint: Would you support new standards
+      type: select_one
+      options:
+      - Strongly Support
+      - Support
+      - Neutral
+      - Oppose
+      - Strongly Oppose
+      required: true
+    - id: 23
+      name: technology_improvements
+      label: Beneficial Technology Improvements
+      hint: What technology would help
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: training_recommendations
+      label: Recommended Training Topics
+      hint: What should staff be trained on
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: section_industry
+      label: -- Industry Perspective --
+      hint: Your views on the industry
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: industry_safety_outlook
+      label: Industry Safety Outlook
+      hint: Is the industry getting safer
+      type: select_one
+      options:
+      - Much Worse
+      - Worse
+      - No Change
+      - Better
+      - Much Better
+      required: true
+    - id: 27
+      name: competitors_safety_level
+      label: Competitors Safety Levels
+      hint: How do others compare
+      type: select_one
+      options:
+      - Much Worse
+      - Worse
+      - Similar
+      - Better
+      - Much Better
+      required: true
+    - id: 28
+      name: would_recommend_improvements
+      label: Key Improvement Recommendations
+      hint: What should the industry do
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: best_practices_to_share
+      label: Best Practices to Share
+      hint: What works well in your operation
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

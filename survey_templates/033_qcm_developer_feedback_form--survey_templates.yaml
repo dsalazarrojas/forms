@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: QCM Developer Feedback Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: developer_insights
+      label: Developer Insights
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: satisfaction_rating
+      label: Satisfaction Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: improvement_areas
+      label: Improvement Areas
+      hint: Select one of the options
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: developer_comments
+      label: Developer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submission_review
+      label: Submission Review
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: review
+      label: Review
+      hint: null
+      type: text
+      options: []
+      required: false

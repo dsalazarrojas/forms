@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Heat Stress Survey
+    pages:
+    - id: 1
+      name: user_input
+      label: Heat Stress Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Crew leader
+      - Worker
+      - Other
+      required: false
+    - id: 3
+      name: workplace_location
+      label: Workplace Location
+      hint: null
+      type: select_one
+      options:
+      - Factory Floor
+      - Office
+      - Warehouse
+      - Other
+      required: false
+    - id: 4
+      name: shift_length_in_hours
+      label: Shift Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: shift_start_time
+      label: Shift Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: break_length_in_minutes
+      label: Break Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: body_temperature
+      label: Body Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: heat_stress_score
+      label: Heat Stress Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: heat_exposure
+      label: Heat Exposure
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: heat_stress_symptoms
+      label: Heat Stress Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Headache
+      - Dizziness
+      - Nausea
+      - Fatigue
+      - Confusion
+      - Irritability
+      - Other
+      required: false
+    - id: 11
+      name: heat_exposure_prevention_methods
+      label: Heat Exposure Prevention Methods
+      hint: null
+      type: select_multiple
+      options:
+      - Staying hydrated
+      - Wearing lightweight, loose-fitting clothing
+      - Taking regular breaks
+      - Other
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter_email
+      label: Submitter E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: Police Brutality Survey
+    pages:
+    - id: 1
+      name: police_brutality_survey_1
+      label: Have you or a family member been involved in a police incident?
+      hint: null
+      type: select_multiple
+      options:
+      - Yes, in a minor incident
+      - Yes, in a major incident
+      - 'No'
+      required: false
+    - id: 2
+      name: police_brutality_survey_2
+      label: Have you or a family member been a victim of police brutality?
+      hint: null
+      type: select_one
+      options:
+      - Yes, physical brutality
+      - Yes, emotional or psychological brutality
+      - Yes, financial exploitation
+      - 'No'
+      required: true
+    - id: 3
+      name: police_brutality_survey_3
+      label: What was the nature of the incident?
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: police_brutality_survey_4
+      label: What was the outcome of the incident?
+      hint: null
+      type: select_one
+      options:
+      - Case dismissed or dropped
+      - Case still pending
+      - Case resolved in favor of the police
+      - Case resolved in favor of the victim
+      required: true
+    - id: 5
+      name: police_brutality_survey_5
+      label: How did you feel about the experience?
+      hint: null
+      type: select_one
+      options:
+      - Angry
+      - Disgusted
+      - Fearful
+      - Helpless
+      - Neutral
+      - Relieved
+      required: true
+    - id: 6
+      name: police_brutality_survey_6
+      label: Were you aware of any police protocols or policies that contributed to
+        the incident?
+      hint: null
+      type: select_multiple
+      options:
+      - Yes, excessive use of force
+      - Yes, racial bias
+      - Yes, lack of training
+      - 'No'
+      required: false
+    - id: 7
+      name: police_brutality_survey_7
+      label: Did you report the incident to anyone?
+      hint: null
+      type: select_one
+      options:
+      - To the police
+      - To a community or advocacy group
+      - To a lawyer
+      - 'No'
+      required: true
+    - id: 8
+      name: police_brutality_survey_8
+      label: What is your zip code?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: police_brutality_survey_9
+      label: How many times have you or a family member had contact with police?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: police_brutality_survey_10
+      label: What time of day was the incident most likely to have occurred?
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: police_brutality_survey_11
+      label: Was the incident during the day or night?
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: police_brutality_survey_12
+      label: Was the incident on a week day or weekend?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: police_brutality_survey_13
+      label: What was the age of the victim?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: police_brutality_survey_14
+      label: What was the victim's relationship to you?
+      hint: null
+      type: select_multiple
+      options:
+      - Immediate family
+      - Extended family
+      - Friend
+      - Acquaintance
+      required: false
+    - id: 15
+      name: police_brutality_survey_15
+      label: How much time was passed since the incident?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: police_brutality_survey_16
+      label: Did you feel threatened by the police?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: police_brutality_survey_17
+      label: Have you or a family member been a victim of crime?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: police_brutality_survey_18
+      label: What was the reason for the victim's contact with the police?
+      hint: null
+      type: select_multiple
+      options:
+      - Crime or suspect
+      - Victim or witness
+      - Both
+      required: false
+    - id: 19
+      name: police_brutality_survey_19
+      label: What was the police's reason for stopping or approaching you or a family
+        member?
+      hint: null
+      type: select_multiple
+      options:
+      - Traffic stop
+      - Suspicious activity
+      - Investigation
+      - Both
+      required: false
+    - id: 20
+      name: police_brutality_survey_20
+      label: Was the police's reason for stopping or approaching you or a family member?
+      hint: null
+      type: select_multiple
+      options:
+      - Valid
+      - Invalid
+      - Unsure
+      required: false
+    - id: 21
+      name: police_brutality_survey_21
+      label: Did you feel you were being treated unfairly by the police?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: police_brutality_survey_22
+      label: Do you think you were treated fairly by the police?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: police_brutality_survey_23
+      label: Would you recommend the police department to friends and family?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: police_brutality_survey_24
+      label: How many times have you been stopped by the police?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: police_brutality_survey_25
+      label: How often do you interact with the police?
+      hint: null
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Never
+      required: true

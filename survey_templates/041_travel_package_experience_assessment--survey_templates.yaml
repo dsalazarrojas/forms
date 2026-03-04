@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Package Experience Assessment
+    pages:
+    - id: 1
+      name: package_name
+      label: Package Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: package_rating
+      label: Package Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Poor
+      - Very Poor
+      required: false
+    - id: 3
+      name: rating_reason
+      label: Rating Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: package_satisfaction
+      label: How satisfied are you with the package?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      - Neutral
+      required: false
+    - id: 6
+      name: improvement_suggestions
+      label: What could be improved?
+      hint: null
+      type: select_multiple
+      options:
+      - Quality of the package
+      - Quality of the service
+      - Quality of the experience
+      - Timing of the package
+      - Other
+      required: false
+    - id: 7
+      name: travel_agency
+      label: Travel Agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: travel_agency_satisfaction
+      label: How satisfied are you with the travel agency?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      - Neutral
+      required: false
+    - id: 9
+      name: travel_agency_comment
+      label: What were your experiences with the travel agency?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: travel_agent
+      label: Travel Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: travel_agent_satisfaction
+      label: How satisfied are you with the travel agent?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      - Neutral
+      required: false
+    - id: 12
+      name: travel_agent_comment
+      label: What were your experiences with the travel agent?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: travel_agency_rating
+      label: Rate the travel agent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: price
+      label: Price
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: price_satisfaction
+      label: Satisfaction with the price
+      hint: null
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      - Neutral
+      required: false
+    - id: 16
+      name: price_comparability
+      label: Comparability of prices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: package_suggestion
+      label: What would make you book this package again?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - Maybe
+      - 'False'
+      required: false
+    - id: 18
+      name: would_recommend
+      label: Would you recommend this package?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 19
+      name: recommendation_reason
+      label: Why would you or wouldn't recommend this package?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: package_type
+      label: What type of traveler are you?
+      hint: null
+      type: select_multiple
+      options:
+      - Adventure Traveler
+      - Family Traveler
+      - Food and Wine Traveler
+      - Luxury Traveler
+      - Budget Traveler
+      - Other
+      required: false
+    - id: 21
+      name: travel_frequency
+      label: How often do you travel?
+      hint: null
+      type: select_multiple
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Never
+      required: false

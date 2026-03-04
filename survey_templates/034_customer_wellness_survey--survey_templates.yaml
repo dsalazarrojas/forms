@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Wellness Survey
+    pages:
+    - id: 1
+      name: patient_wellness
+      label: Customer Wellness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: date_of_last_contact
+      label: Date of Last Contact
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_last_contact
+      label: Time of Last Contact
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: patient_wellness_scale
+      label: Patient Well-Being Scale
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: true
+    - id: 6
+      name: patient_outcome
+      label: Patient Outcome
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false

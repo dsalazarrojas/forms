@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Civic Space Freedom Perception Survey
+    pages:
+    - id: 1
+      name: research_intro
+      label: -- Perception of Civic Freedom Survey --
+      hint: Your responses are anonymous and help track civic health
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_region
+      label: Region or Country of Residence
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: age_demographic
+      label: Age Range
+      hint: null
+      type: select_one
+      options:
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65 plus
+      required: true
+    - id: 4
+      name: freedom_assembly_rating
+      label: How free do people feel to assemble and protest in your area?
+      hint: 1 = Extremely Restricted, 5 = Completely Free
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: freedom_expression_rating
+      label: How safe do you feel expressing opinions that disagree with the government?
+      hint: 1 = Very Unsafe, 5 = Very Safe
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: civic_participation_perception
+      label: -- Civic Environment and Trends --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: trust_in_judicial_independence
+      label: Do you believe the legal system is independent and fair?
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 8
+      name: media_freedom_perception
+      label: In your opinion, how free is the local media from government influence?
+      hint: null
+      type: select_one
+      options:
+      - Very Free
+      - Somewhat Free
+      - Neutral
+      - Somewhat Restricted
+      - Very Restricted
+      required: true
+    - id: 9
+      name: digital_surveillance_concern
+      label: How concerned are you about digital surveillance of civic activists?
+      hint: null
+      type: select_one
+      options:
+      - Very Concerned
+      - Somewhat Concerned
+      - Neutral
+      - Not Concerned
+      required: true
+    - id: 10
+      name: civic_space_trend
+      label: Over the past 3 years, has civic freedom in your area...
+      hint: null
+      type: select_one
+      options:
+      - Improved Significantly
+      - Improved Slightly
+      - Stayed the Same
+      - Declined Slightly
+      - Declined Significantly
+      required: true
+    - id: 11
+      name: barriers_to_advocacy
+      label: What is the main barrier to civic advocacy in your region?
+      hint: null
+      type: select_multiple
+      options:
+      - Legal/Administrative Restrictions
+      - Physical Harassment or Threats
+      - Lack of Funding
+      - Public Apathy
+      - Internet Shutdowns or Filtering
+      required: false
+    - id: 12
+      name: ngo_registration_ease
+      label: How easy is it for new NGOs/Nonprofits to register legally?
+      hint: null
+      type: select_one
+      options:
+      - Very Easy
+      - Fairly Easy
+      - Difficult
+      - Nearly Impossible
+      required: false
+    - id: 13
+      name: specific_incident_mention
+      label: (Optional) Mention any specific trend or event of concern
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: survey_context
+      label: I am completing this survey as a...
+      hint: null
+      type: select_one
+      options:
+      - Concerned Citizen
+      - Activist/NGO Member
+      - Academic/Researcher
+      - Journalist
+      required: true
+    - id: 15
+      name: survey_date
+      label: Date of Completion
+      hint: null
+      type: date
+      options: []
+      required: true

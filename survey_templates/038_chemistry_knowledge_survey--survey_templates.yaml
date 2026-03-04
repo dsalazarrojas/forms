@@ -1,0 +1,313 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Chemistry Knowledge Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Optional - Your full name
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: email_address
+        label: Email Address
+        hint: Optional - For follow-up
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: age_group
+        label: Age Group
+        hint: Which age group do you belong to
+        type: select_one
+        options:
+          - Under 18
+          - 18-24
+          - 25-34
+          - 35-44
+          - 45-54
+          - 55-64
+          - 65 or older
+        required: true
+      - id: 4
+        name: education_level
+        label: Education Level
+        hint: What is your highest education level
+        type: select_one
+        options:
+          - High school or less
+          - Some college
+          - Associate degree
+          - Bachelor's degree
+          - Master's degree
+          - Doctorate
+        required: true
+      - id: 5
+        name: chemistry_background
+        label: Chemistry Background
+        hint: What is your chemistry background
+        type: select_one
+        options:
+          - No chemistry education
+          - High school chemistry
+          - College general chemistry
+          - College organic chemistry
+          - Chemistry major
+          - Chemistry professional
+        required: true
+      - id: 6
+        name: years_since_chemistry
+        label: Years Since Chemistry Study
+        hint: How long has it been since you studied chemistry
+        type: select_one
+        options:
+          - Currently studying
+          - Less than 1 year
+          - 1-5 years
+          - 5-10 years
+          - 10+ years
+        required: true
+      - id: 7
+        name: chemistry_confidence
+        label: Chemistry Confidence
+        hint: How confident are you in your chemistry knowledge
+        type: select_one
+        options:
+          - Very confident
+          - Confident
+          - Somewhat confident
+          - Not confident
+          - Very unconfident
+        required: true
+      - id: 8
+        name: chemistry_interest
+        label: Interest in Chemistry
+        hint: How interested are you in chemistry
+        type: select_one
+        options:
+          - Very interested
+          - Interested
+          - Neutral
+          - Not interested
+          - Very uninterested
+        required: true
+      - id: 9
+        name: periodic_table_knowledge
+        label: Periodic Table Knowledge
+        hint: How well do you know the periodic table
+        type: select_one
+        options:
+          - Very well
+          - Well
+          - Somewhat
+          - Poorly
+          - Not at all
+        required: true
+      - id: 10
+        name: chemical_formulas
+        label: Understanding of Chemical Formulas
+        hint: How well do you understand chemical formulas
+        type: select_one
+        options:
+          - Very well
+          - Well
+          - Somewhat
+          - Poorly
+          - Not at all
+        required: true
+      - id: 11
+        name: chemical_reactions
+        label: Understanding of Chemical Reactions
+        hint: How well do you understand chemical reactions
+        type: select_one
+        options:
+          - Very well
+          - Well
+          - Somewhat
+          - Poorly
+          - Not at all
+        required: true
+      - id: 12
+        name: stoichiometry
+        label: Understanding of Stoichiometry
+        hint: How well do you understand stoichiometry
+        type: select_one
+        options:
+          - Very well
+          - Well
+          - Somewhat
+          - Poorly
+          - Not at all
+          - Never learned
+        required: true
+      - id: 13
+        name: acids_bases
+        label: Understanding of Acids and Bases
+        hint: How well do you understand acids and bases
+        type: select_one
+        options:
+          - Very well
+          - Well
+          - Somewhat
+          - Poorly
+          - Not at all
+        required: true
+      - id: 14
+        name: chemistry_in_daily_life
+        label: Chemistry in Daily Life Awareness
+        hint: How aware are you of chemistry in daily life
+        type: select_one
+        options:
+          - Very aware
+          - Aware
+          - Somewhat aware
+          - Not very aware
+          - Not aware at all
+        required: true
+      - id: 15
+        name: chemistry_career_interest
+        label: Interest in Chemistry Career
+        hint: Have you ever considered a chemistry-related career
+        type: select_one
+        options:
+          - Yes, currently pursuing
+          - Yes, in the past
+          - No, never interested
+          - No, but open to it
+        required: true
+      - id: 16
+        name: chemistry_importance
+        label: Importance of Chemistry Education
+        hint: How important is chemistry education
+        type: select_one
+        options:
+          - Very important
+          - Important
+          - Neutral
+          - Not important
+          - Very unimportant
+        required: true
+      - id: 17
+        name: chemistry_difficulty
+        label: Perceived Difficulty of Chemistry
+        hint: How difficult do you think chemistry is
+        type: select_one
+        options:
+          - Very difficult
+          - Difficult
+          - Moderate
+          - Easy
+          - Very easy
+        required: true
+      - id: 18
+        name: best_learning_method
+        label: Best Learning Method
+        hint: How do you learn chemistry best
+        type: select_one
+        options:
+          - Hands-on labs
+          - Lectures
+          - Reading textbooks
+          - Videos and animations
+          - Practice problems
+          - Group study
+        required: true
+      - id: 19
+        name: chemistry_anxiety
+        label: Chemistry Anxiety
+        hint: Do you experience anxiety when dealing with chemistry
+        type: select_one
+        options:
+          - Yes, severe anxiety
+          - Yes, moderate anxiety
+          - Yes, mild anxiety
+          - No anxiety
+          - Enjoy chemistry
+        required: true
+      - id: 20
+        name: topics_struggled_with
+        label: Topics Struggled With
+        hint: Which chemistry topics did you struggle with most
+        type: select_multiple
+        options:
+          - Atomic structure
+          - Bonding
+          - Stoichiometry
+          - Gas laws
+          - Equilibrium
+          - Thermodynamics
+          - Organic chemistry
+          - Electrochemistry
+          - Nuclear chemistry
+          - None
+        required: true
+      - id: 21
+        name: topics_enjoyed
+        label: Topics Enjoyed
+        hint: Which chemistry topics did you enjoy most
+        type: select_multiple
+        options:
+          - Atomic structure
+          - Bonding
+          - Stoichiometry
+          - Gas laws
+          - Equilibrium
+          - Thermodynamics
+          - Organic chemistry
+          - Electrochemistry
+          - Nuclear chemistry
+          - Lab experiments
+        required: true
+      - id: 22
+        name: would_study_again
+        label: Would Study Chemistry Again
+        hint: If you could, would you study chemistry again
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Not sure
+          - Probably no
+          - Definitely no
+        required: true
+      - id: 23
+        name: chemistry_resources_used
+        label: Chemistry Resources Used
+        hint: What resources have you used to learn chemistry
+        type: select_multiple
+        options:
+          - Textbooks
+          - Online courses
+          - YouTube videos
+          - Tutoring
+          - Study groups
+          - Mobile apps
+          - None
+        required: true
+      - id: 24
+        name: suggestions_for_teaching
+        label: Suggestions for Teaching Chemistry
+        hint: How could chemistry be taught better
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other thoughts about chemistry education
+        type: text
+        options: []
+        required: false

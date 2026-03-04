@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Makeup Storage And Hygiene Habit Survey
+    pages:
+    - id: 1
+      name: storage_habits
+      label: Storage Habits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_information
+      label: Product Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: cleaning_habits
+      label: Cleaning Habits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: makeup_use
+      label: Makeup Use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: storage_conditions
+      label: Storage Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: hygiene_practices
+      label: Hygiene Practices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: survey_frequency
+      label: Survey Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: demographic_info
+      label: Demographic Information
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Yes, I am a beauty professional'', ''value'': ''I am a beauty
+        professional''}'
+      - '{''label'': ''No, I am not a beauty professional'', ''value'': ''No, I am
+        not a beauty professional''}'
+      - '{''label'': ''Other (please specify)'', ''value'': ''Other (please specify)''}'
+      required: false
+    - id: 9
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''16-24'', ''value'': ''16-24''}'
+      - '{''label'': ''25-34'', ''value'': ''25-34''}'
+      - '{''label'': ''35-44'', ''value'': ''35-44''}'
+      - '{''label'': ''45-54'', ''value'': ''45-54''}'
+      - '{''label'': ''55 or older'', ''value'': ''55 or older''}'
+      - '{''label'': ''Other (please specify)'', ''value'': ''Other (please specify)''}'
+      required: false
+    - id: 10
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''High School or Lower'', ''value'': ''High School or Lower''}'
+      - '{''label'': "Bachelor''s degree or Higher", ''value'': "Bachelor''s degree
+        or Higher"}'
+      - '{''label'': ''Other (please specify)'', ''value'': ''Other (please specify)''}'
+      required: false
+    - id: 11
+      name: occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Email'', ''value'': ''Email''}'
+      - '{''label'': ''Phone'', ''value'': ''Phone''}'
+      - '{''label'': ''Other (please specify)'', ''value'': ''Other (please specify)''}'
+      required: false
+    - id: 14
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: survey_comments
+      label: Survey Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false

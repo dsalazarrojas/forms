@@ -1,0 +1,48 @@
+inputSchema:
+  type: object
+  properties:
+    title: staff_agenda_building_survey
+    pages:
+    - id: 1
+      name: meeting_priorities
+      label: Meeting Priorities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: meeting_scheduling
+      label: Meeting Scheduling
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: team_leads
+      label: Team Leads
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: agenda_planning
+      label: Agenda Planning
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: manager_leads
+      label: Manager Leads
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

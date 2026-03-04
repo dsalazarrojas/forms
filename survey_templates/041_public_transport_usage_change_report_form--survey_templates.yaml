@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: public_transport_usage_change_report_form
+    pages:
+    - id: 1
+      name: public_transport_usage_change_form
+      label: Public Transport Usage Change Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - public
+      - private
+      required: false
+    - id: 3
+      name: transit_type
+      label: mode_of_travel
+      hint: null
+      type: select_one
+      options:
+      - bus
+      - train
+      - bike
+      required: false
+    - id: 4
+      name: travel_frequency
+      label: how_often_do_you_use_public_transport
+      hint: null
+      type: select_multiple
+      options:
+      - often
+      - occasionally
+      - rarely
+      required: false
+    - id: 5
+      name: service_improvement
+      label: what_improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comment
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: rider_rating
+      label: rider_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: rider_feedback
+      label: rider_feedback
+      hint: null
+      type: select_multiple
+      options:
+      - agree
+      - disagree
+      - neutral
+      required: false
+    - id: 11
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: public_transport_usage_change_form_comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: public_transport_usage_change_form_comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: public_transport_usage_change_form_feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: public_transport_usage_change_form_additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

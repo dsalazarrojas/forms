@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mushroom Foraging Survey
+    pages:
+    - id: 1
+      name: foraging_experiences
+      label: Foraging Experiences
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: locations_foraged
+      label: Locations
+      hint: null
+      type: select_one
+      options:
+      - Locations
+      - Areas
+      required: true
+    - id: 3
+      name: time_spent_foraging
+      label: Time Spent Foraging
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: mushroom_type
+      label: Mushroom Type
+      hint: null
+      type: select_multiple
+      options:
+      - button mushrooms
+      - chanterelle
+      - false gills
+      - lion's mane
+      - morels
+      required: true
+    - id: 5
+      name: safety_practices
+      label: Safety Practices
+      hint: null
+      type: select_one
+      options:
+      - Wear proper footwear
+      - Bring a buddy
+      - Check for poisonous species
+      - Follow local regulations
+      - Other
+      required: true
+    - id: 6
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_street_address
+      label: Contact Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_city
+      label: Contact City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contact_state
+      label: Contact State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: contact_zip
+      label: Contact Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: foraging_club
+      label: Foraging Club
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: foraging_interests
+      label: Foraging Interests
+      hint: null
+      type: select_one
+      options:
+      - Fun
+      - Educational
+      - Conservation
+      - Other
+      required: true
+    - id: 16
+      name: age_range
+      label: Age Range
+      hint: null
+      type: select_one
+      options:
+      - Less than 18
+      - 18-30
+      - 31-50
+      - 51-65
+      - 66 or older
+      required: true
+    - id: 17
+      name: experience_years
+      label: Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: foraging_frequency
+      label: Foraging Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Occasionally
+      - Rarely
+      - Never
+      required: true

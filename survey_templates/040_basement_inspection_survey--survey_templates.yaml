@@ -1,0 +1,364 @@
+inputSchema:
+  type: object
+  properties:
+    title: Basement Inspection Survey
+    pages:
+    - id: 1
+      name: inspector_name
+      label: Inspector Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: inspection_date
+      label: Inspection Date
+      hint: Date of inspection
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: property_address
+      label: Property Address
+      hint: Complete street address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: property_owner
+      label: Property Owner Name
+      hint: Owner name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: basement_type
+      label: Basement Type
+      hint: Type of basement
+      type: select_one
+      options:
+      - Full finished basement
+      - Full unfinished basement
+      - Partial basement
+      - Crawl space
+      - Walk out basement
+      required: true
+    - id: 6
+      name: basement_size
+      label: Basement Size
+      hint: Approximate square footage
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: basement_age
+      label: Approximate Age of Basement
+      hint: Years old
+      type: select_one
+      options:
+      - Less than 5 years
+      - 5 to 10 years
+      - 11 to 20 years
+      - 21 to 40 years
+      - More than 40 years
+      required: true
+    - id: 8
+      name: foundation_type
+      label: Foundation Type
+      hint: Type of foundation
+      type: select_one
+      options:
+      - Poured concrete
+      - Concrete block
+      - Stone
+      - Brick
+      - Wood
+      required: true
+    - id: 9
+      name: foundation_condition
+      label: Foundation Condition
+      hint: Overall condition
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 10
+      name: cracks_observed
+      label: Cracks Observed
+      hint: Are there cracks in foundation
+      type: select_one
+      options:
+      - No cracks
+      - Hairline cracks
+      - Small cracks
+      - Large cracks
+      - Severe cracking
+      required: true
+    - id: 11
+      name: water_damage
+      label: Water Damage Evidence
+      hint: Signs of water damage
+      type: select_one
+      options:
+      - None observed
+      - Minor staining
+      - Moderate damage
+      - Severe damage
+      - Active leaking
+      required: true
+    - id: 12
+      name: moisture_level
+      label: Moisture Level
+      hint: General moisture
+      type: select_one
+      options:
+      - Dry
+      - Slightly damp
+      - Damp
+      - Wet
+      - Standing water
+      required: true
+    - id: 13
+      name: mold_mildew
+      label: Mold or Mildew Present
+      hint: Any growth observed
+      type: select_one
+      options:
+      - None observed
+      - Minor growth
+      - Moderate growth
+      - Significant growth
+      - Extensive growth
+      required: true
+    - id: 14
+      name: musty_odors
+      label: Musty Odors
+      hint: Any unusual smells
+      type: select_one
+      options:
+      - None
+      - Slight
+      - Moderate
+      - Strong
+      - Overwhelming
+      required: true
+    - id: 15
+      name: efflorescence
+      label: Efflorescence Present
+      hint: White powdery substance
+      type: select_one
+      options:
+      - None
+      - Minor
+      - Moderate
+      - Significant
+      required: true
+    - id: 16
+      name: sump_pump
+      label: Sump Pump Present
+      hint: Is there a sump pump
+      type: select_one
+      options:
+      - Yes, working
+      - Yes, not working
+      - false
+      - Unknown
+      required: true
+    - id: 17
+      name: sump_pump_condition
+      label: Sump Pump Condition
+      hint: If present
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Not applicable
+      required: true
+    - id: 18
+      name: drainage_system
+      label: Drainage System
+      hint: Interior drainage
+      type: select_one
+      options:
+      - Present and working
+      - Present, needs repair
+      - Not present
+      - Unknown
+      required: true
+    - id: 19
+      name: walls_condition
+      label: Walls Condition
+      hint: Basement walls
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 20
+      name: floor_condition
+      label: Floor Condition
+      hint: Basement floor
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 21
+      name: ceiling_condition
+      label: Ceiling Condition
+      hint: Basement ceiling
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      - Not applicable
+      required: true
+    - id: 22
+      name: windows_condition
+      label: Windows Condition
+      hint: Basement windows
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - No windows
+      required: true
+    - id: 23
+      name: ventilation
+      label: Ventilation
+      hint: Air circulation
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 24
+      name: electrical_system
+      label: Electrical System
+      hint: Condition of wiring and outlets
+      type: select_one
+      options:
+      - Up to code
+      - Minor issues
+      - Major issues
+      - Hazardous
+      required: true
+    - id: 25
+      name: plumbing_visible
+      label: Visible Plumbing
+      hint: Condition of pipes
+      type: select_one
+      options:
+      - Good condition
+      - Minor issues
+      - Leaks observed
+      - Major issues
+      required: true
+    - id: 26
+      name: hvac_equipment
+      label: HVAC Equipment
+      hint: Furnace or water heater
+      type: select_one
+      options:
+      - Present, good condition
+      - Present, needs attention
+      - Not present
+      - Not inspected
+      required: true
+    - id: 27
+      name: pest_evidence
+      label: Pest Evidence
+      hint: Signs of insects or rodents
+      type: select_one
+      options:
+      - None
+      - Minor
+      - Moderate
+      - Significant
+      - Severe
+      required: true
+    - id: 28
+      name: radon_tested
+      label: Radon Tested
+      hint: Has radon been tested
+      type: select_one
+      options:
+      - Yes, negative
+      - Yes, positive
+      - No, not tested
+      - Unknown
+      required: true
+    - id: 29
+      name: overall_rating
+      label: Overall Basement Rating
+      hint: Overall assessment
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 30
+      name: major_concerns
+      label: Major Concerns
+      hint: List significant issues
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: recommended_repairs
+      label: Recommended Repairs
+      hint: What needs to be fixed
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: estimated_repair_cost
+      label: Estimated Repair Cost
+      hint: Approximate cost
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other observations
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: inspector_signature
+      label: Inspector Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: photos_attached
+      label: Photos Attached
+      hint: Number of photos
+      type: number
+      options: []
+      required: false

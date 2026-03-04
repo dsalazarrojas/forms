@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telehealth Service Assessment Form
+    pages:
+    - id: 1
+      name: intake_info
+      label: Intake Information
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: telehealth_service_info
+      label: Telehealth Service Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_health_status
+      label: Patient Health Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: patient_care_goals
+      label: Patient Care Goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: patient_medical_history
+      label: Patient Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: patient_support_systems
+      label: Patient Support Systems
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: patient_family_history
+      label: Patient Family History
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: telehealth_service_plan
+      label: Telehealth Service Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_goals_and_objectives
+      label: Patient Goals and Objectives
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: medication_history
+      label: Medication History
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_medical_history_review
+      label: Patient Medical History Review
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

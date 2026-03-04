@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: risk_perception_benchmark_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: risk_factors
+      label: What are some of the risk factors you are concerned about?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 3
+      name: risk_factors_other
+      label: Any other risk factors you are concerned about
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: frequency
+      label: How frequently do you perceive these risks to be occurring?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: time_last_occurrence
+      label: How long ago did you last experience this risk?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: impact
+      label: What impact do you think this risk has on your business?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: risk_precedence
+      label: How much of a risk do you think this poses to you?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: likelihood
+      label: How likely is it that you will encounter this risk again?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: consequence
+      label: What are the consequences of this risk?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 10
+      name: mitigation
+      label: How do you mitigate this risk?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: risk_score
+      label: What is your risk score for this risk?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: confidence
+      label: How confident are you about your risk assessment?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: risk_level
+      label: What level of risk do you think this poses?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 14
+      name: risk_level_other
+      label: Other risk level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: risk_description
+      label: Describe the risk
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: risk_precedence_other
+      label: Other risk precedence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: risk_likelihood_other
+      label: Other risk likelihood
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: risk_consequence_other
+      label: Other risk consequence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: risk_score_other
+      label: Other risk score
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: risk_level_other
+      label: Other risk level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: risk_description_other
+      label: Other risk description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: risk_precedence_other
+      label: Other risk precedence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: risk_likelihood_other
+      label: Other risk likelihood
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: risk_consequence_other
+      label: Other risk consequence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission
+      label: Submission
+      hint: null
+      type: text
+      options: []
+      required: false

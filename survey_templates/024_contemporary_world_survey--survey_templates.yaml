@@ -1,0 +1,156 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Contemporary World Survey
+    pages:
+      - id: 1
+        name: section_demographics
+        label: -- Demographics --
+        hint: Please provide your information below.
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_age_range
+        label: Age Range
+        hint: null
+        type: select_one
+        options: [Under 18, 18-24, 25-34, 35-44, 45-54, 55-64, 65+]
+        required: true
+      - id: 3
+        name: respondent_gender
+        label: Gender
+        hint: null
+        type: select_one
+        options: [Male, Female, Non-binary, Prefer not to say]
+        required: true
+      - id: 4
+        name: respondent_location
+        label: Global Region
+        hint: null
+        type: select_one
+        options: [North America, South America, Europe, Asia, Africa, Oceania]
+        required: true
+      - id: 5
+        name: section_global_issues
+        label: -- Global Issues and Perspectives --
+        hint: Please share your thoughts on various global issues.
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: climate_change_priority
+        label: How high is climate change as a global priority?
+        hint: 1 being low, 5 being high
+        type: select_one
+        options: [1, 2, 3, 4, 5]
+        required: true
+      - id: 7
+        name: economic_trends_outlook
+        label: Outlook on Global Economic Trends
+        hint: null
+        type: select_one
+        options: [Positive, Neutral, Negative, Not sure]
+        required: true
+      - id: 8
+        name: international_relations_perspective
+        label: Perspective on International Relations
+        hint: 1 being poor, 5 being excellent
+        type: select_one
+        options: [1, 2, 3, 4, 5]
+        required: true
+      - id: 9
+        name: cultural_perspectives_diversity
+        label: Importance of Cultural Diversity and Inclusion
+        hint: 1 being low, 5 being high
+        type: select_one
+        options: [1, 2, 3, 4, 5]
+        required: true
+      - id: 10
+        name: section_educational_insights
+        label: -- Educational Insights and Research --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: education_level
+        label: Highest Level of Education Completed
+        hint: null
+        type: select_one
+        options: [High School, Associate's Degree, Bachelor's Degree, Master's Degree, Doctorate, Other]
+        required: true
+      - id: 12
+        name: research_participation_interest
+        label: Interest in Future Research Participation
+        hint: null
+        type: select_one
+        options: [Yes, No]
+        required: true
+      - id: 13
+        name: global_issue_awareness
+        label: How aware are you of various global issues?
+        hint: 1 being low, 5 being high
+        type: select_one
+        options: [1, 2, 3, 4, 5]
+        required: true
+      - id: 14
+        name: section_confirmation
+        label: -- Confirmation --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: survey_completed
+        label: Survey Completed?
+        hint: null
+        type: select_one
+        options: [Yes, No]
+        required: true
+      - id: 16
+        name: additional_comments
+        label: Any additional details or comments?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: signature_confirmation
+        label: I confirm that the information provided is accurate
+        hint: null
+        type: select_one
+        options: [I Agree, I Disagree]
+        required: true
+      - id: 18
+        name: survey_submission_date
+        label: Date of Survey Submission
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 19
+        name: follow_up_permission
+        label: May we contact you for follow-up research?
+        hint: null
+        type: select_one
+        options: [Yes, No]
+        required: true
+      - id: 20
+        name: anonymity_preference
+        label: Would you like to remain anonymous in our reports?
+        hint: null
+        type: select_one
+        options: [Yes, No]
+        required: true

@@ -1,0 +1,267 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Digital Vs Print Reader Preferences Questionnaire
+    pages:
+    - id: 1
+      name: intro_question
+      label: What is your preferred way to read books
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Both''}'
+      - '{''value'': ''Print Only''}'
+      - '{''value'': ''Digital Only''}'
+      required: false
+    - id: 2
+      name: age_group
+      label: Which of the following best describes your age group
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''18-30''}'
+      - '{''value'': ''31-45''}'
+      - '{''value'': ''46-60''}'
+      - '{''value'': ''61+''}'
+      required: false
+    - id: 3
+      name: education_level
+      label: What is your highest level of education
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Some High School''}'
+      - '{''value'': ''High School Diploma or Higher''}'
+      - '{''value'': ''Some College or Post-Secondary''}'
+      - '{''value'': "Bachelor''s or Higher"}'
+      required: false
+    - id: 4
+      name: income_group
+      label: Which category best fits your annual income
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''< 20,000''}'
+      - '{''value'': ''20,000 - 40,000''}'
+      - '{''value'': ''40,000 - 60,000''}'
+      - '{''value'': ''60,000+''}'
+      required: false
+    - id: 5
+      name: occupation
+      label: What is your occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reading_frequency
+      label: How often do you read
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Less than once a week''}'
+      - '{''value'': ''1-2 times a week''}'
+      - '{''value'': ''3-5 times a week''}'
+      - '{''value'': ''More than 5 times a week''}'
+      required: false
+    - id: 7
+      name: reading_platform
+      label: On which platform do you read most
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Ereader/Amazon Kindle''}'
+      - '{''value'': ''Apple iBook''}'
+      - '{''value'': ''Google Play Books''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 8
+      name: reading_format
+      label: What format do you prefer to read
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Print Books''}'
+      - '{''value'': ''eBook''}'
+      - '{''value'': ''Audiobooks''}'
+      required: false
+    - id: 9
+      name: print_book_format
+      label: What print format do you prefer
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Paperback''}'
+      - '{''value'': ''Hardcover''}'
+      - '{''value'': ''Magazine/Comic''}'
+      - '{''value'': ''Journal/Trade''}'
+      required: false
+    - id: 10
+      name: online_content_format
+      label: What online format do you prefer
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''PDF''}'
+      - '{''value'': ''ePUB''}'
+      - '{''value'': ''HTML''}'
+      required: false
+    - id: 11
+      name: print_book_size
+      label: What print book size do you prefer
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Standard''}'
+      - '{''value'': ''A6''}'
+      - '{''value'': ''A5''}'
+      required: false
+    - id: 12
+      name: read_aloud
+      label: Would you be interested in having a book read to you
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 13
+      name: read_aloud_format
+      label: If yes, what format would you prefer
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Audiobooks''}'
+      - '{''value'': ''Podcasts''}'
+      required: false
+    - id: 14
+      name: read_aloud_speed
+      label: If yes, what speed would you prefer
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Normal''}'
+      - '{''value'': ''Faster''}'
+      required: false
+    - id: 15
+      name: language
+      label: What language do you prefer your books in
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''English''}'
+      - '{''value'': ''Spanish''}'
+      required: false
+    - id: 16
+      name: gender
+      label: What is your gender
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Male''}'
+      - '{''value'': ''Female''}'
+      - '{''value'': ''Non-Binary''}'
+      required: false
+    - id: 17
+      name: marital_status
+      label: What is your marital status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Single''}'
+      - '{''value'': ''Married''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 18
+      name: education_type
+      label: What type of education do you have
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Primary School''}'
+      - '{''value'': ''High School''}'
+      - '{''value'': ''College/University''}'
+      - '{''value'': ''Masters/PhD''}'
+      required: false
+    - id: 19
+      name: location
+      label: What is your location
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Urban''}'
+      - '{''value'': ''Rural''}'
+      - '{''value'': ''Suburban''}'
+      required: false
+    - id: 20
+      name: income_type
+      label: What type of income do you have
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Salary''}'
+      - '{''value'': ''Commission''}'
+      - '{''value'': ''Royalties''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 21
+      name: job_type
+      label: What type of job do you have
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Part-time''}'
+      - '{''value'': ''Full-time''}'
+      - '{''value'': ''Self-Employed''}'
+      required: false
+    - id: 22
+      name: job_status
+      label: What is your job status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Employed''}'
+      - '{''value'': ''Unemployed''}'
+      - '{''value'': ''Retired''}'
+      required: false
+    - id: 23
+      name: employment_type
+      label: What type of employment do you have
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Employed''}'
+      - '{''value'': ''Unemployed''}'
+      - '{''value'': ''Self-Employed''}'
+      required: false
+    - id: 24
+      name: employment_status
+      label: What is your employment status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Full-Time''}'
+      - '{''value'': ''Part-Time''}'
+      - '{''value'': ''Self-Employed''}'
+      required: false
+    - id: 25
+      name: employment_location
+      label: Where do you work
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Office''}'
+      - '{''value'': ''Home''}'
+      - '{''value'': ''Other''}'
+      required: false

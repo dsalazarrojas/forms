@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: hyrox_event_feedback_survey
+    pages:
+    - id: 1
+      name: participant_satisfaction
+      label: Participant Satisfaction
+      hint: Please rate the overall participant satisfaction.
+      type: select_one
+      options:
+      - '{''label'': ''Not at all satisfied''}'
+      - '{''label'': ''Somewhat satisfied''}'
+      - '{''label'': ''Somewhat dissatisfied''}'
+      - '{''label'': ''Very satisfied''}'
+      - '{''label'': ''Very dissatisfied''}'
+      required: false
+    - id: 2
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: location_score
+      label: Location Quality
+      hint: Rate the quality of the event location (1-5)
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: event_organization
+      label: Event Organization
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Average''}'
+      - '{''label'': ''Poor''}'
+      - '{''label'': ''Very poor''}'
+      required: false
+    - id: 5
+      name: overall_experience
+      label: Overall Experience
+      hint: Rate your overall experience.
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: improvement_suggestions
+      label: Improvement Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: suggestions
+      label: Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false

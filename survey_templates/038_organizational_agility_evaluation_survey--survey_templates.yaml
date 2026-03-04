@@ -1,0 +1,237 @@
+inputSchema:
+  type: object
+  properties:
+    title: Organizational Agility Evaluation Survey
+    pages:
+    - id: 1
+      name: survey_start
+      label: Survey Start
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: team_leadership
+      label: Team Leadership
+      hint: null
+      type: select_one
+      options:
+      - prophets
+      - transformational
+      - adaptive
+      - agile
+      - traditional
+      - bureaucratic
+      - other
+      - hybrid
+      required: false
+    - id: 3
+      name: communication_flow
+      label: Communication Flow
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: communication_plan
+      label: Communication Plan
+      hint: null
+      type: select_multiple
+      options:
+      - Plan and track progress
+      - Regular team meetings
+      - Collaborative tools
+      - Centralized documentation
+      required: false
+    - id: 5
+      name: decision_making
+      label: Decision Making
+      hint: null
+      type: select_one
+      options:
+      - Autocratic
+      - Consensus
+      - Deliberative
+      - Decisive
+      - Other
+      required: false
+    - id: 6
+      name: decision_making_process
+      label: Decision Making Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: collaboration
+      label: Collaboration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: decision_making_process_description
+      label: Decisions Made By
+      hint: null
+      type: select_multiple
+      options:
+      - Team Members
+      - Managers
+      - Other
+      required: false
+    - id: 9
+      name: decision_making_process_description
+      label: Decision Making Process Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: organizational_structure
+      label: Organizational Structure
+      hint: null
+      type: select_one
+      options:
+      - Hierarchy
+      - Matrix
+      - Flat
+      - Hybrid
+      - Other
+      required: false
+    - id: 11
+      name: organizational_culture
+      label: Organizational Culture
+      hint: null
+      type: select_one
+      options:
+      - Autocratic
+      - Consensus
+      - Flexible
+      - Hierarchy
+      - Other
+      required: false
+    - id: 12
+      name: organizational_culture_description
+      label: Organizational Culture Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: leadership_commitment
+      label: Leadership Commitment
+      hint: null
+      type: select_one
+      options:
+      - Strong
+      - Weak
+      - Neutral
+      - Other
+      required: false
+    - id: 14
+      name: leadership_commitment_description
+      label: Leadership Commitment Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: organizational_readiness
+      label: Organizational Readiness
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      - Other
+      required: false
+    - id: 16
+      name: organizational_readiness_description
+      label: Organizational Readiness Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: innovation
+      label: Innovation
+      hint: null
+      type: select_one
+      options:
+      - Strong
+      - Medium
+      - Weak
+      - Other
+      required: false
+    - id: 18
+      name: innovation_description
+      label: Innovation Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: risk_management
+      label: Risk Management
+      hint: null
+      type: select_one
+      options:
+      - Strong
+      - Weak
+      - None
+      - Other
+      required: false
+    - id: 20
+      name: risk_management_description
+      label: Risk Management Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: continuous_improvement
+      label: Continuous Improvement
+      hint: null
+      type: select_one
+      options:
+      - Strong
+      - Weak
+      - None
+      - Other
+      required: true
+    - id: 22
+      name: change_management
+      label: Change Management
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      - Other
+      required: false
+    - id: 23
+      name: continuous_improvement_description
+      label: Continuous Improvement Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: change_management_description
+      label: Change Management Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: feedback
+      label: Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - Feedback
+      - None
+      - Other
+      required: false

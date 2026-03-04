@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: School District Calendar Voting Form
+    pages:
+    - id: 1
+      name: schedule_proposal
+      label: Schedule Proposal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: proposed_schedule_date
+      label: Proposed Schedule Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: schedule_type
+      label: Schedule Type
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

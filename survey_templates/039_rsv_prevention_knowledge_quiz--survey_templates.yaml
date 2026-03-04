@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: RSV Prevention Knowledge Quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: rsv_prevention
+      label: rsv-prevention
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: symptoms
+      label: symptoms
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''value1''}'
+      - '{''label'': ''Option 2'', ''value'': ''value2''}'
+      - '{''label'': ''Option 3'', ''value'': ''value3''}'
+      required: false
+    - id: 4
+      name: transmission
+      label: transmission
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''value1''}'
+      - '{''label'': ''Option 2'', ''value'': ''value2''}'
+      - '{''label'': ''Option 3'', ''value'': ''value3''}'
+      required: false
+    - id: 5
+      name: prevention
+      label: prevention
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: demographics
+      label: Demographics
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''value1''}'
+      - '{''label'': ''Option 2'', ''value'': ''value2''}'
+      - '{''label'': ''Option 3'', ''value'': ''value3''}'
+      required: false
+    - id: 7
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: rsv_prevention_familiarity_level
+      label: rsv-prevention-familiarity-level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''value1''}'
+      - '{''label'': ''Option 2'', ''value'': ''value2''}'
+      - '{''label'': ''Option 3'', ''value'': ''value3''}'
+      required: false
+    - id: 9
+      name: rsv_prevention_confidence_level
+      label: rsv-prevention-confidence-level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''value1''}'
+      - '{''label'': ''Option 2'', ''value'': ''value2''}'
+      - '{''label'': ''Option 3'', ''value'': ''value3''}'
+      required: false
+    - id: 10
+      name: rsv_prevention_interest_level
+      label: rsv-prevention-interest-level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''value1''}'
+      - '{''label'': ''Option 2'', ''value'': ''value2''}'
+      - '{''label'': ''Option 3'', ''value'': ''value3''}'
+      required: false
+    - id: 11
+      name: rsv_prevention_behaviors
+      label: rsv-prevention-behaviors
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''value1''}'
+      - '{''label'': ''Option 2'', ''value'': ''value2''}'
+      - '{''label'': ''Option 3'', ''value'': ''value3''}'
+      required: false
+    - id: 12
+      name: rsv_prevention_barriers
+      label: rsv-prevention-barriers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: rsv_prevention_communication_plan
+      label: rsv-prevention-communication-plan
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''value1''}'
+      - '{''label'': ''Option 2'', ''value'': ''value2''}'
+      - '{''label'': ''Option 3'', ''value'': ''value3''}'
+      required: false
+    - id: 14
+      name: rsv_prevention_symptoms_tracking
+      label: rsv-prevention-symptoms-tracking
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''value1''}'
+      - '{''label'': ''Option 2'', ''value'': ''value2''}'
+      - '{''label'': ''Option 3'', ''value'': ''value3''}'
+      required: false
+    - id: 15
+      name: rsv_prevention_symptoms_timeline
+      label: rsv-prevention-symptoms-timeline
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''value1''}'
+      - '{''label'': ''Option 2'', ''value'': ''value2''}'
+      - '{''label'': ''Option 3'', ''value'': ''value3''}'
+      required: false
+    - id: 16
+      name: rsv_prevention_symptoms_impact
+      label: rsv-prevention-symptoms-impact
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''value1''}'
+      - '{''label'': ''Option 2'', ''value'': ''value2''}'
+      - '{''label'': ''Option 3'', ''value'': ''value3''}'
+      required: false
+    - id: 17
+      name: rsv_prevention_questions
+      label: rsv-prevention-questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: rsv_prevention_questions_answers
+      label: rsv-prevention-questions-answers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: rsv_prevention_questions_quiz
+      label: rsv-prevention-questions-quiz
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''value1''}'
+      - '{''label'': ''Option 2'', ''value'': ''value2''}'
+      - '{''label'': ''Option 3'', ''value'': ''value3''}'
+      required: false
+    - id: 20
+      name: rsv_prevention_quiz_score
+      label: rsv-prevention-quiz-score
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: rsv_prevention_quiz_submitted
+      label: rsv-prevention-quiz-submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: rsv_prevention_quiz_time_submitted
+      label: rsv-prevention-quiz-time-submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: rsv_prevention_comments
+      label: rsv-prevention-comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: rsv_prevention_email
+      label: rsv-prevention-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: rsv_prevention_phone
+      label: rsv-prevention-phone
+      hint: null
+      type: text
+      options: []
+      required: false

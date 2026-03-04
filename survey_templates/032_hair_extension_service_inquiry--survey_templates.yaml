@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hair Extension Service Inquiry
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: service_type
+      label: service_type
+      hint: null
+      type: select_one
+      options:
+      - Hair Extensions
+      - Hair Transplant
+      - Hair Restoration
+      - Other
+      required: true
+    - id: 6
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: message
+      label: message
+      hint: Tell us a little bit about your inquiry
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_multiple
+      options:
+      - Jimmy
+      - Jane
+      - John
+      - Doe
+      required: true

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: course_evaluation_survey
+    pages:
+    - id: 1
+      name: course_information
+      label: course_information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: course_content
+      label: course_content
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: course_organization
+      label: course_organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: course_difficulty
+      label: course_difficulty
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: course_relevance
+      label: course_relevance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: course_value
+      label: course_value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: course_satisfaction
+      label: course_satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: instructor_quality
+      label: instructor_quality
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 9
+      name: instructor_effectiveness
+      label: instructor_effectiveness
+      hint: null
+      type: select_one
+      options:
+      - Effective
+      - Needs Improvement
+      - Not Effective
+      required: true
+    - id: 10
+      name: instructor_support
+      label: instructor_support
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stylist Match Quiz
+    pages:
+    - id: 1
+      name: client_preferences
+      label: Client Preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: stylist_list
+      label: List of Stylists
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: match_stylist
+      label: Match Stylist
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: stylist_name
+      label: Stylist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: stylist_picture
+      label: Stylist Picture
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: stylist_bio
+      label: Stylist Bio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: salon_name
+      label: Salon Name
+      hint: null
+      type: text
+      options: []
+      required: false

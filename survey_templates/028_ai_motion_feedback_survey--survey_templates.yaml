@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: AI Motion Feedback Survey
+    pages:
+    - id: 1
+      name: session_details_header
+      label: '--- Session and User Information ---'
+      hint: Help us identify your trial or session details.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_id
+      label: Session or Trial ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: motion_category
+      label: Motion Category / Activity Type
+      hint: What type of movement were you tracking?
+      type: select_one
+      options:
+      - label: Sports & Fitness (e.g., Yoga, Squats, Golf)
+        value: fitness
+      - label: Physical Rehabilitation / Therapy
+        value: rehab
+      - label: Industrial / Workplace Safety
+        value: safety
+      - label: Dance or Creative Performance
+        value: creative
+      - label: Animation / CGI Motion Capture
+        value: animation
+      required: true
+    - id: 5
+      name: hardware_setup
+      label: Hardware / Camera Setup Used
+      hint: null
+      type: select_one
+      options:
+      - label: Standard Smartphone Camera (Front)
+        value: smartphone_front
+      - label: Standard Smartphone Camera (Rear)
+        value: smartphone_rear
+      - label: Laptop Webcam
+        value: webcam
+      - label: Dedicated Depth Camera (e.g., Azure Kinect)
+        value: depth_camera
+      - label: Wearable Inertial Sensors
+        value: wearables
+      required: true
+    - id: 6
+      name: system_performance_header
+      label: '--- AI Performance & Accuracy ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: capture_accuracy_rating
+      label: Accuracy of Motion Capture
+      hint: How well did the AI replicate your actual movements? (1 = Poor, 5 = Excellent)
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: latency_assessment
+      label: Real-time Feedback Latency
+      hint: Did you notice a delay in the visual or audio feedback?
+      type: select_one
+      options:
+      - label: Seamless (No noticeable lag)
+        value: seamless
+      - label: Acceptable (Minor delay, still usable)
+        value: minor_lag
+      - label: Poor (Significant delay, hindered movement)
+        value: high_lag
+      required: true
+    - id: 9
+      name: coaching_feedback_quality
+      label: Quality of Coaching / Corrections
+      hint: Were the AI's suggestions helpful and timely?
+      type: select_one
+      options:
+      - label: Excellent (Very clear and actionable)
+        value: excellent
+      - label: Good (Mostly clear)
+        value: good
+      - label: Neutral (Sometimes confusing)
+        value: neutral
+      - label: Poor (Incorrect or unhelpful advice)
+        value: poor
+      required: true
+    - id: 10
+      name: actionability_rating
+      label: Did you feel empowered to improve your form based on the AI feedback?
+      hint: null
+      type: select_one
+      options:
+      - label: Yes, completely
+        value: true
+      - label: Somewhat
+        value: somewhat
+      - label: Not at all
+        value: false
+      required: true
+    - id: 11
+      name: usability_header
+      label: '--- Experience and Usability ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: interface_ease_of_use
+      label: Interface Ease of Use
+      hint: 1 = Difficult to navigate, 5 = Very Intuitive
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: value_proposition
+      label: Compared to a human coach, how valuable was this AI experience?
+      hint: null
+      type: select_one
+      options:
+      - label: More Valuable (Convenient/Objective)
+        value: more_valuable
+      - label: Equal Value
+        value: equal
+      - label: Less Valuable (Misses human nuance)
+        value: less_valuable
+      - label: Different (Great for drills, bad for strategy)
+        value: different
+      required: true
+    - id: 14
+      name: technical_issues_encountered
+      label: Did you encounter any technical issues?
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - label: Calibration Failures
+        value: calibration
+      - label: Poor Lighting Warnings
+        value: lighting
+      - label: App Crashes / Freezes
+        value: crashes
+      - label: Connectivity Issues
+        value: connectivity
+      - label: None
+        value: none
+      required: false
+    - id: 15
+      name: feature_wishlist
+      label: What features are missing?
+      hint: What would make this 10x better for you?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: nps_rating
+      label: How likely are you to recommend this AI motion coaching to a friend or
+        colleague?
+      hint: 0 = Not at all likely, 10 = Extremely likely
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: video_share_consent
+      label: Data Consent for Research
+      hint: Do you consent to sharing your anonymized motion data for algorithm improvement?
+      type: select_one
+      options:
+      - label: Yes, I consent
+        value: true
+      - label: No, please delete my data after this trial
+        value: false
+      required: true
+    - id: 18
+      name: feedback_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

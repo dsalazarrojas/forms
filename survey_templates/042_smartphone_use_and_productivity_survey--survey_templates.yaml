@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smartphone Use And Productivity Survey
+    pages:
+    - id: 1
+      name: main_page
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: smartphone_use
+      label: How often do you use your smartphone?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Always''}'
+      - '{''label'': ''Most of the time''}'
+      - '{''label'': ''Sometimes''}'
+      - '{''label'': ''Rarely''}'
+      required: false
+    - id: 3
+      name: productivity_hours
+      label: How many hours do you use your smartphone in a single day?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: distractions
+      label: What kind of distractions do you encounter when using your smartphone?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Social Media''}'
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Chat apps''}'
+      - '{''label'': ''Videos''}'
+      required: false
+    - id: 5
+      name: app_usage
+      label: Which of the following apps do you use frequently?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Social media''}'
+      - '{''label'': ''Gaming''}'
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Music''}'
+      required: false
+    - id: 6
+      name: effects_benefits
+      label: Which of the following benefits do you experience from using your smartphone?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Improved productivity''}'
+      - '{''label'': ''Reduced stress''}'
+      - '{''label'': ''Improved organization''}'
+      - '{''label'': ''Better sleep''}'
+      required: false
+    - id: 7
+      name: effects_harms
+      label: Which of the following harms do you experience from using your smartphone?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Social isolation''}'
+      - '{''label'': ''Eye strain''}'
+      - '{''label'': ''Headaches''}'
+      - '{''label'': ''Sleep disruptions''}'
+      required: false
+    - id: 8
+      name: recommendations
+      label: What recommendations would you give to others about smartphone use?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: survey_end
+      label: Thank you for taking this survey
+      hint: null
+      type: note
+      options: []
+      required: false

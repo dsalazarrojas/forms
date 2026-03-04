@@ -1,0 +1,247 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Arrival Confirmation Survey
+    pages:
+    - id: 1
+      name: section_guest_info
+      label: -- Guest Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reservation_number
+      label: Reservation Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_arrival_experience
+      label: -- Arrival Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: check_in_ease
+      label: Ease of Check-in Process
+      hint: null
+      type: select_one
+      options:
+      - Very easy
+      - Easy
+      - Neutral
+      - Difficult
+      - Very difficult
+      required: true
+    - id: 7
+      name: check_in_time
+      label: Check-in Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: staff_friendliness
+      label: Staff Friendliness and Helpfulness
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 9
+      name: staff_knowledge
+      label: Staff Knowledge and Professionalism
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 10
+      name: section_room_impression
+      label: -- Room and Facilities Impression --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: room_cleanliness
+      label: Room Cleanliness
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 12
+      name: room_comfort
+      label: Room Comfort and Amenities
+      hint: Bed quality, furniture, temperature control
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 13
+      name: room_matches_expectations
+      label: Room Matches Your Expectations
+      hint: null
+      type: select_one
+      options:
+      - Exceeds expectations
+      - Meets expectations
+      - Below expectations
+      - Far below expectations
+      required: true
+    - id: 14
+      name: section_facility_experience
+      label: -- Facility and Amenities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: facility_cleanliness
+      label: Overall Facility Cleanliness
+      hint: Lobby, hallways, common areas
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 16
+      name: amenity_satisfaction
+      label: Amenity Satisfaction
+      hint: Parking, Wi-Fi, fitness center, etc.
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 17
+      name: section_first_impression
+      label: -- First Impression --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: overall_first_impression
+      label: Overall First Impression
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 19
+      name: would_recommend
+      label: Would you recommend this location
+      hint: null
+      type: select_one
+      options:
+      - Definitely
+      - Probably
+      - Maybe
+      - Probably not
+      - Definitely not
+      required: true
+    - id: 20
+      name: likelihood_return
+      label: Likelihood of returning
+      hint: null
+      type: select_one
+      options:
+      - Very likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very unlikely
+      required: true
+    - id: 21
+      name: section_feedback
+      label: -- Feedback and Comments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: positive_feedback
+      label: What did you like most about your arrival experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: improvement_suggestions
+      label: Areas for improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: email_contact
+      label: May we contact you with follow-up questions
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: false

@@ -1,0 +1,200 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Best Practitioner Voting Form
+    pages:
+      - id: 1
+        name: voter_registration_header
+        label: -- Voter Registration --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: voter_full_name
+        label: Your Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: voter_email_addr
+        label: Your Email Address
+        hint: For voting verification purposes
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: practitioner_nomination_header
+        label: -- Practitioner Nomination --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: practitioner_name_text
+        label: Practitioner Name
+        hint: The individual you are voting for
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: professional_specialty_select
+        label: Professional Specialty
+        hint: Primary field of practice
+        type: select_one
+        options:
+          - Medical and Healthcare
+          - Legal Services
+          - Engineering and Tech
+          - Architecture and Design
+          - Education and Research
+          - Creative and Media
+          - Financial and Accounting
+          - Other
+        required: true
+      - id: 7
+        name: practitioner_org_name
+        label: Practitioner's Organization or Clinic
+        hint: Where do they primarily practice
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: evaluation_criteria_header
+        label: -- Performance Evaluation --
+        hint: Rate from 1 (Poor) to 5 (Outstanding)
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: expertise_level_rating
+        label: Level of Expertise
+        hint: Skill and knowledge in the field
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 10
+        name: care_service_quality_rating
+        label: Quality of Care or Service
+        hint: null
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 11
+        name: communication_skills_rating
+        label: Communication and Interpersonal Skills
+        hint: Ability to explain and engage
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 12
+        name: ethical_conduct_rating
+        label: Ethical Conduct and Professionalism
+        hint: null
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 13
+        name: reputation_field_rating
+        label: Reputation in the Professional Field
+        hint: null
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 14
+        name: nomination_support_header
+        label: -- Nomination Support --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: voting_reason_desc
+        label: Why are you voting for this practitioner
+        hint: Elaborate on their contribution
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: success_story_desc
+        label: Describe a specific success story or experience
+        hint: A moment that showcases their excellence
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: defining_descriptor_word
+        label: One word that defines this practitioner
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: final_details_header
+        label: -- Final Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: relationship_duration
+        label: How long have you known or worked with them
+        hint: Select the most accurate range
+        type: select_one
+        options:
+          - Less than 1 year
+          - 1 to 3 years
+          - 3 to 5 years
+          - Over 5 years
+        required: true
+      - id: 20
+        name: committee_additional_feedback
+        label: Any other feedback for the awards committee
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: voting_submission_date
+        label: Date of Vote
+        hint: null
+        type: date
+        options: []
+        required: true

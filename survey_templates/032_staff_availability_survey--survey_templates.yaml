@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: staff_availability_survey
+    pages:
+    - id: 1
+      name: staff_availability_survey_page_1
+      label: survey_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: working_hours_start
+      label: working_hours_start
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: working_hours_end
+      label: working_hours_end
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: preferred_days
+      label: preferred_days
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 5
+      name: preferred_time
+      label: preferred_time
+      hint: null
+      type: select_multiple
+      options:
+      - 8:00 am
+      - 9:00 am
+      - 10:00 am
+      - 11:00 am
+      - 12:00 pm
+      - 13:00 pm
+      - 14:00 pm
+      - 15:00 pm
+      required: true
+    - id: 6
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

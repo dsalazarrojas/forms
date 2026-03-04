@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: womens_fund_committee_interest_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: volunteer_interest
+      label: Volunteer Interest
+      hint: null
+      type: select_multiple
+      options:
+      - Volunteer
+      - Volunteer
+      - Volunteer
+      required: false
+    - id: 6
+      name: candidate_info
+      label: Candidate Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: candidate_interest
+      label: Candidate Interest
+      hint: null
+      type: select_multiple
+      options:
+      - Volunteer
+      - Volunteer
+      - Volunteer
+      required: false
+    - id: 8
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: nonprofit
+      label: Nonprofit
+      hint: null
+      type: select_one
+      options:
+      - Nonprofit
+      - Nonprofit
+      - Nonprofit
+      required: false

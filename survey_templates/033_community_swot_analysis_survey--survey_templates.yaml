@@ -1,0 +1,114 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community SWOT Analysis Survey
+    pages:
+      - id: 1
+        name: swot_intro
+        label: -- Community SWOT Analysis --
+        hint: Help us identify our community - s strengths - weaknesses - opportunities - and threats.
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: swot_voter_name
+        label: Name of Respondent
+        hint: Optional.
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: residency_neighborhood_info
+        label: Your Neighborhood or Community
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: community_strengths_text
+        label: Strengths (S)
+        hint: What does our community do well? What are our internal assets?
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: community_weaknesses_text
+        label: Weaknesses (W)
+        hint: What could be improved? What are our internal limitations?
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: community_opportunities_text
+        label: Opportunities (O)
+        hint: What external trends or changes can we take advantage of?
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: community_threats_text
+        label: Threats (T)
+        hint: What external factors or risks could harm our community?
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: primary_focus_area_selection
+        label: Primary Focus Area for Analysis
+        hint: Select the most important category for this analysis.
+        type: select_one
+        options: [Infrastructure and Services, Economy and Jobs, Environment and Sustainability, Education and Youth, Public Safety and Health, Culture and Community Engagement]
+        required: true
+      - id: 9
+        name: current_community_satisfaction
+        label: Current Community Satisfaction Level
+        hint: Scale of 1 to 5.
+        type: select_one
+        options: [5 - Extremely Satisfied, 4, 3, 2, 1 - Not Satisfied]
+        required: true
+      - id: 10
+        name: swot_improvement_suggestions
+        label: What is one thing that would make our community stronger?
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: community_asset_mapping_interest
+        label: Would you participate in a community asset mapping workshop?
+        hint: null
+        type: select_one
+        options: [Yes, No]
+        required: true
+      - id: 12
+        name: swot_contact_email
+        label: Contact Email Address
+        hint: For follow-up and workshop invitations.
+        type: email
+        options: []
+        required: false
+      - id: 13
+        name: swot_submission_date
+        label: Today - s Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 14
+        name: swot_footer
+        label: -- Thank You for Your Contribution --
+        hint: We will use this information to guide our strategic planning.
+        type: note
+        options: []
+        required: false

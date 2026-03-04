@@ -1,0 +1,173 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Awareness Training Evaluation Survey
+    pages:
+      - id: 1
+        name: section_user_info
+        label: -- User and Training Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: full_name
+        label: Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email_address
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: training_topic
+        label: Awareness Training Topic
+        hint: Select the primary subject
+        type: select_one
+        options:
+          - Cyber Security Awareness
+          - Diversity and Inclusion (D&I)
+          - Workplace Safety and Hazards
+          - Mental Health and Wellbeing
+          - Environmental Sustainability
+        required: true
+      - id: 5
+        name: training_date
+        label: Training Date
+        hint: When did the session occur?
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: trainer_name
+        label: Trainer or Instructor Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: section_knowledge_rating
+        label: -- Knowledge and Skill Assessment --
+        hint: Rate your understanding on a scale of 1 to 5
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: knowledge_before
+        label: Knowledge Level BEFORE Training
+        hint: null
+        type: select_one
+        options:
+          - 1 - Low
+          - 2 - Fair
+          - 3 - Moderate
+          - 4 - Good
+          - 5 - Expert
+        required: true
+      - id: 9
+        name: knowledge_after
+        label: Knowledge Level AFTER Training
+        hint: null
+        type: select_one
+        options:
+          - 1 - Low
+          - 2 - Fair
+          - 3 - Moderate
+          - 4 - Good
+          - 5 - Expert
+        required: true
+      - id: 10
+        name: trainer_performance
+        label: Trainer Performance Rating
+        hint: Clarity, engagement, and delivery
+        type: select_one
+        options:
+          - 1 - Unsatisfactory
+          - 2 - Poor
+          - 3 - Average
+          - 4 - Good
+          - 5 - Outstanding
+        required: true
+      - id: 11
+        name: content_quality
+        label: Course Content Quality
+        hint: Relevance and depth of information
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Fair
+          - 3 - Average
+          - 4 - Good
+          - 5 - Excellent
+        required: true
+      - id: 12
+        name: material_usefulness
+        label: Course Material Usefulness
+        hint: Slides, handouts, and resources
+        type: select_one
+        options:
+          - 1 - Not Useful
+          - 2 - Slightly Useful
+          - 3 - Neutral
+          - 4 - Useful
+          - 5 - Highly Useful
+        required: true
+      - id: 13
+        name: duration_feedback
+        label: Duration of Training Session
+        hint: null
+        type: select_one
+        options:
+          - Too Short (Need more time)
+          - Just Right (Perfect length)
+          - Too Long (Boredom set in)
+        required: true
+      - id: 14
+        name: key_learning_point
+        label: Most Important Key Learning Point
+        hint: What is the single biggest takeaway?
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: improvement_areas_training
+        label: Areas to Improve
+        hint: How can we make this training better?
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: recommend_colleague
+        label: Would you recommend this training to a colleague?
+        hint: null
+        type: select_one
+        options:
+          - Definitely Recommend
+          - Likely Recommend
+          - Neutral
+          - Unlikely
+          - Not at all
+        required: true
+      - id: 17
+        name: final_comments_evaluation
+        label: Final Comments or Suggestions
+        hint: Any other thoughts for the training team
+        type: text
+        options: []
+        required: false

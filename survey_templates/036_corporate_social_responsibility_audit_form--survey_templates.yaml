@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Social Responsibility Audit Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_info
+      label: company
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: csr_initiatives
+      label: csr initiatives
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: initiative_name
+      label: initiative name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: initiative_description
+      label: initiative description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: initiative_status
+      label: initiative status
+      hint: null
+      type: select_one
+      options:
+      - ongoing
+      - pending
+      - cancelled
+      required: true
+    - id: 7
+      name: initiative_owners
+      label: initiative owners
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: csr_strategies
+      label: csr strategies
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 9
+      name: strategy_description
+      label: strategy description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: strategy_owners
+      label: strategy owners
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 11
+      name: stakeholders
+      label: stakeholders
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: stakeholder_name
+      label: stakeholder name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: stakeholder_role
+      label: stakeholder role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: stakeholder_feedback
+      label: stakeholder feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: stakeholder_feedback_owners
+      label: stakeholder feedback owners
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

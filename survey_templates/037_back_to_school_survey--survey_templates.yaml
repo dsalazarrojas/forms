@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Back To School Survey
+    pages:
+    - id: 1
+      name: survey_general_header
+      label: -- Comprehensive Back-to-School Readiness Survey --
+      hint: Gathering perspectives from our entire school community
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_role
+      label: Please select your role
+      hint: null
+      type: select_one
+      options:
+      - Parent/Guardian
+      - Student
+      - Teacher/Staff Member
+      - Community Member
+      required: true
+    - id: 3
+      name: school_name_input
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: preparedness_rating
+      label: How prepared do you feel for the start of the new academic year?
+      hint: 1 = Not at all prepared, 5 = Fully prepared
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: communication_clarity_rating
+      label: Rate the clarity of communication from the school administration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: safety_concerns_rating
+      label: Level of concern regarding school facility safety and hygiene
+      hint: 1 = No concern, 5 = Very high concern
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: primary_safety_concern
+      label: What is your biggest safety concern?
+      hint: e.g., ventilation, social distancing, cleaning frequency
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: technology_readiness_check
+      label: Do you have all the necessary technology and internet access for the
+        year?
+      hint: null
+      type: select_one
+      options:
+      - Yes, fully equipped
+      - Partial access
+      - No, need assistance
+      required: true
+    - id: 9
+      name: social_emotional_support_needs
+      label: Rate the need for additional social-emotional support services
+      hint: 1 = No need, 5 = Urgent need
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: preferred_engagement_method
+      label: Preferred method for receiving school news and updates
+      hint: null
+      type: select_one
+      options:
+      - Email Newsletter
+      - Text Alerts
+      - School Website
+      - Social Media
+      - Printed Letters
+      required: true
+    - id: 11
+      name: additional_comments_readiness
+      label: Any other feedback you'd like to provide regarding the school reopening?
+      hint: null
+      type: text
+      options: []
+      required: false

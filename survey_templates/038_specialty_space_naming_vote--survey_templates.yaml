@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Specialty Space Naming Vote
+    pages:
+    - id: 1
+      name: ranking_1
+      label: Rank 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: ranking_2
+      label: Rank 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: ranking_3
+      label: Rank 3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: specialty_naming_vote
+      label: Speciality Space Naming Vote
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: select_1
+      label: Select 1
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''option1''}'
+      - '{''value'': ''option2''}'
+      - '{''value'': ''option3''}'
+      required: true
+    - id: 7
+      name: select_2
+      label: Select 2
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''option1''}'
+      - '{''value'': ''option2''}'
+      - '{''value'': ''option3''}'
+      required: true
+    - id: 8
+      name: date
+      label: Date
+      hint: Please enter date in YYYY-MM-dd
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: "Please enter time in HH:MM"
+      type: time
+      options: []
+      required: false

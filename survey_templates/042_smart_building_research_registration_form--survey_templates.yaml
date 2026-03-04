@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Building Research Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: ใส your first name here
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: 'null'
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_type
+      label: Participant Type
+      hint: null
+      type: select_multiple
+      options:
+      - Participant
+      - Researcher
+      - Real Estate Team
+      required: true
+    - id: 5
+      name: building_details
+      label: Building Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: research_interests
+      label: Research Interests
+      hint: null
+      type: select_multiple
+      options:
+      - Smart Building Technologies
+      - Sustainable Design
+      - Building Materials
+      - Energy Efficiency
+      required: true
+    - id: 7
+      name: university
+      label: University
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: lab
+      label: Lab
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: research_area
+      label: Research Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: study_details
+      label: Study Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: start_date
+      label: Select start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: end_date
+      label: Select end date
+      hint: null
+      type: date
+      options: []
+      required: true

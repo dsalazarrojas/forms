@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Feature Satisfaction Survey Form
+    pages:
+    - id: 1
+      name: vehicle_feature_satisfaction_form_page_1
+      label: vehicle_feature_satisfaction_form_page_1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_model
+      label: vehicle_model
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: feature_satisfaction
+      label: feature_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Very Satisfied''}'
+      - '{''value'': ''Somewhat Satisfied''}'
+      - '{''value'': ''Neutral''}'
+      - '{''value'': ''Somewhat Dissatisfied''}'
+      - '{''value'': ''Very Dissatisfied''}'
+      required: true
+    - id: 6
+      name: comment
+      label: comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_feature_satisfaction_rating
+      label: vehicle_feature_satisfaction_rating
+      hint: null
+      type: number
+      options: []
+      required: true

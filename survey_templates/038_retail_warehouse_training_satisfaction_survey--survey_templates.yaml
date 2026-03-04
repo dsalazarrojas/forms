@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Warehouse Training Satisfaction Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: store_id
+      label: Store ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: trainer_name
+      label: Trainer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: trainer_rating
+      label: Trainer Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 8
+      name: training_quality
+      label: Training Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Average
+      - Poor
+      required: false
+    - id: 9
+      name: safety_coverage
+      label: Safety Coverage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: trainer_effectiveness
+      label: Trainer Effectiveness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: training_safety_concerns
+      label: Training Safety Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

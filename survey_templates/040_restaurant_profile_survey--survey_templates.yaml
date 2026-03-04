@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restaurant Profile Survey
+    pages:
+    - id: 1
+      name: restaurant_name
+      label: Restaurant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: restaurant_type
+      label: Restaurant Type
+      hint: null
+      type: select_one
+      options:
+      - American
+      - Chinese
+      - Indian
+      - Italian
+      - Mexican
+      - Japanese
+      - Korean
+      - Thai
+      required: true
+    - id: 4
+      name: cuisine
+      label: Cuisines
+      hint: null
+      type: select_multiple
+      options:
+      - Sushi
+      - Seafood
+      - Vegan
+      - Vegetarian
+      required: false
+    - id: 5
+      name: price_range
+      label: Price Range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: hours
+      label: Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: staff_rating
+      label: Staff Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: cleanliness_rating
+      label: Cleanliness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: social_media
+      label: Social Media
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Twitter
+      - Instagram
+      required: false
+    - id: 15
+      name: rating_scale
+      label: Rating Scale
+      hint: null
+      type: select_one
+      options:
+      - 1-2
+      - 3-4
+      - 5-6
+      - 7-8
+      - 9-10
+      required: true

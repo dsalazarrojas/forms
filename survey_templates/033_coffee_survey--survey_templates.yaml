@@ -1,0 +1,252 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Coffee Survey
+    pages:
+      - id: 1
+        name: section_customer
+        label: -- Customer Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: customer_id
+        label: Customer ID or Name
+        hint: Optional identifier
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: visit_frequency
+        label: How often do you visit coffee shops
+        hint: null
+        type: select_one
+        options:
+          - Daily
+          - Several times a week
+          - Weekly
+          - Monthly
+          - Rarely
+        required: true
+      - id: 4
+        name: favorite_drink
+        label: Favorite Coffee Drink
+        hint: null
+        type: select_one
+        options:
+          - Espresso
+          - Americano
+          - Latte
+          - Cappuccino
+          - Macchiato
+          - Mocha
+          - Flat White
+          - Cold Brew
+          - Iced Coffee
+          - Other
+        required: true
+      - id: 5
+        name: section_preferences
+        label: -- Coffee Preferences --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: roast_preference
+        label: Preferred Roast Level
+        hint: null
+        type: select_one
+        options:
+          - Light
+          - Medium
+          - Dark
+          - Extra Dark
+          - No preference
+        required: true
+      - id: 7
+        name: origin_preference
+        label: Preferred Coffee Origin
+        hint: null
+        type: select_one
+        options:
+          - Single origin
+          - Blend
+          - Local roast
+          - Organic
+          - Fair trade
+          - No preference
+        required: false
+      - id: 8
+        name: milk_preference
+        label: Milk Preference
+        hint: null
+        type: select_one
+        options:
+          - Regular milk
+          - Skim milk
+          - Soy milk
+          - Almond milk
+          - Oat milk
+          - Coconut milk
+          - No milk
+        required: true
+      - id: 9
+        name: sweetness
+        label: Sweetness Preference
+        hint: null
+        type: select_one
+        options:
+          - No sugar
+          - Light sugar
+          - Normal sugar
+          - Extra sugar
+          - With syrup
+        required: false
+      - id: 10
+        name: section_experience
+        label: -- Coffee Experience --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: experience_level
+        label: Coffee Knowledge Level
+        hint: null
+        type: select_one
+        options:
+          - Casual drinker
+          - Coffee enthusiast
+          - Coffee connoisseur
+          - Professional in industry
+        required: true
+      - id: 12
+        name: willingness_try_new
+        label: Willingness to Try New Coffee
+        hint: Rate from 1 - never to 5 - always
+        type: select_one
+        options:
+          - "1 - Never"
+          - "2 - Rarely"
+          - "3 - Sometimes"
+          - "4 - Often"
+          - "5 - Always"
+        required: true
+      - id: 13
+        name: section_spending
+        label: -- Spending Habits --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: typical_spending
+        label: Typical Spending per Coffee Visit
+        hint: null
+        type: select_one
+        options:
+          - Under 3 dollars
+          - 3-5 dollars
+          - 5-7 dollars
+          - 7-10 dollars
+          - Over 10 dollars
+        required: true
+      - id: 15
+        name: monthly_spending
+        label: Monthly Coffee Spending
+        hint: Approximate total
+        type: select_one
+        options:
+          - Under 50 dollars
+          - 50-100 dollars
+          - 100-150 dollars
+          - 150-200 dollars
+          - Over 200 dollars
+        required: false
+      - id: 16
+        name: section_shop_choice
+        label: -- Shop Selection Factors --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: selection_factors
+        label: Most Important Factors in Shop Selection
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Coffee quality
+          - Price
+          - Location
+          - Atmosphere
+          - Staff friendliness
+          - Speed of service
+          - Variety of options
+          - Sustainability
+        required: true
+      - id: 18
+        name: section_opinions
+        label: -- Coffee Opinions --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: specialty_interest
+        label: Interest in Specialty Coffee
+        hint: null
+        type: select_one
+        options:
+          - Very interested
+          - Somewhat interested
+          - Neutral
+          - Not particularly interested
+          - Not at all interested
+        required: true
+      - id: 20
+        name: sustainability_concern
+        label: Concern about Coffee Sustainability
+        hint: null
+        type: select_one
+        options:
+          - Very concerned
+          - Somewhat concerned
+          - Neutral
+          - Not concerned
+          - Not at all concerned
+        required: false
+      - id: 21
+        name: section_feedback
+        label: -- General Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: improvement_suggestions
+        label: Suggestions for Coffee Shops
+        hint: What could be improved
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

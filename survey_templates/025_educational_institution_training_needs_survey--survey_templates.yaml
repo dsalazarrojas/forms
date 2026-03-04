@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Institution Training Needs Survey
+    pages:
+    - id: 1
+      name: institution_survey_form
+      label: institution_survey_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: role
+      label: role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: years_of_service
+      label: years_of_service
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: current_programme
+      label: current_programme
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: training_needs
+      label: training_needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

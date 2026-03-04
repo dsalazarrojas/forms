@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dramatic Structure Survey
+    pages:
+    - id: 1
+      name: introduction_to_dramatic_structure
+      label: Introduction to Dramatic Structure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dramatic_elements
+      label: Dramatic Elements
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: scene_and_sequel
+      label: Scene and Sequel
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: character_arcs
+      label: Character Arcs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: plot_summaries
+      label: Plot Summaries
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: storytelling_choices
+      label: Storytelling Choices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: dramatic_techniques
+      label: Dramatic Techniques
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: dramatic_structure_influence
+      label: Dramatic Structure Influence
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

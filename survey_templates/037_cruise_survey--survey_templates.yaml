@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: cruise_survey
+    pages:
+    - id: 1
+      name: passenger_name
+      label: Passenger Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: departure_port
+      label: Departure Port
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: arrival_port
+      label: Arrival Port
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: cruise_line
+      label: Cruise Line
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: departure_date
+      label: Departure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: departure_time
+      label: Departure Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: passenger_type
+      label: Passenger Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: passenger_type_options
+      label: Passenger Type Options
+      hint: null
+      type: select_one
+      options:
+      - Senior
+      - Student
+      - Infant
+      required: false
+    - id: 11
+      name: cabin_info
+      label: Cabin Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: travel_type
+      label: Travel Type
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Couple
+      - Group
+      required: false
+    - id: 13
+      name: travel_agent
+      label: Travel Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: Email
+      type: email
+      options: []
+      required: false

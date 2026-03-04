@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: User Persona Survey
+    pages:
+    - id: 1
+      name: user_persona_survey_form_1
+      label: What is your age?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: user_persona_survey_form_2
+      label: What is your job title?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: user_persona_survey_form_3
+      label: What is your income?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: user_persona_survey_form_4
+      label: What is your education level?
+      hint: null
+      type: select_one
+      options:
+      - High school
+      - Some college
+      - Bachelor's
+      - Master's
+      - Ph.D.
+      required: false
+    - id: 5
+      name: user_persona_survey_form_5
+      label: What is your occupation?
+      hint: null
+      type: select_multiple
+      options:
+      - Business
+      - Software developer
+      - Engineer
+      - Marketing
+      - Other
+      required: false
+    - id: 6
+      name: user_persona_survey_form_6
+      label: What is your annual income?
+      hint: null
+      type: number
+      options: []
+      required: false

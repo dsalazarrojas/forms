@@ -1,0 +1,176 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Virtual Lab Satisfaction Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: -- Academic Virtual Lab Satisfaction Survey --
+      hint: Share your feedback on your virtual lab experience to help us improve future sessions.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_role
+      label: Your role
+      hint: null
+      type: select_one
+      options:
+        - Student
+        - Faculty
+        - Teaching Assistant
+        - Lab Technician
+        - Staff
+      required: true
+    - id: 3
+      name: department
+      label: Department or course
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: lab_course_name
+      label: Name of the virtual lab course or module
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: frequency_of_use
+      label: How often did you use the virtual lab
+      hint: null
+      type: select_one
+      options:
+        - Daily
+        - Several times a week
+        - Once a week
+        - A few times during the semester
+        - Only once
+      required: true
+    - id: 6
+      name: ease_of_access
+      label: How easy was it to access the virtual lab platform
+      hint: null
+      type: select_one
+      options:
+        - Very difficult
+        - Difficult
+        - Neutral
+        - Easy
+        - Very easy
+      required: true
+    - id: 7
+      name: technical_quality
+      label: How would you rate the technical quality of the virtual lab (speed, reliability, graphics)
+      hint: null
+      type: select_one
+      options:
+        - Poor
+        - Fair
+        - Good
+        - Very Good
+        - Excellent
+      required: true
+    - id: 8
+      name: content_relevance
+      label: How relevant was the virtual lab content to your course objectives
+      hint: null
+      type: select_one
+      options:
+        - Not relevant
+        - Slightly relevant
+        - Moderately relevant
+        - Very relevant
+        - Extremely relevant
+      required: true
+    - id: 9
+      name: learning_effectiveness
+      label: How effective was the virtual lab in helping you learn compared to a physical lab
+      hint: null
+      type: select_one
+      options:
+        - Much less effective
+        - Somewhat less effective
+        - About the same
+        - Somewhat more effective
+        - Much more effective
+      required: true
+    - id: 10
+      name: instructions_clarity
+      label: How clear were the instructions provided for virtual lab activities
+      hint: null
+      type: select_one
+      options:
+        - Very unclear
+        - Somewhat unclear
+        - Neutral
+        - Somewhat clear
+        - Very clear
+      required: true
+    - id: 11
+      name: technical_issues
+      label: Did you experience any technical issues during virtual lab sessions
+      hint: null
+      type: select_one
+      options:
+        - Never
+        - Rarely
+        - Sometimes
+        - Often
+        - Very often
+      required: true
+    - id: 12
+      name: technical_support_rating
+      label: If you needed technical support, how responsive was it
+      hint: null
+      type: select_one
+      options:
+        - Did not need support
+        - Very unresponsive
+        - Somewhat unresponsive
+        - Neutral
+        - Responsive
+        - Very responsive
+      required: false
+    - id: 13
+      name: overall_satisfaction
+      label: Overall, how satisfied are you with the virtual lab experience
+      hint: null
+      type: select_one
+      options:
+        - Very dissatisfied
+        - Dissatisfied
+        - Neutral
+        - Satisfied
+        - Very satisfied
+      required: true
+    - id: 14
+      name: recommend_virtual_lab
+      label: Would you recommend virtual labs to other students
+      hint: null
+      type: select_one
+      options:
+        - Yes - definitely
+        - Yes - with some improvements
+        - Neutral
+        - No
+      required: true
+    - id: 15
+      name: improvement_suggestions
+      label: What improvements would make the virtual lab experience better
+      hint: null
+      type: text
+      options: []
+      required: false

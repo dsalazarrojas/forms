@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Preclinical Data Management Survey
+    pages:
+    - id: 1
+      name: main_section
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: tool_selection
+      label: Select tools
+      hint: null
+      type: select_multiple
+      options:
+      - Data Management Platform
+      - Data Quality Control
+      - Data Validation
+      - Other
+      required: false
+    - id: 3
+      name: collaboration_practices
+      label: What collaboration practices do you use with your data team?
+      hint: null
+      type: select_one
+      options:
+      - Agile/Scrum
+      - Waterfall
+      - Other
+      required: false
+    - id: 4
+      name: improvement_priorities
+      label: What priorities do you think are important for future improvement of
+        your data workflows?
+      hint: List up to 3 priorities separated by commas
+      type: select_multiple
+      options:
+      - Time-to-market
+      - Cost
+      - Other
+      required: false
+    - id: 5
+      name: tool_rating
+      label: How do you rate your preclinical data management tools?
+      hint: Rate 1-5
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: tool_satisfaction
+      label: Are you satisfied with your preclinical data management tools?
+      hint: Rate 1-5
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: collaboration_satisfaction
+      label: Are you satisfied with your data team collaboration practices?
+      hint: Rate 1-5
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: improvement_ideas
+      label: Do you have any improvement ideas for your preclinical data management
+        workflows?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: feedback
+      label: Additional feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: datetime
+      label: Date & Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: main_section_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: collaboration_team
+      label: How many people collaborate on preclinical data management?
+      hint: Select one value
+      type: select_one
+      options:
+      - 1-2
+      - 3-5
+      - 6-10
+      - More than 10
+      required: false
+    - id: 17
+      name: tool_selection_comment
+      label: Comment on tools used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: collaboration_comment
+      label: Comment on collaboration practices
+      hint: null
+      type: text
+      options: []
+      required: false

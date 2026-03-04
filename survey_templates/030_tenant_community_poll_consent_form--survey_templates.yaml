@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: tenant_community_poll_consent_form
+    pages:
+    - id: 1
+      name: tenant_id
+      label: Tenant ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: poll_question
+      label: Poll Question
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: poll_answer
+      label: Poll Answer
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 4
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: tenant_concern
+      label: Tenant Concern
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Phone''}'
+      required: true
+    - id: 9
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: tenant_comments
+      label: Tenant Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: manager_comments_hint
+      label: Manager Comments Hint
+      hint: Your comments
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: cancel_button
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: tenant_id_hint
+      label: Tenant ID Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_method_hint
+      label: Contact Method Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_person_hint
+      label: Contact Person Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_email_hint
+      label: Contact Email Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contact_phone_hint
+      label: Contact Phone Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: tenant_comments_hint
+      label: Tenant Comments Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: manager_comments_hint
+      label: Manager Comments Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: poll_question_hint
+      label: Poll Question Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: poll_answer_hint
+      label: Poll Answer Hint
+      hint: null
+      type: text
+      options: []
+      required: false

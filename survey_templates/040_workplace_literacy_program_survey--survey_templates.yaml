@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Literacy Program Survey
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: literacy_level
+      label: Literacy Level
+      hint: null
+      type: select_one
+      options:
+      - Elementary
+      - High school
+      - College or higher
+      - None
+      required: true
+    - id: 6
+      name: educational_needs
+      label: Educational Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: educational_programs
+      label: Educational Programs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: program_effectiveness
+      label: Program Effectiveness
+      hint: null
+      type: select_multiple
+      options:
+      - Very Effective
+      - Somewhat Effective
+      - Not Very Effective
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      required: true
+    - id: 13
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: job_function
+      label: Job Function
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: years_of_service
+      label: Years of Service
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: years_of_experience
+      label: Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_one
+      options:
+      - Less than High School
+      - High School
+      - Some College
+      - College or higher
+      required: false
+    - id: 20
+      name: education_field_of_study
+      label: Field of Study
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: education_institution
+      label: Educational Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: program_start_date
+      label: Program Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: program_end_date
+      label: Program End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: program_goals
+      label: Program Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission
+      label: Submission
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: HPC Cluster Setup Survey
+    pages:
+    - id: 1
+      name: cluster_name
+      label: Cluster Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: cluster_type
+      label: cluster_type
+      hint: null
+      type: select_one
+      options:
+      - High-Performance Computing (HPC)
+      - Cloud
+      - Hybrid
+      - Other (Please specify)
+      required: true
+    - id: 3
+      name: it_team
+      label: IT Team
+      hint: null
+      type: select_multiple
+      options:
+      - IT Team 1
+      - IT Team 2
+      - IT Team 3
+      required: false
+    - id: 4
+      name: research_team
+      label: Research Team
+      hint: null
+      type: select_multiple
+      options:
+      - Research Team 1
+      - Research Team 2
+      - Research Team 3
+      required: false
+    - id: 5
+      name: cluster_purpose
+      label: Cluster Purpose
+      hint: null
+      type: select_one
+      options:
+      - General purpose computing
+      - HPC applications
+      - Data analytics
+      - Other (Please specify)
+      required: true
+    - id: 6
+      name: cluster_location
+      label: Cluster Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: cluster_size
+      label: Cluster Size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: support_team
+      label: Support Team
+      hint: null
+      type: select_one
+      options:
+      - Team 1
+      - Team 2
+      - Team 3
+      required: true
+    - id: 9
+      name: support_level
+      label: Support Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 10
+      name: timeline_start
+      label: Timeline Start
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: timeline_end
+      label: Timeline End
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: timeline_duration
+      label: Timeline Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: cluster_name_comments
+      label: Cluster Name Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: cluster_type_comments
+      label: Cluster Type Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: research_team_comments
+      label: Research Team Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: it_team_comments
+      label: IT Team Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: cluster_purpose_comments
+      label: Cluster Purpose Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: support_level_comments
+      label: Support Level Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: timeline_start_comments
+      label: Timeline Start Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: timeline_end_comments
+      label: Timeline End Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: timeline_duration_comments
+      label: Timeline Duration Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: budget_comments
+      label: Budget Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: support_team
+      label: Support Team
+      hint: null
+      type: select_one
+      options:
+      - Team A
+      - Team B
+      - Team C
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: email
+      options: []
+      required: true

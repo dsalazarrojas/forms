@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: toy survey
+    pages:
+    - id: 1
+      name: main_page
+      label: main-page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: contact-information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: favorite_colors
+      label: favorite-colors
+      hint: null
+      type: select_multiple
+      options:
+      - red
+      - blue
+      - green
+      required: false
+    - id: 4
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false

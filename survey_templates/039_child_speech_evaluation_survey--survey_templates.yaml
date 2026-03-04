@@ -1,0 +1,174 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Child Speech Evaluation Survey
+    pages:
+      - id: 1
+        name: section_dev_history
+        label: -- Developmental History --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: child_name
+        label: Child Full Name
+        hint: Name of student for evaluation
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: child_dob
+        label: Date of Birth
+        hint: To track age milestones
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: section_speech_obs
+        label: -- Speech Observations --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: first_word_age
+        label: Age when child said first word
+        hint: Approximate age
+        type: select_one
+        options:
+          - label: Under 12 months
+            value: early
+          - label: 12 to 18 months
+            value: average
+          - label: 18 to 24 months
+            value: late
+          - label: Over 24 months
+            value: delayed
+          - label: Not yet speaking
+            value: none
+        required: true
+      - id: 6
+        name: multiword_sentence_status
+        label: Does child use multi-word sentences?
+        hint: Combining words to form thoughts
+        type: select_one
+        options:
+          - label: Yes - Frequently
+            value: frequent
+          - label: Yes - Sometimes
+            value: occasional
+          - label: No - Single words only
+            value: single
+        required: true
+      - id: 7
+        name: section_clarity
+        label: -- Clarity and Understanding --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: parent_understanding_level
+        label: How much of child speech do you understand?
+        hint: Percentage of intelligible speech
+        type: select_one
+        options:
+          - label: 100 percent - Clear
+            value: "100"
+          - label: 75 percent - Mostly clear
+            value: "75"
+          - label: 50 percent - Partial understanding
+            value: "50"
+          - label: Less than 25 percent - Difficult
+            value: "25"
+        required: true
+      - id: 9
+        name: stranger_understanding_level
+        label: How much of child speech do strangers understand?
+        hint: Intelligibility to unfamiliar listeners
+        type: select_one
+        options:
+          - label: 100 percent - Clear
+            value: "100"
+          - label: 75 percent - Mostly clear
+            value: "75"
+          - label: 50 percent - Partial understanding
+            value: "50"
+          - label: Less than 25 percent - Difficult
+            value: "25"
+        required: true
+      - id: 10
+        name: section_social_comm
+        label: -- Social Communication --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: eye_contact_status
+        label: Does child make eye contact during speech?
+        hint: Non-verbal engagement
+        type: select_one
+        options:
+          - label: Yes - Consistent
+            value: yes
+          - label: Sometimes
+            value: sometimes
+          - label: No - Rarely
+            value: no
+        required: true
+      - id: 12
+        name: name_response_status
+        label: Does child respond to their name?
+        hint: When called from another room or nearby
+        type: select_one
+        options:
+          - label: Yes - Always
+            value: yes
+          - label: No - Inconsistent
+            value: no
+        required: true
+      - id: 13
+        name: section_concerns
+        label: -- Primary Concerns --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: primary_speech_concerns
+        label: Describe your primary concerns about child speech
+        hint: Provide examples of difficulties
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: hearing_test_status
+        label: Has child had a hearing test?
+        hint: To rule out auditory issues
+        type: select_one
+        options:
+          - label: Yes - Recent test
+            value: yes
+          - label: No - Not tested
+            value: no
+        required: true
+      - id: 16
+        name: survey_date
+        label: Today Date
+        hint: Assessment date
+        type: date
+        options: []
+        required: true

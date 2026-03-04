@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: GPT Configuration Survey
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_description
+      label: Form Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_category
+      label: Form Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_category_id
+      label: Category ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: form_subcategories
+      label: Form Subcategories
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: form_subcategories_id
+      label: Category ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: form_subcategories_list
+      label: Select Subcategories
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: form_subcategories_list_options
+      label: Select Category IDs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: form_target_audience
+      label: Targeted Audience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: form_target_audience_id
+      label: Audience ID
+      hint: null
+      type: number
+      options: []
+      required: false

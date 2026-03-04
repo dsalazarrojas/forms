@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Internal Communication Strategy Evaluation Form
+    pages:
+    - id: 1
+      name: update_frequency
+      label: Update Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Never
+      required: false
+    - id: 2
+      name: update_channels
+      label: Update Channels
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Emails'', ''label'': ''Email''}'
+      - '{''id'': 2, ''name'': ''Intranet'', ''label'': ''Intranet''}'
+      - '{''id'': 3, ''name'': ''Mobile App'', ''label'': ''Mobile App''}'
+      - '{''id'': 4, ''name'': ''Meetings'', ''label'': ''Meetings''}'
+      required: false
+    - id: 3
+      name: update_effectiveness
+      label: Update Effectiveness
+      hint: How would you rate the effectiveness of updates?
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Very Effective'', ''label'': ''Very Effective''}'
+      - '{''id'': 2, ''name'': ''Somewhat Effective'', ''label'': ''Somewhat Effective''}'
+      - '{''id'': 3, ''name'': ''Not Very Effective'', ''label'': ''Not Very Effective''}'
+      - '{''id'': 4, ''name'': ''Not at All Effective'', ''label'': ''Not at All Effective''}'
+      required: false
+    - id: 4
+      name: satisfaction_with_updates
+      label: Satisfaction with Updates
+      hint: On a scale from 0 to 10
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: satisfaction_with_strategy
+      label: Satisfaction with the Internal Communication Strategy
+      hint: On a scale from 0 to 10
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false

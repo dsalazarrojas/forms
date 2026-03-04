@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: learning_resources_survey
+    pages:
+    - id: 1
+      name: intro
+      label: Learning Resources Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: institution
+      label: institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: resource_id
+      label: resource
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: resource_name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: resource_type
+      label: resource_type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 6
+      name: resource_type_other
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: resource_effectiveness
+      label: effectiveness
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: resource_accessibility
+      label: accessibility
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: resource_relevance
+      label: relevance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: resource_utility
+      label: utility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: resource_worth
+      label: worth
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: resource_suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: institution_suggestions
+      label: institution_suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: resource_suggestions_other
+      label: resource_suggestions_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

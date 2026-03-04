@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Harvest Season Feedback Survey
+    pages:
+    - id: 1
+      name: season_feedback
+      label: harvest_season
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: farm_experience
+      label: farm_experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: team_performance
+      label: team_performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: next_year_planning
+      label: next_year_planning
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: end_of_season_insights
+      label: end_of_season_insights
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: organized_data_collection
+      label: organized_data_collection
+      hint: null
+      type: time
+      options: []
+      required: false

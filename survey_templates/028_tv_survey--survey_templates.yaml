@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: TV Survey
+    pages:
+    - id: 1
+      name: tv_survey_category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tv_survey_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tv_survey_ratings
+      label: Ratings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: tv_survey_expertise
+      label: Expertise
+      hint: null
+      type: select_multiple
+      options:
+      - '{''Select One'': ''TV Expert''}'
+      - '{''Select Two'': ''Network Executive''}'
+      - '{''Select Three'': ''TV Producer''}'
+      required: false
+    - id: 5
+      name: tv_survey_channel_name
+      label: Channel Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: tv_survey_channel_ratings
+      label: Channel Ratings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: tv_survey_improvement
+      label: Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: tv_survey_online_storage
+      label: Online Storage
+      hint: null
+      type: select_one
+      options:
+      - '{''Select One'': True}'
+      - '{''Select Two'': False}'
+      required: false
+    - id: 9
+      name: tv_survey_additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

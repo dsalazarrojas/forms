@@ -1,0 +1,230 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: College Size Seal Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Optional - can remain anonymous
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: respondent_role
+        label: Your Role at the College
+        hint: null
+        type: select_one
+        options:
+          - Student
+          - Faculty
+          - Staff
+          - Alumni
+          - Administrator
+          - Other
+        required: true
+      - id: 3
+        name: department_area
+        label: Department or Area
+        hint: What department do you work or study in
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: survey_intro
+        label: -- College Seal and Logo Feedback --
+        hint: Please provide your opinions on college seal sizing
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: seal_familiarity
+        label: How familiar are you with the college seal
+        hint: null
+        type: select_one
+        options:
+          - Very Familiar
+          - Familiar
+          - Somewhat Familiar
+          - Not Familiar
+        required: true
+      - id: 6
+        name: current_seal_size_documents
+        label: Current seal size on official documents
+        hint: Diplomas, letterhead, certificates
+        type: select_one
+        options:
+          - Too Small
+          - Appropriate Size
+          - Too Large
+          - No Opinion
+        required: true
+      - id: 7
+        name: seal_size_official_correspondence
+        label: Seal size on official correspondence
+        hint: Letters, forms, envelopes
+        type: select_one
+        options:
+          - Too Small
+          - Appropriate Size
+          - Too Large
+          - No Opinion
+        required: true
+      - id: 8
+        name: seal_size_website
+        label: Seal size on website and digital materials
+        hint: null
+        type: select_one
+        options:
+          - Too Small
+          - Appropriate Size
+          - Too Large
+          - No Opinion
+        required: true
+      - id: 9
+        name: seal_visibility
+        label: Overall visibility of the college seal
+        hint: How easy is it to see and recognize
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Adequate
+          - Poor
+          - Very Poor
+        required: true
+      - id: 10
+        name: seal_distinctiveness
+        label: Distinctiveness of college seal design
+        hint: Does it stand out or seem generic
+        type: select_one
+        options:
+          - Very Distinctive
+          - Distinctive
+          - Average
+          - Not Very Distinctive
+          - Generic
+        required: true
+      - id: 11
+        name: recommend_larger_seal
+        label: Would you recommend a larger seal on diplomas
+        hint: null
+        type: select_one
+        options:
+          - Strongly Recommend
+          - Recommend
+          - Neutral
+          - Do Not Recommend
+          - Strongly Oppose
+        required: true
+      - id: 12
+        name: recommend_larger_seal_correspondence
+        label: Would you recommend larger seal on official correspondence
+        hint: null
+        type: select_one
+        options:
+          - Strongly Recommend
+          - Recommend
+          - Neutral
+          - Do Not Recommend
+          - Strongly Oppose
+        required: true
+      - id: 13
+        name: seal_location_preferences
+        label: Preferred seal location on official documents
+        hint: null
+        type: select_multiple
+        options:
+          - Top center
+          - Top left
+          - Top right
+          - Bottom center
+          - Bottom left
+          - Bottom right
+          - No preference
+        required: true
+      - id: 14
+        name: seal_color_preference
+        label: Seal color appearance satisfaction
+        hint: null
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 15
+        name: seal_design_changes
+        label: Any desired changes to seal design or appearance
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: seal_use_consistency
+        label: Consistency of seal use across college materials
+        hint: Is it used consistently everywhere
+        type: select_one
+        options:
+          - Very Consistent
+          - Consistent
+          - Somewhat Consistent
+          - Inconsistent
+          - Very Inconsistent
+        required: true
+      - id: 17
+        name: seal_pride
+        label: The college seal makes me proud
+        hint: null
+        type: select_one
+        options:
+          - Strongly Agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly Disagree
+        required: true
+      - id: 18
+        name: seal_importance
+        label: The college seal is important to the institution
+        hint: null
+        type: select_one
+        options:
+          - Strongly Agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly Disagree
+        required: true
+      - id: 19
+        name: overall_satisfaction
+        label: Overall satisfaction with college seal usage
+        hint: null
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 20
+        name: additional_feedback
+        label: Additional Feedback or Suggestions
+        hint: Please share any other thoughts
+        type: text
+        options: []
+        required: false

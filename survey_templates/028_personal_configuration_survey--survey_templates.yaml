@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Configuration Survey
+    pages:
+    - id: 1
+      name: personal_configuration_survey
+      label: personal_configuration_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_services
+      label: business_services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_preferences
+      label: client_preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_expectations
+      label: service_expectations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: communication_channels
+      label: communication_channels
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''email'', ''value'': ''email''}'
+      - '{''label'': ''phone'', ''value'': ''phone''}'
+      - '{''label'': ''chat'', ''value'': ''chat''}'
+      required: false
+    - id: 6
+      name: feedback_frequency
+      label: feedback_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''daily'', ''value'': ''daily''}'
+      - '{''label'': ''weekly'', ''value'': ''weekly''}'
+      - '{''label'': ''monthly'', ''value'': ''monthly''}'
+      required: false
+    - id: 7
+      name: preferred_contact_method
+      label: preferred_contact_method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''email'', ''value'': ''email''}'
+      - '{''label'': ''phone'', ''value'': ''phone''}'
+      - '{''label'': ''chat'', ''value'': ''chat''}'
+      required: false
+    - id: 8
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false

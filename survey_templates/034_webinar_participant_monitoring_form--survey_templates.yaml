@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Webinar Participant Monitoring Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: participant_type
+      label: Participant Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 11, ''name'': ''attendee'', ''label'': ''Attendee''}'
+      - '{''id'': 12, ''name'': ''speaker'', ''label'': ''Speaker''}'
+      - '{''id'': 13, ''name'': ''host'', ''label'': ''Host''}'
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

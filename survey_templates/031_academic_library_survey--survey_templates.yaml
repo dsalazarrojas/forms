@@ -1,0 +1,116 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Library Survey
+    pages:
+      - id: 1
+        name: section_user_profile
+        label: -- User Profile --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: user_role
+        label: User role
+        hint: Select your role
+        type: select_one
+        options:
+          - Student
+          - Faculty
+          - Staff
+          - Visitor
+        required: true
+      - id: 3
+        name: frequency_of_use
+        label: Frequency of library use
+        hint: How often you use library services
+        type: select_one
+        options:
+          - Daily
+          - Weekly
+          - Monthly
+          - Rarely
+        required: true
+      - id: 4
+        name: satisfaction_overall
+        label: Overall satisfaction
+        hint: Rate your overall satisfaction with the library
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 5
+        name: resources_quality
+        label: Quality of resources
+        hint: Rate collection quality and availability
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: false
+      - id: 6
+        name: services_rating
+        label: Services rating
+        hint: Rate library services such as reference or interlibrary loan
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: false
+      - id: 7
+        name: facilities_rating
+        label: Facilities and study space rating
+        hint: Rate study spaces and facilities
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: false
+      - id: 8
+        name: digital_resources_usage
+        label: Digital resources usage
+        hint: Which digital resources do you use
+        type: select_multiple
+        options:
+          - E books
+          - Databases
+          - Journals
+          - Streaming media
+          - Institutional repository
+        required: false
+      - id: 9
+        name: improvement_suggestions
+        label: Suggestions for improvement
+        hint: Ideas to improve library services or resources
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: additional_comments
+        label: Additional comments
+        hint: Any further feedback
+        type: text
+        options: []
+        required: false

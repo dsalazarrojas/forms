@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gender Survey
+    pages:
+    - id: 1
+      name: gender_identity
+      label: gender_identity
+      hint: null
+      type: select_multiple
+      options:
+      - Androgynous
+      - Cisgender
+      - Genderqueer
+      - Genderfluid
+      - Male
+      - Non-binary
+      - Other
+      - Transgender
+      - Two-spirit
+      - Woman
+      - Woman
+      required: false
+    - id: 2
+      name: gender_expression
+      label: gender_expression
+      hint: null
+      type: select_one
+      options:
+      - Masculine
+      - Masculine and Feminine
+      - Feminine
+      - Non-binary
+      - Transmasculine
+      - Transfeminine
+      required: false
+    - id: 3
+      name: gender_role
+      label: gender_role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: gender_awareness
+      label: gender_awareness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false

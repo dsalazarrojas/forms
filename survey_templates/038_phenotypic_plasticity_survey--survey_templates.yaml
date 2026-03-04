@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Phenotypic Plasticity Survey
+    pages:
+    - id: 1
+      name: trait_variation
+      label: Trait Variation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: lab_equipment
+      label: Lab Equipment
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 3
+      name: research_goals
+      label: Research Goals
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 4
+      name: trait_measure
+      label: Trait Measure
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 6
+      name: research_experiences
+      label: Research Experiences
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: field_teams
+      label: Field Teams
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 8
+      name: another_field
+      label: Another Field
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: more_fields
+      label: More Fields
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: yet_another_field
+      label: Yet Another Field
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: even_more
+      label: Even More
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: last_field
+      label: Last Field
+      hint: null
+      type: text
+      options: []
+      required: true

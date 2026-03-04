@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: DJ Recommendation Form
+    pages:
+    - id: 1
+      name: event_title
+      label: event_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: music_style
+      label: music_style
+      hint: null
+      type: select_one
+      options:
+      - Hip-Hop
+      - Rock
+      - Pop
+      required: false
+    - id: 4
+      name: djs
+      label: djs
+      hint: null
+      type: select_multiple
+      options:
+      - DJ1
+      - DJ2
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: favorite_band
+      label: favorite_band
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

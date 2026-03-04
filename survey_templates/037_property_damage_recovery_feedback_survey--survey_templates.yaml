@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Damage Recovery Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: property damage recovery feedback survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: property_name
+      label: property_name
+      hint: null
+      type: select_one
+      options:
+      - abc123
+      - def456
+      - ghi789
+      required: false
+    - id: 3
+      name: location
+      label: location
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 4
+      name: damage_type
+      label: damage_type
+      hint: null
+      type: select_one
+      options:
+      - fire
+      - water
+      - wind
+      required: false
+    - id: 5
+      name: damage_description
+      label: damage_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: damage_date
+      label: damage_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_location
+      label: contact_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: damage_cause
+      label: cause_of_damage
+      hint: null
+      type: select_multiple
+      options:
+      - natural
+      - human
+      required: false
+    - id: 15
+      name: damage_source
+      label: damage_source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: damage_severity
+      label: damage_severity
+      hint: null
+      type: select_one
+      options:
+      - low
+      - medium
+      - high
+      required: false
+    - id: 17
+      name: damage_level
+      label: damage_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: damage_cost
+      label: damage_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: damage_status
+      label: damage_status
+      hint: null
+      type: select_one
+      options:
+      - resolved
+      - pending
+      - closed
+      required: false
+    - id: 20
+      name: damage_priority
+      label: damage_priority
+      hint: null
+      type: select_one
+      options:
+      - high
+      - medium
+      - low
+      required: false
+    - id: 21
+      name: submitted_by_name
+      label: submitted_by_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitted_by_email
+      label: submitted_by_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: submitted_by_phone
+      label: submitted_by_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter_location
+      label: submitter_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: additional_comments_2
+      hint: null
+      type: text
+      options: []
+      required: false

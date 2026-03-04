@@ -1,0 +1,101 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Library Digital Media Interest Poll
+    pages:
+    - id: 1
+      name: public_libraries
+      label: Public Libraries
+      hint: null
+      type: select_one
+      options:
+      - Public Libraries
+      - School Libraries
+      - Academic Libraries
+      - Specialized Libraries
+      - Other (please specify) - please describe
+      required: false
+    - id: 2
+      name: digital_media_types
+      label: Digital Media Types
+      hint: null
+      type: select_multiple
+      options:
+      - Movies
+      - Music
+      - Podcasts
+      - Audiobooks
+      - Ebooks
+      - Digital Magazines
+      - Digital Comics
+      - Digital Newspapers
+      - Other (please specify)
+      required: false
+    - id: 3
+      name: how_often_use
+      label: How Often Do You Use Digital Media?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Less Than Once a Week
+      - A Few Times a Week
+      - A Few Times a Month
+      - Daily
+      required: false
+    - id: 4
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: select_one
+      options:
+      - Not at All Satisfied
+      - Slightly Satisfied
+      - Somewhat Satisfied
+      - Very Satisfied
+      - Extremely Satisfied
+      required: false
+    - id: 5
+      name: future_needs
+      label: What Would You Like to See More of in Digital Media?
+      hint: null
+      type: select_multiple
+      options:
+      - Movies
+      - Music
+      - Podcasts
+      - Audiobooks
+      - Ebooks
+      - Digital Magazines
+      - Digital Comics
+      - Digital Newspapers
+      - Other (please specify)
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: workshop_interest
+      label: Is There Interest in Future Workshops?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: false

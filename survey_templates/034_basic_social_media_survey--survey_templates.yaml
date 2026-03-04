@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Basic Social Media Survey
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Your name (optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email address (optional)
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: section_header_2
+      label: -- Social Media Usage --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: active_platforms
+      label: Which social media platforms do you use?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Facebook
+      - Twitter
+      - Instagram
+      - LinkedIn
+      - TikTok
+      - YouTube
+      - Snapchat
+      - Pinterest
+      - Other
+      required: true
+    - id: 6
+      name: primary_platform
+      label: Primary social media platform
+      hint: null
+      type: select_one
+      options:
+      - Facebook
+      - Twitter
+      - Instagram
+      - LinkedIn
+      - TikTok
+      - YouTube
+      - Snapchat
+      - Pinterest
+      - Other
+      required: true
+    - id: 7
+      name: daily_usage
+      label: Hours spent on social media daily
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 hour
+      - 1-2 hours
+      - 2-3 hours
+      - 3-4 hours
+      - More than 4 hours
+      required: true
+    - id: 8
+      name: section_header_3
+      label: -- Organization Social Media --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: org_follow
+      label: Do you follow our organization on social media?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: true
+    - id: 10
+      name: content_quality
+      label: Rate the quality of our social media content
+      hint: Scale 1-5
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: engagement_likelihood
+      label: How likely are you to engage with our posts?
+      hint: Scale 1-5
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: section_header_4
+      label: -- Content Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: preferred_content
+      label: What type of content interests you most?
+      hint: null
+      type: select_multiple
+      options:
+      - News and Updates
+      - Educational Content
+      - Entertainment
+      - Promotions
+      - Behind-the-Scenes
+      - User Stories
+      - Videos
+      - Other
+      required: false
+    - id: 14
+      name: posting_frequency
+      label: How often should we post?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several Times Weekly
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: false
+    - id: 15
+      name: section_header_5
+      label: -- Improvement Suggestions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: improvements
+      label: What could we improve on social media?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: suggestions
+      label: Any other suggestions or feedback?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: overall_satisfaction
+      label: Overall satisfaction with our social media presence
+      hint: Scale 1-5 (1=Very Dissatisfied, 5=Very Satisfied)
+      type: number
+      options: []
+      required: false

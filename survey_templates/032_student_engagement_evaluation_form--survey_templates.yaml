@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Engagement Evaluation Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question_1
+      label: What do you think about this course?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 4
+      name: question_2
+      label: What do you think about this course?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 5
+      name: question_3
+      label: Question 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: question_4
+      label: Question 4
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: question_5
+      label: Question 5
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: question_6
+      label: Question 6
+      hint: null
+      type: date
+      options: []
+      required: false

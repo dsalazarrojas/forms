@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Roofing Survey Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_location
+      label: Job Location
+      hint: null
+      type: select_one
+      options:
+      - Job Site
+      - Home
+      - Other
+      required: false
+    - id: 5
+      name: job_details
+      label: Job Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: roofing_services
+      label: Roofing Services
+      hint: null
+      type: select_multiple
+      options:
+      - Roofing Repair
+      - Roofing Installation
+      - Other
+      required: false
+    - id: 7
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - New Construction
+      - Re-roof
+      - Repair
+      required: false
+    - id: 8
+      name: job_start_date
+      label: Job Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: job_start_time
+      label: Job Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: job_end_date
+      label: Job End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: job_notes
+      label: Job Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contractor_signature
+      label: Contractor Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: time_signed
+      label: Time Signed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: completed_by
+      label: Completed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: completed_date
+      label: Completed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: review_notes
+      label: Review Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: review_rating
+      label: Review Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: customer_comments
+      label: Customer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: goals
+      label: Goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: roof_size
+      label: Roof Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: customer_comments
+      label: Customer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: customer_goals
+      label: Customer Goals
+      hint: null
+      type: text
+      options: []
+      required: false

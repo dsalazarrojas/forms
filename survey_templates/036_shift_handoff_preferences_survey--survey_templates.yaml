@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shift Handoff Preferences Survey
+    pages:
+    - id: 1
+      name: team_size
+      label: Team Size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: handoff_frequency
+      label: Handoff Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: handoff_type
+      label: Handoff Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: communication_channels
+      label: Communication Channels
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: improvement_areas
+      label: Improvement Areas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: communication_frequency
+      label: Communication Frequency
+      hint: How often do you communicate with your team during a handoff?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: communication_methods
+      label: Communication Methods
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: improvement_priorities
+      label: Improvement Priorities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: communication_channels_preferred
+      label: Communication Channels Preferred
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: handoff_time
+      label: Handoff Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: handoff_date
+      label: Handoff Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: shift_time
+      label: Shift Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: shift_date
+      label: Shift Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false

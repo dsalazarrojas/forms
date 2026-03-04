@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Geopolitical And Economic Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: demographic_information
+      label: What is your current occupation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: age
+      label: What is your age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: income
+      label: What is your income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: geopolitical_information
+      label: Do you believe that economic inequality is a major issue in your country?
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 6
+      name: global_economy
+      label: How important is the global economy to you
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: government_policies
+      label: What is your opinion on current government policies?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: global_economy
+      label: What is your opinion on the current state of the global economy?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: trade_policies
+      label: What is your opinion on global trade policies?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: economic_growth
+      label: What is your opinion on economic growth?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: prophets
+      label: What is your opinion on prophets?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

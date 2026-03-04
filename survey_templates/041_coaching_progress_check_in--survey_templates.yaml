@@ -1,0 +1,233 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Progress Check In
+    pages:
+      - id: 1
+        name: client_name
+        label: Client Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: email
+        label: Email Address
+        hint: Contact email address
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: check_in_date
+        label: Check-In Date
+        hint: Date of this check-in
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: coach_name
+        label: Coach Name
+        hint: Name of your coach
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: weeks_since_last_session
+        label: Weeks Since Last Session
+        hint: How many weeks since you met
+        type: select_one
+        options:
+          - Less than 1 week
+          - 1-2 weeks
+          - 2-4 weeks
+          - 4-8 weeks
+          - Over 8 weeks
+        required: true
+      - id: 6
+        name: overall_progress
+        label: Overall Progress Since Last Session
+        hint: How much progress have you made
+        type: select_one
+        options:
+          - Significant Progress
+          - Moderate Progress
+          - Some Progress
+          - Little Progress
+          - No Progress
+          - Setbacks
+        required: true
+      - id: 7
+        name: goal_1_status
+        label: Primary Goal Status
+        hint: Progress on your main goal
+        type: select_one
+        options:
+          - Achieved
+          - On Track
+          - Behind Schedule
+          - Need to Adjust
+          - No Longer Relevant
+        required: true
+      - id: 8
+        name: goal_1_details
+        label: Primary Goal Details
+        hint: Describe progress or challenges
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: goal_2_status
+        label: Secondary Goal Status
+        hint: Progress on second goal
+        type: select_one
+        options:
+          - Achieved
+          - On Track
+          - Behind Schedule
+          - Need to Adjust
+          - No Longer Relevant
+          - Not Applicable
+        required: false
+      - id: 10
+        name: goal_2_details
+        label: Secondary Goal Details
+        hint: Describe progress or challenges
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: actions_completed
+        label: Actions Completed Since Last Session
+        hint: What did you accomplish
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: obstacles_faced
+        label: Obstacles or Challenges Faced
+        hint: What got in your way
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: how_did_you_overcome
+        label: How Did You Overcome Challenges
+        hint: What strategies did you use
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: current_motivation_level
+        label: Current Motivation Level
+        hint: Rate your motivation
+        type: select_one
+        options:
+          - Very High
+          - High
+          - Moderate
+          - Low
+          - Very Low
+        required: true
+      - id: 15
+        name: current_confidence_level
+        label: Current Confidence Level
+        hint: Rate your confidence
+        type: select_one
+        options:
+          - Very High
+          - High
+          - Moderate
+          - Low
+          - Very Low
+        required: true
+      - id: 16
+        name: current_stress_level
+        label: Current Stress Level
+        hint: Rate your stress
+        type: select_one
+        options:
+          - Very Low
+          - Low
+          - Moderate
+          - High
+          - Very High
+        required: true
+      - id: 17
+        name: wins_and_celebrations
+        label: Wins and Celebrations
+        hint: What successes have you had
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: lessons_learned
+        label: Lessons Learned
+        hint: What did you learn
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: support_needed
+        label: What Support Do You Need
+        hint: What would help you now
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: focus_for_next_period
+        label: Focus for Next Period
+        hint: What do you want to work on
+        type: text
+        options: []
+        required: true
+      - id: 21
+        name: new_goals
+        label: Any New Goals to Add
+        hint: Describe new objectives
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: goals_to_remove
+        label: Goals to Remove or Modify
+        hint: What should be changed
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: accountability_request
+        label: What Do You Want Accountability For
+        hint: What should coach check on
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: session_preference
+        label: Preference for Next Session
+        hint: What do you want to focus on
+        type: select_one
+        options:
+          - Goal Planning
+          - Problem Solving
+          - Strategy Development
+          - Accountability Review
+          - Open Discussion
+        required: false
+      - id: 25
+        name: additional_comments
+        label: Additional Comments
+        hint: Anything else to share
+        type: text
+        options: []
+        required: false

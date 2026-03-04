@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stock Valuation Assessment
+    pages:
+    - id: 1
+      name: stock_valuation_assessment_page_1
+      label: What is the company name?
+      hint: Enter the company name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: stock_valuation_assessment_section_1_1
+      label: Stock price today
+      hint: Enter the stock price today
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: stock_valuation_assessment_section_1_2
+      label: Stock price yesterday
+      hint: Enter the stock price yesterday
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: stock_valuation_assessment_section_2_1
+      label: What is the stock valuation range?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Range 1''}'
+      - '{''id'': 2, ''label'': ''Range 2''}'
+      - '{''id'': 3, ''label'': ''Range 3''}'
+      required: true
+    - id: 5
+      name: stock_valuation_assessment_section_3_1
+      label: Risk level today
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very high''}'
+      - '{''id'': 2, ''label'': ''High''}'
+      - '{''id'': 3, ''label'': ''Medium''}'
+      - '{''id'': 4, ''label'': ''Low''}'
+      required: true
+    - id: 6
+      name: stock_valuation_assessment_section_3_2
+      label: Risk level tomorrow
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very high''}'
+      - '{''id'': 2, ''label'': ''High''}'
+      - '{''id'': 3, ''label'': ''Medium''}'
+      - '{''id'': 4, ''label'': ''Low''}'
+      required: true
+    - id: 7
+      name: stock_valuation_assessment_section_4_1
+      label: What is the expected growth rate?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: stock_valuation_assessment_section_4_2
+      label: What is the expected growth rate?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: stock_valuation_assessment_page_2
+      label: Valuation inputs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Revenue''}'
+      - '{''id'': 2, ''label'': ''Earnings growth''}'
+      - '{''id'': 3, ''label'': ''Dividends''}'
+      - '{''id'': 4, ''label'': ''Debt''}'
+      - '{''id'': 5, ''label'': ''Valuation metrics''}'
+      required: true
+    - id: 10
+      name: stock_valuation_assessment_section_5_1
+      label: What is the investment strategy?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Growth''}'
+      - '{''id'': 2, ''label'': ''Value''}'
+      - '{''id'': 3, ''label'': ''Dividend''}'
+      - '{''id'': 4, ''label'': ''Income''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: false
+    - id: 11
+      name: stock_valuation_assessment_section_6_1
+      label: What is the target date?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: stock_valuation_assessment_section_7_1
+      label: Time of day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: stock_valuation_assessment_section_8_1
+      label: How did you arrive at the risk level of the stock today?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: stock_valuation_assessment_section_9_1
+      label: How did you arrive at the risk level of the stock tomorrow?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: stock_valuation_assessment_section_10_1
+      label: Is this investment worth it?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Very high''}'
+      - '{''id'': 2, ''label'': ''High''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''label'': ''Low''}'
+      - '{''id'': 5, ''label'': ''Not worth it''}'
+      required: true
+    - id: 16
+      name: stock_valuation_assessment_section_10_2
+      label: What is the confidence level?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Very high''}'
+      - '{''id'': 2, ''label'': ''High''}'
+      - '{''id'': 3, ''label'': ''Medium''}'
+      - '{''id'': 4, ''label'': ''Low''}'
+      - '{''id'': 5, ''label'': ''Not confident''}'
+      required: true
+    - id: 17
+      name: stock_valuation_assessment_section_11_1
+      label: Do you expect any change in the stock price?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Very high''}'
+      - '{''id'': 2, ''label'': ''High''}'
+      - '{''id'': 3, ''label'': ''Medium''}'
+      - '{''id'': 4, ''label'': ''Low''}'
+      - '{''id'': 5, ''label'': ''None''}'
+      required: true
+    - id: 18
+      name: stock_valuation_assessment_section_12_1
+      label: What is the expected price change?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: stock_valuation_assessment_section_12_2
+      label: What is the expected price change in percentage?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: stock_valuation_assessment_section_13_1
+      label: What is the expected price change in percentage?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: stock_valuation_assessment_page_3
+      label: Valuation metrics 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Revenue''}'
+      - '{''id'': 2, ''label'': ''Earnings growth''}'
+      - '{''id'': 3, ''label'': ''Dividends''}'
+      - '{''id'': 4, ''label'': ''Debt''}'
+      - '{''id'': 5, ''label'': ''Valuation metrics''}'
+      required: true
+    - id: 22
+      name: stock_valuation_assessment_section_14_1
+      label: What is the expected growth rate?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: stock_valuation_assessment_section_15_1
+      label: What is the expected growth rate?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: stock_valuation_assessment_page_4
+      label: Valuation inputs 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Revenue''}'
+      - '{''id'': 2, ''label'': ''Earnings growth''}'
+      - '{''id'': 3, ''label'': ''Dividends''}'
+      - '{''id'': 4, ''label'': ''Debt''}'
+      - '{''id'': 5, ''label'': ''Valuation metrics''}'
+      required: false
+    - id: 25
+      name: stock_valuation_assessment_section_16_1
+      label: Do you expect any change in the stock price?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Very high''}'
+      - '{''id'': 2, ''label'': ''High''}'
+      - '{''id'': 3, ''label'': ''Medium''}'
+      - '{''id'': 4, ''label'': ''Low''}'
+      - '{''id'': 5, ''label'': ''None''}'
+      required: false

@@ -1,0 +1,168 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Architectural Influence Assessment Quiz
+    pages:
+    - id: 1
+      name: section_participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Your Name
+      hint: Optional for tracking
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: Optional for results
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_organization
+      label: Organization or Institution
+      hint: School, museum, firm, etc
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_quiz_intro
+      label: -- Architecture Knowledge Quiz --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: question_one
+      label: Question 1 - What is the primary purpose of architectural design?
+      hint: null
+      type: select_one
+      options:
+      - To create visually appealing structures
+      - To meet functional needs while considering aesthetics and safety
+      - To follow historical styles exactly
+      - To minimize costs at all times
+      required: true
+    - id: 7
+      name: question_two
+      label: Question 2 - Which architectural movement emphasizes minimalism?
+      hint: null
+      type: select_one
+      options:
+      - Baroque
+      - Modernism
+      - Romanticism
+      - Art Deco
+      required: true
+    - id: 8
+      name: question_three
+      label: Question 3 - What does LEED certification focus on?
+      hint: null
+      type: select_one
+      options:
+      - Historical preservation
+      - Sustainable and green building practices
+      - Budget management
+      - Interior decoration
+      required: true
+    - id: 9
+      name: question_four
+      label: Question 4 - Which is a key principle of universal design?
+      hint: null
+      type: select_one
+      options:
+      - Creating spaces accessible to people of all abilities
+      - Using expensive materials
+      - Following the newest trends
+      - Maximizing floor space
+      required: true
+    - id: 10
+      name: question_five
+      label: Question 5 - What is sustainable architecture primarily concerned with?
+      hint: null
+      type: select_one
+      options:
+      - Reducing environmental impact
+      - Using only glass and steel
+      - Creating tall buildings
+      - Maintaining traditional styles
+      required: true
+    - id: 11
+      name: section_reflection
+      label: -- Reflection and Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: architecture_influence
+      label: How much has architectural design influenced you?
+      hint: null
+      type: select_one
+      options:
+      - Not at all
+      - Somewhat
+      - Moderately
+      - Significantly
+      - Very significantly
+      required: true
+    - id: 13
+      name: design_interests
+      label: Which design topics interest you most?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Sustainable design
+      - Historic preservation
+      - Urban planning
+      - Interior design
+      - Landscape design
+      - Adaptive reuse
+      - Universal design
+      required: false
+    - id: 14
+      name: career_interest
+      label: Are you interested in architecture as a career?
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Maybe
+      - Not sure
+      - No, not interested
+      required: false
+    - id: 15
+      name: quiz_difficulty
+      label: Quiz Difficulty Level
+      hint: null
+      type: select_one
+      options:
+      - Too easy
+      - Just right
+      - Challenging
+      - Too difficult
+      required: false
+    - id: 16
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Share your thoughts about architecture
+      type: text
+      options: []
+      required: false

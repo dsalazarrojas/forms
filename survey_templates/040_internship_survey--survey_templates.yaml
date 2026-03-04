@@ -1,0 +1,81 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Internship Survey
+    pages:
+    - id: 1
+      name: internship_survey
+      label: What did you do at your internship?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: what_did_you_do
+      label: How did you hear about the internship opportunity?
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Referrals
+      - Company Website
+      - Job Boards
+      - Other
+      required: false
+    - id: 3
+      name: how_did_you_hear
+      label: What was the main reason you chose this internship?
+      hint: null
+      type: select_one
+      options:
+      - Compensation
+      - Learning Opportunity
+      - Work-Life Balance
+      - Company Culture
+      - Career Advancement
+      - Other
+      required: false
+    - id: 4
+      name: what_was_main_reason
+      label: What was the most enjoyable part of your internship?
+      hint: null
+      type: select_multiple
+      options:
+      - Learning
+      - Work-Life Balance
+      - Compensation
+      - Company Culture
+      - Career Advancement
+      required: false
+    - id: 5
+      name: what_was_most_enjoyable
+      label: What was the least enjoyable part of your internship?
+      hint: null
+      type: select_multiple
+      options:
+      - Boredom
+      - Unhelpful Colleagues
+      - Lack of Clear Expectations
+      - Poor Management
+      - Other
+      required: false
+    - id: 6
+      name: what_was_least_enjoyable
+      label: Did you feel that your internship prepared you for your future career?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

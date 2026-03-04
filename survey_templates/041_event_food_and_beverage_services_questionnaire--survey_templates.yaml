@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Food And Beverage Services Questionnaire
+    pages:
+    - id: 1
+      name: event_food_and_beverage_services_questionnaire
+      label: Event Food and Beverage Services Questionnaire
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: venue
+      label: Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: food_services
+      label: Food Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: food_beverage_rating
+      label: Food and Beverage Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: venue_rating
+      label: Venue Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: food_beverage_service_suggestion
+      label: Food and Beverage Service Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: overall_event_satisfaction
+      label: Overall Event Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false

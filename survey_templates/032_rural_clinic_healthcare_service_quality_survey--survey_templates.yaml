@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: rural_clinic_healthcare_service_quality_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: What is your overall impression of your recent appointment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: doctor
+      label: How would you rate the Doctor
+      hint: Rate on a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: nurse
+      label: How would you rate the nurse
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: waiting_time
+      label: How long did you wait in the waiting room
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: staff
+      label: How would you rate the staff
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: facilities
+      label: How would you rate the facilities
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: appointment_start_time
+      label: What time did you arrive for your appointment
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: appointment_end_time
+      label: What time did your appointment end
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: communication
+      label: How would you rate the communication with your Doctor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: pain_medications
+      label: Were pain medications prescribed
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: lab_results
+      label: Did you receive lab results
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 12
+      name: follow_up
+      label: Do you have a follow up appointment
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 13
+      name: medication_adherence
+      label: How do you think you would rate the medication adherence of your Doctor
+        or Nurse staff
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: appointment_length
+      label: How long did your appointment last
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: appointment_schedule
+      label: How would you rate the schedule efficiency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: doctor_attendance
+      label: Was the Doctor present during your appointment
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 17
+      name: nurse_attendance
+      label: Was the Nurse present during your appointment
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 18
+      name: lab_results_received
+      label: When did you receive lab results
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: appointment_type
+      label: What type of appointment was this
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 20
+      name: doctor_specialty
+      label: What was the Doctor's specialty
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: patient_satisfaction
+      label: How satisfied were you with the service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: comments
+      label: Any comments or suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: rating
+      label: Overall rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: rating_scale
+      label: Rating scale
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: rating_reason
+      label: Why did you rate the service this way
+      hint: null
+      type: text
+      options: []
+      required: false

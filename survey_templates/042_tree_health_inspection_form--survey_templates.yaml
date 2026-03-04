@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tree Health Inspection Form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: tree_details
+      label: tree_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tree_status
+      label: tree_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: root_system
+      label: root_system
+      hint: null
+      type: select_one
+      options:
+      - Tree is very healthy
+      - Tree is relatively healthy
+      - Tree is relatively not healthy
+      - Tree is not healthy
+      required: false
+    - id: 5
+      name: tree_condition
+      label: tree_condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: tree_damage
+      label: tree_damage
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: inspection_location
+      label: inspection_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: tree_species
+      label: tree_species
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: tree_height
+      label: tree_height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: tree_age
+      label: tree_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: tree_diameter
+      label: tree_diameter
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: tree_canopy
+      label: tree_canopy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: tree_condition_rating
+      label: tree_condition_rating
+      hint: null
+      type: select_one
+      options:
+      - 5 (Excellent)
+      - 4 (Good)
+      - 3 (Fair)
+      - 2 (Poor)
+      - 1 (Bad)
+      required: false
+    - id: 15
+      name: tree_canopy_rating
+      label: tree_canopy_rating
+      hint: null
+      type: select_one
+      options:
+      - 3 (Good)
+      - 2 (Fair)
+      - 1 (Poor)
+      required: false
+    - id: 16
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: inspector_name
+      label: inspector_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: photos
+      label: photos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: video
+      label: video
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: tree_location
+      label: tree_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: tree_notes
+      label: tree_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: tree_inspection_comments
+      label: tree_inspection_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: tree_inspector
+      label: tree_inspector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: tree_inspection_status
+      label: tree_inspection_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 26
+      name: tree_inspection_status_date
+      label: tree_inspection_status_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 27
+      name: tree_inspection_status_time
+      label: tree_inspection_status_time
+      hint: null
+      type: time
+      options: []
+      required: false

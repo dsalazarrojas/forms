@@ -1,0 +1,101 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Climate Impact Awareness Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: What is climate change?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: climate_change_impacts
+      label: What are the observed impacts of climate change on our organization?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: climate_change_impacts_other
+      label: Are there any other impacts that are important to note?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Heat stress''}'
+      - '{''option2'': ''Extreme weather events''}'
+      - '{''option3'': ''Other (please specify)''}'
+      required: false
+    - id: 4
+      name: climate_change_impacts_other_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: climate_action_priorities
+      label: What are the top priorities for climate action in our organization?
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Mitigate''}'
+      - '{''option2'': ''Adapt''}'
+      - '{''option3'': ''Resilience''}'
+      required: true
+    - id: 6
+      name: climate_action_priority_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: climate_action_resilience
+      label: What does resilience mean in our organization?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: climate_action_impact
+      label: What impact does this action have on our organization?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: climate_action_implementation
+      label: What are the key implementation steps for this action?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: climate_action_implementation_plan
+      label: Do you have an implementation plan for this action?
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': True}'
+      - '{''option2'': False}'
+      required: true
+    - id: 11
+      name: climate_action_implementation_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false

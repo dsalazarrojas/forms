@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: Townhouse Development Feedback
+    pages:
+    - id: 1
+      name: resident_name
+      label: Resident Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: community_name
+      label: Community Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction_rating
+      label: Satisfaction Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: resident_photo
+      label: Resident Photo (optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: community_board_member
+      label: Board Member
+      hint: null
+      type: select_one
+      options:
+      - Community Board Member
+      - Non-Board Member
+      - Other
+      required: false
+    - id: 13
+      name: board_committee_member
+      label: Committee Member
+      hint: null
+      type: select_multiple
+      options:
+      - Chair
+      - Vice Chair
+      - Secretary
+      - Treasurer
+      - Member
+      required: false
+    - id: 14
+      name: resident_committee_member
+      label: Committee Member
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: has_pet
+      label: Has Pet
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: has_child
+      label: Has Child
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: has_vehicle
+      label: Has Vehicle
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: has_vehicle_type
+      label: Type of Vehicle
+      hint: null
+      type: select_multiple
+      options:
+      - Car
+      - Truck
+      - Van
+      - Boat
+      required: false
+    - id: 19
+      name: has_residential_status
+      label: Residential Status
+      hint: null
+      type: select_one
+      options:
+      - Renter
+      - Owner
+      required: false
+    - id: 20
+      name: has_lease
+      label: Lease
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: lease_type
+      label: Type of Lease
+      hint: null
+      type: select_multiple
+      options:
+      - Month-to-Month
+      - Annual
+      - Other
+      required: false
+    - id: 22
+      name: lease_term
+      label: Lease Term
+      hint: null
+      type: select_multiple
+      options:
+      - 1-3 Months
+      - 4-6 Months
+      - 7-12 Months
+      - 13-24 Months
+      - More than 24 Months
+      required: false
+    - id: 23
+      name: lease_rent
+      label: Lease Rent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: lease_rent_per_sqft
+      label: Rent per Sqft
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: community_features
+      label: Community Features
+      hint: null
+      type: select_multiple
+      options:
+      - Pool
+      - Gym
+      - Park
+      - Clubhouse
+      - Other
+      required: false
+    - id: 26
+      name: board_meetings
+      label: Board Meetings
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Bi-Monthly
+      - Never
+      required: false

@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Menu Item Preference Survey
+    pages:
+    - id: 1
+      name: menu_item_preference_survey
+      label: Do you prefer our menu items?
+      hint: null
+      type: select_multiple
+      options:
+      - item1
+      - item2
+      - item3
+      - item4
+      - item5
+      required: false
+    - id: 2
+      name: menu_item_preference_2
+      label: Which item do you like best?
+      hint: Select one option
+      type: select_one
+      options:
+      - item1
+      - item2
+      - item3
+      - item4
+      - item5
+      required: false
+    - id: 3
+      name: menu_item_rating
+      label: Rate your preference for our menu item
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: menu_item_4
+      label: Do you like our menu?
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 5
+      name: menu_item_5
+      label: What is your favorite type of food?
+      hint: null
+      type: select_multiple
+      options:
+      - food1
+      - food2
+      - food3
+      required: false
+    - id: 6
+      name: menu_item_6
+      label: How often do you dine with us?
+      hint: null
+      type: select_one
+      options:
+      - often
+      - occasionally
+      - rarely
+      required: false
+    - id: 7
+      name: menu_item_7
+      label: How satisfied are you with our menu?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: menu_item_8
+      label: What is your name?
+      hint: Please enter your name
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: menu_item_9
+      label: How do you like this form?
+      hint: null
+      type: select_one
+      options:
+      - like
+      - dislike
+      required: false

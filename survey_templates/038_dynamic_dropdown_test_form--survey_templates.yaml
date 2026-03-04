@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dynamic Dropdown Test Form
+    pages:
+    - id: 1
+      name: dynamic_dropdown_test_form_page_1
+      label: Page 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: select_dropdown_test
+      label: Select Dropdown Test
+      hint: Test dropdown behavior
+      type: select_one
+      options:
+      - '{''value'': ''Option 1''}'
+      - '{''value'': ''Option 2''}'
+      - '{''value'': ''Option 3''}'
+      required: true
+    - id: 3
+      name: select_multiple_test
+      label: Select Multiple Test
+      hint: Select multiple options
+      type: select_multiple
+      options:
+      - '{''value'': ''Option A''}'
+      - '{''value'': ''Option B''}'
+      - '{''value'': ''Option C''}'
+      required: true
+    - id: 4
+      name: date_test
+      label: Date Test
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_test
+      label: Time Test
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: note_test
+      label: Note Test
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email_test
+      label: Email Test
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_test
+      label: Phone Test
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: text_test
+      label: Text Test
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: integer_test
+      label: Integer Test
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: AI Prompt Engineering Course Feedback
+    pages:
+    - id: 1
+      name: feedback_header
+      label: '--- Course Feedback ---'
+      hint: Help us improve our training by providing your honest feedback.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name (Optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: course_batch_id
+      label: Course Batch / Session ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: overall_satisfaction
+      label: Overall Course Satisfaction
+      hint: 1 = Very Dissatisfied, 5 = Very Satisfied
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: instructor_rating
+      label: Instructor Effectiveness
+      hint: Knowledge, clarity, and engagement.
+      type: select_one
+      options:
+      - label: 1 - Poor
+        value: 1
+      - label: 2 - Below Average
+        value: 2
+      - label: 3 - Average
+        value: 3
+      - label: 4 - Good
+        value: 4
+      - label: 5 - Excellent
+        value: 5
+      required: true
+    - id: 6
+      name: topics_evaluation_header
+      label: '--- Topic & Content Evaluation ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: technique_mastery_rating
+      label: How would you rate your mastery of these techniques AFTER the course?
+      hint: Check all that apply.
+      type: select_multiple
+      options:
+      - label: Zero-shot / One-shot Prompting
+        value: zero_shot
+      - label: Few-shot Learning
+        value: few_shot
+      - label: Chain-of-Thought (CoT) Prompting
+        value: cot
+      - label: Iterative Refinement
+        value: refinement
+      - label: Role-based Prompting
+        value: role_based
+      required: true
+    - id: 8
+      name: content_quality_rating
+      label: Quality of Course Materials
+      hint: Slides, examples, exercises.
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: practical_exercises_value
+      label: Value of Practical Hands-on Exercises
+      hint: null
+      type: select_one
+      options:
+      - label: Extremely Valuable
+        value: extremely_valuable
+      - label: Somewhat Valuable
+        value: somewhat_valuable
+      - label: Neutral
+        value: neutral
+      - label: Not very valuable
+        value: not_valuable
+      required: true
+    - id: 10
+      name: most_valuable_topic
+      label: Which topic or technique was MOST valuable to you?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: improvement_suggestions
+      label: What could be improved in this course?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: course_pacing
+      label: How was the pacing of the course?
+      hint: null
+      type: select_one
+      options:
+      - label: Too Fast
+        value: too_fast
+      - label: Just Right
+        value: just_right
+      - label: Too Slow
+        value: too_slow
+      required: true
+    - id: 13
+      name: platform_feedback
+      label: Feedback on the AI platforms used (ChatGPT/Claude/etc.)
+      hint: Were the platforms accessible and effective for the exercises?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: recommendation_nps
+      label: How likely are you to recommend this course to others?
+      hint: 0 = Not likely, 10 = Highly likely
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: advanced_course_interest
+      label: Would you be interested in an 'Advanced Prompt Engineering' follow-up
+        course?
+      hint: null
+      type: select_one
+      options:
+      - label: true
+        value: true
+      - label: false
+        value: false
+      - label: Maybe
+        value: maybe
+      required: true
+    - id: 16
+      name: badge_request_email
+      label: Email for Certificate / Digital Badge
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: feedback_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true

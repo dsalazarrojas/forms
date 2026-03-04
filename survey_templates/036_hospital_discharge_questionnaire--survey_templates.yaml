@@ -1,0 +1,109 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Discharge Questionnaire
+    pages:
+    - id: 1
+      name: patient_survey
+      label: patient_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_feedback
+      label: patient_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: hospital_services
+      label: hospital_services
+      hint: null
+      type: select_multiple
+      options:
+      - Hospitalist
+      - Nurse
+      - Other
+      required: false
+    - id: 4
+      name: patient_care
+      label: patient_care
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: patient_experience
+      label: patient_experience
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Needs Improvement
+      required: false
+    - id: 6
+      name: discharge_date
+      label: discharge_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: discharge_time
+      label: discharge_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: discharge_status
+      label: discharge_status
+      hint: null
+      type: select_one
+      options:
+      - Discharged
+      - Transferred
+      - Admitted
+      required: false
+    - id: 9
+      name: follow_up_visit
+      label: follow_up_visit
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Scheduled
+      required: false
+    - id: 10
+      name: discharge_comments
+      label: discharge_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_comments
+      label: follow_up_comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Writing Guidelines Comprehension Quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question1
+      label: question_1
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''option_1''}'
+      - '{''id'': 2, ''label'': ''option_2''}'
+      required: true
+    - id: 3
+      name: question2
+      label: question_2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''option_1''}'
+      - '{''id'': 2, ''label'': ''option_2''}'
+      required: true
+    - id: 4
+      name: question3
+      label: question_3
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: question4
+      label: question_4
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: question5
+      label: question_5
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: question6
+      label: question_6
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: question7
+      label: question_7
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: conclusion
+      label: conclusion
+      hint: null
+      type: text
+      options: []
+      required: false

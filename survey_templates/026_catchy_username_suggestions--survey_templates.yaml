@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catchy Username Suggestions
+    pages:
+    - id: 1
+      name: user_basics_header
+      label: -- About You --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Where should we send your suggestions
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: section_preferences
+      label: -- Username Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: primary_platform
+      label: Primary Platform
+      hint: Choose the main site you will use this for
+      type: select_one
+      options:
+      - Gaming (Twitch, Steam, Discord)
+      - Social Media (Instagram, TikTok, X)
+      - Professional (LinkedIn, Portfolio)
+      - Community/Forum (Reddit)
+      - Personal/Blog
+      required: true
+    - id: 6
+      name: username_vibe
+      label: What is the desired vibe for your username
+      hint: null
+      type: select_one
+      options:
+      - Cool and Edgy
+      - Cute and Aesthetic
+      - Professional and Clean
+      - Funny and Punny
+      - Mysterious/Abstract
+      required: true
+    - id: 7
+      name: keyword_preferences
+      label: Specific Keywords or Themes to Include
+      hint: e.g. space, cats, coffee, tech
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: character_limit
+      label: Maximum Character Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: allow_numbers_symbols
+      label: Are numbers or symbols allowed
+      hint: e.g. user_123 or user.name
+      type: select_one
+      options:
+      - No, letters only
+      - Numbers only
+      - Symbols only
+      - Both numbers and symbols are fine
+      required: true
+    - id: 10
+      name: previous_usernames_liked
+      label: Previous usernames or handles you have liked
+      hint: Helps us understand your style
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_niche
+      label: -- Your Niche --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: primary_interest
+      label: Primary Interest or Niche
+      hint: e.g. Minecraft, Cooking, Coding, Photography
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: target_audience
+      label: Who is your target audience
+      hint: null
+      type: select_one
+      options:
+      - General Public
+      - Niche Community
+      - Professional/Clients
+      - Friends and Family
+      required: false
+    - id: 14
+      name: urgent_request
+      label: How quickly do you need these suggestions
+      hint: null
+      type: select_one
+      options:
+      - ASAP - Within 24 hours
+      - Normal - Within 3 days
+      - No Rush
+      required: true
+    - id: 15
+      name: additional_notes
+      label: Anything else we should consider
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weight Loss Journey Testimonial Form
+    pages:
+    - id: 1
+      name: testimonial_form
+      label: testimonial_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: program_name
+      label: program_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: weight_loss
+      label: weight_loss
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: before_photos
+      label: before_photos
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: after_photos
+      label: after_photos
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: testimonial
+      label: testimonial
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: share_permission
+      label: share_permission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other (please specify)
+      required: false
+    - id: 10
+      name: other_share_permission
+      label: other_share_permission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: clinic_name
+      label: clinic_name
+      hint: null
+      type: text
+      options: []
+      required: false

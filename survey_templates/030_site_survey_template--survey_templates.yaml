@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: site_survey_template
+    pages:
+    - id: 1
+      name: site_survey
+      label: site_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - interior_designer
+      - contractor
+      - painter
+      - home_inspection_team
+      required: false
+    - id: 3
+      name: service_type
+      label: service_type
+      hint: null
+      type: select_multiple
+      options:
+      - interior_designer
+      - contractor
+      - painter
+      - home_inspection_team
+      required: false
+    - id: 4
+      name: service_name
+      label: service_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_details
+      label: service_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recommendation
+      label: recommendation
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - neutral
+      required: false
+    - id: 8
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: review_date
+      label: review_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: review_time
+      label: review_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: created_at
+      label: created_at
+      hint: null
+      type: time
+      options: []
+      required: false

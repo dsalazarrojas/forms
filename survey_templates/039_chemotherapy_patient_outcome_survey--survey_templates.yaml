@@ -1,0 +1,331 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chemotherapy Patient Outcome Survey
+    pages:
+    - id: 1
+      name: patient_id
+      label: Patient ID
+      hint: Your patient identification number
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: survey_date
+      label: Survey Date
+      hint: Date of this survey
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Your gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 5
+      name: cancer_type
+      label: Cancer Type
+      hint: Type of cancer being treated
+      type: select_one
+      options:
+      - Breast cancer
+      - Lung cancer
+      - Colorectal cancer
+      - Prostate cancer
+      - Leukemia
+      - Lymphoma
+      - Melanoma
+      - Pancreatic cancer
+      - Ovarian cancer
+      - Other
+      required: true
+    - id: 6
+      name: cancer_stage
+      label: Cancer Stage
+      hint: Stage of cancer at diagnosis
+      type: select_one
+      options:
+      - Stage 0
+      - Stage I
+      - Stage II
+      - Stage III
+      - Stage IV
+      - Unknown
+      required: true
+    - id: 7
+      name: chemotherapy_start_date
+      label: Chemotherapy Start Date
+      hint: When did you start chemotherapy
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: treatment_cycle
+      label: Current Treatment Cycle
+      hint: Which cycle of treatment are you on
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: chemotherapy_regimen
+      label: Chemotherapy Regimen
+      hint: Name of chemotherapy drugs if known
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: treatment_frequency
+      label: Treatment Frequency
+      hint: How often do you receive treatment
+      type: select_one
+      options:
+      - Weekly
+      - Every 2 weeks
+      - Every 3 weeks
+      - Monthly
+      - Other schedule
+      required: true
+    - id: 11
+      name: fatigue_level
+      label: Fatigue Level
+      hint: Rate your fatigue in the past week
+      type: select_one
+      options:
+      - None
+      - Mild
+      - Moderate
+      - Severe
+      - Very severe
+      required: true
+    - id: 12
+      name: nausea_level
+      label: Nausea Level
+      hint: Rate your nausea in the past week
+      type: select_one
+      options:
+      - None
+      - Mild
+      - Moderate
+      - Severe
+      - Very severe
+      required: true
+    - id: 13
+      name: pain_level
+      label: Pain Level
+      hint: Rate your pain in the past week
+      type: select_one
+      options:
+      - None
+      - Mild
+      - Moderate
+      - Severe
+      - Very severe
+      required: true
+    - id: 14
+      name: appetite_changes
+      label: Appetite Changes
+      hint: Have you experienced appetite changes
+      type: select_one
+      options:
+      - No change
+      - Slight decrease
+      - Moderate decrease
+      - Severe decrease
+      - Increased appetite
+      required: true
+    - id: 15
+      name: weight_change
+      label: Weight Change
+      hint: How has your weight changed
+      type: select_one
+      options:
+      - No change
+      - Lost 1-5 lbs
+      - Lost 6-10 lbs
+      - Lost 10+ lbs
+      - Gained weight
+      required: true
+    - id: 16
+      name: hair_loss
+      label: Hair Loss
+      hint: Have you experienced hair loss
+      type: select_one
+      options:
+      - No hair loss
+      - Mild thinning
+      - Moderate loss
+      - Complete loss
+      - Regrowing
+      required: true
+    - id: 17
+      name: sleep_quality
+      label: Sleep Quality
+      hint: How is your sleep quality
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 18
+      name: mood_changes
+      label: Mood Changes
+      hint: Have you experienced mood changes
+      type: select_one
+      options:
+      - No changes
+      - Mild mood swings
+      - Moderate mood changes
+      - Severe mood changes
+      - Depression or anxiety
+      required: true
+    - id: 19
+      name: ability_work
+      label: Ability to Work
+      hint: How has treatment affected your work
+      type: select_one
+      options:
+      - No effect
+      - Slight effect
+      - Moderate effect
+      - Cannot work
+      - Not applicable
+      required: true
+    - id: 20
+      name: ability_daily_activities
+      label: Ability to Do Daily Activities
+      hint: How has treatment affected daily activities
+      type: select_one
+      options:
+      - No effect
+      - Slight effect
+      - Moderate effect
+      - Severe effect
+      - Cannot do activities
+      required: true
+    - id: 21
+      name: support_system
+      label: Support System
+      hint: Do you have adequate support
+      type: select_one
+      options:
+      - Excellent support
+      - Good support
+      - Fair support
+      - Poor support
+      - No support
+      required: true
+    - id: 22
+      name: side_effects_experienced
+      label: Side Effects Experienced
+      hint: Select all side effects you have experienced
+      type: select_multiple
+      options:
+      - Fatigue
+      - Nausea
+      - Vomiting
+      - Hair loss
+      - Mouth sores
+      - Neuropathy
+      - Constipation
+      - Diarrhea
+      - Infection
+      - Anemia
+      - None
+      required: true
+    - id: 23
+      name: side_effect_management
+      label: Side Effect Management
+      hint: How well are side effects being managed
+      type: select_one
+      options:
+      - Very well
+      - Well
+      - Adequately
+      - Poorly
+      - Very poorly
+      required: true
+    - id: 24
+      name: communication_with_team
+      label: Communication with Care Team
+      hint: How is communication with your care team
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 25
+      name: quality_of_life
+      label: Quality of Life
+      hint: How would you rate your quality of life
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 26
+      name: treatment_effectiveness
+      label: Perceived Treatment Effectiveness
+      hint: How effective do you feel treatment is
+      type: select_one
+      options:
+      - Very effective
+      - Effective
+      - Somewhat effective
+      - Not effective
+      - Getting worse
+      required: true
+    - id: 27
+      name: would_recommend
+      label: Would Recommend Treatment Center
+      hint: Would you recommend this treatment center
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Not sure
+      - Probably no
+      - Definitely no
+      required: true
+    - id: 28
+      name: additional_support_needed
+      label: Additional Support Needed
+      hint: What additional support do you need
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: concerns_or_questions
+      label: Concerns or Questions
+      hint: Any concerns or questions for your care team
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other comments about your experience
+      type: text
+      options: []
+      required: false

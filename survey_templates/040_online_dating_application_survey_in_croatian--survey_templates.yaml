@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Dating Application Survey In Croatian
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - male
+      - female
+      required: true
+    - id: 7
+      name: relationship_status
+      label: Relationship status
+      hint: null
+      type: select_one
+      options:
+      - single
+      - in a relationship
+      - married
+      required: true
+    - id: 8
+      name: height_in_centimeters
+      label: Height in centimeters
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: weight_in_kilograms
+      label: Weight in kilograms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: height_in_inches
+      label: Height in inches
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: education_level
+      label: Education level
+      hint: null
+      type: select_one
+      options:
+      - Bachelor
+      - Bachelor +
+      - Master
+      - PhD
+      required: true
+    - id: 13
+      name: annual_income
+      label: Annual income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: highest_education_level
+      label: Highest education level
+      hint: null
+      type: select_one
+      options:
+      - no formal education
+      - primary school
+      - high school
+      - university
+      - postgraduate
+      required: true
+    - id: 15
+      name: what_do_you_dont_like
+      label: What do you don't like
+      hint: null
+      type: select_multiple
+      options:
+      - Politics
+      - Sports
+      - Music
+      - Theater
+      required: false
+    - id: 16
+      name: favorite_food
+      label: Favorite food
+      hint: null
+      type: select_multiple
+      options:
+      - Pizza
+      - Burger
+      - Vegetable
+      required: false
+    - id: 17
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: email_repeat
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 21
+      name: phone_number_repeat
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true

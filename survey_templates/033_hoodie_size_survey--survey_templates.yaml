@@ -1,0 +1,79 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Hoodie size survey
+    pages:
+    - id: 1
+      name: hoodie_size
+      label: Hoodie size
+      hint: null
+      type: select_multiple
+      options:
+      - xs
+      - s
+      - m
+      - l
+      - xl
+      required: false
+    - id: 2
+      name: color_preference
+      label: Color preference
+      hint: null
+      type: select_one
+      options:
+      - black
+      - blue
+      - red
+      - green
+      required: false
+    - id: 3
+      name: size_preference
+      label: Size preference
+      hint: null
+      type: select_multiple
+      options:
+      - S
+      - M
+      - L
+      - XL
+      required: false
+    - id: 4
+      name: favorite_color
+      label: Favorite color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: hoodie_style
+      label: Hoodie style
+      hint: null
+      type: select_one
+      options:
+      - fashion
+      - casual
+      - athletic
+      - gaming
+      required: false
+    - id: 6
+      name: preferred_features
+      label: Preferred features
+      hint: null
+      type: select_multiple
+      options:
+      - front-pocket
+      - sleeve-vents
+      - back-zip
+      - back-pocket
+      required: false

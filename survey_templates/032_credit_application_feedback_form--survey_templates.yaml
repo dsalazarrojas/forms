@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: Credit Application Feedback Form
+    pages:
+    - id: 1
+      name: credit_application_feedback_form
+      label: How likely do you think you would use this service in the future?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: credit_application_process
+      label: How clear was the credit application process?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: customer_service
+      label: How satisfied were you with the customer service?
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: overall_experience
+      label: What was your overall experience with the service?
+      hint: Please provide a written description of your experience.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Any additional comments?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_information
+      label: How would you like to be contacted?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      - None
+      required: false

@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trading Card Stats Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: card_id
+      label: Card ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rarity
+      label: Rarity
+      hint: null
+      type: select_one
+      options:
+      - Common
+      - Rare
+      - Very Rare
+      - Legendary
+      - Mythical
+      required: false
+    - id: 7
+      name: set_id
+      label: Set ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: condition
+      label: Condition
+      hint: null
+      type: select_one
+      options:
+      - Perfect
+      - Near Perfect
+      - Fair
+      - Poor
+      - Very Poor
+      required: false
+    - id: 9
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: card_name
+      label: Card Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: set_name
+      label: Set Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: set_year
+      label: Year
+      hint: null
+      type: select_one
+      options:
+      - '2005'
+      - '2006'
+      - '2007'
+      - '2008'
+      - '2009'
+      required: false
+    - id: 13
+      name: set_month
+      label: Month
+      hint: null
+      type: select_one
+      options:
+      - Jan
+      - Feb
+      - Mar
+      - Apr
+      - May
+      - Jun
+      - Jul
+      - Aug
+      - Sep
+      - Oct
+      - Nov
+      - Dec
+      required: false
+    - id: 14
+      name: card_number
+      label: Card Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: image_url
+      label: Image URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Hobbyist
+      - Shop
+      - Club
+      required: false

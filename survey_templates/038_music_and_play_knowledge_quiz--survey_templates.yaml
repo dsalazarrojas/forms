@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music And Play Knowledge Quiz
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: music_knowledge
+      label: Music Knowledge
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: play_concepts
+      label: Play Concepts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: musical_instruments
+      label: Musical Instruments
+      hint: null
+      type: select_multiple
+      options:
+      - Guitar
+      - Drums
+      - Trumpet
+      - Piano
+      - Microphone
+      - Violin
+      - Cello
+      - Synthesizer
+      required: false
+    - id: 5
+      name: music_genres
+      label: Music Genres
+      hint: null
+      type: select_one
+      options:
+      - Rock
+      - Pop
+      - Classical
+      - Jazz
+      - Country
+      - Electronic
+      - Hip-Hop
+      required: false
+    - id: 6
+      name: quiz_question
+      label: Quiz Question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_organizers
+      label: Event Organizers
+      hint: null
+      type: select_multiple
+      options:
+      - School
+      - Theater
+      - Festival
+      - Club
+      - Studio
+      - Studio
+      - Community Center
+      - Arena
+      required: false
+    - id: 8
+      name: educators
+      label: Educators
+      hint: null
+      type: select_one
+      options:
+      - Teacher
+      - Professor
+      - Artist
+      - Educator
+      - Director
+      - Producer
+      required: false
+    - id: 9
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false

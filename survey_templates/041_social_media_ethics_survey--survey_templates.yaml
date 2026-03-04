@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: social_media_ethics_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: social_media_use
+      label: Do you use social media?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: social_media_ethics_importance
+      label: How important is social media ethics to you?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Important
+      - Not Important
+      required: true
+    - id: 4
+      name: social_media_ethics_importance_level
+      label: How important is social media ethics to you?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: social_media_use_days
+      label: How many days do you spend on social media?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: social_media_use_time
+      label: How much time do you spend on social media?
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: social_media_ethics_awareness
+      label: Do you think social media companies have a responsibility to their users?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: social_media_ethics_awareness_importance
+      label: How important is it to you that social media companies have a responsibility
+        to their users?
+      hint: null
+      type: select_one
+      options:
+      - Very Important
+      - Not Important
+      required: true
+    - id: 9
+      name: social_media_ethics_guidelines
+      label: Do you think social media companies should have guidelines for user behavior?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: social_media_ethics_guidelines_importance
+      label: How important is it to you that social media companies have guidelines
+        for user behavior?
+      hint: null
+      type: select_one
+      options:
+      - Very Important
+      - Not Important
+      required: true
+    - id: 11
+      name: social_media_reporting
+      label: Have you reported a social media issue?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: social_media_reporting_importance
+      label: How important is it to report a social media issue?
+      hint: null
+      type: select_one
+      options:
+      - Very Important
+      - Not Important
+      required: true
+    - id: 13
+      name: social_media_awareness
+      label: How aware are you of social media's impact on your daily life?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: social_media_awareness_importance
+      label: How important is it to you that you are aware of social media's impact
+        on your daily life?
+      hint: null
+      type: select_one
+      options:
+      - Very Important
+      - Not Important
+      required: true
+    - id: 15
+      name: privacy_policy
+      label: Have you read and understood social media's privacy policy?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: data_collected
+      label: What kind of data are you comfortable sharing on social media?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: follow_privacy
+      label: Do you think companies can collect your data without your consent?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: online_tracking
+      label: Do you think online tracking is necessary?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: online_tracking_importance
+      label: How important is it to you that companies do not track your online activity?
+      hint: null
+      type: select_one
+      options:
+      - Very Important
+      - Not Important
+      required: true
+    - id: 20
+      name: survey_completion
+      label: Would you complete this survey again?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: survey_completion_importance
+      label: How important is it to you that you can complete surveys?
+      hint: null
+      type: select_one
+      options:
+      - Very Important
+      - Not Important
+      required: true
+    - id: 22
+      name: survey_completion_reason
+      label: What reasons you would not complete this survey again?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: user_info
+      label: Please provide your name and contact information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 25
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true

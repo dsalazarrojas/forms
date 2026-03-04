@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Health Care Checklist
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address_1
+      label: address_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address_2
+      label: address_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: zip_code
+      label: zip_code
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: select_one
+      options:
+      - condition_1
+      - condition_2
+      - condition_3
+      required: false
+    - id: 7
+      name: medication_1
+      label: medication_1
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 8
+      name: symptoms
+      label: symptoms
+      hint: null
+      type: text
+      options: []
+      required: false

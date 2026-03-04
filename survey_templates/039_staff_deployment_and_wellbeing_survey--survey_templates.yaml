@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Staff Deployment And Wellbeing Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: deployment_status
+      label: deployment_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''deployed'', ''label'': ''deployed''}'
+      - '{''id'': 2, ''name'': ''not_deployed'', ''label'': ''not_deployed''}'
+      - '{''id'': 3, ''name'': ''pending'', ''label'': ''pending''}'
+      required: false
+    - id: 4
+      name: deployment_date
+      label: deployment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: wellbeing_rating
+      label: wellbeing_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: feedback_text
+      label: feedback_text
+      hint: null
+      type: text
+      options: []
+      required: false

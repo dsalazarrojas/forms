@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: DEI Training Feedback Survey
+    pages:
+    - id: 1
+      name: training_feedback
+      label: training_feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: training_effectiveness
+      label: How effective was the training?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: session_satisfaction
+      label: How satisfied were you with this session?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: training_value
+      label: How valuable was the training to you?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: suggestions_for_future_sessions
+      label: Suggestions for future sessions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Additional feedback
+      hint: null
+      type: note
+      options: []
+      required: false

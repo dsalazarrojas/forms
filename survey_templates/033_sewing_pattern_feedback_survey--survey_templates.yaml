@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sewing Pattern Feedback Survey
+    pages:
+    - id: 1
+      name: user_input
+      label: User Information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: pattern_type
+      label: Pattern Type
+      hint: null
+      type: select_multiple
+      options:
+      - Label 1
+      - Label 2
+      - Label 3
+      required: false
+    - id: 3
+      name: fabric_choice
+      label: What Fabric Do You Have?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: pattern_difficulty
+      label: Difficulty
+      hint: null
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Medium
+      - Hard
+      required: false
+    - id: 5
+      name: user_comment
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: email_input
+      label: Email
+      hint: Enter your email
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_input
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

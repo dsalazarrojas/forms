@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Evolve Challenge Interest Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: availability
+      label: Availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: challenge_frequency
+      label: Challenge Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: challenge_duration
+      label: Challenge Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: communication_preferences
+      label: Communication Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - In-person
+      - Phone
+      - Email
+      - Social Media
+      required: false
+    - id: 8
+      name: participant_status
+      label: Participant Status
+      hint: null
+      type: text
+      options: []
+      required: true

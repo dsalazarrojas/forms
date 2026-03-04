@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Maintenance Evaluation Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: building_info
+      label: Building Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: building_condition
+      label: Building Condition
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: facility_condition
+      label: Facility Condition
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: maintenance_plan
+      label: Maintenance Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: equipment_info
+      label: Equipment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: maintenance_history
+      label: Maintenance History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: safety_procedure
+      label: Safety Procedure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: review
+      label: Review
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      - Unusable
+      required: false
+    - id: 13
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_multiple
+      options:
+      - Admin
+      - Manager
+      - User
+      required: false

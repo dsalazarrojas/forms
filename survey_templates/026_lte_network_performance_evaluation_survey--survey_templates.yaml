@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: lte_network_performance_evaluation_survey
+    pages:
+    - id: 1
+      name: form_start
+      label: start_form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: section_1
+      label: lte_performance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Excellent''}'
+      - '{''value'': 2, ''label'': ''Very Good''}'
+      - '{''value'': 3, ''label'': ''Good''}'
+      - '{''value'': 4, ''label'': ''Neutral''}'
+      - '{''value'': 5, ''label'': ''Bad''}'
+      - '{''value'': 6, ''label'': ''Very Bad''}'
+      required: true
+    - id: 3
+      name: section_2
+      label: network_issues
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''signal_loss''}'
+      - '{''value'': 2, ''label'': ''data_speed''}'
+      - '{''value'': 3, ''label'': ''call_drop''}'
+      - '{''value'': 4, ''label'': ''poor_coverage''}'
+      required: false
+    - id: 4
+      name: section_3
+      label: device_performance
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''excellent''}'
+      - '{''value'': 2, ''label'': ''very_good''}'
+      - '{''value'': 3, ''label'': ''good''}'
+      - '{''value'': 4, ''label'': ''average''}'
+      - '{''value'': 5, ''label'': ''poor''}'
+      required: false
+    - id: 5
+      name: section_4
+      label: customer_experience
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: form_end
+      label: submit_form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

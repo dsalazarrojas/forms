@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wildfire Risk Assessment Form
+    pages:
+    - id: 1
+      name: household_information
+      label: household_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: household_structure
+      label: Household Structure
+      hint: null
+      type: select_one
+      options:
+      - Building
+      - Mobile Home
+      - Other
+      required: false
+    - id: 3
+      name: roof_type
+      label: roof_type
+      hint: null
+      type: select_one
+      options:
+      - Guttered
+      - Flat
+      - Other
+      - Tile
+      required: false
+    - id: 4
+      name: fire_hazards
+      label: fire_hazards
+      hint: null
+      type: select_multiple
+      options:
+      - Fire hazard 1
+      - Fire hazard 2
+      - Fire hazard 3
+      required: false
+    - id: 5
+      name: defensible_space
+      label: defensible_space
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: fire_resistant_materials
+      label: fire_resistant_materials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: access_to_water
+      label: access_to_water
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: fire_safety_equipment
+      label: fire_safety_equipment
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 9
+      name: fire_extinguishers
+      label: fire_extinguishers
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 10
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: emergency_contact_relationship
+      label: emergency_contact_relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: defensible_perimeter
+      label: defensible_perimeter
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: defensible_space_percentage
+      label: defensible_space_percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: fuel_moisture
+      label: fuel_moisture
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: fire_history
+      label: fire_history
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: fire_suppression
+      label: fire_suppression
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: fire_alarm
+      label: fire_alarm
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: power_outage_protocol
+      label: power_outage_protocol
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: power_outage_plan
+      label: power_outage_plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: electrical_equipment
+      label: electrical_equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: electrical_equipment_location
+      label: electrical_equipment_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: electrical_equipment_maintenance
+      label: electrical_equipment_maintenance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: generator_installation
+      label: generator_installation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: fire_department_contact
+      label: fire_department_contact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

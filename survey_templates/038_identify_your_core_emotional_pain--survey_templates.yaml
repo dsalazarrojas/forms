@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: identify_your_core_emotional_pain
+    pages:
+    - id: 1
+      name: intro
+      label: Welcome to this survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: emotional_pain_area_1
+      label: Emotional pain area 1
+      hint: Please select one of the options
+      type: select_one
+      options:
+      - Area 1a
+      - Area 1b
+      - Area 1c
+      required: false
+    - id: 3
+      name: emotional_pain_area_2
+      label: Emotional pain area 2
+      hint: Please select multiple options
+      type: select_multiple
+      options:
+      - Area 2a
+      - Area 2b
+      - Area 2c
+      required: false
+    - id: 4
+      name: emotional_pain_area_3
+      label: Emotional pain area 3
+      hint: Please select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: date_of_occurrence
+      label: Date of occurrence
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_day
+      label: Time of day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: emotional_intensity
+      label: Emotional intensity
+      hint: How intense do you feel this pain?
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: emotional_frequency
+      label: Emotional frequency
+      hint: How often do you experience this pain?
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: emotional_duration
+      label: Emotional duration
+      hint: How long have you felt this pain?
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: emotional_support_system
+      label: Emotional support systems
+      hint: What kind of support would help you feel better?
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: contact_info
+      label: Contact information
+      hint: null
+      type: text
+      options: []
+      required: false

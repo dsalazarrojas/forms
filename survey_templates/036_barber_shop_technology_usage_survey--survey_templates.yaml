@@ -1,0 +1,192 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Barber Shop Technology Usage Survey
+    pages:
+      - id: 1
+        name: shop_profile_header
+        label: -- Shop Profile --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: shop_size
+        label: How many chairs/barbers are in your shop?
+        hint: null
+        type: select_one
+        options:
+          - 1-2 (Solo/Duo)
+          - 3-5 (Small Shop)
+          - 6-10 (Medium Shop)
+          - 11+ (Large / Multiple Locations)
+        required: true
+      - id: 3
+        name: shop_location_type
+        label: Shop Location Type
+        hint: null
+        type: select_one
+        options:
+          - Urban / City Center
+          - Suburban Mall / Plaza
+          - Rural / Small Town
+          - Residential / Home-based
+        required: true
+      - id: 4
+        name: current_tech_header
+        label: -- Current Technology Stack --
+        hint: Select all tools you currently use
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: booking_software
+        label: What booking/scheduling software do you use?
+        hint: null
+        type: select_one
+        options:
+          - Squire
+          - Vagaro
+          - Booksy
+          - Acuity / Squarespace
+          - Mindbody
+          - Manual / Paper Calendar
+          - Custom Website
+        required: true
+      - id: 6
+        name: pos_system
+        label: What is your primary Point of Sale (POS) system?
+        hint: null
+        type: select_one
+        options:
+          - Square
+          - Clover
+          - Toast
+          - Integrated with Booking Software
+          - Cash Only / No POS
+        required: true
+      - id: 7
+        name: marketing_tools
+        label: Digital Marketing Channels Used
+        hint: How do you reach new clients?
+        type: select_multiple
+        options:
+          - Instagram Ads
+          - Facebook Business
+          - Google My Business / SEO
+          - Email Marketing (Mailchimp, etc.)
+          - SMS Marketing
+          - None - Word of mouth only
+        required: true
+      - id: 8
+        name: challenges_header
+        label: -- Challenges and Pain Points --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: primary_business_challenge
+        label: What is your biggest daily business challenge?
+        hint: null
+        type: select_one
+        options:
+          - Managing No-Shows / Late Cancellations
+          - Staffing and Retention
+          - High Software Subscription Fees
+          - Attracting New Clients
+          - Managing Inventory
+          - Reporting and Taxes
+        required: true
+      - id: 10
+        name: tech_satisfaction
+        label: Overall satisfaction with your current technology
+        hint: Rate from 1 (Very Frustrated) to 5 (Very Happy)
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 11
+        name: future_tech_header
+        label: -- Interest in New Technology --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: ai_interest
+        label: Level of interest in AI-driven tools (e.g., automated rescheduling, smart pricing)
+        hint: null
+        type: select_one
+        options:
+          - Very Interested
+          - Somewhat Interested
+          - Not Interested
+          - Need more information
+        required: true
+      - id: 13
+        name: mobile_app_interest
+        label: Importance of having your own branded mobile app
+        hint: null
+        type: select_one
+        options:
+          - Essential
+          - Nice to have
+          - Not important
+        required: true
+      - id: 14
+        name: tech_budget
+        label: Monthly budget for business software/technology
+        hint: null
+        type: select_one
+        options:
+          - Under $50
+          - $50-$150
+          - $150-$300
+          - $300+
+        required: true
+      - id: 15
+        name: follow_up_header
+        label: -- Participation and Results --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: wish_to_receive_report
+        label: Would you like to receive a copy of the survey results?
+        hint: We will share the anonymized industry trends with you
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 17
+        name: contact_email
+        label: Email Address for Results
+        hint: null
+        type: email
+        options: []
+        required: false
+      - id: 18
+        name: completion_date
+        label: Date of Completion
+        hint: null
+        type: date
+        options: []
+        required: true

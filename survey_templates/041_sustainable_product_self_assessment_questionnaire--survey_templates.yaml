@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sustainable Product Self Assessment Questionnaire
+    pages:
+    - id: 1
+      name: product_title
+      label: Product Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: product_description
+      label: Product Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: materials
+      label: Materials
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Materials'', ''value'': ''Materials''}'
+      - '{''label'': ''Recycled'', ''value'': ''Recycled''}'
+      - '{''label'': ''Biodegradable'', ''value'': ''Biodegradable''}'
+      - '{''label'': ''Compostable'', ''value'': ''Compostable''}'
+      required: true
+    - id: 4
+      name: manufacturing_process
+      label: Manufacturing Process
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: energy_consumption
+      label: Energy Consumption
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: packaging
+      label: Packaging
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: end_of_life
+      label: End-Of-Life
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Landfill'', ''value'': ''Landfill''}'
+      - '{''label'': ''Recycled'', ''value'': ''Recycled''}'
+      - '{''label'': ''Composting'', ''value'': ''Composting''}'
+      - '{''label'': ''Biodegradable'', ''value'': ''Biodegradable''}'
+      required: true
+    - id: 8
+      name: production_location
+      label: Production Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: production_date
+      label: Production Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

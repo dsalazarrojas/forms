@@ -1,0 +1,247 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Surrender Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Your Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: respondent_email
+      label: Email Address
+      hint: For follow-up if needed
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: survey_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: animal_name
+      label: Animal Name
+      hint: Name of pet being surrendered
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: animal_species
+      label: Species
+      hint: null
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Rabbit
+      - Bird
+      - Small Mammal
+      - Reptile
+      - Other
+      required: true
+    - id: 6
+      name: animal_age
+      label: Animal Age
+      hint: In years
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: ownership_length
+      label: How Long Did You Own This Animal
+      hint: In years or months
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: surrender_reason_primary
+      label: Primary Reason for Surrender
+      hint: Select main reason
+      type: select_one
+      options:
+      - Housing Related
+      - Financial Hardship
+      - Human Health Issues
+      - Animal Behavior Issues
+      - Animal Health Issues
+      - Family Changes
+      - Lack of Time
+      - Pet Not Compatible
+      - Other
+      required: true
+    - id: 9
+      name: housing_reasons
+      label: Housing Related Reasons
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Moving to No-Pet Housing
+      - Landlord Restrictions
+      - HOA Restrictions
+      - Downsizing
+      - Foreclosure or Eviction
+      - Not Applicable
+      required: false
+    - id: 10
+      name: financial_reasons
+      label: Financial Challenges
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Cannot Afford Veterinary Care
+      - Cannot Afford Food
+      - Cannot Afford Pet Rent
+      - General Financial Hardship
+      - Job Loss
+      - Not Applicable
+      required: false
+    - id: 11
+      name: behavior_issues
+      label: Behavior Issues Experienced
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - House Training Issues
+      - Aggression
+      - Excessive Barking
+      - Destructive Behavior
+      - Anxiety
+      - Resource Guarding
+      - None
+      - Other
+      required: false
+    - id: 12
+      name: support_received
+      label: Did You Receive Any Support Before Surrender
+      hint: From shelter or organizations
+      type: select_one
+      options:
+      - Yes - Food Assistance
+      - Yes - Behavioral Support
+      - Yes - Medical Assistance
+      - Yes - Housing Assistance
+      - No Support Available
+      - No Support Sought
+      required: true
+    - id: 13
+      name: support_helpfulness
+      label: Would Additional Support Have Helped You Keep Your Pet
+      hint: null
+      type: select_one
+      options:
+      - Yes Definitely
+      - Possibly
+      - false
+      - Unsure
+      required: true
+    - id: 14
+      name: rehoming_attempted
+      label: Did You Attempt to Rehome the Animal
+      hint: null
+      type: select_one
+      options:
+      - Yes - Successfully
+      - Yes - Unsuccessfully
+      - No - Did Not Try
+      required: true
+    - id: 15
+      name: rehoming_barriers
+      label: What Barriers Did You Face in Rehoming
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - No Interested Adopters
+      - Animal Age
+      - Animal Health Issues
+      - Animal Behavior Issues
+      - Breed Restrictions
+      - Time Constraints
+      - Did Not Try
+      - Other
+      required: false
+    - id: 16
+      name: emotional_impact
+      label: How Difficult Was This Decision
+      hint: null
+      type: select_one
+      options:
+      - Extremely Difficult
+      - Very Difficult
+      - Somewhat Difficult
+      - Neutral
+      - Not Difficult
+      required: true
+    - id: 17
+      name: shelter_experience
+      label: How Was Your Experience with Our Shelter
+      hint: null
+      type: select_one
+      options:
+      - Very Positive
+      - Positive
+      - Neutral
+      - Negative
+      - Very Negative
+      - First Time Here
+      required: true
+    - id: 18
+      name: staff_helpfulness
+      label: How Helpful Was Our Staff
+      hint: null
+      type: select_one
+      options:
+      - Very Helpful
+      - Helpful
+      - Neutral
+      - Unhelpful
+      - Very Unhelpful
+      required: true
+    - id: 19
+      name: future_adoption
+      label: Would You Consider Adopting from Us in the Future
+      hint: null
+      type: select_one
+      options:
+      - Yes Definitely
+      - Possibly
+      - false
+      - Unsure
+      required: false
+    - id: 20
+      name: support_services_interest
+      label: What Support Services Would Have Helped You
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Low-Cost Veterinary Care
+      - Pet Food Pantry
+      - Behavioral Training
+      - Temporary Foster Care
+      - Housing Assistance
+      - Pet-Friendly Housing List
+      - Financial Assistance
+      - None
+      - Other
+      required: false
+    - id: 21
+      name: communication_preference
+      label: May We Contact You for Follow-Up
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: additional_feedback
+      label: Any Additional Feedback or Comments
+      hint: Your input helps us improve
+      type: text
+      options: []
+      required: false

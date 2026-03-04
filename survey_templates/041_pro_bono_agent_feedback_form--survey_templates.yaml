@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pro Bono Agent Feedback Form
+    pages:
+    - id: 1
+      name: pro_bono_services
+      label: pro_bono_services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: how_satisfied
+      label: how_satisfied
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 3
+      name: feedback_areas
+      label: feedback_areas
+      hint: null
+      type: select_multiple
+      options:
+      - Communication
+      - Quality of work
+      - Timeliness
+      - Other (please specify)
+      required: false
+    - id: 4
+      name: additional_feedback
+      label: additional_feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: number_of_services
+      label: number_of_services
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: service_satisfaction_score
+      label: service_satisfaction_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: time_spent
+      label: time_spent
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: areas_for_improvement
+      label: areas_for_improvement
+      hint: null
+      type: select_multiple
+      options:
+      - Communication
+      - Quality of work
+      - Timeliness
+      - Other (please specify)
+      required: false
+    - id: 9
+      name: other_areas
+      label: other_areas
+      hint: Specify the areas for improvement
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: service_type
+      label: service_type
+      hint: null
+      type: select_one
+      options:
+      - General Pro Bono Service
+      - Financial Pro Bono Service
+      - Technical Pro Bono Service
+      required: false
+    - id: 13
+      name: date
+      label: date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: time
+      label: time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false

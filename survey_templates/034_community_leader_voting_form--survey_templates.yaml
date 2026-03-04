@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Leader Voting Form
+    pages:
+    - id: 1
+      name: voter_identity
+      label: -- Voter Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: voter_full_name
+      label: Full Legal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: voter_registration_id
+      label: Voter Registration ID or Membership Number
+      hint: Provided by the Community Association
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: eligibility_confirmation
+      label: I confirm I am a registered member in good standing
+      hint: null
+      type: select_one
+      options:
+      - I Confirm Eligibility
+      - Other
+      required: true
+    - id: 5
+      name: section_ballot
+      label: -- Official Ballot --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: president_vote
+      label: Candidate for Community Board President
+      hint: Select one candidate or write-in below
+      type: select_one
+      options:
+      - Candidate A (Incumbent)
+      - Candidate B
+      - Write-in Candidate
+      required: true
+    - id: 7
+      name: president_write_in
+      label: Write-in Candidate for President
+      hint: Only if you selected Write-in above
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: treasurer_vote
+      label: Candidate for Community Treasurer
+      hint: null
+      type: select_one
+      options:
+      - Candidate C
+      - Candidate D
+      - Write-in Candidate
+      required: true
+    - id: 9
+      name: secretary_vote
+      label: Candidate for Community Secretary
+      hint: null
+      type: select_one
+      options:
+      - Candidate E
+      - Candidate F
+      - Write-in Candidate
+      required: true
+    - id: 10
+      name: youth_rep_vote
+      label: Candidate for Youth Representative
+      hint: null
+      type: select_one
+      options:
+      - Candidate G
+      - Candidate H
+      required: true
+    - id: 11
+      name: priority_issue
+      label: What is the most important issue for the new leadership?
+      hint: null
+      type: select_one
+      options:
+      - Public Safety and Neighborhood Watch
+      - Infrastructure and Road Repair
+      - Budget Transparency and Fiscal Management
+      - Community Social Events and Engagement
+      - Environmental Initiatives
+      required: true
+    - id: 12
+      name: voter_signature
+      label: Electronic Signature
+      hint: Type your name to verify your vote
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: election_date
+      label: Date of Election Submission
+      hint: null
+      type: date
+      options: []
+      required: true

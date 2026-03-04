@@ -1,0 +1,253 @@
+inputSchema:
+  type: object
+  properties:
+    title: T Shirt Survey
+    pages:
+    - id: 1
+      name: intro
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: size
+      label: What size do you wear?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Small''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Large''}'
+      - '{''id'': 4, ''label'': ''X-Large''}'
+      required: false
+    - id: 3
+      name: style
+      label: What style do you like?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Casual''}'
+      - '{''id'': 2, ''label'': ''Formal''}'
+      - '{''id'': 3, ''label'': ''Sporty''}'
+      - '{''id'': 4, ''label'': ''Boho''}'
+      required: false
+    - id: 4
+      name: color
+      label: What color do you like?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Black''}'
+      - '{''id'': 2, ''label'': ''White''}'
+      - '{''id'': 3, ''label'': ''Gray''}'
+      - '{''id'': 4, ''label'': ''Red''}'
+      required: false
+    - id: 5
+      name: price
+      label: How much are you willing to pay?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: material
+      label: What material do you like?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Cotton''}'
+      - '{''id'': 2, ''label'': ''Polyester''}'
+      - '{''id'': 3, ''label'': ''Linen''}'
+      required: false
+    - id: 7
+      name: design
+      label: Do you like designs with?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Logo''}'
+      - '{''id'': 2, ''label'': ''Pattern''}'
+      - '{''id'': 3, ''label'': ''Solid''}'
+      required: false
+    - id: 8
+      name: pattern
+      label: Do you like patterns?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 9
+      name: logo
+      label: Do you like logos?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 10
+      name: sleeve_length
+      label: What sleeve length do you prefer?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Short''}'
+      - '{''id'': 2, ''label'': ''Long''}'
+      required: false
+    - id: 11
+      name: collar_type
+      label: What collar type do you like?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Crew''}'
+      - '{''id'': 2, ''label'': ''V-Neck''}'
+      - '{''id'': 3, ''label'': ''Crew-Neck''}'
+      required: false
+    - id: 12
+      name: pocket_type
+      label: What pocket type do you like?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Normal''}'
+      - '{''id'': 2, ''label'': ''Zipper''}'
+      - '{''id'': 3, ''label'': ''Pocketless''}'
+      required: false
+    - id: 13
+      name: hem_type
+      label: What hem type do you like?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Normal''}'
+      - '{''id'': 2, ''label'': ''Rolled''}'
+      - '{''id'': 3, ''label'': ''Tab''}'
+      required: false
+    - id: 14
+      name: hem_position
+      label: What hem position do you like?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Bottom''}'
+      - '{''id'': 2, ''label'': ''Sleeve''}'
+      - '{''id'': 3, ''label'': ''Hem''}'
+      required: false
+    - id: 15
+      name: hem_width
+      label: What hem width do you like?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Normal''}'
+      - '{''id'': 2, ''label'': ''Wide''}'
+      - '{''id'': 3, ''label'': ''Narrow''}'
+      required: false
+    - id: 16
+      name: hem_style
+      label: What hem style do you like?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Simple''}'
+      - '{''id'': 2, ''label'': ''Decorative''}'
+      required: false
+    - id: 17
+      name: pocket_position
+      label: What pocket position do you like?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Front''}'
+      - '{''id'': 2, ''label'': ''Back''}'
+      - '{''id'': 3, ''label'': ''Both''}'
+      required: false
+    - id: 18
+      name: collar_type
+      label: What collar type do you like?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Crew''}'
+      - '{''id'': 2, ''label'': ''V-Neck''}'
+      - '{''id'': 3, ''label'': ''Crew-Neck''}'
+      required: false
+    - id: 19
+      name: collar_width
+      label: What collar width do you like?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Normal''}'
+      - '{''id'': 2, ''label'': ''Wide''}'
+      - '{''id'': 3, ''label'': ''Narrow''}'
+      required: false
+    - id: 20
+      name: sleeve_type
+      label: What sleeve type do you like?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Full''}'
+      - '{''id'': 2, ''label'': ''Short''}'
+      required: false
+    - id: 21
+      name: cuff_position
+      label: What cuff position do you like?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Bottom''}'
+      - '{''id'': 2, ''label'': ''Top''}'
+      required: false
+    - id: 22
+      name: cuff_width
+      label: What cuff width do you like?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Normal''}'
+      - '{''id'': 2, ''label'': ''Wide''}'
+      - '{''id'': 3, ''label'': ''Narrow''}'
+      required: false
+    - id: 23
+      name: cuff_style
+      label: What cuff style do you like?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Simple''}'
+      - '{''id'': 2, ''label'': ''Decorative''}'
+      required: false
+    - id: 24
+      name: hem_style
+      label: What hem style do you like?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Simple''}'
+      - '{''id'': 2, ''label'': ''Decorative''}'
+      required: false
+    - id: 25
+      name: shirt_length
+      label: What length do you like?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Short''}'
+      - '{''id'': 2, ''label'': ''Long''}'
+      required: false
+    - id: 26
+      name: shirt_type
+      label: What type do you like?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''T-Shirt''}'
+      - '{''id'': 2, ''label'': ''Polo Shirt''}'
+      - '{''id'': 3, ''label'': ''Tank Top''}'
+      required: false

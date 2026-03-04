@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Service Evaluation Report
+    pages:
+    - id: 1
+      name: customer_survey_form
+      label: Customer Survey Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating1
+      label: 1 - 5 Star Rating
+      hint: Rate your experience
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: customer_feedback
+      label: What did the agent do that made you feel positive about the interaction?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_feedback_negative
+      label: What did the agent do that made you feel negative about the interaction?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_feedback_neutral
+      label: What did the agent do that made you feel neutral about the interaction?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: will_use_again
+      label: Will you use our services again?
+      hint: Yes or No
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: why_not_use_again
+      label: If no, please provide reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email_input
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_input
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

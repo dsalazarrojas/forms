@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Task Prioritization Survey
+    pages:
+    - id: 1
+      name: page_1
+      label: What are the most important tasks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_2
+      label: What tasks are least important
+      hint: Describe tasks that should be deprioritized
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: page_3
+      label: Which tasks should be prioritized first
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: page_4
+      label: Which tasks should be deprioritized first
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: page_5
+      label: Task 1
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 6
+      name: page_6
+      label: Task 2
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 7
+      name: page_7
+      label: page_7
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: page_8
+      label: page_8
+      hint: null
+      type: time
+      options: []
+      required: false

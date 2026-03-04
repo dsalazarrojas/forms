@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assess Your Situation
+    pages:
+    - id: 1
+      name: respondent_full_name_opt
+      label: Your Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: current_sector_situation
+      label: Which sector or industry do you belong to
+      hint: null
+      type: select_one
+      options:
+      - Private Corporate
+      - Public/Government
+      - Non-profit/NGO
+      - Small Business/Self-employed
+      - Academic/Research
+      required: true
+    - id: 3
+      name: primary_challenge_faced
+      label: What is the primary challenge you are currently facing
+      hint: Be as specific as possible
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: impact_level_rating
+      label: Rate the impact level of this challenge
+      hint: 1 - minimal impact, 10 - critical impact
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: resources_available_situation
+      label: Resources currently available to address this
+      hint: e.g. Budget, staff, existing software
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: previous_attempts_resolution
+      label: Previous solutions or actions attempted
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: desired_outcome_situation
+      label: What is your ideal desired outcome
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: resolution_timeline_situation
+      label: Desired timeline for resolution
+      hint: null
+      type: select_one
+      options:
+      - Immediate - within 30 days
+      - Short-term - 1 to 3 months
+      - Medium-term - 3 to 12 months
+      - Long-term - over 1 year
+      required: true
+    - id: 9
+      name: help_category_needed
+      label: What type of assistance is most needed
+      hint: null
+      type: select_multiple
+      options:
+      - Financial Support
+      - Expert Consultation
+      - Additional Manpower
+      - Information/Research
+      - Strategic Planning
+      required: true
+    - id: 10
+      name: follow_up_pref_situation
+      label: Preferred method for a follow-up consultation
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Video Conference
+      - In-person Meeting
+      - Phone Call
+      required: false

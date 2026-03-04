@@ -1,0 +1,309 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Booster Shot Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer Not to Say
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: For appointment confirmation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Insurance company
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: insurance_id
+      label: Insurance ID
+      hint: Member ID number
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: primary_care_physician
+      label: Primary Care Physician
+      hint: Doctor name
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: vaccination_history
+      label: COVID-19 Vaccination History
+      hint: Previous doses received
+      type: select_one
+      options:
+      - 1 dose of Johnson and Johnson
+      - 2 doses of Pfizer-BioNTech
+      - 2 doses of Moderna
+      - Other vaccine
+      - Unsure
+      required: true
+    - id: 14
+      name: first_dose_date
+      label: First Dose Date
+      hint: When did you get first dose
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: second_dose_date
+      label: Second Dose Date
+      hint: When did you get second dose
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: previous_vaccine_location
+      label: Previous Vaccination Location
+      hint: Where did you get vaccinated
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: booster_eligibility
+      label: Booster Eligibility
+      hint: Time since last dose
+      type: select_one
+      options:
+      - 6+ months since second dose
+      - 2+ months since J and J dose
+      - Less than required time
+      - Unsure
+      required: true
+    - id: 18
+      name: high_risk_condition
+      label: High Risk Medical Condition
+      hint: That increases COVID risk
+      type: select_one
+      options:
+      - true
+      - false
+      - Prefer not to say
+      required: true
+    - id: 19
+      name: high_risk_details
+      label: High Risk Condition Details
+      hint: Please specify
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: occupational_risk
+      label: High Risk Occupation
+      hint: Healthcare essential worker etc
+      type: select_one
+      options:
+      - Healthcare worker
+      - Essential worker
+      - congregate setting resident
+      - None
+      required: true
+    - id: 21
+      name: previous_covid_infection
+      label: Previous COVID-19 Infection
+      hint: Have you had COVID
+      type: select_one
+      options:
+      - Yes - Confirmed
+      - Yes - Suspected
+      - false
+      - Unsure
+      required: true
+    - id: 22
+      name: infection_date
+      label: Infection Date
+      hint: When did you have COVID
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: current_symptoms
+      label: Current COVID-19 Symptoms
+      hint: Any symptoms now
+      type: select_one
+      options:
+      - No symptoms
+      - Yes - Mild symptoms
+      - Yes - Moderate symptoms
+      - Yes - Severe symptoms
+      required: true
+    - id: 24
+      name: vaccine_preference
+      label: Vaccine Preference
+      hint: For booster dose
+      type: select_one
+      options:
+      - Same as original vaccine
+      - Pfizer-BioNTech
+      - Moderna
+      - No preference
+      required: true
+    - id: 25
+      name: reasons_for_booster
+      label: Reasons for Getting Booster
+      hint: Why do you want booster
+      type: select_multiple
+      options:
+      - Personal protection
+      - Protect family members
+      - Work requirement
+      - Travel requirement
+      - Healthcare worker
+      - High risk condition
+      - Recommendation from doctor
+      - Community protection
+      required: true
+    - id: 26
+      name: concerns_about_booster
+      label: Concerns About Booster
+      hint: Any worries or questions
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: side_effects_history
+      label: Previous Vaccine Side Effects
+      hint: Did you have reactions
+      type: select_one
+      options:
+      - None
+      - Mild - Arm soreness fatigue
+      - Moderate - Fever body aches
+      - Severe - Required medical care
+      required: true
+    - id: 28
+      name: allergies
+      label: Known Allergies
+      hint: Especially to vaccines
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: appointment_preference
+      label: Appointment Preference
+      hint: When would you like to come
+      type: select_one
+      options:
+      - Morning appointment
+      - Afternoon appointment
+      - Evening appointment
+      - Weekend appointment
+      - Walk-in preferred
+      required: true
+    - id: 30
+      name: transportation_method
+      label: Transportation Method
+      hint: How will you arrive
+      type: select_one
+      options:
+      - Personal vehicle
+      - Public transportation
+      - Walk
+      - Ride from family friend
+      - Need assistance
+      required: false
+    - id: 31
+      name: post_vaccination_plan
+      label: Post-Vaccination Plan
+      hint: Can you rest if needed
+      type: select_one
+      options:
+      - Yes - Can rest at home
+      - Yes - Can rest at work
+      - No - Must return to activities
+      required: true
+    - id: 32
+      name: consent_for_vaccination
+      label: Consent for Vaccination
+      hint: I consent to receive booster
+      type: select_one
+      options:
+      - Yes I Consent
+      - false
+      required: true
+    - id: 33
+      name: patient_signature
+      label: Patient Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: parent_guardian_signature
+      label: Parent or Guardian Signature
+      hint: If under 18
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: date_signed
+      label: Date Signed
+      hint: Today date
+      type: date
+      options: []
+      required: true

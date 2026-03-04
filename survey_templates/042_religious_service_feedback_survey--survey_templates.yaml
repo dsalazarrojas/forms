@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: religious_service_feedback_survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: service_attendance
+      label: How often do you attend our religious service?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: satisfaction_rating
+      label: How satisfied are you with our service?
+      hint: null
+      type: select_one
+      options:
+      - 1 - Very dissatisfied
+      - 2 - Somewhat dissatisfied
+      - 3 - Neutral
+      - 4 - Satisfied
+      - 5 - Very Satisfied
+      required: true
+    - id: 5
+      name: favorite_song
+      label: What is your favorite hymn or song?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Do you have any comments or suggestions?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: service_improvement
+      label: What do you think could be improved about our service?
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,175 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bookstore Customer Experience Questionnaire
+    pages:
+      - id: 1
+        name: visit_date
+        label: Date of Visit
+        hint: When did you visit us
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: customer_name
+        label: Your Name
+        hint: Optional - your name
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: customer_email
+        label: Email Address
+        hint: Optional - for follow-up
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: first_time_visitor
+        label: Is this your first visit
+        hint: Have you been here before
+        type: select_one
+        options:
+          - Yes, first time
+          - No, regular customer
+          - No, but have visited before
+        required: true
+      - id: 5
+        name: visit_frequency
+        label: How often do you visit
+        hint: Your typical visiting pattern
+        type: select_one
+        options:
+          - Weekly
+          - Bi-weekly
+          - Monthly
+          - Few times a year
+          - Rarely
+          - First time
+        required: true
+      - id: 6
+        name: store_cleanliness
+        label: Store Cleanliness and Organization
+        hint: Rate the cleanliness
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Average
+          - Poor
+        required: true
+      - id: 7
+        name: staff_helpfulness
+        label: Staff Helpfulness
+        hint: Rate staff assistance
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Average
+          - Poor
+        required: true
+      - id: 8
+        name: product_selection
+        label: Product Selection and Variety
+        hint: Rate the book selection
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Average
+          - Poor
+        required: true
+      - id: 9
+        name: pricing
+        label: Pricing and Value
+        hint: Rate the prices
+        type: select_one
+        options:
+          - Excellent value
+          - Good value
+          - Fair value
+          - Overpriced
+          - Very overpriced
+        required: true
+      - id: 10
+        name: checkout_experience
+        label: Checkout Experience
+        hint: Rate the checkout process
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Average
+          - Poor
+        required: true
+      - id: 11
+        name: overall_satisfaction
+        label: Overall Satisfaction
+        hint: How satisfied are you overall
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 12
+        name: likely_to_recommend
+        label: Likelihood to Recommend
+        hint: Would you recommend us to others
+        type: select_one
+        options:
+          - Definitely recommend
+          - Probably recommend
+          - Not sure
+          - Probably not
+          - Definitely not
+        required: true
+      - id: 13
+        name: improvement_areas
+        label: Areas for Improvement
+        hint: What could we do better
+        type: select_multiple
+        options:
+          - Better book selection
+          - Improved pricing
+          - More staff available
+          - Better store layout
+          - More events
+          - Longer hours
+          - Online shopping
+          - Other
+        required: false
+      - id: 14
+        name: additional_feedback
+        label: Additional Feedback or Comments
+        hint: Any other comments or suggestions
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: contact_permission
+        label: May we contact you
+        hint: Can we follow up with you
+        type: select_one
+        options:
+          - Yes, contact me
+          - No, thank you
+        required: false

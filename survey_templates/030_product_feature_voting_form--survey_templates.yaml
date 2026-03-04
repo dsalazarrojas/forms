@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Feature Voting Form
+    pages:
+    - id: 1
+      name: feature_voting_form
+      label: feature_voting_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_description
+      label: form_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: category_select
+      label: category_select
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      - Option 7
+      - Option 8
+      - Option 9
+      - Option 10
+      required: false
+    - id: 5
+      name: form_category
+      label: form_category
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      required: false
+    - id: 6
+      name: feature_select
+      label: feature_select
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      required: false
+    - id: 7
+      name: feature_rating
+      label: feature_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: submit_button
+      label: submit_button
+      hint: null
+      type: note
+      options: []
+      required: false

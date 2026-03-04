@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Political Ideology Survey
+    pages:
+    - id: 1
+      name: political_ideology_survey
+      label: political_ideology
+      hint: null
+      type: select_one
+      options:
+      - conservative
+      - liberal
+      - moderate
+      - progressive
+      required: true
+    - id: 2
+      name: political_party_affiliation
+      label: political_party
+      hint: null
+      type: select_multiple
+      options:
+      - Democratic
+      - Republican
+      - Independent
+      - Other
+      required: true
+    - id: 3
+      name: political_viewpoint
+      label: political_view
+      hint: Please provide your political viewpoint
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: political_party_id
+      label: political_party_identifier
+      hint: null
+      type: select_one
+      options:
+      - Democrat
+      - Republican
+      - Other
+      required: true
+    - id: 5
+      name: political_interest_in_ideology
+      label: political_interest
+      hint: null
+      type: select_multiple
+      options:
+      - Local politics
+      - National politics
+      - International politics
+      required: true
+    - id: 6
+      name: political_party_interests
+      label: political_party_interests
+      hint: null
+      type: select_multiple
+      options:
+      - Environmentalist
+      - Social justice
+      - Economic development
+      - Other
+      required: true
+    - id: 7
+      name: political_surveyed
+      label: political_surveyed
+      hint: null
+      type: select_one
+      options:
+      - Men
+      - Women
+      - Both
+      required: true
+    - id: 8
+      name: political_survey_date
+      label: political_survey_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: political_survey_time
+      label: political_survey_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: political_survey_note
+      label: political_survey_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: political_survey_email
+      label: political_survey_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: political_survey_phone
+      label: political_survey_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: political_survey_note_2
+      label: political_survey_note_2
+      hint: null
+      type: note
+      options: []
+      required: false

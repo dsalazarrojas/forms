@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: return_to_church_survey
+    pages:
+    - id: 1
+      name: return_to_church_survey_page
+      label: return to church survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_leaving
+      label: reason for leaving
+      hint: null
+      type: select_multiple
+      options:
+      - Returned to church due to the love of God's work.
+      - Returned to church due to a new opportunity that presented itself.
+      - Returned to church to seek God's forgiveness.
+      - Returned due to a personal issue.
+      - Returned due to a family issue.
+      - Returned due to a change of heart.
+      - Returned due to health issues.
+      - Returned due to other reasons not listed. Please specify
+      - Returned due to other (please specify)
+      required: false
+    - id: 3
+      name: time_since_last_attended_church
+      label: time since last attended church
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_last_attended_church
+      label: time of last attended church
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: time_of_last_attended_church_hour
+      label: hour of last attended church
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: time_of_last_attended_church_minute
+      label: minute of last attended church
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: time_of_last_attended_church_am_pm
+      label: AM/PM of last attended church
+      hint: null
+      type: select_one
+      options:
+      - AM
+      - PM
+      - 24hr
+      - 12hr
+      required: false
+    - id: 8
+      name: time_of_last_attended_church_date
+      label: date of last attended church
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_of_last_attended_church_day_of_week
+      label: day of week of last attended church
+      hint: null
+      type: select_one
+      options:
+      - Sunday
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      required: false
+    - id: 10
+      name: time_of_last_attended_church_day_of_month
+      label: day of month of last attended church
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      - '13'
+      - '14'
+      - '15'
+      - '16'
+      - '17'
+      - '18'
+      - '19'
+      - '20'
+      - '21'
+      - '22'
+      - '23'
+      - '24'
+      - '25'
+      - '26'
+      - '27'
+      - '28'
+      - '29'
+      - '30'
+      - '31'
+      required: false
+    - id: 11
+      name: time_of_last_attended_church_month
+      label: month of last attended church
+      hint: null
+      type: select_one
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+      required: false
+    - id: 12
+      name: time_of_last_attended_church_year
+      label: year of last attended church
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: time_of_last_attended_church_dow
+      label: day of the week of last attended church
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: time_of_last_attended_church_dom
+      label: day of month of last attended church
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: other_reason
+      label: other reason
+      hint: null
+      type: text
+      options: []
+      required: false

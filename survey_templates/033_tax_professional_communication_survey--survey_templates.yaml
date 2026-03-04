@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Professional Communication Survey
+    pages:
+    - id: 1
+      name: tax_professional_communication_quality
+      label: Communication Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 2
+      name: tax_firm_name
+      label: Firm Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tax_professional_responsiveness
+      label: Responsiveness
+      hint: null
+      type: select_one
+      options:
+      - Value1
+      - Value2
+      - Value3
+      required: false
+    - id: 4
+      name: tax_firm_email
+      label: Firm Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: tax_firm_phone
+      label: Firm Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: tax_professional_clarity
+      label: Clarity
+      hint: null
+      type: select_one
+      options:
+      - Value1
+      - Value2
+      - Value3
+      required: false
+    - id: 7
+      name: tax_firm_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: tax_firm_additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: tax_firm_recommendation
+      label: Recommendation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: tax_firm_rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: tax_firm_survey_completed
+      label: Survey Completed
+      hint: null
+      type: date
+      options: []
+      required: false

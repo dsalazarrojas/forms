@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: cyber_security_survey
+    pages:
+    - id: 1
+      name: survey_background
+      label: what_is_a_cyber_security_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_size
+      label: company_size
+      hint: null
+      type: select_one
+      options:
+      - small
+      - medium
+      - large
+      required: true
+    - id: 3
+      name: employee_count
+      label: how_many_employees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: employee_type
+      label: what_type_of_employees
+      hint: null
+      type: select_multiple
+      options:
+      - sales
+      - marketing
+      - engineering
+      - support
+      required: true
+    - id: 5
+      name: employee_level
+      label: employee_level
+      hint: null
+      type: select_multiple
+      options:
+      - junior
+      - senior
+      - manager
+      - director
+      required: true
+    - id: 6
+      name: security_concerns
+      label: security_concerns
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: current_security_mechanism
+      label: current_security_mechanism
+      hint: null
+      type: select_multiple
+      options:
+      - password
+      - two_factor
+      - smartcard
+      - other
+      required: true
+    - id: 8
+      name: current_security_measures
+      label: current_security_measures
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: future_security_plans
+      label: future_security_plans
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: employee_security_concerns
+      label: employee_security_concerns
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: company_security_policy
+      label: company_security_policy
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: security_training_program
+      label: security_training_program
+      hint: null
+      type: select_multiple
+      options:
+      - phishing
+      - password
+      - security_basics
+      - none
+      required: true
+    - id: 13
+      name: security_incident_response
+      label: security_incident_response
+      hint: null
+      type: select_multiple
+      options:
+      - incident_response
+      - incident_respond
+      - none
+      required: true
+    - id: 14
+      name: company_security_measures
+      label: company_security_measures
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: security_concerns
+      label: security_concerns
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: country
+      label: country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: time_zone
+      label: time_zone
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 24
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: submit
+      label: submit
+      hint: null
+      type: select_multiple
+      options:
+      - submit
+      - Other
+      required: true

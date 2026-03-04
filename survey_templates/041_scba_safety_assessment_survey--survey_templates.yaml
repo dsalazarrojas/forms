@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: scba_safety_assessment_survey
+    pages:
+    - id: 1
+      name: scba_survey_form
+      label: scba_survey_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: scba_equipment_readiness
+      label: scba_equipment_readiness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: scba_unit
+      label: scba_unit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 1}'
+      - '{''id'': 2, ''label'': 2}'
+      - '{''id'': 3, ''label'': 3}'
+      - '{''id'': 4, ''label'': 4}'
+      - '{''id'': 5, ''label'': 5}'
+      required: false
+    - id: 4
+      name: assessor_details
+      label: assessor_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: assessor_name
+      label: assessor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: assessor_email
+      label: assessor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: assessor_phone
+      label: assessor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: scba_serial_number
+      label: scba_serial_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: scba_model
+      label: scba_model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: scba_make
+      label: scba_make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: scba_year
+      label: scba_year
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: scba_year_made
+      label: scba_year_made
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: scba_status
+      label: scba_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: scba_last_inspection
+      label: scba_last_inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: scba_next_inspection_due
+      label: scba_next_inspection_due
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: scba_last_certified
+      label: scba_last_certified
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: scba_certified
+      label: scba_certified
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''certified''}'
+      - '{''id'': 2, ''label'': ''not_certified''}'
+      required: false
+    - id: 18
+      name: scba_certified_date
+      label: scba_certified_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: scba_last_location
+      label: scba_last_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: scba_last_location_address
+      label: scba_last_location_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: scba_last_location_city
+      label: scba_last_location_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: scba_last_location_state
+      label: scba_last_location_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: scba_last_location_zip
+      label: scba_last_location_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: scba_last_location_country
+      label: scba_last_location_country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: scba_last_location_geographic
+      label: scba_last_location_geographic
+      hint: null
+      type: text
+      options: []
+      required: false

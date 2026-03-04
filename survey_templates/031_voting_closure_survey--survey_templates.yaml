@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: Voting Closure Survey
+    pages:
+    - id: 1
+      name: page_1
+      label: What is your role in this project
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_2
+      label: How fair do you think the process was
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very unfair''}'
+      - '{''label'': ''Somewhat unfair''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Very fair''}'
+      required: false
+    - id: 3
+      name: page_3
+      label: How well did the organization meet your expectations
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Not well at all''}'
+      - '{''label'': ''Somewhat''}'
+      - '{''label'': ''Well''}'
+      - '{''label'': ''Very well''}'
+      required: true
+    - id: 4
+      name: page_4
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: page_5
+      label: How likely would you recommend our team to others
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not likely''}'
+      - '{''label'': ''Somewhat likely''}'
+      - '{''label'': ''Likely''}'
+      - '{''label'': ''Very likely''}'
+      required: true
+    - id: 6
+      name: page_6
+      label: What did you find most valuable about our team
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Communication''}'
+      - '{''label'': ''Timeliness''}'
+      - '{''label'': ''Teamwork''}'
+      - '{''label'': ''None of the above''}'
+      required: true
+    - id: 7
+      name: page_7
+      label: What did you find least valuable about our team
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Communication''}'
+      - '{''label'': ''Timeliness''}'
+      - '{''label'': ''Teamwork''}'
+      - '{''label'': ''None of the above''}'
+      required: true
+    - id: 8
+      name: page_8
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: page_9
+      label: What did you find most challenging about our team
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Communication''}'
+      - '{''label'': ''Timeliness''}'
+      - '{''label'': ''Teamwork''}'
+      - '{''label'': ''None of the above''}'
+      required: true
+    - id: 10
+      name: page_10
+      label: How likely do you feel our team has helped you
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very likely''}'
+      - '{''label'': ''Somewhat likely''}'
+      - '{''label'': ''Not likely''}'
+      - '{''label'': ''Very unlikely''}'
+      required: true
+    - id: 11
+      name: page_11
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: page_12
+      label: What could we improve on
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Communication''}'
+      - '{''label'': ''Timeliness''}'
+      - '{''label'': ''Teamwork''}'
+      - '{''label'': ''None of the above''}'
+      required: true
+    - id: 13
+      name: page_13
+      label: How much time do you have available for future projects
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: page_14
+      label: How much time did you spend
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: page_15
+      label: What is your role in this project
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: page_16
+      label: What did you think of our team's communication style
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: page_17
+      label: What time of the day do you like to work
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: page_18
+      label: What kind of projects do you like to work on
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: page_19
+      label: Do you have any additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: page_20
+      label: How likely do you want to participate in future projects
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very likely''}'
+      - '{''label'': ''Somewhat likely''}'
+      - '{''label'': ''Not likely''}'
+      - '{''label'': ''Very unlikely''}'
+      required: false
+    - id: 21
+      name: page_21
+      label: What kind of projects would you be interested in working on
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Small projects''}'
+      - '{''label'': ''Big projects''}'
+      - '{''label'': ''Projects with team members''}'
+      - '{''label'': ''Projects without team members''}'
+      required: false
+    - id: 22
+      name: page_22
+      label: What time of day is best suited for you
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: page_23
+      label: What kind of projects you prefer to work on
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: page_24
+      label: Do you have any feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: page_25
+      label: What kind of team structure
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Flat structure''}'
+      - '{''label'': ''Hierarchy structure''}'
+      - '{''label'': ''Hybrid structure''}'
+      - '{''label'': ''Other structure''}'
+      required: false

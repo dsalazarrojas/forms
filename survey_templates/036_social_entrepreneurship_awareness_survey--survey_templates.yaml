@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: social_entrepreneurship_awareness_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: awareness_level
+      label: awareness_level
+      hint: null
+      type: select_one
+      options:
+      - high
+      - medium
+      - low
+      required: false
+    - id: 3
+      name: entrepreneurship_type
+      label: entrepreneurship_type
+      hint: null
+      type: select_multiple
+      options:
+      - Social Enterprise
+      - Social Enterprise (SE) - Non-Profit
+      - Social Enterprise (SE) - For-Profit
+      required: false
+    - id: 4
+      name: engagement_level
+      label: engagement_level
+      hint: null
+      type: select_one
+      options:
+      - high
+      - medium
+      - low
+      required: false
+    - id: 5
+      name: current_programs
+      label: current_programs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: support_needed
+      label: support_needed
+      hint: null
+      type: select_multiple
+      options:
+      - Financial support
+      - Logistical support
+      - Mentorship
+      - Other
+      required: false
+    - id: 7
+      name: community_outreach
+      label: community_outreach
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: time_commitment
+      label: time_commitment
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 hour
+      - 1-2 hours
+      - 2-5 hours
+      - 5-10 hours
+      - More than 10 hours
+      required: false
+    - id: 9
+      name: survey_completion
+      label: survey_completion
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false

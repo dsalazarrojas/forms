@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: creative_planning_survey
+    pages:
+    - id: 1
+      name: creative_planning_survey
+      label: creative_planning_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: marketing_teams
+      label: marketing_teams
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: event_organizers
+      label: event_organizers
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: marketing_survey
+      label: marketing_survey
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_survey
+      label: time_survey
+      hint: null
+      type: time
+      options: []
+      required: false

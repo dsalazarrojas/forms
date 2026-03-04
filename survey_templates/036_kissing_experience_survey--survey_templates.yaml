@@ -1,0 +1,256 @@
+inputSchema:
+  type: object
+  properties:
+    title: kissing_experience_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: What is your current relationship status?
+      hint: null
+      type: select_one
+      options:
+      - single
+      - in_a_relationship
+      - complicated
+      required: true
+    - id: 2
+      name: relationship_length
+      label: How long have you been in a relationship?
+      hint: null
+      type: select_multiple
+      options:
+      - 1-2 months
+      - 3-6 months
+      - 6-12 months
+      - 1-2 years
+      - 2-5 years
+      - 5+ years
+      required: false
+    - id: 3
+      name: kissing_frequency
+      label: How often do you engage in kissing?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: comfort_level
+      label: What is your comfort level with kissing?
+      hint: null
+      type: select_multiple
+      options:
+      - 1 - 10
+      - 11 - 20
+      - 21 - 30
+      - 31 - 40
+      - 41 - 50
+      - more
+      required: true
+    - id: 5
+      name: preferred_kissing_style
+      label: What is your preferred kissing style?
+      hint: null
+      type: select_multiple
+      options:
+      - romantic
+      - friendly
+      - passionate
+      - sensual
+      required: false
+    - id: 6
+      name: kiss_on_the_cheek
+      label: Do you enjoy kissing on the cheek?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - occasionally
+      required: false
+    - id: 7
+      name: open_mouth
+      label: Do you prefer open-mouthed kissing?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - occasionally
+      required: false
+    - id: 8
+      name: tongue_in_the_mouth
+      label: Do you engage in tongue-in-mouth kissing?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - occasionally
+      required: false
+    - id: 9
+      name: duration_of_kiss
+      label: How long does your average kiss last?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: number_of_kisses
+      label: How many kisses do you give or receive per day?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: favorite_kissing_location
+      label: What is your favorite place to get kissed?
+      hint: null
+      type: select_multiple
+      options:
+      - at home
+      - in a public place
+      - on a beach
+      - on a mountaintop
+      required: false
+    - id: 12
+      name: favorite_kissing_time
+      label: What is your favorite time of day to get kissed?
+      hint: null
+      type: select_multiple
+      options:
+      - morning
+      - afternoon
+      - evening
+      - before bed
+      required: false
+    - id: 13
+      name: most_intimate_kiss
+      label: What is the most intimate kiss you've ever experienced?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: best_kiss
+      label: Can you describe the best kiss you've ever had?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: worst_kiss
+      label: Can you describe the worst kiss you've ever had?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: kiss_frequency_by_age_group
+      label: Do you think you kiss more often now than when you were younger?
+      hint: null
+      type: select_multiple
+      options:
+      - more often
+      - less often
+      - the same amount
+      required: false
+    - id: 17
+      name: kiss_frequency_by_relationship_length
+      label: Do you think you kiss more often now than when you were in your current
+        relationship?
+      hint: null
+      type: select_multiple
+      options:
+      - more often
+      - less often
+      - the same amount
+      required: false
+    - id: 18
+      name: comfort_level_by_relationship_length
+      label: Do you think your comfort level with kissing has changed since being
+        in your current relationship?
+      hint: null
+      type: select_multiple
+      options:
+      - more comfortable
+      - less comfortable
+      - the same
+      required: false
+    - id: 19
+      name: preferred_kissing_style_by_relationship_length
+      label: Do you think your preferred kissing style has changed since being in
+        your current relationship?
+      hint: null
+      type: select_multiple
+      options:
+      - more passionate
+      - less passionate
+      - the same
+      required: false
+    - id: 20
+      name: open_mouth_by_relationship_length
+      label: Do you think you engage in open-mouthed kissing more often now than when
+        you were in your previous relationships?
+      hint: null
+      type: select_multiple
+      options:
+      - more often
+      - less often
+      - the same
+      required: false
+    - id: 21
+      name: tongue_in_the_mouth_by_relationship_length
+      label: Do you think you engage in tongue-in-mouth kissing more often now than
+        when you were in your previous relationships?
+      hint: null
+      type: select_multiple
+      options:
+      - more often
+      - less often
+      - the same
+      required: false
+    - id: 22
+      name: kiss_on_the_cheek_by_relationship_length
+      label: Do you think you kiss on the cheek more often now than when you were
+        in your previous relationships?
+      hint: null
+      type: select_multiple
+      options:
+      - more often
+      - less often
+      - the same
+      required: false
+    - id: 23
+      name: average_kiss_duration
+      label: Do you think the average duration of your kisses has changed since being
+        in your current relationship?
+      hint: null
+      type: select_multiple
+      options:
+      - longer
+      - shorter
+      - the same
+      required: false
+    - id: 24
+      name: average_number_of_kisses
+      label: Do you think the average number of kisses you give or receive per day
+        has changed since being in your current relationship?
+      hint: null
+      type: select_multiple
+      options:
+      - more
+      - less
+      - the same
+      required: false
+    - id: 25
+      name: kiss_satisfaction
+      label: How often do you think you get kissed back?
+      hint: null
+      type: select_multiple
+      options:
+      - always
+      - often
+      - sometimes
+      - rarely
+      - never
+      required: false

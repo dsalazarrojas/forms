@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fish Farming Business Planning Survey
+    pages:
+    - id: 1
+      name: first_page
+      label: Page 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: business_address
+      label: Business Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: business_phone
+      label: Business Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: business_email
+      label: Business Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: aquaculture_info
+      label: Aquaculture Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: farm_production_info
+      label: Farm Production Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: production_methods
+      label: Production Methods
+      hint: null
+      type: select_one
+      options:
+      - Semi-Aquatic
+      - Aquaculture
+      - Hybrid
+      required: true
+    - id: 9
+      name: farm_production_methods
+      label: Farm Production Methods
+      hint: null
+      type: select_one
+      options:
+      - Semi-Aquatic
+      - Aquaculture
+      - Hybrid
+      required: true
+    - id: 10
+      name: production_system
+      label: Production System
+      hint: null
+      type: select_multiple
+      options:
+      - Aquaculture
+      - Semi-Aquatic
+      - Hybrid
+      required: false
+    - id: 11
+      name: farm_production_system
+      label: Farm Production System
+      hint: null
+      type: select_multiple
+      options:
+      - Aquaculture
+      - Semi-Aquatic
+      - Hybrid
+      required: false
+    - id: 12
+      name: feed
+      label: Feed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: feed_type
+      label: Feed Type
+      hint: null
+      type: select_multiple
+      options:
+      - Grain-based feed
+      - Algae-based feed
+      - Commercial feed
+      required: false
+    - id: 14
+      name: biosecurity
+      label: Biosecurity
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: farm_biosecurity
+      label: Farm Biosecurity
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: disease_management
+      label: Disease Management
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: farm_disease_management
+      label: Farm Disease Management
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: disease_control
+      label: Disease Control
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: farm_disease_control
+      label: Farm Disease Control
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: water_quality
+      label: Water Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 21
+      name: farm_water_quality
+      label: Farm Water Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 22
+      name: farm_size
+      label: Farm Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: farm_size_range
+      label: Farm Size Range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: farm_location
+      label: Farm Location
+      hint: null
+      type: text
+      options: []
+      required: false

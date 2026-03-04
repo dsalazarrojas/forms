@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: fair_work_laws_questionnaire
+    pages:
+    - id: 1
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - employed
+      - unemployed
+      - student
+      - other
+      required: false
+    - id: 2
+      name: work_type
+      label: work_type
+      hint: null
+      type: select_multiple
+      options:
+      - full-time
+      - part-time
+      - contract
+      - other
+      required: false
+    - id: 3
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: overtime_pay
+      label: Overtime Pay
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: breaks
+      label: Breaks
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: fair_pay
+      label: Fair Pay
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: safe_harbor
+      label: Safe Harbor
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: paid_vacation
+      label: Paid Vacation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: paid_sick_leave
+      label: Paid Sick Leave
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: workers_compensation
+      label: Workers Compensation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: minimum_wage
+      label: Minimum Wage
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: equal_pay
+      label: Equal Pay
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: paid_family_leave
+      label: Paid Family Leave
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: paid_family_leave_reasons
+      label: Paid Family Leave Reasons
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: fair_work_laws_familiarity
+      label: Fair Work Laws Familiarity
+      hint: null
+      type: select_one
+      options:
+      - familiar
+      - not_familiar
+      required: false
+    - id: 16
+      name: fair_work_laws_familiarity_reasons
+      label: Fair Work Laws Familiarity Reasons
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Satisfaction Survey Evaluation Form
+    pages:
+    - id: 1
+      name: volunteer_satisfaction
+      label: Volunteer Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_evaluation
+      label: Volunteer Evaluation
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - very_satisfied
+      - somewhat_satisfied
+      - somewhat_dissatisfied
+      - not_satisfied
+      required: false
+    - id: 3
+      name: volunteer_feedback
+      label: Volunteer Feedback
+      hint: Any other feedback about your experience
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: volunteer_recommend
+      label: Volunteer Recommend
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - 'True'
+      - 'False'
+      - maybe
+      required: false
+    - id: 5
+      name: volunteer_survey_completed
+      label: Volunteer Survey Completed
+      hint: null
+      type: date
+      options: []
+      required: false

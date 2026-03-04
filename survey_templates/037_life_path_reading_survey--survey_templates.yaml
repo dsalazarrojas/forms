@@ -1,0 +1,117 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Life Path Reading Survey
+    pages:
+    - id: 1
+      name: client_preferences
+      label: client_preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_details
+      label: client_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reading_preferences
+      label: reading_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Astrology
+      - Numerology
+      - Tarot
+      - Reiki
+      required: false
+    - id: 4
+      name: question1
+      label: What type of reading do you prefer?
+      hint: null
+      type: select_one
+      options:
+      - Astrology
+      - Numerology
+      - Tarot
+      - Reiki
+      required: false
+    - id: 5
+      name: question2
+      label: How would you like to receive the reading?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In-person
+      - Online
+      required: false
+    - id: 6
+      name: question3
+      label: How long would you like the reading to be?
+      hint: null
+      type: select_one
+      options:
+      - '30'
+      - '60'
+      - '90'
+      - '120'
+      required: false
+    - id: 7
+      name: question4
+      label: How often would you like to receive readings?
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 8
+      name: question5
+      label: How will you prefer to pay?
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      required: false
+    - id: 9
+      name: question6
+      label: Will you be available for a free consultation?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 10
+      name: question7
+      label: How would you like to be contacted for follow-up?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text
+      - Social Media
+      required: false

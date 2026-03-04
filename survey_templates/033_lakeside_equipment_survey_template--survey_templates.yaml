@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lakeside Equipment Survey Template
+    pages:
+    - id: 1
+      name: general_info
+      label: general_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_type
+      label: equipment_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Type 1''}'
+      - '{''id'': 2, ''value'': ''Type 2''}'
+      - '{''id'': 3, ''value'': ''Type 3''}'
+      required: false
+    - id: 3
+      name: photo_description
+      label: photo_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: photo_file
+      label: photo_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: condition_assessment
+      label: condition_assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: maintenance_needed
+      label: maintenance_needed
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''None''}'
+      - '{''id'': 2, ''value'': ''Low''}'
+      - '{''id'': 3, ''value'': ''High''}'
+      required: false
+    - id: 7
+      name: repair_cost
+      label: repair_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: purchase_date
+      label: purchase_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: last_service
+      label: last_service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: service_cost
+      label: service_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Chatjimmy''}'
+      - '{''id'': 2, ''value'': ''Another''}'
+      required: false
+    - id: 13
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''A''}'
+      - '{''id'': 2, ''value'': ''B''}'
+      - '{''id'': 3, ''value'': ''C''}'
+      required: false
+    - id: 14
+      name: equipment_count
+      label: equipment_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: serial_number
+      label: serial_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: model_number
+      label: model_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: equipment_condition
+      label: equipment_condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Good''}'
+      - '{''id'': 2, ''value'': ''Fair''}'
+      - '{''id'': 3, ''value'': ''Poor''}'
+      required: false
+    - id: 19
+      name: purchase_method
+      label: purchase_method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Lease''}'
+      - '{''id'': 2, ''value'': ''Own''}'
+      - '{''id'': 3, ''value'': ''Other''}'
+      required: false
+    - id: 20
+      name: purchase_date_range
+      label: purchase_date_range
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: warranty_start_date
+      label: warranty_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: warranty_end_date
+      label: warranty_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: warranty_period
+      label: warranty_period
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: uploaded_file
+      label: uploaded_file
+      hint: null
+      type: text
+      options: []
+      required: false

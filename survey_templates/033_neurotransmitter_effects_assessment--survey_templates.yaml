@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Neurotransmitter Effects Assessment
+    pages:
+    - id: 1
+      name: mood_scale
+      label: Mood Scale
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: stress_score
+      label: Stress Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: symptom_intensity
+      label: Symptom Intensity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: anxiety_level
+      label: Anxiety Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 5
+      name: fatigue_level
+      label: Fatigue Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 6
+      name: sleep_quality
+      label: Sleep Quality
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false

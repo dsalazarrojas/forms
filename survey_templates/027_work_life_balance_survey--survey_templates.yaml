@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Work Life Balance Survey
+    pages:
+    - id: 1
+      name: work_life_balance_survey_form
+      label: Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: work_life_balance_form_question_1
+      label: What time do you usually wake up?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: work_life_balance_form_question_2
+      label: What time do you usually go to bed?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: work_life_balance_form_question_3
+      label: What is your work schedule?
+      hint: null
+      type: select_one
+      options:
+      - 9:00 AM - 5:00 PM
+      - 10:00 AM - 6:00 PM
+      - 11:00 AM - 7:00 PM
+      required: false
+    - id: 5
+      name: work_life_balance_form_question_4
+      label: Do you have a work-life balance?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 6
+      name: work_life_balance_form_question_5
+      label: How satisfied are you with your work?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: work_life_balance_form_question_6
+      label: How often do you exercise?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: work_life_balance_form_question_7
+      label: Do you have a work-life balance?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 9
+      name: work_life_balance_form_question_8
+      label: How satisfied are you with your work?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: work_life_balance_form_question_9
+      label: How satisfied are you with your life?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: work_life_balance_form_question_10
+      label: Do you have a work-life balance?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false

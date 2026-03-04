@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports-club-mvp-voting-form
+    pages:
+    - id: 1
+      name: intro_page
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: player_name_field
+      label: player-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: position_field
+      label: position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: rating_field
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: vote_page
+      label: vote
+      hint: null
+      type: select_multiple
+      options:
+      - Team A
+      - Team B
+      - Team C
+      required: true
+    - id: 6
+      name: comment_field
+      label: comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feedback_field
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false

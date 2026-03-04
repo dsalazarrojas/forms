@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: General Survey Template
+    pages:
+    - id: 1
+      name: general_survey_template
+      label: General Survey Template
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: survey_templates
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Market Research''}'
+      - '{''value'': ''Customer Feedback''}'
+      required: false
+    - id: 3
+      name: description
+      label: survey_template_description
+      hint: A General Survey Template is a form template designed to streamline data
+        collection.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: output_file
+      label: output_file
+      hint: 040_general_survey_template--survey_templates.yaml
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: assigned_tool
+      hint: chatjimmy
+      type: select_one
+      options:
+      - '{''value'': ''chatjimmy''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 6
+      name: form_ids
+      label: form_ids
+      hint: 387
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: description_short
+      label: description_short
+      hint: Enhance your data analysis and decision-making today!
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: category_long
+      label: category_long
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: description_long
+      label: description_long
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: time_spent_manual_input
+      label: time_spent_manual_input
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: description_manual_input
+      label: description_manual_input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: time_spent_survey_process
+      label: time_spent_survey_process
+      hint: null
+      type: number
+      options: []
+      required: false

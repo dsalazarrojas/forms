@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audio Feedback Test Request Form
+    pages:
+    - id: 1
+      name: section_requestor
+      label: -- Requestor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_full_name
+      label: Requester Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department_org
+      label: Department or Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: section_test_location
+      label: -- Test Environment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: test_location_address
+      label: Venue or Test Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: type_of_space
+      label: Type of Space
+      hint: null
+      type: select_one
+      options:
+      - Concert Hall or Theater
+      - Recording Studio
+      - Open Plan Office
+      - Classroom or Lecture Hall
+      - Outdoor Venue
+      - Industrial Space
+      required: true
+    - id: 8
+      name: section_test_goals
+      label: -- Test Objectives --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: test_objectives
+      label: Specific Test Goals
+      hint: what are you trying to measure?
+      type: select_multiple
+      options:
+      - Feedback Suppression
+      - Acoustic Response
+      - Speaker Coverage
+      - Background Noise Level
+      - Speech Intelligibility (STI)
+      - Reverberation Time (RT60)
+      required: true
+    - id: 10
+      name: frequency_range
+      label: Frequency Range of Interest
+      hint: null
+      type: select_one
+      options:
+      - Full Range (20Hz - 20kHz)
+      - Speech Range (100Hz - 8kHz)
+      - Low Frequency (Subwoofer test)
+      - High Frequency (Tweeter test)
+      required: true
+    - id: 11
+      name: previous_results
+      label: Are previous test results available for this location?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: section_scheduling
+      label: -- Scheduling --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: preferred_test_date
+      label: Preferred Test Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: test_duration_estimate
+      label: Estimated Time Required (Hours)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: site_access_notes
+      label: Site Access and Security Notes
+      hint: Gate codes, parking info, etc.
+      type: text
+      options: []
+      required: false

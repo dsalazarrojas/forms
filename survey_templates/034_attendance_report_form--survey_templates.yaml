@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Attendance Report Form
+    pages:
+    - id: 1
+      name: report_information
+      label: -- Report Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reporting_period
+      label: Reporting Period
+      hint: Start and end dates covered
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: report_date
+      label: Report Date
+      hint: Date the report was generated
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: report_prepared_by
+      label: Report Prepared By
+      hint: Name of person preparing report
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_department
+      label: -- Organization/Department --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: department_name
+      label: Department Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: class_group_name
+      label: Class or Group Name
+      hint: Which group is this report for?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: instructor_supervisor
+      label: Instructor or Supervisor
+      hint: Person responsible for group
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: attendance_statistics
+      label: -- Attendance Statistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: total_members
+      label: Total Members
+      hint: Total count in group
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: total_present
+      label: Total Present
+      hint: Number of attendees
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: total_absent
+      label: Total Absent
+      hint: Number of absences
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: total_late
+      label: Total Late
+      hint: Number of late arrivals
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: attendance_rate
+      label: Attendance Rate Percentage
+      hint: Overall percentage
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: absent_members
+      label: -- Absent Members --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: absent_list
+      label: List of Absent Members
+      hint: Names and reasons for absence
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: excused_vs_unexcused
+      label: Excused vs Unexcused Absences
+      hint: Breakdown of absence types
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: trends_analysis
+      label: -- Trends and Analysis --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: attendance_trend
+      label: Attendance Trend
+      hint: Is attendance improving or declining?
+      type: select_one
+      options:
+      - Improving
+      - Declining
+      - Stable
+      - Fluctuating
+      required: false
+    - id: 21
+      name: notable_patterns
+      label: Notable Patterns
+      hint: Any patterns in attendance?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: concerns_recommendations
+      label: -- Concerns and Recommendations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: attendance_concerns
+      label: Attendance Concerns
+      hint: Any concerns about participation?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: recommendations
+      label: Recommendations
+      hint: Suggested improvements or actions
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: report_status
+      label: Report Status
+      hint: Is this final or draft?
+      type: select_one
+      options:
+      - Draft
+      - Final
+      - Pending Review
+      required: true

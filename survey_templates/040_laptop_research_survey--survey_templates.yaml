@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Laptop Research Survey
+    pages:
+    - id: 1
+      name: survey_laptop_usage
+      label: laptop usage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: survey_laptop_preferences
+      label: laptop preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: survey_laptop_brand
+      label: laptop brand
+      hint: null
+      type: select_one
+      options:
+      - hp
+      - dell
+      - apple
+      required: false
+    - id: 4
+      name: survey_laptop_purchase_year
+      label: purchase year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: survey_laptop_usage_frequency
+      label: usage frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: survey_laptop_satisfaction
+      label: satisfaction
+      hint: null
+      type: select_one
+      options:
+      - very satisfied
+      - satisfied
+      - neutral
+      - dissatisfied
+      - very dissatisfied
+      required: false
+    - id: 7
+      name: survey_laptop_purchase_price
+      label: purchase price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: survey_laptop_recommended
+      label: recommended
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - undecided
+      required: false

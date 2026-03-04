@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Resource Collaboration Feedback Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: resource_name
+      label: resource_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rating_scale
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Poor''}'
+      required: false
+    - id: 4
+      name: resource_outcome
+      label: resource_outcome
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Highly''}'
+      - '{''value'': ''Moderately''}'
+      - '{''value'': ''Not''}'
+      - '{''value'': ''Very''}'
+      required: false
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false

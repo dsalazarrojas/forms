@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Extracurricular Activities Parent Feedback Survey
+    pages:
+    - id: 1
+      name: parent_info
+      label: Parent Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_info
+      label: Student Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: activity_info
+      label: Activity Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback_on_clubs
+      label: Feedback On Clubs
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 101, ''label'': ''Very Good''}'
+      - '{''id'': 102, ''label'': ''Good''}'
+      - '{''id'': 103, ''label'': ''Fair''}'
+      - '{''id'': 104, ''label'': ''Poor''}'
+      required: false
+    - id: 5
+      name: feedback_on_programs
+      label: Feedback On Programs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 201, ''label'': ''Very Good''}'
+      - '{''id'': 202, ''label'': ''Good''}'
+      - '{''id'': 203, ''label'': ''Fair''}'
+      - '{''id'': 204, ''label'': ''Poor''}'
+      required: false
+    - id: 6
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: time_preferences
+      label: Time Preferences
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: date_preferences
+      label: Date Preferences
+      hint: null
+      type: date
+      options: []
+      required: false

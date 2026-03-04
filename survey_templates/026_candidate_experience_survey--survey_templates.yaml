@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Candidate Experience Survey
+    pages:
+    - id: 1
+      name: application_process_section
+      label: -- Application Process --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applied_position_name
+      label: Position Applied For
+      hint: What role did you interview for
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: main_recruiter_name
+      label: Recruiter Name
+      hint: Who was your primary contact
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: overall_hiring_experience
+      label: Overall experience with our hiring process
+      hint: General rating of the journey
+      type: select_one
+      options:
+      - Poor
+      - Average
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 5
+      name: ease_of_application
+      label: Ease of applying for the position
+      hint: How was the initial application form
+      type: select_one
+      options:
+      - Very Difficult
+      - Difficult
+      - Neutral
+      - Easy
+      - Very Easy
+      required: true
+    - id: 6
+      name: job_posting_source
+      label: Where did you find the job posting
+      hint: null
+      type: select_one
+      options:
+      - LinkedIn
+      - Indeed
+      - Company Website
+      - Employee Referral
+      - Recruitment Agency
+      - Other
+      required: true
+    - id: 7
+      name: communication_section
+      label: -- Recruitment Communication --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: role_info_clarity
+      label: Clarity of information provided about the role
+      hint: Did we explain the job well
+      type: select_one
+      options:
+      - Very Poor
+      - Poor
+      - Average
+      - Good
+      - Excellent
+      required: true
+    - id: 9
+      name: communication_timeliness
+      label: Timeliness of communication from the recruiter
+      hint: How was our response time
+      type: select_one
+      options:
+      - Very Poor
+      - Poor
+      - Average
+      - Good
+      - Excellent
+      required: true
+    - id: 10
+      name: informed_status
+      label: Did you feel well-informed throughout the process
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Neutral
+      required: true
+    - id: 11
+      name: interview_exp_section
+      label: -- Interview Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: interviewer_professionalism
+      label: Professionalism of the interviewers
+      hint: null
+      type: select_one
+      options:
+      - Very Poor
+      - Poor
+      - Average
+      - Good
+      - Excellent
+      required: true
+    - id: 13
+      name: question_relevance
+      label: Relevance of the interview questions
+      hint: Did the questions match the job requirements
+      type: select_one
+      options:
+      - Very Poor
+      - Poor
+      - Average
+      - Good
+      - Excellent
+      required: true
+    - id: 14
+      name: interview_comfort_level
+      label: Comfort during the interview process
+      hint: Did you feel at ease during the discussion
+      type: select_one
+      options:
+      - Very Uncomfortable
+      - Uncomfortable
+      - Neutral
+      - Comfortable
+      - Very Comfortable
+      required: true
+    - id: 15
+      name: general_feedback_section
+      label: -- General Feedback --
+      hint: Tell us more
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: hiring_process_improvement
+      label: One thing we could improve in our hiring process
+      hint: Share an idea for growth
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: experience_highlight
+      label: One thing you liked most about your experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: referral_likelihood_score
+      label: Likelihood of recommending our company to others
+      hint: 1 to 10 scale
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: apply_again_interest
+      label: Would you consider applying to us again in the future
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Undecided
+      required: true
+    - id: 20
+      name: feedback_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

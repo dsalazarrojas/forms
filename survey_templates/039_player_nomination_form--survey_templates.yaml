@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Player Nomination Form
+    pages:
+    - id: 1
+      name: team_name
+      label: team_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: player_name
+      label: player_name
+      hint: Player's Name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: position
+      label: position
+      hint: null
+      type: select_multiple
+      options:
+      - Defensive Line
+      - Defensive Back
+      - Defensive Lineman
+      - Quarterback
+      - Kicker
+      required: true
+    - id: 4
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: player_nomination
+      label: player_nomination
+      hint: null
+      type: select_one
+      options:
+      - Nominate a player
+      - Denote a player
+      - Nominate and Denote a player
+      required: true
+    - id: 9
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: category
+      label: category
+      hint: null
+      type: text
+      options: []
+      required: false

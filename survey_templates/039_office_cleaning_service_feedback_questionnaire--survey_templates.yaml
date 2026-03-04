@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Office Cleaning Service Feedback Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: cleaning_service
+      label: How often do you get the office cleaning service?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: cleaning_service_quality
+      label: How do you rate the quality of the office cleaning service?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 4
+      name: satisfaction
+      label: How satisfied are you with the office cleaning service?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      required: true
+    - id: 5
+      name: communication
+      label: How often do you get updates about the office cleaning schedule?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: feedback
+      label: Do you have any feedback about the office cleaning service?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

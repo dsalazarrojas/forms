@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports_nutrition_education_awareness_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: demographic_details
+      label: demographic_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: survey_background
+      label: survey_background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: nutrition_knowledge
+      label: nutrition_knowledge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: education_level
+      label: education_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false

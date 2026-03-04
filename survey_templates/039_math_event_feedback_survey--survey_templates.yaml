@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Math Event Feedback Survey
+    pages:
+    - id: 1
+      name: event_date
+      label: What date did the event take place?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: event_title
+      label: Event Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_outcome
+      label: Event Outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback_score
+      label: Feedback Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: feedback_text
+      label: Feedback Text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''User 1''}'
+      - '{''id'': 2, ''name'': ''User 2''}'
+      - '{''id'': 3, ''name'': ''User 3''}'
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Tool 1''}'
+      - '{''id'': 2, ''name'': ''Tool 2''}'
+      - '{''id'': 3, ''name'': ''Tool 3''}'
+      required: false

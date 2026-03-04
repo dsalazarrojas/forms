@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medication Adherence Motivation Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_identifier
+      label: Patient Identifier
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medication_regimen
+      label: Medication Regimen
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medication_dosage
+      label: Medication Dosage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: motivation_for_adherence
+      label: Motivation for Adherence
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 7
+      name: reasons_for_non_adherence
+      label: Reasons for Non-Adherence
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Forgetfulness''}'
+      - '{''label'': ''Cost''}'
+      - '{''label'': ''Lack of Motivation''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 8
+      name: healthcare_provider_identifier
+      label: Healthcare Provider Identifier
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_relationship_with_provider
+      label: Patient Relationship with Provider
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Strong''}'
+      - '{''label'': ''Weak''}'
+      - '{''label'': ''None''}'
+      required: false
+    - id: 10
+      name: patient_satisfaction
+      label: Patient Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: provider_satisfaction
+      label: Provider Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: adherence_level
+      label: Adherence Level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 13
+      name: followup_suggestions
+      label: Followup Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: provider_comments
+      label: Provider Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: patient_comments
+      label: Patient Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: patient_contact
+      label: Patient Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: healthcare_provider_contact
+      label: Healthcare Provider Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: survey_completion_date
+      label: Survey Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: survey_completion_time
+      label: Survey Completion Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Patient''}'
+      - '{''label'': ''Provider''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 21
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: survey_id
+      label: Survey ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: jotform_id
+      label: Jotform ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by_full_name
+      label: Submitted By Full Name
+      hint: null
+      type: text
+      options: []
+      required: false

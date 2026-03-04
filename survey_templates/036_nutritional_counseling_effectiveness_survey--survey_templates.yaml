@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nutritional Counseling Effectiveness Survey
+    pages:
+    - id: 1
+      name: form_title
+      label: Nutritional Counseling Effectiveness Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Survey Templates
+      - Other
+      required: false
+    - id: 4
+      name: form_category_id
+      label: Category ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false

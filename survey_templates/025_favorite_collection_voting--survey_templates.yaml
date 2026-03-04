@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Favorite Collection Voting
+    pages:
+    - id: 1
+      name: contest_id
+      label: Contest Id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: favorite_participants
+      label: Favorite Participants
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: votes
+      label: Votes
+      hint: null
+      type: number
+      options: []
+      required: false

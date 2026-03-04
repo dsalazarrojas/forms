@@ -1,0 +1,80 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Natural Overlay Feedback Form
+    pages:
+    - id: 1
+      name: device_used
+      label: device_used
+      hint: null
+      type: select_one
+      options:
+      - Android
+      - iOS
+      - Other
+      required: false
+    - id: 2
+      name: feedback_type
+      label: feedback_type
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      required: false
+    - id: 3
+      name: issue_encountered
+      label: issue_encountered
+      hint: null
+      type: select_multiple
+      options:
+      - Product
+      - UX
+      - Support
+      required: false
+    - id: 4
+      name: issue_description
+      label: issue_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: natural_overlay
+      label: natural_overlay
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: issue_screenshots
+      label: issue_screenshots
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false

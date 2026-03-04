@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gas Mixtures And Chemical Equilibrium Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: gas_mixtures_and_chemical_equilibrium_survey
+      label: Gas Mixtures And Chemical Equilibrium
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: questions
+      label: Questions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: gas_phase_equilibrium
+      label: Gas Phase Equilibrium
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: gas_mixture
+      label: Gas Mixture
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,247 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Call Center Employee Employment Stress Survey
+    pages:
+      - id: 1
+        name: respondent_header
+        label: -- Employee Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: employee_name
+        label: Employee Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: employee_id
+        label: Employee ID
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: department
+        label: Department
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: tenure
+        label: How Long Have You Worked Here?
+        hint: null
+        type: select_one
+        options:
+          - "Less than 3 months"
+          - "3-6 months"
+          - "6-12 months"
+          - "1-2 years"
+          - "2-5 years"
+          - "More than 5 years"
+        required: true
+      - id: 6
+        name: workload_header
+        label: -- Workload Assessment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: workload_level
+        label: How Would You Rate Your Current Workload?
+        hint: null
+        type: select_one
+        options:
+          - "Far too light"
+          - "Light"
+          - "Moderate"
+          - "Heavy"
+          - "Far too heavy"
+        required: true
+      - id: 8
+        name: call_volume_stress
+        label: Does Call Volume Cause You Stress?
+        hint: null
+        type: select_one
+        options:
+          - "Not at all"
+          - "Slightly"
+          - "Moderately"
+          - "Significantly"
+          - "Extremely"
+        required: true
+      - id: 9
+        name: time_pressure
+        label: Do You Feel Time Pressure During Your Shift?
+        hint: null
+        type: select_one
+        options:
+          - "Never"
+          - "Rarely"
+          - "Sometimes"
+          - "Often"
+          - "Always"
+        required: true
+      - id: 10
+        name: job_satisfaction_header
+        label: -- Job Satisfaction --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: job_satisfaction
+        label: Overall Job Satisfaction
+        hint: null
+        type: select_one
+        options:
+          - "Very satisfied"
+          - "Satisfied"
+          - "Neutral"
+          - "Dissatisfied"
+          - "Very dissatisfied"
+        required: true
+      - id: 12
+        name: role_satisfaction
+        label: I Feel Fulfilled in My Role
+        hint: null
+        type: select_one
+        options:
+          - "Strongly agree"
+          - "Agree"
+          - "Neutral"
+          - "Disagree"
+          - "Strongly disagree"
+        required: true
+      - id: 13
+        name: stress_header
+        label: -- Stress and Well-being --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: stress_level
+        label: What Is Your Current Stress Level?
+        hint: null
+        type: select_one
+        options:
+          - "Very low"
+          - "Low"
+          - "Moderate"
+          - "High"
+          - "Very high"
+        required: true
+      - id: 15
+        name: physical_fatigue
+        label: Do You Experience Physical Fatigue?
+        hint: null
+        type: select_one
+        options:
+          - "Never"
+          - "Rarely"
+          - "Sometimes"
+          - "Often"
+          - "Always"
+        required: true
+      - id: 16
+        name: emotional_exhaustion
+        label: Do You Experience Emotional Exhaustion?
+        hint: null
+        type: select_one
+        options:
+          - "Never"
+          - "Rarely"
+          - "Sometimes"
+          - "Often"
+          - "Always"
+        required: true
+      - id: 17
+        name: support_header
+        label: -- Management and Support --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: manager_support
+        label: Do You Feel Supported by Your Manager?
+        hint: null
+        type: select_one
+        options:
+          - "Strongly agree"
+          - "Agree"
+          - "Neutral"
+          - "Disagree"
+          - "Strongly disagree"
+        required: true
+      - id: 19
+        name: team_support
+        label: Do Your Teammates Support You?
+        hint: null
+        type: select_one
+        options:
+          - "Strongly agree"
+          - "Agree"
+          - "Neutral"
+          - "Disagree"
+          - "Strongly disagree"
+        required: true
+      - id: 20
+        name: training_resources
+        label: Do You Have Adequate Training and Resources?
+        hint: null
+        type: select_one
+        options:
+          - "Strongly agree"
+          - "Agree"
+          - "Neutral"
+          - "Disagree"
+          - "Strongly disagree"
+        required: true
+      - id: 21
+        name: stressors_header
+        label: -- Main Stressors --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: main_stressors
+        label: What Are Your Main Stressors? (Select all that apply)
+        hint: null
+        type: select_multiple
+        options:
+          - "High call volume"
+          - "Difficult customers"
+          - "Unrealistic targets"
+          - "Lack of support"
+          - "Technical issues"
+          - "Work-life balance"
+          - "Career advancement concerns"
+          - "Compensation"
+          - "Other"
+        required: true
+      - id: 23
+        name: suggestions
+        label: Suggestions for Reducing Stress
+        hint: null
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Project Topic Submission Form
+    pages:
+    - id: 1
+      name: global_project_topic_submission_form_page_1
+      label: form_page_1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: proposal_information_page
+      label: proposal_information
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''option_1''}'
+      - '{''id'': 2, ''name'': ''option_2''}'
+      required: false
+    - id: 3
+      name: organization
+      label: organization
+      hint: Please provide the name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: proposal_details
+      label: proposal_details
+      hint: Please provide a detailed description of your proposal
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''active''}'
+      - '{''id'': 2, ''name'': ''not_active''}'
+      - '{''id'': 3, ''name'': ''pending''}'
+      - '{''id'': 4, ''name'': ''canceled''}'
+      required: false
+    - id: 9
+      name: deadline
+      label: deadline
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''low''}'
+      - '{''id'': 2, ''name'': ''high''}'
+      - '{''id'': 3, ''name'': ''medium''}'
+      required: true

@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Needs Assessment Survey
+    pages:
+    - id: 1
+      name: volunteer_needs_assessment_survey
+      label: Volunteer Needs Assessment Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_availability
+      label: volunteer_availability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: volunteer_role_interests
+      label: volunteer_role_interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: volunteer_support_feedback
+      label: volunteer_support_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: volunteer_support_feedback
+      label: volunteer_support_feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: volunteer_availability
+      label: volunteer_availability
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: volunteer_needs_assessment_survey
+      label: Volunteer Needs Assessment Survey
+      hint: null
+      type: select_one
+      options:
+      - Volunteer Needs Assessment 1
+      - Volunteer Needs Assessment 2
+      - Volunteer Needs Assessment 3
+      required: false
+    - id: 8
+      name: volunteer_training_placement
+      label: volunteer_training_placement
+      hint: null
+      type: select_multiple
+      options:
+      - Training 1
+      - Training 2
+      - Training 3
+      required: false

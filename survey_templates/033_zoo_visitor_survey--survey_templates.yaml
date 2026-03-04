@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Zoo Visitor Survey
+    pages:
+    - id: 1
+      name: zoo_visitor_survey
+      label: zoo_visitor_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: favorite_animal
+      label: favorite_animal
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: zoo_staff_service
+      label: zoo_staff_service
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: favorite_section
+      label: favorite_section
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: date_visit
+      label: date_visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_visit
+      label: time_visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: feedback_message
+      label: feedback_message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

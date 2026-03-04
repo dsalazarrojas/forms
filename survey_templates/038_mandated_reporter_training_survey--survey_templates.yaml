@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: mandated_reporter_training_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: survey_participant_info
+      label: survey_participant_info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: training_experience
+      label: Training Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback_comments
+      label: Feedback Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: confidence_rating
+      label: Confidence Rating
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 6
+      name: participant_rating
+      label: Participant Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: comments_rating
+      label: Comments
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: trainer_comments
+      label: Trainer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: participant_job_title
+      label: Participant Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: training_location
+      label: Training Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: date_of_training
+      label: Date of Training
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: participant_employed
+      label: Participant Employed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: participant_school
+      label: Participant School
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: participant_nonprofit
+      label: Participant Non-Profit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: participant_care_team
+      label: Participant Care Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: participant_other
+      label: Participant Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: trainer_name
+      label: Trainer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: trainer_title
+      label: Trainer Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: trainer_phone
+      label: Trainer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: trainer_email
+      label: Trainer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: training_provider
+      label: Training Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

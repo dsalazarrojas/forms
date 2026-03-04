@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: trade_show_floor_layout_feedback_questionnaire
+    pages:
+    - id: 1
+      name: trade_show_layout_feedback
+      label: Trade Show Feedback
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_name
+      label: Contact Name
+      hint: Please enter your name.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: booth_number
+      label: Booth Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: product_type
+      label: Product Type
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: Please enter your comments here.
+      type: text
+      options: []
+      required: false

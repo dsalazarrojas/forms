@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Center Closure Feedback
+    pages:
+    - id: 1
+      name: feedback_question_1
+      label: What was the impact of the closure on your workouts?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 2
+      name: communication_quality_1
+      label: How would you rate the communication quality from the gym about the closure?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 3
+      name: intent_to_return_1
+      label: Intent to return after the gym reopens?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 4
+      name: comment_1
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email_1
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number_1
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false

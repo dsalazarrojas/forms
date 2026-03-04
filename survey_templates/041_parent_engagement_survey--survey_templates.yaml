@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parent Engagement Survey
+    pages:
+    - id: 1
+      name: parent_engagement_survey
+      label: school_involvement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: teacher_support
+      label: teacher_support
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: communication
+      label: parent_school_communication
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: parent_educational_goal
+      label: educational_goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: survey_length
+      label: survey_length
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: school_climate
+      label: school_climate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: parent_involvement
+      label: parent_involvement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: parent_attendance
+      label: parent_attendance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: parent_participation
+      label: parent_participation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: parent_education_level
+      label: educational_background
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: parent_involvement_frequency
+      label: parent_involvement_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: parent_survey_length
+      label: survey_length
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: parent_survey_frequency
+      label: survey_frequency
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: parent_communication_frequency
+      label: parent_communication
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: parent_climate
+      label: climate
+      hint: null
+      type: text
+      options: []
+      required: false

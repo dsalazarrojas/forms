@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website User Acceptance Testing Feedback Form
+    pages:
+    - id: 1
+      name: website_usability
+      label: Website Usability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: bugs
+      label: Bugs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: website_usability_rating
+      label: Website Usability Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: website_usability_rating_value
+      label: Website Usability Rating Value
+      hint: null
+      type: select_one
+      options:
+      - 1-5
+      - 6-10
+      required: true
+    - id: 6
+      name: bugs_rating
+      label: Bugs Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: bugs_rating_value
+      label: Bugs Rating Value
+      hint: null
+      type: select_one
+      options:
+      - 1-5
+      - 6-10
+      required: true
+    - id: 8
+      name: satisfaction_rating
+      label: Satisfaction Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: satisfaction_rating_value
+      label: Satisfaction Rating Value
+      hint: null
+      type: select_one
+      options:
+      - 1-5
+      - 6-10
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: Please provide any additional feedback
+      type: text
+      options: []
+      required: false

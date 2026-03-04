@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: customer_follow_through_call
+    pages:
+    - id: 1
+      name: customer_follow_through_call_page
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_follow_through_call_page2
+      label: Follow Through
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: customer_follow_through_call_page3
+      label: Customer Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_follow_through_call_page4
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_follow_through_call_page5
+      label: Resolution Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: customer_follow_through_call_page6
+      label: Customer Follow Through Call
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: customer_follow_through_call_page7
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false

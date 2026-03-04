@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_market_assessment_form
+    pages:
+    - id: 1
+      name: property_type
+      label: What type of property
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: market_condition
+      label: market_condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: property_age
+      label: property_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: property_status
+      label: property_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: property_price
+      label: property_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: property_price_range
+      label: property_price_range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: property_area
+      label: property_area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assessment_date
+      label: assessment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: assessment_time
+      label: assessment_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: seller_contact
+      label: seller_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: buyer_contact
+      label: buyer_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: investor_contact
+      label: investor_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: other_contacts
+      label: other_contacts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: assessment_comments
+      label: assessment_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_actions
+      label: follow_up_actions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_time
+      label: follow_up_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_status
+      label: follow_up_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 24
+      name: follow_up_notes
+      label: follow_up_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_contacts
+      label: follow_up_contacts
+      hint: null
+      type: text
+      options: []
+      required: false

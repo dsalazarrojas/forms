@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Collaboration Tool Feedback Evaluation Form
+    pages:
+    - id: 1
+      name: digital_collaboration_tool_feedback_evaluation_form_page_1
+      label: What is the name of the digital collaboration tool?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: collaboration_tool_user_experience_rating
+      label: How would you rate your experience with the tool?
+      hint: On a scale of 1 to 5
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: features_of_collaboration_tool_used
+      label: What features of the collaboration tool do you use most frequently?
+      hint: null
+      type: select_multiple
+      options:
+      - Communication
+      - Organization
+      - Task Management
+      - File Sharing
+      - Project Management
+      required: false
+    - id: 4
+      name: collaboration_tool_features_rating
+      label: How would you rate the features of the tool?
+      hint: On a scale of 1 to 5
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: user_satisfaction_with_collaboration_tool
+      label: How satisfied are you with the tool?
+      hint: On a scale of 1 to 5
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: collaboration_tool_improvement_areas
+      label: What areas of improvement for the tool do you think are most important?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_comments_about_collaboration_tool
+      label: Do you have any additional comments about the collaboration tool?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

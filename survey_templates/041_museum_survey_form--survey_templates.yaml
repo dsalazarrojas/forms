@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Museum Survey Form
+    pages:
+    - id: 1
+      name: visitor_info
+      label: Visitor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: visited_times
+      label: Visited Times
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: questions_about_museum
+      label: Questions About The Museum
+      hint: null
+      type: select_multiple
+      options:
+      - What is the main reason you come to our museum?
+      - Are you a repeat visitor?
+      - Do you plan on visiting other museums in the area?
+      required: false

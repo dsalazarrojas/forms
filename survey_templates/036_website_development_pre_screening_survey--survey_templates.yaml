@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Development Pre Screening Survey
+    pages:
+    - id: 1
+      name: project_goals
+      label: Project Goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: project_timeline
+      label: Project Timeline
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: project_priority
+      label: Project Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 5
+      name: project_location
+      label: Project Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: website_type
+      label: Website Type
+      hint: null
+      type: select_multiple
+      options:
+      - E-commerce
+      - Blog
+      - Brochure
+      - Portfolio
+      - Other
+      required: true
+    - id: 8
+      name: lead_capture
+      label: Lead Capture
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Social Media
+      required: true
+    - id: 9
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Started
+      - Not Started
+      - Postponed
+      required: true
+    - id: 10
+      name: project_status_notes
+      label: Project Status Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: lead_source
+      label: Lead Source
+      hint: null
+      type: select_multiple
+      options:
+      - Agency
+      - Referral
+      - Online Ad
+      required: true
+    - id: 12
+      name: project_notes
+      label: Project Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: developer_name
+      label: Developer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: developer_email
+      label: Developer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: developer_phone
+      label: Developer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: developer_notes
+      label: Developer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: agency_name
+      label: Agency Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: agency_email
+      label: Agency Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: agency_phone
+      label: Agency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: agency_notes
+      label: Agency Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: budgeted_hours
+      label: Budgeted Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: expected_launch_date
+      label: Expected Launch Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: project_url
+      label: Project URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: project_status_update
+      label: Project Status Update
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: project_update_notes
+      label: Project Update Notes
+      hint: null
+      type: text
+      options: []
+      required: false

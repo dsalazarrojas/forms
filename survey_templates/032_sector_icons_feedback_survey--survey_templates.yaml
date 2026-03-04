@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: sector_icons_feedback_survey
+    pages:
+    - id: 1
+      name: user_feedback
+      label: What do you think about these icons?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: icon_design
+      label: How would you describe this icons design
+      hint: null
+      type: select_multiple
+      options:
+      - icon_clear_and_simple
+      - icon_colorful_and_complicated
+      - icon_simple_and_clear
+      required: false
+    - id: 3
+      name: icon_effectiveness
+      label: How effective do you think this icon is in its current state
+      hint: null
+      type: select_one
+      options:
+      - very_effective
+      - somewhat_effective
+      - not_effective
+      required: false
+    - id: 4
+      name: icon_usefulness
+      label: How useful do you think this icon will be
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: icon_usability
+      label: How easy or hard do you think this icon is to use
+      hint: null
+      type: select_one
+      options:
+      - very_easy
+      - somewhat_easy
+      - very_hard
+      - not_easy_or_hard
+      required: true
+    - id: 6
+      name: feedback
+      label: Additional feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false

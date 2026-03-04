@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Visitor Survey
+    pages:
+    - id: 1
+      name: event_visitor_survey
+      label: Event Visitor Survey
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Event Visitor Survey''}'
+      - '{''text'': ''Event Feedback Form''}'
+      - '{''text'': ''Feedback Form''}'
+      - '{''text'': ''Visitor Survey''}'
+      - '{''text'': ''Event Survey''}'
+      required: true
+    - id: 2
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: event_id
+      label: Event ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: attended_with
+      label: Attended with
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Attended alone''}'
+      - '{''value'': ''Attended with friends''}'
+      - '{''value'': ''Attended with family''}'
+      - '{''value'': ''Attended with colleagues''}'
+      required: true
+    - id: 6
+      name: attended_before
+      label: Attended before
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Never''}'
+      - '{''value'': ''1-2 times''}'
+      - '{''value'': ''3-5 times''}'
+      - '{''value'': ''6-10 times''}'
+      - '{''value'': ''More than 10 times''}'
+      required: true
+    - id: 7
+      name: rated
+      label: Rated
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Very satisfied''}'
+      - '{''value'': ''Somewhat satisfied''}'
+      - '{''value'': ''Neither satisfied nor dissatisfied''}'
+      - '{''value'': ''Somewhat dissatisfied''}'
+      - '{''value'': ''Very dissatisfied''}'
+      required: true
+    - id: 8
+      name: rated_why
+      label: Rated why
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: event_type
+      label: Event type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Online event''}'
+      - '{''value'': ''In person event''}'
+      required: true
+    - id: 10
+      name: visited_from
+      label: Visited from
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Online''}'
+      - '{''value'': ''Social media''}'
+      - '{''value'': ''Email''}'
+      - '{''value'': ''Offline promotion''}'
+      required: true
+    - id: 11
+      name: visited_before
+      label: Visited before
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Never''}'
+      - '{''value'': ''1-2 times''}'
+      - '{''value'': ''3-5 times''}'
+      - '{''value'': ''6-10 times''}'
+      - '{''value'': ''More than 10 times''}'
+      required: true
+    - id: 12
+      name: attended_with
+      label: Attended with
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Attended alone''}'
+      - '{''value'': ''Attended with friends''}'
+      - '{''value'': ''Attended with family''}'
+      - '{''value'': ''Attended with colleagues''}'
+      required: true
+    - id: 13
+      name: visited_at
+      label: Visited at
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: visited_before_at
+      label: Visited before at
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: rated_at
+      label: Rated at
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: time_spent
+      label: Time spent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: visited_from_others
+      label: Visited from others
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: visited_from_others_other
+      label: Visited from others other
+      hint: null
+      type: text
+      options: []
+      required: false

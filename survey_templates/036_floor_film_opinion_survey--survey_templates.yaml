@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Floor Film Opinion Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: film_type
+      label: Film Type
+      hint: null
+      type: select_one
+      options:
+      - Film
+      - Digital
+      required: true
+    - id: 3
+      name: frequency_of_screening
+      label: Frequency of Screening
+      hint: null
+      type: select_multiple
+      options:
+      - Often
+      - Occasionally
+      - Rarely
+      required: true
+    - id: 4
+      name: usage_patterns
+      label: Usage Patterns
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: preferences
+      label: Preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: select_multiple
+      options:
+      - Provide
+      - Improve
+      - Improve and Provide
+      required: true
+    - id: 8
+      name: contact
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: facility_manager
+      label: Facility Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: facility_location
+      label: Facility Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: facility_notes
+      label: Facility Notes
+      hint: null
+      type: note
+      options: []
+      required: false

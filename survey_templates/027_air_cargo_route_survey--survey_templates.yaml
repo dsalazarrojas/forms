@@ -1,0 +1,130 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Air Cargo Route Survey
+    pages:
+    - id: 1
+      name: company_info_header
+      label: -- Company Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: Name and Title
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: cargo_type
+      label: Primary Cargo Type
+      hint: What do you ship?
+      type: select_one
+      options:
+      - General Cargo
+      - Perishables
+      - Pharmaceuticals
+      - Dangerous Goods (Hazmat)
+      - Live Animals
+      - E-commerce
+      required: true
+    - id: 5
+      name: current_routes_header
+      label: -- Current Operations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: current_routes
+      label: Major Routes Used
+      hint: Origin - Destination
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: shipment_frequency
+      label: Frequency of Shipments
+      hint: How often do you ship?
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Ad-hoc
+      required: true
+    - id: 8
+      name: annual_volume
+      label: Annual Volume
+      hint: In Tons or TEUs
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: satisfaction
+      label: Satisfaction with Current Routes
+      hint: Overall rating
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 10
+      name: route_development_header
+      label: -- Route Development --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: new_destinations
+      label: Desired New Destinations
+      hint: Where do you need to go?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: challenges
+      label: Current Challenges
+      hint: Select top issues
+      type: select_multiple
+      options:
+      - High Cost
+      - Flight Delays
+      - Capacity Shortages
+      - Customs Clearance
+      - Last Mile Delivery
+      required: true
+    - id: 13
+      name: priority
+      label: Priority for New Routes
+      hint: How urgent is this need?
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true

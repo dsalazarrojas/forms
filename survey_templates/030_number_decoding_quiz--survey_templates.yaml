@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Number Decoding Quiz
+    pages:
+    - id: 1
+      name: first_number_response
+      label: First number response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_number_response_correct
+      label: Correct response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: number_patterns
+      label: Number patterns
+      hint: null
+      type: select_multiple
+      options:
+      - Number pattern 1
+      - Number pattern 2
+      - Number pattern 3
+      required: false
+    - id: 4
+      name: first_number_response_is_correct
+      label: First number response is correct
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
+      name: second_number_response
+      label: Second number response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: number_decoding_score
+      label: Number decoding score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: second_number_response_correct
+      label: Second number response correct
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: total_score
+      label: Total score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

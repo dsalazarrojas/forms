@@ -1,0 +1,199 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Patient Task Observation Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: therapist_name
+      label: therapist_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: visit_date
+      label: visit_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: task_observation
+      label: task_observation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: observation_scale
+      label: observation_scale
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 1}'
+      - '{''id'': 2, ''label'': 2}'
+      - '{''id'': 3, ''label'': 3}'
+      required: true
+    - id: 7
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: task_status
+      label: task_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Complete''}'
+      - '{''id'': 2, ''label'': ''Partially Complete''}'
+      - '{''id'': 3, ''label'': ''Not Complete''}'
+      required: true
+    - id: 9
+      name: therapy_type
+      label: therapy_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Inpatient''}'
+      - '{''id'': 2, ''label'': ''Home Care''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 10
+      name: therapy_session
+      label: therapy_session
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: follow_up_scheduled
+      label: follow_up_scheduled
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_completed
+      label: follow_up_completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_notes
+      label: follow_up_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: next_visit_scheduled
+      label: next_visit_scheduled
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: next_visit_completed
+      label: next_visit_completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: next_visit_notes
+      label: next_visit_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: discharge_status
+      label: discharge_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Discharged''}'
+      - '{''id'': 2, ''label'': ''Discharged to Other''}'
+      - '{''id'': 3, ''label'': ''Not Discharged''}'
+      required: true
+    - id: 18
+      name: discharge_date
+      label: discharge_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: discharge_notes
+      label: discharge_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: review_date
+      label: review_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: review_by
+      label: review_by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: review_notes
+      label: review_notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: task_status_review
+      label: task_status_review
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Complete''}'
+      - '{''id'': 2, ''label'': ''Partially Complete''}'
+      - '{''id'': 3, ''label'': ''Not Complete''}'
+      required: true
+    - id: 24
+      name: review_comments
+      label: review_comments
+      hint: null
+      type: text
+      options: []
+      required: false

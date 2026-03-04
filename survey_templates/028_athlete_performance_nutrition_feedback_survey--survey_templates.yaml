@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Performance Nutrition Feedback Survey
+    pages:
+    - id: 1
+      name: nutrition_habits_header
+      label: -- Daily Nutrition Habits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: athlete_name
+      label: Athlete Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: primary_sport
+      label: Primary Sport
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: nutritionist_name
+      label: Nutritionist or Advisor Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: daily_meal_count
+      label: How many full meals do you consume daily?
+      hint: Excluding small snacks
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: breakfast_consistency
+      label: Do you consistently eat a balanced breakfast?
+      hint: null
+      type: select_one
+      options:
+      - Yes, every day
+      - Most days (5-6 days/week)
+      - Sometimes (3-4 days/week)
+      - Rarely or Never
+      required: true
+    - id: 7
+      name: training_nutrition_header
+      label: -- Pre and Post Training Nutrition --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: pre_training_meal
+      label: Typical Pre-Training Meal or Snack
+      hint: Describe what you usually eat before training
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: pre_training_timing
+      label: Timing of Pre-Training Meal
+      hint: How long before training do you eat?
+      type: select_one
+      options:
+      - Less than 30 minutes before
+      - 30 to 60 minutes before
+      - 1 to 2 hours before
+      - More than 2 hours before
+      required: true
+    - id: 10
+      name: post_training_meal
+      label: Typical Post-Training Meal or Snack
+      hint: Describe what you usually eat after training
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: post_training_timing
+      label: Timing of Post-Training Meal
+      hint: How soon after training do you consume this?
+      type: select_one
+      options:
+      - Immediately (within 15 mins)
+      - 15 to 45 minutes after
+      - 45 to 90 minutes after
+      - Over 90 minutes after
+      required: true
+    - id: 12
+      name: hydration_supplements_header
+      label: -- Hydration and Supplements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: daily_water_intake
+      label: Estimated Daily Water Intake - Liters
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: sports_drink_use
+      label: Do you use sports drinks or electrolytes during training?
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Often
+      - Sometimes
+      - Rarely or Never
+      required: true
+    - id: 15
+      name: supplement_list
+      label: List any Supplements you currently take
+      hint: e.g. Protein powder, Creatine, Omega-3, Multivitamins
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: satisfaction_challenges_header
+      label: -- Plan Satisfaction and Challenges --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: nutrition_plan_satisfaction
+      label: Overall Satisfaction with your current Nutrition Plan
+      hint: 1 is Not Satisfied, 5 is Very Satisfied
+      type: select_one
+      options:
+      - 1 - Dissatisfied
+      - 2 - Slightly Satisfied
+      - 3 - Neutral
+      - 4 - Satisfied
+      - 5 - Very Satisfied
+      required: true
+    - id: 18
+      name: adherence_ease
+      label: Ease of Following the Nutrition Plan
+      hint: 1 is Very Difficult, 5 is Very Easy
+      type: select_one
+      options:
+      - 1 - Very Difficult
+      - 2 - Difficult
+      - 3 - Neutral
+      - 4 - Easy
+      - 5 - Very Easy
+      required: true
+    - id: 19
+      name: nutrition_challenges
+      label: What is your main challenge in maintaining your diet?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Time and Scheduling
+      - Financial Cost
+      - Limited Cooking Skills
+      - Social Situations / Eating Out
+      - Availability of Healthy Food Options
+      - Picky Eating Habits
+      required: true
+    - id: 20
+      name: energy_support_feeling
+      label: Do you feel your current nutrition supports your training energy levels?
+      hint: null
+      type: select_one
+      options:
+      - Yes, completely
+      - Mostly
+      - Somewhat
+      - No, I feel fatigued
+      required: true
+    - id: 21
+      name: learning_interest
+      label: Specific Nutrition Topic you want to learn more about
+      hint: e.g. Macronutrient balance, Micronutrients, Hydration strategy
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Any additional comments or feedback for the nutrition team?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: survey_date
+      label: Date of Survey Completion
+      hint: null
+      type: date
+      options: []
+      required: true

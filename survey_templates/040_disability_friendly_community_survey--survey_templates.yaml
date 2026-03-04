@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disability-Friendly Community Survey
+    pages:
+    - id: 1
+      name: survey_questions
+      label: Survey Questions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: accessibility_barriers
+      label: Accessibility Barriers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: barriers_experienced
+      label: Barriers Experienced
+      hint: List the specific barriers that have been experienced
+      type: select_multiple
+      options:
+      - None
+      - None
+      - None
+      required: false
+    - id: 4
+      name: suggestions_improvement
+      label: Suggestions for Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: community_services
+      label: Community Services
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 6
+      name: service_areas
+      label: Service Areas
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 7
+      name: service_areas_other
+      label: Service Areas Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: demographic_data
+      label: Demographic Data
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: demographic_data_other
+      label: Demographic Data Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email_addresses
+      label: Email Addresses
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: confirm_submission
+      label: Confirm Submission
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
