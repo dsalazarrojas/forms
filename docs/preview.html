@@ -95,7 +95,7 @@
                         📄 Raw YAML
                     </button>
                     <button class="tab-btn tab-inactive py-4 px-6 font-medium" data-tab="odk">
-                        📱 ODK Collect Mock
+                        📱 GIC Collect / ODK Mock
                     </button>
                     <button class="tab-btn tab-inactive py-4 px-6 font-medium" data-tab="deploy">
                         🚀 Deploy
@@ -128,17 +128,17 @@
                 <!-- ODK Mock Tab -->
                 <div id="tab-odk" class="tab-content hidden">
                     <div class="bg-gray-100 rounded-lg p-6">
-                        <h3 class="text-lg font-semibold mb-4">ODK Collect Preview</h3>
+                        <h3 class="text-lg font-semibold mb-4">GIC Collect / ODK Collect Preview</h3>
                         <div class="max-w-md mx-auto bg-white rounded-lg shadow-lg overflow-hidden">
                             <div class="bg-green-600 text-white px-4 py-3">
-                                <div class="text-sm font-semibold">ODK Collect</div>
+                                <div class="text-sm font-semibold">GIC Collect / ODK Collect</div>
                             </div>
                             <div id="odk-mock-content" class="p-4">
                                 <!-- ODK mock will be rendered here -->
                             </div>
                         </div>
                         <p class="text-sm text-gray-600 mt-4 text-center">
-                            This shows how the form would appear in ODK Collect or GicCollect app.
+                            This shows how the form would appear in <a href="https://apps.apple.com/us/app/gic-collect/id1485932698" class="text-indigo-600 hover:text-indigo-800" target="_blank" rel="noopener">GIC Collect</a> or ODK Collect.
                         </p>
                     </div>
                 </div>
@@ -146,20 +146,20 @@
                 <!-- Deploy Tab -->
                 <div id="tab-deploy" class="tab-content hidden">
                     <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-                        <!-- GicCollectCreator -->
+                        <!-- GIC XLSForm Creation -->
                         <div class="border border-gray-200 rounded-lg p-6">
                             <div class="flex items-center mb-4">
                                 <span class="text-3xl mr-3">📱</span>
                                 <div>
-                                    <h3 class="font-semibold text-lg">GicCollectCreator (iOS)</h3>
+                                    <h3 class="font-semibold text-lg">GIC XLSForm Creation (iOS)</h3>
                                     <p class="text-sm text-gray-600">Convert to Google Forms, Tally, Formbricks</p>
                                 </div>
                             </div>
                             <p class="text-sm text-gray-600 mb-4">
-                                Open this form directly in GicCollectCreator to edit and publish to your preferred platform.
+                                Open this form directly in GIC XLSForm Creation to edit and publish to Google Forms, Tally, or Formbricks in one tap.
                             </p>
                             <a id="open-giccollectcreator" href="#" class="block text-center bg-blue-600 hover:bg-blue-700 text-white font-medium py-2 px-4 rounded-md transition">
-                                Open in App
+                                Open in GIC XLSForm Creation
                             </a>
                         </div>
                         
@@ -180,20 +180,20 @@
                             </a>
                         </div>
                         
-                        <!-- GicCollect -->
+                        <!-- GIC Collect -->
                         <div class="border border-gray-200 rounded-lg p-6">
                             <div class="flex items-center mb-4">
                                 <span class="text-3xl mr-3">📋</span>
                                 <div>
-                                    <h3 class="font-semibold text-lg">GicCollect (iOS)</h3>
+                                    <h3 class="font-semibold text-lg">GIC Collect (iOS)</h3>
                                     <p class="text-sm text-gray-600">Offline data collection</p>
                                 </div>
                             </div>
                             <p class="text-sm text-gray-600 mb-4">
-                                Import this form for offline field data collection with ODK compatibility.
+                                Import this form for offline field data collection — compatible with GIC Collect and ODK Collect.
                             </p>
                             <a id="import-giccollect" href="#" class="block text-center bg-green-600 hover:bg-green-700 text-white font-medium py-2 px-4 rounded-md transition">
-                                Import to GicCollect
+                                Import to GIC Collect
                             </a>
                         </div>
                         
@@ -207,7 +207,7 @@
                                 </div>
                             </div>
                             <p class="text-sm text-gray-600 mb-4">
-                                Download the XLSForm file for use with ODK Collect, ODK Central, or other XLSForm-compatible tools.
+                                Download the XLSForm file for use with GIC Collect, ODK Collect, ODK Central, or other XLSForm-compatible tools.
                             </p>
                             <button id="download-xlsx-btn" class="block w-full text-center bg-indigo-600 hover:bg-indigo-700 text-white font-medium py-2 px-4 rounded-md transition">
                                 Download XLSX
@@ -261,7 +261,7 @@
                 &copy; 2026 Daniel Salazar Rojas. Forms licensed under CC BY 4.0. Code licensed under MIT.
             </p>
             <p class="text-sm text-gray-500 mt-2">
-                Not affiliated with Jotform, Google Forms, ODK Collect, Tally, Formbricks, or Cloudflare.
+                Not affiliated with Jotform, Google Forms, ODK Collect, Tally, Formbricks, or Cloudflare. GIC Collect and GIC XLSForm Creation are products of GIC.mx.
             </p>
         </div>
     </footer>
